@@ -29,8 +29,11 @@ So this is the source of truth. The app repository links to the live URL.
 Settings → Pages → deploy from the `main` branch, root. No Jekyll needed; these
 are plain files.
 
-## Before publishing
+## Contact
 
-`privacy.html` carries a highlighted **ADD A CONTACT ADDRESS BEFORE PUBLISHING**
-placeholder. A privacy policy needs a working contact, and a personal address on
-a public page invites spam — a dedicated one is the cheap answer.
+`support.terra.app@proton.me` — a dedicated address rather than a personal one,
+because this page is linked from an App Store listing and a listing outlives
+anyone's interest in answering mail at the address on it.
+
+The same address takes TestFlight feedback, so tester replies, App Review
+correspondence and privacy enquiries all arrive in one place.
