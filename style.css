@@ -1,0 +1,71 @@
+/*
+ * The published pages, in the app's own paper and ink.
+ *
+ * Self-contained on purpose: no font host, no CDN, no analytics. A privacy
+ * policy that loads a third-party asset to tell you nothing is loaded from
+ * third parties would be a poor start, and Apple's reviewer fetches this page.
+ */
+:root {
+  --paper: #fffdf7;
+  --card: #f0ede3;
+  --ink: #12100e;
+  --ink-muted: #2a2724;
+  --ink-faint: #5c5750;
+  --rule: #d7d3c9;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #12100e;
+    --card: #1c1a17;
+    --ink: #fffdf7;
+    --ink-muted: #ddd8cc;
+    --ink-faint: #9a938a;
+    --rule: #34302a;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 3rem 1.25rem 6rem;
+  background: var(--paper);
+  color: var(--ink-muted);
+  font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+main { max-width: 40rem; margin: 0 auto; }
+
+h1, h2 { color: var(--ink); line-height: 1.25; text-wrap: balance; }
+h1 { font-size: 2rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+h2 { font-size: 1.15rem; margin: 2.75rem 0 .75rem; }
+
+.updated { color: var(--ink-faint); font-size: .9rem; margin: 0 0 2.5rem; }
+
+/* The summary a reader should be able to stop after. */
+.lede {
+  background: var(--card);
+  border-left: 3px solid var(--ink);
+  padding: 1.1rem 1.25rem;
+  margin: 0 0 1rem;
+}
+.lede p { margin: 0 0 .75rem; }
+.lede p:last-child { margin: 0; }
+
+strong { color: var(--ink); }
+a { color: var(--ink); text-underline-offset: 2px; }
+
+ul { padding-left: 1.2rem; }
+li { margin: .4rem 0; }
+
+hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0 1.5rem; }
+footer { color: var(--ink-faint); font-size: .9rem; }
+
+/* Deliberately loud. This must not survive to a published page unnoticed. */
+.todo {
+  background: #ffe8a3;
+  color: #12100e;
+  padding: .15rem .4rem;
+  font-weight: 700;
+}

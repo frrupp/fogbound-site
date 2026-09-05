@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Terra Incognita</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+
+<h1>Privacy Policy</h1>
+<p class="updated">Terra Incognita · last updated 5 September 2026</p>
+
+<div class="lede">
+  <p>Terra Incognita records where you have walked so it can clear the fog on
+  your map. <strong>That record never leaves your phone.</strong> There is no
+  account, no server, no analytics, and nothing is uploaded anywhere.</p>
+  <p>One thing does reach the internet: the map itself is drawn from tiles
+  fetched from OpenFreeMap. That is explained below, because it is the single
+  place this policy cannot claim that nothing leaves your device.</p>
+</div>
+
+<h2>What the app records</h2>
+<p>While tracking is on, the app stores on your phone:</p>
+<ul>
+  <li><strong>Positions</strong> from your device's location services —
+    latitude, longitude, accuracy and a timestamp.</li>
+  <li><strong>Which parts of the map you have uncovered</strong>, derived from
+    those positions.</li>
+  <li><strong>A diagnostic log</strong> of what the app did: timings, map zoom
+    levels and counts. It does not contain your coordinates.</li>
+</ul>
+<p>All of it lives in a database inside the app's own storage on your device.
+Nobody else can read it, including the developer.</p>
+
+<h2>What leaves your phone</h2>
+<p><strong>Map tiles, and nothing else.</strong> The map is drawn using data
+from <a href="https://openfreemap.org/">OpenFreeMap</a>. To draw the part of the
+map you are looking at, your phone asks that service for the tiles covering it.</p>
+<p>That request necessarily tells OpenFreeMap <strong>which part of the world
+you are looking at</strong>, along with your IP address, in the same way that
+loading any web page tells the server you loaded it. It is not your recorded
+history and it is not tied to an identity, but it is an approximation of where
+you are, and it would be dishonest to describe it as nothing. Requests are
+handled under OpenFreeMap's own terms.</p>
+<p>Everything else the map needs — the neighbourhood and district boundaries
+used to work out where you have been — is <strong>bundled inside the app</strong>.
+Asking "which neighbourhood am I in?" is answered on your phone, without a
+network request.</p>
+<p>There is no analytics service, no advertising, no crash reporter, no tracking
+of any kind, and no third-party code that phones home. The app's iOS privacy
+manifest declares no collected data types and no tracking, and that is accurate.</p>
+
+<h2>Location, and why the app asks for background access</h2>
+<p>The app asks for location access <strong>while in use</strong> and,
+separately, <strong>always</strong>.</p>
+<p>The "always" permission exists for one reason: this app records walks. If it
+could only see your location while it was open on screen, you would have to hold
+your phone in front of you for the whole walk, and everything else would be
+missed. Background access is what lets the map fill in while the app is in your
+pocket.</p>
+<p>You can decline it, or grant only "while in use", and the app still works — it
+simply records less. You can change or revoke this at any time in iOS Settings.</p>
+
+<h2>When you choose to share something</h2>
+<p>The app has two share buttons. Both do something only when you tap them, and
+both hand the file to the iOS share sheet — <strong>you</strong> choose where it
+goes.</p>
+<ul>
+  <li><strong>Export history</strong> produces a file containing your complete
+    recorded history, including raw positions. This exists so you can move your
+    map to a new phone and so you can take your data with you. Treat the file as
+    personal: it is a record of your movements.</li>
+  <li><strong>Share diagnostics</strong> produces the log described above —
+    timings and counts, no coordinates. This is the one to send if you are
+    reporting a problem.</li>
+</ul>
+<p>Neither is ever sent automatically, and neither reaches the developer unless
+you send it.</p>
+
+<h2>While the app is in TestFlight</h2>
+<p>During beta testing, Apple provides the developer with:</p>
+<ul>
+  <li>the <strong>email address</strong> you used to accept the TestFlight
+    invitation;</li>
+  <li><strong>crash reports</strong>, and any feedback or screenshots you choose
+    to submit through TestFlight.</li>
+</ul>
+<p>This is Apple's process rather than the app's, and it is covered by Apple's
+privacy policy as well as this one. The email address is used only to manage
+beta access and is not added to any mailing list.</p>
+
+<h2>Deleting your data</h2>
+<p>Delete the app. iOS removes its entire storage container with it, and the
+recorded history is gone from the device. There is no copy anywhere else to
+delete, because no copy was ever made.</p>
+
+<h2>Your rights</h2>
+<p>The app is developed in Berlin, Germany, and the GDPR / DSGVO applies.</p>
+<p>Because your walking history stays on your own device and is never
+transmitted, the developer holds none of it and cannot access, correct, export
+or erase it on your behalf — you already hold the only copy, the export button
+is your right to data portability, and deleting the app is your right to
+erasure.</p>
+<p>Where the developer <em>does</em> hold personal data — your beta tester email
+address, and anything you actively send — you have the usual rights of access,
+rectification, erasure, restriction, portability and objection, and the right to
+complain to a supervisory authority. Use the contact below.</p>
+
+<h2>Children</h2>
+<p>The app is not directed at children and collects nothing that would identify
+anyone.</p>
+
+<h2>Changes to this policy</h2>
+<p>If what the app does with data changes, this document changes with it, and
+the date at the top moves. Material changes will be mentioned in the app's
+release notes rather than made quietly.</p>
+
+<h2>Contact</h2>
+<p><span class="todo">ADD A CONTACT ADDRESS BEFORE PUBLISHING</span></p>
+
+<hr>
+<footer>
+  <p><a href="./">Terra Incognita</a></p>
+</footer>
+
+</main>
+</body>
+</html>
