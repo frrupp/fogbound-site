@@ -1,6 +1,6 @@
-# terra-incognita-site
+# fogbound-site
 
-The published pages for **Terra Incognita**, an iOS app.
+The published pages for **Fogbound**, an iOS app.
 
 **This repository is public on purpose, and holds nothing else.** The app's
 source lives in a separate private repository. Keeping the two apart is the
