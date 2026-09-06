@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "note": "Absolute pack URLs on purpose: this file is the only URL a shipped app has baked in, so everything it points at must be free to move.",
+  "regions": [
+    {
+      "id": "baden-wuerttemberg",
+      "name": "Baden-Württemberg",
+      "builtAt": "2026-09-06T09:27:34.029Z",
+      "bounds": [
+        7.51179,
+        47.5324,
+        10.49563,
+        49.79128
+      ],
+      "neighbourhoods": 2514,
+      "features": 8021,
+      "bytes": 23476431,
+      "url": "https://frrupp.github.io/fogbound-packs/regions/baden-wuerttemberg.json"
+    }
+  ]
+}

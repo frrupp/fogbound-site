@@ -10,15 +10,16 @@
 <main>
 
 <h1>Privacy Policy</h1>
-<p class="updated">Fogbound · last updated 5 September 2026</p>
+<p class="updated">Fogbound · last updated 6 September 2026</p>
 
 <div class="lede">
   <p>Fogbound records where you have walked so it can clear the fog on
   your map. <strong>That record never leaves your phone.</strong> There is no
   account, no server, no analytics, and nothing is uploaded anywhere.</p>
-  <p>One thing does reach the internet: the map itself is drawn from tiles
-  fetched from OpenFreeMap. That is explained below, because it is the single
-  place this policy cannot claim that nothing leaves your device.</p>
+  <p>Two things do reach the internet: the map itself is drawn from tiles
+  fetched from OpenFreeMap, and you can download the neighbourhood data for a
+  region you want statistics in. Both are explained below, because they are the
+  only places this policy cannot claim that nothing leaves your device.</p>
 </div>
 
 <h2>What the app records</h2>
@@ -35,7 +36,7 @@
 Nobody else can read it, including the developer.</p>
 
 <h2>What leaves your phone</h2>
-<p><strong>Map tiles, and nothing else.</strong> The map is drawn using data
+<p><strong>Map tiles.</strong> The map is drawn using data
 from <a href="https://openfreemap.org/">OpenFreeMap</a>. To draw the part of the
 map you are looking at, your phone asks that service for the tiles covering it.</p>
 <p>That request necessarily tells OpenFreeMap <strong>which part of the world
@@ -44,10 +45,22 @@ loading any web page tells the server you loaded it. It is not your recorded
 history and it is not tied to an identity, but it is an approximation of where
 you are, and it would be dishonest to describe it as nothing. Requests are
 handled under OpenFreeMap's own terms.</p>
-<p>Everything else the map needs — the neighbourhood and district boundaries
-used to work out where you have been — is <strong>bundled inside the app</strong>.
-Asking "which neighbourhood am I in?" is answered on your phone, without a
-network request.</p>
+<p><strong>Region downloads, if you ask for one.</strong> The neighbourhood and
+district boundaries used to work out where you have been are what the Progress
+tab needs. Berlin and Hamburg are <strong>bundled inside the app</strong> and
+need no network at all. Larger regions are too big to ship to everybody — the
+data for Baden-Württemberg alone is around 22 megabytes — so you can download
+one if you want statistics there.</p>
+<p>That download is a request for <strong>a file you chose from a list</strong>,
+by name. It tells GitHub, which hosts the file, that somebody asked for that
+region, along with your IP address. It does not say where you are: the app
+downloads the whole list of available regions and works out which one you need
+<strong>on your phone</strong>, so your position is never sent anywhere to
+answer it. This reveals less than the map tiles above already do, and you can
+avoid it entirely by not downloading a region — the map and the fog work
+everywhere without one.</p>
+<p>Once downloaded, a region is stored on your phone and answering "which
+neighbourhood am I in?" needs no network request at all.</p>
 <p>There is no analytics service, no advertising, no crash reporter, no tracking
 of any kind, and no third-party code that phones home. The app's iOS privacy
 manifest declares no collected data types and no tracking, and that is accurate.</p>
