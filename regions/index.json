@@ -3,6 +3,36 @@
   "note": "Absolute pack URLs on purpose: this file is the only URL a shipped app has baked in, so everything it points at must be free to move.",
   "regions": [
     {
+      "id": "berlin",
+      "name": "Berlin",
+      "builtAt": "2026-08-26T14:58:12.522Z",
+      "bounds": [
+        13.08835,
+        52.33827,
+        13.76116,
+        52.67551
+      ],
+      "neighbourhoods": 97,
+      "features": 1432,
+      "bytes": 1457236,
+      "url": "https://frrupp.github.io/fogbound-packs/regions/berlin.json"
+    },
+    {
+      "id": "hamburg",
+      "name": "Hamburg",
+      "builtAt": "2026-09-06T07:22:16.874Z",
+      "bounds": [
+        8.1045,
+        53.39511,
+        10.32528,
+        54.02765
+      ],
+      "neighbourhoods": 104,
+      "features": 796,
+      "bytes": 989788,
+      "url": "https://frrupp.github.io/fogbound-packs/regions/hamburg.json"
+    },
+    {
       "id": "baden-wuerttemberg",
       "name": "Baden-Württemberg",
       "builtAt": "2026-09-06T09:27:34.029Z",
