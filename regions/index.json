@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "note": "Absolute pack URLs on purpose: this file is the only URL a shipped app has baked in, so everything it points at must be free to move.",
+  "note": "Absolute pack URLs on purpose: this file is the only URL a shipped app has baked in, so everything it points at must be free to move. \"wire\" is the gzipped transfer size, \"bytes\" the size on disk once stored.",
   "regions": [
     {
       "id": "berlin",
@@ -15,6 +15,7 @@
       "neighbourhoods": 97,
       "features": 1432,
       "bytes": 1457236,
+      "wire": 321312,
       "url": "https://frrupp.github.io/fogbound-packs/regions/berlin.json"
     },
     {
@@ -30,6 +31,7 @@
       "neighbourhoods": 104,
       "features": 796,
       "bytes": 989788,
+      "wire": 213626,
       "url": "https://frrupp.github.io/fogbound-packs/regions/hamburg.json"
     },
     {
@@ -45,6 +47,7 @@
       "neighbourhoods": 2514,
       "features": 8021,
       "bytes": 23476431,
+      "wire": 5101382,
       "url": "https://frrupp.github.io/fogbound-packs/regions/baden-wuerttemberg.json"
     }
   ]
