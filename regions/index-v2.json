@@ -9,6 +9,7 @@
     "de": "https://frrupp.github.io/fogbound-site/regions/outlines/de.json",
     "es": "https://frrupp.github.io/fogbound-site/regions/outlines/es.json",
     "fr": "https://frrupp.github.io/fogbound-site/regions/outlines/fr.json",
+    "gb": "https://frrupp.github.io/fogbound-site/regions/outlines/gb.json",
     "hr": "https://frrupp.github.io/fogbound-site/regions/outlines/hr.json",
     "hu": "https://frrupp.github.io/fogbound-site/regions/outlines/hu.json",
     "ie": "https://frrupp.github.io/fogbound-site/regions/outlines/ie.json",
@@ -629,6 +630,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/ie-longford.json"
     },
     {
+      "id": "gb-armagh",
+      "name": "County Armagh",
+      "builtAt": "2026-09-21T05:35:03.647Z",
+      "bounds": [
+        -6.87804,
+        54.03646,
+        -6.29187,
+        54.52095
+      ],
+      "neighbourhoods": 961,
+      "features": 169,
+      "bytes": 1864599,
+      "wire": 404501,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-armagh.json"
+    },
+    {
       "id": "ch-solothurn",
       "name": "Solothurn",
       "builtAt": "2026-09-17T19:28:08.532Z",
@@ -1093,6 +1110,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/es-bizkaia.json"
     },
     {
+      "id": "gb-fermanagh",
+      "name": "County Fermanagh",
+      "builtAt": "2026-09-21T05:34:03.405Z",
+      "bounds": [
+        -8.17751,
+        54.11328,
+        -7.14152,
+        54.61054
+      ],
+      "neighbourhoods": 2303,
+      "features": 368,
+      "bytes": 3360535,
+      "wire": 704329,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-fermanagh.json"
+    },
+    {
       "id": "ie-waterford",
       "name": "County Waterford",
       "builtAt": "2026-09-20T19:47:36.141Z",
@@ -1155,6 +1188,22 @@
       "bytes": 1300251,
       "wire": 311507,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/at-vorarlberg.json"
+    },
+    {
+      "id": "gb-londonderry",
+      "name": "County Derry/Londonderry",
+      "builtAt": "2026-09-21T07:26:18.666Z",
+      "bounds": [
+        -7.40744,
+        54.62827,
+        -6.45781,
+        55.20026
+      ],
+      "neighbourhoods": 1259,
+      "features": 223,
+      "bytes": 2541377,
+      "wire": 554159,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-londonderry.json"
     },
     {
       "id": "ie-sligo",
@@ -1541,6 +1590,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/hu-nograd.json"
     },
     {
+      "id": "gb-down",
+      "name": "County Down",
+      "builtAt": "2026-09-21T05:35:16.641Z",
+      "bounds": [
+        -6.40035,
+        54.02289,
+        -5.42682,
+        54.69924
+      ],
+      "neighbourhoods": 1337,
+      "features": 407,
+      "bytes": 3030233,
+      "wire": 671146,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-down.json"
+    },
+    {
       "id": "nl-limburg",
       "name": "Limburg",
       "builtAt": "2026-09-18T10:44:51.124Z",
@@ -1781,6 +1846,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/ie-roscommon.json"
     },
     {
+      "id": "gb-antrim",
+      "name": "County Antrim",
+      "builtAt": "2026-09-21T05:35:20.175Z",
+      "bounds": [
+        -6.66899,
+        54.47729,
+        -5.68796,
+        55.31309
+      ],
+      "neighbourhoods": 1741,
+      "features": 335,
+      "bytes": 3361153,
+      "wire": 728580,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-antrim.json"
+    },
+    {
       "id": "hu-fejer",
       "name": "Fejér vármegye",
       "builtAt": "2026-09-20T07:44:01.149Z",
@@ -1971,6 +2052,22 @@
       "bytes": 743033,
       "wire": 164666,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/hu-heves.json"
+    },
+    {
+      "id": "gb-tyrone",
+      "name": "County Tyrone",
+      "builtAt": "2026-09-21T05:35:19.924Z",
+      "bounds": [
+        -7.92089,
+        54.32531,
+        -6.4987,
+        54.94498
+      ],
+      "neighbourhoods": 2170,
+      "features": 255,
+      "bytes": 3838439,
+      "wire": 816203,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-20-b/gb-tyrone.json"
     },
     {
       "id": "hu-vas",
