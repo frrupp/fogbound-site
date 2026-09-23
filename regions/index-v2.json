@@ -5,6 +5,7 @@
     "at": "https://frrupp.github.io/fogbound-site/regions/outlines/at.json",
     "ba": "https://frrupp.github.io/fogbound-site/regions/outlines/ba.json",
     "be": "https://frrupp.github.io/fogbound-site/regions/outlines/be.json",
+    "bg": "https://frrupp.github.io/fogbound-site/regions/outlines/bg.json",
     "ch": "https://frrupp.github.io/fogbound-site/regions/outlines/ch.json",
     "cy": "https://frrupp.github.io/fogbound-site/regions/outlines/cy.json",
     "cz": "https://frrupp.github.io/fogbound-site/regions/outlines/cz.json",
@@ -13,6 +14,7 @@
     "es": "https://frrupp.github.io/fogbound-site/regions/outlines/es.json",
     "fr": "https://frrupp.github.io/fogbound-site/regions/outlines/fr.json",
     "gb": "https://frrupp.github.io/fogbound-site/regions/outlines/gb.json",
+    "gr": "https://frrupp.github.io/fogbound-site/regions/outlines/gr.json",
     "hr": "https://frrupp.github.io/fogbound-site/regions/outlines/hr.json",
     "hu": "https://frrupp.github.io/fogbound-site/regions/outlines/hu.json",
     "ie": "https://frrupp.github.io/fogbound-site/regions/outlines/ie.json",
@@ -25,6 +27,7 @@
     "nl": "https://frrupp.github.io/fogbound-site/regions/outlines/nl.json",
     "pl": "https://frrupp.github.io/fogbound-site/regions/outlines/pl.json",
     "pt": "https://frrupp.github.io/fogbound-site/regions/outlines/pt.json",
+    "ro": "https://frrupp.github.io/fogbound-site/regions/outlines/ro.json",
     "rs": "https://frrupp.github.io/fogbound-site/regions/outlines/rs.json",
     "sk": "https://frrupp.github.io/fogbound-site/regions/outlines/sk.json"
   },
@@ -188,6 +191,22 @@
       "bytes": 493257,
       "wire": 99948,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-val-de-marne.json"
+    },
+    {
+      "id": "ro-bucuresti",
+      "name": "București",
+      "builtAt": "2026-09-23T05:46:40.747Z",
+      "bounds": [
+        25.96667,
+        44.33425,
+        26.22558,
+        44.5414
+      ],
+      "neighbourhoods": 6,
+      "features": 220,
+      "bytes": 258553,
+      "wire": 50823,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-bucuresti.json"
     },
     {
       "id": "fr-seine-saint-denis",
@@ -926,6 +945,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ch-solothurn.json"
     },
     {
+      "id": "bg-sofia-city",
+      "name": "София-град",
+      "builtAt": "2026-09-23T06:04:12.001Z",
+      "bounds": [
+        23.05108,
+        42.41237,
+        23.67867,
+        42.89656
+      ],
+      "neighbourhoods": 56,
+      "features": 245,
+      "bytes": 1012324,
+      "wire": 247638,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-sofia-city.json"
+    },
+    {
       "id": "de-bremen",
       "name": "Bremen",
       "builtAt": "2026-09-17T19:32:45.464Z",
@@ -1022,6 +1057,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ch-zuerich.json"
     },
     {
+      "id": "ro-ilfov",
+      "name": "Ilfov",
+      "builtAt": "2026-09-23T05:50:12.824Z",
+      "bounds": [
+        25.82442,
+        44.23449,
+        26.45847,
+        44.76893
+      ],
+      "neighbourhoods": 40,
+      "features": 202,
+      "bytes": 599812,
+      "wire": 144651,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-ilfov.json"
+    },
+    {
       "id": "gb-greater-london",
       "name": "Greater London",
       "builtAt": "2026-09-21T15:14:02.246Z",
@@ -1084,6 +1135,22 @@
       "bytes": 1793052,
       "wire": 365752,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ie-laois.json"
+    },
+    {
+      "id": "bg-gabrovo",
+      "name": "Габрово",
+      "builtAt": "2026-09-23T05:58:03.783Z",
+      "bounds": [
+        24.86762,
+        42.73367,
+        25.63425,
+        43.19406
+      ],
+      "neighbourhoods": 84,
+      "features": 60,
+      "bytes": 835595,
+      "wire": 193825,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-gabrovo.json"
     },
     {
       "id": "hr-varazdinska",
@@ -1422,6 +1489,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gb-east-sussex.json"
     },
     {
+      "id": "bg-pernik",
+      "name": "Перник",
+      "builtAt": "2026-09-23T06:00:18.327Z",
+      "bounds": [
+        22.43942,
+        42.36066,
+        23.29996,
+        42.89623
+      ],
+      "neighbourhoods": 12,
+      "features": 68,
+      "bytes": 551296,
+      "wire": 140435,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-pernik.json"
+    },
+    {
       "id": "pt-lisboa",
       "name": "Lisboa",
       "builtAt": "2026-09-20T12:16:37.316Z",
@@ -1758,6 +1841,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-kolubarski.json"
     },
     {
+      "id": "bg-targovishte",
+      "name": "Търговище",
+      "builtAt": "2026-09-23T06:05:22.514Z",
+      "bounds": [
+        25.94319,
+        42.95082,
+        26.80201,
+        43.55514
+      ],
+      "neighbourhoods": 186,
+      "features": 31,
+      "bytes": 1228045,
+      "wire": 279665,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-targovishte.json"
+    },
+    {
       "id": "hr-brodsko-posavska",
       "name": "Brodsko-posavska županija",
       "builtAt": "2026-09-20T12:15:46.401Z",
@@ -1884,6 +1983,22 @@
       "bytes": 873896,
       "wire": 206617,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-guadeloupe.json"
+    },
+    {
+      "id": "bg-razgrad",
+      "name": "Разград",
+      "builtAt": "2026-09-23T06:01:00.102Z",
+      "bounds": [
+        26.15333,
+        43.32641,
+        27.03525,
+        43.9526
+      ],
+      "neighbourhoods": 100,
+      "features": 19,
+      "bytes": 676813,
+      "wire": 146394,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-razgrad.json"
     },
     {
       "id": "de-saarland",
@@ -2126,6 +2241,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ch-st-gallen.json"
     },
     {
+      "id": "bg-vidin",
+      "name": "Видин",
+      "builtAt": "2026-09-23T05:56:03.087Z",
+      "bounds": [
+        22.35715,
+        43.38662,
+        23.05842,
+        44.21622
+      ],
+      "neighbourhoods": 29,
+      "features": 75,
+      "bytes": 617241,
+      "wire": 154477,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-vidin.json"
+    },
+    {
       "id": "lu-luxembourg",
       "name": "Luxembourg",
       "builtAt": "2026-09-21T18:52:51.282Z",
@@ -2318,6 +2449,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ie-offaly.json"
     },
     {
+      "id": "bg-kardzhali",
+      "name": "Кърджали",
+      "builtAt": "2026-09-23T05:58:10.096Z",
+      "bounds": [
+        24.99911,
+        41.23537,
+        25.95655,
+        41.90219
+      ],
+      "neighbourhoods": 7,
+      "features": 46,
+      "bytes": 523931,
+      "wire": 136028,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-kardzhali.json"
+    },
+    {
+      "id": "bg-silistra",
+      "name": "Силистра",
+      "builtAt": "2026-09-23T06:01:27.859Z",
+      "bounds": [
+        26.3648,
+        43.6628,
+        27.69559,
+        44.14858
+      ],
+      "neighbourhoods": 118,
+      "features": 29,
+      "bytes": 732625,
+      "wire": 151862,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-silistra.json"
+    },
+    {
       "id": "be-oost-vlaanderen",
       "name": "Oost-Vlaanderen",
       "builtAt": "2026-09-18T11:36:41.852Z",
@@ -2414,6 +2577,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gb-northamptonshire.json"
     },
     {
+      "id": "bg-montana",
+      "name": "Монтана",
+      "builtAt": "2026-09-23T05:59:14.765Z",
+      "bounds": [
+        22.74743,
+        43.10933,
+        23.63961,
+        43.85403
+      ],
+      "neighbourhoods": 31,
+      "features": 78,
+      "bytes": 804697,
+      "wire": 197379,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-montana.json"
+    },
+    {
       "id": "ba-srednjobosanski",
       "name": "Srednjobosanski kanton",
       "builtAt": "2026-09-22T19:37:05.526Z",
@@ -2476,6 +2655,22 @@
       "bytes": 1379580,
       "wire": 279572,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/nl-limburg.json"
+    },
+    {
+      "id": "bg-yambol",
+      "name": "Ямбол",
+      "builtAt": "2026-09-23T06:07:42.499Z",
+      "bounds": [
+        26.1684,
+        41.92596,
+        27.05964,
+        42.6977
+      ],
+      "neighbourhoods": 26,
+      "features": 28,
+      "bytes": 821433,
+      "wire": 210941,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-yambol.json"
     },
     {
       "id": "cz-karlovarsky",
@@ -2574,6 +2769,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ba-tuzlanski.json"
     },
     {
+      "id": "bg-smolyan",
+      "name": "Смолян",
+      "builtAt": "2026-09-23T06:02:27.864Z",
+      "bounds": [
+        24.0574,
+        41.31001,
+        25.18054,
+        41.93827
+      ],
+      "neighbourhoods": 10,
+      "features": 98,
+      "bytes": 637205,
+      "wire": 163038,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-smolyan.json"
+    },
+    {
       "id": "gb-staffordshire",
       "name": "Staffordshire",
       "builtAt": "2026-09-21T15:07:04.561Z",
@@ -2622,6 +2833,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-srednjobanatski.json"
     },
     {
+      "id": "bg-sliven",
+      "name": "Сливен",
+      "builtAt": "2026-09-23T06:02:21.853Z",
+      "bounds": [
+        25.80757,
+        42.24479,
+        26.71526,
+        43.03872
+      ],
+      "neighbourhoods": 27,
+      "features": 49,
+      "bytes": 803059,
+      "wire": 197614,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-sliven.json"
+    },
+    {
       "id": "ee-rapla",
       "name": "Rapla maakond",
       "builtAt": "2026-09-21T08:14:09.105Z",
@@ -2638,6 +2865,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ee-rapla.json"
     },
     {
+      "id": "bg-ruse",
+      "name": "Русе",
+      "builtAt": "2026-09-23T06:00:55.125Z",
+      "bounds": [
+        25.45762,
+        43.31719,
+        26.45947,
+        44.04045
+      ],
+      "neighbourhoods": 83,
+      "features": 56,
+      "bytes": 794575,
+      "wire": 171579,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-ruse.json"
+    },
+    {
       "id": "gb-dorset",
       "name": "Dorset",
       "builtAt": "2026-09-21T15:07:52.091Z",
@@ -2652,6 +2895,22 @@
       "bytes": 2449979,
       "wire": 553786,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gb-dorset.json"
+    },
+    {
+      "id": "bg-shumen",
+      "name": "Шумен",
+      "builtAt": "2026-09-23T06:06:36.687Z",
+      "bounds": [
+        26.5507,
+        42.89675,
+        27.43595,
+        43.72074
+      ],
+      "neighbourhoods": 148,
+      "features": 46,
+      "bytes": 1148951,
+      "wire": 252899,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-shumen.json"
     },
     {
       "id": "rs-moravicki",
@@ -2718,6 +2977,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-branicevski.json"
     },
     {
+      "id": "bg-kyustendil",
+      "name": "Кюстендил",
+      "builtAt": "2026-09-23T05:58:29.025Z",
+      "bounds": [
+        22.3598,
+        42.02088,
+        23.52946,
+        42.64893
+      ],
+      "neighbourhoods": 11,
+      "features": 91,
+      "bytes": 595805,
+      "wire": 151129,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-kyustendil.json"
+    },
+    {
       "id": "gb-cambridgeshire",
       "name": "Cambridgeshire",
       "builtAt": "2026-09-21T15:03:12.547Z",
@@ -2766,6 +3041,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ee-ida-viru.json"
     },
     {
+      "id": "bg-pleven",
+      "name": "Плевен",
+      "builtAt": "2026-09-23T06:00:17.048Z",
+      "bounds": [
+        23.9514,
+        43.20151,
+        25.29199,
+        43.76142
+      ],
+      "neighbourhoods": 59,
+      "features": 58,
+      "bytes": 674346,
+      "wire": 146605,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-pleven.json"
+    },
+    {
+      "id": "bg-pazardzhik",
+      "name": "Пазарджик",
+      "builtAt": "2026-09-23T05:59:42.504Z",
+      "bounds": [
+        23.75533,
+        41.66851,
+        24.5378,
+        42.629
+      ],
+      "neighbourhoods": 12,
+      "features": 128,
+      "bytes": 1196932,
+      "wire": 309570,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-pazardzhik.json"
+    },
+    {
       "id": "hu-tolna",
       "name": "Tolna vármegye",
       "builtAt": "2026-09-20T07:46:11.812Z",
@@ -2796,6 +3103,38 @@
       "bytes": 1612181,
       "wire": 366738,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-macvanski.json"
+    },
+    {
+      "id": "ro-covasna",
+      "name": "Covasna",
+      "builtAt": "2026-09-23T05:48:53.003Z",
+      "bounds": [
+        25.45054,
+        45.51631,
+        26.44601,
+        46.27704
+      ],
+      "neighbourhoods": 44,
+      "features": 49,
+      "bytes": 754555,
+      "wire": 176753,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-covasna.json"
+    },
+    {
+      "id": "ro-galati",
+      "name": "Galați",
+      "builtAt": "2026-09-23T05:49:34.334Z",
+      "bounds": [
+        27.22705,
+        45.39052,
+        28.20869,
+        46.16311
+      ],
+      "neighbourhoods": 65,
+      "features": 71,
+      "bytes": 556765,
+      "wire": 122791,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-galati.json"
     },
     {
       "id": "gb-east-riding-of-yorkshire",
@@ -2860,6 +3199,22 @@
       "bytes": 743397,
       "wire": 138411,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-juznobanatski.json"
+    },
+    {
+      "id": "bg-varna",
+      "name": "Варна",
+      "builtAt": "2026-09-23T05:55:20.609Z",
+      "bounds": [
+        27.06574,
+        42.82639,
+        28.06969,
+        43.60026
+      ],
+      "neighbourhoods": 162,
+      "features": 127,
+      "bytes": 1400757,
+      "wire": 308104,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-varna.json"
     },
     {
       "id": "fr-rhone",
@@ -2974,6 +3329,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/rs-sremski.json"
     },
     {
+      "id": "bg-lovech",
+      "name": "Ловеч",
+      "builtAt": "2026-09-23T05:59:33.139Z",
+      "bounds": [
+        23.95936,
+        42.70878,
+        25.15006,
+        43.38009
+      ],
+      "neighbourhoods": 41,
+      "features": 100,
+      "bytes": 1131604,
+      "wire": 273224,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-lovech.json"
+    },
+    {
       "id": "hu-zala",
       "name": "Zala vármegye",
       "builtAt": "2026-09-20T07:47:33.923Z",
@@ -3020,6 +3391,38 @@
       "bytes": 3012024,
       "wire": 646180,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ie-roscommon.json"
+    },
+    {
+      "id": "ro-salaj",
+      "name": "Sălaj",
+      "builtAt": "2026-09-23T05:52:08.291Z",
+      "bounds": [
+        22.49331,
+        46.85337,
+        23.84215,
+        47.45905
+      ],
+      "neighbourhoods": 61,
+      "features": 40,
+      "bytes": 997448,
+      "wire": 236126,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-salaj.json"
+    },
+    {
+      "id": "bg-vratsa",
+      "name": "Враца",
+      "builtAt": "2026-09-23T05:56:57.767Z",
+      "bounds": [
+        23.31658,
+        42.99391,
+        24.32354,
+        43.80673
+      ],
+      "neighbourhoods": 10,
+      "features": 76,
+      "bytes": 484127,
+      "wire": 120364,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-vratsa.json"
     },
     {
       "id": "gb-antrim",
@@ -3100,6 +3503,22 @@
       "bytes": 2345163,
       "wire": 512963,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/hr-zagrebacka.json"
+    },
+    {
+      "id": "ro-braila",
+      "name": "Brăila",
+      "builtAt": "2026-09-23T05:47:26.623Z",
+      "bounds": [
+        27.0663,
+        44.74969,
+        28.19736,
+        45.49167
+      ],
+      "neighbourhoods": 44,
+      "features": 65,
+      "bytes": 455890,
+      "wire": 98304,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-braila.json"
     },
     {
       "id": "gb-kent",
@@ -3260,6 +3679,22 @@
       "bytes": 2324707,
       "wire": 605677,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ee-voru.json"
+    },
+    {
+      "id": "ro-giurgiu",
+      "name": "Giurgiu",
+      "builtAt": "2026-09-23T05:49:51.060Z",
+      "bounds": [
+        25.42554,
+        43.68649,
+        26.42854,
+        44.55354
+      ],
+      "neighbourhoods": 54,
+      "features": 143,
+      "bytes": 675980,
+      "wire": 160072,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-giurgiu.json"
     },
     {
       "id": "hr-osjecko-baranjska",
@@ -3438,6 +3873,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/cz-zlinsky.json"
     },
     {
+      "id": "ro-dambovita",
+      "name": "Dâmbovița",
+      "builtAt": "2026-09-23T05:49:17.137Z",
+      "bounds": [
+        25.1247,
+        44.40335,
+        25.99202,
+        45.44135
+      ],
+      "neighbourhoods": 89,
+      "features": 130,
+      "bytes": 1080075,
+      "wire": 257649,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-dambovita.json"
+    },
+    {
       "id": "pt-faro",
       "name": "Faro",
       "builtAt": "2026-09-20T12:16:14.658Z",
@@ -3516,6 +3967,22 @@
       "bytes": 2870748,
       "wire": 581115,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/nl-noord-holland.json"
+    },
+    {
+      "id": "ro-ialomita",
+      "name": "Ialomița",
+      "builtAt": "2026-09-23T05:50:26.689Z",
+      "bounds": [
+        26.30185,
+        44.33414,
+        28.10882,
+        44.857
+      ],
+      "neighbourhoods": 66,
+      "features": 106,
+      "bytes": 543274,
+      "wire": 121917,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-ialomita.json"
     },
     {
       "id": "rs-raski",
@@ -3598,6 +4065,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-alpes-maritimes.json"
     },
     {
+      "id": "ro-prahova",
+      "name": "Prahova",
+      "builtAt": "2026-09-23T05:51:46.966Z",
+      "bounds": [
+        25.45256,
+        44.69485,
+        26.60999,
+        45.52257
+      ],
+      "neighbourhoods": 104,
+      "features": 161,
+      "bytes": 1161381,
+      "wire": 271396,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-prahova.json"
+    },
+    {
+      "id": "bg-stara-zagora",
+      "name": "Стара %Загора",
+      "builtAt": "2026-09-23T06:06:06.658Z",
+      "bounds": [
+        24.98064,
+        42.01765,
+        26.19272,
+        42.80862
+      ],
+      "neighbourhoods": 114,
+      "features": 168,
+      "bytes": 1916528,
+      "wire": 454430,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-stara-zagora.json"
+    },
+    {
       "id": "fr-haute-savoie",
       "name": "Haute-Savoie",
       "builtAt": "2026-09-20T07:06:25.986Z",
@@ -3628,6 +4127,22 @@
       "bytes": 2392309,
       "wire": 593056,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-haute-loire.json"
+    },
+    {
+      "id": "bg-veliko-tarnovo",
+      "name": "Велико %Търново",
+      "builtAt": "2026-09-23T05:56:07.354Z",
+      "bounds": [
+        25.07405,
+        42.77723,
+        26.17418,
+        43.6532
+      ],
+      "neighbourhoods": 166,
+      "features": 78,
+      "bytes": 1640786,
+      "wire": 364651,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-veliko-tarnovo.json"
     },
     {
       "id": "be-namur",
@@ -3678,6 +4193,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-lot-et-garonne.json"
     },
     {
+      "id": "bg-dobrich",
+      "name": "Добрич",
+      "builtAt": "2026-09-23T05:57:19.625Z",
+      "bounds": [
+        27.19855,
+        43.31924,
+        28.60926,
+        44.00827
+      ],
+      "neighbourhoods": 215,
+      "features": 71,
+      "bytes": 894677,
+      "wire": 184821,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-dobrich.json"
+    },
+    {
       "id": "be-liege",
       "name": "Liège",
       "builtAt": "2026-09-18T11:35:43.371Z",
@@ -3724,6 +4255,38 @@
       "bytes": 2903752,
       "wire": 770471,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-creuse.json"
+    },
+    {
+      "id": "ro-calarasi",
+      "name": "Călărași",
+      "builtAt": "2026-09-23T05:48:08.221Z",
+      "bounds": [
+        26.25252,
+        44.03554,
+        28.01746,
+        44.59554
+      ],
+      "neighbourhoods": 55,
+      "features": 150,
+      "bytes": 567973,
+      "wire": 123960,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-calarasi.json"
+    },
+    {
+      "id": "ro-vrancea",
+      "name": "Vrancea",
+      "builtAt": "2026-09-23T05:53:29.361Z",
+      "bounds": [
+        26.37104,
+        45.3712,
+        27.55855,
+        46.20618
+      ],
+      "neighbourhoods": 73,
+      "features": 49,
+      "bytes": 1045350,
+      "wire": 243798,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-vrancea.json"
     },
     {
       "id": "fr-mayenne",
@@ -3790,6 +4353,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-ariege.json"
     },
     {
+      "id": "ro-teleorman",
+      "name": "Teleorman",
+      "builtAt": "2026-09-23T05:53:07.597Z",
+      "bounds": [
+        24.59372,
+        43.61881,
+        25.71382,
+        44.51813
+      ],
+      "neighbourhoods": 97,
+      "features": 144,
+      "bytes": 914066,
+      "wire": 211284,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-teleorman.json"
+    },
+    {
       "id": "gb-norfolk",
       "name": "Norfolk",
       "builtAt": "2026-09-21T14:58:32.788Z",
@@ -3804,6 +4383,22 @@
       "bytes": 3305978,
       "wire": 820219,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gb-norfolk.json"
+    },
+    {
+      "id": "ro-bistrita-nasaud",
+      "name": "Bistrița-Năsăud",
+      "builtAt": "2026-09-23T05:47:11.906Z",
+      "bounds": [
+        23.91862,
+        46.74632,
+        25.09506,
+        47.60836
+      ],
+      "neighbourhoods": 62,
+      "features": 62,
+      "bytes": 1084564,
+      "wire": 258344,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-bistrita-nasaud.json"
     },
     {
       "id": "pt-guarda",
@@ -3836,6 +4431,22 @@
       "bytes": 4369931,
       "wire": 928096,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ie-clare.json"
+    },
+    {
+      "id": "ro-gorj",
+      "name": "Gorj",
+      "builtAt": "2026-09-23T05:49:26.679Z",
+      "bounds": [
+        22.55916,
+        44.56826,
+        23.85555,
+        45.35378
+      ],
+      "neighbourhoods": 70,
+      "features": 83,
+      "bytes": 1365021,
+      "wire": 324391,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-gorj.json"
     },
     {
       "id": "fr-lot",
@@ -3902,6 +4513,54 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-var.json"
     },
     {
+      "id": "ro-vaslui",
+      "name": "Vaslui",
+      "builtAt": "2026-09-23T05:54:22.927Z",
+      "bounds": [
+        27.18834,
+        46.00289,
+        28.26112,
+        46.99168
+      ],
+      "neighbourhoods": 86,
+      "features": 52,
+      "bytes": 947027,
+      "wire": 221056,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-vaslui.json"
+    },
+    {
+      "id": "ro-valcea",
+      "name": "Vâlcea",
+      "builtAt": "2026-09-23T05:53:43.378Z",
+      "bounds": [
+        23.57612,
+        44.49024,
+        24.54053,
+        45.59085
+      ],
+      "neighbourhoods": 89,
+      "features": 205,
+      "bytes": 1706063,
+      "wire": 411033,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-valcea.json"
+    },
+    {
+      "id": "ro-botosani",
+      "name": "Botoșani",
+      "builtAt": "2026-09-23T05:47:37.841Z",
+      "bounds": [
+        26.09838,
+        47.43826,
+        27.39126,
+        48.26547
+      ],
+      "neighbourhoods": 78,
+      "features": 121,
+      "bytes": 920458,
+      "wire": 214638,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-botosani.json"
+    },
+    {
       "id": "ie-tipperary",
       "name": "County Tipperary",
       "builtAt": "2026-09-20T19:46:29.526Z",
@@ -3934,6 +4593,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-pontevedra.json"
     },
     {
+      "id": "bg-blagoevgrad",
+      "name": "Благоевград",
+      "builtAt": "2026-09-23T05:54:59.872Z",
+      "bounds": [
+        22.86349,
+        41.31665,
+        24.1151,
+        42.18366
+      ],
+      "neighbourhoods": 15,
+      "features": 277,
+      "bytes": 1100487,
+      "wire": 271265,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-blagoevgrad.json"
+    },
+    {
       "id": "gb-somerset",
       "name": "Somerset",
       "builtAt": "2026-09-21T15:00:19.230Z",
@@ -3948,6 +4623,22 @@
       "bytes": 3820081,
       "wire": 839132,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gb-somerset.json"
+    },
+    {
+      "id": "ro-sibiu",
+      "name": "Sibiu",
+      "builtAt": "2026-09-23T05:52:04.468Z",
+      "bounds": [
+        23.5887,
+        45.49333,
+        24.96513,
+        46.2841
+      ],
+      "neighbourhoods": 64,
+      "features": 183,
+      "bytes": 1260316,
+      "wire": 298567,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-sibiu.json"
     },
     {
       "id": "fr-calvados",
@@ -4012,6 +4703,54 @@
       "bytes": 1921624,
       "wire": 500288,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ee-tartu.json"
+    },
+    {
+      "id": "bg-plovdiv",
+      "name": "Пловдив",
+      "builtAt": "2026-09-23T06:02:14.386Z",
+      "bounds": [
+        24.35687,
+        41.68301,
+        25.34805,
+        42.79372
+      ],
+      "neighbourhoods": 79,
+      "features": 196,
+      "bytes": 1881543,
+      "wire": 460582,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-plovdiv.json"
+    },
+    {
+      "id": "ro-neamt",
+      "name": "Neamț",
+      "builtAt": "2026-09-23T05:51:32.366Z",
+      "bounds": [
+        25.65959,
+        46.64171,
+        27.24365,
+        47.34032
+      ],
+      "neighbourhoods": 83,
+      "features": 99,
+      "bytes": 1073365,
+      "wire": 257180,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-neamt.json"
+    },
+    {
+      "id": "ro-arges",
+      "name": "Argeș",
+      "builtAt": "2026-09-23T05:46:33.495Z",
+      "bounds": [
+        24.42151,
+        44.37686,
+        25.32598,
+        45.6112
+      ],
+      "neighbourhoods": 102,
+      "features": 158,
+      "bytes": 1424646,
+      "wire": 336370,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-arges.json"
     },
     {
       "id": "fr-loire",
@@ -4142,6 +4881,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-tarn.json"
     },
     {
+      "id": "ro-satu-mare",
+      "name": "Satu %Mare",
+      "builtAt": "2026-09-23T05:52:29.442Z",
+      "bounds": [
+        22.18082,
+        47.3332,
+        23.63985,
+        48.11998
+      ],
+      "neighbourhoods": 65,
+      "features": 106,
+      "bytes": 805396,
+      "wire": 190102,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-satu-mare.json"
+    },
+    {
       "id": "ba-unsko-sanski",
       "name": "Unsko-sanski kanton",
       "builtAt": "2026-09-22T19:36:26.640Z",
@@ -4254,6 +5009,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/hr-zadarska.json"
     },
     {
+      "id": "ro-brasov",
+      "name": "Brașov",
+      "builtAt": "2026-09-23T05:47:39.441Z",
+      "bounds": [
+        24.63925,
+        45.38109,
+        26.10468,
+        46.19046
+      ],
+      "neighbourhoods": 58,
+      "features": 173,
+      "bytes": 1012484,
+      "wire": 239649,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-brasov.json"
+    },
+    {
       "id": "pt-braganca",
       "name": "Bragança",
       "builtAt": "2026-09-20T12:15:15.963Z",
@@ -4286,6 +5057,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-bouches-du-rhone.json"
     },
     {
+      "id": "bg-haskovo",
+      "name": "Хасково",
+      "builtAt": "2026-09-23T06:06:57.711Z",
+      "bounds": [
+        25.21375,
+        41.31805,
+        26.58434,
+        42.20813
+      ],
+      "neighbourhoods": 46,
+      "features": 66,
+      "bytes": 1094885,
+      "wire": 269280,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-haskovo.json"
+    },
+    {
       "id": "fr-eure-et-loir",
       "name": "Eure-et-Loir",
       "builtAt": "2026-09-20T06:50:39.752Z",
@@ -4300,6 +5087,22 @@
       "bytes": 2289980,
       "wire": 530752,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-eure-et-loir.json"
+    },
+    {
+      "id": "ro-olt",
+      "name": "Olt",
+      "builtAt": "2026-09-23T05:51:46.097Z",
+      "bounds": [
+        23.88213,
+        43.68338,
+        24.88653,
+        44.90147
+      ],
+      "neighbourhoods": 112,
+      "features": 198,
+      "bytes": 1210732,
+      "wire": 282886,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-olt.json"
     },
     {
       "id": "sk-trenciansky",
@@ -4444,6 +5247,22 @@
       "bytes": 2945488,
       "wire": 616265,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/nl-fryslan.json"
+    },
+    {
+      "id": "ro-bacau",
+      "name": "Bacău",
+      "builtAt": "2026-09-23T05:47:06.993Z",
+      "bounds": [
+        25.97271,
+        46.01684,
+        27.51015,
+        46.82877
+      ],
+      "neighbourhoods": 93,
+      "features": 117,
+      "bytes": 1367840,
+      "wire": 316776,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-bacau.json"
     },
     {
       "id": "fr-sarthe",
@@ -4652,6 +5471,22 @@
       "bytes": 763630,
       "wire": 169793,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/hu-jasz-nagykun-szolnok.json"
+    },
+    {
+      "id": "ro-iasi",
+      "name": "Iași",
+      "builtAt": "2026-09-23T05:51:03.345Z",
+      "bounds": [
+        26.49299,
+        46.80583,
+        28.12748,
+        47.58942
+      ],
+      "neighbourhoods": 98,
+      "features": 196,
+      "bytes": 1285330,
+      "wire": 304694,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-iasi.json"
     },
     {
       "id": "es-cantabria",
@@ -5006,6 +5841,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-haute-marne.json"
     },
     {
+      "id": "ro-hunedoara",
+      "name": "Hunedoara",
+      "builtAt": "2026-09-23T05:50:02.310Z",
+      "bounds": [
+        22.33601,
+        45.23835,
+        23.60168,
+        46.35267
+      ],
+      "neighbourhoods": 69,
+      "features": 180,
+      "bytes": 1279148,
+      "wire": 305912,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-hunedoara.json"
+    },
+    {
       "id": "ie-kerry",
       "name": "County Kerry",
       "builtAt": "2026-09-20T19:46:03.959Z",
@@ -5102,6 +5953,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-cadiz.json"
     },
     {
+      "id": "ro-mures",
+      "name": "Mureș",
+      "builtAt": "2026-09-23T05:51:22.841Z",
+      "bounds": [
+        23.95906,
+        46.07635,
+        25.31847,
+        47.13655
+      ],
+      "neighbourhoods": 106,
+      "features": 129,
+      "bytes": 1485592,
+      "wire": 352155,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-mures.json"
+    },
+    {
       "id": "es-segovia",
       "name": "Segovia",
       "builtAt": "2026-09-21T19:36:33.492Z",
@@ -5182,6 +6049,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-orne.json"
     },
     {
+      "id": "ro-mehedinti",
+      "name": "Mehedinți",
+      "builtAt": "2026-09-23T05:50:47.120Z",
+      "bounds": [
+        22.01614,
+        44.09594,
+        23.45504,
+        45.11077
+      ],
+      "neighbourhoods": 66,
+      "features": 60,
+      "bytes": 1075599,
+      "wire": 248160,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-mehedinti.json"
+    },
+    {
       "id": "fr-alpes-de-haute-provence",
       "name": "Alpes-de-Haute-Provence",
       "builtAt": "2026-09-21T19:16:05.838Z",
@@ -5198,6 +6081,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-alpes-de-haute-provence.json"
     },
     {
+      "id": "ro-buzau",
+      "name": "Buzău",
+      "builtAt": "2026-09-23T05:47:51.694Z",
+      "bounds": [
+        26.07273,
+        44.73528,
+        27.44174,
+        45.8024
+      ],
+      "neighbourhoods": 87,
+      "features": 77,
+      "bytes": 926405,
+      "wire": 211662,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-buzau.json"
+    },
+    {
+      "id": "ro-dolj",
+      "name": "Dolj",
+      "builtAt": "2026-09-23T05:49:27.419Z",
+      "bounds": [
+        22.84143,
+        43.69994,
+        24.2639,
+        44.72967
+      ],
+      "neighbourhoods": 111,
+      "features": 205,
+      "bytes": 1097569,
+      "wire": 247653,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-dolj.json"
+    },
+    {
       "id": "fr-marne",
       "name": "Marne",
       "builtAt": "2026-09-20T06:56:50.432Z",
@@ -5212,6 +6127,38 @@
       "bytes": 3020621,
       "wire": 708232,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-marne.json"
+    },
+    {
+      "id": "ro-maramures",
+      "name": "Maramureș",
+      "builtAt": "2026-09-23T05:51:14.576Z",
+      "bounds": [
+        22.96148,
+        47.32062,
+        25.05644,
+        48.02179
+      ],
+      "neighbourhoods": 76,
+      "features": 113,
+      "bytes": 1297325,
+      "wire": 308181,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-maramures.json"
+    },
+    {
+      "id": "ro-caras-severin",
+      "name": "Caraș-Severin",
+      "builtAt": "2026-09-23T05:48:36.917Z",
+      "bounds": [
+        21.35307,
+        44.58531,
+        22.71282,
+        45.66889
+      ],
+      "neighbourhoods": 77,
+      "features": 106,
+      "bytes": 1151997,
+      "wire": 274562,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-caras-severin.json"
     },
     {
       "id": "fr-vienne",
@@ -5308,6 +6255,22 @@
       "bytes": 3130409,
       "wire": 776665,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-allier.json"
+    },
+    {
+      "id": "ro-tulcea",
+      "name": "Tulcea",
+      "builtAt": "2026-09-23T05:53:53.674Z",
+      "bounds": [
+        27.99484,
+        44.61588,
+        29.76841,
+        45.46738
+      ],
+      "neighbourhoods": 51,
+      "features": 511,
+      "bytes": 1592853,
+      "wire": 364604,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-tulcea.json"
     },
     {
       "id": "hu-szabolcs-szatmar-bereg",
@@ -5470,6 +6433,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-manche.json"
     },
     {
+      "id": "ro-harghita",
+      "name": "Harghita",
+      "builtAt": "2026-09-23T05:50:07.888Z",
+      "bounds": [
+        24.85369,
+        46.1041,
+        26.29309,
+        47.18385
+      ],
+      "neighbourhoods": 67,
+      "features": 100,
+      "bytes": 1140517,
+      "wire": 276958,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-harghita.json"
+    },
+    {
       "id": "fr-hautes-alpes",
       "name": "Hautes-Alpes",
       "builtAt": "2026-09-21T19:19:29.271Z",
@@ -5484,6 +6463,38 @@
       "bytes": 1925398,
       "wire": 462449,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-hautes-alpes.json"
+    },
+    {
+      "id": "ro-cluj",
+      "name": "Cluj",
+      "builtAt": "2026-09-23T05:48:51.478Z",
+      "bounds": [
+        22.63729,
+        46.3967,
+        24.22746,
+        47.38021
+      ],
+      "neighbourhoods": 81,
+      "features": 300,
+      "bytes": 1875012,
+      "wire": 453997,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-cluj.json"
+    },
+    {
+      "id": "bg-burgas",
+      "name": "Бургас",
+      "builtAt": "2026-09-23T05:56:41.223Z",
+      "bounds": [
+        26.57865,
+        41.9044,
+        28.03575,
+        42.9847
+      ],
+      "neighbourhoods": 78,
+      "features": 156,
+      "bytes": 2127604,
+      "wire": 527552,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-burgas.json"
     },
     {
       "id": "ee-harju",
@@ -5532,6 +6543,22 @@
       "bytes": 2516402,
       "wire": 579487,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-loir-et-cher.json"
+    },
+    {
+      "id": "gr-western-macedonia",
+      "name": "Περιφέρεια Δυτικής Μακεδονίας",
+      "builtAt": "2026-09-23T06:09:52.252Z",
+      "bounds": [
+        20.77537,
+        39.83036,
+        22.19532,
+        40.94345
+      ],
+      "neighbourhoods": 24,
+      "features": 226,
+      "bytes": 1195382,
+      "wire": 270904,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-western-macedonia.json"
     },
     {
       "id": "es-tarragona",
@@ -5598,6 +6625,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/hu-pest.json"
     },
     {
+      "id": "ro-arad",
+      "name": "Arad",
+      "builtAt": "2026-09-23T05:46:32.633Z",
+      "bounds": [
+        20.70531,
+        45.90191,
+        22.74872,
+        46.68088
+      ],
+      "neighbourhoods": 78,
+      "features": 88,
+      "bytes": 982721,
+      "wire": 224774,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-arad.json"
+    },
+    {
       "id": "fr-aisne",
       "name": "Aisne",
       "builtAt": "2026-09-20T06:46:12.297Z",
@@ -5612,6 +6655,22 @@
       "bytes": 3398199,
       "wire": 877164,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-aisne.json"
+    },
+    {
+      "id": "ro-suceava",
+      "name": "Suceava",
+      "builtAt": "2026-09-23T05:52:43.231Z",
+      "bounds": [
+        24.9471,
+        47.07734,
+        26.70473,
+        47.98802
+      ],
+      "neighbourhoods": 114,
+      "features": 76,
+      "bytes": 1357421,
+      "wire": 316852,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-suceava.json"
     },
     {
       "id": "cz-moravskoslezsky",
@@ -5806,6 +6865,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/cz-ustecky.json"
     },
     {
+      "id": "ro-bihor",
+      "name": "Bihor",
+      "builtAt": "2026-09-23T05:47:11.148Z",
+      "bounds": [
+        21.42762,
+        46.38505,
+        22.81958,
+        47.6001
+      ],
+      "neighbourhoods": 101,
+      "features": 160,
+      "bytes": 1361265,
+      "wire": 320932,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-bihor.json"
+    },
+    {
       "id": "es-lugo",
       "name": "Lugo",
       "builtAt": "2026-09-20T18:32:21.697Z",
@@ -5998,6 +7073,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/sk-banskobystricky.json"
     },
     {
+      "id": "ro-alba",
+      "name": "Alba",
+      "builtAt": "2026-09-23T05:46:29.767Z",
+      "bounds": [
+        22.6638,
+        45.45544,
+        24.25165,
+        46.57628
+      ],
+      "neighbourhoods": 78,
+      "features": 132,
+      "bytes": 1202823,
+      "wire": 292812,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-alba.json"
+    },
+    {
       "id": "es-malaga",
       "name": "Málaga",
       "builtAt": "2026-09-21T19:37:07.860Z",
@@ -6028,6 +7119,22 @@
       "bytes": 3018079,
       "wire": 711537,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/at-kaernten.json"
+    },
+    {
+      "id": "ro-constanta",
+      "name": "Constanța",
+      "builtAt": "2026-09-23T05:48:55.278Z",
+      "bounds": [
+        27.27345,
+        43.73373,
+        28.99444,
+        44.80198
+      ],
+      "neighbourhoods": 70,
+      "features": 170,
+      "bytes": 933074,
+      "wire": 212782,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-constanta.json"
     },
     {
       "id": "fr-saone-et-loire",
@@ -6206,6 +7313,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-soria.json"
     },
     {
+      "id": "bg-sofia",
+      "name": "Софийска",
+      "builtAt": "2026-09-23T06:05:48.753Z",
+      "bounds": [
+        22.74846,
+        42.08387,
+        24.48335,
+        43.19984
+      ],
+      "neighbourhoods": 250,
+      "features": 268,
+      "bytes": 3760659,
+      "wire": 876223,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/bg-sofia.json"
+    },
+    {
       "id": "es-salamanca",
       "name": "Salamanca",
       "builtAt": "2026-09-21T19:33:51.558Z",
@@ -6348,6 +7471,22 @@
       "bytes": 3205625,
       "wire": 817961,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-meurthe-et-moselle.json"
+    },
+    {
+      "id": "gr-epirus",
+      "name": "Περιφέρεια Ηπείρου",
+      "builtAt": "2026-09-23T06:10:25.381Z",
+      "bounds": [
+        19.98922,
+        38.92369,
+        21.43002,
+        40.3766
+      ],
+      "neighbourhoods": 27,
+      "features": 307,
+      "bytes": 1361940,
+      "wire": 326249,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-epirus.json"
     },
     {
       "id": "es-asturias",
@@ -6508,6 +7647,22 @@
       "bytes": 3556048,
       "wire": 831718,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/fr-gironde.json"
+    },
+    {
+      "id": "ro-timis",
+      "name": "Timiș",
+      "builtAt": "2026-09-23T05:53:07.187Z",
+      "bounds": [
+        20.262,
+        45.19309,
+        22.55136,
+        46.18993
+      ],
+      "neighbourhoods": 99,
+      "features": 228,
+      "bytes": 1201575,
+      "wire": 274622,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/ro-timis.json"
     },
     {
       "id": "es-valencia",
@@ -6926,6 +8081,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/it-campania.json"
     },
     {
+      "id": "gr-western-greece",
+      "name": "Περιφέρεια Δυτικής Ελλάδας",
+      "builtAt": "2026-09-23T06:13:55.350Z",
+      "bounds": [
+        20.69692,
+        37.35718,
+        22.41308,
+        39.17448
+      ],
+      "neighbourhoods": 341,
+      "features": 283,
+      "bytes": 3305750,
+      "wire": 777288,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-western-greece.json"
+    },
+    {
       "id": "at-tirol",
       "name": "Tirol",
       "builtAt": "2026-09-21T18:44:43.210Z",
@@ -7038,6 +8209,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-huesca.json"
     },
     {
+      "id": "gr-crete",
+      "name": "Περιφέρεια Κρήτης",
+      "builtAt": "2026-09-23T06:17:05.102Z",
+      "bounds": [
+        23.3733,
+        34.71922,
+        26.4526,
+        35.77679
+      ],
+      "neighbourhoods": 299,
+      "features": 207,
+      "bytes": 2392569,
+      "wire": 551946,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-crete.json"
+    },
+    {
       "id": "pl-slaskie",
       "name": "województwo śląskie",
       "builtAt": "2026-09-21T17:29:35.065Z",
@@ -7086,6 +8273,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/it-calabria.json"
     },
     {
+      "id": "gr-attica",
+      "name": "Περιφέρεια Αττικής",
+      "builtAt": "2026-09-23T06:12:43.524Z",
+      "bounds": [
+        22.79081,
+        35.74143,
+        24.17342,
+        38.37816
+      ],
+      "neighbourhoods": 147,
+      "features": 1178,
+      "bytes": 2265991,
+      "wire": 489447,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-attica.json"
+    },
+    {
       "id": "pl-kujawsko-pomorskie",
       "name": "województwo kujawsko-pomorskie",
       "builtAt": "2026-09-21T17:30:17.785Z",
@@ -7116,6 +8319,22 @@
       "bytes": 3907990,
       "wire": 959085,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-caceres.json"
+    },
+    {
+      "id": "gr-central-macedonia",
+      "name": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "builtAt": "2026-09-23T06:10:04.880Z",
+      "bounds": [
+        21.7042,
+        39.83113,
+        24.12703,
+        41.40659
+      ],
+      "neighbourhoods": 99,
+      "features": 605,
+      "bytes": 2675713,
+      "wire": 620887,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-central-macedonia.json"
     },
     {
       "id": "mk-north-macedonia",
@@ -7198,6 +8417,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-badajoz.json"
     },
     {
+      "id": "gr-thessaly",
+      "name": "Περιφέρεια Θεσσαλίας",
+      "builtAt": "2026-09-23T06:11:47.667Z",
+      "bounds": [
+        21.12042,
+        38.95514,
+        24.43244,
+        40.19666
+      ],
+      "neighbourhoods": 57,
+      "features": 317,
+      "bytes": 2210437,
+      "wire": 512947,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-thessaly.json"
+    },
+    {
       "id": "it-sardegna",
       "name": "Sardigna/Sardegna",
       "builtAt": "2026-09-21T19:08:45.677Z",
@@ -7246,6 +8481,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/es-las-palmas.json"
     },
     {
+      "id": "gr-eastern-macedonia-and-thrace",
+      "name": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "builtAt": "2026-09-23T06:09:03.756Z",
+      "bounds": [
+        23.62355,
+        40.3162,
+        26.63558,
+        41.74889
+      ],
+      "neighbourhoods": 30,
+      "features": 191,
+      "bytes": 1619939,
+      "wire": 386206,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-eastern-macedonia-and-thrace.json"
+    },
+    {
       "id": "pl-podkarpackie",
       "name": "województwo podkarpackie",
       "builtAt": "2026-09-21T16:51:30.225Z",
@@ -7276,6 +8527,22 @@
       "bytes": 835280,
       "wire": 167971,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/pt-madeira.json"
+    },
+    {
+      "id": "gr-peloponnese",
+      "name": "Περιφέρεια Πελοποννήσου",
+      "builtAt": "2026-09-23T06:15:42.952Z",
+      "bounds": [
+        21.28849,
+        36.18528,
+        23.45462,
+        38.22403
+      ],
+      "neighbourhoods": 324,
+      "features": 296,
+      "bytes": 3666437,
+      "wire": 895748,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-peloponnese.json"
     },
     {
       "id": "es-illes-balears",
@@ -7374,6 +8641,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/pl-warminsko-mazurskie.json"
     },
     {
+      "id": "gr-central-greece",
+      "name": "Περιφέρεια Στερεάς Ελλάδας",
+      "builtAt": "2026-09-23T06:14:38.744Z",
+      "bounds": [
+        21.37393,
+        37.85252,
+        24.78589,
+        39.27322
+      ],
+      "neighbourhoods": 270,
+      "features": 345,
+      "bytes": 3615884,
+      "wire": 852522,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-central-greece.json"
+    },
+    {
       "id": "it-emilia-romagna",
       "name": "Emilia-Romagna",
       "builtAt": "2026-09-21T19:06:03.224Z",
@@ -7452,6 +8735,22 @@
       "bytes": 4896554,
       "wire": 1116137,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/it-lazio.json"
+    },
+    {
+      "id": "gr-ionian-islands",
+      "name": "Περιφέρεια Ιονίων Νήσων",
+      "builtAt": "2026-09-23T06:10:53.347Z",
+      "bounds": [
+        19.37296,
+        37.03904,
+        21.27288,
+        39.89897
+      ],
+      "neighbourhoods": 109,
+      "features": 152,
+      "bytes": 1444943,
+      "wire": 357120,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-ionian-islands.json"
     },
     {
       "id": "de-sachsen-anhalt",
@@ -7564,6 +8863,22 @@
       "bytes": 8945670,
       "wire": 2097072,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/de-mecklenburg-vorpommern.json"
+    },
+    {
+      "id": "gr-north-aegean",
+      "name": "Περιφέρεια Βόρειου Αιγαίου",
+      "builtAt": "2026-09-23T06:16:09.521Z",
+      "bounds": [
+        24.871,
+        37.42959,
+        27.1648,
+        40.11238
+      ],
+      "neighbourhoods": 16,
+      "features": 98,
+      "bytes": 1280320,
+      "wire": 311973,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-north-aegean.json"
     },
     {
       "id": "it-piemonte",
@@ -7772,6 +9087,22 @@
       "bytes": 25214592,
       "wire": 5508146,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/de-niedersachsen.json"
+    },
+    {
+      "id": "gr-south-aegean",
+      "name": "Περιφέρεια Νοτίου Αιγαίου",
+      "builtAt": "2026-09-23T06:16:28.927Z",
+      "bounds": [
+        24.04099,
+        35.25797,
+        29.68381,
+        38.07797
+      ],
+      "neighbourhoods": 47,
+      "features": 196,
+      "bytes": 3612110,
+      "wire": 897594,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-09-22/gr-south-aegean.json"
     },
     {
       "id": "de-bayern",
