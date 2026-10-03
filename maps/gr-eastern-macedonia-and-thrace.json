@@ -1,0 +1,981 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gr-eastern-macedonia-and-thrace",
+ "source": "gr.pmtiles",
+ "builtAt": "2026-10-03T19:28:17.957Z",
+ "publishedAt": "2026-10-03T19:28:48.483Z",
+ "host": "github",
+ "releases": [
+  "maps-gr-eastern-macedonia-and-thrace-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  23.62355,
+  40.3162,
+  26.63558,
+  41.74889
+ ],
+ "overview": {
+  "file": "overview.6cdd1df43973.pmtiles",
+  "bytes": 1828837,
+  "tiles": 95,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/overview.6cdd1df43973.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1158,
+   "y": 764,
+   "file": "11-1158-764.7f62e04982bb.pmtiles",
+   "bytes": 45026,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-764.7f62e04982bb.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 765,
+   "file": "11-1158-765.0152797a6f2c.pmtiles",
+   "bytes": 178007,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-765.0152797a6f2c.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 766,
+   "file": "11-1158-766.8c30c27f076d.pmtiles",
+   "bytes": 150443,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-766.8c30c27f076d.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 767,
+   "file": "11-1158-767.0feffdfd83dd.pmtiles",
+   "bytes": 321338,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-767.0feffdfd83dd.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 768,
+   "file": "11-1158-768.471dfab31e11.pmtiles",
+   "bytes": 151765,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-768.471dfab31e11.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 769,
+   "file": "11-1158-769.9bbb84d6d955.pmtiles",
+   "bytes": 191228,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-769.9bbb84d6d955.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 770,
+   "file": "11-1158-770.831f1f2850d3.pmtiles",
+   "bytes": 271307,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-770.831f1f2850d3.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 771,
+   "file": "11-1158-771.30d38b1d619f.pmtiles",
+   "bytes": 172850,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-771.30d38b1d619f.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 772,
+   "file": "11-1158-772.b1891a142787.pmtiles",
+   "bytes": 218666,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1158-772.b1891a142787.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 764,
+   "file": "11-1159-764.dfa7f22b030c.pmtiles",
+   "bytes": 84485,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-764.dfa7f22b030c.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 765,
+   "file": "11-1159-765.a27a89a989b9.pmtiles",
+   "bytes": 230575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-765.a27a89a989b9.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 766,
+   "file": "11-1159-766.8fc2d179d064.pmtiles",
+   "bytes": 190936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-766.8fc2d179d064.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 767,
+   "file": "11-1159-767.3f9ae021c0f2.pmtiles",
+   "bytes": 247506,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-767.3f9ae021c0f2.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 768,
+   "file": "11-1159-768.5a7e19d91f08.pmtiles",
+   "bytes": 327406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-768.5a7e19d91f08.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 769,
+   "file": "11-1159-769.449cfdd1851b.pmtiles",
+   "bytes": 219095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-769.449cfdd1851b.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 770,
+   "file": "11-1159-770.8f2ab156b80e.pmtiles",
+   "bytes": 84200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-770.8f2ab156b80e.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 771,
+   "file": "11-1159-771.0f58af93ec61.pmtiles",
+   "bytes": 215943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-771.0f58af93ec61.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 772,
+   "file": "11-1159-772.7a8a3d8772ec.pmtiles",
+   "bytes": 217253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1159-772.7a8a3d8772ec.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 763,
+   "file": "11-1160-763.47915b017670.pmtiles",
+   "bytes": 24998,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-763.47915b017670.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 764,
+   "file": "11-1160-764.f342ae5072a5.pmtiles",
+   "bytes": 137361,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-764.f342ae5072a5.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 765,
+   "file": "11-1160-765.55902a3fff40.pmtiles",
+   "bytes": 168961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-765.55902a3fff40.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 766,
+   "file": "11-1160-766.5bff1f8f4dfc.pmtiles",
+   "bytes": 237236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-766.5bff1f8f4dfc.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 767,
+   "file": "11-1160-767.12e7469e7ee8.pmtiles",
+   "bytes": 252700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-767.12e7469e7ee8.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 768,
+   "file": "11-1160-768.ff194a525df1.pmtiles",
+   "bytes": 222675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-768.ff194a525df1.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 769,
+   "file": "11-1160-769.e773f85f78c7.pmtiles",
+   "bytes": 269427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-769.e773f85f78c7.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 771,
+   "file": "11-1160-771.d0fd96c8eed3.pmtiles",
+   "bytes": 23714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-771.d0fd96c8eed3.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 772,
+   "file": "11-1160-772.47362c447d4a.pmtiles",
+   "bytes": 215309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1160-772.47362c447d4a.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 763,
+   "file": "11-1161-763.45c14ba427f2.pmtiles",
+   "bytes": 74553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-763.45c14ba427f2.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 764,
+   "file": "11-1161-764.c6dc0ef2b710.pmtiles",
+   "bytes": 152913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-764.c6dc0ef2b710.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 765,
+   "file": "11-1161-765.c7d4ba3c2d6a.pmtiles",
+   "bytes": 152211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-765.c7d4ba3c2d6a.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 766,
+   "file": "11-1161-766.622cff225a35.pmtiles",
+   "bytes": 444630,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-766.622cff225a35.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 767,
+   "file": "11-1161-767.85aa9dc544dc.pmtiles",
+   "bytes": 236419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-767.85aa9dc544dc.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 768,
+   "file": "11-1161-768.d022ab2ec158.pmtiles",
+   "bytes": 336084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-768.d022ab2ec158.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 769,
+   "file": "11-1161-769.0b7f9b8ff651.pmtiles",
+   "bytes": 184641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-769.0b7f9b8ff651.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 772,
+   "file": "11-1161-772.96c6d0be7311.pmtiles",
+   "bytes": 73924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1161-772.96c6d0be7311.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 762,
+   "file": "11-1162-762.5dc2e68115fd.pmtiles",
+   "bytes": 25955,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-762.5dc2e68115fd.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 763,
+   "file": "11-1162-763.863b65b1962d.pmtiles",
+   "bytes": 85703,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-763.863b65b1962d.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 764,
+   "file": "11-1162-764.521139d3facb.pmtiles",
+   "bytes": 137774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-764.521139d3facb.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 765,
+   "file": "11-1162-765.ba21b063d344.pmtiles",
+   "bytes": 136224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-765.ba21b063d344.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 766,
+   "file": "11-1162-766.ac950cdb954b.pmtiles",
+   "bytes": 222791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-766.ac950cdb954b.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 767,
+   "file": "11-1162-767.913d1fec65c5.pmtiles",
+   "bytes": 275242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-767.913d1fec65c5.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 768,
+   "file": "11-1162-768.af972d6f4795.pmtiles",
+   "bytes": 581333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-768.af972d6f4795.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 769,
+   "file": "11-1162-769.063d0c3b1d73.pmtiles",
+   "bytes": 84319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1162-769.063d0c3b1d73.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 763,
+   "file": "11-1163-763.4f708faf8140.pmtiles",
+   "bytes": 101704,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-763.4f708faf8140.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 764,
+   "file": "11-1163-764.fedcfba6ac00.pmtiles",
+   "bytes": 131549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-764.fedcfba6ac00.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 765,
+   "file": "11-1163-765.d704ad72db7d.pmtiles",
+   "bytes": 218330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-765.d704ad72db7d.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 766,
+   "file": "11-1163-766.ab1b8b76477d.pmtiles",
+   "bytes": 151585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-766.ab1b8b76477d.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 767,
+   "file": "11-1163-767.aa342edbb6be.pmtiles",
+   "bytes": 183495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-767.aa342edbb6be.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 768,
+   "file": "11-1163-768.b1fd84603856.pmtiles",
+   "bytes": 182107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-768.b1fd84603856.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 769,
+   "file": "11-1163-769.f9b14379f451.pmtiles",
+   "bytes": 118775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-769.f9b14379f451.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 770,
+   "file": "11-1163-770.9abeff9eefae.pmtiles",
+   "bytes": 231776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1163-770.9abeff9eefae.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 763,
+   "file": "11-1164-763.19135f1fdc2e.pmtiles",
+   "bytes": 65389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-763.19135f1fdc2e.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 764,
+   "file": "11-1164-764.525dbbdef916.pmtiles",
+   "bytes": 111709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-764.525dbbdef916.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 765,
+   "file": "11-1164-765.dfba820f1840.pmtiles",
+   "bytes": 183539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-765.dfba820f1840.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 766,
+   "file": "11-1164-766.d81968267e39.pmtiles",
+   "bytes": 243444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-766.d81968267e39.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 767,
+   "file": "11-1164-767.69fb569e3229.pmtiles",
+   "bytes": 370258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-767.69fb569e3229.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 768,
+   "file": "11-1164-768.a051d36bd767.pmtiles",
+   "bytes": 328882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-768.a051d36bd767.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 769,
+   "file": "11-1164-769.d047847d4beb.pmtiles",
+   "bytes": 368594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-769.d047847d4beb.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 770,
+   "file": "11-1164-770.d26386ee22e8.pmtiles",
+   "bytes": 380588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-770.d26386ee22e8.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 771,
+   "file": "11-1164-771.eecded639569.pmtiles",
+   "bytes": 21286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1164-771.eecded639569.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 763,
+   "file": "11-1165-763.a9ef51566da9.pmtiles",
+   "bytes": 28029,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-763.a9ef51566da9.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 764,
+   "file": "11-1165-764.753bd4f26910.pmtiles",
+   "bytes": 86559,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-764.753bd4f26910.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 765,
+   "file": "11-1165-765.021629f8d2e0.pmtiles",
+   "bytes": 191841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-765.021629f8d2e0.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 766,
+   "file": "11-1165-766.c171e68a3448.pmtiles",
+   "bytes": 425236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-766.c171e68a3448.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 767,
+   "file": "11-1165-767.3e7669447963.pmtiles",
+   "bytes": 325318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-767.3e7669447963.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 768,
+   "file": "11-1165-768.5260d15dfe92.pmtiles",
+   "bytes": 169055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1165-768.5260d15dfe92.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 764,
+   "file": "11-1166-764.dd8527fda7c4.pmtiles",
+   "bytes": 33453,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1166-764.dd8527fda7c4.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 765,
+   "file": "11-1166-765.99b955d187d3.pmtiles",
+   "bytes": 151202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1166-765.99b955d187d3.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 766,
+   "file": "11-1166-766.8844b08e47f9.pmtiles",
+   "bytes": 242573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1166-766.8844b08e47f9.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 767,
+   "file": "11-1166-767.49f633783d81.pmtiles",
+   "bytes": 226756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1166-767.49f633783d81.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 768,
+   "file": "11-1166-768.b193ea7bd661.pmtiles",
+   "bytes": 56310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1166-768.b193ea7bd661.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 765,
+   "file": "11-1167-765.8e6539cc9da8.pmtiles",
+   "bytes": 95831,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1167-765.8e6539cc9da8.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 766,
+   "file": "11-1167-766.faa03417d90a.pmtiles",
+   "bytes": 209639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1167-766.faa03417d90a.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 767,
+   "file": "11-1167-767.7b0cf6421eed.pmtiles",
+   "bytes": 198193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1167-767.7b0cf6421eed.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 768,
+   "file": "11-1167-768.7f2d4e8ffaae.pmtiles",
+   "bytes": 90099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1167-768.7f2d4e8ffaae.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 765,
+   "file": "11-1168-765.31ade6127c19.pmtiles",
+   "bytes": 51918,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1168-765.31ade6127c19.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 766,
+   "file": "11-1168-766.177f3a15597e.pmtiles",
+   "bytes": 418291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1168-766.177f3a15597e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 767,
+   "file": "11-1168-767.c783bc24988b.pmtiles",
+   "bytes": 300134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1168-767.c783bc24988b.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 768,
+   "file": "11-1168-768.a3e619603c77.pmtiles",
+   "bytes": 147386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1168-768.a3e619603c77.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 771,
+   "file": "11-1168-771.ea4b31b911ca.pmtiles",
+   "bytes": 37777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1168-771.ea4b31b911ca.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 765,
+   "file": "11-1169-765.688f0392b92f.pmtiles",
+   "bytes": 89422,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-765.688f0392b92f.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 766,
+   "file": "11-1169-766.d8fbbe537b9d.pmtiles",
+   "bytes": 214194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-766.d8fbbe537b9d.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 767,
+   "file": "11-1169-767.72e8f1e13bf6.pmtiles",
+   "bytes": 224486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-767.72e8f1e13bf6.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 768,
+   "file": "11-1169-768.1a8e4cfefe7e.pmtiles",
+   "bytes": 208638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-768.1a8e4cfefe7e.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 771,
+   "file": "11-1169-771.15da4dcf4e72.pmtiles",
+   "bytes": 166031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-771.15da4dcf4e72.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 772,
+   "file": "11-1169-772.9be0cab67e78.pmtiles",
+   "bytes": 66835,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1169-772.9be0cab67e78.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 765,
+   "file": "11-1170-765.66967358058d.pmtiles",
+   "bytes": 121985,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-765.66967358058d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 766,
+   "file": "11-1170-766.fca73cf8f54d.pmtiles",
+   "bytes": 156707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-766.fca73cf8f54d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 767,
+   "file": "11-1170-767.74653450d774.pmtiles",
+   "bytes": 227229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-767.74653450d774.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 768,
+   "file": "11-1170-768.a41088f1321b.pmtiles",
+   "bytes": 245155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-768.a41088f1321b.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 769,
+   "file": "11-1170-769.5c1430ee40cb.pmtiles",
+   "bytes": 24371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-769.5c1430ee40cb.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 771,
+   "file": "11-1170-771.9db293cceef4.pmtiles",
+   "bytes": 17300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1170-771.9db293cceef4.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 765,
+   "file": "11-1171-765.95ac2f1563da.pmtiles",
+   "bytes": 119079,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1171-765.95ac2f1563da.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 766,
+   "file": "11-1171-766.d4904a615919.pmtiles",
+   "bytes": 175701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1171-766.d4904a615919.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 767,
+   "file": "11-1171-767.56927c51a125.pmtiles",
+   "bytes": 132953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1171-767.56927c51a125.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 768,
+   "file": "11-1171-768.66c14994fbb2.pmtiles",
+   "bytes": 391009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1171-768.66c14994fbb2.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 769,
+   "file": "11-1171-769.bf0aff9eb85f.pmtiles",
+   "bytes": 111219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1171-769.bf0aff9eb85f.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 762,
+   "file": "11-1172-762.d95140fd15a1.pmtiles",
+   "bytes": 104065,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-762.d95140fd15a1.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 763,
+   "file": "11-1172-763.e8a3dc9294ec.pmtiles",
+   "bytes": 63071,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-763.e8a3dc9294ec.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 764,
+   "file": "11-1172-764.d40bb38992e6.pmtiles",
+   "bytes": 51621,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-764.d40bb38992e6.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 765,
+   "file": "11-1172-765.1e5fd18a3c5c.pmtiles",
+   "bytes": 166606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-765.1e5fd18a3c5c.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 766,
+   "file": "11-1172-766.86ec818c2388.pmtiles",
+   "bytes": 161222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-766.86ec818c2388.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 767,
+   "file": "11-1172-767.218b60c3c797.pmtiles",
+   "bytes": 153852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-767.218b60c3c797.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 768,
+   "file": "11-1172-768.95add92f9ea1.pmtiles",
+   "bytes": 260775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-768.95add92f9ea1.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 769,
+   "file": "11-1172-769.2be00c60adb5.pmtiles",
+   "bytes": 169455,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1172-769.2be00c60adb5.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 762,
+   "file": "11-1173-762.36718421de4e.pmtiles",
+   "bytes": 143831,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-762.36718421de4e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 763,
+   "file": "11-1173-763.b08a98a6c10a.pmtiles",
+   "bytes": 184255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-763.b08a98a6c10a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 764,
+   "file": "11-1173-764.a263c2e7fb78.pmtiles",
+   "bytes": 206787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-764.a263c2e7fb78.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 765,
+   "file": "11-1173-765.4ea17d2796a6.pmtiles",
+   "bytes": 197150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-765.4ea17d2796a6.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 766,
+   "file": "11-1173-766.b160cfb6f320.pmtiles",
+   "bytes": 249548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-766.b160cfb6f320.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 767,
+   "file": "11-1173-767.9a07c586ebc8.pmtiles",
+   "bytes": 203285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-767.9a07c586ebc8.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 768,
+   "file": "11-1173-768.6a3076fba014.pmtiles",
+   "bytes": 173308,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1173-768.6a3076fba014.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 762,
+   "file": "11-1174-762.8f9820e814c8.pmtiles",
+   "bytes": 107696,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1174-762.8f9820e814c8.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 763,
+   "file": "11-1174-763.a2dc51d83676.pmtiles",
+   "bytes": 185254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1174-763.a2dc51d83676.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 764,
+   "file": "11-1174-764.3af82dda1ae0.pmtiles",
+   "bytes": 208393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1174-764.3af82dda1ae0.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 765,
+   "file": "11-1174-765.0a0f69fd56e4.pmtiles",
+   "bytes": 288417,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1174-765.0a0f69fd56e4.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 763,
+   "file": "11-1175-763.0ac7e550d7a5.pmtiles",
+   "bytes": 60577,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1175-763.0ac7e550d7a5.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 764,
+   "file": "11-1175-764.fd9bdfc4181d.pmtiles",
+   "bytes": 115879,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1175-764.fd9bdfc4181d.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 765,
+   "file": "11-1175-765.d3354cb27793.pmtiles",
+   "bytes": 60236,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-eastern-macedonia-and-thrace-2026-10-03/11-1175-765.d3354cb27793.pmtiles"
+  }
+ ]
+}

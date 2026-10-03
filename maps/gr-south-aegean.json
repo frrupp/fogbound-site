@@ -1,0 +1,1861 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gr-south-aegean",
+ "source": "gr.pmtiles",
+ "builtAt": "2026-10-03T19:31:13.205Z",
+ "publishedAt": "2026-10-03T20:33:12.215Z",
+ "host": "github",
+ "releases": [
+  "maps-gr-south-aegean-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  24.04099,
+  35.25797,
+  29.68381,
+  38.07797
+ ],
+ "overview": {
+  "file": "overview.40b2a4866010.pmtiles",
+  "bytes": 2339715,
+  "tiles": 239,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/overview.40b2a4866010.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1160,
+   "y": 789,
+   "file": "11-1160-789.056a9debd028.pmtiles",
+   "bytes": 48712,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-789.056a9debd028.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 790,
+   "file": "11-1160-790.898521c31131.pmtiles",
+   "bytes": 97654,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-790.898521c31131.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 791,
+   "file": "11-1160-791.a18fd13ad77a.pmtiles",
+   "bytes": 310986,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-791.a18fd13ad77a.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 792,
+   "file": "11-1160-792.36007f3d0f26.pmtiles",
+   "bytes": 146561,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-792.36007f3d0f26.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 807,
+   "file": "11-1160-807.1703a6f503b6.pmtiles",
+   "bytes": 338293,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-807.1703a6f503b6.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 808,
+   "file": "11-1160-808.e201dbccaf86.pmtiles",
+   "bytes": 105243,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-808.e201dbccaf86.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 809,
+   "file": "11-1160-809.babe1f5b1a88.pmtiles",
+   "bytes": 39139,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1160-809.babe1f5b1a88.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 789,
+   "file": "11-1161-789.019f5259d606.pmtiles",
+   "bytes": 43255,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-789.019f5259d606.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 790,
+   "file": "11-1161-790.ba705e7f9b2f.pmtiles",
+   "bytes": 23865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-790.ba705e7f9b2f.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 791,
+   "file": "11-1161-791.6b56e29f7e90.pmtiles",
+   "bytes": 50040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-791.6b56e29f7e90.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 792,
+   "file": "11-1161-792.57f1f766063e.pmtiles",
+   "bytes": 67333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-792.57f1f766063e.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 793,
+   "file": "11-1161-793.1ccef92f75b7.pmtiles",
+   "bytes": 34345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-793.1ccef92f75b7.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 794,
+   "file": "11-1161-794.bb9ba89cd640.pmtiles",
+   "bytes": 18347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-794.bb9ba89cd640.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 795,
+   "file": "11-1161-795.cbad45a8929c.pmtiles",
+   "bytes": 18750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-795.cbad45a8929c.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 798,
+   "file": "11-1161-798.f8dfdf9c5753.pmtiles",
+   "bytes": 28286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-798.f8dfdf9c5753.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 807,
+   "file": "11-1161-807.54eabb3dfaa6.pmtiles",
+   "bytes": 383223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-807.54eabb3dfaa6.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 808,
+   "file": "11-1161-808.a12ef3d7e7a6.pmtiles",
+   "bytes": 549014,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-808.a12ef3d7e7a6.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 809,
+   "file": "11-1161-809.ddd813564d27.pmtiles",
+   "bytes": 132552,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1161-809.ddd813564d27.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 789,
+   "file": "11-1162-789.92b4b6b36b7d.pmtiles",
+   "bytes": 280803,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-789.92b4b6b36b7d.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 790,
+   "file": "11-1162-790.a19d9eaa8ec1.pmtiles",
+   "bytes": 57386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-790.a19d9eaa8ec1.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 791,
+   "file": "11-1162-791.5c831b692eb5.pmtiles",
+   "bytes": 22180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-791.5c831b692eb5.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 792,
+   "file": "11-1162-792.f13b237d65fe.pmtiles",
+   "bytes": 251847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-792.f13b237d65fe.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 793,
+   "file": "11-1162-793.2fd336acffec.pmtiles",
+   "bytes": 103269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-793.2fd336acffec.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 794,
+   "file": "11-1162-794.1927467de78a.pmtiles",
+   "bytes": 155095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-794.1927467de78a.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 795,
+   "file": "11-1162-795.aa481825db45.pmtiles",
+   "bytes": 29875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-795.aa481825db45.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 796,
+   "file": "11-1162-796.bc25ab1ae8dd.pmtiles",
+   "bytes": 36602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-796.bc25ab1ae8dd.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 798,
+   "file": "11-1162-798.814f5c745f74.pmtiles",
+   "bytes": 120630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-798.814f5c745f74.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 799,
+   "file": "11-1162-799.fe82d4fffe38.pmtiles",
+   "bytes": 162088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-799.fe82d4fffe38.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 808,
+   "file": "11-1162-808.b3147b0cfef5.pmtiles",
+   "bytes": 340915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-808.b3147b0cfef5.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 809,
+   "file": "11-1162-809.7cbbc792f4ba.pmtiles",
+   "bytes": 236835,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1162-809.7cbbc792f4ba.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 789,
+   "file": "11-1163-789.76d1cdec1a32.pmtiles",
+   "bytes": 178160,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-789.76d1cdec1a32.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 790,
+   "file": "11-1163-790.70428ec34273.pmtiles",
+   "bytes": 87132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-790.70428ec34273.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 793,
+   "file": "11-1163-793.8e872f0303b5.pmtiles",
+   "bytes": 31217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-793.8e872f0303b5.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 794,
+   "file": "11-1163-794.5f071f719d37.pmtiles",
+   "bytes": 74662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-794.5f071f719d37.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 795,
+   "file": "11-1163-795.768081005063.pmtiles",
+   "bytes": 102113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-795.768081005063.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 796,
+   "file": "11-1163-796.d2403e5bd6d8.pmtiles",
+   "bytes": 134577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-796.d2403e5bd6d8.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 797,
+   "file": "11-1163-797.a120e898d7b3.pmtiles",
+   "bytes": 28032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-797.a120e898d7b3.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 798,
+   "file": "11-1163-798.409acabee95f.pmtiles",
+   "bytes": 261497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-798.409acabee95f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 799,
+   "file": "11-1163-799.30443197e918.pmtiles",
+   "bytes": 306118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-799.30443197e918.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 808,
+   "file": "11-1163-808.965b0981d1cb.pmtiles",
+   "bytes": 723988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-808.965b0981d1cb.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 809,
+   "file": "11-1163-809.d9f5b411fc87.pmtiles",
+   "bytes": 203881,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1163-809.d9f5b411fc87.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 790,
+   "file": "11-1164-790.43da66fad754.pmtiles",
+   "bytes": 217607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-790.43da66fad754.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 791,
+   "file": "11-1164-791.4f8346ae2580.pmtiles",
+   "bytes": 42658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-791.4f8346ae2580.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 792,
+   "file": "11-1164-792.8efcc1c13a9c.pmtiles",
+   "bytes": 34608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-792.8efcc1c13a9c.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 793,
+   "file": "11-1164-793.4300b6811e57.pmtiles",
+   "bytes": 21909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-793.4300b6811e57.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 796,
+   "file": "11-1164-796.4ecfc5d7f7ea.pmtiles",
+   "bytes": 32798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-796.4ecfc5d7f7ea.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 797,
+   "file": "11-1164-797.3b655dc06e07.pmtiles",
+   "bytes": 256092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-797.3b655dc06e07.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 798,
+   "file": "11-1164-798.33645056b933.pmtiles",
+   "bytes": 61711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-798.33645056b933.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 799,
+   "file": "11-1164-799.32385e5395f7.pmtiles",
+   "bytes": 21182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-799.32385e5395f7.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 808,
+   "file": "11-1164-808.efcd1c904f19.pmtiles",
+   "bytes": 477253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-808.efcd1c904f19.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 809,
+   "file": "11-1164-809.2ca060e76812.pmtiles",
+   "bytes": 121555,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1164-809.2ca060e76812.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 790,
+   "file": "11-1165-790.5425f2640678.pmtiles",
+   "bytes": 187592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-790.5425f2640678.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 791,
+   "file": "11-1165-791.1d8d306c4813.pmtiles",
+   "bytes": 409802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-791.1d8d306c4813.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 792,
+   "file": "11-1165-792.86a3bf188681.pmtiles",
+   "bytes": 42344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-792.86a3bf188681.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 793,
+   "file": "11-1165-793.72207f704601.pmtiles",
+   "bytes": 358405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-793.72207f704601.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 794,
+   "file": "11-1165-794.77bed3ce4614.pmtiles",
+   "bytes": 494269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-794.77bed3ce4614.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 799,
+   "file": "11-1165-799.1e810795f9a1.pmtiles",
+   "bytes": 120658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-799.1e810795f9a1.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 800,
+   "file": "11-1165-800.236dcfcf8151.pmtiles",
+   "bytes": 24298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-800.236dcfcf8151.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 808,
+   "file": "11-1165-808.4f7490b7b122.pmtiles",
+   "bytes": 252202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-808.4f7490b7b122.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 809,
+   "file": "11-1165-809.0abd754624d3.pmtiles",
+   "bytes": 146495,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1165-809.0abd754624d3.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 791,
+   "file": "11-1166-791.532d26dca1b6.pmtiles",
+   "bytes": 43116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-791.532d26dca1b6.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 792,
+   "file": "11-1166-792.7decf9819b0d.pmtiles",
+   "bytes": 191992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-792.7decf9819b0d.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 793,
+   "file": "11-1166-793.a27a999ffbaa.pmtiles",
+   "bytes": 85122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-793.a27a999ffbaa.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 794,
+   "file": "11-1166-794.3ee0d6df2f7b.pmtiles",
+   "bytes": 63926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-794.3ee0d6df2f7b.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 796,
+   "file": "11-1166-796.8d908fe28271.pmtiles",
+   "bytes": 147792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-796.8d908fe28271.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 797,
+   "file": "11-1166-797.1f5411ebd25b.pmtiles",
+   "bytes": 135495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-797.1f5411ebd25b.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 798,
+   "file": "11-1166-798.b9d03f1a7705.pmtiles",
+   "bytes": 20925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-798.b9d03f1a7705.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 799,
+   "file": "11-1166-799.1524d7ae081c.pmtiles",
+   "bytes": 68451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-799.1524d7ae081c.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 800,
+   "file": "11-1166-800.1fb29630a536.pmtiles",
+   "bytes": 25867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-800.1fb29630a536.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 808,
+   "file": "11-1166-808.5812bab99241.pmtiles",
+   "bytes": 919801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-808.5812bab99241.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 809,
+   "file": "11-1166-809.19072bdd707e.pmtiles",
+   "bytes": 323246,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1166-809.19072bdd707e.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 792,
+   "file": "11-1167-792.46feb7974614.pmtiles",
+   "bytes": 127291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-792.46feb7974614.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 793,
+   "file": "11-1167-793.a27070ae3f1f.pmtiles",
+   "bytes": 269089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-793.a27070ae3f1f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 794,
+   "file": "11-1167-794.51585eb43c6f.pmtiles",
+   "bytes": 138236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-794.51585eb43c6f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 795,
+   "file": "11-1167-795.a044e7422807.pmtiles",
+   "bytes": 33299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-795.a044e7422807.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 796,
+   "file": "11-1167-796.1d128593ef7f.pmtiles",
+   "bytes": 508820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-796.1d128593ef7f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 797,
+   "file": "11-1167-797.423251e59904.pmtiles",
+   "bytes": 132057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-797.423251e59904.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 798,
+   "file": "11-1167-798.1408a45af096.pmtiles",
+   "bytes": 80980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-798.1408a45af096.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 799,
+   "file": "11-1167-799.1b0344151f41.pmtiles",
+   "bytes": 201181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-799.1b0344151f41.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 800,
+   "file": "11-1167-800.050449d785e2.pmtiles",
+   "bytes": 32744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-800.050449d785e2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 802,
+   "file": "11-1167-802.74f81c36d36d.pmtiles",
+   "bytes": 30827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-802.74f81c36d36d.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 808,
+   "file": "11-1167-808.5ea2aebb646d.pmtiles",
+   "bytes": 686079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-808.5ea2aebb646d.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 809,
+   "file": "11-1167-809.8791b519a094.pmtiles",
+   "bytes": 475074,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1167-809.8791b519a094.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 793,
+   "file": "11-1168-793.d665691fe7c7.pmtiles",
+   "bytes": 379141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-793.d665691fe7c7.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 794,
+   "file": "11-1168-794.a9d1c45b3767.pmtiles",
+   "bytes": 212752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-794.a9d1c45b3767.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 795,
+   "file": "11-1168-795.e234e43ba180.pmtiles",
+   "bytes": 36209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-795.e234e43ba180.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 796,
+   "file": "11-1168-796.fe0e595125d3.pmtiles",
+   "bytes": 637893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-796.fe0e595125d3.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 797,
+   "file": "11-1168-797.1eaf91ccd44e.pmtiles",
+   "bytes": 129852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-797.1eaf91ccd44e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 798,
+   "file": "11-1168-798.fd5097ae036c.pmtiles",
+   "bytes": 165610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-798.fd5097ae036c.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 799,
+   "file": "11-1168-799.f1add36ab313.pmtiles",
+   "bytes": 167926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-799.f1add36ab313.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 800,
+   "file": "11-1168-800.0b2e1000ee3b.pmtiles",
+   "bytes": 165167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-800.0b2e1000ee3b.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 801,
+   "file": "11-1168-801.d9d38382e5d8.pmtiles",
+   "bytes": 662043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-801.d9d38382e5d8.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 808,
+   "file": "11-1168-808.338fe523a066.pmtiles",
+   "bytes": 292344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-808.338fe523a066.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 809,
+   "file": "11-1168-809.bc09d4ece0ac.pmtiles",
+   "bytes": 592954,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1168-809.bc09d4ece0ac.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 793,
+   "file": "11-1169-793.45513164c218.pmtiles",
+   "bytes": 22303,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-793.45513164c218.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 794,
+   "file": "11-1169-794.aedf06ddbe35.pmtiles",
+   "bytes": 21954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-794.aedf06ddbe35.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 795,
+   "file": "11-1169-795.db7d82d84603.pmtiles",
+   "bytes": 66282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-795.db7d82d84603.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 796,
+   "file": "11-1169-796.8e2d440cc50d.pmtiles",
+   "bytes": 273468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-796.8e2d440cc50d.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 797,
+   "file": "11-1169-797.ced1eb6f0fc6.pmtiles",
+   "bytes": 246504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-797.ced1eb6f0fc6.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 798,
+   "file": "11-1169-798.973ee008925e.pmtiles",
+   "bytes": 120610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-798.973ee008925e.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 800,
+   "file": "11-1169-800.1db20d1da3e0.pmtiles",
+   "bytes": 23360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-800.1db20d1da3e0.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 801,
+   "file": "11-1169-801.99beafb30525.pmtiles",
+   "bytes": 29299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-801.99beafb30525.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 808,
+   "file": "11-1169-808.c8054cec5c82.pmtiles",
+   "bytes": 78845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-808.c8054cec5c82.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 809,
+   "file": "11-1169-809.0d5b9e2d02b7.pmtiles",
+   "bytes": 336517,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1169-809.0d5b9e2d02b7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 796,
+   "file": "11-1170-796.5d6f38f32e85.pmtiles",
+   "bytes": 114630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-796.5d6f38f32e85.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 797,
+   "file": "11-1170-797.2353ca697113.pmtiles",
+   "bytes": 22575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-797.2353ca697113.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 798,
+   "file": "11-1170-798.f70257cb7c5f.pmtiles",
+   "bytes": 114869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-798.f70257cb7c5f.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 799,
+   "file": "11-1170-799.bc0cdffab20d.pmtiles",
+   "bytes": 20972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-799.bc0cdffab20d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 801,
+   "file": "11-1170-801.fa0bbfd3818e.pmtiles",
+   "bytes": 111899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-801.fa0bbfd3818e.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 802,
+   "file": "11-1170-802.778da353ce90.pmtiles",
+   "bytes": 23425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-802.778da353ce90.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 808,
+   "file": "11-1170-808.ea410ec14a83.pmtiles",
+   "bytes": 89335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-808.ea410ec14a83.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 809,
+   "file": "11-1170-809.33e7ae69370e.pmtiles",
+   "bytes": 232199,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1170-809.33e7ae69370e.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 792,
+   "file": "11-1171-792.527462351bb9.pmtiles",
+   "bytes": 19016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-792.527462351bb9.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 793,
+   "file": "11-1171-793.77a9fb4dbed3.pmtiles",
+   "bytes": 46930,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-793.77a9fb4dbed3.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 797,
+   "file": "11-1171-797.440705fb0276.pmtiles",
+   "bytes": 74935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-797.440705fb0276.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 798,
+   "file": "11-1171-798.22ad553794d9.pmtiles",
+   "bytes": 129278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-798.22ad553794d9.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 799,
+   "file": "11-1171-799.9e8c78fd0fe6.pmtiles",
+   "bytes": 17508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-799.9e8c78fd0fe6.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 809,
+   "file": "11-1171-809.b6e90c45f80a.pmtiles",
+   "bytes": 23165,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1171-809.b6e90c45f80a.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 792,
+   "file": "11-1172-792.e445a405ef36.pmtiles",
+   "bytes": 263685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-792.e445a405ef36.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 793,
+   "file": "11-1172-793.90ab3f74ffc4.pmtiles",
+   "bytes": 112213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-793.90ab3f74ffc4.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 797,
+   "file": "11-1172-797.3a003faf1870.pmtiles",
+   "bytes": 22352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-797.3a003faf1870.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 799,
+   "file": "11-1172-799.23b7cd4a607d.pmtiles",
+   "bytes": 19530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-799.23b7cd4a607d.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 808,
+   "file": "11-1172-808.b100257d1961.pmtiles",
+   "bytes": 28129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-808.b100257d1961.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 809,
+   "file": "11-1172-809.7b5a20248eb5.pmtiles",
+   "bytes": 30773,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1172-809.7b5a20248eb5.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 792,
+   "file": "11-1173-792.672783556164.pmtiles",
+   "bytes": 247016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-792.672783556164.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 793,
+   "file": "11-1173-793.5fccd93b0a1b.pmtiles",
+   "bytes": 45239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-793.5fccd93b0a1b.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 797,
+   "file": "11-1173-797.61950b825439.pmtiles",
+   "bytes": 21855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-797.61950b825439.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 799,
+   "file": "11-1173-799.23bc195e63d1.pmtiles",
+   "bytes": 43373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-799.23bc195e63d1.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 800,
+   "file": "11-1173-800.f9051dc13c20.pmtiles",
+   "bytes": 125215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-800.f9051dc13c20.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 809,
+   "file": "11-1173-809.9a8b577a1f78.pmtiles",
+   "bytes": 77336,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1173-809.9a8b577a1f78.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 791,
+   "file": "11-1174-791.ab421bb351fb.pmtiles",
+   "bytes": 18111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-791.ab421bb351fb.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 792,
+   "file": "11-1174-792.291abbe93ba6.pmtiles",
+   "bytes": 103511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-792.291abbe93ba6.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 793,
+   "file": "11-1174-793.79c9ec3164c8.pmtiles",
+   "bytes": 101528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-793.79c9ec3164c8.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 794,
+   "file": "11-1174-794.c95ddad31276.pmtiles",
+   "bytes": 67981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-794.c95ddad31276.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 795,
+   "file": "11-1174-795.ee1e4a067fdd.pmtiles",
+   "bytes": 24945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-795.ee1e4a067fdd.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 797,
+   "file": "11-1174-797.021f51872360.pmtiles",
+   "bytes": 27897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-797.021f51872360.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 799,
+   "file": "11-1174-799.2786238d7172.pmtiles",
+   "bytes": 38079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-799.2786238d7172.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 800,
+   "file": "11-1174-800.0ecf1f53c7dd.pmtiles",
+   "bytes": 69965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-800.0ecf1f53c7dd.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 805,
+   "file": "11-1174-805.ce5dc3088872.pmtiles",
+   "bytes": 19452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1174-805.ce5dc3088872.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 791,
+   "file": "11-1175-791.7d05b577ee7c.pmtiles",
+   "bytes": 296273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-791.7d05b577ee7c.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 792,
+   "file": "11-1175-792.61711ad1d14e.pmtiles",
+   "bytes": 121887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-792.61711ad1d14e.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 793,
+   "file": "11-1175-793.2c04d0cd1936.pmtiles",
+   "bytes": 26080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-793.2c04d0cd1936.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 794,
+   "file": "11-1175-794.003b24e58a22.pmtiles",
+   "bytes": 189139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-794.003b24e58a22.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 795,
+   "file": "11-1175-795.5de870b170a7.pmtiles",
+   "bytes": 53787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-795.5de870b170a7.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 798,
+   "file": "11-1175-798.493369d021e7.pmtiles",
+   "bytes": 20731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-798.493369d021e7.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 801,
+   "file": "11-1175-801.dbed1bf786d1.pmtiles",
+   "bytes": 38409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1175-801.dbed1bf786d1.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 791,
+   "file": "11-1176-791.d0904176c77f.pmtiles",
+   "bytes": 411599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-791.d0904176c77f.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 792,
+   "file": "11-1176-792.bce5468160d5.pmtiles",
+   "bytes": 273995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-792.bce5468160d5.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 793,
+   "file": "11-1176-793.baeee0582cce.pmtiles",
+   "bytes": 23933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-793.baeee0582cce.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 794,
+   "file": "11-1176-794.b2495d69a7ec.pmtiles",
+   "bytes": 124001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-794.b2495d69a7ec.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 795,
+   "file": "11-1176-795.ec5a520fc631.pmtiles",
+   "bytes": 227328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-795.ec5a520fc631.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 796,
+   "file": "11-1176-796.22401cfff8d3.pmtiles",
+   "bytes": 162477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-796.22401cfff8d3.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 797,
+   "file": "11-1176-797.b4cd96d0faf8.pmtiles",
+   "bytes": 38395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-797.b4cd96d0faf8.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 798,
+   "file": "11-1176-798.9f063fd9efe2.pmtiles",
+   "bytes": 31022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-798.9f063fd9efe2.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 799,
+   "file": "11-1176-799.798847f5bc22.pmtiles",
+   "bytes": 20963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-799.798847f5bc22.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 808,
+   "file": "11-1176-808.bc62ea6c2553.pmtiles",
+   "bytes": 44382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1176-808.bc62ea6c2553.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 791,
+   "file": "11-1177-791.4f489a3110f5.pmtiles",
+   "bytes": 346344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-791.4f489a3110f5.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 792,
+   "file": "11-1177-792.983564f0da75.pmtiles",
+   "bytes": 209206,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-792.983564f0da75.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 793,
+   "file": "11-1177-793.05ac006f9e44.pmtiles",
+   "bytes": 102744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-793.05ac006f9e44.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 794,
+   "file": "11-1177-794.91913a911944.pmtiles",
+   "bytes": 21298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-794.91913a911944.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 795,
+   "file": "11-1177-795.3e727c04e570.pmtiles",
+   "bytes": 19340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-795.3e727c04e570.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 796,
+   "file": "11-1177-796.a32976d41552.pmtiles",
+   "bytes": 132396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-796.a32976d41552.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 797,
+   "file": "11-1177-797.38cb21e8161c.pmtiles",
+   "bytes": 763816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-797.38cb21e8161c.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 798,
+   "file": "11-1177-798.3a8af0059139.pmtiles",
+   "bytes": 193882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-798.3a8af0059139.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 799,
+   "file": "11-1177-799.d935249caa85.pmtiles",
+   "bytes": 84989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-799.d935249caa85.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 800,
+   "file": "11-1177-800.249b45f77a7a.pmtiles",
+   "bytes": 25176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-800.249b45f77a7a.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 806,
+   "file": "11-1177-806.c63659ddfd65.pmtiles",
+   "bytes": 21144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-806.c63659ddfd65.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 807,
+   "file": "11-1177-807.b6b916fa22ba.pmtiles",
+   "bytes": 33248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-807.b6b916fa22ba.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 808,
+   "file": "11-1177-808.c146eb31732d.pmtiles",
+   "bytes": 95048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1177-808.c146eb31732d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 791,
+   "file": "11-1178-791.22fd6c85f258.pmtiles",
+   "bytes": 24828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-791.22fd6c85f258.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 792,
+   "file": "11-1178-792.38fdf22caf5d.pmtiles",
+   "bytes": 21198,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-792.38fdf22caf5d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 795,
+   "file": "11-1178-795.7f43ac1cdd3a.pmtiles",
+   "bytes": 17929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-795.7f43ac1cdd3a.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 796,
+   "file": "11-1178-796.cd3fb6f6c748.pmtiles",
+   "bytes": 45671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-796.cd3fb6f6c748.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 797,
+   "file": "11-1178-797.c1e71c5be930.pmtiles",
+   "bytes": 242822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-797.c1e71c5be930.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 798,
+   "file": "11-1178-798.3a97e56b53e7.pmtiles",
+   "bytes": 498190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-798.3a97e56b53e7.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 799,
+   "file": "11-1178-799.fbba162f46ea.pmtiles",
+   "bytes": 89653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-799.fbba162f46ea.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 800,
+   "file": "11-1178-800.d1442280cde7.pmtiles",
+   "bytes": 58219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-800.d1442280cde7.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 804,
+   "file": "11-1178-804.052c8e31b803.pmtiles",
+   "bytes": 29338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-804.052c8e31b803.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 805,
+   "file": "11-1178-805.e411ce361893.pmtiles",
+   "bytes": 209030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-805.e411ce361893.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 806,
+   "file": "11-1178-806.46e33b8b961c.pmtiles",
+   "bytes": 266349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-806.46e33b8b961c.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 807,
+   "file": "11-1178-807.cfd239ed4998.pmtiles",
+   "bytes": 387387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-807.cfd239ed4998.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 808,
+   "file": "11-1178-808.71dedd24efb0.pmtiles",
+   "bytes": 80948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1178-808.71dedd24efb0.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 796,
+   "file": "11-1179-796.726c71ef233f.pmtiles",
+   "bytes": 31482,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-796.726c71ef233f.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 797,
+   "file": "11-1179-797.7162ded0f4f3.pmtiles",
+   "bytes": 324949,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-797.7162ded0f4f3.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 798,
+   "file": "11-1179-798.fe0f2a61530a.pmtiles",
+   "bytes": 131112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-798.fe0f2a61530a.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 799,
+   "file": "11-1179-799.8268da84a5a1.pmtiles",
+   "bytes": 36889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-799.8268da84a5a1.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 800,
+   "file": "11-1179-800.848a3032c3f6.pmtiles",
+   "bytes": 46182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-800.848a3032c3f6.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 801,
+   "file": "11-1179-801.e92cc85c49b0.pmtiles",
+   "bytes": 112135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-801.e92cc85c49b0.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 805,
+   "file": "11-1179-805.d0159ecb715d.pmtiles",
+   "bytes": 17324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1179-805.d0159ecb715d.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 795,
+   "file": "11-1180-795.09f37a289a18.pmtiles",
+   "bytes": 25717,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-795.09f37a289a18.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 797,
+   "file": "11-1180-797.966feec6b953.pmtiles",
+   "bytes": 28655,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-797.966feec6b953.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 798,
+   "file": "11-1180-798.4a35de557547.pmtiles",
+   "bytes": 20267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-798.4a35de557547.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 799,
+   "file": "11-1180-799.94984484e635.pmtiles",
+   "bytes": 29955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-799.94984484e635.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 800,
+   "file": "11-1180-800.2ea683437bf6.pmtiles",
+   "bytes": 20434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-800.2ea683437bf6.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 801,
+   "file": "11-1180-801.07f275f5aa11.pmtiles",
+   "bytes": 39872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-801.07f275f5aa11.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 802,
+   "file": "11-1180-802.bc5df68f8349.pmtiles",
+   "bytes": 39303,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1180-802.bc5df68f8349.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 798,
+   "file": "11-1181-798.52a2c1d14f5b.pmtiles",
+   "bytes": 23520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-798.52a2c1d14f5b.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 799,
+   "file": "11-1181-799.b4ad9b4e0088.pmtiles",
+   "bytes": 39197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-799.b4ad9b4e0088.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 800,
+   "file": "11-1181-800.8d2ed28dc7d6.pmtiles",
+   "bytes": 33026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-800.8d2ed28dc7d6.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 801,
+   "file": "11-1181-801.6267b0cb3137.pmtiles",
+   "bytes": 24873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-801.6267b0cb3137.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 802,
+   "file": "11-1181-802.a79d3998ce09.pmtiles",
+   "bytes": 103314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-802.a79d3998ce09.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 803,
+   "file": "11-1181-803.ccd4758fb616.pmtiles",
+   "bytes": 119008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-803.ccd4758fb616.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 804,
+   "file": "11-1181-804.771632677a85.pmtiles",
+   "bytes": 64954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1181-804.771632677a85.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 798,
+   "file": "11-1182-798.ef33471a1a1c.pmtiles",
+   "bytes": 28617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-798.ef33471a1a1c.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 799,
+   "file": "11-1182-799.318fbfde2036.pmtiles",
+   "bytes": 188594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-799.318fbfde2036.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 800,
+   "file": "11-1182-800.39fa6aaf0bbb.pmtiles",
+   "bytes": 113575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-800.39fa6aaf0bbb.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 801,
+   "file": "11-1182-801.fb479d56caa4.pmtiles",
+   "bytes": 62673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-801.fb479d56caa4.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 802,
+   "file": "11-1182-802.7ed2e92771a5.pmtiles",
+   "bytes": 296696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-802.7ed2e92771a5.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 803,
+   "file": "11-1182-803.2e060b6282f0.pmtiles",
+   "bytes": 290654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-803.2e060b6282f0.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 804,
+   "file": "11-1182-804.1de3ecad7ac4.pmtiles",
+   "bytes": 207642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1182-804.1de3ecad7ac4.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 798,
+   "file": "11-1183-798.74beded74272.pmtiles",
+   "bytes": 44888,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-798.74beded74272.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 799,
+   "file": "11-1183-799.24f49fa0b559.pmtiles",
+   "bytes": 52564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-799.24f49fa0b559.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 800,
+   "file": "11-1183-800.bcf5084404ba.pmtiles",
+   "bytes": 48878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-800.bcf5084404ba.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 801,
+   "file": "11-1183-801.cb4879eeb0f0.pmtiles",
+   "bytes": 371735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-801.cb4879eeb0f0.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 802,
+   "file": "11-1183-802.a89fd8cdf3ca.pmtiles",
+   "bytes": 328913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-802.a89fd8cdf3ca.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 803,
+   "file": "11-1183-803.62507727fc7e.pmtiles",
+   "bytes": 392705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1183-803.62507727fc7e.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 798,
+   "file": "11-1184-798.9af62cb3fb2f.pmtiles",
+   "bytes": 30597,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1184-798.9af62cb3fb2f.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 799,
+   "file": "11-1184-799.106ad0e99ae1.pmtiles",
+   "bytes": 33327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1184-799.106ad0e99ae1.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 800,
+   "file": "11-1184-800.34f5c613b434.pmtiles",
+   "bytes": 48115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1184-800.34f5c613b434.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 801,
+   "file": "11-1184-801.65fadc6ac483.pmtiles",
+   "bytes": 1086150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1184-801.65fadc6ac483.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 802,
+   "file": "11-1184-802.e1b6b0f05e63.pmtiles",
+   "bytes": 280185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1184-802.e1b6b0f05e63.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 798,
+   "file": "11-1185-798.e75ce4eb5ec4.pmtiles",
+   "bytes": 24611,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1185-798.e75ce4eb5ec4.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 799,
+   "file": "11-1188-799.e95d6d309f2b.pmtiles",
+   "bytes": 38065,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1188-799.e95d6d309f2b.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 799,
+   "file": "11-1189-799.2b5368b6a85e.pmtiles",
+   "bytes": 25936,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1189-799.2b5368b6a85e.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 800,
+   "file": "11-1189-800.e2c2d841f093.pmtiles",
+   "bytes": 22072,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1189-800.e2c2d841f093.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 802,
+   "file": "11-1191-802.2d4c3cf58a0c.pmtiles",
+   "bytes": 21345,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1191-802.2d4c3cf58a0c.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 803,
+   "file": "11-1191-803.cdd886cdb8ef.pmtiles",
+   "bytes": 17442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1191-803.cdd886cdb8ef.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 802,
+   "file": "11-1192-802.8c4115d67bc7.pmtiles",
+   "bytes": 22208,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1192-802.8c4115d67bc7.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 803,
+   "file": "11-1192-803.3028d855cda7.pmtiles",
+   "bytes": 104557,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-south-aegean-2026-10-03/11-1192-803.3028d855cda7.pmtiles"
+  }
+ ]
+}

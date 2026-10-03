@@ -1,0 +1,957 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gr-ionian-islands",
+ "source": "gr.pmtiles",
+ "builtAt": "2026-10-03T19:30:20.755Z",
+ "publishedAt": "2026-10-03T19:30:51.462Z",
+ "host": "github",
+ "releases": [
+  "maps-gr-ionian-islands-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  19.37296,
+  37.03904,
+  21.27288,
+  39.89897
+ ],
+ "overview": {
+  "file": "overview.389b278fa4bc.pmtiles",
+  "bytes": 2311845,
+  "tiles": 110,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/overview.389b278fa4bc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1134,
+   "y": 776,
+   "file": "11-1134-776.3140cb32c7f2.pmtiles",
+   "bytes": 99489,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1134-776.3140cb32c7f2.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 776,
+   "file": "11-1135-776.e43da7616389.pmtiles",
+   "bytes": 104416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1135-776.e43da7616389.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 777,
+   "file": "11-1135-777.ad99c33376fe.pmtiles",
+   "bytes": 221119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1135-777.ad99c33376fe.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 776,
+   "file": "11-1136-776.4a4280dfdb23.pmtiles",
+   "bytes": 413994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1136-776.4a4280dfdb23.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 777,
+   "file": "11-1136-777.a766d266bdd2.pmtiles",
+   "bytes": 994962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1136-777.a766d266bdd2.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 778,
+   "file": "11-1136-778.31db87ebb5e6.pmtiles",
+   "bytes": 401913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1136-778.31db87ebb5e6.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 779,
+   "file": "11-1136-779.6e2fe82d1ae6.pmtiles",
+   "bytes": 33766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1136-779.6e2fe82d1ae6.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 776,
+   "file": "11-1137-776.f95869caa0e9.pmtiles",
+   "bytes": 217920,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1137-776.f95869caa0e9.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 777,
+   "file": "11-1137-777.118d4534a842.pmtiles",
+   "bytes": 307995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1137-777.118d4534a842.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 778,
+   "file": "11-1137-778.5fcbe59d3e89.pmtiles",
+   "bytes": 851053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1137-778.5fcbe59d3e89.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 779,
+   "file": "11-1137-779.77e888b0c286.pmtiles",
+   "bytes": 442161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1137-779.77e888b0c286.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 777,
+   "file": "11-1138-777.8e3840332183.pmtiles",
+   "bytes": 50273,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1138-777.8e3840332183.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 778,
+   "file": "11-1138-778.07a18b3b5548.pmtiles",
+   "bytes": 163050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1138-778.07a18b3b5548.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 779,
+   "file": "11-1138-779.6727b39041fc.pmtiles",
+   "bytes": 332471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1138-779.6727b39041fc.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 780,
+   "file": "11-1138-780.7f80b786e327.pmtiles",
+   "bytes": 79138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1138-780.7f80b786e327.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 781,
+   "file": "11-1138-781.99cb11d2bf0c.pmtiles",
+   "bytes": 180479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1138-781.99cb11d2bf0c.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 776,
+   "file": "11-1139-776.ebbb3a8ef597.pmtiles",
+   "bytes": 56975,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-776.ebbb3a8ef597.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 777,
+   "file": "11-1139-777.ba456ef4e85f.pmtiles",
+   "bytes": 202562,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-777.ba456ef4e85f.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 778,
+   "file": "11-1139-778.d8c51bc13af6.pmtiles",
+   "bytes": 429160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-778.d8c51bc13af6.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 779,
+   "file": "11-1139-779.1a349555eecb.pmtiles",
+   "bytes": 494768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-779.1a349555eecb.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 780,
+   "file": "11-1139-780.4b7af64866c4.pmtiles",
+   "bytes": 150922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-780.4b7af64866c4.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 781,
+   "file": "11-1139-781.c6f3fc5b1333.pmtiles",
+   "bytes": 54519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-781.c6f3fc5b1333.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 782,
+   "file": "11-1139-782.ef5865635169.pmtiles",
+   "bytes": 19952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-782.ef5865635169.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 788,
+   "file": "11-1139-788.1b974b390f91.pmtiles",
+   "bytes": 130388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1139-788.1b974b390f91.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 776,
+   "file": "11-1140-776.8e775f4a3b5d.pmtiles",
+   "bytes": 292404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-776.8e775f4a3b5d.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 777,
+   "file": "11-1140-777.f623c2338921.pmtiles",
+   "bytes": 315281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-777.f623c2338921.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 778,
+   "file": "11-1140-778.502885646c2e.pmtiles",
+   "bytes": 327192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-778.502885646c2e.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 779,
+   "file": "11-1140-779.7fda9ae00709.pmtiles",
+   "bytes": 329918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-779.7fda9ae00709.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 780,
+   "file": "11-1140-780.edaa39c54fdc.pmtiles",
+   "bytes": 351589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-780.edaa39c54fdc.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 781,
+   "file": "11-1140-781.7c71a2be6db2.pmtiles",
+   "bytes": 121156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-781.7c71a2be6db2.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 784,
+   "file": "11-1140-784.453acda21b9f.pmtiles",
+   "bytes": 34243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-784.453acda21b9f.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 785,
+   "file": "11-1140-785.c75a30495a2d.pmtiles",
+   "bytes": 121290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-785.c75a30495a2d.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 786,
+   "file": "11-1140-786.90b48839a049.pmtiles",
+   "bytes": 83837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-786.90b48839a049.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 787,
+   "file": "11-1140-787.e8230eb24ffe.pmtiles",
+   "bytes": 237801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-787.e8230eb24ffe.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 788,
+   "file": "11-1140-788.0ea6d9701305.pmtiles",
+   "bytes": 538314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-788.0ea6d9701305.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 789,
+   "file": "11-1140-789.7e439d3de9b7.pmtiles",
+   "bytes": 146652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1140-789.7e439d3de9b7.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 776,
+   "file": "11-1141-776.d5c2855cc04a.pmtiles",
+   "bytes": 342217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-776.d5c2855cc04a.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 777,
+   "file": "11-1141-777.635bbabc039a.pmtiles",
+   "bytes": 357345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-777.635bbabc039a.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 778,
+   "file": "11-1141-778.358f5c84bfba.pmtiles",
+   "bytes": 382187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-778.358f5c84bfba.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 779,
+   "file": "11-1141-779.d31c2521c804.pmtiles",
+   "bytes": 285725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-779.d31c2521c804.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 780,
+   "file": "11-1141-780.2b0c32517703.pmtiles",
+   "bytes": 323992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-780.2b0c32517703.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 781,
+   "file": "11-1141-781.9d2b49f9c53d.pmtiles",
+   "bytes": 325243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-781.9d2b49f9c53d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 782,
+   "file": "11-1141-782.3c65bbbffc2e.pmtiles",
+   "bytes": 192425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-782.3c65bbbffc2e.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 783,
+   "file": "11-1141-783.d828fa4c053f.pmtiles",
+   "bytes": 219799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-783.d828fa4c053f.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 784,
+   "file": "11-1141-784.fffbbaf7e0a3.pmtiles",
+   "bytes": 846551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-784.fffbbaf7e0a3.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 785,
+   "file": "11-1141-785.422a92fadd5e.pmtiles",
+   "bytes": 446635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-785.422a92fadd5e.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 786,
+   "file": "11-1141-786.c5114506ca4f.pmtiles",
+   "bytes": 248407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-786.c5114506ca4f.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 787,
+   "file": "11-1141-787.a83be8978aa5.pmtiles",
+   "bytes": 302442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-787.a83be8978aa5.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 788,
+   "file": "11-1141-788.54c203d7929c.pmtiles",
+   "bytes": 298207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-788.54c203d7929c.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 789,
+   "file": "11-1141-789.bd7da2c9f971.pmtiles",
+   "bytes": 204672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-789.bd7da2c9f971.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 790,
+   "file": "11-1141-790.f28bb14be5b6.pmtiles",
+   "bytes": 155153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-790.f28bb14be5b6.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 791,
+   "file": "11-1141-791.6ba6171a5580.pmtiles",
+   "bytes": 169723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1141-791.6ba6171a5580.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 776,
+   "file": "11-1142-776.5f3759063d90.pmtiles",
+   "bytes": 353229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-776.5f3759063d90.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 777,
+   "file": "11-1142-777.6dcecd93bc2b.pmtiles",
+   "bytes": 882875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-777.6dcecd93bc2b.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 778,
+   "file": "11-1142-778.8699ae671bff.pmtiles",
+   "bytes": 616980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-778.8699ae671bff.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 779,
+   "file": "11-1142-779.98fc5eb297f8.pmtiles",
+   "bytes": 339840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-779.98fc5eb297f8.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 780,
+   "file": "11-1142-780.7224eb803e14.pmtiles",
+   "bytes": 319167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-780.7224eb803e14.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 781,
+   "file": "11-1142-781.81f835f7b80b.pmtiles",
+   "bytes": 366947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-781.81f835f7b80b.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 782,
+   "file": "11-1142-782.6228b4bc68a8.pmtiles",
+   "bytes": 277686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-782.6228b4bc68a8.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 783,
+   "file": "11-1142-783.afa82f7e96a7.pmtiles",
+   "bytes": 443050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-783.afa82f7e96a7.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 784,
+   "file": "11-1142-784.7b978129ba33.pmtiles",
+   "bytes": 268876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-784.7b978129ba33.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 785,
+   "file": "11-1142-785.d90f88c58677.pmtiles",
+   "bytes": 208633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-785.d90f88c58677.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 786,
+   "file": "11-1142-786.ab00b3ada420.pmtiles",
+   "bytes": 61168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-786.ab00b3ada420.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 787,
+   "file": "11-1142-787.8bef90602b19.pmtiles",
+   "bytes": 50440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-787.8bef90602b19.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 788,
+   "file": "11-1142-788.ec67aaafc6f8.pmtiles",
+   "bytes": 76629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-788.ec67aaafc6f8.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 789,
+   "file": "11-1142-789.a24ec0f1b380.pmtiles",
+   "bytes": 163507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-789.a24ec0f1b380.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 790,
+   "file": "11-1142-790.b3752ed8f758.pmtiles",
+   "bytes": 38439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-790.b3752ed8f758.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 791,
+   "file": "11-1142-791.b85510215da4.pmtiles",
+   "bytes": 768007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-791.b85510215da4.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 792,
+   "file": "11-1142-792.7f6a66ae5602.pmtiles",
+   "bytes": 175430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1142-792.7f6a66ae5602.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 776,
+   "file": "11-1143-776.6a988a5f2c5e.pmtiles",
+   "bytes": 304987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-776.6a988a5f2c5e.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 777,
+   "file": "11-1143-777.ffc194a9b939.pmtiles",
+   "bytes": 433214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-777.ffc194a9b939.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 778,
+   "file": "11-1143-778.03aa0ef31e23.pmtiles",
+   "bytes": 393949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-778.03aa0ef31e23.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 779,
+   "file": "11-1143-779.33ee5ef5a724.pmtiles",
+   "bytes": 335223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-779.33ee5ef5a724.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 780,
+   "file": "11-1143-780.0b3063356ea1.pmtiles",
+   "bytes": 329937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-780.0b3063356ea1.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 781,
+   "file": "11-1143-781.b8f0c5ae0bee.pmtiles",
+   "bytes": 607815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-781.b8f0c5ae0bee.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 782,
+   "file": "11-1143-782.349330bc496f.pmtiles",
+   "bytes": 206135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-782.349330bc496f.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 783,
+   "file": "11-1143-783.15b9466a0672.pmtiles",
+   "bytes": 347181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-783.15b9466a0672.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 784,
+   "file": "11-1143-784.9c80d29aaaf9.pmtiles",
+   "bytes": 233348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-784.9c80d29aaaf9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 785,
+   "file": "11-1143-785.4b1978c13e24.pmtiles",
+   "bytes": 212405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-785.4b1978c13e24.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 786,
+   "file": "11-1143-786.1d4b59672f23.pmtiles",
+   "bytes": 127706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-786.1d4b59672f23.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 787,
+   "file": "11-1143-787.8c083a395edf.pmtiles",
+   "bytes": 42723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-787.8c083a395edf.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 790,
+   "file": "11-1143-790.6d7336d5b975.pmtiles",
+   "bytes": 19651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-790.6d7336d5b975.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 791,
+   "file": "11-1143-791.6ad01ec602a8.pmtiles",
+   "bytes": 148714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-791.6ad01ec602a8.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 792,
+   "file": "11-1143-792.76ae8a571058.pmtiles",
+   "bytes": 53499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-792.76ae8a571058.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 795,
+   "file": "11-1143-795.4dab70633de7.pmtiles",
+   "bytes": 28600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1143-795.4dab70633de7.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 776,
+   "file": "11-1144-776.826d6dfce7e3.pmtiles",
+   "bytes": 463512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-776.826d6dfce7e3.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 777,
+   "file": "11-1144-777.b7b17d11832c.pmtiles",
+   "bytes": 369828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-777.b7b17d11832c.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 778,
+   "file": "11-1144-778.ebb2fdc11db6.pmtiles",
+   "bytes": 292787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-778.ebb2fdc11db6.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 779,
+   "file": "11-1144-779.1a28c6506391.pmtiles",
+   "bytes": 338508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-779.1a28c6506391.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 780,
+   "file": "11-1144-780.e71b71cc3461.pmtiles",
+   "bytes": 310707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-780.e71b71cc3461.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 781,
+   "file": "11-1144-781.e76edbc3de81.pmtiles",
+   "bytes": 255108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-781.e76edbc3de81.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 782,
+   "file": "11-1144-782.5144f6bdb62b.pmtiles",
+   "bytes": 268128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-782.5144f6bdb62b.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 783,
+   "file": "11-1144-783.39ad16aba74d.pmtiles",
+   "bytes": 325698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-783.39ad16aba74d.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 784,
+   "file": "11-1144-784.a3e60e99cc8c.pmtiles",
+   "bytes": 385532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-784.a3e60e99cc8c.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 785,
+   "file": "11-1144-785.78305c0bba19.pmtiles",
+   "bytes": 295386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-785.78305c0bba19.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 786,
+   "file": "11-1144-786.75f6f5571ee2.pmtiles",
+   "bytes": 281921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-786.75f6f5571ee2.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 787,
+   "file": "11-1144-787.5b7f93dfaa2d.pmtiles",
+   "bytes": 271163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-787.5b7f93dfaa2d.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 788,
+   "file": "11-1144-788.b34359d5b0c8.pmtiles",
+   "bytes": 17635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-788.b34359d5b0c8.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 790,
+   "file": "11-1144-790.9c91687b849d.pmtiles",
+   "bytes": 402542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-790.9c91687b849d.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 791,
+   "file": "11-1144-791.cedfb2aac5fe.pmtiles",
+   "bytes": 152770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1144-791.cedfb2aac5fe.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 776,
+   "file": "11-1145-776.409ff2d9c6fd.pmtiles",
+   "bytes": 89370,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-776.409ff2d9c6fd.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 777,
+   "file": "11-1145-777.ca623ecd3ce4.pmtiles",
+   "bytes": 54206,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-777.ca623ecd3ce4.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 778,
+   "file": "11-1145-778.a9c9e5a09863.pmtiles",
+   "bytes": 75187,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-778.a9c9e5a09863.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 779,
+   "file": "11-1145-779.34ff3d6a1a45.pmtiles",
+   "bytes": 84731,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-779.34ff3d6a1a45.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 780,
+   "file": "11-1145-780.48548ebc3f51.pmtiles",
+   "bytes": 100367,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-780.48548ebc3f51.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 781,
+   "file": "11-1145-781.c5062275a58a.pmtiles",
+   "bytes": 75570,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-781.c5062275a58a.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 782,
+   "file": "11-1145-782.ceecdc774000.pmtiles",
+   "bytes": 92813,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-782.ceecdc774000.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 783,
+   "file": "11-1145-783.5b748ca109e2.pmtiles",
+   "bytes": 75552,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-783.5b748ca109e2.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 784,
+   "file": "11-1145-784.5fc6c4633e30.pmtiles",
+   "bytes": 67944,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-784.5fc6c4633e30.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 785,
+   "file": "11-1145-785.f43bdb1bdbd3.pmtiles",
+   "bytes": 105540,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-785.f43bdb1bdbd3.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 786,
+   "file": "11-1145-786.f125dbe47509.pmtiles",
+   "bytes": 210167,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-786.f125dbe47509.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 787,
+   "file": "11-1145-787.4ad0b6229ebd.pmtiles",
+   "bytes": 68162,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-787.4ad0b6229ebd.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 789,
+   "file": "11-1145-789.aaa658a8518e.pmtiles",
+   "bytes": 35173,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-789.aaa658a8518e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 790,
+   "file": "11-1145-790.0cace13689b6.pmtiles",
+   "bytes": 116970,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-790.0cace13689b6.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 791,
+   "file": "11-1145-791.b944f4a45a6e.pmtiles",
+   "bytes": 94725,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-791.b944f4a45a6e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 792,
+   "file": "11-1145-792.8603e3b68556.pmtiles",
+   "bytes": 46238,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gr-ionian-islands-2026-10-03/11-1145-792.8603e3b68556.pmtiles"
+  }
+ ]
+}
