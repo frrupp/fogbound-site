@@ -1,0 +1,325 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "de-saarland",
+ "source": "de.pmtiles",
+ "builtAt": "2026-10-03T15:50:35.100Z",
+ "publishedAt": "2026-10-03T15:50:46.832Z",
+ "host": "github",
+ "releases": [
+  "maps-de-saarland-2026-10-03-2"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  6.3576,
+  49.11195,
+  7.40483,
+  49.63943
+ ],
+ "overview": {
+  "file": "overview.ca359db4ef93.pmtiles",
+  "bytes": 1956821,
+  "tiles": 30,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/overview.ca359db4ef93.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1060,
+   "y": 697,
+   "file": "11-1060-697.95951292fd45.pmtiles",
+   "bytes": 229566,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1060-697.95951292fd45.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 698,
+   "file": "11-1060-698.e95fb898ebd7.pmtiles",
+   "bytes": 731743,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1060-698.e95fb898ebd7.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 699,
+   "file": "11-1060-699.211dd08dd2b0.pmtiles",
+   "bytes": 280542,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1060-699.211dd08dd2b0.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 697,
+   "file": "11-1061-697.100197b97282.pmtiles",
+   "bytes": 406933,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1061-697.100197b97282.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 698,
+   "file": "11-1061-698.471f0b85bd7b.pmtiles",
+   "bytes": 960337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1061-698.471f0b85bd7b.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 699,
+   "file": "11-1061-699.740aa3832397.pmtiles",
+   "bytes": 1100590,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1061-699.740aa3832397.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 700,
+   "file": "11-1061-700.5477976ece63.pmtiles",
+   "bytes": 459074,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1061-700.5477976ece63.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 701,
+   "file": "11-1061-701.dd16cb5da4e1.pmtiles",
+   "bytes": 45941,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1061-701.dd16cb5da4e1.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 697,
+   "file": "11-1062-697.6c90b1299325.pmtiles",
+   "bytes": 390119,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-697.6c90b1299325.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 698,
+   "file": "11-1062-698.e4878e02ae02.pmtiles",
+   "bytes": 881174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-698.e4878e02ae02.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 699,
+   "file": "11-1062-699.72559abd7cc5.pmtiles",
+   "bytes": 1178809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-699.72559abd7cc5.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 700,
+   "file": "11-1062-700.6250fc9c91bb.pmtiles",
+   "bytes": 2311680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-700.6250fc9c91bb.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 701,
+   "file": "11-1062-701.1111dbf72687.pmtiles",
+   "bytes": 1076134,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-701.1111dbf72687.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 702,
+   "file": "11-1062-702.549c43b8d300.pmtiles",
+   "bytes": 30720,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1062-702.549c43b8d300.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 697,
+   "file": "11-1063-697.b34c1eada44c.pmtiles",
+   "bytes": 353958,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1063-697.b34c1eada44c.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 698,
+   "file": "11-1063-698.9c200b9d9cef.pmtiles",
+   "bytes": 1296460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1063-698.9c200b9d9cef.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 699,
+   "file": "11-1063-699.5d00caac0517.pmtiles",
+   "bytes": 1616897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1063-699.5d00caac0517.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 700,
+   "file": "11-1063-700.0f9af2112eff.pmtiles",
+   "bytes": 1719035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1063-700.0f9af2112eff.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 701,
+   "file": "11-1063-701.2f76c7557e2e.pmtiles",
+   "bytes": 2918949,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1063-701.2f76c7557e2e.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 697,
+   "file": "11-1064-697.d15f27180605.pmtiles",
+   "bytes": 476312,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-697.d15f27180605.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 698,
+   "file": "11-1064-698.142eb4e602c6.pmtiles",
+   "bytes": 1439683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-698.142eb4e602c6.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 699,
+   "file": "11-1064-699.1ac95bafef9e.pmtiles",
+   "bytes": 1923091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-699.1ac95bafef9e.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 700,
+   "file": "11-1064-700.522c47d5066b.pmtiles",
+   "bytes": 2749234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-700.522c47d5066b.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 701,
+   "file": "11-1064-701.92c26297b53c.pmtiles",
+   "bytes": 1723096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-701.92c26297b53c.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 702,
+   "file": "11-1064-702.df1a8fa0e12a.pmtiles",
+   "bytes": 516758,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1064-702.df1a8fa0e12a.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 697,
+   "file": "11-1065-697.23eed5f3d88e.pmtiles",
+   "bytes": 417998,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-697.23eed5f3d88e.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 698,
+   "file": "11-1065-698.eca197986452.pmtiles",
+   "bytes": 1225989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-698.eca197986452.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 699,
+   "file": "11-1065-699.dd45d69057b0.pmtiles",
+   "bytes": 1534053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-699.dd45d69057b0.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 700,
+   "file": "11-1065-700.bb383dfa93ab.pmtiles",
+   "bytes": 1970379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-700.bb383dfa93ab.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 701,
+   "file": "11-1065-701.fff4321e70c0.pmtiles",
+   "bytes": 1488921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-701.fff4321e70c0.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 702,
+   "file": "11-1065-702.dd563971cc99.pmtiles",
+   "bytes": 198686,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1065-702.dd563971cc99.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 697,
+   "file": "11-1066-697.7a4a1e756dab.pmtiles",
+   "bytes": 99410,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-697.7a4a1e756dab.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 698,
+   "file": "11-1066-698.30fcf7d54e13.pmtiles",
+   "bytes": 425057,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-698.30fcf7d54e13.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 699,
+   "file": "11-1066-699.c1c1d9499346.pmtiles",
+   "bytes": 410824,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-699.c1c1d9499346.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 700,
+   "file": "11-1066-700.c9a0b94cae3f.pmtiles",
+   "bytes": 311011,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-700.c9a0b94cae3f.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 701,
+   "file": "11-1066-701.b75d930be79e.pmtiles",
+   "bytes": 356750,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-701.b75d930be79e.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 702,
+   "file": "11-1066-702.45307da5a1b3.pmtiles",
+   "bytes": 26399,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-saarland-2026-10-03-2/11-1066-702.45307da5a1b3.pmtiles"
+  }
+ ]
+}

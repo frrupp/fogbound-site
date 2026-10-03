@@ -1,0 +1,1701 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "de-sachsen",
+ "source": "de.pmtiles",
+ "builtAt": "2026-10-03T15:53:22.395Z",
+ "publishedAt": "2026-10-03T15:54:18.303Z",
+ "host": "github",
+ "releases": [
+  "maps-de-sachsen-2026-10-03-2"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  11.87149,
+  50.17133,
+  15.04193,
+  51.68497
+ ],
+ "overview": {
+  "file": "overview.32901bf25bc0.pmtiles",
+  "bytes": 8429711,
+  "tiles": 123,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/overview.32901bf25bc0.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1091,
+   "y": 679,
+   "file": "11-1091-679.4aa252cb5a40.pmtiles",
+   "bytes": 259001,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-679.4aa252cb5a40.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 680,
+   "file": "11-1091-680.a8d062dd5f42.pmtiles",
+   "bytes": 599936,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-680.a8d062dd5f42.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 681,
+   "file": "11-1091-681.00ba0656ccd4.pmtiles",
+   "bytes": 1106706,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-681.00ba0656ccd4.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 682,
+   "file": "11-1091-682.87b1c14482a3.pmtiles",
+   "bytes": 470158,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-682.87b1c14482a3.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 683,
+   "file": "11-1091-683.c7a51f6ac8bf.pmtiles",
+   "bytes": 542597,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-683.c7a51f6ac8bf.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 684,
+   "file": "11-1091-684.1c6418e61c61.pmtiles",
+   "bytes": 511510,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-684.1c6418e61c61.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 685,
+   "file": "11-1091-685.7068e781f10b.pmtiles",
+   "bytes": 534491,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-685.7068e781f10b.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 686,
+   "file": "11-1091-686.353e6b6b14ad.pmtiles",
+   "bytes": 577991,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-686.353e6b6b14ad.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 687,
+   "file": "11-1091-687.0fb80658e7ab.pmtiles",
+   "bytes": 497526,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-687.0fb80658e7ab.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 688,
+   "file": "11-1091-688.ba34b8d241b9.pmtiles",
+   "bytes": 480793,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-688.ba34b8d241b9.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 689,
+   "file": "11-1091-689.83ffe56e3749.pmtiles",
+   "bytes": 357628,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-689.83ffe56e3749.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 690,
+   "file": "11-1091-690.8a143a28e4e7.pmtiles",
+   "bytes": 292572,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-690.8a143a28e4e7.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 691,
+   "file": "11-1091-691.ffdbef4c5448.pmtiles",
+   "bytes": 898917,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-691.ffdbef4c5448.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 692,
+   "file": "11-1091-692.711d449c84dd.pmtiles",
+   "bytes": 701456,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-692.711d449c84dd.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 693,
+   "file": "11-1091-693.67166bd2256d.pmtiles",
+   "bytes": 93232,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1091-693.67166bd2256d.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 679,
+   "file": "11-1092-679.ac11848cf489.pmtiles",
+   "bytes": 472961,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-679.ac11848cf489.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 680,
+   "file": "11-1092-680.e8d525364954.pmtiles",
+   "bytes": 743159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-680.e8d525364954.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 681,
+   "file": "11-1092-681.bd6d881d8e8d.pmtiles",
+   "bytes": 2409235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-681.bd6d881d8e8d.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 682,
+   "file": "11-1092-682.672b34b61367.pmtiles",
+   "bytes": 1609189,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-682.672b34b61367.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 683,
+   "file": "11-1092-683.3949f6b58d68.pmtiles",
+   "bytes": 1045848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-683.3949f6b58d68.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 684,
+   "file": "11-1092-684.780ab1e26987.pmtiles",
+   "bytes": 871974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-684.780ab1e26987.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 685,
+   "file": "11-1092-685.5817619e709e.pmtiles",
+   "bytes": 928944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-685.5817619e709e.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 686,
+   "file": "11-1092-686.7aee9a29cb6d.pmtiles",
+   "bytes": 1944216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-686.7aee9a29cb6d.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 687,
+   "file": "11-1092-687.1c311fed67b4.pmtiles",
+   "bytes": 1107578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-687.1c311fed67b4.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 688,
+   "file": "11-1092-688.b5edf87e25f8.pmtiles",
+   "bytes": 1188967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-688.b5edf87e25f8.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 689,
+   "file": "11-1092-689.07377cc42d6d.pmtiles",
+   "bytes": 1031567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-689.07377cc42d6d.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 690,
+   "file": "11-1092-690.e8b045ff827f.pmtiles",
+   "bytes": 1253887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-690.e8b045ff827f.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 691,
+   "file": "11-1092-691.015072a8b4bb.pmtiles",
+   "bytes": 779507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-691.015072a8b4bb.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 692,
+   "file": "11-1092-692.de663ff97aec.pmtiles",
+   "bytes": 883431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-692.de663ff97aec.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 693,
+   "file": "11-1092-693.ee7f1fdd076e.pmtiles",
+   "bytes": 265287,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1092-693.ee7f1fdd076e.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 679,
+   "file": "11-1093-679.c9d6f538480f.pmtiles",
+   "bytes": 781225,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-679.c9d6f538480f.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 680,
+   "file": "11-1093-680.f2942b33d7e9.pmtiles",
+   "bytes": 833833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-680.f2942b33d7e9.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 681,
+   "file": "11-1093-681.944e2a335053.pmtiles",
+   "bytes": 937102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-681.944e2a335053.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 682,
+   "file": "11-1093-682.525cbeea95d4.pmtiles",
+   "bytes": 1871211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-682.525cbeea95d4.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 683,
+   "file": "11-1093-683.5ea6d8525037.pmtiles",
+   "bytes": 817022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-683.5ea6d8525037.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 684,
+   "file": "11-1093-684.ca1b975110bf.pmtiles",
+   "bytes": 916866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-684.ca1b975110bf.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 685,
+   "file": "11-1093-685.6d9094b49260.pmtiles",
+   "bytes": 1097002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-685.6d9094b49260.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 686,
+   "file": "11-1093-686.054bc75fdb03.pmtiles",
+   "bytes": 968254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-686.054bc75fdb03.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 687,
+   "file": "11-1093-687.6b98040db3ca.pmtiles",
+   "bytes": 950547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-687.6b98040db3ca.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 688,
+   "file": "11-1093-688.ee51c1c48b7a.pmtiles",
+   "bytes": 1286301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-688.ee51c1c48b7a.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 689,
+   "file": "11-1093-689.12751be59f02.pmtiles",
+   "bytes": 1363233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-689.12751be59f02.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 690,
+   "file": "11-1093-690.800c01a25e67.pmtiles",
+   "bytes": 1439649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-690.800c01a25e67.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 691,
+   "file": "11-1093-691.fbf19c4b9066.pmtiles",
+   "bytes": 710582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-691.fbf19c4b9066.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 692,
+   "file": "11-1093-692.3e88846e4638.pmtiles",
+   "bytes": 680448,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-692.3e88846e4638.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 693,
+   "file": "11-1093-693.f86824c78436.pmtiles",
+   "bytes": 197022,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1093-693.f86824c78436.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 679,
+   "file": "11-1094-679.c9d627398bdd.pmtiles",
+   "bytes": 731030,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-679.c9d627398bdd.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 680,
+   "file": "11-1094-680.5fe4e78ac348.pmtiles",
+   "bytes": 823209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-680.5fe4e78ac348.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 681,
+   "file": "11-1094-681.af64d9746136.pmtiles",
+   "bytes": 898397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-681.af64d9746136.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 682,
+   "file": "11-1094-682.dd8133b0811c.pmtiles",
+   "bytes": 5569297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-682.dd8133b0811c.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 683,
+   "file": "11-1094-683.40b785c9e6c5.pmtiles",
+   "bytes": 1639979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-683.40b785c9e6c5.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 684,
+   "file": "11-1094-684.d781ed691c31.pmtiles",
+   "bytes": 837595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-684.d781ed691c31.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 685,
+   "file": "11-1094-685.186877451b96.pmtiles",
+   "bytes": 1457040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-685.186877451b96.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 686,
+   "file": "11-1094-686.d62c28d2ed1d.pmtiles",
+   "bytes": 1148465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-686.d62c28d2ed1d.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 687,
+   "file": "11-1094-687.51e0f62e4d1c.pmtiles",
+   "bytes": 1425689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-687.51e0f62e4d1c.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 688,
+   "file": "11-1094-688.43d75227c9b8.pmtiles",
+   "bytes": 1655195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-688.43d75227c9b8.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 689,
+   "file": "11-1094-689.91de5b5a07cd.pmtiles",
+   "bytes": 1350266,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-689.91de5b5a07cd.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 690,
+   "file": "11-1094-690.8e6dff90bae5.pmtiles",
+   "bytes": 912080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-690.8e6dff90bae5.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 691,
+   "file": "11-1094-691.7838282bf94b.pmtiles",
+   "bytes": 812012,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-691.7838282bf94b.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 692,
+   "file": "11-1094-692.4e407aa53a0b.pmtiles",
+   "bytes": 273629,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-692.4e407aa53a0b.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 693,
+   "file": "11-1094-693.ee1010f5891a.pmtiles",
+   "bytes": 35085,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1094-693.ee1010f5891a.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 679,
+   "file": "11-1095-679.62c30572bf48.pmtiles",
+   "bytes": 249950,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-679.62c30572bf48.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 680,
+   "file": "11-1095-680.4e6ee928a55f.pmtiles",
+   "bytes": 796930,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-680.4e6ee928a55f.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 681,
+   "file": "11-1095-681.97e13b4b3030.pmtiles",
+   "bytes": 891983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-681.97e13b4b3030.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 682,
+   "file": "11-1095-682.fb9055f121de.pmtiles",
+   "bytes": 1295568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-682.fb9055f121de.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 683,
+   "file": "11-1095-683.a76ab6dc85c6.pmtiles",
+   "bytes": 874049,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-683.a76ab6dc85c6.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 684,
+   "file": "11-1095-684.1ac0cfdc5878.pmtiles",
+   "bytes": 1181153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-684.1ac0cfdc5878.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 685,
+   "file": "11-1095-685.180a330da93a.pmtiles",
+   "bytes": 940342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-685.180a330da93a.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 686,
+   "file": "11-1095-686.6663bff5301d.pmtiles",
+   "bytes": 907370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-686.6663bff5301d.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 687,
+   "file": "11-1095-687.68cb19417c26.pmtiles",
+   "bytes": 1460294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-687.68cb19417c26.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 688,
+   "file": "11-1095-688.53fde6d2dd6e.pmtiles",
+   "bytes": 1594497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-688.53fde6d2dd6e.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 689,
+   "file": "11-1095-689.30c9a4854d84.pmtiles",
+   "bytes": 1184400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-689.30c9a4854d84.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 690,
+   "file": "11-1095-690.e9f345e8c8c6.pmtiles",
+   "bytes": 666811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-690.e9f345e8c8c6.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 691,
+   "file": "11-1095-691.58f214a40d60.pmtiles",
+   "bytes": 156324,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1095-691.58f214a40d60.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 679,
+   "file": "11-1096-679.dcbbae00c13b.pmtiles",
+   "bytes": 342595,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-679.dcbbae00c13b.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 680,
+   "file": "11-1096-680.9fff313b34f7.pmtiles",
+   "bytes": 381723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-680.9fff313b34f7.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 681,
+   "file": "11-1096-681.cc5ffd7e84d7.pmtiles",
+   "bytes": 721806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-681.cc5ffd7e84d7.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 682,
+   "file": "11-1096-682.332baf1d87df.pmtiles",
+   "bytes": 955819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-682.332baf1d87df.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 683,
+   "file": "11-1096-683.072ac860fcce.pmtiles",
+   "bytes": 1173310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-683.072ac860fcce.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 684,
+   "file": "11-1096-684.952158a9bd63.pmtiles",
+   "bytes": 981698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-684.952158a9bd63.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 685,
+   "file": "11-1096-685.50cf6cc2061b.pmtiles",
+   "bytes": 1396074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-685.50cf6cc2061b.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 686,
+   "file": "11-1096-686.71bc3a5362ac.pmtiles",
+   "bytes": 1545849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-686.71bc3a5362ac.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 687,
+   "file": "11-1096-687.30d0831b2ba7.pmtiles",
+   "bytes": 1483714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-687.30d0831b2ba7.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 688,
+   "file": "11-1096-688.4546aed5ddb6.pmtiles",
+   "bytes": 1644305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-688.4546aed5ddb6.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 689,
+   "file": "11-1096-689.8f8e81a70b20.pmtiles",
+   "bytes": 1537076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-689.8f8e81a70b20.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 690,
+   "file": "11-1096-690.cde0461e94ac.pmtiles",
+   "bytes": 697301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-690.cde0461e94ac.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 691,
+   "file": "11-1096-691.f9ba33467dfc.pmtiles",
+   "bytes": 28957,
+   "tiles": 36,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1096-691.f9ba33467dfc.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 679,
+   "file": "11-1097-679.131d189ac50f.pmtiles",
+   "bytes": 428464,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-679.131d189ac50f.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 680,
+   "file": "11-1097-680.aa84e5e96675.pmtiles",
+   "bytes": 716173,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-680.aa84e5e96675.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 681,
+   "file": "11-1097-681.68d422e538cd.pmtiles",
+   "bytes": 563198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-681.68d422e538cd.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 682,
+   "file": "11-1097-682.7b906a74801e.pmtiles",
+   "bytes": 561027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-682.7b906a74801e.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 683,
+   "file": "11-1097-683.d4ea7807dd25.pmtiles",
+   "bytes": 860267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-683.d4ea7807dd25.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 684,
+   "file": "11-1097-684.db7c28d640c2.pmtiles",
+   "bytes": 1239097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-684.db7c28d640c2.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 685,
+   "file": "11-1097-685.4469bf7aea5a.pmtiles",
+   "bytes": 1148314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-685.4469bf7aea5a.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 686,
+   "file": "11-1097-686.cffbca01c284.pmtiles",
+   "bytes": 1436828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-686.cffbca01c284.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 687,
+   "file": "11-1097-687.cf5a42f9bccd.pmtiles",
+   "bytes": 2891709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-687.cf5a42f9bccd.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 688,
+   "file": "11-1097-688.4057e4582099.pmtiles",
+   "bytes": 1024997,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-688.4057e4582099.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 689,
+   "file": "11-1097-689.a06a2e992302.pmtiles",
+   "bytes": 1026995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-689.a06a2e992302.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 690,
+   "file": "11-1097-690.d5396b626044.pmtiles",
+   "bytes": 625425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1097-690.d5396b626044.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 679,
+   "file": "11-1098-679.d75e118881af.pmtiles",
+   "bytes": 176869,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-679.d75e118881af.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 680,
+   "file": "11-1098-680.d0b99a422a75.pmtiles",
+   "bytes": 545869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-680.d0b99a422a75.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 681,
+   "file": "11-1098-681.f460393b71bb.pmtiles",
+   "bytes": 518454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-681.f460393b71bb.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 682,
+   "file": "11-1098-682.c87b785be4ab.pmtiles",
+   "bytes": 778370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-682.c87b785be4ab.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 683,
+   "file": "11-1098-683.61ed76487ca4.pmtiles",
+   "bytes": 877593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-683.61ed76487ca4.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 684,
+   "file": "11-1098-684.d2341c4da2db.pmtiles",
+   "bytes": 1197202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-684.d2341c4da2db.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 685,
+   "file": "11-1098-685.f6c2174bc077.pmtiles",
+   "bytes": 981734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-685.f6c2174bc077.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 686,
+   "file": "11-1098-686.3cf8e2b4b132.pmtiles",
+   "bytes": 1193074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-686.3cf8e2b4b132.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 687,
+   "file": "11-1098-687.ea4d59484900.pmtiles",
+   "bytes": 1092893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-687.ea4d59484900.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 688,
+   "file": "11-1098-688.8697be58f061.pmtiles",
+   "bytes": 976159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-688.8697be58f061.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 689,
+   "file": "11-1098-689.4a6f03f043a9.pmtiles",
+   "bytes": 765034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-689.4a6f03f043a9.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 690,
+   "file": "11-1098-690.907c70d19484.pmtiles",
+   "bytes": 294265,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1098-690.907c70d19484.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 679,
+   "file": "11-1099-679.ca3e9b6f71c6.pmtiles",
+   "bytes": 421650,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-679.ca3e9b6f71c6.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 680,
+   "file": "11-1099-680.da910cb57f6b.pmtiles",
+   "bytes": 834896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-680.da910cb57f6b.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 681,
+   "file": "11-1099-681.1f1af04406ea.pmtiles",
+   "bytes": 607320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-681.1f1af04406ea.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 682,
+   "file": "11-1099-682.82b50c63f1cd.pmtiles",
+   "bytes": 1185086,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-682.82b50c63f1cd.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 683,
+   "file": "11-1099-683.6769e698c78e.pmtiles",
+   "bytes": 889510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-683.6769e698c78e.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 684,
+   "file": "11-1099-684.af3fc56b5251.pmtiles",
+   "bytes": 860400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-684.af3fc56b5251.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 685,
+   "file": "11-1099-685.eef5626789fb.pmtiles",
+   "bytes": 999029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-685.eef5626789fb.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 686,
+   "file": "11-1099-686.cba3f4329da6.pmtiles",
+   "bytes": 1408763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-686.cba3f4329da6.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 687,
+   "file": "11-1099-687.d1530373792b.pmtiles",
+   "bytes": 841861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-687.d1530373792b.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 688,
+   "file": "11-1099-688.2163c08646d2.pmtiles",
+   "bytes": 1119444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-688.2163c08646d2.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 689,
+   "file": "11-1099-689.5063db919880.pmtiles",
+   "bytes": 446197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-689.5063db919880.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 690,
+   "file": "11-1099-690.d49f66b85508.pmtiles",
+   "bytes": 25230,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1099-690.d49f66b85508.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 679,
+   "file": "11-1100-679.081188955225.pmtiles",
+   "bytes": 262781,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-679.081188955225.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 680,
+   "file": "11-1100-680.d24d54a2e757.pmtiles",
+   "bytes": 835906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-680.d24d54a2e757.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 681,
+   "file": "11-1100-681.ede75c6b25f9.pmtiles",
+   "bytes": 1089706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-681.ede75c6b25f9.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 682,
+   "file": "11-1100-682.c45943a69e06.pmtiles",
+   "bytes": 1222888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-682.c45943a69e06.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 683,
+   "file": "11-1100-683.ffbbf8628e93.pmtiles",
+   "bytes": 1197215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-683.ffbbf8628e93.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 684,
+   "file": "11-1100-684.136aa1fc5b83.pmtiles",
+   "bytes": 1553265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-684.136aa1fc5b83.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 685,
+   "file": "11-1100-685.6f275fd2f97a.pmtiles",
+   "bytes": 999525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-685.6f275fd2f97a.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 686,
+   "file": "11-1100-686.32349cb1c39e.pmtiles",
+   "bytes": 1132663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-686.32349cb1c39e.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 687,
+   "file": "11-1100-687.59f0bc9ee1f8.pmtiles",
+   "bytes": 1070892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-687.59f0bc9ee1f8.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 688,
+   "file": "11-1100-688.ed34761f3933.pmtiles",
+   "bytes": 1186775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-688.ed34761f3933.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 689,
+   "file": "11-1100-689.9c3f5a3484e8.pmtiles",
+   "bytes": 207048,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1100-689.9c3f5a3484e8.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 679,
+   "file": "11-1101-679.ea57dde494af.pmtiles",
+   "bytes": 687081,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-679.ea57dde494af.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 680,
+   "file": "11-1101-680.159cdd06e46e.pmtiles",
+   "bytes": 659269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-680.159cdd06e46e.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 681,
+   "file": "11-1101-681.a29e451272b6.pmtiles",
+   "bytes": 622847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-681.a29e451272b6.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 682,
+   "file": "11-1101-682.3953a0f69d2c.pmtiles",
+   "bytes": 781456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-682.3953a0f69d2c.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 683,
+   "file": "11-1101-683.d7d0a4d800e7.pmtiles",
+   "bytes": 884779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-683.d7d0a4d800e7.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 684,
+   "file": "11-1101-684.df8422f61b26.pmtiles",
+   "bytes": 2229926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-684.df8422f61b26.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 685,
+   "file": "11-1101-685.5818ca00c73b.pmtiles",
+   "bytes": 3130040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-685.5818ca00c73b.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 686,
+   "file": "11-1101-686.4e01511e6c18.pmtiles",
+   "bytes": 1322143,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-686.4e01511e6c18.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 687,
+   "file": "11-1101-687.5c0534d4fe05.pmtiles",
+   "bytes": 1124986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-687.5c0534d4fe05.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 688,
+   "file": "11-1101-688.d12fec40736f.pmtiles",
+   "bytes": 351273,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1101-688.d12fec40736f.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 679,
+   "file": "11-1102-679.3f4c7455943c.pmtiles",
+   "bytes": 434916,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-679.3f4c7455943c.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 680,
+   "file": "11-1102-680.cc2c4a2cb9fb.pmtiles",
+   "bytes": 693658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-680.cc2c4a2cb9fb.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 681,
+   "file": "11-1102-681.eda830e1750b.pmtiles",
+   "bytes": 970887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-681.eda830e1750b.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 682,
+   "file": "11-1102-682.55eebefe3567.pmtiles",
+   "bytes": 821397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-682.55eebefe3567.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 683,
+   "file": "11-1102-683.3cc2aa142e3f.pmtiles",
+   "bytes": 853101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-683.3cc2aa142e3f.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 684,
+   "file": "11-1102-684.6925684c2ee5.pmtiles",
+   "bytes": 2051192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-684.6925684c2ee5.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 685,
+   "file": "11-1102-685.dde648cabdb8.pmtiles",
+   "bytes": 4447107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-685.dde648cabdb8.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 686,
+   "file": "11-1102-686.ca182bad3842.pmtiles",
+   "bytes": 1632198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-686.ca182bad3842.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 687,
+   "file": "11-1102-687.fc783649ffcf.pmtiles",
+   "bytes": 1502936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-687.fc783649ffcf.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 688,
+   "file": "11-1102-688.07433bba74a8.pmtiles",
+   "bytes": 221231,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1102-688.07433bba74a8.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 679,
+   "file": "11-1103-679.664fb3d7ece1.pmtiles",
+   "bytes": 400166,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-679.664fb3d7ece1.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 680,
+   "file": "11-1103-680.8ad0d533de33.pmtiles",
+   "bytes": 1078048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-680.8ad0d533de33.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 681,
+   "file": "11-1103-681.89faceb24e40.pmtiles",
+   "bytes": 762691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-681.89faceb24e40.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 682,
+   "file": "11-1103-682.2ff7afb85f7b.pmtiles",
+   "bytes": 649236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-682.2ff7afb85f7b.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 683,
+   "file": "11-1103-683.d4d8d2e5080b.pmtiles",
+   "bytes": 900681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-683.d4d8d2e5080b.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 684,
+   "file": "11-1103-684.f3b7dec4943e.pmtiles",
+   "bytes": 1260887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-684.f3b7dec4943e.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 685,
+   "file": "11-1103-685.39b79b8fa567.pmtiles",
+   "bytes": 1702594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-685.39b79b8fa567.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 686,
+   "file": "11-1103-686.ca2851e9611c.pmtiles",
+   "bytes": 1972115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-686.ca2851e9611c.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 687,
+   "file": "11-1103-687.6127381c0255.pmtiles",
+   "bytes": 764811,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1103-687.6127381c0255.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 679,
+   "file": "11-1104-679.ce477e9b2bb0.pmtiles",
+   "bytes": 437125,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-679.ce477e9b2bb0.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 680,
+   "file": "11-1104-680.159aab69d0ee.pmtiles",
+   "bytes": 476922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-680.159aab69d0ee.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 681,
+   "file": "11-1104-681.db6c77bf8356.pmtiles",
+   "bytes": 876375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-681.db6c77bf8356.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 682,
+   "file": "11-1104-682.af78da563d75.pmtiles",
+   "bytes": 690986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-682.af78da563d75.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 683,
+   "file": "11-1104-683.eb3dbbe36c60.pmtiles",
+   "bytes": 1121038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-683.eb3dbbe36c60.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 684,
+   "file": "11-1104-684.f5a224c9f105.pmtiles",
+   "bytes": 1098486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-684.f5a224c9f105.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 685,
+   "file": "11-1104-685.0b61ee158c9c.pmtiles",
+   "bytes": 1560434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-685.0b61ee158c9c.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 686,
+   "file": "11-1104-686.fa5108213e44.pmtiles",
+   "bytes": 1741829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-686.fa5108213e44.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 687,
+   "file": "11-1104-687.7cc70c0e1aef.pmtiles",
+   "bytes": 143376,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1104-687.7cc70c0e1aef.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 679,
+   "file": "11-1105-679.5cdf8f260fca.pmtiles",
+   "bytes": 470037,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-679.5cdf8f260fca.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 680,
+   "file": "11-1105-680.6129c9c508b8.pmtiles",
+   "bytes": 762508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-680.6129c9c508b8.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 681,
+   "file": "11-1105-681.f9cb4fe0013a.pmtiles",
+   "bytes": 747017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-681.f9cb4fe0013a.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 682,
+   "file": "11-1105-682.62adc3d9df61.pmtiles",
+   "bytes": 791454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-682.62adc3d9df61.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 683,
+   "file": "11-1105-683.16f1aed41d3a.pmtiles",
+   "bytes": 911095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-683.16f1aed41d3a.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 684,
+   "file": "11-1105-684.5e73491c688a.pmtiles",
+   "bytes": 1241396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-684.5e73491c688a.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 685,
+   "file": "11-1105-685.f2e993b1e691.pmtiles",
+   "bytes": 876566,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-685.f2e993b1e691.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 686,
+   "file": "11-1105-686.c37cd1f777ed.pmtiles",
+   "bytes": 969745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1105-686.c37cd1f777ed.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 679,
+   "file": "11-1106-679.c84041b2ceea.pmtiles",
+   "bytes": 440798,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-679.c84041b2ceea.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 680,
+   "file": "11-1106-680.06183eecb301.pmtiles",
+   "bytes": 575226,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-680.06183eecb301.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 681,
+   "file": "11-1106-681.64a95e23adcf.pmtiles",
+   "bytes": 382845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-681.64a95e23adcf.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 682,
+   "file": "11-1106-682.100d1d6dd163.pmtiles",
+   "bytes": 621503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-682.100d1d6dd163.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 683,
+   "file": "11-1106-683.83a9e313d012.pmtiles",
+   "bytes": 1169088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-683.83a9e313d012.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 684,
+   "file": "11-1106-684.cd1acc3b38b7.pmtiles",
+   "bytes": 1416325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-684.cd1acc3b38b7.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 685,
+   "file": "11-1106-685.e2d0306a7c36.pmtiles",
+   "bytes": 865055,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-685.e2d0306a7c36.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 686,
+   "file": "11-1106-686.a6dce3b05f3b.pmtiles",
+   "bytes": 163866,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1106-686.a6dce3b05f3b.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 679,
+   "file": "11-1107-679.77237f6a4491.pmtiles",
+   "bytes": 311445,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-679.77237f6a4491.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 680,
+   "file": "11-1107-680.6035ba661c0c.pmtiles",
+   "bytes": 801268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-680.6035ba661c0c.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 681,
+   "file": "11-1107-681.a7b996243cfa.pmtiles",
+   "bytes": 454928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-681.a7b996243cfa.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 682,
+   "file": "11-1107-682.d26b3a8c4383.pmtiles",
+   "bytes": 660977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-682.d26b3a8c4383.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 683,
+   "file": "11-1107-683.adef2fb3511f.pmtiles",
+   "bytes": 903526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-683.adef2fb3511f.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 684,
+   "file": "11-1107-684.5298e4be9581.pmtiles",
+   "bytes": 1093190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-684.5298e4be9581.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 685,
+   "file": "11-1107-685.57afd94bbce0.pmtiles",
+   "bytes": 1157958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-685.57afd94bbce0.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 686,
+   "file": "11-1107-686.c4a56b9f1959.pmtiles",
+   "bytes": 1527782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-686.c4a56b9f1959.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 687,
+   "file": "11-1107-687.65d643ab472c.pmtiles",
+   "bytes": 235710,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1107-687.65d643ab472c.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 680,
+   "file": "11-1108-680.3ff3d304b123.pmtiles",
+   "bytes": 52983,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-680.3ff3d304b123.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 681,
+   "file": "11-1108-681.f1dc809d5de6.pmtiles",
+   "bytes": 362729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-681.f1dc809d5de6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 682,
+   "file": "11-1108-682.1e919e99944b.pmtiles",
+   "bytes": 739787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-682.1e919e99944b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 683,
+   "file": "11-1108-683.bb54a572a158.pmtiles",
+   "bytes": 815046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-683.bb54a572a158.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 684,
+   "file": "11-1108-684.5edcf5613132.pmtiles",
+   "bytes": 840116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-684.5edcf5613132.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 685,
+   "file": "11-1108-685.4c48b26e3128.pmtiles",
+   "bytes": 852061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-685.4c48b26e3128.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 686,
+   "file": "11-1108-686.94bc97f4d8bf.pmtiles",
+   "bytes": 1058010,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-686.94bc97f4d8bf.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 687,
+   "file": "11-1108-687.8cb615b3c4eb.pmtiles",
+   "bytes": 116495,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1108-687.8cb615b3c4eb.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 681,
+   "file": "11-1109-681.85449a7b24db.pmtiles",
+   "bytes": 151473,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1109-681.85449a7b24db.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 682,
+   "file": "11-1109-682.99d1af96e88f.pmtiles",
+   "bytes": 303636,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1109-682.99d1af96e88f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 683,
+   "file": "11-1109-683.fa0bc5164dd0.pmtiles",
+   "bytes": 429658,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1109-683.fa0bc5164dd0.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 684,
+   "file": "11-1109-684.e665c932a0ec.pmtiles",
+   "bytes": 1044804,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1109-684.e665c932a0ec.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 685,
+   "file": "11-1109-685.b708e606fdfe.pmtiles",
+   "bytes": 124750,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-de-sachsen-2026-10-03-2/11-1109-685.b708e606fdfe.pmtiles"
+  }
+ ]
+}
