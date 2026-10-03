@@ -1,0 +1,541 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "at-burgenland",
+ "source": "at.pmtiles",
+ "builtAt": "2026-10-03T20:35:03.278Z",
+ "publishedAt": "2026-10-03T20:35:21.098Z",
+ "host": "github",
+ "releases": [
+  "maps-at-burgenland-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  15.99624,
+  46.83064,
+  17.16077,
+  48.11868
+ ],
+ "overview": {
+  "file": "overview.ab309838f2ce.pmtiles",
+  "bytes": 2763037,
+  "tiles": 53,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/overview.ab309838f2ce.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1115,
+   "y": 710,
+   "file": "11-1115-710.90d8eadc78f9.pmtiles",
+   "bytes": 176611,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-710.90d8eadc78f9.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 711,
+   "file": "11-1115-711.27cdfd96e947.pmtiles",
+   "bytes": 932971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-711.27cdfd96e947.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 712,
+   "file": "11-1115-712.8e4be43dca9c.pmtiles",
+   "bytes": 1068520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-712.8e4be43dca9c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 713,
+   "file": "11-1115-713.47d5d6093c8d.pmtiles",
+   "bytes": 1281734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-713.47d5d6093c8d.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 714,
+   "file": "11-1115-714.8612fe0e91f3.pmtiles",
+   "bytes": 1603415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-714.8612fe0e91f3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 715,
+   "file": "11-1115-715.20767a84a6f6.pmtiles",
+   "bytes": 1164992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-715.20767a84a6f6.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 716,
+   "file": "11-1115-716.72ebe744e4b7.pmtiles",
+   "bytes": 1184666,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-716.72ebe744e4b7.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 717,
+   "file": "11-1115-717.02aff6413d1f.pmtiles",
+   "bytes": 989002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-717.02aff6413d1f.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 718,
+   "file": "11-1115-718.64962cd519b0.pmtiles",
+   "bytes": 1247998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-718.64962cd519b0.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 719,
+   "file": "11-1115-719.3934b5f7a74a.pmtiles",
+   "bytes": 1278651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-719.3934b5f7a74a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 720,
+   "file": "11-1115-720.ec35769e54f6.pmtiles",
+   "bytes": 1893225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-720.ec35769e54f6.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 721,
+   "file": "11-1115-721.198a4dd500e0.pmtiles",
+   "bytes": 826873,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1115-721.198a4dd500e0.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 710,
+   "file": "11-1116-710.a64ae5cfab6b.pmtiles",
+   "bytes": 613788,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-710.a64ae5cfab6b.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 711,
+   "file": "11-1116-711.0d7b3c9a3e94.pmtiles",
+   "bytes": 2437388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-711.0d7b3c9a3e94.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 712,
+   "file": "11-1116-712.811bee481456.pmtiles",
+   "bytes": 1905320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-712.811bee481456.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 713,
+   "file": "11-1116-713.a63789444e58.pmtiles",
+   "bytes": 1667312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-713.a63789444e58.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 714,
+   "file": "11-1116-714.e390034e98a8.pmtiles",
+   "bytes": 1121673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-714.e390034e98a8.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 715,
+   "file": "11-1116-715.f00fc2937d97.pmtiles",
+   "bytes": 925886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-715.f00fc2937d97.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 716,
+   "file": "11-1116-716.32931f18a9bd.pmtiles",
+   "bytes": 999853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-716.32931f18a9bd.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 717,
+   "file": "11-1116-717.85f245728d5a.pmtiles",
+   "bytes": 912225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-717.85f245728d5a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 718,
+   "file": "11-1116-718.884cf6c2e112.pmtiles",
+   "bytes": 753533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-718.884cf6c2e112.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 719,
+   "file": "11-1116-719.3e6933cd5d8c.pmtiles",
+   "bytes": 729798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-719.3e6933cd5d8c.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 720,
+   "file": "11-1116-720.1c202fb4b304.pmtiles",
+   "bytes": 884906,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-720.1c202fb4b304.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 721,
+   "file": "11-1116-721.a6c6b2dfce75.pmtiles",
+   "bytes": 28080,
+   "tiles": 17,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1116-721.a6c6b2dfce75.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 710,
+   "file": "11-1117-710.5a6f9d26551e.pmtiles",
+   "bytes": 376787,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-710.5a6f9d26551e.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 711,
+   "file": "11-1117-711.2c957db40bfa.pmtiles",
+   "bytes": 1187484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-711.2c957db40bfa.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 712,
+   "file": "11-1117-712.9234a0a01e9d.pmtiles",
+   "bytes": 1180713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-712.9234a0a01e9d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 713,
+   "file": "11-1117-713.ef1c9a3ada70.pmtiles",
+   "bytes": 1168328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-713.ef1c9a3ada70.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 714,
+   "file": "11-1117-714.24fae5105951.pmtiles",
+   "bytes": 1053408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-714.24fae5105951.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 715,
+   "file": "11-1117-715.e2fb21a5a81f.pmtiles",
+   "bytes": 875295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-715.e2fb21a5a81f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 716,
+   "file": "11-1117-716.4c64acb34cd8.pmtiles",
+   "bytes": 792609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-716.4c64acb34cd8.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 717,
+   "file": "11-1117-717.5edaf3ab910e.pmtiles",
+   "bytes": 440083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-717.5edaf3ab910e.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 718,
+   "file": "11-1117-718.12b82fb3ecf9.pmtiles",
+   "bytes": 508207,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-718.12b82fb3ecf9.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 719,
+   "file": "11-1117-719.27e73f907481.pmtiles",
+   "bytes": 576086,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-719.27e73f907481.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 720,
+   "file": "11-1117-720.d24113f70137.pmtiles",
+   "bytes": 337350,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1117-720.d24113f70137.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 710,
+   "file": "11-1118-710.6f9b9df3ebf9.pmtiles",
+   "bytes": 257792,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-710.6f9b9df3ebf9.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 711,
+   "file": "11-1118-711.481ab343ecdc.pmtiles",
+   "bytes": 763297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-711.481ab343ecdc.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 712,
+   "file": "11-1118-712.1fb48af8160f.pmtiles",
+   "bytes": 724512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-712.1fb48af8160f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 713,
+   "file": "11-1118-713.279477edcdb5.pmtiles",
+   "bytes": 1235612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-713.279477edcdb5.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 714,
+   "file": "11-1118-714.bcd7e9c617b2.pmtiles",
+   "bytes": 247641,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-714.bcd7e9c617b2.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 715,
+   "file": "11-1118-715.1a69a21e8942.pmtiles",
+   "bytes": 648253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-715.1a69a21e8942.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 716,
+   "file": "11-1118-716.120300503ecd.pmtiles",
+   "bytes": 454316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-716.120300503ecd.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 717,
+   "file": "11-1118-717.fa51c0e648af.pmtiles",
+   "bytes": 54635,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-717.fa51c0e648af.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 718,
+   "file": "11-1118-718.f404fca34dd8.pmtiles",
+   "bytes": 30544,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-718.f404fca34dd8.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 719,
+   "file": "11-1118-719.7e977ec9ed2d.pmtiles",
+   "bytes": 35430,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1118-719.7e977ec9ed2d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 710,
+   "file": "11-1119-710.7c05998d0f29.pmtiles",
+   "bytes": 200647,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-710.7c05998d0f29.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 711,
+   "file": "11-1119-711.92132f070a3d.pmtiles",
+   "bytes": 885216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-711.92132f070a3d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 712,
+   "file": "11-1119-712.c65474154fb9.pmtiles",
+   "bytes": 873103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-712.c65474154fb9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 713,
+   "file": "11-1119-713.52697b6db0af.pmtiles",
+   "bytes": 491238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-713.52697b6db0af.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 714,
+   "file": "11-1119-714.ef7b44e5c45f.pmtiles",
+   "bytes": 236030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-714.ef7b44e5c45f.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 715,
+   "file": "11-1119-715.9bf83bb6382a.pmtiles",
+   "bytes": 45421,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-715.9bf83bb6382a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 717,
+   "file": "11-1119-717.d9693681b86f.pmtiles",
+   "bytes": 22604,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-717.d9693681b86f.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 718,
+   "file": "11-1119-718.c15dd18218bf.pmtiles",
+   "bytes": 44518,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-718.c15dd18218bf.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 719,
+   "file": "11-1119-719.5d7c19916c7f.pmtiles",
+   "bytes": 25903,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1119-719.5d7c19916c7f.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 710,
+   "file": "11-1120-710.c7e6a9899aec.pmtiles",
+   "bytes": 168459,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1120-710.c7e6a9899aec.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 711,
+   "file": "11-1120-711.8e46dd93d320.pmtiles",
+   "bytes": 601518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1120-711.8e46dd93d320.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 712,
+   "file": "11-1120-712.113bce4012bc.pmtiles",
+   "bytes": 588861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1120-712.113bce4012bc.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 713,
+   "file": "11-1120-713.2f231d4aac1e.pmtiles",
+   "bytes": 648309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1120-713.2f231d4aac1e.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 714,
+   "file": "11-1120-714.1a9d68d9164b.pmtiles",
+   "bytes": 281684,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1120-714.1a9d68d9164b.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 710,
+   "file": "11-1121-710.5015a5372459.pmtiles",
+   "bytes": 35099,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1121-710.5015a5372459.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 711,
+   "file": "11-1121-711.a9b82f9b3d1b.pmtiles",
+   "bytes": 202436,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1121-711.a9b82f9b3d1b.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 712,
+   "file": "11-1121-712.5e7f793177fc.pmtiles",
+   "bytes": 231358,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1121-712.5e7f793177fc.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 713,
+   "file": "11-1121-713.b5bd5912e50a.pmtiles",
+   "bytes": 40032,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1121-713.b5bd5912e50a.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 714,
+   "file": "11-1121-714.03233b46baa7.pmtiles",
+   "bytes": 42960,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-burgenland-2026-10-03/11-1121-714.03233b46baa7.pmtiles"
+  }
+ ]
+}

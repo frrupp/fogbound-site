@@ -1,0 +1,1573 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "at-niederoesterreich",
+ "source": "at.pmtiles",
+ "builtAt": "2026-10-03T20:38:09.434Z",
+ "publishedAt": "2026-10-03T20:39:01.263Z",
+ "host": "github",
+ "releases": [
+  "maps-at-niederoesterreich-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.45264,
+  47.42221,
+  17.06884,
+  49.02052
+ ],
+ "overview": {
+  "file": "overview.9e72f91ee2b0.pmtiles",
+  "bytes": 5698628,
+  "tiles": 113,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/overview.9e72f91ee2b0.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1106,
+   "y": 706,
+   "file": "11-1106-706.4643e101388a.pmtiles",
+   "bytes": 399904,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-706.4643e101388a.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 707,
+   "file": "11-1106-707.1fd13411d35e.pmtiles",
+   "bytes": 852269,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-707.1fd13411d35e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 708,
+   "file": "11-1106-708.9935512e5aa7.pmtiles",
+   "bytes": 999696,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-708.9935512e5aa7.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 709,
+   "file": "11-1106-709.040f0367d038.pmtiles",
+   "bytes": 1211989,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-709.040f0367d038.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 710,
+   "file": "11-1106-710.c32f7c228a2b.pmtiles",
+   "bytes": 1578806,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-710.c32f7c228a2b.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 711,
+   "file": "11-1106-711.89ecbf3ba7c3.pmtiles",
+   "bytes": 1493065,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-711.89ecbf3ba7c3.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 712,
+   "file": "11-1106-712.70755dfda992.pmtiles",
+   "bytes": 880851,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-712.70755dfda992.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 713,
+   "file": "11-1106-713.811ee10ce31d.pmtiles",
+   "bytes": 270714,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-713.811ee10ce31d.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 714,
+   "file": "11-1106-714.fb5b71a07303.pmtiles",
+   "bytes": 331622,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-714.fb5b71a07303.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 715,
+   "file": "11-1106-715.815324ba1826.pmtiles",
+   "bytes": 763785,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-715.815324ba1826.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 716,
+   "file": "11-1106-716.2cc8e5917644.pmtiles",
+   "bytes": 707709,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1106-716.2cc8e5917644.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 705,
+   "file": "11-1107-705.5bf531db12f0.pmtiles",
+   "bytes": 30878,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-705.5bf531db12f0.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 706,
+   "file": "11-1107-706.0cf226f5905a.pmtiles",
+   "bytes": 308867,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-706.0cf226f5905a.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 707,
+   "file": "11-1107-707.bf6917718116.pmtiles",
+   "bytes": 613052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-707.bf6917718116.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 708,
+   "file": "11-1107-708.e71e79bf6b34.pmtiles",
+   "bytes": 1138913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-708.e71e79bf6b34.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 709,
+   "file": "11-1107-709.b255e4adbf34.pmtiles",
+   "bytes": 1194215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-709.b255e4adbf34.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 710,
+   "file": "11-1107-710.aaa8e5abdfd2.pmtiles",
+   "bytes": 1157133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-710.aaa8e5abdfd2.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 711,
+   "file": "11-1107-711.841466164ca6.pmtiles",
+   "bytes": 1582814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-711.841466164ca6.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 712,
+   "file": "11-1107-712.86f33b45261c.pmtiles",
+   "bytes": 1044876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-712.86f33b45261c.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 713,
+   "file": "11-1107-713.bf5ec5cc77f4.pmtiles",
+   "bytes": 569218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-713.bf5ec5cc77f4.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 714,
+   "file": "11-1107-714.3d61da1a1baa.pmtiles",
+   "bytes": 616556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-714.3d61da1a1baa.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 715,
+   "file": "11-1107-715.1e6ba20cc64b.pmtiles",
+   "bytes": 597762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-715.1e6ba20cc64b.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 716,
+   "file": "11-1107-716.bcfe2f9a631d.pmtiles",
+   "bytes": 454655,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1107-716.bcfe2f9a631d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 703,
+   "file": "11-1108-703.1e59ad15d968.pmtiles",
+   "bytes": 16524,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-703.1e59ad15d968.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 704,
+   "file": "11-1108-704.02f047d55361.pmtiles",
+   "bytes": 42037,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-704.02f047d55361.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 705,
+   "file": "11-1108-705.4806e1a9e072.pmtiles",
+   "bytes": 598368,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-705.4806e1a9e072.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 706,
+   "file": "11-1108-706.a26492ee3777.pmtiles",
+   "bytes": 1184978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-706.a26492ee3777.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 707,
+   "file": "11-1108-707.6bf97864b06e.pmtiles",
+   "bytes": 1443835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-707.6bf97864b06e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 708,
+   "file": "11-1108-708.159d7103e77b.pmtiles",
+   "bytes": 1473869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-708.159d7103e77b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 709,
+   "file": "11-1108-709.1dd4fc592d73.pmtiles",
+   "bytes": 821824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-709.1dd4fc592d73.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 710,
+   "file": "11-1108-710.5d2c6f662296.pmtiles",
+   "bytes": 1652582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-710.5d2c6f662296.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 711,
+   "file": "11-1108-711.2c6c195d4eff.pmtiles",
+   "bytes": 1698637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-711.2c6c195d4eff.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 712,
+   "file": "11-1108-712.1eb5c2407784.pmtiles",
+   "bytes": 1224194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-712.1eb5c2407784.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 713,
+   "file": "11-1108-713.7aab899cd970.pmtiles",
+   "bytes": 585453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-713.7aab899cd970.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 714,
+   "file": "11-1108-714.a017e2a554ce.pmtiles",
+   "bytes": 504435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-714.a017e2a554ce.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 715,
+   "file": "11-1108-715.c24d39c34dbc.pmtiles",
+   "bytes": 459369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-715.c24d39c34dbc.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 716,
+   "file": "11-1108-716.99db134773ae.pmtiles",
+   "bytes": 731771,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1108-716.99db134773ae.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 703,
+   "file": "11-1109-703.40c3ad07ac84.pmtiles",
+   "bytes": 802434,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-703.40c3ad07ac84.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 704,
+   "file": "11-1109-704.b0dee58f66d4.pmtiles",
+   "bytes": 970683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-704.b0dee58f66d4.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 705,
+   "file": "11-1109-705.e3f71fa078c9.pmtiles",
+   "bytes": 1415282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-705.e3f71fa078c9.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 706,
+   "file": "11-1109-706.de7ac4f8a8a9.pmtiles",
+   "bytes": 1884995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-706.de7ac4f8a8a9.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 707,
+   "file": "11-1109-707.0aad487e9df0.pmtiles",
+   "bytes": 1944733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-707.0aad487e9df0.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 708,
+   "file": "11-1109-708.e6cbb42c8811.pmtiles",
+   "bytes": 727395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-708.e6cbb42c8811.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 709,
+   "file": "11-1109-709.f44f9276dc21.pmtiles",
+   "bytes": 690047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-709.f44f9276dc21.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 710,
+   "file": "11-1109-710.5b6104a160cf.pmtiles",
+   "bytes": 1408647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-710.5b6104a160cf.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 711,
+   "file": "11-1109-711.40a732acfc8f.pmtiles",
+   "bytes": 1335832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-711.40a732acfc8f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 712,
+   "file": "11-1109-712.17422dd1e968.pmtiles",
+   "bytes": 850728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-712.17422dd1e968.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 713,
+   "file": "11-1109-713.7225227fbc30.pmtiles",
+   "bytes": 466342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-713.7225227fbc30.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 714,
+   "file": "11-1109-714.dc2af87202b6.pmtiles",
+   "bytes": 328779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-714.dc2af87202b6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 715,
+   "file": "11-1109-715.25f00941254f.pmtiles",
+   "bytes": 772610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-715.25f00941254f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 716,
+   "file": "11-1109-716.409149666c94.pmtiles",
+   "bytes": 738813,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1109-716.409149666c94.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 703,
+   "file": "11-1110-703.deefc62f27a2.pmtiles",
+   "bytes": 597375,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-703.deefc62f27a2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 704,
+   "file": "11-1110-704.6b80eb766710.pmtiles",
+   "bytes": 1568521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-704.6b80eb766710.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 705,
+   "file": "11-1110-705.96823e53b9b5.pmtiles",
+   "bytes": 1424434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-705.96823e53b9b5.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 706,
+   "file": "11-1110-706.86ae06989bd7.pmtiles",
+   "bytes": 1347363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-706.86ae06989bd7.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 707,
+   "file": "11-1110-707.b8b9be4871b1.pmtiles",
+   "bytes": 1198963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-707.b8b9be4871b1.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 708,
+   "file": "11-1110-708.d7e5dc40ce3a.pmtiles",
+   "bytes": 1057770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-708.d7e5dc40ce3a.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 709,
+   "file": "11-1110-709.8020e06caa54.pmtiles",
+   "bytes": 1020403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-709.8020e06caa54.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 710,
+   "file": "11-1110-710.e5902bd70f7f.pmtiles",
+   "bytes": 1835223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-710.e5902bd70f7f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 711,
+   "file": "11-1110-711.7ee841268c25.pmtiles",
+   "bytes": 1513001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-711.7ee841268c25.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 712,
+   "file": "11-1110-712.a46887d4a5f2.pmtiles",
+   "bytes": 679821,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-712.a46887d4a5f2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 713,
+   "file": "11-1110-713.6f2b7576504c.pmtiles",
+   "bytes": 928762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-713.6f2b7576504c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 714,
+   "file": "11-1110-714.3d25abb12112.pmtiles",
+   "bytes": 427060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-714.3d25abb12112.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 715,
+   "file": "11-1110-715.e49afe72d20f.pmtiles",
+   "bytes": 1068243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-715.e49afe72d20f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 716,
+   "file": "11-1110-716.e973d6ced1ba.pmtiles",
+   "bytes": 766587,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1110-716.e973d6ced1ba.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 703,
+   "file": "11-1111-703.e71dd01c99f1.pmtiles",
+   "bytes": 520751,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-703.e71dd01c99f1.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 704,
+   "file": "11-1111-704.4cb7938d6f52.pmtiles",
+   "bytes": 1244867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-704.4cb7938d6f52.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 705,
+   "file": "11-1111-705.bb67d778f12b.pmtiles",
+   "bytes": 1140610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-705.bb67d778f12b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 706,
+   "file": "11-1111-706.7d6ebb51881d.pmtiles",
+   "bytes": 987906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-706.7d6ebb51881d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 707,
+   "file": "11-1111-707.00f4ecee8a58.pmtiles",
+   "bytes": 1155151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-707.00f4ecee8a58.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 708,
+   "file": "11-1111-708.20cb882858de.pmtiles",
+   "bytes": 1256932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-708.20cb882858de.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 709,
+   "file": "11-1111-709.0681b8bed22a.pmtiles",
+   "bytes": 1268548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-709.0681b8bed22a.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 710,
+   "file": "11-1111-710.519474031637.pmtiles",
+   "bytes": 1192027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-710.519474031637.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 711,
+   "file": "11-1111-711.33fb6a5f869e.pmtiles",
+   "bytes": 1095822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-711.33fb6a5f869e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 712,
+   "file": "11-1111-712.38f6edf5570b.pmtiles",
+   "bytes": 771086,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-712.38f6edf5570b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 713,
+   "file": "11-1111-713.b8f9cf3e9870.pmtiles",
+   "bytes": 641655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-713.b8f9cf3e9870.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 714,
+   "file": "11-1111-714.362b7448461f.pmtiles",
+   "bytes": 483401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-714.362b7448461f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 715,
+   "file": "11-1111-715.22cfb8caefe7.pmtiles",
+   "bytes": 580227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-715.22cfb8caefe7.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 716,
+   "file": "11-1111-716.e3cd97a7b505.pmtiles",
+   "bytes": 1036464,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1111-716.e3cd97a7b505.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 703,
+   "file": "11-1112-703.0964f2acdc82.pmtiles",
+   "bytes": 72180,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-703.0964f2acdc82.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 704,
+   "file": "11-1112-704.5005a13d866b.pmtiles",
+   "bytes": 908455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-704.5005a13d866b.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 705,
+   "file": "11-1112-705.263e6d50f568.pmtiles",
+   "bytes": 525361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-705.263e6d50f568.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 706,
+   "file": "11-1112-706.8a37c0f27d7e.pmtiles",
+   "bytes": 662503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-706.8a37c0f27d7e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 707,
+   "file": "11-1112-707.6477d7bef461.pmtiles",
+   "bytes": 1264294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-707.6477d7bef461.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 708,
+   "file": "11-1112-708.8044077fcaa7.pmtiles",
+   "bytes": 2204059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-708.8044077fcaa7.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 709,
+   "file": "11-1112-709.4eb5ff7b594a.pmtiles",
+   "bytes": 1127938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-709.4eb5ff7b594a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 710,
+   "file": "11-1112-710.aec767ec553c.pmtiles",
+   "bytes": 1798209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-710.aec767ec553c.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 711,
+   "file": "11-1112-711.36a687d4f7b0.pmtiles",
+   "bytes": 1174161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-711.36a687d4f7b0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 712,
+   "file": "11-1112-712.0a383a225dfd.pmtiles",
+   "bytes": 601528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-712.0a383a225dfd.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 713,
+   "file": "11-1112-713.b37ab3b7b5b5.pmtiles",
+   "bytes": 538929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-713.b37ab3b7b5b5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 714,
+   "file": "11-1112-714.9bc408807759.pmtiles",
+   "bytes": 571896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-714.9bc408807759.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 715,
+   "file": "11-1112-715.0188f0aa8ff9.pmtiles",
+   "bytes": 871696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-715.0188f0aa8ff9.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 716,
+   "file": "11-1112-716.b69a7c947a0b.pmtiles",
+   "bytes": 579206,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1112-716.b69a7c947a0b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 704,
+   "file": "11-1113-704.7070fdc70f5b.pmtiles",
+   "bytes": 305463,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-704.7070fdc70f5b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 705,
+   "file": "11-1113-705.02883953e590.pmtiles",
+   "bytes": 408687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-705.02883953e590.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 706,
+   "file": "11-1113-706.be255e53f15a.pmtiles",
+   "bytes": 667716,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-706.be255e53f15a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 707,
+   "file": "11-1113-707.1cbf2cec68d9.pmtiles",
+   "bytes": 1279717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-707.1cbf2cec68d9.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 708,
+   "file": "11-1113-708.de0af22a1d88.pmtiles",
+   "bytes": 1632649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-708.de0af22a1d88.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 709,
+   "file": "11-1113-709.a5e0ecc7acef.pmtiles",
+   "bytes": 1333752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-709.a5e0ecc7acef.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 710,
+   "file": "11-1113-710.e1c584df27fd.pmtiles",
+   "bytes": 1079106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-710.e1c584df27fd.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 711,
+   "file": "11-1113-711.8bcfca410d5e.pmtiles",
+   "bytes": 1053307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-711.8bcfca410d5e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 712,
+   "file": "11-1113-712.903f93b27e8a.pmtiles",
+   "bytes": 535912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-712.903f93b27e8a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 713,
+   "file": "11-1113-713.9e7f649b474f.pmtiles",
+   "bytes": 598248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-713.9e7f649b474f.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 714,
+   "file": "11-1113-714.8629211d58b5.pmtiles",
+   "bytes": 979358,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-714.8629211d58b5.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 715,
+   "file": "11-1113-715.2ae62618bf02.pmtiles",
+   "bytes": 807236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-715.2ae62618bf02.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 716,
+   "file": "11-1113-716.3a13b9eb8f22.pmtiles",
+   "bytes": 877280,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1113-716.3a13b9eb8f22.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 704,
+   "file": "11-1114-704.fc297acfddd0.pmtiles",
+   "bytes": 220571,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-704.fc297acfddd0.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 705,
+   "file": "11-1114-705.1965e8bad62c.pmtiles",
+   "bytes": 778771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-705.1965e8bad62c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 706,
+   "file": "11-1114-706.75ad2744a19d.pmtiles",
+   "bytes": 552394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-706.75ad2744a19d.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 707,
+   "file": "11-1114-707.3eb0cc21df87.pmtiles",
+   "bytes": 931301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-707.3eb0cc21df87.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 708,
+   "file": "11-1114-708.585781b8cdb0.pmtiles",
+   "bytes": 712916,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-708.585781b8cdb0.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 709,
+   "file": "11-1114-709.c8a41a7fa6fc.pmtiles",
+   "bytes": 1050488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-709.c8a41a7fa6fc.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 710,
+   "file": "11-1114-710.5d8018f6c122.pmtiles",
+   "bytes": 1362028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-710.5d8018f6c122.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 711,
+   "file": "11-1114-711.1faac45a9074.pmtiles",
+   "bytes": 723296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-711.1faac45a9074.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 712,
+   "file": "11-1114-712.f2be7ba8cef9.pmtiles",
+   "bytes": 649445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-712.f2be7ba8cef9.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 713,
+   "file": "11-1114-713.32e5d09b4c27.pmtiles",
+   "bytes": 802049,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-713.32e5d09b4c27.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 714,
+   "file": "11-1114-714.3ef8efb9b860.pmtiles",
+   "bytes": 1362533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-714.3ef8efb9b860.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 715,
+   "file": "11-1114-715.b16c92c17fc9.pmtiles",
+   "bytes": 689738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-715.b16c92c17fc9.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 716,
+   "file": "11-1114-716.00a77b872ed7.pmtiles",
+   "bytes": 731948,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1114-716.00a77b872ed7.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 705,
+   "file": "11-1115-705.27f32d6ddc13.pmtiles",
+   "bytes": 553166,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-705.27f32d6ddc13.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 706,
+   "file": "11-1115-706.62dc2b8c8f39.pmtiles",
+   "bytes": 500830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-706.62dc2b8c8f39.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 707,
+   "file": "11-1115-707.2adf7fa71b3d.pmtiles",
+   "bytes": 719677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-707.2adf7fa71b3d.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 708,
+   "file": "11-1115-708.4daf3c2bbbde.pmtiles",
+   "bytes": 683841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-708.4daf3c2bbbde.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 709,
+   "file": "11-1115-709.ab3284bc17ce.pmtiles",
+   "bytes": 1441509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-709.ab3284bc17ce.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 710,
+   "file": "11-1115-710.2228cba59a67.pmtiles",
+   "bytes": 1060688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-710.2228cba59a67.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 711,
+   "file": "11-1115-711.27cdfd96e947.pmtiles",
+   "bytes": 932971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-711.27cdfd96e947.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 712,
+   "file": "11-1115-712.8e4be43dca9c.pmtiles",
+   "bytes": 1068520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-712.8e4be43dca9c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 713,
+   "file": "11-1115-713.47d5d6093c8d.pmtiles",
+   "bytes": 1281734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-713.47d5d6093c8d.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 714,
+   "file": "11-1115-714.8612fe0e91f3.pmtiles",
+   "bytes": 1603415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-714.8612fe0e91f3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 715,
+   "file": "11-1115-715.20767a84a6f6.pmtiles",
+   "bytes": 1164992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-715.20767a84a6f6.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 716,
+   "file": "11-1115-716.3169765d6a92.pmtiles",
+   "bytes": 1090423,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1115-716.3169765d6a92.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 705,
+   "file": "11-1116-705.ab1b325584c2.pmtiles",
+   "bytes": 282593,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-705.ab1b325584c2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 706,
+   "file": "11-1116-706.99204eeda437.pmtiles",
+   "bytes": 513998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-706.99204eeda437.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 707,
+   "file": "11-1116-707.44cba46f9d6e.pmtiles",
+   "bytes": 444136,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-707.44cba46f9d6e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 708,
+   "file": "11-1116-708.4c4c933eabb4.pmtiles",
+   "bytes": 1308943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-708.4c4c933eabb4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 709,
+   "file": "11-1116-709.d823020c9086.pmtiles",
+   "bytes": 2465326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-709.d823020c9086.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 710,
+   "file": "11-1116-710.5863c2ab1d43.pmtiles",
+   "bytes": 5831301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-710.5863c2ab1d43.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 711,
+   "file": "11-1116-711.0d7b3c9a3e94.pmtiles",
+   "bytes": 2437388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-711.0d7b3c9a3e94.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 712,
+   "file": "11-1116-712.811bee481456.pmtiles",
+   "bytes": 1905320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-712.811bee481456.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 713,
+   "file": "11-1116-713.a63789444e58.pmtiles",
+   "bytes": 1667312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-713.a63789444e58.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 714,
+   "file": "11-1116-714.e390034e98a8.pmtiles",
+   "bytes": 1121673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-714.e390034e98a8.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 715,
+   "file": "11-1116-715.f00fc2937d97.pmtiles",
+   "bytes": 925886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-715.f00fc2937d97.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 716,
+   "file": "11-1116-716.c6cd7031d877.pmtiles",
+   "bytes": 914784,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1116-716.c6cd7031d877.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 705,
+   "file": "11-1117-705.5f25a3b121d1.pmtiles",
+   "bytes": 496831,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-705.5f25a3b121d1.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 706,
+   "file": "11-1117-706.758ce9117e4d.pmtiles",
+   "bytes": 628984,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-706.758ce9117e4d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 707,
+   "file": "11-1117-707.fef2a408f465.pmtiles",
+   "bytes": 702767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-707.fef2a408f465.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 708,
+   "file": "11-1117-708.23623b53ea3d.pmtiles",
+   "bytes": 1078524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-708.23623b53ea3d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 709,
+   "file": "11-1117-709.201786052e14.pmtiles",
+   "bytes": 4680275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-709.201786052e14.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 710,
+   "file": "11-1117-710.67309a337c5f.pmtiles",
+   "bytes": 6430144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-710.67309a337c5f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 711,
+   "file": "11-1117-711.2c957db40bfa.pmtiles",
+   "bytes": 1187484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-711.2c957db40bfa.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 712,
+   "file": "11-1117-712.9234a0a01e9d.pmtiles",
+   "bytes": 1180713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-712.9234a0a01e9d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 713,
+   "file": "11-1117-713.ef1c9a3ada70.pmtiles",
+   "bytes": 1168328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-713.ef1c9a3ada70.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 714,
+   "file": "11-1117-714.24fae5105951.pmtiles",
+   "bytes": 1053408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-714.24fae5105951.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 715,
+   "file": "11-1117-715.e2fb21a5a81f.pmtiles",
+   "bytes": 875295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-715.e2fb21a5a81f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 716,
+   "file": "11-1117-716.3e1003331000.pmtiles",
+   "bytes": 694035,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1117-716.3e1003331000.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 704,
+   "file": "11-1118-704.4da5ae75d16d.pmtiles",
+   "bytes": 25063,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-704.4da5ae75d16d.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 705,
+   "file": "11-1118-705.22672a6170b1.pmtiles",
+   "bytes": 533580,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-705.22672a6170b1.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 706,
+   "file": "11-1118-706.f4789973dec4.pmtiles",
+   "bytes": 722756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-706.f4789973dec4.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 707,
+   "file": "11-1118-707.0024ebed9155.pmtiles",
+   "bytes": 787692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-707.0024ebed9155.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 708,
+   "file": "11-1118-708.eaa7805f8ba6.pmtiles",
+   "bytes": 660578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-708.eaa7805f8ba6.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 709,
+   "file": "11-1118-709.58662b80ac67.pmtiles",
+   "bytes": 777122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-709.58662b80ac67.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 710,
+   "file": "11-1118-710.8d0c8c88f48f.pmtiles",
+   "bytes": 918425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-710.8d0c8c88f48f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 711,
+   "file": "11-1118-711.481ab343ecdc.pmtiles",
+   "bytes": 763297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-711.481ab343ecdc.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 712,
+   "file": "11-1118-712.1fb48af8160f.pmtiles",
+   "bytes": 724512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-712.1fb48af8160f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 713,
+   "file": "11-1118-713.279477edcdb5.pmtiles",
+   "bytes": 1235612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-713.279477edcdb5.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 714,
+   "file": "11-1118-714.bcd7e9c617b2.pmtiles",
+   "bytes": 247641,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-714.bcd7e9c617b2.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 715,
+   "file": "11-1118-715.1a69a21e8942.pmtiles",
+   "bytes": 648253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-715.1a69a21e8942.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 716,
+   "file": "11-1118-716.4bbda29d0b83.pmtiles",
+   "bytes": 443169,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1118-716.4bbda29d0b83.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 705,
+   "file": "11-1119-705.a2872b6d0a54.pmtiles",
+   "bytes": 269916,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-705.a2872b6d0a54.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 706,
+   "file": "11-1119-706.8896a89e174c.pmtiles",
+   "bytes": 491707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-706.8896a89e174c.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 707,
+   "file": "11-1119-707.90e91f82f2a4.pmtiles",
+   "bytes": 590110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-707.90e91f82f2a4.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 708,
+   "file": "11-1119-708.9e4900c71801.pmtiles",
+   "bytes": 669440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-708.9e4900c71801.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 709,
+   "file": "11-1119-709.5582329549d3.pmtiles",
+   "bytes": 457118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-709.5582329549d3.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 710,
+   "file": "11-1119-710.2ceedaa48f06.pmtiles",
+   "bytes": 584694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-710.2ceedaa48f06.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 711,
+   "file": "11-1119-711.92132f070a3d.pmtiles",
+   "bytes": 885216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-711.92132f070a3d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 712,
+   "file": "11-1119-712.c65474154fb9.pmtiles",
+   "bytes": 873103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-712.c65474154fb9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 713,
+   "file": "11-1119-713.52697b6db0af.pmtiles",
+   "bytes": 491238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-713.52697b6db0af.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 714,
+   "file": "11-1119-714.ef7b44e5c45f.pmtiles",
+   "bytes": 236030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-714.ef7b44e5c45f.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 715,
+   "file": "11-1119-715.9bf83bb6382a.pmtiles",
+   "bytes": 45421,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1119-715.9bf83bb6382a.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 705,
+   "file": "11-1120-705.75abf05ff246.pmtiles",
+   "bytes": 109079,
+   "tiles": 36,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-705.75abf05ff246.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 706,
+   "file": "11-1120-706.19e6eee7abea.pmtiles",
+   "bytes": 335821,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-706.19e6eee7abea.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 707,
+   "file": "11-1120-707.e38313e6a7e5.pmtiles",
+   "bytes": 236540,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-707.e38313e6a7e5.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 709,
+   "file": "11-1120-709.a93b72f91c31.pmtiles",
+   "bytes": 297355,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-709.a93b72f91c31.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 710,
+   "file": "11-1120-710.0993699b56fa.pmtiles",
+   "bytes": 744924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-710.0993699b56fa.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 711,
+   "file": "11-1120-711.8e46dd93d320.pmtiles",
+   "bytes": 601518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-711.8e46dd93d320.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 712,
+   "file": "11-1120-712.113bce4012bc.pmtiles",
+   "bytes": 588861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-712.113bce4012bc.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 713,
+   "file": "11-1120-713.2f231d4aac1e.pmtiles",
+   "bytes": 648309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-713.2f231d4aac1e.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 714,
+   "file": "11-1120-714.1a9d68d9164b.pmtiles",
+   "bytes": 281684,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1120-714.1a9d68d9164b.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 710,
+   "file": "11-1121-710.a5061651c4e2.pmtiles",
+   "bytes": 45537,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1121-710.a5061651c4e2.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 711,
+   "file": "11-1121-711.bd32205dad92.pmtiles",
+   "bytes": 114050,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1121-711.bd32205dad92.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 712,
+   "file": "11-1121-712.17f62c83eb8f.pmtiles",
+   "bytes": 117647,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1121-712.17f62c83eb8f.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 713,
+   "file": "11-1121-713.88f6b1a535e3.pmtiles",
+   "bytes": 29469,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1121-713.88f6b1a535e3.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 714,
+   "file": "11-1121-714.2d3319600fda.pmtiles",
+   "bytes": 25327,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-niederoesterreich-2026-10-03/11-1121-714.2d3319600fda.pmtiles"
+  }
+ ]
+}

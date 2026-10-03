@@ -1,0 +1,77 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "at-wien",
+ "source": "at.pmtiles",
+ "builtAt": "2026-10-03T20:34:47.705Z",
+ "publishedAt": "2026-10-03T20:34:53.017Z",
+ "host": "github",
+ "releases": [
+  "maps-at-wien-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  16.18183,
+  48.11791,
+  16.57751,
+  48.32267
+ ],
+ "overview": {
+  "file": "overview.978aedfb5c64.pmtiles",
+  "bytes": 766997,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/overview.978aedfb5c64.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1116,
+   "y": 709,
+   "file": "11-1116-709.c9cb37f8cdf4.pmtiles",
+   "bytes": 2264011,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1116-709.c9cb37f8cdf4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 710,
+   "file": "11-1116-710.5863c2ab1d43.pmtiles",
+   "bytes": 5831301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1116-710.5863c2ab1d43.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 709,
+   "file": "11-1117-709.0e193c65abdc.pmtiles",
+   "bytes": 4512475,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1117-709.0e193c65abdc.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 710,
+   "file": "11-1117-710.67309a337c5f.pmtiles",
+   "bytes": 6430144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1117-710.67309a337c5f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 709,
+   "file": "11-1118-709.541de199f8e0.pmtiles",
+   "bytes": 334644,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1118-709.541de199f8e0.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 710,
+   "file": "11-1118-710.7b6f22a322b6.pmtiles",
+   "bytes": 563271,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-at-wien-2026-10-03/11-1118-710.7b6f22a322b6.pmtiles"
+  }
+ ]
+}
