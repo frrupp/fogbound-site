@@ -1,0 +1,773 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-hautes-alpes",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T17:44:20.175Z",
+ "publishedAt": "2026-10-04T17:44:46.508Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-hautes-alpes-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.41839,
+  44.18638,
+  7.07714,
+  45.1266
+ ],
+ "overview": {
+  "file": "overview.df0a6df11f2b.pmtiles",
+  "bytes": 4587653,
+  "tiles": 62,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/overview.df0a6df11f2b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1054,
+   "y": 735,
+   "file": "11-1054-735.870f8242dbb8.pmtiles",
+   "bytes": 105185,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-735.870f8242dbb8.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 736,
+   "file": "11-1054-736.b60922063975.pmtiles",
+   "bytes": 245529,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-736.b60922063975.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 737,
+   "file": "11-1054-737.e3f6beb3a838.pmtiles",
+   "bytes": 199693,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-737.e3f6beb3a838.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 738,
+   "file": "11-1054-738.99b9923d83e5.pmtiles",
+   "bytes": 150466,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-738.99b9923d83e5.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 739,
+   "file": "11-1054-739.a63fa07219df.pmtiles",
+   "bytes": 200998,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-739.a63fa07219df.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 740,
+   "file": "11-1054-740.6f258c53502e.pmtiles",
+   "bytes": 131779,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-740.6f258c53502e.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 741,
+   "file": "11-1054-741.4125c5e6c6f6.pmtiles",
+   "bytes": 146480,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-741.4125c5e6c6f6.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 742,
+   "file": "11-1054-742.ab3479a0c986.pmtiles",
+   "bytes": 304216,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-742.ab3479a0c986.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 743,
+   "file": "11-1054-743.417fbacafcc7.pmtiles",
+   "bytes": 109811,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1054-743.417fbacafcc7.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 735,
+   "file": "11-1055-735.be7f45993547.pmtiles",
+   "bytes": 436713,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-735.be7f45993547.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 736,
+   "file": "11-1055-736.73f50348d92d.pmtiles",
+   "bytes": 879800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-736.73f50348d92d.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 737,
+   "file": "11-1055-737.30c79fd54b6f.pmtiles",
+   "bytes": 584681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-737.30c79fd54b6f.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 738,
+   "file": "11-1055-738.ef688c4cdcfb.pmtiles",
+   "bytes": 495015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-738.ef688c4cdcfb.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 739,
+   "file": "11-1055-739.5141d02706cb.pmtiles",
+   "bytes": 506006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-739.5141d02706cb.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 740,
+   "file": "11-1055-740.5629a356bb38.pmtiles",
+   "bytes": 390172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-740.5629a356bb38.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 741,
+   "file": "11-1055-741.f90af8320a3d.pmtiles",
+   "bytes": 490668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-741.f90af8320a3d.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 742,
+   "file": "11-1055-742.f7f671d550d5.pmtiles",
+   "bytes": 551734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-742.f7f671d550d5.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 743,
+   "file": "11-1055-743.82ae5346a8bd.pmtiles",
+   "bytes": 188255,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1055-743.82ae5346a8bd.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 735,
+   "file": "11-1056-735.6d1e7647d429.pmtiles",
+   "bytes": 1129216,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-735.6d1e7647d429.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 736,
+   "file": "11-1056-736.297ba5fddcc2.pmtiles",
+   "bytes": 1584330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-736.297ba5fddcc2.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 737,
+   "file": "11-1056-737.947e94e74c3a.pmtiles",
+   "bytes": 1048496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-737.947e94e74c3a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 738,
+   "file": "11-1056-738.c9b84ef24edf.pmtiles",
+   "bytes": 728663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-738.c9b84ef24edf.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 739,
+   "file": "11-1056-739.5560b944a913.pmtiles",
+   "bytes": 518919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-739.5560b944a913.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 740,
+   "file": "11-1056-740.83aa57643894.pmtiles",
+   "bytes": 513995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-740.83aa57643894.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 741,
+   "file": "11-1056-741.093ff23b71ee.pmtiles",
+   "bytes": 813271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-741.093ff23b71ee.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 742,
+   "file": "11-1056-742.a24ba033e2a6.pmtiles",
+   "bytes": 603927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-742.a24ba033e2a6.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 743,
+   "file": "11-1056-743.12c7f169f030.pmtiles",
+   "bytes": 121316,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1056-743.12c7f169f030.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 735,
+   "file": "11-1057-735.d83609328387.pmtiles",
+   "bytes": 551183,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-735.d83609328387.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 736,
+   "file": "11-1057-736.092456bef210.pmtiles",
+   "bytes": 613724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-736.092456bef210.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 737,
+   "file": "11-1057-737.0a84ebb00027.pmtiles",
+   "bytes": 708596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-737.0a84ebb00027.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 738,
+   "file": "11-1057-738.57bb33504d16.pmtiles",
+   "bytes": 599113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-738.57bb33504d16.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 739,
+   "file": "11-1057-739.177bf43c1010.pmtiles",
+   "bytes": 694664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-739.177bf43c1010.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 740,
+   "file": "11-1057-740.4de5ced1c570.pmtiles",
+   "bytes": 786691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-740.4de5ced1c570.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 741,
+   "file": "11-1057-741.96a34da3f5f5.pmtiles",
+   "bytes": 796450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-741.96a34da3f5f5.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 742,
+   "file": "11-1057-742.71aa56d63366.pmtiles",
+   "bytes": 1018829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-742.71aa56d63366.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 743,
+   "file": "11-1057-743.e4d0eebc83e1.pmtiles",
+   "bytes": 313842,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1057-743.e4d0eebc83e1.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 735,
+   "file": "11-1058-735.195b4e22fa97.pmtiles",
+   "bytes": 394043,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-735.195b4e22fa97.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 736,
+   "file": "11-1058-736.24667bc85112.pmtiles",
+   "bytes": 828605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-736.24667bc85112.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 737,
+   "file": "11-1058-737.59998098af41.pmtiles",
+   "bytes": 361895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-737.59998098af41.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 738,
+   "file": "11-1058-738.bc64e213542c.pmtiles",
+   "bytes": 611145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-738.bc64e213542c.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 739,
+   "file": "11-1058-739.883b3346af56.pmtiles",
+   "bytes": 815362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-739.883b3346af56.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 740,
+   "file": "11-1058-740.9374e70039ab.pmtiles",
+   "bytes": 1511973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-740.9374e70039ab.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 741,
+   "file": "11-1058-741.9727378a5297.pmtiles",
+   "bytes": 706125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-741.9727378a5297.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 742,
+   "file": "11-1058-742.5b5293e202cf.pmtiles",
+   "bytes": 595994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-742.5b5293e202cf.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 743,
+   "file": "11-1058-743.a844460f9cba.pmtiles",
+   "bytes": 218162,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1058-743.a844460f9cba.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 735,
+   "file": "11-1059-735.76c767c8ea73.pmtiles",
+   "bytes": 138685,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-735.76c767c8ea73.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 736,
+   "file": "11-1059-736.04e5ff8460b9.pmtiles",
+   "bytes": 561771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-736.04e5ff8460b9.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 737,
+   "file": "11-1059-737.073482879beb.pmtiles",
+   "bytes": 454939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-737.073482879beb.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 738,
+   "file": "11-1059-738.4c631c2ecea1.pmtiles",
+   "bytes": 590073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-738.4c631c2ecea1.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 739,
+   "file": "11-1059-739.d08ac6778c84.pmtiles",
+   "bytes": 903150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-739.d08ac6778c84.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 740,
+   "file": "11-1059-740.e059d796f7ce.pmtiles",
+   "bytes": 1059979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-740.e059d796f7ce.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 741,
+   "file": "11-1059-741.ef3d2554fe7c.pmtiles",
+   "bytes": 778841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-741.ef3d2554fe7c.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 742,
+   "file": "11-1059-742.f0db7afcfa12.pmtiles",
+   "bytes": 550897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-742.f0db7afcfa12.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 743,
+   "file": "11-1059-743.837aaa3bedd7.pmtiles",
+   "bytes": 155323,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1059-743.837aaa3bedd7.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 735,
+   "file": "11-1060-735.2034fb7c50de.pmtiles",
+   "bytes": 168395,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-735.2034fb7c50de.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 736,
+   "file": "11-1060-736.fbfc3d2464ef.pmtiles",
+   "bytes": 604602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-736.fbfc3d2464ef.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 737,
+   "file": "11-1060-737.3307dfe62401.pmtiles",
+   "bytes": 663974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-737.3307dfe62401.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 738,
+   "file": "11-1060-738.38e7cbf0cc7c.pmtiles",
+   "bytes": 675906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-738.38e7cbf0cc7c.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 739,
+   "file": "11-1060-739.809ef1aaf0c3.pmtiles",
+   "bytes": 548707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-739.809ef1aaf0c3.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 740,
+   "file": "11-1060-740.23aaa893d615.pmtiles",
+   "bytes": 1158996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-740.23aaa893d615.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 741,
+   "file": "11-1060-741.3e85ff8a43d9.pmtiles",
+   "bytes": 791633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-741.3e85ff8a43d9.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 742,
+   "file": "11-1060-742.0f50f615e791.pmtiles",
+   "bytes": 508721,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-742.0f50f615e791.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 743,
+   "file": "11-1060-743.becbff4ba634.pmtiles",
+   "bytes": 117097,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1060-743.becbff4ba634.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 735,
+   "file": "11-1061-735.240f644fa878.pmtiles",
+   "bytes": 358257,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-735.240f644fa878.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 736,
+   "file": "11-1061-736.2b7f0aa76b36.pmtiles",
+   "bytes": 837018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-736.2b7f0aa76b36.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 737,
+   "file": "11-1061-737.ab11a3e088cc.pmtiles",
+   "bytes": 1320013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-737.ab11a3e088cc.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 738,
+   "file": "11-1061-738.08b2e61ac7df.pmtiles",
+   "bytes": 819316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-738.08b2e61ac7df.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 739,
+   "file": "11-1061-739.0c548d454d55.pmtiles",
+   "bytes": 937571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-739.0c548d454d55.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 740,
+   "file": "11-1061-740.09693e0966f3.pmtiles",
+   "bytes": 713384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-740.09693e0966f3.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 741,
+   "file": "11-1061-741.68d5fdd216f4.pmtiles",
+   "bytes": 697796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-741.68d5fdd216f4.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 742,
+   "file": "11-1061-742.be8263da3fe2.pmtiles",
+   "bytes": 560877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-742.be8263da3fe2.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 743,
+   "file": "11-1061-743.e7fadd9d29e1.pmtiles",
+   "bytes": 150697,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1061-743.e7fadd9d29e1.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 735,
+   "file": "11-1062-735.7d348732bebd.pmtiles",
+   "bytes": 66980,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-735.7d348732bebd.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 736,
+   "file": "11-1062-736.c2edd1a2b3d0.pmtiles",
+   "bytes": 137597,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-736.c2edd1a2b3d0.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 737,
+   "file": "11-1062-737.0065a8d9ee4f.pmtiles",
+   "bytes": 483516,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-737.0065a8d9ee4f.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 738,
+   "file": "11-1062-738.908720b2ebd8.pmtiles",
+   "bytes": 594638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-738.908720b2ebd8.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 739,
+   "file": "11-1062-739.cd02edc5a79c.pmtiles",
+   "bytes": 719232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-739.cd02edc5a79c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 740,
+   "file": "11-1062-740.801567bcb4fb.pmtiles",
+   "bytes": 436573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-740.801567bcb4fb.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 741,
+   "file": "11-1062-741.3665f27d0d6c.pmtiles",
+   "bytes": 449079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-741.3665f27d0d6c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 742,
+   "file": "11-1062-742.9802dbcfad2a.pmtiles",
+   "bytes": 362344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-742.9802dbcfad2a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 743,
+   "file": "11-1062-743.2f8c9157885e.pmtiles",
+   "bytes": 123840,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1062-743.2f8c9157885e.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 735,
+   "file": "11-1063-735.405acdd243d9.pmtiles",
+   "bytes": 41349,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-735.405acdd243d9.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 737,
+   "file": "11-1063-737.f8648e35bd32.pmtiles",
+   "bytes": 54993,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-737.f8648e35bd32.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 738,
+   "file": "11-1063-738.a16994ca029e.pmtiles",
+   "bytes": 371107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-738.a16994ca029e.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 739,
+   "file": "11-1063-739.1986f89caab1.pmtiles",
+   "bytes": 473440,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-739.1986f89caab1.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 740,
+   "file": "11-1063-740.7c253d7fbbfa.pmtiles",
+   "bytes": 206422,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-740.7c253d7fbbfa.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 741,
+   "file": "11-1063-741.f90199893fd6.pmtiles",
+   "bytes": 321816,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-741.f90199893fd6.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 742,
+   "file": "11-1063-742.8709525e59ee.pmtiles",
+   "bytes": 742209,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-742.8709525e59ee.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 743,
+   "file": "11-1063-743.c0a2e47dad7e.pmtiles",
+   "bytes": 113641,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1063-743.c0a2e47dad7e.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 738,
+   "file": "11-1064-738.297fc92718ad.pmtiles",
+   "bytes": 29150,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1064-738.297fc92718ad.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 739,
+   "file": "11-1064-739.d3e5a600d426.pmtiles",
+   "bytes": 83242,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1064-739.d3e5a600d426.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 742,
+   "file": "11-1064-742.db211caffe51.pmtiles",
+   "bytes": 139537,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1064-742.db211caffe51.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 743,
+   "file": "11-1064-743.fc8546b26fa3.pmtiles",
+   "bytes": 100826,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hautes-alpes-2026-10-03/11-1064-743.fc8546b26fa3.pmtiles"
+  }
+ ]
+}
