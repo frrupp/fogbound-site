@@ -1,0 +1,709 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-graubuenden",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-04T06:01:13.806Z",
+ "publishedAt": "2026-10-04T06:01:25.658Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-graubuenden-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.65107,
+  46.16915,
+  10.49217,
+  47.06515
+ ],
+ "overview": {
+  "file": "overview.e793f3f87aa6.pmtiles",
+  "bytes": 2474358,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/overview.e793f3f87aa6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1073,
+   "y": 719,
+   "file": "11-1073-719.d35919ffdcf8.pmtiles",
+   "bytes": 240053,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-719.d35919ffdcf8.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 720,
+   "file": "11-1073-720.bb0b5be1313c.pmtiles",
+   "bytes": 939690,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-720.bb0b5be1313c.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 721,
+   "file": "11-1073-721.ab6f964219aa.pmtiles",
+   "bytes": 912800,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-721.ab6f964219aa.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 722,
+   "file": "11-1073-722.dff741017bf5.pmtiles",
+   "bytes": 517231,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-722.dff741017bf5.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 723,
+   "file": "11-1073-723.469dc117cf7c.pmtiles",
+   "bytes": 380125,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-723.469dc117cf7c.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 724,
+   "file": "11-1073-724.d8ab57bfcb10.pmtiles",
+   "bytes": 513079,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-724.d8ab57bfcb10.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 725,
+   "file": "11-1073-725.1fa84c6b8703.pmtiles",
+   "bytes": 383108,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-725.1fa84c6b8703.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 726,
+   "file": "11-1073-726.249afcb7d0e8.pmtiles",
+   "bytes": 638238,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-726.249afcb7d0e8.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 727,
+   "file": "11-1073-727.a65a27b910ba.pmtiles",
+   "bytes": 456314,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1073-727.a65a27b910ba.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 719,
+   "file": "11-1074-719.fa86a1b918a0.pmtiles",
+   "bytes": 235764,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-719.fa86a1b918a0.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 720,
+   "file": "11-1074-720.a52fcf06c5e1.pmtiles",
+   "bytes": 480241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-720.a52fcf06c5e1.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 721,
+   "file": "11-1074-721.076d3979f695.pmtiles",
+   "bytes": 448831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-721.076d3979f695.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 722,
+   "file": "11-1074-722.4e798faaa280.pmtiles",
+   "bytes": 575179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-722.4e798faaa280.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 723,
+   "file": "11-1074-723.d80d8d8f9a2f.pmtiles",
+   "bytes": 340959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-723.d80d8d8f9a2f.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 724,
+   "file": "11-1074-724.079062959923.pmtiles",
+   "bytes": 783839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-724.079062959923.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 725,
+   "file": "11-1074-725.c25edc863eea.pmtiles",
+   "bytes": 693019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-725.c25edc863eea.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 726,
+   "file": "11-1074-726.ddf5ec5db3eb.pmtiles",
+   "bytes": 467239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-726.ddf5ec5db3eb.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 727,
+   "file": "11-1074-727.79ab26a7b504.pmtiles",
+   "bytes": 711185,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1074-727.79ab26a7b504.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 719,
+   "file": "11-1075-719.8edc026fb3d3.pmtiles",
+   "bytes": 566079,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-719.8edc026fb3d3.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 720,
+   "file": "11-1075-720.321b49a24565.pmtiles",
+   "bytes": 1479581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-720.321b49a24565.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 721,
+   "file": "11-1075-721.25cc260be577.pmtiles",
+   "bytes": 690403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-721.25cc260be577.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 722,
+   "file": "11-1075-722.f47256447a4f.pmtiles",
+   "bytes": 641244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-722.f47256447a4f.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 723,
+   "file": "11-1075-723.a32a1f1fd157.pmtiles",
+   "bytes": 293857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-723.a32a1f1fd157.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 724,
+   "file": "11-1075-724.2749ccf9e7e1.pmtiles",
+   "bytes": 253798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-724.2749ccf9e7e1.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 725,
+   "file": "11-1075-725.3ab82cb59171.pmtiles",
+   "bytes": 573915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-725.3ab82cb59171.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 726,
+   "file": "11-1075-726.dd070bbca607.pmtiles",
+   "bytes": 977870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-726.dd070bbca607.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 727,
+   "file": "11-1075-727.0004073a1493.pmtiles",
+   "bytes": 525878,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1075-727.0004073a1493.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 719,
+   "file": "11-1076-719.b604208daf93.pmtiles",
+   "bytes": 249065,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-719.b604208daf93.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 720,
+   "file": "11-1076-720.db2d227109f9.pmtiles",
+   "bytes": 852857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-720.db2d227109f9.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 721,
+   "file": "11-1076-721.810c2b227b41.pmtiles",
+   "bytes": 724007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-721.810c2b227b41.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 722,
+   "file": "11-1076-722.cb499d6dda60.pmtiles",
+   "bytes": 837631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-722.cb499d6dda60.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 723,
+   "file": "11-1076-723.cd4e0d25ced7.pmtiles",
+   "bytes": 342122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-723.cd4e0d25ced7.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 724,
+   "file": "11-1076-724.f800e1a5069b.pmtiles",
+   "bytes": 332536,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-724.f800e1a5069b.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 725,
+   "file": "11-1076-725.9edb6738335d.pmtiles",
+   "bytes": 363328,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-725.9edb6738335d.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 726,
+   "file": "11-1076-726.74b55142b19b.pmtiles",
+   "bytes": 292129,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-726.74b55142b19b.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 727,
+   "file": "11-1076-727.4fcb34eb2d0b.pmtiles",
+   "bytes": 36515,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1076-727.4fcb34eb2d0b.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 719,
+   "file": "11-1077-719.7c2a3b35f6e9.pmtiles",
+   "bytes": 501724,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-719.7c2a3b35f6e9.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 720,
+   "file": "11-1077-720.64c713b6e43d.pmtiles",
+   "bytes": 573796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-720.64c713b6e43d.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 721,
+   "file": "11-1077-721.72562577470e.pmtiles",
+   "bytes": 721611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-721.72562577470e.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 722,
+   "file": "11-1077-722.301d503de760.pmtiles",
+   "bytes": 887468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-722.301d503de760.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 723,
+   "file": "11-1077-723.164362350440.pmtiles",
+   "bytes": 573917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-723.164362350440.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 724,
+   "file": "11-1077-724.71b4280036d6.pmtiles",
+   "bytes": 228146,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-724.71b4280036d6.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 725,
+   "file": "11-1077-725.daae217d1a0a.pmtiles",
+   "bytes": 39077,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1077-725.daae217d1a0a.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 719,
+   "file": "11-1078-719.c338e7789c75.pmtiles",
+   "bytes": 183371,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-719.c338e7789c75.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 720,
+   "file": "11-1078-720.3d6f41b55f77.pmtiles",
+   "bytes": 1246071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-720.3d6f41b55f77.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 721,
+   "file": "11-1078-721.f4ebce458f07.pmtiles",
+   "bytes": 1271719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-721.f4ebce458f07.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 722,
+   "file": "11-1078-722.6dcb2e6d37f0.pmtiles",
+   "bytes": 712534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-722.6dcb2e6d37f0.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 723,
+   "file": "11-1078-723.b9a6d4384968.pmtiles",
+   "bytes": 635238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-723.b9a6d4384968.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 724,
+   "file": "11-1078-724.b45a77e3f2da.pmtiles",
+   "bytes": 300989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-724.b45a77e3f2da.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 725,
+   "file": "11-1078-725.335065638fb5.pmtiles",
+   "bytes": 450609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-725.335065638fb5.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 726,
+   "file": "11-1078-726.04b06d029814.pmtiles",
+   "bytes": 116780,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1078-726.04b06d029814.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 719,
+   "file": "11-1079-719.e9748b4567f2.pmtiles",
+   "bytes": 56894,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-719.e9748b4567f2.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 720,
+   "file": "11-1079-720.220227ff5427.pmtiles",
+   "bytes": 585818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-720.220227ff5427.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 721,
+   "file": "11-1079-721.560eafc58816.pmtiles",
+   "bytes": 560155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-721.560eafc58816.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 722,
+   "file": "11-1079-722.71635ff5f03c.pmtiles",
+   "bytes": 671223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-722.71635ff5f03c.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 723,
+   "file": "11-1079-723.be59e6b37773.pmtiles",
+   "bytes": 590491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-723.be59e6b37773.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 724,
+   "file": "11-1079-724.5f4de7c3b5f8.pmtiles",
+   "bytes": 664793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-724.5f4de7c3b5f8.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 725,
+   "file": "11-1079-725.b4a4f101d9e3.pmtiles",
+   "bytes": 538150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-725.b4a4f101d9e3.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 726,
+   "file": "11-1079-726.950e528d823b.pmtiles",
+   "bytes": 49772,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1079-726.950e528d823b.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 720,
+   "file": "11-1080-720.62a80c196864.pmtiles",
+   "bytes": 176190,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-720.62a80c196864.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 721,
+   "file": "11-1080-721.9677cb0365ed.pmtiles",
+   "bytes": 796019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-721.9677cb0365ed.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 722,
+   "file": "11-1080-722.cc53c090da18.pmtiles",
+   "bytes": 406000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-722.cc53c090da18.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 723,
+   "file": "11-1080-723.d96a1237181c.pmtiles",
+   "bytes": 767091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-723.d96a1237181c.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 724,
+   "file": "11-1080-724.44900dd584f0.pmtiles",
+   "bytes": 699819,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-724.44900dd584f0.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 725,
+   "file": "11-1080-725.432871e5abf0.pmtiles",
+   "bytes": 250541,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-725.432871e5abf0.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 726,
+   "file": "11-1080-726.82f3acd4ec4d.pmtiles",
+   "bytes": 78861,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-726.82f3acd4ec4d.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 727,
+   "file": "11-1080-727.50ad07134b9c.pmtiles",
+   "bytes": 45836,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1080-727.50ad07134b9c.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 721,
+   "file": "11-1081-721.99463b4b748f.pmtiles",
+   "bytes": 265758,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-721.99463b4b748f.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 722,
+   "file": "11-1081-722.63bea1a81a48.pmtiles",
+   "bytes": 763017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-722.63bea1a81a48.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 723,
+   "file": "11-1081-723.c4dd617b502e.pmtiles",
+   "bytes": 417848,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-723.c4dd617b502e.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 724,
+   "file": "11-1081-724.5c919c094eb9.pmtiles",
+   "bytes": 147030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-724.5c919c094eb9.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 725,
+   "file": "11-1081-725.30637bb8cc46.pmtiles",
+   "bytes": 357717,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-725.30637bb8cc46.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 726,
+   "file": "11-1081-726.ee567f8a9a12.pmtiles",
+   "bytes": 458216,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-726.ee567f8a9a12.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 727,
+   "file": "11-1081-727.ea59c6ad7e2f.pmtiles",
+   "bytes": 22155,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1081-727.ea59c6ad7e2f.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 720,
+   "file": "11-1082-720.fe2566abe8ee.pmtiles",
+   "bytes": 146205,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-720.fe2566abe8ee.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 721,
+   "file": "11-1082-721.cb3462780a4b.pmtiles",
+   "bytes": 397726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-721.cb3462780a4b.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 722,
+   "file": "11-1082-722.862a0a291ad0.pmtiles",
+   "bytes": 645515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-722.862a0a291ad0.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 723,
+   "file": "11-1082-723.fcaa31a4b3e0.pmtiles",
+   "bytes": 463844,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-723.fcaa31a4b3e0.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 724,
+   "file": "11-1082-724.a4a54147a081.pmtiles",
+   "bytes": 53441,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-724.a4a54147a081.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 726,
+   "file": "11-1082-726.688130808f02.pmtiles",
+   "bytes": 23308,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1082-726.688130808f02.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 720,
+   "file": "11-1083-720.fdeab5fa4364.pmtiles",
+   "bytes": 232104,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1083-720.fdeab5fa4364.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 721,
+   "file": "11-1083-721.a5f7d41534c5.pmtiles",
+   "bytes": 352006,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1083-721.a5f7d41534c5.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 722,
+   "file": "11-1083-722.b5ea696a061f.pmtiles",
+   "bytes": 107511,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1083-722.b5ea696a061f.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 723,
+   "file": "11-1083-723.7e164cf8f051.pmtiles",
+   "bytes": 431655,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1083-723.7e164cf8f051.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 724,
+   "file": "11-1083-724.2902b33c8d72.pmtiles",
+   "bytes": 99607,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-graubuenden-2026-10-03/11-1083-724.2902b33c8d72.pmtiles"
+  }
+ ]
+}

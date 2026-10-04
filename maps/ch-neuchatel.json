@@ -1,0 +1,165 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-neuchatel",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:41:16.192Z",
+ "publishedAt": "2026-10-03T20:41:23.220Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-neuchatel-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  6.43269,
+  46.84659,
+  7.08765,
+  47.16574
+ ],
+ "overview": {
+  "file": "overview.41a637f38ef9.pmtiles",
+  "bytes": 1329748,
+  "tiles": 23,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/overview.41a637f38ef9.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1060,
+   "y": 720,
+   "file": "11-1060-720.d3a74f4a04fb.pmtiles",
+   "bytes": 63387,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1060-720.d3a74f4a04fb.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 721,
+   "file": "11-1060-721.f39a226d738a.pmtiles",
+   "bytes": 208230,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1060-721.f39a226d738a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 719,
+   "file": "11-1061-719.917c3afb870f.pmtiles",
+   "bytes": 22604,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1061-719.917c3afb870f.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 720,
+   "file": "11-1061-720.365c23432ce5.pmtiles",
+   "bytes": 461886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1061-720.365c23432ce5.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 721,
+   "file": "11-1061-721.7b982c0ff95d.pmtiles",
+   "bytes": 736422,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1061-721.7b982c0ff95d.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 718,
+   "file": "11-1062-718.cd572f019a86.pmtiles",
+   "bytes": 26765,
+   "tiles": 6,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1062-718.cd572f019a86.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 719,
+   "file": "11-1062-719.e53f5373a265.pmtiles",
+   "bytes": 1276305,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1062-719.e53f5373a265.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 720,
+   "file": "11-1062-720.7a58010d2155.pmtiles",
+   "bytes": 961397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1062-720.7a58010d2155.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 721,
+   "file": "11-1062-721.f8e5e816c2ee.pmtiles",
+   "bytes": 677813,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1062-721.f8e5e816c2ee.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 718,
+   "file": "11-1063-718.f9bd6a8f47ee.pmtiles",
+   "bytes": 161651,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1063-718.f9bd6a8f47ee.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 719,
+   "file": "11-1063-719.e501e9c8ee54.pmtiles",
+   "bytes": 902541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1063-719.e501e9c8ee54.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 720,
+   "file": "11-1063-720.259ffa5d7ac0.pmtiles",
+   "bytes": 1278488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1063-720.259ffa5d7ac0.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 721,
+   "file": "11-1063-721.81b68ec92b82.pmtiles",
+   "bytes": 582533,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1063-721.81b68ec92b82.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 718,
+   "file": "11-1064-718.a1a786d90091.pmtiles",
+   "bytes": 103713,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1064-718.a1a786d90091.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 719,
+   "file": "11-1064-719.9946a58afb03.pmtiles",
+   "bytes": 430369,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1064-719.9946a58afb03.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 720,
+   "file": "11-1064-720.d02bcdb687dc.pmtiles",
+   "bytes": 495764,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1064-720.d02bcdb687dc.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 721,
+   "file": "11-1064-721.c85970574bce.pmtiles",
+   "bytes": 362958,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-neuchatel-2026-10-03/11-1064-721.c85970574bce.pmtiles"
+  }
+ ]
+}

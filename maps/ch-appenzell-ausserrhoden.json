@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-appenzell-ausserrhoden",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:38.527Z",
+ "publishedAt": "2026-10-03T20:40:44.478Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-appenzell-ausserrhoden-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  9.1911,
+  47.24702,
+  9.63097,
+  47.46904
+ ],
+ "overview": {
+  "file": "overview.e813d0d00abf.pmtiles",
+  "bytes": 512534,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/overview.e813d0d00abf.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1076,
+   "y": 716,
+   "file": "11-1076-716.296fafdf8784.pmtiles",
+   "bytes": 1060744,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1076-716.296fafdf8784.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 717,
+   "file": "11-1076-717.ddc9f1d6ba05.pmtiles",
+   "bytes": 1086893,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1076-717.ddc9f1d6ba05.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 718,
+   "file": "11-1076-718.985d26386cca.pmtiles",
+   "bytes": 309086,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1076-718.985d26386cca.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 716,
+   "file": "11-1077-716.1a16837f46c9.pmtiles",
+   "bytes": 1897199,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1077-716.1a16837f46c9.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 717,
+   "file": "11-1077-717.4ebb1ae6a4b8.pmtiles",
+   "bytes": 1212570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1077-717.4ebb1ae6a4b8.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 718,
+   "file": "11-1077-718.cf963ed99aa1.pmtiles",
+   "bytes": 428287,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1077-718.cf963ed99aa1.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 716,
+   "file": "11-1078-716.b46dd490e418.pmtiles",
+   "bytes": 1488126,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1078-716.b46dd490e418.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 717,
+   "file": "11-1078-717.983225a34301.pmtiles",
+   "bytes": 1114493,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1078-717.983225a34301.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 718,
+   "file": "11-1078-718.681255a0b663.pmtiles",
+   "bytes": 170369,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-ausserrhoden-2026-10-03/11-1078-718.681255a0b663.pmtiles"
+  }
+ ]
+}

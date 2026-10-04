@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-appenzell-innerrhoden",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:22.861Z",
+ "publishedAt": "2026-10-03T20:40:27.826Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-appenzell-innerrhoden-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  9.30972,
+  47.23399,
+  9.6184,
+  47.44369
+ ],
+ "overview": {
+  "file": "overview.99fb9700627f.pmtiles",
+  "bytes": 512534,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/overview.99fb9700627f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1076,
+   "y": 716,
+   "file": "11-1076-716.65c8de1f14c1.pmtiles",
+   "bytes": 236987,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1076-716.65c8de1f14c1.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 717,
+   "file": "11-1076-717.7e9a99ab33e4.pmtiles",
+   "bytes": 272429,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1076-717.7e9a99ab33e4.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 718,
+   "file": "11-1076-718.2a0d49e3769e.pmtiles",
+   "bytes": 115730,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1076-718.2a0d49e3769e.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 716,
+   "file": "11-1077-716.3735d9bf83d3.pmtiles",
+   "bytes": 1514750,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1077-716.3735d9bf83d3.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 717,
+   "file": "11-1077-717.4ebb1ae6a4b8.pmtiles",
+   "bytes": 1212570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1077-717.4ebb1ae6a4b8.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 718,
+   "file": "11-1077-718.24ed76edf34e.pmtiles",
+   "bytes": 491053,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1077-718.24ed76edf34e.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 716,
+   "file": "11-1078-716.6b9b2c7df34e.pmtiles",
+   "bytes": 836145,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1078-716.6b9b2c7df34e.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 717,
+   "file": "11-1078-717.9be21abe2c6e.pmtiles",
+   "bytes": 1050671,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1078-717.9be21abe2c6e.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 718,
+   "file": "11-1078-718.e4cd643ceb75.pmtiles",
+   "bytes": 182757,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-appenzell-innerrhoden-2026-10-03/11-1078-718.e4cd643ceb75.pmtiles"
+  }
+ ]
+}

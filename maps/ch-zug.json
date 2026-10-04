@@ -1,0 +1,77 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-zug",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:18.685Z",
+ "publishedAt": "2026-10-03T20:40:22.742Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-zug-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.39485,
+  47.08103,
+  8.70117,
+  47.24837
+ ],
+ "overview": {
+  "file": "overview.89834951e78b.pmtiles",
+  "bytes": 863348,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/overview.89834951e78b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1071,
+   "y": 718,
+   "file": "11-1071-718.8b23fa906738.pmtiles",
+   "bytes": 362370,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1071-718.8b23fa906738.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 719,
+   "file": "11-1071-719.7a8efa653bac.pmtiles",
+   "bytes": 475537,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1071-719.7a8efa653bac.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 718,
+   "file": "11-1072-718.4da86624640a.pmtiles",
+   "bytes": 1543285,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1072-718.4da86624640a.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 719,
+   "file": "11-1072-719.3b0ad75131cd.pmtiles",
+   "bytes": 923109,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1072-719.3b0ad75131cd.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 718,
+   "file": "11-1073-718.22d69c656edd.pmtiles",
+   "bytes": 778949,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1073-718.22d69c656edd.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 719,
+   "file": "11-1073-719.7786e346941b.pmtiles",
+   "bytes": 387844,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zug-2026-10-03/11-1073-719.7786e346941b.pmtiles"
+  }
+ ]
+}

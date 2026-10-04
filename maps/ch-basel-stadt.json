@@ -1,0 +1,45 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-basel-stadt",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:15.476Z",
+ "publishedAt": "2026-10-03T20:40:18.571Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-basel-stadt-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  7.55466,
+  47.5193,
+  7.6938,
+  47.60092
+ ],
+ "overview": {
+  "file": "overview.094779ea146c.pmtiles",
+  "bytes": 263368,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-basel-stadt-2026-10-03/overview.094779ea146c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1066,
+   "y": 715,
+   "file": "11-1066-715.775c5c9285f5.pmtiles",
+   "bytes": 245908,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-basel-stadt-2026-10-03/11-1066-715.775c5c9285f5.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 715,
+   "file": "11-1067-715.8ddf47d402d4.pmtiles",
+   "bytes": 2675186,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-basel-stadt-2026-10-03/11-1067-715.8ddf47d402d4.pmtiles"
+  }
+ ]
+}

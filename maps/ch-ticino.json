@@ -1,0 +1,309 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-ticino",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:42:43.828Z",
+ "publishedAt": "2026-10-03T20:42:54.206Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-ticino-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.38219,
+  45.81796,
+  9.15969,
+  46.63248
+ ],
+ "overview": {
+  "file": "overview.a40d43e51562.pmtiles",
+  "bytes": 1855416,
+  "tiles": 42,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/overview.a40d43e51562.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1071,
+   "y": 723,
+   "file": "11-1071-723.e471aff28f96.pmtiles",
+   "bytes": 132882,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1071-723.e471aff28f96.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 724,
+   "file": "11-1071-724.ad05e7784134.pmtiles",
+   "bytes": 143110,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1071-724.ad05e7784134.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 726,
+   "file": "11-1071-726.6a6a9788e9f1.pmtiles",
+   "bytes": 23434,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1071-726.6a6a9788e9f1.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 723,
+   "file": "11-1072-723.679608c8f0dc.pmtiles",
+   "bytes": 382537,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1072-723.679608c8f0dc.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 724,
+   "file": "11-1072-724.cd88eba1f550.pmtiles",
+   "bytes": 495754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1072-724.cd88eba1f550.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 725,
+   "file": "11-1072-725.67e5210f06bf.pmtiles",
+   "bytes": 407579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1072-725.67e5210f06bf.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 726,
+   "file": "11-1072-726.b4fe578945bc.pmtiles",
+   "bytes": 405407,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1072-726.b4fe578945bc.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 727,
+   "file": "11-1072-727.6ae1a29f06d6.pmtiles",
+   "bytes": 119284,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1072-727.6ae1a29f06d6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 723,
+   "file": "11-1073-723.b7723ae7f7f6.pmtiles",
+   "bytes": 249280,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-723.b7723ae7f7f6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 724,
+   "file": "11-1073-724.a0b7415c69b6.pmtiles",
+   "bytes": 568508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-724.a0b7415c69b6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 725,
+   "file": "11-1073-725.3e6bcb1c7ab5.pmtiles",
+   "bytes": 425486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-725.3e6bcb1c7ab5.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 726,
+   "file": "11-1073-726.2e2c358e8634.pmtiles",
+   "bytes": 678986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-726.2e2c358e8634.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 727,
+   "file": "11-1073-727.cbba255a1c9f.pmtiles",
+   "bytes": 989731,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-727.cbba255a1c9f.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 728,
+   "file": "11-1073-728.b7295aca8a59.pmtiles",
+   "bytes": 102006,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1073-728.b7295aca8a59.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 723,
+   "file": "11-1074-723.bf04f390e600.pmtiles",
+   "bytes": 221254,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-723.bf04f390e600.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 724,
+   "file": "11-1074-724.079062959923.pmtiles",
+   "bytes": 783839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-724.079062959923.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 725,
+   "file": "11-1074-725.c25edc863eea.pmtiles",
+   "bytes": 693019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-725.c25edc863eea.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 726,
+   "file": "11-1074-726.ddf5ec5db3eb.pmtiles",
+   "bytes": 467239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-726.ddf5ec5db3eb.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 727,
+   "file": "11-1074-727.8c737bb9bf00.pmtiles",
+   "bytes": 1563401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-727.8c737bb9bf00.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 728,
+   "file": "11-1074-728.d910cee5f223.pmtiles",
+   "bytes": 2246438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-728.d910cee5f223.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 729,
+   "file": "11-1074-729.f184239af781.pmtiles",
+   "bytes": 548470,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1074-729.f184239af781.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 723,
+   "file": "11-1075-723.07d09c6cbfeb.pmtiles",
+   "bytes": 186800,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-723.07d09c6cbfeb.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 724,
+   "file": "11-1075-724.2749ccf9e7e1.pmtiles",
+   "bytes": 253798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-724.2749ccf9e7e1.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 725,
+   "file": "11-1075-725.3ab82cb59171.pmtiles",
+   "bytes": 573915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-725.3ab82cb59171.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 726,
+   "file": "11-1075-726.dd070bbca607.pmtiles",
+   "bytes": 977870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-726.dd070bbca607.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 727,
+   "file": "11-1075-727.5dcdacfd473c.pmtiles",
+   "bytes": 1027217,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-727.5dcdacfd473c.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 728,
+   "file": "11-1075-728.b7a9ffde921c.pmtiles",
+   "bytes": 935055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-728.b7a9ffde921c.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 729,
+   "file": "11-1075-729.cdf3ea9ebadd.pmtiles",
+   "bytes": 1341845,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-729.cdf3ea9ebadd.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 730,
+   "file": "11-1075-730.dffa0ffee578.pmtiles",
+   "bytes": 86271,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1075-730.dffa0ffee578.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 723,
+   "file": "11-1076-723.151a9261e0ea.pmtiles",
+   "bytes": 83165,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-723.151a9261e0ea.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 724,
+   "file": "11-1076-724.776087ed3625.pmtiles",
+   "bytes": 76662,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-724.776087ed3625.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 725,
+   "file": "11-1076-725.8178850f5c3c.pmtiles",
+   "bytes": 77660,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-725.8178850f5c3c.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 726,
+   "file": "11-1076-726.c226a8027660.pmtiles",
+   "bytes": 143929,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-726.c226a8027660.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 727,
+   "file": "11-1076-727.422b175daeb7.pmtiles",
+   "bytes": 31082,
+   "tiles": 9,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-727.422b175daeb7.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 728,
+   "file": "11-1076-728.a7de962cf2b1.pmtiles",
+   "bytes": 96033,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-ticino-2026-10-03/11-1076-728.a7de962cf2b1.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-zuerich",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:41:53.544Z",
+ "publishedAt": "2026-10-03T20:42:04.188Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-zuerich-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.35769,
+  47.15944,
+  8.98495,
+  47.69447
+ ],
+ "overview": {
+  "file": "overview.7b30206afab1.pmtiles",
+  "bytes": 1491830,
+  "tiles": 24,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/overview.7b30206afab1.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1071,
+   "y": 714,
+   "file": "11-1071-714.52346b0583d4.pmtiles",
+   "bytes": 88519,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-714.52346b0583d4.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 715,
+   "file": "11-1071-715.b5814c4fc065.pmtiles",
+   "bytes": 294307,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-715.b5814c4fc065.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 716,
+   "file": "11-1071-716.6e4cf0b766cc.pmtiles",
+   "bytes": 1329767,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-716.6e4cf0b766cc.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 717,
+   "file": "11-1071-717.ab244e6d27e4.pmtiles",
+   "bytes": 1178787,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-717.ab244e6d27e4.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 718,
+   "file": "11-1071-718.377cbb2b1f2d.pmtiles",
+   "bytes": 821700,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-718.377cbb2b1f2d.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 719,
+   "file": "11-1071-719.61ae4a276bfc.pmtiles",
+   "bytes": 219378,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1071-719.61ae4a276bfc.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 714,
+   "file": "11-1072-714.ab64d20d62d2.pmtiles",
+   "bytes": 500748,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-714.ab64d20d62d2.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 715,
+   "file": "11-1072-715.7d19597342fd.pmtiles",
+   "bytes": 1418911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-715.7d19597342fd.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 716,
+   "file": "11-1072-716.5e3ad19e2655.pmtiles",
+   "bytes": 3864574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-716.5e3ad19e2655.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 717,
+   "file": "11-1072-717.09a3689f7799.pmtiles",
+   "bytes": 5636316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-717.09a3689f7799.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 718,
+   "file": "11-1072-718.1efcbf65912e.pmtiles",
+   "bytes": 2043465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-718.1efcbf65912e.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 719,
+   "file": "11-1072-719.3135fc3e0a2c.pmtiles",
+   "bytes": 264838,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1072-719.3135fc3e0a2c.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 714,
+   "file": "11-1073-714.3aa6b1f68602.pmtiles",
+   "bytes": 874591,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-714.3aa6b1f68602.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 715,
+   "file": "11-1073-715.b4e6dc024ab1.pmtiles",
+   "bytes": 1802666,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-715.b4e6dc024ab1.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 716,
+   "file": "11-1073-716.f81e59b1c2c6.pmtiles",
+   "bytes": 3464291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-716.f81e59b1c2c6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 717,
+   "file": "11-1073-717.71c477b6db34.pmtiles",
+   "bytes": 2758759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-717.71c477b6db34.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 718,
+   "file": "11-1073-718.eac474d4e6e9.pmtiles",
+   "bytes": 2384411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-718.eac474d4e6e9.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 719,
+   "file": "11-1073-719.2162df539f6e.pmtiles",
+   "bytes": 209070,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1073-719.2162df539f6e.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 714,
+   "file": "11-1074-714.afe8355c1bcc.pmtiles",
+   "bytes": 503448,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-714.afe8355c1bcc.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 715,
+   "file": "11-1074-715.d88f414a8593.pmtiles",
+   "bytes": 1772159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-715.d88f414a8593.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 716,
+   "file": "11-1074-716.cd1797279dcc.pmtiles",
+   "bytes": 1924188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-716.cd1797279dcc.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 717,
+   "file": "11-1074-717.8cd0b17881f8.pmtiles",
+   "bytes": 2469956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-717.8cd0b17881f8.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 718,
+   "file": "11-1074-718.f7f2e9f1588f.pmtiles",
+   "bytes": 2437849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-718.f7f2e9f1588f.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 719,
+   "file": "11-1074-719.134caf2c2d3b.pmtiles",
+   "bytes": 177593,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1074-719.134caf2c2d3b.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 714,
+   "file": "11-1075-714.155534ae837a.pmtiles",
+   "bytes": 108732,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-714.155534ae837a.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 715,
+   "file": "11-1075-715.14850449a703.pmtiles",
+   "bytes": 208248,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-715.14850449a703.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 716,
+   "file": "11-1075-716.cd1f76139352.pmtiles",
+   "bytes": 335947,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-716.cd1f76139352.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 717,
+   "file": "11-1075-717.7b6b03dd882a.pmtiles",
+   "bytes": 280144,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-717.7b6b03dd882a.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 718,
+   "file": "11-1075-718.a7063cd6df48.pmtiles",
+   "bytes": 354883,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-718.a7063cd6df48.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 719,
+   "file": "11-1075-719.eb4bb12472f4.pmtiles",
+   "bytes": 150620,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-zuerich-2026-10-03/11-1075-719.eb4bb12472f4.pmtiles"
+  }
+ ]
+}

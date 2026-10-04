@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-nidwalden",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:33.179Z",
+ "publishedAt": "2026-10-03T20:40:38.412Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-nidwalden-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.2181,
+  46.77151,
+  8.57494,
+  47.01995
+ ],
+ "overview": {
+  "file": "overview.356cbebdd41f.pmtiles",
+  "bytes": 1099271,
+  "tiles": 17,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/overview.356cbebdd41f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1070,
+   "y": 720,
+   "file": "11-1070-720.a058c1ae22b9.pmtiles",
+   "bytes": 351781,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1070-720.a058c1ae22b9.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 721,
+   "file": "11-1070-721.1bd82ad57019.pmtiles",
+   "bytes": 459286,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1070-721.1bd82ad57019.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 722,
+   "file": "11-1070-722.fa79e6a445bf.pmtiles",
+   "bytes": 112558,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1070-722.fa79e6a445bf.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 720,
+   "file": "11-1071-720.c368f0118e59.pmtiles",
+   "bytes": 1435386,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1071-720.c368f0118e59.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 721,
+   "file": "11-1071-721.b794eee57da0.pmtiles",
+   "bytes": 1074194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1071-721.b794eee57da0.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 722,
+   "file": "11-1071-722.407a79ca943b.pmtiles",
+   "bytes": 179291,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1071-722.407a79ca943b.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 720,
+   "file": "11-1072-720.bffd0a38fea2.pmtiles",
+   "bytes": 818933,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1072-720.bffd0a38fea2.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 721,
+   "file": "11-1072-721.e3aca8dd0834.pmtiles",
+   "bytes": 528405,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1072-721.e3aca8dd0834.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 722,
+   "file": "11-1072-722.62e76457df11.pmtiles",
+   "bytes": 108488,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-nidwalden-2026-10-03/11-1072-722.62e76457df11.pmtiles"
+  }
+ ]
+}

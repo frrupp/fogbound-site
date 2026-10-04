@@ -1,0 +1,109 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-schaffhausen",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:50.685Z",
+ "publishedAt": "2026-10-03T20:40:55.715Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-schaffhausen-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.40464,
+  47.55238,
+  8.87623,
+  47.80845
+ ],
+ "overview": {
+  "file": "overview.abf64728a292.pmtiles",
+  "bytes": 616593,
+  "tiles": 19,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/overview.abf64728a292.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1071,
+   "y": 714,
+   "file": "11-1071-714.6a113142ef04.pmtiles",
+   "bytes": 117475,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1071-714.6a113142ef04.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 715,
+   "file": "11-1071-715.62b64dc46a9c.pmtiles",
+   "bytes": 129173,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1071-715.62b64dc46a9c.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 713,
+   "file": "11-1072-713.226511f41315.pmtiles",
+   "bytes": 218246,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1072-713.226511f41315.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 714,
+   "file": "11-1072-714.75a040aa4c4a.pmtiles",
+   "bytes": 1001853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1072-714.75a040aa4c4a.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 715,
+   "file": "11-1072-715.c53a2d53a4a4.pmtiles",
+   "bytes": 958697,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1072-715.c53a2d53a4a4.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 713,
+   "file": "11-1073-713.56038003809f.pmtiles",
+   "bytes": 270270,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1073-713.56038003809f.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 714,
+   "file": "11-1073-714.46adc540194b.pmtiles",
+   "bytes": 1711707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1073-714.46adc540194b.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 715,
+   "file": "11-1073-715.85b39d63f527.pmtiles",
+   "bytes": 1180838,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1073-715.85b39d63f527.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 714,
+   "file": "11-1074-714.60f0e057cfa2.pmtiles",
+   "bytes": 551270,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1074-714.60f0e057cfa2.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 715,
+   "file": "11-1074-715.fd1f3ba85cb9.pmtiles",
+   "bytes": 593017,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-schaffhausen-2026-10-03/11-1074-715.fd1f3ba85cb9.pmtiles"
+  }
+ ]
+}

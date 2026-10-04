@@ -1,0 +1,93 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ch-geneve",
+ "source": "ch.pmtiles",
+ "builtAt": "2026-10-03T20:40:27.944Z",
+ "publishedAt": "2026-10-03T20:40:33.065Z",
+ "host": "github",
+ "releases": [
+  "maps-ch-geneve-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.9559,
+  46.12855,
+  6.31028,
+  46.36458
+ ],
+ "overview": {
+  "file": "overview.a0ff621c9f35.pmtiles",
+  "bytes": 357321,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/overview.a0ff621c9f35.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1057,
+   "y": 726,
+   "file": "11-1057-726.5f3f47127055.pmtiles",
+   "bytes": 25731,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1057-726.5f3f47127055.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 727,
+   "file": "11-1057-727.1185b22972ff.pmtiles",
+   "bytes": 99465,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1057-727.1185b22972ff.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 725,
+   "file": "11-1058-725.bdc9e74d6a69.pmtiles",
+   "bytes": 103366,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1058-725.bdc9e74d6a69.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 726,
+   "file": "11-1058-726.510a7517848f.pmtiles",
+   "bytes": 2712618,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1058-726.510a7517848f.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 727,
+   "file": "11-1058-727.440405fef273.pmtiles",
+   "bytes": 2047301,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1058-727.440405fef273.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 725,
+   "file": "11-1059-725.a09a3f0d65aa.pmtiles",
+   "bytes": 454794,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1059-725.a09a3f0d65aa.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 726,
+   "file": "11-1059-726.55961575e596.pmtiles",
+   "bytes": 1902012,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1059-726.55961575e596.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 727,
+   "file": "11-1059-727.bc52a5296d64.pmtiles",
+   "bytes": 601116,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ch-geneve-2026-10-03/11-1059-727.bc52a5296d64.pmtiles"
+  }
+ ]
+}
