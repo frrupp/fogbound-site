@@ -1,0 +1,61 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "be-bruxelles",
+ "source": "be.pmtiles",
+ "builtAt": "2026-10-04T09:54:57.407Z",
+ "publishedAt": "2026-10-04T09:55:01.959Z",
+ "host": "github",
+ "releases": [
+  "maps-be-bruxelles-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.24377,
+  50.76368,
+  4.48227,
+  50.9139
+ ],
+ "overview": {
+  "file": "overview.84ead8aadf6c.pmtiles",
+  "bytes": 683279,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-bruxelles-2026-10-03/overview.84ead8aadf6c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1048,
+   "y": 686,
+   "file": "11-1048-686.59016e7697e2.pmtiles",
+   "bytes": 4952362,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-bruxelles-2026-10-03/11-1048-686.59016e7697e2.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 687,
+   "file": "11-1048-687.896930ebd5d1.pmtiles",
+   "bytes": 5966851,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-bruxelles-2026-10-03/11-1048-687.896930ebd5d1.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 686,
+   "file": "11-1049-686.2b8fd15e462a.pmtiles",
+   "bytes": 2106219,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-bruxelles-2026-10-03/11-1049-686.2b8fd15e462a.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 687,
+   "file": "11-1049-687.071d17f94eb2.pmtiles",
+   "bytes": 2182006,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-bruxelles-2026-10-03/11-1049-687.071d17f94eb2.pmtiles"
+  }
+ ]
+}

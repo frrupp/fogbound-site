@@ -1,0 +1,405 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "be-oost-vlaanderen",
+ "source": "be.pmtiles",
+ "builtAt": "2026-10-04T10:56:48.647Z",
+ "publishedAt": "2026-10-04T10:57:04.545Z",
+ "host": "github",
+ "releases": [
+  "maps-be-oost-vlaanderen-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  3.33131,
+  50.72101,
+  4.35692,
+  51.35397
+ ],
+ "overview": {
+  "file": "overview.c828c7f76ac6.pmtiles",
+  "bytes": 3335918,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/overview.c828c7f76ac6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1042,
+   "y": 682,
+   "file": "11-1042-682.1961faa16c3f.pmtiles",
+   "bytes": 207287,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-682.1961faa16c3f.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 683,
+   "file": "11-1042-683.eb1160021f7c.pmtiles",
+   "bytes": 305473,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-683.eb1160021f7c.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 684,
+   "file": "11-1042-684.0015b36ae531.pmtiles",
+   "bytes": 407422,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-684.0015b36ae531.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 685,
+   "file": "11-1042-685.578d452465c0.pmtiles",
+   "bytes": 500150,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-685.578d452465c0.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 686,
+   "file": "11-1042-686.ecc2f0b4e155.pmtiles",
+   "bytes": 669672,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-686.ecc2f0b4e155.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 687,
+   "file": "11-1042-687.d409f0e0dd38.pmtiles",
+   "bytes": 500743,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-687.d409f0e0dd38.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 688,
+   "file": "11-1042-688.e27e14746b2f.pmtiles",
+   "bytes": 135478,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1042-688.e27e14746b2f.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 682,
+   "file": "11-1043-682.b3dacb9ca240.pmtiles",
+   "bytes": 179046,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-682.b3dacb9ca240.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 683,
+   "file": "11-1043-683.d8869add43b7.pmtiles",
+   "bytes": 1188799,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-683.d8869add43b7.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 684,
+   "file": "11-1043-684.1aa5001bf813.pmtiles",
+   "bytes": 1722354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-684.1aa5001bf813.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 685,
+   "file": "11-1043-685.7b2c69ade12b.pmtiles",
+   "bytes": 1668924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-685.7b2c69ade12b.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 686,
+   "file": "11-1043-686.689667086398.pmtiles",
+   "bytes": 2947698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-686.689667086398.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 687,
+   "file": "11-1043-687.76d890d6db8d.pmtiles",
+   "bytes": 2289212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-687.76d890d6db8d.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 688,
+   "file": "11-1043-688.bf0c5e45222d.pmtiles",
+   "bytes": 353708,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1043-688.bf0c5e45222d.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 682,
+   "file": "11-1044-682.41286b011fe1.pmtiles",
+   "bytes": 65803,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-682.41286b011fe1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 683,
+   "file": "11-1044-683.51ff0d24f601.pmtiles",
+   "bytes": 1372444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-683.51ff0d24f601.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 684,
+   "file": "11-1044-684.1904df7ae8e9.pmtiles",
+   "bytes": 2016990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-684.1904df7ae8e9.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 685,
+   "file": "11-1044-685.16c9ff720085.pmtiles",
+   "bytes": 3130151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-685.16c9ff720085.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 686,
+   "file": "11-1044-686.3915ec8b763d.pmtiles",
+   "bytes": 2262239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-686.3915ec8b763d.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 687,
+   "file": "11-1044-687.5681f0b7e910.pmtiles",
+   "bytes": 2099345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-687.5681f0b7e910.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 688,
+   "file": "11-1044-688.399eba570bdb.pmtiles",
+   "bytes": 562026,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1044-688.399eba570bdb.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 683,
+   "file": "11-1045-683.d8d50ad88fc3.pmtiles",
+   "bytes": 1185673,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-683.d8d50ad88fc3.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 684,
+   "file": "11-1045-684.85237b192757.pmtiles",
+   "bytes": 2690926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-684.85237b192757.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 685,
+   "file": "11-1045-685.0268fee6d2d7.pmtiles",
+   "bytes": 5220313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-685.0268fee6d2d7.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 686,
+   "file": "11-1045-686.edfe2c65937a.pmtiles",
+   "bytes": 2360872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-686.edfe2c65937a.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 687,
+   "file": "11-1045-687.2b8ca6c6f41a.pmtiles",
+   "bytes": 2218728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-687.2b8ca6c6f41a.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 688,
+   "file": "11-1045-688.de7e9873c00b.pmtiles",
+   "bytes": 558816,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1045-688.de7e9873c00b.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 683,
+   "file": "11-1046-683.14454ec18790.pmtiles",
+   "bytes": 784033,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-683.14454ec18790.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 684,
+   "file": "11-1046-684.313b70ce1265.pmtiles",
+   "bytes": 2354410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-684.313b70ce1265.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 685,
+   "file": "11-1046-685.f9a8fe54a364.pmtiles",
+   "bytes": 2808114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-685.f9a8fe54a364.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 686,
+   "file": "11-1046-686.5230a6d7b1f2.pmtiles",
+   "bytes": 2944782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-686.5230a6d7b1f2.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 687,
+   "file": "11-1046-687.27077e7841aa.pmtiles",
+   "bytes": 2541183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-687.27077e7841aa.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 688,
+   "file": "11-1046-688.ce297aeb49ef.pmtiles",
+   "bytes": 476899,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1046-688.ce297aeb49ef.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 682,
+   "file": "11-1047-682.4b8efc15293b.pmtiles",
+   "bytes": 233483,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-682.4b8efc15293b.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 683,
+   "file": "11-1047-683.455af7080a3d.pmtiles",
+   "bytes": 1652005,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-683.455af7080a3d.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 684,
+   "file": "11-1047-684.2809dc003503.pmtiles",
+   "bytes": 3127410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-684.2809dc003503.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 685,
+   "file": "11-1047-685.f9c6f3a9bd95.pmtiles",
+   "bytes": 3056915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-685.f9c6f3a9bd95.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 686,
+   "file": "11-1047-686.73d375e4a37c.pmtiles",
+   "bytes": 2885974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-686.73d375e4a37c.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 687,
+   "file": "11-1047-687.2b3883642c54.pmtiles",
+   "bytes": 1993241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-687.2b3883642c54.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 688,
+   "file": "11-1047-688.a5237a5bfebd.pmtiles",
+   "bytes": 447496,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1047-688.a5237a5bfebd.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 682,
+   "file": "11-1048-682.3cc93679e161.pmtiles",
+   "bytes": 908217,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-682.3cc93679e161.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 683,
+   "file": "11-1048-683.0dcb3ba0c657.pmtiles",
+   "bytes": 2072773,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-683.0dcb3ba0c657.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 684,
+   "file": "11-1048-684.9b3df414c52e.pmtiles",
+   "bytes": 2681349,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-684.9b3df414c52e.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 685,
+   "file": "11-1048-685.964b16c1cd90.pmtiles",
+   "bytes": 2276391,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-685.964b16c1cd90.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 686,
+   "file": "11-1048-686.d2ba69473037.pmtiles",
+   "bytes": 5265838,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-686.d2ba69473037.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 687,
+   "file": "11-1048-687.1c20136e57e1.pmtiles",
+   "bytes": 5713882,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-687.1c20136e57e1.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 688,
+   "file": "11-1048-688.f64f051ca46e.pmtiles",
+   "bytes": 909076,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-oost-vlaanderen-2026-10-03/11-1048-688.f64f051ca46e.pmtiles"
+  }
+ ]
+}

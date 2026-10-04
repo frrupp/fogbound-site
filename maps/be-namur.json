@@ -1,0 +1,509 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "be-namur",
+ "source": "be.pmtiles",
+ "builtAt": "2026-10-04T10:57:18.090Z",
+ "publishedAt": "2026-10-04T10:57:35.087Z",
+ "host": "github",
+ "releases": [
+  "maps-be-namur-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.28575,
+  49.78555,
+  5.40267,
+  50.64844
+ ],
+ "overview": {
+  "file": "overview.1e8563139dba.pmtiles",
+  "bytes": 2263123,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/overview.1e8563139dba.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1048,
+   "y": 688,
+   "file": "11-1048-688.76d77f051a38.pmtiles",
+   "bytes": 290655,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-688.76d77f051a38.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 689,
+   "file": "11-1048-689.8b4fb9b832f2.pmtiles",
+   "bytes": 1000079,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-689.8b4fb9b832f2.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 690,
+   "file": "11-1048-690.598c7feb21cc.pmtiles",
+   "bytes": 1894572,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-690.598c7feb21cc.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 691,
+   "file": "11-1048-691.1dc1d42794b1.pmtiles",
+   "bytes": 1197458,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-691.1dc1d42794b1.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 692,
+   "file": "11-1048-692.b9a2016aabbb.pmtiles",
+   "bytes": 689592,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-692.b9a2016aabbb.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 693,
+   "file": "11-1048-693.6bbfb2ea1e03.pmtiles",
+   "bytes": 533153,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-693.6bbfb2ea1e03.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 694,
+   "file": "11-1048-694.22352f0d87d5.pmtiles",
+   "bytes": 559202,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-694.22352f0d87d5.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 695,
+   "file": "11-1048-695.a1ee25f77bab.pmtiles",
+   "bytes": 28629,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1048-695.a1ee25f77bab.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 688,
+   "file": "11-1049-688.fedd632bbbfb.pmtiles",
+   "bytes": 332781,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-688.fedd632bbbfb.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 689,
+   "file": "11-1049-689.5a0bad55abe1.pmtiles",
+   "bytes": 1141758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-689.5a0bad55abe1.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 690,
+   "file": "11-1049-690.fd88c312775a.pmtiles",
+   "bytes": 3878742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-690.fd88c312775a.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 691,
+   "file": "11-1049-691.fb8032644b0c.pmtiles",
+   "bytes": 2114261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-691.fb8032644b0c.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 692,
+   "file": "11-1049-692.1daa118408a0.pmtiles",
+   "bytes": 1063908,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-692.1daa118408a0.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 693,
+   "file": "11-1049-693.f38c0d9a5988.pmtiles",
+   "bytes": 696433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-693.f38c0d9a5988.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 694,
+   "file": "11-1049-694.da3952fa187c.pmtiles",
+   "bytes": 653028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-694.da3952fa187c.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 695,
+   "file": "11-1049-695.07d35a0e27b0.pmtiles",
+   "bytes": 119775,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1049-695.07d35a0e27b0.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 688,
+   "file": "11-1050-688.b8ffa84bebf5.pmtiles",
+   "bytes": 515258,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-688.b8ffa84bebf5.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 689,
+   "file": "11-1050-689.c2df05f1a95f.pmtiles",
+   "bytes": 983572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-689.c2df05f1a95f.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 690,
+   "file": "11-1050-690.c0d338b4adfe.pmtiles",
+   "bytes": 1534758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-690.c0d338b4adfe.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 691,
+   "file": "11-1050-691.a7dddfd8ed95.pmtiles",
+   "bytes": 1022523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-691.a7dddfd8ed95.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 692,
+   "file": "11-1050-692.589e36510c52.pmtiles",
+   "bytes": 545961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-692.589e36510c52.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 693,
+   "file": "11-1050-693.1cface1ced3a.pmtiles",
+   "bytes": 618454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-693.1cface1ced3a.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 694,
+   "file": "11-1050-694.5a4d1ca43a0e.pmtiles",
+   "bytes": 231240,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-694.5a4d1ca43a0e.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 695,
+   "file": "11-1050-695.8b01d69ee63c.pmtiles",
+   "bytes": 35701,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1050-695.8b01d69ee63c.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 688,
+   "file": "11-1051-688.9029ba47766a.pmtiles",
+   "bytes": 322532,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-688.9029ba47766a.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 689,
+   "file": "11-1051-689.3e793b699812.pmtiles",
+   "bytes": 892553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-689.3e793b699812.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 690,
+   "file": "11-1051-690.c452a5d05d96.pmtiles",
+   "bytes": 2186790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-690.c452a5d05d96.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 691,
+   "file": "11-1051-691.72b35a7cd3da.pmtiles",
+   "bytes": 1218069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-691.72b35a7cd3da.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 692,
+   "file": "11-1051-692.d997f8ff7e56.pmtiles",
+   "bytes": 1082403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-692.d997f8ff7e56.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 693,
+   "file": "11-1051-693.ebff0b630629.pmtiles",
+   "bytes": 458753,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-693.ebff0b630629.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 694,
+   "file": "11-1051-694.6bd34d21c6d3.pmtiles",
+   "bytes": 331366,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-694.6bd34d21c6d3.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 695,
+   "file": "11-1051-695.9006d48ab538.pmtiles",
+   "bytes": 288207,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-695.9006d48ab538.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 696,
+   "file": "11-1051-696.57fad60c12e8.pmtiles",
+   "bytes": 120486,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1051-696.57fad60c12e8.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 688,
+   "file": "11-1052-688.72186191fbea.pmtiles",
+   "bytes": 232528,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-688.72186191fbea.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 689,
+   "file": "11-1052-689.5681b5d2434b.pmtiles",
+   "bytes": 842422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-689.5681b5d2434b.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 690,
+   "file": "11-1052-690.44a6ec62ad8b.pmtiles",
+   "bytes": 1274269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-690.44a6ec62ad8b.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 691,
+   "file": "11-1052-691.9d68ec5fd582.pmtiles",
+   "bytes": 1057583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-691.9d68ec5fd582.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 692,
+   "file": "11-1052-692.14d4913e1e5f.pmtiles",
+   "bytes": 986986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-692.14d4913e1e5f.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 693,
+   "file": "11-1052-693.222983cf5d11.pmtiles",
+   "bytes": 817736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-693.222983cf5d11.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 694,
+   "file": "11-1052-694.480f9cb1c548.pmtiles",
+   "bytes": 598148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-694.480f9cb1c548.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 695,
+   "file": "11-1052-695.09133e42f4a2.pmtiles",
+   "bytes": 816372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-695.09133e42f4a2.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 696,
+   "file": "11-1052-696.0c29ade097db.pmtiles",
+   "bytes": 422328,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1052-696.0c29ade097db.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 688,
+   "file": "11-1053-688.96ce69befd9f.pmtiles",
+   "bytes": 294998,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-688.96ce69befd9f.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 689,
+   "file": "11-1053-689.bf1401b308f9.pmtiles",
+   "bytes": 1482867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-689.bf1401b308f9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 690,
+   "file": "11-1053-690.5056e53f37df.pmtiles",
+   "bytes": 1077127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-690.5056e53f37df.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 691,
+   "file": "11-1053-691.24b615ae0d8b.pmtiles",
+   "bytes": 1018276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-691.24b615ae0d8b.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 692,
+   "file": "11-1053-692.a0fdab683aa9.pmtiles",
+   "bytes": 789300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-692.a0fdab683aa9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 693,
+   "file": "11-1053-693.861b7ed317b3.pmtiles",
+   "bytes": 978560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-693.861b7ed317b3.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 694,
+   "file": "11-1053-694.b00941ef73f9.pmtiles",
+   "bytes": 642539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-694.b00941ef73f9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 695,
+   "file": "11-1053-695.cbd6ecfde7a5.pmtiles",
+   "bytes": 774183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-695.cbd6ecfde7a5.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 696,
+   "file": "11-1053-696.aaef2073b4e5.pmtiles",
+   "bytes": 353935,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1053-696.aaef2073b4e5.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 688,
+   "file": "11-1054-688.0c7c00e7f467.pmtiles",
+   "bytes": 209083,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-688.0c7c00e7f467.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 689,
+   "file": "11-1054-689.39154c8b3827.pmtiles",
+   "bytes": 1072733,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-689.39154c8b3827.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 690,
+   "file": "11-1054-690.6cd1f933cbf8.pmtiles",
+   "bytes": 789382,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-690.6cd1f933cbf8.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 691,
+   "file": "11-1054-691.5ef9a9695844.pmtiles",
+   "bytes": 868133,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-691.5ef9a9695844.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 692,
+   "file": "11-1054-692.25b03ec82b4d.pmtiles",
+   "bytes": 706223,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-692.25b03ec82b4d.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 693,
+   "file": "11-1054-693.060ded8af61f.pmtiles",
+   "bytes": 491961,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-693.060ded8af61f.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 694,
+   "file": "11-1054-694.4042f094f817.pmtiles",
+   "bytes": 517251,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-694.4042f094f817.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 695,
+   "file": "11-1054-695.ad26202ef9f8.pmtiles",
+   "bytes": 646426,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-695.ad26202ef9f8.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 696,
+   "file": "11-1054-696.027b896a219e.pmtiles",
+   "bytes": 301234,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-namur-2026-10-03/11-1054-696.027b896a219e.pmtiles"
+  }
+ ]
+}

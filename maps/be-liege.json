@@ -1,0 +1,485 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "be-liege",
+ "source": "be.pmtiles",
+ "builtAt": "2026-10-04T10:57:35.217Z",
+ "publishedAt": "2026-10-04T10:57:52.102Z",
+ "host": "github",
+ "releases": [
+  "maps-be-liege-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.97931,
+  50.12949,
+  6.4081,
+  50.81212
+ ],
+ "overview": {
+  "file": "overview.dbdd83a3fbe5.pmtiles",
+  "bytes": 2589070,
+  "tiles": 45,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/overview.dbdd83a3fbe5.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1052,
+   "y": 687,
+   "file": "11-1052-687.eacf3d2fd830.pmtiles",
+   "bytes": 1062656,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-687.eacf3d2fd830.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 688,
+   "file": "11-1052-688.7ea59f45ec5d.pmtiles",
+   "bytes": 933053,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-688.7ea59f45ec5d.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 689,
+   "file": "11-1052-689.ecab0d2a9565.pmtiles",
+   "bytes": 684611,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-689.ecab0d2a9565.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 690,
+   "file": "11-1052-690.09d9d01d3b32.pmtiles",
+   "bytes": 987439,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-690.09d9d01d3b32.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 691,
+   "file": "11-1052-691.6861b1a5038e.pmtiles",
+   "bytes": 872572,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-691.6861b1a5038e.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 692,
+   "file": "11-1052-692.d541058dad8d.pmtiles",
+   "bytes": 748734,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-692.d541058dad8d.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 693,
+   "file": "11-1052-693.1ef17f6555b2.pmtiles",
+   "bytes": 274622,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1052-693.1ef17f6555b2.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 687,
+   "file": "11-1053-687.4978c9ba4a0f.pmtiles",
+   "bytes": 1468686,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-687.4978c9ba4a0f.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 688,
+   "file": "11-1053-688.41c6e0426a9a.pmtiles",
+   "bytes": 1218462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-688.41c6e0426a9a.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 689,
+   "file": "11-1053-689.bf1401b308f9.pmtiles",
+   "bytes": 1482867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-689.bf1401b308f9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 690,
+   "file": "11-1053-690.5056e53f37df.pmtiles",
+   "bytes": 1077127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-690.5056e53f37df.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 691,
+   "file": "11-1053-691.24b615ae0d8b.pmtiles",
+   "bytes": 1018276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-691.24b615ae0d8b.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 692,
+   "file": "11-1053-692.a0fdab683aa9.pmtiles",
+   "bytes": 789300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-692.a0fdab683aa9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 693,
+   "file": "11-1053-693.595145453fb9.pmtiles",
+   "bytes": 499234,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1053-693.595145453fb9.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 687,
+   "file": "11-1054-687.a48c606246d9.pmtiles",
+   "bytes": 1376534,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-687.a48c606246d9.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 688,
+   "file": "11-1054-688.6b82ee964795.pmtiles",
+   "bytes": 983171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-688.6b82ee964795.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 689,
+   "file": "11-1054-689.50ad937b6100.pmtiles",
+   "bytes": 1405194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-689.50ad937b6100.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 690,
+   "file": "11-1054-690.85bbd49385e3.pmtiles",
+   "bytes": 965373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-690.85bbd49385e3.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 691,
+   "file": "11-1054-691.b624209f1872.pmtiles",
+   "bytes": 1050841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-691.b624209f1872.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 692,
+   "file": "11-1054-692.23d73032458b.pmtiles",
+   "bytes": 861512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-692.23d73032458b.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 693,
+   "file": "11-1054-693.1a1e5f7dddb5.pmtiles",
+   "bytes": 313654,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1054-693.1a1e5f7dddb5.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 687,
+   "file": "11-1055-687.a6d80e5a2266.pmtiles",
+   "bytes": 1541655,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-687.a6d80e5a2266.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 688,
+   "file": "11-1055-688.0b6d9ba32cc3.pmtiles",
+   "bytes": 3294064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-688.0b6d9ba32cc3.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 689,
+   "file": "11-1055-689.7c88d495a94c.pmtiles",
+   "bytes": 3068869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-689.7c88d495a94c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 690,
+   "file": "11-1055-690.93eaf169185a.pmtiles",
+   "bytes": 1155762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-690.93eaf169185a.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 691,
+   "file": "11-1055-691.241fc26a3794.pmtiles",
+   "bytes": 1027803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-691.241fc26a3794.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 692,
+   "file": "11-1055-692.c6b7caef0fa1.pmtiles",
+   "bytes": 785313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-692.c6b7caef0fa1.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 693,
+   "file": "11-1055-693.9b296ad2bf4b.pmtiles",
+   "bytes": 361680,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1055-693.9b296ad2bf4b.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 687,
+   "file": "11-1056-687.29afe852076d.pmtiles",
+   "bytes": 985684,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-687.29afe852076d.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 688,
+   "file": "11-1056-688.f31b423af8db.pmtiles",
+   "bytes": 2555348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-688.f31b423af8db.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 689,
+   "file": "11-1056-689.6afba0bda004.pmtiles",
+   "bytes": 2228727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-689.6afba0bda004.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 690,
+   "file": "11-1056-690.d6a684b89ea0.pmtiles",
+   "bytes": 1425058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-690.d6a684b89ea0.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 691,
+   "file": "11-1056-691.9cd814523fad.pmtiles",
+   "bytes": 780348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-691.9cd814523fad.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 692,
+   "file": "11-1056-692.e10bd412d616.pmtiles",
+   "bytes": 600601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-692.e10bd412d616.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 693,
+   "file": "11-1056-693.12b0eef068b1.pmtiles",
+   "bytes": 523590,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1056-693.12b0eef068b1.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 687,
+   "file": "11-1057-687.3cdecb2f7630.pmtiles",
+   "bytes": 407730,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-687.3cdecb2f7630.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 688,
+   "file": "11-1057-688.4f242f309e89.pmtiles",
+   "bytes": 1680480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-688.4f242f309e89.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 689,
+   "file": "11-1057-689.6a18dc893d41.pmtiles",
+   "bytes": 2506868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-689.6a18dc893d41.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 690,
+   "file": "11-1057-690.70070a855c33.pmtiles",
+   "bytes": 1467349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-690.70070a855c33.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 691,
+   "file": "11-1057-691.d1ad9b313a7d.pmtiles",
+   "bytes": 889637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-691.d1ad9b313a7d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 692,
+   "file": "11-1057-692.44418c43103d.pmtiles",
+   "bytes": 864739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-692.44418c43103d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 693,
+   "file": "11-1057-693.850bae8b0c95.pmtiles",
+   "bytes": 452005,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1057-693.850bae8b0c95.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 687,
+   "file": "11-1058-687.eacc9ef72cc2.pmtiles",
+   "bytes": 183081,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-687.eacc9ef72cc2.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 688,
+   "file": "11-1058-688.7b3065d32d6e.pmtiles",
+   "bytes": 1609765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-688.7b3065d32d6e.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 689,
+   "file": "11-1058-689.70929a468e8a.pmtiles",
+   "bytes": 735884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-689.70929a468e8a.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 690,
+   "file": "11-1058-690.bc1309eda1b0.pmtiles",
+   "bytes": 1348087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-690.bc1309eda1b0.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 691,
+   "file": "11-1058-691.63338ba93d85.pmtiles",
+   "bytes": 1036302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-691.63338ba93d85.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 692,
+   "file": "11-1058-692.1f946a6e7cff.pmtiles",
+   "bytes": 1228043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-692.1f946a6e7cff.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 693,
+   "file": "11-1058-693.c7aacb3a7ea2.pmtiles",
+   "bytes": 243064,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1058-693.c7aacb3a7ea2.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 688,
+   "file": "11-1059-688.91325a4a2814.pmtiles",
+   "bytes": 265171,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-688.91325a4a2814.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 689,
+   "file": "11-1059-689.f6d8ded09f86.pmtiles",
+   "bytes": 462762,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-689.f6d8ded09f86.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 690,
+   "file": "11-1059-690.939eee5942e6.pmtiles",
+   "bytes": 992151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-690.939eee5942e6.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 691,
+   "file": "11-1059-691.7130c98128cd.pmtiles",
+   "bytes": 966087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-691.7130c98128cd.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 692,
+   "file": "11-1059-692.96adc2b3cb7f.pmtiles",
+   "bytes": 423919,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-692.96adc2b3cb7f.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 693,
+   "file": "11-1059-693.dc56cbb9c7f0.pmtiles",
+   "bytes": 27103,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1059-693.dc56cbb9c7f0.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 690,
+   "file": "11-1060-690.5e56a6d4b4c4.pmtiles",
+   "bytes": 124225,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1060-690.5e56a6d4b4c4.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 691,
+   "file": "11-1060-691.eb880a05273f.pmtiles",
+   "bytes": 323527,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-be-liege-2026-10-03/11-1060-691.eb880a05273f.pmtiles"
+  }
+ ]
+}
