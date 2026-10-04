@@ -1,0 +1,709 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-loire-atlantique",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:37:52.980Z",
+ "publishedAt": "2026-10-04T18:38:19.738Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-loire-atlantique-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.62823,
+  46.86034,
+  -0.94673,
+  47.83594
+ ],
+ "overview": {
+  "file": "overview.9b124fb59a51.pmtiles",
+  "bytes": 3637249,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/overview.9b124fb59a51.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1009,
+   "y": 713,
+   "file": "11-1009-713.e0af73ac52a1.pmtiles",
+   "bytes": 680508,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-713.e0af73ac52a1.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 714,
+   "file": "11-1009-714.2d1e5ed99a8c.pmtiles",
+   "bytes": 1180675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-714.2d1e5ed99a8c.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 715,
+   "file": "11-1009-715.2eb315935a31.pmtiles",
+   "bytes": 1247359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-715.2eb315935a31.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 716,
+   "file": "11-1009-716.6ba65b84e3b4.pmtiles",
+   "bytes": 561918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-716.6ba65b84e3b4.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 717,
+   "file": "11-1009-717.1da1568acbef.pmtiles",
+   "bytes": 1091834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-717.1da1568acbef.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 718,
+   "file": "11-1009-718.629b53799f7f.pmtiles",
+   "bytes": 129243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1009-718.629b53799f7f.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 713,
+   "file": "11-1010-713.b43b7b3940c6.pmtiles",
+   "bytes": 854014,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-713.b43b7b3940c6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 714,
+   "file": "11-1010-714.82da5bbb87dd.pmtiles",
+   "bytes": 1234031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-714.82da5bbb87dd.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 715,
+   "file": "11-1010-715.df2a073abfa5.pmtiles",
+   "bytes": 990096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-715.df2a073abfa5.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 716,
+   "file": "11-1010-716.da344fc72702.pmtiles",
+   "bytes": 1096495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-716.da344fc72702.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 717,
+   "file": "11-1010-717.874face1bcf6.pmtiles",
+   "bytes": 2017296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-717.874face1bcf6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 718,
+   "file": "11-1010-718.189b637be5e3.pmtiles",
+   "bytes": 898509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-718.189b637be5e3.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 720,
+   "file": "11-1010-720.8f67541e021d.pmtiles",
+   "bytes": 230124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1010-720.8f67541e021d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 713,
+   "file": "11-1011-713.14481319118d.pmtiles",
+   "bytes": 782014,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-713.14481319118d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 714,
+   "file": "11-1011-714.47c4ae442c49.pmtiles",
+   "bytes": 1287110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-714.47c4ae442c49.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 715,
+   "file": "11-1011-715.65bbf27daabf.pmtiles",
+   "bytes": 913389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-715.65bbf27daabf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 716,
+   "file": "11-1011-716.6ff549849fd3.pmtiles",
+   "bytes": 942815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-716.6ff549849fd3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 717,
+   "file": "11-1011-717.d94f73fa7896.pmtiles",
+   "bytes": 1688034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-717.d94f73fa7896.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 718,
+   "file": "11-1011-718.bc7bf9e74808.pmtiles",
+   "bytes": 1657285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-718.bc7bf9e74808.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 719,
+   "file": "11-1011-719.fc650e1d9f08.pmtiles",
+   "bytes": 864109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-719.fc650e1d9f08.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 720,
+   "file": "11-1011-720.52390b183250.pmtiles",
+   "bytes": 1344139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-720.52390b183250.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 721,
+   "file": "11-1011-721.4b1fd7aac869.pmtiles",
+   "bytes": 294952,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1011-721.4b1fd7aac869.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 713,
+   "file": "11-1012-713.c4e3a9072562.pmtiles",
+   "bytes": 806529,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-713.c4e3a9072562.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 714,
+   "file": "11-1012-714.4d2275562562.pmtiles",
+   "bytes": 1275115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-714.4d2275562562.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 715,
+   "file": "11-1012-715.7a0c5714aa44.pmtiles",
+   "bytes": 858515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-715.7a0c5714aa44.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 716,
+   "file": "11-1012-716.757b930fd3df.pmtiles",
+   "bytes": 1004178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-716.757b930fd3df.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 717,
+   "file": "11-1012-717.5ddbbd12f4b4.pmtiles",
+   "bytes": 1353497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-717.5ddbbd12f4b4.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 718,
+   "file": "11-1012-718.41201dc17211.pmtiles",
+   "bytes": 965709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-718.41201dc17211.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 719,
+   "file": "11-1012-719.d86cb917e173.pmtiles",
+   "bytes": 1438475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-719.d86cb917e173.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 720,
+   "file": "11-1012-720.1cd1064bfb92.pmtiles",
+   "bytes": 1574162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-720.1cd1064bfb92.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 721,
+   "file": "11-1012-721.103240180b9c.pmtiles",
+   "bytes": 1084174,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1012-721.103240180b9c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 713,
+   "file": "11-1013-713.6787c09903df.pmtiles",
+   "bytes": 769841,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-713.6787c09903df.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 714,
+   "file": "11-1013-714.10040599d032.pmtiles",
+   "bytes": 863371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-714.10040599d032.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 715,
+   "file": "11-1013-715.a18d8e8f80ba.pmtiles",
+   "bytes": 676722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-715.a18d8e8f80ba.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 716,
+   "file": "11-1013-716.03d54e32c148.pmtiles",
+   "bytes": 1037552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-716.03d54e32c148.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 717,
+   "file": "11-1013-717.e30aaf56079d.pmtiles",
+   "bytes": 1384481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-717.e30aaf56079d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 718,
+   "file": "11-1013-718.629f4abe1db7.pmtiles",
+   "bytes": 980500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-718.629f4abe1db7.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 719,
+   "file": "11-1013-719.1cd689af53f7.pmtiles",
+   "bytes": 993187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-719.1cd689af53f7.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 720,
+   "file": "11-1013-720.28568118396a.pmtiles",
+   "bytes": 1567979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-720.28568118396a.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 721,
+   "file": "11-1013-721.a007d5a072dc.pmtiles",
+   "bytes": 634730,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1013-721.a007d5a072dc.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 713,
+   "file": "11-1014-713.602a1fd6a321.pmtiles",
+   "bytes": 668370,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-713.602a1fd6a321.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 714,
+   "file": "11-1014-714.d94c1ff2ef7e.pmtiles",
+   "bytes": 771926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-714.d94c1ff2ef7e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 715,
+   "file": "11-1014-715.f36fb50b1e77.pmtiles",
+   "bytes": 1057259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-715.f36fb50b1e77.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 716,
+   "file": "11-1014-716.9988f151aa5a.pmtiles",
+   "bytes": 1342919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-716.9988f151aa5a.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 717,
+   "file": "11-1014-717.5f0fd304a458.pmtiles",
+   "bytes": 1632831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-717.5f0fd304a458.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 718,
+   "file": "11-1014-718.90e3a937226d.pmtiles",
+   "bytes": 4180831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-718.90e3a937226d.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 719,
+   "file": "11-1014-719.8997353e8a6b.pmtiles",
+   "bytes": 1544243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-719.8997353e8a6b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 720,
+   "file": "11-1014-720.05673149cad2.pmtiles",
+   "bytes": 1169449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-720.05673149cad2.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 721,
+   "file": "11-1014-721.0b4f3ec7052e.pmtiles",
+   "bytes": 510213,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1014-721.0b4f3ec7052e.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 713,
+   "file": "11-1015-713.f518519dd040.pmtiles",
+   "bytes": 877617,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-713.f518519dd040.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 714,
+   "file": "11-1015-714.e50dfffdd004.pmtiles",
+   "bytes": 1066792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-714.e50dfffdd004.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 715,
+   "file": "11-1015-715.9126c1bf4591.pmtiles",
+   "bytes": 980886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-715.9126c1bf4591.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 716,
+   "file": "11-1015-716.1ae6f3f44531.pmtiles",
+   "bytes": 1496158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-716.1ae6f3f44531.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 717,
+   "file": "11-1015-717.6f2e158a885c.pmtiles",
+   "bytes": 2195404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-717.6f2e158a885c.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 718,
+   "file": "11-1015-718.9de67085c0b9.pmtiles",
+   "bytes": 6575803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-718.9de67085c0b9.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 719,
+   "file": "11-1015-719.73200834f909.pmtiles",
+   "bytes": 1885431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-719.73200834f909.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 720,
+   "file": "11-1015-720.806a1f8528e6.pmtiles",
+   "bytes": 1252945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-720.806a1f8528e6.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 721,
+   "file": "11-1015-721.f0691dcb5932.pmtiles",
+   "bytes": 472822,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1015-721.f0691dcb5932.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 713,
+   "file": "11-1016-713.e027930835b1.pmtiles",
+   "bytes": 776401,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-713.e027930835b1.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 714,
+   "file": "11-1016-714.9e660e246e2a.pmtiles",
+   "bytes": 1304395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-714.9e660e246e2a.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 715,
+   "file": "11-1016-715.fdbc8a6d0717.pmtiles",
+   "bytes": 1125865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-715.fdbc8a6d0717.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 716,
+   "file": "11-1016-716.99e234a6752b.pmtiles",
+   "bytes": 1291671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-716.99e234a6752b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 717,
+   "file": "11-1016-717.5d5bf682de5c.pmtiles",
+   "bytes": 1694606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-717.5d5bf682de5c.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 718,
+   "file": "11-1016-718.2d67a1d644d8.pmtiles",
+   "bytes": 1764569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-718.2d67a1d644d8.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 719,
+   "file": "11-1016-719.6af53a3c0876.pmtiles",
+   "bytes": 2351254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-719.6af53a3c0876.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 720,
+   "file": "11-1016-720.9a8c8686c96f.pmtiles",
+   "bytes": 1560896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-720.9a8c8686c96f.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 721,
+   "file": "11-1016-721.97e1e6f2bd5e.pmtiles",
+   "bytes": 697140,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1016-721.97e1e6f2bd5e.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 713,
+   "file": "11-1017-713.d238dc417e4e.pmtiles",
+   "bytes": 560201,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-713.d238dc417e4e.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 714,
+   "file": "11-1017-714.f1ed68a95325.pmtiles",
+   "bytes": 692747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-714.f1ed68a95325.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 715,
+   "file": "11-1017-715.168c763df061.pmtiles",
+   "bytes": 1088584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-715.168c763df061.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 716,
+   "file": "11-1017-716.69054e0a0265.pmtiles",
+   "bytes": 1396854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-716.69054e0a0265.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 717,
+   "file": "11-1017-717.693dae8aaf0f.pmtiles",
+   "bytes": 1700593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-717.693dae8aaf0f.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 718,
+   "file": "11-1017-718.a1c77a9b8fdc.pmtiles",
+   "bytes": 959055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-718.a1c77a9b8fdc.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 719,
+   "file": "11-1017-719.70f483085ab5.pmtiles",
+   "bytes": 1203888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-719.70f483085ab5.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 720,
+   "file": "11-1017-720.c0bd9e86e721.pmtiles",
+   "bytes": 1177792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-720.c0bd9e86e721.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 721,
+   "file": "11-1017-721.26f6189574fa.pmtiles",
+   "bytes": 549343,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1017-721.26f6189574fa.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 713,
+   "file": "11-1018-713.9d3b23e93f6c.pmtiles",
+   "bytes": 452656,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-713.9d3b23e93f6c.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 714,
+   "file": "11-1018-714.dc3e58961264.pmtiles",
+   "bytes": 512321,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-714.dc3e58961264.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 715,
+   "file": "11-1018-715.aec1ca6cddf1.pmtiles",
+   "bytes": 513017,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-715.aec1ca6cddf1.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 716,
+   "file": "11-1018-716.6840e3ddee15.pmtiles",
+   "bytes": 853567,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-716.6840e3ddee15.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 717,
+   "file": "11-1018-717.463e46324738.pmtiles",
+   "bytes": 855809,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-717.463e46324738.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 718,
+   "file": "11-1018-718.c42882aa4b7d.pmtiles",
+   "bytes": 855059,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-718.c42882aa4b7d.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 719,
+   "file": "11-1018-719.71f9b798d05e.pmtiles",
+   "bytes": 902527,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-719.71f9b798d05e.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 720,
+   "file": "11-1018-720.1a29bd4ad49b.pmtiles",
+   "bytes": 953070,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-720.1a29bd4ad49b.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 721,
+   "file": "11-1018-721.602a63e01dfa.pmtiles",
+   "bytes": 664695,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-loire-atlantique-2026-10-03/11-1018-721.602a63e01dfa.pmtiles"
+  }
+ ]
+}

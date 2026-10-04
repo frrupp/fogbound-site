@@ -1,0 +1,893 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-saone-et-loire",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:40:11.692Z",
+ "publishedAt": "2026-10-04T18:40:43.609Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-saone-et-loire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  3.62229,
+  46.15601,
+  5.46542,
+  47.15541
+ ],
+ "overview": {
+  "file": "overview.dcca0ef9becf.pmtiles",
+  "bytes": 4971607,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/overview.dcca0ef9becf.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1044,
+   "y": 719,
+   "file": "11-1044-719.d205037c0245.pmtiles",
+   "bytes": 256917,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-719.d205037c0245.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 720,
+   "file": "11-1044-720.fa3d038566db.pmtiles",
+   "bytes": 182963,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-720.fa3d038566db.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 721,
+   "file": "11-1044-721.19e658cc1887.pmtiles",
+   "bytes": 211388,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-721.19e658cc1887.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 722,
+   "file": "11-1044-722.bc73ac735923.pmtiles",
+   "bytes": 341034,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-722.bc73ac735923.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 723,
+   "file": "11-1044-723.f9d4d4eb614b.pmtiles",
+   "bytes": 323912,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-723.f9d4d4eb614b.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 724,
+   "file": "11-1044-724.e8914bdab7bf.pmtiles",
+   "bytes": 312658,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-724.e8914bdab7bf.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 725,
+   "file": "11-1044-725.bfb81f05c9e1.pmtiles",
+   "bytes": 267992,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-725.bfb81f05c9e1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 726,
+   "file": "11-1044-726.ca456e1e970f.pmtiles",
+   "bytes": 388702,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-726.ca456e1e970f.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 727,
+   "file": "11-1044-727.f5d277c3d628.pmtiles",
+   "bytes": 182403,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1044-727.f5d277c3d628.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 719,
+   "file": "11-1045-719.141a3329bfac.pmtiles",
+   "bytes": 436352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-719.141a3329bfac.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 720,
+   "file": "11-1045-720.4799aacf7ea4.pmtiles",
+   "bytes": 458588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-720.4799aacf7ea4.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 721,
+   "file": "11-1045-721.2306ffff40bd.pmtiles",
+   "bytes": 466897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-721.2306ffff40bd.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 722,
+   "file": "11-1045-722.d91886398d2e.pmtiles",
+   "bytes": 601130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-722.d91886398d2e.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 723,
+   "file": "11-1045-723.9c366f5f8137.pmtiles",
+   "bytes": 1017183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-723.9c366f5f8137.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 724,
+   "file": "11-1045-724.f58de0b90e12.pmtiles",
+   "bytes": 679504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-724.f58de0b90e12.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 725,
+   "file": "11-1045-725.e7da3504e907.pmtiles",
+   "bytes": 461968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-725.e7da3504e907.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 726,
+   "file": "11-1045-726.4e6062786250.pmtiles",
+   "bytes": 712386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-726.4e6062786250.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 727,
+   "file": "11-1045-727.11d2911866bc.pmtiles",
+   "bytes": 379717,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1045-727.11d2911866bc.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 719,
+   "file": "11-1046-719.4cfb89d5ff92.pmtiles",
+   "bytes": 1020634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-719.4cfb89d5ff92.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 720,
+   "file": "11-1046-720.b87b953b73e4.pmtiles",
+   "bytes": 915682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-720.b87b953b73e4.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 721,
+   "file": "11-1046-721.989c892718c4.pmtiles",
+   "bytes": 685935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-721.989c892718c4.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 722,
+   "file": "11-1046-722.c8600730f392.pmtiles",
+   "bytes": 862267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-722.c8600730f392.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 723,
+   "file": "11-1046-723.3603ec1f4f50.pmtiles",
+   "bytes": 1093685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-723.3603ec1f4f50.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 724,
+   "file": "11-1046-724.e05d44ee4a3d.pmtiles",
+   "bytes": 1188031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-724.e05d44ee4a3d.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 725,
+   "file": "11-1046-725.199804f763db.pmtiles",
+   "bytes": 790077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-725.199804f763db.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 726,
+   "file": "11-1046-726.4377caf8df61.pmtiles",
+   "bytes": 1014683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-726.4377caf8df61.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 727,
+   "file": "11-1046-727.a851e9be3a95.pmtiles",
+   "bytes": 340465,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1046-727.a851e9be3a95.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 719,
+   "file": "11-1047-719.967a34ad37de.pmtiles",
+   "bytes": 1014380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-719.967a34ad37de.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 720,
+   "file": "11-1047-720.3e5a966771f6.pmtiles",
+   "bytes": 1052096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-720.3e5a966771f6.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 721,
+   "file": "11-1047-721.42e154c3ca48.pmtiles",
+   "bytes": 1012684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-721.42e154c3ca48.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 722,
+   "file": "11-1047-722.698c3b184a1c.pmtiles",
+   "bytes": 1043148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-722.698c3b184a1c.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 723,
+   "file": "11-1047-723.63efd1fb9adf.pmtiles",
+   "bytes": 980447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-723.63efd1fb9adf.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 724,
+   "file": "11-1047-724.f49f3a7506a3.pmtiles",
+   "bytes": 1196322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-724.f49f3a7506a3.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 725,
+   "file": "11-1047-725.7f1f73d522b9.pmtiles",
+   "bytes": 982076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-725.7f1f73d522b9.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 726,
+   "file": "11-1047-726.6c0555aa4b6e.pmtiles",
+   "bytes": 1195056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-726.6c0555aa4b6e.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 727,
+   "file": "11-1047-727.b595f5ce690d.pmtiles",
+   "bytes": 877198,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1047-727.b595f5ce690d.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 719,
+   "file": "11-1048-719.09707e29e6ea.pmtiles",
+   "bytes": 929376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-719.09707e29e6ea.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 720,
+   "file": "11-1048-720.33f46526f461.pmtiles",
+   "bytes": 1185747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-720.33f46526f461.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 721,
+   "file": "11-1048-721.a5e99fa6ee57.pmtiles",
+   "bytes": 1230112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-721.a5e99fa6ee57.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 722,
+   "file": "11-1048-722.409bc6f5dde8.pmtiles",
+   "bytes": 1068351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-722.409bc6f5dde8.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 723,
+   "file": "11-1048-723.b5e7fa7735f1.pmtiles",
+   "bytes": 1460598,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-723.b5e7fa7735f1.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 724,
+   "file": "11-1048-724.236969e852a4.pmtiles",
+   "bytes": 967959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-724.236969e852a4.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 725,
+   "file": "11-1048-725.3562466a867a.pmtiles",
+   "bytes": 1305168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-725.3562466a867a.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 726,
+   "file": "11-1048-726.0c2e6d255403.pmtiles",
+   "bytes": 1662746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-726.0c2e6d255403.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 727,
+   "file": "11-1048-727.9d0085b44813.pmtiles",
+   "bytes": 794601,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1048-727.9d0085b44813.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 719,
+   "file": "11-1049-719.5ea975e1295b.pmtiles",
+   "bytes": 922887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-719.5ea975e1295b.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 720,
+   "file": "11-1049-720.65f7910f21d0.pmtiles",
+   "bytes": 1075925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-720.65f7910f21d0.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 721,
+   "file": "11-1049-721.8d2c713c8489.pmtiles",
+   "bytes": 1424911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-721.8d2c713c8489.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 722,
+   "file": "11-1049-722.b6c0758d1514.pmtiles",
+   "bytes": 1445040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-722.b6c0758d1514.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 723,
+   "file": "11-1049-723.e711d0d8222c.pmtiles",
+   "bytes": 1058422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-723.e711d0d8222c.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 724,
+   "file": "11-1049-724.48f15e4d883d.pmtiles",
+   "bytes": 1123096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-724.48f15e4d883d.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 725,
+   "file": "11-1049-725.c81acb443452.pmtiles",
+   "bytes": 1454898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-725.c81acb443452.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 726,
+   "file": "11-1049-726.d408d006885e.pmtiles",
+   "bytes": 1477254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-726.d408d006885e.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 727,
+   "file": "11-1049-727.37ae399a2a91.pmtiles",
+   "bytes": 669986,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1049-727.37ae399a2a91.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 719,
+   "file": "11-1050-719.1c7502e3606e.pmtiles",
+   "bytes": 537023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-719.1c7502e3606e.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 720,
+   "file": "11-1050-720.275eb7ae052d.pmtiles",
+   "bytes": 1074626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-720.275eb7ae052d.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 721,
+   "file": "11-1050-721.0e2f0bc16023.pmtiles",
+   "bytes": 1982725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-721.0e2f0bc16023.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 722,
+   "file": "11-1050-722.534f05c47254.pmtiles",
+   "bytes": 1636633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-722.534f05c47254.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 723,
+   "file": "11-1050-723.1432a63e54fa.pmtiles",
+   "bytes": 1287885,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-723.1432a63e54fa.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 724,
+   "file": "11-1050-724.e470fbbb3a8a.pmtiles",
+   "bytes": 1268518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-724.e470fbbb3a8a.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 725,
+   "file": "11-1050-725.50dfd6d2a9de.pmtiles",
+   "bytes": 1689280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-725.50dfd6d2a9de.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 726,
+   "file": "11-1050-726.65355d0c5351.pmtiles",
+   "bytes": 1890626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-726.65355d0c5351.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 727,
+   "file": "11-1050-727.bfaa3da7cd35.pmtiles",
+   "bytes": 927592,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1050-727.bfaa3da7cd35.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 719,
+   "file": "11-1051-719.eb3b796d2557.pmtiles",
+   "bytes": 1037183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-719.eb3b796d2557.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 720,
+   "file": "11-1051-720.32a36b658445.pmtiles",
+   "bytes": 1459894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-720.32a36b658445.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 721,
+   "file": "11-1051-721.a0c9f466fa05.pmtiles",
+   "bytes": 1248491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-721.a0c9f466fa05.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 722,
+   "file": "11-1051-722.31e14ab2b10c.pmtiles",
+   "bytes": 1992107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-722.31e14ab2b10c.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 723,
+   "file": "11-1051-723.c0c0f82b8906.pmtiles",
+   "bytes": 1389681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-723.c0c0f82b8906.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 724,
+   "file": "11-1051-724.75d1455dea4d.pmtiles",
+   "bytes": 1608770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-724.75d1455dea4d.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 725,
+   "file": "11-1051-725.f8dbc71fa890.pmtiles",
+   "bytes": 1827348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-725.f8dbc71fa890.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 726,
+   "file": "11-1051-726.560e471f42ac.pmtiles",
+   "bytes": 2380312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-726.560e471f42ac.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 727,
+   "file": "11-1051-727.ff7f50aceaea.pmtiles",
+   "bytes": 638333,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1051-727.ff7f50aceaea.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 719,
+   "file": "11-1052-719.f26128a9125a.pmtiles",
+   "bytes": 595285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-719.f26128a9125a.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 720,
+   "file": "11-1052-720.01c2b015e83f.pmtiles",
+   "bytes": 606156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-720.01c2b015e83f.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 721,
+   "file": "11-1052-721.f1aa5b215bb1.pmtiles",
+   "bytes": 1023831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-721.f1aa5b215bb1.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 722,
+   "file": "11-1052-722.bbcf163403d5.pmtiles",
+   "bytes": 1168045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-722.bbcf163403d5.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 723,
+   "file": "11-1052-723.124688e89ed6.pmtiles",
+   "bytes": 1704241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-723.124688e89ed6.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 724,
+   "file": "11-1052-724.7871de362693.pmtiles",
+   "bytes": 1501235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-724.7871de362693.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 725,
+   "file": "11-1052-725.174b27d2e2f0.pmtiles",
+   "bytes": 1252463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-725.174b27d2e2f0.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 726,
+   "file": "11-1052-726.91a23f33ccd0.pmtiles",
+   "bytes": 1471858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-726.91a23f33ccd0.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 727,
+   "file": "11-1052-727.67e206b4b571.pmtiles",
+   "bytes": 537104,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1052-727.67e206b4b571.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 719,
+   "file": "11-1053-719.3a9118bd472a.pmtiles",
+   "bytes": 578319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-719.3a9118bd472a.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 720,
+   "file": "11-1053-720.e0eb2c652cb5.pmtiles",
+   "bytes": 723218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-720.e0eb2c652cb5.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 721,
+   "file": "11-1053-721.dbed75e47f80.pmtiles",
+   "bytes": 1023647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-721.dbed75e47f80.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 722,
+   "file": "11-1053-722.ac46f829a0e2.pmtiles",
+   "bytes": 1437605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-722.ac46f829a0e2.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 723,
+   "file": "11-1053-723.52b43b289c9b.pmtiles",
+   "bytes": 2169499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-723.52b43b289c9b.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 724,
+   "file": "11-1053-724.47eb2ffab1b4.pmtiles",
+   "bytes": 1681093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-724.47eb2ffab1b4.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 725,
+   "file": "11-1053-725.e3cd61f592a4.pmtiles",
+   "bytes": 1239470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-725.e3cd61f592a4.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 726,
+   "file": "11-1053-726.92e0f4294740.pmtiles",
+   "bytes": 1927706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-726.92e0f4294740.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 727,
+   "file": "11-1053-727.17d6a502d079.pmtiles",
+   "bytes": 690127,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1053-727.17d6a502d079.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 719,
+   "file": "11-1054-719.b1d894709ca6.pmtiles",
+   "bytes": 766294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-719.b1d894709ca6.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 720,
+   "file": "11-1054-720.30e86f92ec39.pmtiles",
+   "bytes": 696112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-720.30e86f92ec39.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 721,
+   "file": "11-1054-721.15ceb483b218.pmtiles",
+   "bytes": 1048406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-721.15ceb483b218.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 722,
+   "file": "11-1054-722.63a3f014aa7c.pmtiles",
+   "bytes": 1297538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-722.63a3f014aa7c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 723,
+   "file": "11-1054-723.a51d2c9ff8f2.pmtiles",
+   "bytes": 1835035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-723.a51d2c9ff8f2.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 724,
+   "file": "11-1054-724.4e34a767cbd5.pmtiles",
+   "bytes": 2161819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-724.4e34a767cbd5.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 725,
+   "file": "11-1054-725.fb7354ee3e39.pmtiles",
+   "bytes": 1982069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-725.fb7354ee3e39.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 726,
+   "file": "11-1054-726.92bc9c5931f6.pmtiles",
+   "bytes": 1111378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-726.92bc9c5931f6.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 727,
+   "file": "11-1054-727.8bab6d003aa1.pmtiles",
+   "bytes": 639150,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1054-727.8bab6d003aa1.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 719,
+   "file": "11-1055-719.5b99e599dcca.pmtiles",
+   "bytes": 384930,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-719.5b99e599dcca.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 720,
+   "file": "11-1055-720.cc3fb622762e.pmtiles",
+   "bytes": 159054,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-720.cc3fb622762e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 721,
+   "file": "11-1055-721.ec27261cdf39.pmtiles",
+   "bytes": 224766,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-721.ec27261cdf39.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 722,
+   "file": "11-1055-722.78e0ce5ee0f9.pmtiles",
+   "bytes": 271881,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-722.78e0ce5ee0f9.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 723,
+   "file": "11-1055-723.e36e1d3818bd.pmtiles",
+   "bytes": 457118,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-723.e36e1d3818bd.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 724,
+   "file": "11-1055-724.3e58b8433f33.pmtiles",
+   "bytes": 452943,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-724.3e58b8433f33.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 725,
+   "file": "11-1055-725.2d0449237488.pmtiles",
+   "bytes": 505977,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-725.2d0449237488.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 726,
+   "file": "11-1055-726.3a7b98ff998e.pmtiles",
+   "bytes": 343588,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-726.3a7b98ff998e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 727,
+   "file": "11-1055-727.5ed40eae9570.pmtiles",
+   "bytes": 127952,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-saone-et-loire-2026-10-03/11-1055-727.5ed40eae9570.pmtiles"
+  }
+ ]
+}

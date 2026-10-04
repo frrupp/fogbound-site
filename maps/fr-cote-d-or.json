@@ -1,0 +1,821 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-cote-d-or",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:38:20.290Z",
+ "publishedAt": "2026-10-04T18:38:48.859Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-cote-d-or-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.0654,
+  46.89986,
+  5.51887,
+  48.03118
+ ],
+ "overview": {
+  "file": "overview.a7cc1a2ba964.pmtiles",
+  "bytes": 5174153,
+  "tiles": 57,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/overview.a7cc1a2ba964.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1047,
+   "y": 711,
+   "file": "11-1047-711.f7dd94530a0d.pmtiles",
+   "bytes": 131394,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-711.f7dd94530a0d.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 712,
+   "file": "11-1047-712.83d64bd900e9.pmtiles",
+   "bytes": 359513,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-712.83d64bd900e9.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 713,
+   "file": "11-1047-713.2d2cee8b9a41.pmtiles",
+   "bytes": 507318,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-713.2d2cee8b9a41.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 714,
+   "file": "11-1047-714.b377c80ab734.pmtiles",
+   "bytes": 318862,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-714.b377c80ab734.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 715,
+   "file": "11-1047-715.acd2ba8b264e.pmtiles",
+   "bytes": 456594,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-715.acd2ba8b264e.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 716,
+   "file": "11-1047-716.03fec27cb3be.pmtiles",
+   "bytes": 582797,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-716.03fec27cb3be.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 717,
+   "file": "11-1047-717.261b2aa9dbca.pmtiles",
+   "bytes": 451838,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-717.261b2aa9dbca.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 718,
+   "file": "11-1047-718.a229cbc5d124.pmtiles",
+   "bytes": 870262,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-718.a229cbc5d124.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 719,
+   "file": "11-1047-719.4bdef528dd06.pmtiles",
+   "bytes": 962148,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-719.4bdef528dd06.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 720,
+   "file": "11-1047-720.b11ef3360745.pmtiles",
+   "bytes": 986488,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-720.b11ef3360745.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 721,
+   "file": "11-1047-721.1d0164e80e56.pmtiles",
+   "bytes": 352766,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1047-721.1d0164e80e56.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 711,
+   "file": "11-1048-711.94a7d48ed687.pmtiles",
+   "bytes": 262839,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-711.94a7d48ed687.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 712,
+   "file": "11-1048-712.9bc43dba4e95.pmtiles",
+   "bytes": 411909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-712.9bc43dba4e95.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 713,
+   "file": "11-1048-713.25f1442aafbd.pmtiles",
+   "bytes": 383597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-713.25f1442aafbd.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 714,
+   "file": "11-1048-714.5b71a88146bc.pmtiles",
+   "bytes": 415018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-714.5b71a88146bc.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 715,
+   "file": "11-1048-715.1cc1af9ae24f.pmtiles",
+   "bytes": 592255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-715.1cc1af9ae24f.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 716,
+   "file": "11-1048-716.af63c7779fcf.pmtiles",
+   "bytes": 579894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-716.af63c7779fcf.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 717,
+   "file": "11-1048-717.cc96a70ce466.pmtiles",
+   "bytes": 538921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-717.cc96a70ce466.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 718,
+   "file": "11-1048-718.6669becc08c5.pmtiles",
+   "bytes": 727382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-718.6669becc08c5.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 719,
+   "file": "11-1048-719.09707e29e6ea.pmtiles",
+   "bytes": 929376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-719.09707e29e6ea.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 720,
+   "file": "11-1048-720.33f46526f461.pmtiles",
+   "bytes": 1185747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-720.33f46526f461.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 721,
+   "file": "11-1048-721.a95bd072d266.pmtiles",
+   "bytes": 322718,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1048-721.a95bd072d266.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 711,
+   "file": "11-1049-711.2d483c36305c.pmtiles",
+   "bytes": 248537,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-711.2d483c36305c.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 712,
+   "file": "11-1049-712.c44d2a1348f7.pmtiles",
+   "bytes": 371838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-712.c44d2a1348f7.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 713,
+   "file": "11-1049-713.ea1cc69a1daa.pmtiles",
+   "bytes": 373201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-713.ea1cc69a1daa.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 714,
+   "file": "11-1049-714.c46e9e3803d1.pmtiles",
+   "bytes": 329601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-714.c46e9e3803d1.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 715,
+   "file": "11-1049-715.51001b312e4b.pmtiles",
+   "bytes": 528438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-715.51001b312e4b.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 716,
+   "file": "11-1049-716.837100677325.pmtiles",
+   "bytes": 542413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-716.837100677325.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 717,
+   "file": "11-1049-717.5e843821aa0d.pmtiles",
+   "bytes": 507297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-717.5e843821aa0d.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 718,
+   "file": "11-1049-718.36ccdca6259f.pmtiles",
+   "bytes": 668991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-718.36ccdca6259f.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 719,
+   "file": "11-1049-719.5ea975e1295b.pmtiles",
+   "bytes": 922887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-719.5ea975e1295b.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 720,
+   "file": "11-1049-720.65f7910f21d0.pmtiles",
+   "bytes": 1075925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-720.65f7910f21d0.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 721,
+   "file": "11-1049-721.98f7293aa6f1.pmtiles",
+   "bytes": 362884,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1049-721.98f7293aa6f1.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 711,
+   "file": "11-1050-711.fe1691dc293f.pmtiles",
+   "bytes": 101131,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-711.fe1691dc293f.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 712,
+   "file": "11-1050-712.c3d3435ee8c3.pmtiles",
+   "bytes": 280711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-712.c3d3435ee8c3.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 713,
+   "file": "11-1050-713.68761b2189ec.pmtiles",
+   "bytes": 341232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-713.68761b2189ec.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 714,
+   "file": "11-1050-714.919bd1f7d04b.pmtiles",
+   "bytes": 521677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-714.919bd1f7d04b.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 715,
+   "file": "11-1050-715.e5cc7484a666.pmtiles",
+   "bytes": 368819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-715.e5cc7484a666.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 716,
+   "file": "11-1050-716.53b5090a57d2.pmtiles",
+   "bytes": 475265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-716.53b5090a57d2.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 717,
+   "file": "11-1050-717.35412fb3b803.pmtiles",
+   "bytes": 542193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-717.35412fb3b803.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 718,
+   "file": "11-1050-718.a368c346a074.pmtiles",
+   "bytes": 638367,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-718.a368c346a074.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 719,
+   "file": "11-1050-719.1c7502e3606e.pmtiles",
+   "bytes": 537023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-719.1c7502e3606e.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 720,
+   "file": "11-1050-720.275eb7ae052d.pmtiles",
+   "bytes": 1074626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-720.275eb7ae052d.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 721,
+   "file": "11-1050-721.9dfa0ea1b57e.pmtiles",
+   "bytes": 657713,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1050-721.9dfa0ea1b57e.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 711,
+   "file": "11-1051-711.520c89ee0543.pmtiles",
+   "bytes": 162325,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-711.520c89ee0543.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 712,
+   "file": "11-1051-712.2d2492d0ab33.pmtiles",
+   "bytes": 298058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-712.2d2492d0ab33.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 713,
+   "file": "11-1051-713.a49403d1d6ed.pmtiles",
+   "bytes": 361554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-713.a49403d1d6ed.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 714,
+   "file": "11-1051-714.5ea267f8d602.pmtiles",
+   "bytes": 394708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-714.5ea267f8d602.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 715,
+   "file": "11-1051-715.79d64e5bf75e.pmtiles",
+   "bytes": 329080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-715.79d64e5bf75e.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 716,
+   "file": "11-1051-716.130e675fd798.pmtiles",
+   "bytes": 352866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-716.130e675fd798.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 717,
+   "file": "11-1051-717.0c83bacb338b.pmtiles",
+   "bytes": 636201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-717.0c83bacb338b.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 718,
+   "file": "11-1051-718.2552fc4d1d35.pmtiles",
+   "bytes": 502186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-718.2552fc4d1d35.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 719,
+   "file": "11-1051-719.eb3b796d2557.pmtiles",
+   "bytes": 1037183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-719.eb3b796d2557.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 720,
+   "file": "11-1051-720.32a36b658445.pmtiles",
+   "bytes": 1459894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-720.32a36b658445.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 721,
+   "file": "11-1051-721.147f8f9386bd.pmtiles",
+   "bytes": 327167,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1051-721.147f8f9386bd.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 711,
+   "file": "11-1052-711.c7cc325a0919.pmtiles",
+   "bytes": 137675,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-711.c7cc325a0919.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 712,
+   "file": "11-1052-712.20348af19387.pmtiles",
+   "bytes": 311351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-712.20348af19387.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 713,
+   "file": "11-1052-713.04e2049be3f8.pmtiles",
+   "bytes": 412210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-713.04e2049be3f8.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 714,
+   "file": "11-1052-714.05c567b4bb38.pmtiles",
+   "bytes": 422255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-714.05c567b4bb38.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 715,
+   "file": "11-1052-715.78212910209c.pmtiles",
+   "bytes": 356144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-715.78212910209c.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 716,
+   "file": "11-1052-716.7412cb38e251.pmtiles",
+   "bytes": 424034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-716.7412cb38e251.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 717,
+   "file": "11-1052-717.67d8c26b7b63.pmtiles",
+   "bytes": 3320298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-717.67d8c26b7b63.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 718,
+   "file": "11-1052-718.1a9948f9927c.pmtiles",
+   "bytes": 1035253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-718.1a9948f9927c.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 719,
+   "file": "11-1052-719.f26128a9125a.pmtiles",
+   "bytes": 595285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-719.f26128a9125a.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 720,
+   "file": "11-1052-720.01c2b015e83f.pmtiles",
+   "bytes": 606156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-720.01c2b015e83f.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 721,
+   "file": "11-1052-721.53daad75a33d.pmtiles",
+   "bytes": 341484,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1052-721.53daad75a33d.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 711,
+   "file": "11-1053-711.38cecc893a70.pmtiles",
+   "bytes": 164540,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-711.38cecc893a70.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 712,
+   "file": "11-1053-712.cc4f51395331.pmtiles",
+   "bytes": 350564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-712.cc4f51395331.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 713,
+   "file": "11-1053-713.fc8dedc92452.pmtiles",
+   "bytes": 382253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-713.fc8dedc92452.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 714,
+   "file": "11-1053-714.849a2f7344ff.pmtiles",
+   "bytes": 447985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-714.849a2f7344ff.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 715,
+   "file": "11-1053-715.72bf6b46b762.pmtiles",
+   "bytes": 554061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-715.72bf6b46b762.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 716,
+   "file": "11-1053-716.d58ae26d8b92.pmtiles",
+   "bytes": 480960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-716.d58ae26d8b92.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 717,
+   "file": "11-1053-717.5a2ca7cefaad.pmtiles",
+   "bytes": 962673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-717.5a2ca7cefaad.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 718,
+   "file": "11-1053-718.732aa1629c4f.pmtiles",
+   "bytes": 754904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-718.732aa1629c4f.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 719,
+   "file": "11-1053-719.3a9118bd472a.pmtiles",
+   "bytes": 578319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-719.3a9118bd472a.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 720,
+   "file": "11-1053-720.e0eb2c652cb5.pmtiles",
+   "bytes": 723218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-720.e0eb2c652cb5.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 721,
+   "file": "11-1053-721.79066458a9c0.pmtiles",
+   "bytes": 253648,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1053-721.79066458a9c0.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 711,
+   "file": "11-1054-711.028b11d4d6ea.pmtiles",
+   "bytes": 240753,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-711.028b11d4d6ea.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 712,
+   "file": "11-1054-712.0b5be81a9c54.pmtiles",
+   "bytes": 525283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-712.0b5be81a9c54.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 713,
+   "file": "11-1054-713.d0e873493510.pmtiles",
+   "bytes": 741703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-713.d0e873493510.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 714,
+   "file": "11-1054-714.fb0182a9f74c.pmtiles",
+   "bytes": 449599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-714.fb0182a9f74c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 715,
+   "file": "11-1054-715.f34072b882b5.pmtiles",
+   "bytes": 383680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-715.f34072b882b5.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 716,
+   "file": "11-1054-716.4b089cda647a.pmtiles",
+   "bytes": 401172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-716.4b089cda647a.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 717,
+   "file": "11-1054-717.a1ac5d9506d3.pmtiles",
+   "bytes": 461057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-717.a1ac5d9506d3.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 718,
+   "file": "11-1054-718.476f2175c48e.pmtiles",
+   "bytes": 646855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-718.476f2175c48e.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 719,
+   "file": "11-1054-719.b1d894709ca6.pmtiles",
+   "bytes": 766294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-719.b1d894709ca6.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 720,
+   "file": "11-1054-720.30e86f92ec39.pmtiles",
+   "bytes": 696112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-720.30e86f92ec39.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 721,
+   "file": "11-1054-721.ee95e40c9a5c.pmtiles",
+   "bytes": 233340,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1054-721.ee95e40c9a5c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 711,
+   "file": "11-1055-711.6df105028405.pmtiles",
+   "bytes": 132638,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-711.6df105028405.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 712,
+   "file": "11-1055-712.1b91390ce0d6.pmtiles",
+   "bytes": 284624,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-712.1b91390ce0d6.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 713,
+   "file": "11-1055-713.537414a1cc93.pmtiles",
+   "bytes": 287360,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-713.537414a1cc93.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 714,
+   "file": "11-1055-714.3aa1c4d53068.pmtiles",
+   "bytes": 204793,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-714.3aa1c4d53068.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 715,
+   "file": "11-1055-715.4925dbdcd94c.pmtiles",
+   "bytes": 210492,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-715.4925dbdcd94c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 716,
+   "file": "11-1055-716.4cb70b61c028.pmtiles",
+   "bytes": 226624,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-716.4cb70b61c028.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 717,
+   "file": "11-1055-717.0b8982c30e73.pmtiles",
+   "bytes": 192513,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-717.0b8982c30e73.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 718,
+   "file": "11-1055-718.290e94c8e7bc.pmtiles",
+   "bytes": 256350,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-718.290e94c8e7bc.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 719,
+   "file": "11-1055-719.65c591b76fa2.pmtiles",
+   "bytes": 1053133,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-719.65c591b76fa2.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 720,
+   "file": "11-1055-720.070f4ece2f77.pmtiles",
+   "bytes": 374656,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-720.070f4ece2f77.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 721,
+   "file": "11-1055-721.a2b7022cb40a.pmtiles",
+   "bytes": 128925,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cote-d-or-2026-10-03/11-1055-721.a2b7022cb40a.pmtiles"
+  }
+ ]
+}

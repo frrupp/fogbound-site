@@ -1,0 +1,909 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-dordogne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:38:49.415Z",
+ "publishedAt": "2026-10-04T18:39:19.943Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-dordogne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.04191,
+  44.57105,
+  1.44814,
+  45.7148
+ ],
+ "overview": {
+  "file": "overview.99f2f222e4a2.pmtiles",
+  "bytes": 6621815,
+  "tiles": 77,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/overview.99f2f222e4a2.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1023,
+   "y": 730,
+   "file": "11-1023-730.f0c6384ea2a7.pmtiles",
+   "bytes": 76777,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-730.f0c6384ea2a7.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 731,
+   "file": "11-1023-731.00a4d5860858.pmtiles",
+   "bytes": 319588,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-731.00a4d5860858.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 732,
+   "file": "11-1023-732.5e4c820bc97e.pmtiles",
+   "bytes": 178612,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-732.5e4c820bc97e.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 733,
+   "file": "11-1023-733.2443bfcc342c.pmtiles",
+   "bytes": 166046,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-733.2443bfcc342c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 734,
+   "file": "11-1023-734.dee0970efac3.pmtiles",
+   "bytes": 181192,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-734.dee0970efac3.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 735,
+   "file": "11-1023-735.7ddf9324e39c.pmtiles",
+   "bytes": 284803,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-735.7ddf9324e39c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 736,
+   "file": "11-1023-736.ee3e952e90c5.pmtiles",
+   "bytes": 253349,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-736.ee3e952e90c5.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 737,
+   "file": "11-1023-737.5be7868906c1.pmtiles",
+   "bytes": 327256,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-737.5be7868906c1.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 738,
+   "file": "11-1023-738.2c15d37d4001.pmtiles",
+   "bytes": 285428,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-738.2c15d37d4001.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 739,
+   "file": "11-1023-739.e40076a9af08.pmtiles",
+   "bytes": 286134,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-739.e40076a9af08.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 740,
+   "file": "11-1023-740.bd743ea8e5a4.pmtiles",
+   "bytes": 179443,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1023-740.bd743ea8e5a4.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 730,
+   "file": "11-1024-730.87ab22090eaa.pmtiles",
+   "bytes": 274344,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-730.87ab22090eaa.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 731,
+   "file": "11-1024-731.4d46e7271e76.pmtiles",
+   "bytes": 2463522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-731.4d46e7271e76.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 732,
+   "file": "11-1024-732.7ee285bdc2a0.pmtiles",
+   "bytes": 721880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-732.7ee285bdc2a0.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 733,
+   "file": "11-1024-733.4f38191e06d2.pmtiles",
+   "bytes": 596746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-733.4f38191e06d2.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 734,
+   "file": "11-1024-734.66db35b2dc7c.pmtiles",
+   "bytes": 651522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-734.66db35b2dc7c.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 735,
+   "file": "11-1024-735.1aa57fe40671.pmtiles",
+   "bytes": 546635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-735.1aa57fe40671.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 736,
+   "file": "11-1024-736.79f667182cfa.pmtiles",
+   "bytes": 769812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-736.79f667182cfa.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 737,
+   "file": "11-1024-737.60c512dfc110.pmtiles",
+   "bytes": 762834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-737.60c512dfc110.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 738,
+   "file": "11-1024-738.58a9d59afa74.pmtiles",
+   "bytes": 985097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-738.58a9d59afa74.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 739,
+   "file": "11-1024-739.bdf1bb0bf331.pmtiles",
+   "bytes": 729176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-739.bdf1bb0bf331.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 740,
+   "file": "11-1024-740.9e4a51616357.pmtiles",
+   "bytes": 246583,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1024-740.9e4a51616357.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 730,
+   "file": "11-1025-730.c1e8127e210b.pmtiles",
+   "bytes": 257775,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-730.c1e8127e210b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 731,
+   "file": "11-1025-731.e75c8c2163a0.pmtiles",
+   "bytes": 1658376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-731.e75c8c2163a0.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 732,
+   "file": "11-1025-732.e8408b3d3f14.pmtiles",
+   "bytes": 622814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-732.e8408b3d3f14.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 733,
+   "file": "11-1025-733.cc98270f32d2.pmtiles",
+   "bytes": 577860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-733.cc98270f32d2.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 734,
+   "file": "11-1025-734.b868d309fbd3.pmtiles",
+   "bytes": 914851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-734.b868d309fbd3.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 735,
+   "file": "11-1025-735.f30bda14ba66.pmtiles",
+   "bytes": 585667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-735.f30bda14ba66.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 736,
+   "file": "11-1025-736.1e09720dc4a0.pmtiles",
+   "bytes": 674790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-736.1e09720dc4a0.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 737,
+   "file": "11-1025-737.3bfce80b7385.pmtiles",
+   "bytes": 804823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-737.3bfce80b7385.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 738,
+   "file": "11-1025-738.40db2a5d4382.pmtiles",
+   "bytes": 1192968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-738.40db2a5d4382.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 739,
+   "file": "11-1025-739.912b0a66a6e7.pmtiles",
+   "bytes": 821228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-739.912b0a66a6e7.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 740,
+   "file": "11-1025-740.9d87c223fd08.pmtiles",
+   "bytes": 163518,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1025-740.9d87c223fd08.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 730,
+   "file": "11-1026-730.a27e3b743a97.pmtiles",
+   "bytes": 189012,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-730.a27e3b743a97.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 731,
+   "file": "11-1026-731.d42fe4804c48.pmtiles",
+   "bytes": 838830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-731.d42fe4804c48.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 732,
+   "file": "11-1026-732.487d97a4e679.pmtiles",
+   "bytes": 530047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-732.487d97a4e679.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 733,
+   "file": "11-1026-733.5e1588257498.pmtiles",
+   "bytes": 628044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-733.5e1588257498.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 734,
+   "file": "11-1026-734.621abfa3146f.pmtiles",
+   "bytes": 816870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-734.621abfa3146f.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 735,
+   "file": "11-1026-735.efdd334ea86e.pmtiles",
+   "bytes": 907427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-735.efdd334ea86e.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 736,
+   "file": "11-1026-736.c9771f3b7e71.pmtiles",
+   "bytes": 940876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-736.c9771f3b7e71.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 737,
+   "file": "11-1026-737.80bc3588c361.pmtiles",
+   "bytes": 1363032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-737.80bc3588c361.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 738,
+   "file": "11-1026-738.961ef867c059.pmtiles",
+   "bytes": 1164323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-738.961ef867c059.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 739,
+   "file": "11-1026-739.5a197187dc4b.pmtiles",
+   "bytes": 866779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-739.5a197187dc4b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 740,
+   "file": "11-1026-740.788b831b02dd.pmtiles",
+   "bytes": 157091,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1026-740.788b831b02dd.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 730,
+   "file": "11-1027-730.d2be4f84aa78.pmtiles",
+   "bytes": 186533,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-730.d2be4f84aa78.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 731,
+   "file": "11-1027-731.ff08a965a7f1.pmtiles",
+   "bytes": 762696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-731.ff08a965a7f1.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 732,
+   "file": "11-1027-732.be38fb77fce3.pmtiles",
+   "bytes": 697218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-732.be38fb77fce3.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 733,
+   "file": "11-1027-733.e13618eca86a.pmtiles",
+   "bytes": 732900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-733.e13618eca86a.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 734,
+   "file": "11-1027-734.767d12173852.pmtiles",
+   "bytes": 884590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-734.767d12173852.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 735,
+   "file": "11-1027-735.237d81c0b439.pmtiles",
+   "bytes": 1482611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-735.237d81c0b439.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 736,
+   "file": "11-1027-736.884f86743fee.pmtiles",
+   "bytes": 825718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-736.884f86743fee.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 737,
+   "file": "11-1027-737.0ce3006ede8f.pmtiles",
+   "bytes": 933649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-737.0ce3006ede8f.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 738,
+   "file": "11-1027-738.3e81c6ee9c31.pmtiles",
+   "bytes": 827237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-738.3e81c6ee9c31.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 739,
+   "file": "11-1027-739.8721dcaeff38.pmtiles",
+   "bytes": 687050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-739.8721dcaeff38.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 740,
+   "file": "11-1027-740.7b379a52d62e.pmtiles",
+   "bytes": 168416,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1027-740.7b379a52d62e.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 730,
+   "file": "11-1028-730.eaa80fb02215.pmtiles",
+   "bytes": 219377,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-730.eaa80fb02215.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 731,
+   "file": "11-1028-731.8dad6152bd07.pmtiles",
+   "bytes": 747354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-731.8dad6152bd07.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 732,
+   "file": "11-1028-732.b93145b9fd64.pmtiles",
+   "bytes": 737454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-732.b93145b9fd64.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 733,
+   "file": "11-1028-733.2895965b4ef3.pmtiles",
+   "bytes": 713734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-733.2895965b4ef3.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 734,
+   "file": "11-1028-734.484b2cfa1b78.pmtiles",
+   "bytes": 837587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-734.484b2cfa1b78.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 735,
+   "file": "11-1028-735.32ae501e0919.pmtiles",
+   "bytes": 1729370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-735.32ae501e0919.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 736,
+   "file": "11-1028-736.575742e6da99.pmtiles",
+   "bytes": 745201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-736.575742e6da99.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 737,
+   "file": "11-1028-737.896ef4f576cf.pmtiles",
+   "bytes": 883131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-737.896ef4f576cf.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 738,
+   "file": "11-1028-738.15e206931a2d.pmtiles",
+   "bytes": 863655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-738.15e206931a2d.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 739,
+   "file": "11-1028-739.01ad3a452d4f.pmtiles",
+   "bytes": 692051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-739.01ad3a452d4f.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 740,
+   "file": "11-1028-740.c95870ca0661.pmtiles",
+   "bytes": 176177,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1028-740.c95870ca0661.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 730,
+   "file": "11-1029-730.33d731abd097.pmtiles",
+   "bytes": 186073,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-730.33d731abd097.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 731,
+   "file": "11-1029-731.2326b48c1ab5.pmtiles",
+   "bytes": 902070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-731.2326b48c1ab5.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 732,
+   "file": "11-1029-732.66e185cd3932.pmtiles",
+   "bytes": 768326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-732.66e185cd3932.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 733,
+   "file": "11-1029-733.666560b87ddc.pmtiles",
+   "bytes": 948867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-733.666560b87ddc.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 734,
+   "file": "11-1029-734.867b4e3988c6.pmtiles",
+   "bytes": 722111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-734.867b4e3988c6.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 735,
+   "file": "11-1029-735.dd96744e88f4.pmtiles",
+   "bytes": 664240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-735.dd96744e88f4.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 736,
+   "file": "11-1029-736.0a2268b5e128.pmtiles",
+   "bytes": 744712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-736.0a2268b5e128.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 737,
+   "file": "11-1029-737.1bce91911dc3.pmtiles",
+   "bytes": 1161761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-737.1bce91911dc3.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 738,
+   "file": "11-1029-738.a27bd0af0aa4.pmtiles",
+   "bytes": 870407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-738.a27bd0af0aa4.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 739,
+   "file": "11-1029-739.e2a76ebfd9b3.pmtiles",
+   "bytes": 622322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-739.e2a76ebfd9b3.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 740,
+   "file": "11-1029-740.a92e451fb7cc.pmtiles",
+   "bytes": 231891,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1029-740.a92e451fb7cc.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 730,
+   "file": "11-1030-730.4b74399988e0.pmtiles",
+   "bytes": 188051,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-730.4b74399988e0.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 731,
+   "file": "11-1030-731.cbde60566c99.pmtiles",
+   "bytes": 814796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-731.cbde60566c99.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 732,
+   "file": "11-1030-732.9594be603861.pmtiles",
+   "bytes": 833524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-732.9594be603861.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 733,
+   "file": "11-1030-733.ef881fc605b7.pmtiles",
+   "bytes": 754634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-733.ef881fc605b7.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 734,
+   "file": "11-1030-734.1d1c8b819270.pmtiles",
+   "bytes": 783789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-734.1d1c8b819270.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 735,
+   "file": "11-1030-735.175370f53ff0.pmtiles",
+   "bytes": 845772,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-735.175370f53ff0.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 736,
+   "file": "11-1030-736.f5cc56b3ff32.pmtiles",
+   "bytes": 849250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-736.f5cc56b3ff32.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 737,
+   "file": "11-1030-737.de2396107d5f.pmtiles",
+   "bytes": 1148644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-737.de2396107d5f.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 738,
+   "file": "11-1030-738.e177d7eeed04.pmtiles",
+   "bytes": 1092638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-738.e177d7eeed04.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 739,
+   "file": "11-1030-739.e78b8919a20e.pmtiles",
+   "bytes": 732687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-739.e78b8919a20e.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 740,
+   "file": "11-1030-740.c8c484bab040.pmtiles",
+   "bytes": 251047,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1030-740.c8c484bab040.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 730,
+   "file": "11-1031-730.0c3a8d4bd0f7.pmtiles",
+   "bytes": 226861,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-730.0c3a8d4bd0f7.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 731,
+   "file": "11-1031-731.30c71b5751e8.pmtiles",
+   "bytes": 722317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-731.30c71b5751e8.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 732,
+   "file": "11-1031-732.b82bdaf7fc28.pmtiles",
+   "bytes": 636656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-732.b82bdaf7fc28.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 733,
+   "file": "11-1031-733.ebc4e911c944.pmtiles",
+   "bytes": 841763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-733.ebc4e911c944.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 734,
+   "file": "11-1031-734.dacb94bf6507.pmtiles",
+   "bytes": 807460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-734.dacb94bf6507.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 735,
+   "file": "11-1031-735.8891d9f746b9.pmtiles",
+   "bytes": 884726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-735.8891d9f746b9.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 736,
+   "file": "11-1031-736.b5fcee5151a3.pmtiles",
+   "bytes": 792934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-736.b5fcee5151a3.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 737,
+   "file": "11-1031-737.3aaf0efa0ad2.pmtiles",
+   "bytes": 1075044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-737.3aaf0efa0ad2.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 738,
+   "file": "11-1031-738.c36081687d57.pmtiles",
+   "bytes": 1303615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-738.c36081687d57.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 739,
+   "file": "11-1031-739.da81b1fa6d24.pmtiles",
+   "bytes": 1220866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-739.da81b1fa6d24.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 740,
+   "file": "11-1031-740.cb62e5132403.pmtiles",
+   "bytes": 307458,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1031-740.cb62e5132403.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 730,
+   "file": "11-1032-730.9a2f35ca6767.pmtiles",
+   "bytes": 102216,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-730.9a2f35ca6767.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 731,
+   "file": "11-1032-731.ffb857950d22.pmtiles",
+   "bytes": 275259,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-731.ffb857950d22.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 732,
+   "file": "11-1032-732.5018736a9710.pmtiles",
+   "bytes": 233081,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-732.5018736a9710.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 733,
+   "file": "11-1032-733.ec464a80cd71.pmtiles",
+   "bytes": 262155,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-733.ec464a80cd71.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 734,
+   "file": "11-1032-734.fe8e676aa611.pmtiles",
+   "bytes": 378421,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-734.fe8e676aa611.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 735,
+   "file": "11-1032-735.762338d71e87.pmtiles",
+   "bytes": 398616,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-735.762338d71e87.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 736,
+   "file": "11-1032-736.95e6ab734898.pmtiles",
+   "bytes": 240301,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-736.95e6ab734898.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 737,
+   "file": "11-1032-737.4a80388a0ec5.pmtiles",
+   "bytes": 274105,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-737.4a80388a0ec5.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 738,
+   "file": "11-1032-738.32aacd714898.pmtiles",
+   "bytes": 389219,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-738.32aacd714898.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 739,
+   "file": "11-1032-739.2f260c99123e.pmtiles",
+   "bytes": 325314,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-739.2f260c99123e.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 740,
+   "file": "11-1032-740.fb5068c26d2c.pmtiles",
+   "bytes": 132610,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-dordogne-2026-10-03/11-1032-740.fb5068c26d2c.pmtiles"
+  }
+ ]
+}

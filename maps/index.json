@@ -1,7 +1,7 @@
 {
  "format": "fogbound-maps-index",
  "version": 1,
- "builtAt": "2026-10-04T18:35:53.005Z",
+ "builtAt": "2026-10-04T19:48:02.861Z",
  "regions": {
   "at-burgenland": {
    "bytes": 48005235,
@@ -413,6 +413,11 @@
    "files": 81,
    "publishedAt": "2026-10-04T15:45:49.471Z"
   },
+  "fr-aisne": {
+   "bytes": 58037357,
+   "files": 108,
+   "publishedAt": "2026-10-04T18:36:55.119Z"
+  },
   "fr-allier": {
    "bytes": 59836793,
    "files": 100,
@@ -453,6 +458,11 @@
    "files": 77,
    "publishedAt": "2026-10-04T14:42:15.275Z"
   },
+  "fr-aveyron": {
+   "bytes": 82701866,
+   "files": 111,
+   "publishedAt": "2026-10-04T19:44:47.797Z"
+  },
   "fr-bas-rhin": {
    "bytes": 52910783,
    "files": 61,
@@ -472,6 +482,11 @@
    "bytes": 41598525,
    "files": 73,
    "publishedAt": "2026-10-04T14:37:23.117Z"
+  },
+  "fr-charente-maritime": {
+   "bytes": 85164660,
+   "files": 113,
+   "publishedAt": "2026-10-04T19:44:15.560Z"
   },
   "fr-charente": {
    "bytes": 58123714,
@@ -493,6 +508,16 @@
    "files": 46,
    "publishedAt": "2026-10-04T13:31:00.806Z"
   },
+  "fr-cote-d-or": {
+   "bytes": 57349006,
+   "files": 100,
+   "publishedAt": "2026-10-04T18:38:48.859Z"
+  },
+  "fr-cotes-d-armor": {
+   "bytes": 77114638,
+   "files": 80,
+   "publishedAt": "2026-10-04T18:41:34.195Z"
+  },
   "fr-creuse": {
    "bytes": 46914038,
    "files": 65,
@@ -502,6 +527,11 @@
    "bytes": 60948456,
    "files": 81,
    "publishedAt": "2026-10-04T14:43:41.309Z"
+  },
+  "fr-dordogne": {
+   "bytes": 79067913,
+   "files": 111,
+   "publishedAt": "2026-10-04T18:39:19.943Z"
   },
   "fr-doubs": {
    "bytes": 46090395,
@@ -528,15 +558,35 @@
    "files": 81,
    "publishedAt": "2026-10-04T14:40:28.054Z"
   },
+  "fr-finistere": {
+   "bytes": 80607466,
+   "files": 85,
+   "publishedAt": "2026-10-04T18:41:09.402Z"
+  },
+  "fr-gard": {
+   "bytes": 91418343,
+   "files": 81,
+   "publishedAt": "2026-10-04T18:35:58.071Z"
+  },
   "fr-gers": {
    "bytes": 58534370,
    "files": 64,
    "publishedAt": "2026-10-04T14:37:42.356Z"
   },
+  "fr-gironde": {
+   "bytes": 90973878,
+   "files": 124,
+   "publishedAt": "2026-10-04T19:45:57.336Z"
+  },
   "fr-guadeloupe": {
    "bytes": 11612798,
    "files": 20,
    "publishedAt": "2026-10-04T13:28:57.262Z"
+  },
+  "fr-guyane": {
+   "bytes": 16481985,
+   "files": 235,
+   "publishedAt": "2026-10-04T19:48:02.788Z"
   },
   "fr-haut-rhin": {
    "bytes": 43504154,
@@ -547,6 +597,11 @@
    "bytes": 20380105,
    "files": 54,
    "publishedAt": "2026-10-04T14:39:23.460Z"
+  },
+  "fr-haute-garonne": {
+   "bytes": 101796157,
+   "files": 101,
+   "publishedAt": "2026-10-04T19:43:42.346Z"
   },
   "fr-haute-loire": {
    "bytes": 47441609,
@@ -608,6 +663,11 @@
    "files": 73,
    "publishedAt": "2026-10-04T14:41:29.247Z"
   },
+  "fr-isere": {
+   "bytes": 136364161,
+   "files": 122,
+   "publishedAt": "2026-10-04T18:42:10.354Z"
+  },
   "fr-jura": {
    "bytes": 55799815,
    "files": 71,
@@ -618,10 +678,20 @@
    "files": 15,
    "publishedAt": "2026-10-04T13:27:43.881Z"
   },
+  "fr-landes": {
+   "bytes": 53414631,
+   "files": 85,
+   "publishedAt": "2026-10-04T18:40:11.133Z"
+  },
   "fr-loir-et-cher": {
    "bytes": 77205897,
    "files": 91,
    "publishedAt": "2026-10-04T17:45:36.706Z"
+  },
+  "fr-loire-atlantique": {
+   "bytes": 103032389,
+   "files": 86,
+   "publishedAt": "2026-10-04T18:38:19.738Z"
   },
   "fr-loire": {
    "bytes": 82152425,
@@ -683,15 +753,35 @@
    "files": 13,
    "publishedAt": "2026-10-04T13:26:16.204Z"
   },
+  "fr-meurthe-et-moselle": {
+   "bytes": 73542959,
+   "files": 111,
+   "publishedAt": "2026-10-04T19:45:19.726Z"
+  },
   "fr-meuse": {
    "bytes": 30392527,
    "files": 82,
    "publishedAt": "2026-10-04T14:38:47.189Z"
   },
+  "fr-morbihan": {
+   "bytes": 78048237,
+   "files": 83,
+   "publishedAt": "2026-10-04T18:36:25.288Z"
+  },
+  "fr-moselle": {
+   "bytes": 64952013,
+   "files": 90,
+   "publishedAt": "2026-10-04T18:39:46.367Z"
+  },
   "fr-nievre": {
    "bytes": 44763262,
    "files": 82,
    "publishedAt": "2026-10-04T14:44:24.367Z"
+  },
+  "fr-nord": {
+   "bytes": 107835629,
+   "files": 100,
+   "publishedAt": "2026-10-04T19:46:30.021Z"
   },
   "fr-oise": {
    "bytes": 48483875,
@@ -707,6 +797,11 @@
    "bytes": 23482943,
    "files": 4,
    "publishedAt": "2026-10-04T13:25:14.129Z"
+  },
+  "fr-pas-de-calais": {
+   "bytes": 95910804,
+   "files": 99,
+   "publishedAt": "2026-10-04T18:37:25.923Z"
   },
   "fr-puy-de-dome": {
    "bytes": 74992790,
@@ -727,6 +822,11 @@
    "bytes": 79063507,
    "files": 49,
    "publishedAt": "2026-10-04T13:29:28.153Z"
+  },
+  "fr-saone-et-loire": {
+   "bytes": 112849183,
+   "files": 109,
+   "publishedAt": "2026-10-04T18:40:43.609Z"
   },
   "fr-sarthe": {
    "bytes": 66165433,
@@ -807,6 +907,11 @@
    "bytes": 46769961,
    "files": 78,
    "publishedAt": "2026-10-04T14:42:56.473Z"
+  },
+  "fr-yonne": {
+   "bytes": 54009545,
+   "files": 91,
+   "publishedAt": "2026-10-04T18:37:52.425Z"
   },
   "fr-yvelines": {
    "bytes": 51635881,

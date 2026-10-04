@@ -1,0 +1,685 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-morbihan",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:35:58.616Z",
+ "publishedAt": "2026-10-04T18:36:25.288Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-morbihan-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.73508,
+  47.27775,
+  -2.03543,
+  48.21078
+ ],
+ "overview": {
+  "file": "overview.cf541ba8a022.pmtiles",
+  "bytes": 3347706,
+  "tiles": 55,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/overview.cf541ba8a022.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1002,
+   "y": 710,
+   "file": "11-1002-710.59d57510c7d9.pmtiles",
+   "bytes": 277931,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1002-710.59d57510c7d9.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 711,
+   "file": "11-1002-711.2cd3b473f1cf.pmtiles",
+   "bytes": 265567,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1002-711.2cd3b473f1cf.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 712,
+   "file": "11-1002-712.2158c53d24d9.pmtiles",
+   "bytes": 299812,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1002-712.2158c53d24d9.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 713,
+   "file": "11-1002-713.901b434420f1.pmtiles",
+   "bytes": 344345,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1002-713.901b434420f1.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 710,
+   "file": "11-1003-710.f03e3d241def.pmtiles",
+   "bytes": 901001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1003-710.f03e3d241def.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 711,
+   "file": "11-1003-711.30f340963422.pmtiles",
+   "bytes": 808510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1003-711.30f340963422.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 712,
+   "file": "11-1003-712.a6316f3fcaa9.pmtiles",
+   "bytes": 1129200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1003-712.a6316f3fcaa9.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 713,
+   "file": "11-1003-713.8ef2df105584.pmtiles",
+   "bytes": 1589178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1003-713.8ef2df105584.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 714,
+   "file": "11-1003-714.af6383bedc7a.pmtiles",
+   "bytes": 44448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1003-714.af6383bedc7a.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 710,
+   "file": "11-1004-710.fd7f44b5503d.pmtiles",
+   "bytes": 818072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-710.fd7f44b5503d.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 711,
+   "file": "11-1004-711.939ad269cfca.pmtiles",
+   "bytes": 1001469,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-711.939ad269cfca.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 712,
+   "file": "11-1004-712.c9e948c15cbc.pmtiles",
+   "bytes": 960462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-712.c9e948c15cbc.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 713,
+   "file": "11-1004-713.c4248cd258ac.pmtiles",
+   "bytes": 2097330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-713.c4248cd258ac.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 714,
+   "file": "11-1004-714.474a02b2e0b6.pmtiles",
+   "bytes": 1882634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-714.474a02b2e0b6.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 715,
+   "file": "11-1004-715.f1aed47f7abb.pmtiles",
+   "bytes": 117941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1004-715.f1aed47f7abb.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 710,
+   "file": "11-1005-710.0c54b6fbc4fd.pmtiles",
+   "bytes": 943764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-710.0c54b6fbc4fd.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 711,
+   "file": "11-1005-711.d9868bb34ef4.pmtiles",
+   "bytes": 1037764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-711.d9868bb34ef4.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 712,
+   "file": "11-1005-712.6ae5814b4454.pmtiles",
+   "bytes": 1002510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-712.6ae5814b4454.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 713,
+   "file": "11-1005-713.3262c7f5c510.pmtiles",
+   "bytes": 1897712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-713.3262c7f5c510.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 714,
+   "file": "11-1005-714.996b4d3883d4.pmtiles",
+   "bytes": 1524379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-714.996b4d3883d4.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 715,
+   "file": "11-1005-715.d177321c3d52.pmtiles",
+   "bytes": 75091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-715.d177321c3d52.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 716,
+   "file": "11-1005-716.cccf63748a41.pmtiles",
+   "bytes": 17977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-716.cccf63748a41.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 717,
+   "file": "11-1005-717.10078d3aa28e.pmtiles",
+   "bytes": 605800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1005-717.10078d3aa28e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 710,
+   "file": "11-1006-710.fa667af0fa62.pmtiles",
+   "bytes": 792830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-710.fa667af0fa62.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 711,
+   "file": "11-1006-711.07558a29b507.pmtiles",
+   "bytes": 874638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-711.07558a29b507.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 712,
+   "file": "11-1006-712.facab9fba554.pmtiles",
+   "bytes": 1265836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-712.facab9fba554.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 713,
+   "file": "11-1006-713.73ad0844cfdd.pmtiles",
+   "bytes": 1264331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-713.73ad0844cfdd.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 714,
+   "file": "11-1006-714.166e6dd4a4d7.pmtiles",
+   "bytes": 1508973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-714.166e6dd4a4d7.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 715,
+   "file": "11-1006-715.7a89ad3cd600.pmtiles",
+   "bytes": 1316834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-715.7a89ad3cd600.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 716,
+   "file": "11-1006-716.fd80759496b4.pmtiles",
+   "bytes": 524023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-716.fd80759496b4.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 717,
+   "file": "11-1006-717.b907e4e69bac.pmtiles",
+   "bytes": 478345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1006-717.b907e4e69bac.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 710,
+   "file": "11-1007-710.1c4eecd22a2e.pmtiles",
+   "bytes": 783729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-710.1c4eecd22a2e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 711,
+   "file": "11-1007-711.cf25a201d808.pmtiles",
+   "bytes": 1111489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-711.cf25a201d808.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 712,
+   "file": "11-1007-712.3ed752eb51ed.pmtiles",
+   "bytes": 1038293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-712.3ed752eb51ed.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 713,
+   "file": "11-1007-713.4dfe92e1fb4f.pmtiles",
+   "bytes": 992652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-713.4dfe92e1fb4f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 714,
+   "file": "11-1007-714.4a4a3de101af.pmtiles",
+   "bytes": 1544468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-714.4a4a3de101af.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 715,
+   "file": "11-1007-715.462ba211b36e.pmtiles",
+   "bytes": 1701570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-715.462ba211b36e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 716,
+   "file": "11-1007-716.c64693962a03.pmtiles",
+   "bytes": 238560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-716.c64693962a03.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 717,
+   "file": "11-1007-717.ce54db29fc27.pmtiles",
+   "bytes": 155157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1007-717.ce54db29fc27.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 710,
+   "file": "11-1008-710.dd23079bd644.pmtiles",
+   "bytes": 990879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-710.dd23079bd644.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 711,
+   "file": "11-1008-711.b7fa589d0ed3.pmtiles",
+   "bytes": 776040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-711.b7fa589d0ed3.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 712,
+   "file": "11-1008-712.56604ac76413.pmtiles",
+   "bytes": 887957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-712.56604ac76413.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 713,
+   "file": "11-1008-713.cbaf072fb752.pmtiles",
+   "bytes": 1001309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-713.cbaf072fb752.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 714,
+   "file": "11-1008-714.c1cb2681e413.pmtiles",
+   "bytes": 2597007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-714.c1cb2681e413.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 715,
+   "file": "11-1008-715.e412ec515e92.pmtiles",
+   "bytes": 1666625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-715.e412ec515e92.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 716,
+   "file": "11-1008-716.9dd518ebfa93.pmtiles",
+   "bytes": 399128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1008-716.9dd518ebfa93.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 710,
+   "file": "11-1009-710.2c2c4af62978.pmtiles",
+   "bytes": 898461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-710.2c2c4af62978.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 711,
+   "file": "11-1009-711.4a4a16464e35.pmtiles",
+   "bytes": 615715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-711.4a4a16464e35.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 712,
+   "file": "11-1009-712.6e557436734d.pmtiles",
+   "bytes": 1115635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-712.6e557436734d.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 713,
+   "file": "11-1009-713.26a8c990d37d.pmtiles",
+   "bytes": 873873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-713.26a8c990d37d.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 714,
+   "file": "11-1009-714.2d1e5ed99a8c.pmtiles",
+   "bytes": 1180675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-714.2d1e5ed99a8c.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 715,
+   "file": "11-1009-715.2eb315935a31.pmtiles",
+   "bytes": 1247359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-715.2eb315935a31.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 716,
+   "file": "11-1009-716.6ba65b84e3b4.pmtiles",
+   "bytes": 561918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-716.6ba65b84e3b4.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 717,
+   "file": "11-1009-717.1da1568acbef.pmtiles",
+   "bytes": 1091834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-717.1da1568acbef.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 718,
+   "file": "11-1009-718.3021106dc58b.pmtiles",
+   "bytes": 124599,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1009-718.3021106dc58b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 710,
+   "file": "11-1010-710.36e98a0f7f90.pmtiles",
+   "bytes": 757297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-710.36e98a0f7f90.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 711,
+   "file": "11-1010-711.5710c205a261.pmtiles",
+   "bytes": 743408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-711.5710c205a261.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 712,
+   "file": "11-1010-712.00cdf54f8fe7.pmtiles",
+   "bytes": 1144846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-712.00cdf54f8fe7.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 713,
+   "file": "11-1010-713.1fe7209e041f.pmtiles",
+   "bytes": 1069301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-713.1fe7209e041f.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 714,
+   "file": "11-1010-714.82da5bbb87dd.pmtiles",
+   "bytes": 1234031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-714.82da5bbb87dd.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 715,
+   "file": "11-1010-715.df2a073abfa5.pmtiles",
+   "bytes": 990096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-715.df2a073abfa5.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 716,
+   "file": "11-1010-716.da344fc72702.pmtiles",
+   "bytes": 1096495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-716.da344fc72702.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 717,
+   "file": "11-1010-717.874face1bcf6.pmtiles",
+   "bytes": 2017296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-717.874face1bcf6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 718,
+   "file": "11-1010-718.9091a6c4adcf.pmtiles",
+   "bytes": 542078,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1010-718.9091a6c4adcf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 710,
+   "file": "11-1011-710.51642e88653b.pmtiles",
+   "bytes": 941761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-710.51642e88653b.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 711,
+   "file": "11-1011-711.77db57c0166f.pmtiles",
+   "bytes": 759504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-711.77db57c0166f.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 712,
+   "file": "11-1011-712.3a2150667dd5.pmtiles",
+   "bytes": 878594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-712.3a2150667dd5.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 713,
+   "file": "11-1011-713.7b7bba521aa5.pmtiles",
+   "bytes": 929402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-713.7b7bba521aa5.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 714,
+   "file": "11-1011-714.47c4ae442c49.pmtiles",
+   "bytes": 1287110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-714.47c4ae442c49.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 715,
+   "file": "11-1011-715.65bbf27daabf.pmtiles",
+   "bytes": 913389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-715.65bbf27daabf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 716,
+   "file": "11-1011-716.6ff549849fd3.pmtiles",
+   "bytes": 942815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-716.6ff549849fd3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 717,
+   "file": "11-1011-717.d94f73fa7896.pmtiles",
+   "bytes": 1688034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-717.d94f73fa7896.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 718,
+   "file": "11-1011-718.d23a5cbef9e6.pmtiles",
+   "bytes": 564982,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1011-718.d23a5cbef9e6.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 710,
+   "file": "11-1012-710.45f7802ccbae.pmtiles",
+   "bytes": 705057,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-710.45f7802ccbae.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 711,
+   "file": "11-1012-711.868e9eda6918.pmtiles",
+   "bytes": 489942,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-711.868e9eda6918.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 712,
+   "file": "11-1012-712.fc5000a49773.pmtiles",
+   "bytes": 447989,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-712.fc5000a49773.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 713,
+   "file": "11-1012-713.fac40eff74e5.pmtiles",
+   "bytes": 511644,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-713.fac40eff74e5.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 714,
+   "file": "11-1012-714.30cdf6afcf1f.pmtiles",
+   "bytes": 802742,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-714.30cdf6afcf1f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 715,
+   "file": "11-1012-715.3aebcfde8ff0.pmtiles",
+   "bytes": 538462,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-715.3aebcfde8ff0.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 716,
+   "file": "11-1012-716.077ebb251bfb.pmtiles",
+   "bytes": 625238,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-716.077ebb251bfb.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 717,
+   "file": "11-1012-717.ab2129764788.pmtiles",
+   "bytes": 693400,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-717.ab2129764788.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 718,
+   "file": "11-1012-718.aaac724dcee7.pmtiles",
+   "bytes": 121979,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-morbihan-2026-10-03/11-1012-718.aaac724dcee7.pmtiles"
+  }
+ ]
+}

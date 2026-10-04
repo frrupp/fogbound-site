@@ -1,0 +1,741 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-moselle",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:39:20.506Z",
+ "publishedAt": "2026-10-04T18:39:46.367Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-moselle-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.89185,
+  48.52656,
+  7.63882,
+  49.51494
+ ],
+ "overview": {
+  "file": "overview.22abd78bd50e.pmtiles",
+  "bytes": 3269819,
+  "tiles": 54,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/overview.22abd78bd50e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1057,
+   "y": 698,
+   "file": "11-1057-698.a5bec855182c.pmtiles",
+   "bytes": 93648,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-698.a5bec855182c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 699,
+   "file": "11-1057-699.a8cd37a58abc.pmtiles",
+   "bytes": 829886,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-699.a8cd37a58abc.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 700,
+   "file": "11-1057-700.e3861824241f.pmtiles",
+   "bytes": 409001,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-700.e3861824241f.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 701,
+   "file": "11-1057-701.0bbc53a14b81.pmtiles",
+   "bytes": 526524,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-701.0bbc53a14b81.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 702,
+   "file": "11-1057-702.8401399f6562.pmtiles",
+   "bytes": 212554,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-702.8401399f6562.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 703,
+   "file": "11-1057-703.8b3414cd530e.pmtiles",
+   "bytes": 217698,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-703.8b3414cd530e.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 704,
+   "file": "11-1057-704.b9cd3445a4ec.pmtiles",
+   "bytes": 254575,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-704.b9cd3445a4ec.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 705,
+   "file": "11-1057-705.d14c34dbffb9.pmtiles",
+   "bytes": 418676,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-705.d14c34dbffb9.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 706,
+   "file": "11-1057-706.47e2a5ac1bba.pmtiles",
+   "bytes": 586360,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-706.47e2a5ac1bba.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 707,
+   "file": "11-1057-707.47085f63e94d.pmtiles",
+   "bytes": 171730,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1057-707.47085f63e94d.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 698,
+   "file": "11-1058-698.73ce6e8424fd.pmtiles",
+   "bytes": 26600,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-698.73ce6e8424fd.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 699,
+   "file": "11-1058-699.47cfce34294a.pmtiles",
+   "bytes": 848329,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-699.47cfce34294a.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 700,
+   "file": "11-1058-700.8fca03e319cf.pmtiles",
+   "bytes": 1732633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-700.8fca03e319cf.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 701,
+   "file": "11-1058-701.95f6ce81cbb5.pmtiles",
+   "bytes": 1671096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-701.95f6ce81cbb5.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 702,
+   "file": "11-1058-702.254598d8bc56.pmtiles",
+   "bytes": 1694394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-702.254598d8bc56.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 703,
+   "file": "11-1058-703.d3aa22b50b86.pmtiles",
+   "bytes": 832087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-703.d3aa22b50b86.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 704,
+   "file": "11-1058-704.ad5f8ea1ea2a.pmtiles",
+   "bytes": 1039786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-704.ad5f8ea1ea2a.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 705,
+   "file": "11-1058-705.a658e776c7f0.pmtiles",
+   "bytes": 1097943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-705.a658e776c7f0.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 706,
+   "file": "11-1058-706.53cc77982e0e.pmtiles",
+   "bytes": 1091068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-706.53cc77982e0e.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 707,
+   "file": "11-1058-707.db4c148bcefa.pmtiles",
+   "bytes": 292398,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1058-707.db4c148bcefa.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 698,
+   "file": "11-1059-698.744432604a5e.pmtiles",
+   "bytes": 167265,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-698.744432604a5e.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 699,
+   "file": "11-1059-699.90396d6c600b.pmtiles",
+   "bytes": 968598,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-699.90396d6c600b.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 700,
+   "file": "11-1059-700.9f6f264543ad.pmtiles",
+   "bytes": 1580392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-700.9f6f264543ad.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 701,
+   "file": "11-1059-701.851f54ff21cb.pmtiles",
+   "bytes": 1268477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-701.851f54ff21cb.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 702,
+   "file": "11-1059-702.46684d572320.pmtiles",
+   "bytes": 2939759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-702.46684d572320.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 703,
+   "file": "11-1059-703.69220a5a196e.pmtiles",
+   "bytes": 571963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-703.69220a5a196e.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 704,
+   "file": "11-1059-704.24a1926f28ae.pmtiles",
+   "bytes": 485161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-704.24a1926f28ae.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 705,
+   "file": "11-1059-705.1cdc0640a34e.pmtiles",
+   "bytes": 1868660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-705.1cdc0640a34e.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 706,
+   "file": "11-1059-706.aae8cfb83dcd.pmtiles",
+   "bytes": 2496390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-706.aae8cfb83dcd.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 707,
+   "file": "11-1059-707.64bcff484a59.pmtiles",
+   "bytes": 342787,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1059-707.64bcff484a59.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 699,
+   "file": "11-1060-699.f603e6c19ff5.pmtiles",
+   "bytes": 687740,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-699.f603e6c19ff5.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 700,
+   "file": "11-1060-700.ee6625410aa9.pmtiles",
+   "bytes": 611002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-700.ee6625410aa9.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 701,
+   "file": "11-1060-701.fb4d69daf81e.pmtiles",
+   "bytes": 547937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-701.fb4d69daf81e.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 702,
+   "file": "11-1060-702.805c5d006d3d.pmtiles",
+   "bytes": 543221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-702.805c5d006d3d.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 703,
+   "file": "11-1060-703.15ed2b2a6cf2.pmtiles",
+   "bytes": 516405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-703.15ed2b2a6cf2.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 704,
+   "file": "11-1060-704.f01056441d50.pmtiles",
+   "bytes": 418993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-704.f01056441d50.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 705,
+   "file": "11-1060-705.7b8339ede426.pmtiles",
+   "bytes": 419171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-705.7b8339ede426.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 706,
+   "file": "11-1060-706.d1f7bef41608.pmtiles",
+   "bytes": 918763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-706.d1f7bef41608.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 707,
+   "file": "11-1060-707.e3741548bd21.pmtiles",
+   "bytes": 396931,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1060-707.e3741548bd21.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 699,
+   "file": "11-1061-699.8688569c280e.pmtiles",
+   "bytes": 84715,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-699.8688569c280e.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 700,
+   "file": "11-1061-700.ff2075ba2312.pmtiles",
+   "bytes": 455433,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-700.ff2075ba2312.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 701,
+   "file": "11-1061-701.4a17957e13c9.pmtiles",
+   "bytes": 715802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-701.4a17957e13c9.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 702,
+   "file": "11-1061-702.a87b8fe7d641.pmtiles",
+   "bytes": 734222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-702.a87b8fe7d641.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 703,
+   "file": "11-1061-703.823d8ad30d4a.pmtiles",
+   "bytes": 473532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-703.823d8ad30d4a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 704,
+   "file": "11-1061-704.084d5ef88fb6.pmtiles",
+   "bytes": 454945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-704.084d5ef88fb6.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 705,
+   "file": "11-1061-705.d20dff7f5daa.pmtiles",
+   "bytes": 393620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-705.d20dff7f5daa.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 706,
+   "file": "11-1061-706.79c1ae026772.pmtiles",
+   "bytes": 469325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-706.79c1ae026772.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 707,
+   "file": "11-1061-707.93caf04a0028.pmtiles",
+   "bytes": 217018,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1061-707.93caf04a0028.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 701,
+   "file": "11-1062-701.551d3993425a.pmtiles",
+   "bytes": 618241,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-701.551d3993425a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 702,
+   "file": "11-1062-702.ba98ba5e8f7e.pmtiles",
+   "bytes": 1224944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-702.ba98ba5e8f7e.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 703,
+   "file": "11-1062-703.4c27ede9d1f6.pmtiles",
+   "bytes": 421316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-703.4c27ede9d1f6.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 704,
+   "file": "11-1062-704.164675ef5814.pmtiles",
+   "bytes": 534001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-704.164675ef5814.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 705,
+   "file": "11-1062-705.df3a03503d38.pmtiles",
+   "bytes": 453675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-705.df3a03503d38.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 706,
+   "file": "11-1062-706.5805d5eaacde.pmtiles",
+   "bytes": 534822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-706.5805d5eaacde.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 707,
+   "file": "11-1062-707.02f48b341a81.pmtiles",
+   "bytes": 251119,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1062-707.02f48b341a81.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 701,
+   "file": "11-1063-701.c958e01b7cd2.pmtiles",
+   "bytes": 1150843,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-701.c958e01b7cd2.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 702,
+   "file": "11-1063-702.dc5ad326d444.pmtiles",
+   "bytes": 863324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-702.dc5ad326d444.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 703,
+   "file": "11-1063-703.2ab62e28cbca.pmtiles",
+   "bytes": 568450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-703.2ab62e28cbca.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 704,
+   "file": "11-1063-704.e629f45fd8ab.pmtiles",
+   "bytes": 436241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-704.e629f45fd8ab.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 705,
+   "file": "11-1063-705.615b5b7777ea.pmtiles",
+   "bytes": 688396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-705.615b5b7777ea.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 706,
+   "file": "11-1063-706.ba0164365440.pmtiles",
+   "bytes": 703335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-706.ba0164365440.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 707,
+   "file": "11-1063-707.7209ada86e00.pmtiles",
+   "bytes": 222994,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1063-707.7209ada86e00.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 701,
+   "file": "11-1064-701.d84e4c8ddd28.pmtiles",
+   "bytes": 97005,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-701.d84e4c8ddd28.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 702,
+   "file": "11-1064-702.1e36049fa076.pmtiles",
+   "bytes": 1123745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-702.1e36049fa076.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 703,
+   "file": "11-1064-703.12bcf33eaff1.pmtiles",
+   "bytes": 672623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-703.12bcf33eaff1.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 704,
+   "file": "11-1064-704.59bfdefd43d8.pmtiles",
+   "bytes": 573332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-704.59bfdefd43d8.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 705,
+   "file": "11-1064-705.a6fe1e8aa868.pmtiles",
+   "bytes": 1083638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-705.a6fe1e8aa868.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 706,
+   "file": "11-1064-706.672932e6a3f3.pmtiles",
+   "bytes": 678557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-706.672932e6a3f3.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 707,
+   "file": "11-1064-707.b9a96d0ecdb8.pmtiles",
+   "bytes": 155069,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1064-707.b9a96d0ecdb8.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 701,
+   "file": "11-1065-701.8bfb5e678203.pmtiles",
+   "bytes": 37505,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-701.8bfb5e678203.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 702,
+   "file": "11-1065-702.c86e159b7c51.pmtiles",
+   "bytes": 582405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-702.c86e159b7c51.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 703,
+   "file": "11-1065-703.db8e17649bab.pmtiles",
+   "bytes": 840530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-703.db8e17649bab.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 704,
+   "file": "11-1065-704.55ebe92c741e.pmtiles",
+   "bytes": 695949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-704.55ebe92c741e.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 705,
+   "file": "11-1065-705.3ee6a3a68fa5.pmtiles",
+   "bytes": 1231100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-705.3ee6a3a68fa5.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 706,
+   "file": "11-1065-706.90deb3989d21.pmtiles",
+   "bytes": 605794,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-706.90deb3989d21.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 707,
+   "file": "11-1065-707.55d585c8af4b.pmtiles",
+   "bytes": 418556,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1065-707.55d585c8af4b.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 701,
+   "file": "11-1066-701.ba5b970650d3.pmtiles",
+   "bytes": 110932,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-701.ba5b970650d3.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 702,
+   "file": "11-1066-702.4bf1f46821f4.pmtiles",
+   "bytes": 687503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-702.4bf1f46821f4.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 703,
+   "file": "11-1066-703.0357d10f3c20.pmtiles",
+   "bytes": 715012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-703.0357d10f3c20.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 704,
+   "file": "11-1066-704.e8eb562e68f5.pmtiles",
+   "bytes": 986735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-704.e8eb562e68f5.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 705,
+   "file": "11-1066-705.c0a71af2b4ad.pmtiles",
+   "bytes": 973151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-705.c0a71af2b4ad.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 706,
+   "file": "11-1066-706.7ae0eacb5c7c.pmtiles",
+   "bytes": 1165305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-706.7ae0eacb5c7c.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 707,
+   "file": "11-1066-707.c2730a69d425.pmtiles",
+   "bytes": 928405,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1066-707.c2730a69d425.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 702,
+   "file": "11-1067-702.ef7001496c7c.pmtiles",
+   "bytes": 145465,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-702.ef7001496c7c.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 703,
+   "file": "11-1067-703.771d246fea12.pmtiles",
+   "bytes": 438525,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-703.771d246fea12.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 704,
+   "file": "11-1067-704.d83c667363e8.pmtiles",
+   "bytes": 543372,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-704.d83c667363e8.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 705,
+   "file": "11-1067-705.f6c6f6fb77dd.pmtiles",
+   "bytes": 574937,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-705.f6c6f6fb77dd.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 706,
+   "file": "11-1067-706.63c794eefb9f.pmtiles",
+   "bytes": 642142,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-706.63c794eefb9f.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 707,
+   "file": "11-1067-707.f0457f1d3d90.pmtiles",
+   "bytes": 507988,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-moselle-2026-10-03/11-1067-707.f0457f1d3d90.pmtiles"
+  }
+ ]
+}

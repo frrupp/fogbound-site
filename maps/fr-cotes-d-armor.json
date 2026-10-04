@@ -1,0 +1,661 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-cotes-d-armor",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T18:41:09.948Z",
+ "publishedAt": "2026-10-04T18:41:34.195Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-cotes-d-armor-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.66589,
+  48.03238,
+  -1.90914,
+  49.1133
+ ],
+ "overview": {
+  "file": "overview.7726d1fec9af.pmtiles",
+  "bytes": 2822762,
+  "tiles": 59,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/overview.7726d1fec9af.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1003,
+   "y": 704,
+   "file": "11-1003-704.5ece7623a8fe.pmtiles",
+   "bytes": 168393,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-704.5ece7623a8fe.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 705,
+   "file": "11-1003-705.fac839058dd4.pmtiles",
+   "bytes": 903929,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-705.fac839058dd4.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 706,
+   "file": "11-1003-706.c8d66c25fc38.pmtiles",
+   "bytes": 1106785,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-706.c8d66c25fc38.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 707,
+   "file": "11-1003-707.3a2db4f7f6f1.pmtiles",
+   "bytes": 944931,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-707.3a2db4f7f6f1.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 708,
+   "file": "11-1003-708.974a7d30e134.pmtiles",
+   "bytes": 954740,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-708.974a7d30e134.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 709,
+   "file": "11-1003-709.d9c042b2bf03.pmtiles",
+   "bytes": 1069144,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-709.d9c042b2bf03.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 710,
+   "file": "11-1003-710.cc5d1ba0931a.pmtiles",
+   "bytes": 849903,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-710.cc5d1ba0931a.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 711,
+   "file": "11-1003-711.3702991b4c01.pmtiles",
+   "bytes": 590823,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1003-711.3702991b4c01.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 704,
+   "file": "11-1004-704.50dced2e96e2.pmtiles",
+   "bytes": 637735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-704.50dced2e96e2.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 705,
+   "file": "11-1004-705.9f0a72965f6e.pmtiles",
+   "bytes": 2183428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-705.9f0a72965f6e.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 706,
+   "file": "11-1004-706.881d7d72ef2a.pmtiles",
+   "bytes": 1116450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-706.881d7d72ef2a.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 707,
+   "file": "11-1004-707.68bebab5abf9.pmtiles",
+   "bytes": 1064925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-707.68bebab5abf9.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 708,
+   "file": "11-1004-708.8b877f918ba8.pmtiles",
+   "bytes": 1223093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-708.8b877f918ba8.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 709,
+   "file": "11-1004-709.2b82d4650b9e.pmtiles",
+   "bytes": 1127072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-709.2b82d4650b9e.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 710,
+   "file": "11-1004-710.fd7f44b5503d.pmtiles",
+   "bytes": 818072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-710.fd7f44b5503d.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 711,
+   "file": "11-1004-711.c66f958e53ff.pmtiles",
+   "bytes": 798362,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1004-711.c66f958e53ff.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 704,
+   "file": "11-1005-704.750450f845da.pmtiles",
+   "bytes": 747746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-704.750450f845da.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 705,
+   "file": "11-1005-705.c9cae529d143.pmtiles",
+   "bytes": 1338257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-705.c9cae529d143.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 706,
+   "file": "11-1005-706.933bebfa8256.pmtiles",
+   "bytes": 1312613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-706.933bebfa8256.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 707,
+   "file": "11-1005-707.c46b9d75c221.pmtiles",
+   "bytes": 969090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-707.c46b9d75c221.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 708,
+   "file": "11-1005-708.82d601d55127.pmtiles",
+   "bytes": 784718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-708.82d601d55127.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 709,
+   "file": "11-1005-709.b4a171182fcd.pmtiles",
+   "bytes": 924248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-709.b4a171182fcd.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 710,
+   "file": "11-1005-710.0c54b6fbc4fd.pmtiles",
+   "bytes": 943764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-710.0c54b6fbc4fd.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 711,
+   "file": "11-1005-711.97680f70991a.pmtiles",
+   "bytes": 859927,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1005-711.97680f70991a.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 704,
+   "file": "11-1006-704.1af85c3dd715.pmtiles",
+   "bytes": 889668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-704.1af85c3dd715.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 705,
+   "file": "11-1006-705.496f5d449d9b.pmtiles",
+   "bytes": 1515758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-705.496f5d449d9b.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 706,
+   "file": "11-1006-706.d94c05d15699.pmtiles",
+   "bytes": 1292178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-706.d94c05d15699.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 707,
+   "file": "11-1006-707.b33ac6c29510.pmtiles",
+   "bytes": 1300532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-707.b33ac6c29510.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 708,
+   "file": "11-1006-708.4d7c54ef5400.pmtiles",
+   "bytes": 714951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-708.4d7c54ef5400.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 709,
+   "file": "11-1006-709.d66dcacc60d2.pmtiles",
+   "bytes": 673321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-709.d66dcacc60d2.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 710,
+   "file": "11-1006-710.fa667af0fa62.pmtiles",
+   "bytes": 792830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-710.fa667af0fa62.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 711,
+   "file": "11-1006-711.2ee4bee4b9b7.pmtiles",
+   "bytes": 695612,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1006-711.2ee4bee4b9b7.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 704,
+   "file": "11-1007-704.51bdbad6a85a.pmtiles",
+   "bytes": 62085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-704.51bdbad6a85a.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 705,
+   "file": "11-1007-705.5de5da9876ff.pmtiles",
+   "bytes": 421446,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-705.5de5da9876ff.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 706,
+   "file": "11-1007-706.f1e73cd34c20.pmtiles",
+   "bytes": 1460052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-706.f1e73cd34c20.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 707,
+   "file": "11-1007-707.fae63242b9e1.pmtiles",
+   "bytes": 1127528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-707.fae63242b9e1.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 708,
+   "file": "11-1007-708.9a78bdd2181a.pmtiles",
+   "bytes": 1140117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-708.9a78bdd2181a.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 709,
+   "file": "11-1007-709.d88a242e7ad9.pmtiles",
+   "bytes": 824592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-709.d88a242e7ad9.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 710,
+   "file": "11-1007-710.1c4eecd22a2e.pmtiles",
+   "bytes": 783729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-710.1c4eecd22a2e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 711,
+   "file": "11-1007-711.ddc287086348.pmtiles",
+   "bytes": 948007,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1007-711.ddc287086348.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 706,
+   "file": "11-1008-706.396cf6e678f7.pmtiles",
+   "bytes": 79778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-706.396cf6e678f7.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 707,
+   "file": "11-1008-707.5ae095dc46d1.pmtiles",
+   "bytes": 2576823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-707.5ae095dc46d1.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 708,
+   "file": "11-1008-708.072a6583673e.pmtiles",
+   "bytes": 1130063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-708.072a6583673e.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 709,
+   "file": "11-1008-709.78cbd3d5aaea.pmtiles",
+   "bytes": 936743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-709.78cbd3d5aaea.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 710,
+   "file": "11-1008-710.dd23079bd644.pmtiles",
+   "bytes": 990879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-710.dd23079bd644.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 711,
+   "file": "11-1008-711.91d01252e412.pmtiles",
+   "bytes": 646251,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1008-711.91d01252e412.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 706,
+   "file": "11-1009-706.be7b5e7d0b10.pmtiles",
+   "bytes": 444680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-706.be7b5e7d0b10.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 707,
+   "file": "11-1009-707.c1fd9723952f.pmtiles",
+   "bytes": 1187265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-707.c1fd9723952f.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 708,
+   "file": "11-1009-708.f107c9c0c5a2.pmtiles",
+   "bytes": 1123623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-708.f107c9c0c5a2.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 709,
+   "file": "11-1009-709.8ac8c86f1c56.pmtiles",
+   "bytes": 926926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-709.8ac8c86f1c56.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 710,
+   "file": "11-1009-710.2c2c4af62978.pmtiles",
+   "bytes": 898461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-710.2c2c4af62978.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 711,
+   "file": "11-1009-711.1e6950fc1db0.pmtiles",
+   "bytes": 469166,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1009-711.1e6950fc1db0.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 706,
+   "file": "11-1010-706.e7f04a757698.pmtiles",
+   "bytes": 999967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-706.e7f04a757698.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 707,
+   "file": "11-1010-707.ac51084e14fb.pmtiles",
+   "bytes": 951863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-707.ac51084e14fb.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 708,
+   "file": "11-1010-708.dcd17bbfbdb0.pmtiles",
+   "bytes": 1150610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-708.dcd17bbfbdb0.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 709,
+   "file": "11-1010-709.2e21ca8629a5.pmtiles",
+   "bytes": 855612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-709.2e21ca8629a5.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 710,
+   "file": "11-1010-710.36e98a0f7f90.pmtiles",
+   "bytes": 757297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-710.36e98a0f7f90.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 711,
+   "file": "11-1010-711.f8cdba340cd7.pmtiles",
+   "bytes": 586960,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1010-711.f8cdba340cd7.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 706,
+   "file": "11-1011-706.8069b607ab70.pmtiles",
+   "bytes": 1228734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-706.8069b607ab70.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 707,
+   "file": "11-1011-707.28b61ad43424.pmtiles",
+   "bytes": 1672447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-707.28b61ad43424.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 708,
+   "file": "11-1011-708.32930571ecc8.pmtiles",
+   "bytes": 1397641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-708.32930571ecc8.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 709,
+   "file": "11-1011-709.9b999eff2721.pmtiles",
+   "bytes": 1024231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-709.9b999eff2721.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 710,
+   "file": "11-1011-710.51642e88653b.pmtiles",
+   "bytes": 941761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-710.51642e88653b.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 711,
+   "file": "11-1011-711.43b59e583820.pmtiles",
+   "bytes": 611348,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1011-711.43b59e583820.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 703,
+   "file": "11-1012-703.3aaad91bf341.pmtiles",
+   "bytes": 20288,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-703.3aaad91bf341.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 705,
+   "file": "11-1012-705.895ee3053d8c.pmtiles",
+   "bytes": 56332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-705.895ee3053d8c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 706,
+   "file": "11-1012-706.81f342b3c91f.pmtiles",
+   "bytes": 2617728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-706.81f342b3c91f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 707,
+   "file": "11-1012-707.18f76dc8fa7f.pmtiles",
+   "bytes": 1937396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-707.18f76dc8fa7f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 708,
+   "file": "11-1012-708.308d8c9d3919.pmtiles",
+   "bytes": 1829449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-708.308d8c9d3919.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 709,
+   "file": "11-1012-709.81e0c33ab3ee.pmtiles",
+   "bytes": 1199263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-709.81e0c33ab3ee.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 710,
+   "file": "11-1012-710.16a68d7258ab.pmtiles",
+   "bytes": 1420167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-710.16a68d7258ab.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 711,
+   "file": "11-1012-711.f654971ef4db.pmtiles",
+   "bytes": 758064,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1012-711.f654971ef4db.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 705,
+   "file": "11-1013-705.e58039a44bd3.pmtiles",
+   "bytes": 55563,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-705.e58039a44bd3.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 706,
+   "file": "11-1013-706.0f9adc0c2c45.pmtiles",
+   "bytes": 502928,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-706.0f9adc0c2c45.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 707,
+   "file": "11-1013-707.c907ab119e7d.pmtiles",
+   "bytes": 452214,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-707.c907ab119e7d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 708,
+   "file": "11-1013-708.9fda81aefb37.pmtiles",
+   "bytes": 434069,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-708.9fda81aefb37.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 709,
+   "file": "11-1013-709.1cde63a3a112.pmtiles",
+   "bytes": 399245,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-709.1cde63a3a112.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 710,
+   "file": "11-1013-710.919beec79437.pmtiles",
+   "bytes": 572054,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-710.919beec79437.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 711,
+   "file": "11-1013-711.14f6097138a6.pmtiles",
+   "bytes": 367433,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-cotes-d-armor-2026-10-03/11-1013-711.14f6097138a6.pmtiles"
+  }
+ ]
+}
