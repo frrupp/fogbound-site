@@ -1,0 +1,61 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "li-liechtenstein",
+ "source": "li.pmtiles",
+ "builtAt": "2026-10-04T10:59:49.245Z",
+ "publishedAt": "2026-10-04T10:59:53.001Z",
+ "host": "github",
+ "releases": [
+  "maps-li-liechtenstein-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  9.47168,
+  47.04843,
+  9.63569,
+  47.27058
+ ],
+ "overview": {
+  "file": "overview.7ae4300670e9.pmtiles",
+  "bytes": 78541,
+  "tiles": 12,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-li-liechtenstein-2026-10-03/overview.7ae4300670e9.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1077,
+   "y": 718,
+   "file": "11-1077-718.1ce8f8df40ac.pmtiles",
+   "bytes": 30397,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-li-liechtenstein-2026-10-03/11-1077-718.1ce8f8df40ac.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 719,
+   "file": "11-1077-719.cb044e0ff057.pmtiles",
+   "bytes": 49709,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-li-liechtenstein-2026-10-03/11-1077-719.cb044e0ff057.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 718,
+   "file": "11-1078-718.56a1744de66f.pmtiles",
+   "bytes": 840950,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-li-liechtenstein-2026-10-03/11-1078-718.56a1744de66f.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 719,
+   "file": "11-1078-719.b230810845fa.pmtiles",
+   "bytes": 1063398,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-li-liechtenstein-2026-10-03/11-1078-719.b230810845fa.pmtiles"
+  }
+ ]
+}
