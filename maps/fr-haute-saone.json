@@ -1,0 +1,605 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haute-saone",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:35:19.696Z",
+ "publishedAt": "2026-10-04T13:35:40.078Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haute-saone-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.36695,
+  47.25262,
+  6.82551,
+  48.02415
+ ],
+ "overview": {
+  "file": "overview.ca9dc9c9e7bc.pmtiles",
+  "bytes": 4378263,
+  "tiles": 48,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/overview.ca9dc9c9e7bc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1054,
+   "y": 711,
+   "file": "11-1054-711.e57524d13216.pmtiles",
+   "bytes": 100787,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-711.e57524d13216.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 712,
+   "file": "11-1054-712.9c9bd2253765.pmtiles",
+   "bytes": 245760,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-712.9c9bd2253765.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 713,
+   "file": "11-1054-713.1e5d5d8a7e40.pmtiles",
+   "bytes": 348804,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-713.1e5d5d8a7e40.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 714,
+   "file": "11-1054-714.db57c341c03b.pmtiles",
+   "bytes": 184496,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-714.db57c341c03b.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 715,
+   "file": "11-1054-715.ffa66b344ea2.pmtiles",
+   "bytes": 245179,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-715.ffa66b344ea2.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 716,
+   "file": "11-1054-716.7182fde078fc.pmtiles",
+   "bytes": 223134,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-716.7182fde078fc.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 717,
+   "file": "11-1054-717.2e9908a9a8eb.pmtiles",
+   "bytes": 276777,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-717.2e9908a9a8eb.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 718,
+   "file": "11-1054-718.554c1a78ad2e.pmtiles",
+   "bytes": 111650,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1054-718.554c1a78ad2e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 711,
+   "file": "11-1055-711.df2c34aa7cda.pmtiles",
+   "bytes": 223801,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-711.df2c34aa7cda.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 712,
+   "file": "11-1055-712.81629144caf6.pmtiles",
+   "bytes": 451995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-712.81629144caf6.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 713,
+   "file": "11-1055-713.02178115ae03.pmtiles",
+   "bytes": 526252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-713.02178115ae03.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 714,
+   "file": "11-1055-714.1c71e4376e87.pmtiles",
+   "bytes": 383495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-714.1c71e4376e87.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 715,
+   "file": "11-1055-715.13cf9852c7aa.pmtiles",
+   "bytes": 396230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-715.13cf9852c7aa.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 716,
+   "file": "11-1055-716.b381af84415e.pmtiles",
+   "bytes": 592065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-716.b381af84415e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 717,
+   "file": "11-1055-717.10acdb7640c0.pmtiles",
+   "bytes": 385905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-717.10acdb7640c0.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 718,
+   "file": "11-1055-718.6eea129659fc.pmtiles",
+   "bytes": 199023,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1055-718.6eea129659fc.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 711,
+   "file": "11-1056-711.e8d22593881e.pmtiles",
+   "bytes": 139746,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-711.e8d22593881e.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 712,
+   "file": "11-1056-712.b9392c4edc0a.pmtiles",
+   "bytes": 410640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-712.b9392c4edc0a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 713,
+   "file": "11-1056-713.7c98dfc7087f.pmtiles",
+   "bytes": 394914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-713.7c98dfc7087f.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 714,
+   "file": "11-1056-714.baf347cf5f72.pmtiles",
+   "bytes": 419971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-714.baf347cf5f72.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 715,
+   "file": "11-1056-715.47757b9e3a4d.pmtiles",
+   "bytes": 472031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-715.47757b9e3a4d.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 716,
+   "file": "11-1056-716.47cde2559b26.pmtiles",
+   "bytes": 379348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-716.47cde2559b26.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 717,
+   "file": "11-1056-717.6066c2c4a4ad.pmtiles",
+   "bytes": 545167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-717.6066c2c4a4ad.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 718,
+   "file": "11-1056-718.ad1035eb4d3c.pmtiles",
+   "bytes": 236768,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1056-718.ad1035eb4d3c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 711,
+   "file": "11-1057-711.4e6630f1ad0b.pmtiles",
+   "bytes": 183614,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-711.4e6630f1ad0b.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 712,
+   "file": "11-1057-712.5f1a8628562a.pmtiles",
+   "bytes": 403424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-712.5f1a8628562a.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 713,
+   "file": "11-1057-713.51e666fc2e8a.pmtiles",
+   "bytes": 398616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-713.51e666fc2e8a.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 714,
+   "file": "11-1057-714.b3ac4849417a.pmtiles",
+   "bytes": 411189,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-714.b3ac4849417a.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 715,
+   "file": "11-1057-715.be13d98548e2.pmtiles",
+   "bytes": 448680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-715.be13d98548e2.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 716,
+   "file": "11-1057-716.2a1ce121dc52.pmtiles",
+   "bytes": 501173,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-716.2a1ce121dc52.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 717,
+   "file": "11-1057-717.fb2dcf76b01b.pmtiles",
+   "bytes": 756098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-717.fb2dcf76b01b.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 718,
+   "file": "11-1057-718.879b0eaf77c8.pmtiles",
+   "bytes": 417739,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1057-718.879b0eaf77c8.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 711,
+   "file": "11-1058-711.7f3f57a7eae6.pmtiles",
+   "bytes": 121946,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-711.7f3f57a7eae6.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 712,
+   "file": "11-1058-712.9546ff9eae64.pmtiles",
+   "bytes": 509211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-712.9546ff9eae64.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 713,
+   "file": "11-1058-713.0f469c8b9e36.pmtiles",
+   "bytes": 487290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-713.0f469c8b9e36.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 714,
+   "file": "11-1058-714.ef228ede1876.pmtiles",
+   "bytes": 640153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-714.ef228ede1876.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 715,
+   "file": "11-1058-715.e1e1d45bfaf5.pmtiles",
+   "bytes": 710751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-715.e1e1d45bfaf5.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 716,
+   "file": "11-1058-716.cf8c92416865.pmtiles",
+   "bytes": 525590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-716.cf8c92416865.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 717,
+   "file": "11-1058-717.c0d5f17b8bf3.pmtiles",
+   "bytes": 991663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-717.c0d5f17b8bf3.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 718,
+   "file": "11-1058-718.743d68307124.pmtiles",
+   "bytes": 954765,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1058-718.743d68307124.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 711,
+   "file": "11-1059-711.f5c6700ff828.pmtiles",
+   "bytes": 242335,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-711.f5c6700ff828.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 712,
+   "file": "11-1059-712.b6c01514a75c.pmtiles",
+   "bytes": 542287,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-712.b6c01514a75c.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 713,
+   "file": "11-1059-713.10b282023d17.pmtiles",
+   "bytes": 419281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-713.10b282023d17.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 714,
+   "file": "11-1059-714.b5838d5ee630.pmtiles",
+   "bytes": 549965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-714.b5838d5ee630.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 715,
+   "file": "11-1059-715.61130fc2700e.pmtiles",
+   "bytes": 737707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-715.61130fc2700e.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 716,
+   "file": "11-1059-716.077e7e89fd89.pmtiles",
+   "bytes": 573587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-716.077e7e89fd89.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 717,
+   "file": "11-1059-717.b2620f062d5a.pmtiles",
+   "bytes": 680963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-717.b2620f062d5a.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 718,
+   "file": "11-1059-718.dc96989f2647.pmtiles",
+   "bytes": 184058,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1059-718.dc96989f2647.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 711,
+   "file": "11-1060-711.08a3dda42d86.pmtiles",
+   "bytes": 213782,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-711.08a3dda42d86.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 712,
+   "file": "11-1060-712.9cb57aa7d167.pmtiles",
+   "bytes": 766395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-712.9cb57aa7d167.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 713,
+   "file": "11-1060-713.08a13290873f.pmtiles",
+   "bytes": 985478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-713.08a13290873f.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 714,
+   "file": "11-1060-714.8614306d88b8.pmtiles",
+   "bytes": 737712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-714.8614306d88b8.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 715,
+   "file": "11-1060-715.45dc7c6338c2.pmtiles",
+   "bytes": 641924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-715.45dc7c6338c2.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 716,
+   "file": "11-1060-716.fc3f45643e6b.pmtiles",
+   "bytes": 623341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-716.fc3f45643e6b.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 717,
+   "file": "11-1060-717.c7fab25a6111.pmtiles",
+   "bytes": 736328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-717.c7fab25a6111.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 718,
+   "file": "11-1060-718.b6bb686337a7.pmtiles",
+   "bytes": 177444,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1060-718.b6bb686337a7.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 711,
+   "file": "11-1061-711.b302b573e561.pmtiles",
+   "bytes": 729630,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-711.b302b573e561.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 712,
+   "file": "11-1061-712.8d17e5d41e39.pmtiles",
+   "bytes": 862082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-712.8d17e5d41e39.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 713,
+   "file": "11-1061-713.c4cb499c8fef.pmtiles",
+   "bytes": 1147030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-713.c4cb499c8fef.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 714,
+   "file": "11-1061-714.309329f05c83.pmtiles",
+   "bytes": 891615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-714.309329f05c83.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 715,
+   "file": "11-1061-715.93f4a0c6e823.pmtiles",
+   "bytes": 607391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-715.93f4a0c6e823.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 716,
+   "file": "11-1061-716.dcedf85c9d84.pmtiles",
+   "bytes": 689005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-716.dcedf85c9d84.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 717,
+   "file": "11-1061-717.b218e0de0e0e.pmtiles",
+   "bytes": 556150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-717.b218e0de0e0e.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 718,
+   "file": "11-1061-718.41852506f365.pmtiles",
+   "bytes": 224633,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1061-718.41852506f365.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 711,
+   "file": "11-1062-711.5f9a6e26759b.pmtiles",
+   "bytes": 474092,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-711.5f9a6e26759b.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 712,
+   "file": "11-1062-712.a46d1d687c56.pmtiles",
+   "bytes": 1020061,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-712.a46d1d687c56.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 713,
+   "file": "11-1062-713.fe82ed47c9f2.pmtiles",
+   "bytes": 836831,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-713.fe82ed47c9f2.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 714,
+   "file": "11-1062-714.82dd27738ab5.pmtiles",
+   "bytes": 1675583,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-714.82dd27738ab5.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 715,
+   "file": "11-1062-715.103aa4bc4c81.pmtiles",
+   "bytes": 1186532,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-715.103aa4bc4c81.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 716,
+   "file": "11-1062-716.6f6b2bc1778e.pmtiles",
+   "bytes": 1504155,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-716.6f6b2bc1778e.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 717,
+   "file": "11-1062-717.e64c6678773a.pmtiles",
+   "bytes": 932666,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-717.e64c6678773a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 718,
+   "file": "11-1062-718.61b9b10a1dd4.pmtiles",
+   "bytes": 336921,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-saone-2026-10-03/11-1062-718.61b9b10a1dd4.pmtiles"
+  }
+ ]
+}

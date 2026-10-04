@@ -1,0 +1,77 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-hauts-de-seine",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:25:14.672Z",
+ "publishedAt": "2026-10-04T13:25:19.738Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-hauts-de-seine-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.14571,
+  48.7293,
+  2.33696,
+  48.95108
+ ],
+ "overview": {
+  "file": "overview.6820f43c648a.pmtiles",
+  "bytes": 1592333,
+  "tiles": 17,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/overview.6820f43c648a.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1036,
+   "y": 703,
+   "file": "11-1036-703.0985ef51fd54.pmtiles",
+   "bytes": 1824818,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1036-703.0985ef51fd54.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 704,
+   "file": "11-1036-704.9de8ae482214.pmtiles",
+   "bytes": 8659165,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1036-704.9de8ae482214.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 705,
+   "file": "11-1036-705.eb8fd491d1e1.pmtiles",
+   "bytes": 3816945,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1036-705.eb8fd491d1e1.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 703,
+   "file": "11-1037-703.5494c06daafe.pmtiles",
+   "bytes": 864135,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1037-703.5494c06daafe.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 704,
+   "file": "11-1037-704.c5efe6dc960d.pmtiles",
+   "bytes": 8319073,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1037-704.c5efe6dc960d.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 705,
+   "file": "11-1037-705.d37f4c8aad31.pmtiles",
+   "bytes": 2671454,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-hauts-de-seine-2026-10-03/11-1037-705.d37f4c8aad31.pmtiles"
+  }
+ ]
+}

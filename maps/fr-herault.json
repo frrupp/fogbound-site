@@ -1,0 +1,549 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-herault",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:42:15.827Z",
+ "publishedAt": "2026-10-04T14:42:34.849Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-herault-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.53955,
+  43.2102,
+  4.1946,
+  43.97275
+ ],
+ "overview": {
+  "file": "overview.59933a11fe95.pmtiles",
+  "bytes": 2656008,
+  "tiles": 37,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/overview.59933a11fe95.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1038,
+   "y": 744,
+   "file": "11-1038-744.a7fd3ad8ed3f.pmtiles",
+   "bytes": 122366,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-744.a7fd3ad8ed3f.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 745,
+   "file": "11-1038-745.15e546f70e63.pmtiles",
+   "bytes": 540143,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-745.15e546f70e63.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 746,
+   "file": "11-1038-746.a41e79af2a35.pmtiles",
+   "bytes": 402945,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-746.a41e79af2a35.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 747,
+   "file": "11-1038-747.0ddfdc39976b.pmtiles",
+   "bytes": 351792,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-747.0ddfdc39976b.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 748,
+   "file": "11-1038-748.b02afa1323ae.pmtiles",
+   "bytes": 488565,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-748.b02afa1323ae.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 749,
+   "file": "11-1038-749.44d5c5fc6fa9.pmtiles",
+   "bytes": 440011,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-749.44d5c5fc6fa9.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 750,
+   "file": "11-1038-750.f2b1d7dbe93c.pmtiles",
+   "bytes": 680145,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1038-750.f2b1d7dbe93c.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 744,
+   "file": "11-1039-744.c7479c719cc5.pmtiles",
+   "bytes": 177557,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-744.c7479c719cc5.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 745,
+   "file": "11-1039-745.86c242711ee3.pmtiles",
+   "bytes": 553815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-745.86c242711ee3.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 746,
+   "file": "11-1039-746.dea229474cf9.pmtiles",
+   "bytes": 553203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-746.dea229474cf9.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 747,
+   "file": "11-1039-747.07f557c7f505.pmtiles",
+   "bytes": 572006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-747.07f557c7f505.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 748,
+   "file": "11-1039-748.a16758a54e8f.pmtiles",
+   "bytes": 673062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-748.a16758a54e8f.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 749,
+   "file": "11-1039-749.a1e4102ad1db.pmtiles",
+   "bytes": 619898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-749.a1e4102ad1db.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 750,
+   "file": "11-1039-750.17d9497f5c79.pmtiles",
+   "bytes": 1129960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1039-750.17d9497f5c79.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 744,
+   "file": "11-1040-744.d4661a1e1362.pmtiles",
+   "bytes": 217140,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-744.d4661a1e1362.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 745,
+   "file": "11-1040-745.8720cfc2ec58.pmtiles",
+   "bytes": 862102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-745.8720cfc2ec58.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 746,
+   "file": "11-1040-746.fbf655d05696.pmtiles",
+   "bytes": 539876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-746.fbf655d05696.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 747,
+   "file": "11-1040-747.14119893451e.pmtiles",
+   "bytes": 705105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-747.14119893451e.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 748,
+   "file": "11-1040-748.799ae2cd007c.pmtiles",
+   "bytes": 724164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-748.799ae2cd007c.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 749,
+   "file": "11-1040-749.0bca61af22ef.pmtiles",
+   "bytes": 924016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-749.0bca61af22ef.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 750,
+   "file": "11-1040-750.39b4fb21526a.pmtiles",
+   "bytes": 1271607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1040-750.39b4fb21526a.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 744,
+   "file": "11-1041-744.81dfeedc6aea.pmtiles",
+   "bytes": 174778,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-744.81dfeedc6aea.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 745,
+   "file": "11-1041-745.3bbc84fa2bc5.pmtiles",
+   "bytes": 663340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-745.3bbc84fa2bc5.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 746,
+   "file": "11-1041-746.1950a6318816.pmtiles",
+   "bytes": 536502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-746.1950a6318816.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 747,
+   "file": "11-1041-747.0c1ad591b1af.pmtiles",
+   "bytes": 1390104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-747.0c1ad591b1af.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 748,
+   "file": "11-1041-748.2089be1a1310.pmtiles",
+   "bytes": 716414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-748.2089be1a1310.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 749,
+   "file": "11-1041-749.694321fdc07f.pmtiles",
+   "bytes": 1444697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-749.694321fdc07f.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 750,
+   "file": "11-1041-750.000d2781de96.pmtiles",
+   "bytes": 1193952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1041-750.000d2781de96.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 744,
+   "file": "11-1042-744.b6b6a7947564.pmtiles",
+   "bytes": 210495,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-744.b6b6a7947564.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 745,
+   "file": "11-1042-745.47ebaf689428.pmtiles",
+   "bytes": 982620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-745.47ebaf689428.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 746,
+   "file": "11-1042-746.7741a515cdb0.pmtiles",
+   "bytes": 978690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-746.7741a515cdb0.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 747,
+   "file": "11-1042-747.6de4eba4d14e.pmtiles",
+   "bytes": 816211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-747.6de4eba4d14e.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 748,
+   "file": "11-1042-748.3fc59c2ae7d3.pmtiles",
+   "bytes": 1326840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-748.3fc59c2ae7d3.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 749,
+   "file": "11-1042-749.3a50c206a8dd.pmtiles",
+   "bytes": 2933499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-749.3a50c206a8dd.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 750,
+   "file": "11-1042-750.aec16adeab68.pmtiles",
+   "bytes": 1511460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1042-750.aec16adeab68.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 744,
+   "file": "11-1043-744.d470fd7f4ba9.pmtiles",
+   "bytes": 159352,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-744.d470fd7f4ba9.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 745,
+   "file": "11-1043-745.2161047b0135.pmtiles",
+   "bytes": 422481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-745.2161047b0135.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 746,
+   "file": "11-1043-746.6aaed242702a.pmtiles",
+   "bytes": 688431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-746.6aaed242702a.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 747,
+   "file": "11-1043-747.e3c90a33ef0e.pmtiles",
+   "bytes": 1696322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-747.e3c90a33ef0e.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 748,
+   "file": "11-1043-748.f2bae0e1b8ab.pmtiles",
+   "bytes": 1751423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-748.f2bae0e1b8ab.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 749,
+   "file": "11-1043-749.0abdf7c20555.pmtiles",
+   "bytes": 2048600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-749.0abdf7c20555.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 750,
+   "file": "11-1043-750.43d06104e954.pmtiles",
+   "bytes": 1758785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1043-750.43d06104e954.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 744,
+   "file": "11-1044-744.f2c0c8b4a12d.pmtiles",
+   "bytes": 223021,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-744.f2c0c8b4a12d.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 745,
+   "file": "11-1044-745.31c768d4a6d1.pmtiles",
+   "bytes": 494832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-745.31c768d4a6d1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 746,
+   "file": "11-1044-746.8a0930e0dcb1.pmtiles",
+   "bytes": 721518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-746.8a0930e0dcb1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 747,
+   "file": "11-1044-747.945ade07610b.pmtiles",
+   "bytes": 1208720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-747.945ade07610b.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 748,
+   "file": "11-1044-748.a9c2e19ea8f3.pmtiles",
+   "bytes": 1069900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-748.a9c2e19ea8f3.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 749,
+   "file": "11-1044-749.907048b7f5c1.pmtiles",
+   "bytes": 1822044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-749.907048b7f5c1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 750,
+   "file": "11-1044-750.25e3ac59a990.pmtiles",
+   "bytes": 288371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1044-750.25e3ac59a990.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 744,
+   "file": "11-1045-744.82e3a6df67f5.pmtiles",
+   "bytes": 224932,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-744.82e3a6df67f5.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 745,
+   "file": "11-1045-745.983b0765a6ec.pmtiles",
+   "bytes": 1209745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-745.983b0765a6ec.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 746,
+   "file": "11-1045-746.e20a473467b4.pmtiles",
+   "bytes": 1358730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-746.e20a473467b4.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 747,
+   "file": "11-1045-747.40aa4a1b09cb.pmtiles",
+   "bytes": 4397376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-747.40aa4a1b09cb.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 748,
+   "file": "11-1045-748.652a1ba15021.pmtiles",
+   "bytes": 2273816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-748.652a1ba15021.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 749,
+   "file": "11-1045-749.b55fd85b0077.pmtiles",
+   "bytes": 786846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1045-749.b55fd85b0077.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 744,
+   "file": "11-1046-744.54fe4e32bbef.pmtiles",
+   "bytes": 225991,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1046-744.54fe4e32bbef.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 745,
+   "file": "11-1046-745.b4cf9f84e843.pmtiles",
+   "bytes": 1350742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1046-745.b4cf9f84e843.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 746,
+   "file": "11-1046-746.73b2c4457f37.pmtiles",
+   "bytes": 1572762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1046-746.73b2c4457f37.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 747,
+   "file": "11-1046-747.be217dd01a0e.pmtiles",
+   "bytes": 5339601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1046-747.be217dd01a0e.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 748,
+   "file": "11-1046-748.d48ef6e000d6.pmtiles",
+   "bytes": 1262724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1046-748.d48ef6e000d6.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 744,
+   "file": "11-1047-744.e47d3274b7fd.pmtiles",
+   "bytes": 240641,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1047-744.e47d3274b7fd.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 745,
+   "file": "11-1047-745.0bfe03d9e64f.pmtiles",
+   "bytes": 1031188,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1047-745.0bfe03d9e64f.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 746,
+   "file": "11-1047-746.e23e72fecb31.pmtiles",
+   "bytes": 1741805,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1047-746.e23e72fecb31.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 747,
+   "file": "11-1047-747.f999f6fbf216.pmtiles",
+   "bytes": 1799673,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1047-747.f999f6fbf216.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 748,
+   "file": "11-1047-748.e6b3f1d3fa45.pmtiles",
+   "bytes": 1026335,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-herault-2026-10-03/11-1047-748.e6b3f1d3fa45.pmtiles"
+  }
+ ]
+}

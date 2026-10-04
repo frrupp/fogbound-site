@@ -1,0 +1,421 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-vaucluse",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:29:58.214Z",
+ "publishedAt": "2026-10-04T13:30:13.605Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-vaucluse-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.64857,
+  43.65867,
+  5.75835,
+  44.43155
+ ],
+ "overview": {
+  "file": "overview.4e767f9e973f.pmtiles",
+  "bytes": 2951671,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/overview.4e767f9e973f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1050,
+   "y": 741,
+   "file": "11-1050-741.2615c47918d4.pmtiles",
+   "bytes": 828659,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-741.2615c47918d4.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 742,
+   "file": "11-1050-742.86dfb7f0b79d.pmtiles",
+   "bytes": 995424,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-742.86dfb7f0b79d.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 743,
+   "file": "11-1050-743.407fd52bace1.pmtiles",
+   "bytes": 1031225,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-743.407fd52bace1.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 744,
+   "file": "11-1050-744.adc7df00026d.pmtiles",
+   "bytes": 994588,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-744.adc7df00026d.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 745,
+   "file": "11-1050-745.2acbcfb91788.pmtiles",
+   "bytes": 742938,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-745.2acbcfb91788.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 746,
+   "file": "11-1050-746.36b59824b8ea.pmtiles",
+   "bytes": 1008000,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-746.36b59824b8ea.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 747,
+   "file": "11-1050-747.cd7056e371bf.pmtiles",
+   "bytes": 719825,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1050-747.cd7056e371bf.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 741,
+   "file": "11-1051-741.8a92108080d5.pmtiles",
+   "bytes": 933907,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-741.8a92108080d5.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 742,
+   "file": "11-1051-742.07b3b50fe2c7.pmtiles",
+   "bytes": 1358528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-742.07b3b50fe2c7.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 743,
+   "file": "11-1051-743.5c593bd1333c.pmtiles",
+   "bytes": 2911222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-743.5c593bd1333c.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 744,
+   "file": "11-1051-744.5b0e82a441ea.pmtiles",
+   "bytes": 2769877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-744.5b0e82a441ea.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 745,
+   "file": "11-1051-745.e6df8a6744d6.pmtiles",
+   "bytes": 3609688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-745.e6df8a6744d6.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 746,
+   "file": "11-1051-746.b141ad9f49a9.pmtiles",
+   "bytes": 1699435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-746.b141ad9f49a9.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 747,
+   "file": "11-1051-747.be57ef5bda0b.pmtiles",
+   "bytes": 490262,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1051-747.be57ef5bda0b.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 741,
+   "file": "11-1052-741.e441a2fea525.pmtiles",
+   "bytes": 1004954,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-741.e441a2fea525.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 742,
+   "file": "11-1052-742.950cd41222b4.pmtiles",
+   "bytes": 1752756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-742.950cd41222b4.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 743,
+   "file": "11-1052-743.9a9b5204409b.pmtiles",
+   "bytes": 1634439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-743.9a9b5204409b.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 744,
+   "file": "11-1052-744.483f4b376463.pmtiles",
+   "bytes": 2641175,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-744.483f4b376463.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 745,
+   "file": "11-1052-745.96f1c8c606d8.pmtiles",
+   "bytes": 2542006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-745.96f1c8c606d8.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 746,
+   "file": "11-1052-746.73e87ac9af7a.pmtiles",
+   "bytes": 1293935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-746.73e87ac9af7a.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 747,
+   "file": "11-1052-747.1ffc9e7d7eb0.pmtiles",
+   "bytes": 662362,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1052-747.1ffc9e7d7eb0.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 741,
+   "file": "11-1053-741.5f52c08a1120.pmtiles",
+   "bytes": 801122,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-741.5f52c08a1120.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 742,
+   "file": "11-1053-742.76247dc8ec48.pmtiles",
+   "bytes": 1432612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-742.76247dc8ec48.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 743,
+   "file": "11-1053-743.8a9f9f33489c.pmtiles",
+   "bytes": 1446157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-743.8a9f9f33489c.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 744,
+   "file": "11-1053-744.50ac11cc7dd4.pmtiles",
+   "bytes": 1397735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-744.50ac11cc7dd4.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 745,
+   "file": "11-1053-745.ec683ee3931e.pmtiles",
+   "bytes": 1703697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-745.ec683ee3931e.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 746,
+   "file": "11-1053-746.5879ae3da93d.pmtiles",
+   "bytes": 1076107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-746.5879ae3da93d.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 747,
+   "file": "11-1053-747.209af6cdf46d.pmtiles",
+   "bytes": 681463,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1053-747.209af6cdf46d.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 741,
+   "file": "11-1054-741.cd7f2e98c6f8.pmtiles",
+   "bytes": 551121,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-741.cd7f2e98c6f8.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 742,
+   "file": "11-1054-742.ec3e2e847a6c.pmtiles",
+   "bytes": 1062819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-742.ec3e2e847a6c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 743,
+   "file": "11-1054-743.cbaa1b6a5478.pmtiles",
+   "bytes": 828394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-743.cbaa1b6a5478.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 744,
+   "file": "11-1054-744.e92cd3a32bcb.pmtiles",
+   "bytes": 617301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-744.e92cd3a32bcb.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 745,
+   "file": "11-1054-745.fbde74287983.pmtiles",
+   "bytes": 1968700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-745.fbde74287983.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 746,
+   "file": "11-1054-746.d42831760edb.pmtiles",
+   "bytes": 1338705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-746.d42831760edb.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 747,
+   "file": "11-1054-747.86f548c7aa7d.pmtiles",
+   "bytes": 575553,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1054-747.86f548c7aa7d.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 741,
+   "file": "11-1055-741.d16e2bf36d56.pmtiles",
+   "bytes": 406357,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-741.d16e2bf36d56.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 742,
+   "file": "11-1055-742.f7f671d550d5.pmtiles",
+   "bytes": 551734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-742.f7f671d550d5.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 743,
+   "file": "11-1055-743.2a73f0338821.pmtiles",
+   "bytes": 580281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-743.2a73f0338821.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 744,
+   "file": "11-1055-744.a2366c545470.pmtiles",
+   "bytes": 640140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-744.a2366c545470.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 745,
+   "file": "11-1055-745.dca816e3ad41.pmtiles",
+   "bytes": 942584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-745.dca816e3ad41.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 746,
+   "file": "11-1055-746.ba14b02ee844.pmtiles",
+   "bytes": 1140826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-746.ba14b02ee844.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 747,
+   "file": "11-1055-747.054b4a07d79b.pmtiles",
+   "bytes": 1026749,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1055-747.054b4a07d79b.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 741,
+   "file": "11-1056-741.7d644ac2e598.pmtiles",
+   "bytes": 626478,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-741.7d644ac2e598.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 742,
+   "file": "11-1056-742.2814d70da470.pmtiles",
+   "bytes": 561423,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-742.2814d70da470.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 743,
+   "file": "11-1056-743.5ec72672aa0d.pmtiles",
+   "bytes": 322348,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-743.5ec72672aa0d.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 744,
+   "file": "11-1056-744.ce45c559b947.pmtiles",
+   "bytes": 445392,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-744.ce45c559b947.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 745,
+   "file": "11-1056-745.bcf28d32dec4.pmtiles",
+   "bytes": 862331,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-745.bcf28d32dec4.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 746,
+   "file": "11-1056-746.131ec586b1e8.pmtiles",
+   "bytes": 1121193,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-746.131ec586b1e8.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 747,
+   "file": "11-1056-747.7d1ffb420268.pmtiles",
+   "bytes": 325040,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-vaucluse-2026-10-03/11-1056-747.7d1ffb420268.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,637 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-pyrenees-atlantiques",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:51:29.902Z",
+ "publishedAt": "2026-10-04T15:53:35.145Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-pyrenees-atlantiques-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.79102,
+  42.77754,
+  0.03028,
+  43.5968
+ ],
+ "overview": {
+  "file": "overview.6c7167d54a5a.pmtiles",
+  "bytes": 3838877,
+  "tiles": 69,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/overview.6c7167d54a5a.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1013,
+   "y": 749,
+   "file": "11-1013-749.2b59e4d35522.pmtiles",
+   "bytes": 355854,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1013-749.2b59e4d35522.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 748,
+   "file": "11-1014-748.ccb3366f46de.pmtiles",
+   "bytes": 19860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1014-748.ccb3366f46de.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 749,
+   "file": "11-1014-749.45e662aacfa6.pmtiles",
+   "bytes": 1668466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1014-749.45e662aacfa6.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 750,
+   "file": "11-1014-750.4ac20412534d.pmtiles",
+   "bytes": 340960,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1014-750.4ac20412534d.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 747,
+   "file": "11-1015-747.ee589bad175d.pmtiles",
+   "bytes": 289524,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-747.ee589bad175d.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 748,
+   "file": "11-1015-748.55fa85562a21.pmtiles",
+   "bytes": 3606737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-748.55fa85562a21.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 749,
+   "file": "11-1015-749.17d75d0f9a53.pmtiles",
+   "bytes": 1841311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-749.17d75d0f9a53.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 750,
+   "file": "11-1015-750.9ee13886097f.pmtiles",
+   "bytes": 466716,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-750.9ee13886097f.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 751,
+   "file": "11-1015-751.348ad3126089.pmtiles",
+   "bytes": 162804,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-751.348ad3126089.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 752,
+   "file": "11-1015-752.6fcbad4b7e7e.pmtiles",
+   "bytes": 88739,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1015-752.6fcbad4b7e7e.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 747,
+   "file": "11-1016-747.a87372f45f7f.pmtiles",
+   "bytes": 271960,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-747.a87372f45f7f.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 748,
+   "file": "11-1016-748.82931324b867.pmtiles",
+   "bytes": 1154928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-748.82931324b867.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 749,
+   "file": "11-1016-749.f853dc6528df.pmtiles",
+   "bytes": 938233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-749.f853dc6528df.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 750,
+   "file": "11-1016-750.9034638748da.pmtiles",
+   "bytes": 737094,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-750.9034638748da.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 751,
+   "file": "11-1016-751.0e0d0379ee03.pmtiles",
+   "bytes": 844610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-751.0e0d0379ee03.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 752,
+   "file": "11-1016-752.eecd37efc387.pmtiles",
+   "bytes": 134153,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1016-752.eecd37efc387.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 747,
+   "file": "11-1017-747.85fad21d1985.pmtiles",
+   "bytes": 216857,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-747.85fad21d1985.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 748,
+   "file": "11-1017-748.099a81f046fd.pmtiles",
+   "bytes": 1052733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-748.099a81f046fd.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 749,
+   "file": "11-1017-749.4540d138e181.pmtiles",
+   "bytes": 708237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-749.4540d138e181.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 750,
+   "file": "11-1017-750.85f313e038d7.pmtiles",
+   "bytes": 579758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-750.85f313e038d7.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 751,
+   "file": "11-1017-751.ac37496b3c50.pmtiles",
+   "bytes": 674525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-751.ac37496b3c50.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 752,
+   "file": "11-1017-752.1346a0001de4.pmtiles",
+   "bytes": 195541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1017-752.1346a0001de4.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 747,
+   "file": "11-1018-747.86409712a58c.pmtiles",
+   "bytes": 251382,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-747.86409712a58c.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 748,
+   "file": "11-1018-748.206b6948587d.pmtiles",
+   "bytes": 879816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-748.206b6948587d.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 749,
+   "file": "11-1018-749.1d92d06b5716.pmtiles",
+   "bytes": 807403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-749.1d92d06b5716.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 750,
+   "file": "11-1018-750.ed15433cf78f.pmtiles",
+   "bytes": 848661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-750.ed15433cf78f.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 751,
+   "file": "11-1018-751.5a982460fa59.pmtiles",
+   "bytes": 643542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-751.5a982460fa59.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 752,
+   "file": "11-1018-752.1e36a64e1953.pmtiles",
+   "bytes": 363657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-752.1e36a64e1953.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 753,
+   "file": "11-1018-753.d01d39a03e3c.pmtiles",
+   "bytes": 23736,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1018-753.d01d39a03e3c.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 747,
+   "file": "11-1019-747.561731fe75ee.pmtiles",
+   "bytes": 182606,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-747.561731fe75ee.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 748,
+   "file": "11-1019-748.ea0a57b526ed.pmtiles",
+   "bytes": 939159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-748.ea0a57b526ed.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 749,
+   "file": "11-1019-749.837a7a63da39.pmtiles",
+   "bytes": 651461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-749.837a7a63da39.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 750,
+   "file": "11-1019-750.5e38c848fc49.pmtiles",
+   "bytes": 771490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-750.5e38c848fc49.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 751,
+   "file": "11-1019-751.a7c634934c83.pmtiles",
+   "bytes": 786353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-751.a7c634934c83.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 752,
+   "file": "11-1019-752.1fe470a0929e.pmtiles",
+   "bytes": 458259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-752.1fe470a0929e.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 753,
+   "file": "11-1019-753.09699e65623c.pmtiles",
+   "bytes": 71858,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1019-753.09699e65623c.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 747,
+   "file": "11-1020-747.0e6eaba2d925.pmtiles",
+   "bytes": 179308,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-747.0e6eaba2d925.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 748,
+   "file": "11-1020-748.605c3497c4dc.pmtiles",
+   "bytes": 762804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-748.605c3497c4dc.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 749,
+   "file": "11-1020-749.810704ed80ea.pmtiles",
+   "bytes": 1142411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-749.810704ed80ea.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 750,
+   "file": "11-1020-750.a02e82ac1f83.pmtiles",
+   "bytes": 969728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-750.a02e82ac1f83.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 751,
+   "file": "11-1020-751.36a22be29475.pmtiles",
+   "bytes": 1352000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-751.36a22be29475.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 752,
+   "file": "11-1020-752.62d95876c71d.pmtiles",
+   "bytes": 772007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-752.62d95876c71d.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 753,
+   "file": "11-1020-753.c4864ca393db.pmtiles",
+   "bytes": 555853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-753.c4864ca393db.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 754,
+   "file": "11-1020-754.58abeedc0a1a.pmtiles",
+   "bytes": 83049,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1020-754.58abeedc0a1a.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 747,
+   "file": "11-1021-747.f463149374fc.pmtiles",
+   "bytes": 154579,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-747.f463149374fc.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 748,
+   "file": "11-1021-748.7b9e37573be2.pmtiles",
+   "bytes": 640948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-748.7b9e37573be2.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 749,
+   "file": "11-1021-749.ad47f963614f.pmtiles",
+   "bytes": 1422802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-749.ad47f963614f.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 750,
+   "file": "11-1021-750.f49093ae4d75.pmtiles",
+   "bytes": 2253639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-750.f49093ae4d75.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 751,
+   "file": "11-1021-751.2f05c5126124.pmtiles",
+   "bytes": 1192747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-751.2f05c5126124.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 752,
+   "file": "11-1021-752.151856704e6e.pmtiles",
+   "bytes": 774297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-752.151856704e6e.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 753,
+   "file": "11-1021-753.7b4f4595eb2e.pmtiles",
+   "bytes": 405319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-753.7b4f4595eb2e.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 754,
+   "file": "11-1021-754.9f3d3fc0cae0.pmtiles",
+   "bytes": 109347,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1021-754.9f3d3fc0cae0.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 747,
+   "file": "11-1022-747.da21ebcbb6a2.pmtiles",
+   "bytes": 210936,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-747.da21ebcbb6a2.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 748,
+   "file": "11-1022-748.5da01761be2e.pmtiles",
+   "bytes": 858538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-748.5da01761be2e.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 749,
+   "file": "11-1022-749.ac9ee47f8d49.pmtiles",
+   "bytes": 1089583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-749.ac9ee47f8d49.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 750,
+   "file": "11-1022-750.c67d6aa6ece1.pmtiles",
+   "bytes": 1733219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-750.c67d6aa6ece1.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 751,
+   "file": "11-1022-751.3e869df4515f.pmtiles",
+   "bytes": 1313419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-751.3e869df4515f.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 752,
+   "file": "11-1022-752.a43665e1c938.pmtiles",
+   "bytes": 942912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-752.a43665e1c938.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 753,
+   "file": "11-1022-753.f9dd0246bff9.pmtiles",
+   "bytes": 743959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-753.f9dd0246bff9.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 754,
+   "file": "11-1022-754.1c898c594da9.pmtiles",
+   "bytes": 50407,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1022-754.1c898c594da9.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 747,
+   "file": "11-1023-747.7bfa2a2503b3.pmtiles",
+   "bytes": 394950,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-747.7bfa2a2503b3.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 748,
+   "file": "11-1023-748.aa64d1876d89.pmtiles",
+   "bytes": 1164945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-748.aa64d1876d89.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 749,
+   "file": "11-1023-749.3ca448a77260.pmtiles",
+   "bytes": 1056862,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-749.3ca448a77260.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 750,
+   "file": "11-1023-750.07f945add91e.pmtiles",
+   "bytes": 956280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-750.07f945add91e.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 751,
+   "file": "11-1023-751.3a02e6f0d540.pmtiles",
+   "bytes": 1882954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-751.3a02e6f0d540.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 752,
+   "file": "11-1023-752.a2df913100db.pmtiles",
+   "bytes": 1928059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-752.a2df913100db.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 753,
+   "file": "11-1023-753.6571d8bb2503.pmtiles",
+   "bytes": 1108332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-753.6571d8bb2503.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 754,
+   "file": "11-1023-754.6cb546025258.pmtiles",
+   "bytes": 265813,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1023-754.6cb546025258.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 747,
+   "file": "11-1024-747.85b951b4f28e.pmtiles",
+   "bytes": 127193,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-747.85b951b4f28e.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 748,
+   "file": "11-1024-748.3a3da929553d.pmtiles",
+   "bytes": 414057,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-748.3a3da929553d.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 749,
+   "file": "11-1024-749.6f09b662df89.pmtiles",
+   "bytes": 342075,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-749.6f09b662df89.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 750,
+   "file": "11-1024-750.8f3d68d85aff.pmtiles",
+   "bytes": 578718,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-750.8f3d68d85aff.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 751,
+   "file": "11-1024-751.78c9c6e7f279.pmtiles",
+   "bytes": 731522,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-751.78c9c6e7f279.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 752,
+   "file": "11-1024-752.a6bf8b4c6233.pmtiles",
+   "bytes": 360033,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-752.a6bf8b4c6233.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 753,
+   "file": "11-1024-753.d7174c3da7ed.pmtiles",
+   "bytes": 342027,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-753.d7174c3da7ed.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 754,
+   "file": "11-1024-754.8da34724b5be.pmtiles",
+   "bytes": 176915,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-pyrenees-atlantiques-2026-10-03/11-1024-754.8da34724b5be.pmtiles"
+  }
+ ]
+}

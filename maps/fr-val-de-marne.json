@@ -1,0 +1,77 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-val-de-marne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:25:20.285Z",
+ "publishedAt": "2026-10-04T13:25:25.839Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-val-de-marne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.30866,
+  48.68762,
+  2.61577,
+  48.86141
+ ],
+ "overview": {
+  "file": "overview.7f91db0870aa.pmtiles",
+  "bytes": 1184222,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/overview.7f91db0870aa.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1037,
+   "y": 704,
+   "file": "11-1037-704.d1e56a4ea2ce.pmtiles",
+   "bytes": 8324965,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1037-704.d1e56a4ea2ce.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 705,
+   "file": "11-1037-705.a42de823b695.pmtiles",
+   "bytes": 6885989,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1037-705.a42de823b695.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 706,
+   "file": "11-1037-706.580cb230d16c.pmtiles",
+   "bytes": 966057,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1037-706.580cb230d16c.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 704,
+   "file": "11-1038-704.136057a7054a.pmtiles",
+   "bytes": 4064237,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1038-704.136057a7054a.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 705,
+   "file": "11-1038-705.6ca09d6ed2c0.pmtiles",
+   "bytes": 4702829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1038-705.6ca09d6ed2c0.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 706,
+   "file": "11-1038-706.20b45e82c8cb.pmtiles",
+   "bytes": 540409,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-val-de-marne-2026-10-03/11-1038-706.20b45e82c8cb.pmtiles"
+  }
+ ]
+}

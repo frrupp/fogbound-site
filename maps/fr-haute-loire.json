@@ -1,0 +1,461 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haute-loire",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:31:32.919Z",
+ "publishedAt": "2026-10-04T13:31:49.176Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haute-loire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  3.08206,
+  44.74385,
+  4.49046,
+  45.42763
+ ],
+ "overview": {
+  "file": "overview.98ac9c7ad4e5.pmtiles",
+  "bytes": 4047807,
+  "tiles": 40,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/overview.98ac9c7ad4e5.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1041,
+   "y": 733,
+   "file": "11-1041-733.42783d4531b0.pmtiles",
+   "bytes": 244225,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-733.42783d4531b0.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 734,
+   "file": "11-1041-734.c65bf69842f2.pmtiles",
+   "bytes": 270574,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-734.c65bf69842f2.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 735,
+   "file": "11-1041-735.1e5e8d795b91.pmtiles",
+   "bytes": 274269,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-735.1e5e8d795b91.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 736,
+   "file": "11-1041-736.e610bffc613b.pmtiles",
+   "bytes": 437920,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-736.e610bffc613b.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 737,
+   "file": "11-1041-737.c7877889fb27.pmtiles",
+   "bytes": 309362,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-737.c7877889fb27.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 738,
+   "file": "11-1041-738.180ed15ae8c8.pmtiles",
+   "bytes": 249608,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1041-738.180ed15ae8c8.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 733,
+   "file": "11-1042-733.71206d0eb94d.pmtiles",
+   "bytes": 865131,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-733.71206d0eb94d.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 734,
+   "file": "11-1042-734.6aab6b2a7ec3.pmtiles",
+   "bytes": 675882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-734.6aab6b2a7ec3.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 735,
+   "file": "11-1042-735.6654a56afc83.pmtiles",
+   "bytes": 475222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-735.6654a56afc83.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 736,
+   "file": "11-1042-736.a4cae350a56f.pmtiles",
+   "bytes": 436495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-736.a4cae350a56f.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 737,
+   "file": "11-1042-737.d2f942d49267.pmtiles",
+   "bytes": 645508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-737.d2f942d49267.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 738,
+   "file": "11-1042-738.1aa25040604c.pmtiles",
+   "bytes": 591069,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1042-738.1aa25040604c.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 733,
+   "file": "11-1043-733.a7387aae5e74.pmtiles",
+   "bytes": 637086,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-733.a7387aae5e74.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 734,
+   "file": "11-1043-734.b26aa1082deb.pmtiles",
+   "bytes": 971624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-734.b26aa1082deb.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 735,
+   "file": "11-1043-735.6528149e30c0.pmtiles",
+   "bytes": 901348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-735.6528149e30c0.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 736,
+   "file": "11-1043-736.69c5ec64595c.pmtiles",
+   "bytes": 429902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-736.69c5ec64595c.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 737,
+   "file": "11-1043-737.36da07536fab.pmtiles",
+   "bytes": 402954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-737.36da07536fab.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 738,
+   "file": "11-1043-738.eedbec3f9c74.pmtiles",
+   "bytes": 448251,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1043-738.eedbec3f9c74.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 733,
+   "file": "11-1044-733.049d787aba4a.pmtiles",
+   "bytes": 644850,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-733.049d787aba4a.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 734,
+   "file": "11-1044-734.da96d382e43d.pmtiles",
+   "bytes": 594610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-734.da96d382e43d.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 735,
+   "file": "11-1044-735.dcd9d3db5613.pmtiles",
+   "bytes": 622502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-735.dcd9d3db5613.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 736,
+   "file": "11-1044-736.3a5a20818b77.pmtiles",
+   "bytes": 727258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-736.3a5a20818b77.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 737,
+   "file": "11-1044-737.b12374911b3e.pmtiles",
+   "bytes": 543477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-737.b12374911b3e.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 738,
+   "file": "11-1044-738.50385ee617e7.pmtiles",
+   "bytes": 379626,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1044-738.50385ee617e7.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 733,
+   "file": "11-1045-733.3e2433fefd4e.pmtiles",
+   "bytes": 833812,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-733.3e2433fefd4e.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 734,
+   "file": "11-1045-734.85808575150f.pmtiles",
+   "bytes": 792207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-734.85808575150f.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 735,
+   "file": "11-1045-735.cc951c50d757.pmtiles",
+   "bytes": 746069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-735.cc951c50d757.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 736,
+   "file": "11-1045-736.328dc0a5a7fd.pmtiles",
+   "bytes": 867140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-736.328dc0a5a7fd.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 737,
+   "file": "11-1045-737.f68d7713553d.pmtiles",
+   "bytes": 990660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-737.f68d7713553d.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 738,
+   "file": "11-1045-738.975bec3b02f1.pmtiles",
+   "bytes": 722341,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1045-738.975bec3b02f1.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 733,
+   "file": "11-1046-733.eb17d3198921.pmtiles",
+   "bytes": 973495,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-733.eb17d3198921.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 734,
+   "file": "11-1046-734.724c821f81d4.pmtiles",
+   "bytes": 1107134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-734.724c821f81d4.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 735,
+   "file": "11-1046-735.3d50192bc570.pmtiles",
+   "bytes": 1484074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-735.3d50192bc570.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 736,
+   "file": "11-1046-736.5b7e08dd502a.pmtiles",
+   "bytes": 1947398,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-736.5b7e08dd502a.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 737,
+   "file": "11-1046-737.e88e21e1dc79.pmtiles",
+   "bytes": 1345988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-737.e88e21e1dc79.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 738,
+   "file": "11-1046-738.9ec499497539.pmtiles",
+   "bytes": 708418,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1046-738.9ec499497539.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 733,
+   "file": "11-1047-733.09ce45d8159f.pmtiles",
+   "bytes": 937877,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-733.09ce45d8159f.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 734,
+   "file": "11-1047-734.4124f82d5f45.pmtiles",
+   "bytes": 1592395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-734.4124f82d5f45.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 735,
+   "file": "11-1047-735.cd02fd0189b5.pmtiles",
+   "bytes": 1440252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-735.cd02fd0189b5.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 736,
+   "file": "11-1047-736.e3e1fc836f4b.pmtiles",
+   "bytes": 1097842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-736.e3e1fc836f4b.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 737,
+   "file": "11-1047-737.a3912e3a0916.pmtiles",
+   "bytes": 893880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-737.a3912e3a0916.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 738,
+   "file": "11-1047-738.54c31591a53f.pmtiles",
+   "bytes": 813334,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1047-738.54c31591a53f.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 733,
+   "file": "11-1048-733.e15658f7f2f5.pmtiles",
+   "bytes": 1672587,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-733.e15658f7f2f5.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 734,
+   "file": "11-1048-734.9085faa40f6e.pmtiles",
+   "bytes": 1427645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-734.9085faa40f6e.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 735,
+   "file": "11-1048-735.a758228269fe.pmtiles",
+   "bytes": 1229340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-735.a758228269fe.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 736,
+   "file": "11-1048-736.c6197b979317.pmtiles",
+   "bytes": 1222613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-736.c6197b979317.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 737,
+   "file": "11-1048-737.ec504e09e287.pmtiles",
+   "bytes": 1087713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-737.ec504e09e287.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 738,
+   "file": "11-1048-738.4950aba8048c.pmtiles",
+   "bytes": 647707,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1048-738.4950aba8048c.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 733,
+   "file": "11-1049-733.7e8e0db78501.pmtiles",
+   "bytes": 760691,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-733.7e8e0db78501.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 734,
+   "file": "11-1049-734.6c2ebe95dbc5.pmtiles",
+   "bytes": 691636,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-734.6c2ebe95dbc5.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 735,
+   "file": "11-1049-735.67772aa7028e.pmtiles",
+   "bytes": 530310,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-735.67772aa7028e.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 736,
+   "file": "11-1049-736.95d7f6043edb.pmtiles",
+   "bytes": 815228,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-736.95d7f6043edb.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 737,
+   "file": "11-1049-737.1e349bb58c45.pmtiles",
+   "bytes": 761141,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-737.1e349bb58c45.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 738,
+   "file": "11-1049-738.61de9114bc84.pmtiles",
+   "bytes": 474122,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-loire-2026-10-03/11-1049-738.61de9114bc84.pmtiles"
+  }
+ ]
+}

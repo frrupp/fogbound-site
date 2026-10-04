@@ -1,0 +1,453 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haute-corse",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:39:08.413Z",
+ "publishedAt": "2026-10-04T14:39:23.460Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haute-corse-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.57427,
+  41.83221,
+  9.56001,
+  43.0277
+ ],
+ "overview": {
+  "file": "overview.d0178c810c7e.pmtiles",
+  "bytes": 1161584,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/overview.d0178c810c7e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1072,
+   "y": 757,
+   "file": "11-1072-757.06de40f13215.pmtiles",
+   "bytes": 67103,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1072-757.06de40f13215.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 758,
+   "file": "11-1072-758.dd694684e102.pmtiles",
+   "bytes": 104033,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1072-758.dd694684e102.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 759,
+   "file": "11-1072-759.5b07a1c5db1a.pmtiles",
+   "bytes": 102374,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1072-759.5b07a1c5db1a.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 760,
+   "file": "11-1072-760.b63f44004320.pmtiles",
+   "bytes": 37669,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1072-760.b63f44004320.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 761,
+   "file": "11-1072-761.147b766a5086.pmtiles",
+   "bytes": 29655,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1072-761.147b766a5086.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 755,
+   "file": "11-1073-755.1b3c5e2821f9.pmtiles",
+   "bytes": 185554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-755.1b3c5e2821f9.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 756,
+   "file": "11-1073-756.1ee840ed434d.pmtiles",
+   "bytes": 313152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-756.1ee840ed434d.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 757,
+   "file": "11-1073-757.e3e31f3960ee.pmtiles",
+   "bytes": 655267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-757.e3e31f3960ee.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 758,
+   "file": "11-1073-758.dfe8c1043f03.pmtiles",
+   "bytes": 509252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-758.dfe8c1043f03.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 759,
+   "file": "11-1073-759.3d0da7f4c2a6.pmtiles",
+   "bytes": 478870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-759.3d0da7f4c2a6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 760,
+   "file": "11-1073-760.8beb2b22cc6e.pmtiles",
+   "bytes": 987942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-760.8beb2b22cc6e.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 761,
+   "file": "11-1073-761.3a0546a1b058.pmtiles",
+   "bytes": 178837,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1073-761.3a0546a1b058.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 755,
+   "file": "11-1074-755.2b7660eda892.pmtiles",
+   "bytes": 699529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-755.2b7660eda892.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 756,
+   "file": "11-1074-756.8ba31339c23e.pmtiles",
+   "bytes": 400416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-756.8ba31339c23e.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 757,
+   "file": "11-1074-757.14138cb02905.pmtiles",
+   "bytes": 228544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-757.14138cb02905.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 758,
+   "file": "11-1074-758.10e6917a685f.pmtiles",
+   "bytes": 485728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-758.10e6917a685f.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 759,
+   "file": "11-1074-759.8b15ee38bc33.pmtiles",
+   "bytes": 395888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-759.8b15ee38bc33.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 760,
+   "file": "11-1074-760.a160aa21e37e.pmtiles",
+   "bytes": 818380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-760.a160aa21e37e.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 761,
+   "file": "11-1074-761.f456e804834c.pmtiles",
+   "bytes": 452712,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1074-761.f456e804834c.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 754,
+   "file": "11-1075-754.87f5fc46dd22.pmtiles",
+   "bytes": 145096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-754.87f5fc46dd22.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 755,
+   "file": "11-1075-755.14729e80d41f.pmtiles",
+   "bytes": 364265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-755.14729e80d41f.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 756,
+   "file": "11-1075-756.4f21de3e42d9.pmtiles",
+   "bytes": 310517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-756.4f21de3e42d9.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 757,
+   "file": "11-1075-757.119f8f006978.pmtiles",
+   "bytes": 350971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-757.119f8f006978.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 758,
+   "file": "11-1075-758.45a82ec9c3af.pmtiles",
+   "bytes": 267160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-758.45a82ec9c3af.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 759,
+   "file": "11-1075-759.0f6c5e81cf02.pmtiles",
+   "bytes": 472307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-759.0f6c5e81cf02.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 760,
+   "file": "11-1075-760.ae13fccc1c40.pmtiles",
+   "bytes": 338928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-760.ae13fccc1c40.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 761,
+   "file": "11-1075-761.ef3c19a22cae.pmtiles",
+   "bytes": 355652,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1075-761.ef3c19a22cae.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 753,
+   "file": "11-1076-753.e1969a4c1f94.pmtiles",
+   "bytes": 25192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-753.e1969a4c1f94.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 754,
+   "file": "11-1076-754.76eb2c331dc7.pmtiles",
+   "bytes": 330884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-754.76eb2c331dc7.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 755,
+   "file": "11-1076-755.027e9c550dc3.pmtiles",
+   "bytes": 362344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-755.027e9c550dc3.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 756,
+   "file": "11-1076-756.0b2cf6058648.pmtiles",
+   "bytes": 414188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-756.0b2cf6058648.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 757,
+   "file": "11-1076-757.80bab5a2e1d4.pmtiles",
+   "bytes": 594251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-757.80bab5a2e1d4.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 758,
+   "file": "11-1076-758.18b55a851d5c.pmtiles",
+   "bytes": 424297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-758.18b55a851d5c.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 759,
+   "file": "11-1076-759.06e5478d7dc8.pmtiles",
+   "bytes": 303919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-759.06e5478d7dc8.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 760,
+   "file": "11-1076-760.0031bdad71db.pmtiles",
+   "bytes": 344212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-760.0031bdad71db.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 761,
+   "file": "11-1076-761.76a51a7915dd.pmtiles",
+   "bytes": 171978,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1076-761.76a51a7915dd.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 752,
+   "file": "11-1077-752.06f84c518d1b.pmtiles",
+   "bytes": 301944,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-752.06f84c518d1b.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 753,
+   "file": "11-1077-753.ac9674780d09.pmtiles",
+   "bytes": 447718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-753.ac9674780d09.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 754,
+   "file": "11-1077-754.3b5a17ca3616.pmtiles",
+   "bytes": 874348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-754.3b5a17ca3616.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 755,
+   "file": "11-1077-755.eb1c37db6e0f.pmtiles",
+   "bytes": 947985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-755.eb1c37db6e0f.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 756,
+   "file": "11-1077-756.85245113c042.pmtiles",
+   "bytes": 779443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-756.85245113c042.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 757,
+   "file": "11-1077-757.21439b0f0a4d.pmtiles",
+   "bytes": 602523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-757.21439b0f0a4d.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 758,
+   "file": "11-1077-758.e3a7ddbc2b77.pmtiles",
+   "bytes": 369760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-758.e3a7ddbc2b77.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 759,
+   "file": "11-1077-759.6f8c9eb2134c.pmtiles",
+   "bytes": 336390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-759.6f8c9eb2134c.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 760,
+   "file": "11-1077-760.60fb86aa511d.pmtiles",
+   "bytes": 517726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-760.60fb86aa511d.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 761,
+   "file": "11-1077-761.5c4ae1a37ce4.pmtiles",
+   "bytes": 174249,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1077-761.5c4ae1a37ce4.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 753,
+   "file": "11-1078-753.1245fef3dfc4.pmtiles",
+   "bytes": 27636,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-753.1245fef3dfc4.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 754,
+   "file": "11-1078-754.7cf17968fad2.pmtiles",
+   "bytes": 28989,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-754.7cf17968fad2.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 755,
+   "file": "11-1078-755.3a812030d236.pmtiles",
+   "bytes": 83352,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-755.3a812030d236.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 756,
+   "file": "11-1078-756.327305e11ee2.pmtiles",
+   "bytes": 221916,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-756.327305e11ee2.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 757,
+   "file": "11-1078-757.8fcb5a14dca4.pmtiles",
+   "bytes": 352337,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-757.8fcb5a14dca4.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 758,
+   "file": "11-1078-758.a2a1f3532e5c.pmtiles",
+   "bytes": 283434,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-758.a2a1f3532e5c.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 759,
+   "file": "11-1078-759.297bdff46971.pmtiles",
+   "bytes": 161705,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-corse-2026-10-03/11-1078-759.297bdff46971.pmtiles"
+  }
+ ]
+}

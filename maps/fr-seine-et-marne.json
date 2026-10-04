@@ -1,0 +1,605 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-seine-et-marne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:38:01.398Z",
+ "publishedAt": "2026-10-04T14:38:23.331Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-seine-et-marne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.39233,
+  48.12015,
+  3.55922,
+  49.11789
+ ],
+ "overview": {
+  "file": "overview.ceab8f2b8e8b.pmtiles",
+  "bytes": 4570580,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/overview.ceab8f2b8e8b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1037,
+   "y": 702,
+   "file": "11-1037-702.e659cc30a31e.pmtiles",
+   "bytes": 432078,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-702.e659cc30a31e.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 703,
+   "file": "11-1037-703.ef1a546ebe49.pmtiles",
+   "bytes": 2348934,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-703.ef1a546ebe49.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 704,
+   "file": "11-1037-704.4f3e1e0a0302.pmtiles",
+   "bytes": 6599593,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-704.4f3e1e0a0302.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 705,
+   "file": "11-1037-705.94bab725f6d9.pmtiles",
+   "bytes": 3768116,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-705.94bab725f6d9.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 706,
+   "file": "11-1037-706.d613edceb90c.pmtiles",
+   "bytes": 2051521,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-706.d613edceb90c.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 707,
+   "file": "11-1037-707.e9f63e428a06.pmtiles",
+   "bytes": 801580,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-707.e9f63e428a06.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 708,
+   "file": "11-1037-708.c95b456997a4.pmtiles",
+   "bytes": 521735,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-708.c95b456997a4.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 709,
+   "file": "11-1037-709.7ab28446878d.pmtiles",
+   "bytes": 430153,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-709.7ab28446878d.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 710,
+   "file": "11-1037-710.11ffc4d24855.pmtiles",
+   "bytes": 297909,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1037-710.11ffc4d24855.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 702,
+   "file": "11-1038-702.dc218566b9fa.pmtiles",
+   "bytes": 1048070,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-702.dc218566b9fa.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 703,
+   "file": "11-1038-703.3711eac7c871.pmtiles",
+   "bytes": 3445351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-703.3711eac7c871.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 704,
+   "file": "11-1038-704.4d181b66d8cb.pmtiles",
+   "bytes": 7660687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-704.4d181b66d8cb.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 705,
+   "file": "11-1038-705.6ca09d6ed2c0.pmtiles",
+   "bytes": 4702829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-705.6ca09d6ed2c0.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 706,
+   "file": "11-1038-706.c0fd5c2a2915.pmtiles",
+   "bytes": 2908172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-706.c0fd5c2a2915.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 707,
+   "file": "11-1038-707.a575ce66f422.pmtiles",
+   "bytes": 1668233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-707.a575ce66f422.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 708,
+   "file": "11-1038-708.b7b04a29c976.pmtiles",
+   "bytes": 982022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-708.b7b04a29c976.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 709,
+   "file": "11-1038-709.18423aee8d57.pmtiles",
+   "bytes": 442817,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-709.18423aee8d57.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 710,
+   "file": "11-1038-710.74a27a33f089.pmtiles",
+   "bytes": 388791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1038-710.74a27a33f089.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 702,
+   "file": "11-1039-702.ac40d8b1a7d7.pmtiles",
+   "bytes": 737357,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-702.ac40d8b1a7d7.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 703,
+   "file": "11-1039-703.ab6894e62e12.pmtiles",
+   "bytes": 960815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-703.ab6894e62e12.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 704,
+   "file": "11-1039-704.21478bc085f2.pmtiles",
+   "bytes": 2962356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-704.21478bc085f2.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 705,
+   "file": "11-1039-705.3d03d9081af5.pmtiles",
+   "bytes": 1335617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-705.3d03d9081af5.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 706,
+   "file": "11-1039-706.fbd066590964.pmtiles",
+   "bytes": 766562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-706.fbd066590964.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 707,
+   "file": "11-1039-707.ab6d24f98a6b.pmtiles",
+   "bytes": 1517224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-707.ab6d24f98a6b.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 708,
+   "file": "11-1039-708.9d928932f455.pmtiles",
+   "bytes": 1515617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-708.9d928932f455.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 709,
+   "file": "11-1039-709.a8f352528143.pmtiles",
+   "bytes": 1039700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-709.a8f352528143.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 710,
+   "file": "11-1039-710.463c8cce0ddc.pmtiles",
+   "bytes": 810373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1039-710.463c8cce0ddc.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 702,
+   "file": "11-1040-702.a3b13c31a3ef.pmtiles",
+   "bytes": 328913,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-702.a3b13c31a3ef.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 703,
+   "file": "11-1040-703.3648191e2e70.pmtiles",
+   "bytes": 1419642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-703.3648191e2e70.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 704,
+   "file": "11-1040-704.932bacfd2546.pmtiles",
+   "bytes": 1275997,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-704.932bacfd2546.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 705,
+   "file": "11-1040-705.09df0fba7467.pmtiles",
+   "bytes": 567228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-705.09df0fba7467.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 706,
+   "file": "11-1040-706.121526666fbf.pmtiles",
+   "bytes": 613900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-706.121526666fbf.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 707,
+   "file": "11-1040-707.a4aa228d5f48.pmtiles",
+   "bytes": 418569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-707.a4aa228d5f48.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 708,
+   "file": "11-1040-708.96c9f05d521e.pmtiles",
+   "bytes": 1123809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-708.96c9f05d521e.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 709,
+   "file": "11-1040-709.4f4414168af5.pmtiles",
+   "bytes": 644412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-709.4f4414168af5.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 710,
+   "file": "11-1040-710.6516c1a8cedf.pmtiles",
+   "bytes": 540378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1040-710.6516c1a8cedf.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 702,
+   "file": "11-1041-702.21206bce656d.pmtiles",
+   "bytes": 463696,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-702.21206bce656d.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 703,
+   "file": "11-1041-703.97cc4e059261.pmtiles",
+   "bytes": 922527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-703.97cc4e059261.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 704,
+   "file": "11-1041-704.5f703a7fe6ea.pmtiles",
+   "bytes": 710048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-704.5f703a7fe6ea.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 705,
+   "file": "11-1041-705.989bcd3f931d.pmtiles",
+   "bytes": 569530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-705.989bcd3f931d.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 706,
+   "file": "11-1041-706.ad532c4181e8.pmtiles",
+   "bytes": 350784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-706.ad532c4181e8.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 707,
+   "file": "11-1041-707.df91aacdb9ba.pmtiles",
+   "bytes": 555188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-707.df91aacdb9ba.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 708,
+   "file": "11-1041-708.620beb1d452c.pmtiles",
+   "bytes": 750667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-708.620beb1d452c.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 709,
+   "file": "11-1041-709.46eab7156af0.pmtiles",
+   "bytes": 668906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-709.46eab7156af0.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 710,
+   "file": "11-1041-710.823e2211182d.pmtiles",
+   "bytes": 633632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1041-710.823e2211182d.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 702,
+   "file": "11-1042-702.39f2e9f1c49b.pmtiles",
+   "bytes": 445923,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-702.39f2e9f1c49b.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 703,
+   "file": "11-1042-703.a4747e40f707.pmtiles",
+   "bytes": 758590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-703.a4747e40f707.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 704,
+   "file": "11-1042-704.acb55b354a16.pmtiles",
+   "bytes": 603643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-704.acb55b354a16.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 705,
+   "file": "11-1042-705.d5e614448ecd.pmtiles",
+   "bytes": 567345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-705.d5e614448ecd.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 706,
+   "file": "11-1042-706.4f2fb2a73aac.pmtiles",
+   "bytes": 313677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-706.4f2fb2a73aac.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 707,
+   "file": "11-1042-707.f6e1f84d42ed.pmtiles",
+   "bytes": 940106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-707.f6e1f84d42ed.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 708,
+   "file": "11-1042-708.8ab30e40bc20.pmtiles",
+   "bytes": 533540,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-708.8ab30e40bc20.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 709,
+   "file": "11-1042-709.c8cec2fa2dec.pmtiles",
+   "bytes": 700983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-709.c8cec2fa2dec.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 710,
+   "file": "11-1042-710.882868b6e5ea.pmtiles",
+   "bytes": 1549988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1042-710.882868b6e5ea.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 702,
+   "file": "11-1043-702.5e0d12fe415b.pmtiles",
+   "bytes": 732492,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-702.5e0d12fe415b.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 703,
+   "file": "11-1043-703.3bce413976fa.pmtiles",
+   "bytes": 659456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-703.3bce413976fa.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 704,
+   "file": "11-1043-704.fd444c797900.pmtiles",
+   "bytes": 492604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-704.fd444c797900.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 705,
+   "file": "11-1043-705.e632f47198e6.pmtiles",
+   "bytes": 381662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-705.e632f47198e6.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 706,
+   "file": "11-1043-706.505c0edec9c1.pmtiles",
+   "bytes": 273002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-706.505c0edec9c1.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 707,
+   "file": "11-1043-707.5c8c5edc2ab6.pmtiles",
+   "bytes": 574589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-707.5c8c5edc2ab6.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 708,
+   "file": "11-1043-708.d7f8a43dc9af.pmtiles",
+   "bytes": 329834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-708.d7f8a43dc9af.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 709,
+   "file": "11-1043-709.bda86c03c0ac.pmtiles",
+   "bytes": 338824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-709.bda86c03c0ac.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 710,
+   "file": "11-1043-710.ebdd97bdbeca.pmtiles",
+   "bytes": 557832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1043-710.ebdd97bdbeca.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 702,
+   "file": "11-1044-702.797ef9e8d6e7.pmtiles",
+   "bytes": 183915,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-702.797ef9e8d6e7.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 703,
+   "file": "11-1044-703.213d97a58919.pmtiles",
+   "bytes": 225696,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-703.213d97a58919.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 704,
+   "file": "11-1044-704.1b445ae0b0fa.pmtiles",
+   "bytes": 180429,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-704.1b445ae0b0fa.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 705,
+   "file": "11-1044-705.94eaca766f46.pmtiles",
+   "bytes": 132924,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-705.94eaca766f46.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 706,
+   "file": "11-1044-706.4ed55f6de0e7.pmtiles",
+   "bytes": 144231,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-706.4ed55f6de0e7.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 707,
+   "file": "11-1044-707.6aa7a72b8c5a.pmtiles",
+   "bytes": 157421,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-707.6aa7a72b8c5a.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 708,
+   "file": "11-1044-708.20427ca2e9b1.pmtiles",
+   "bytes": 77469,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-708.20427ca2e9b1.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 709,
+   "file": "11-1044-709.2ccce936770e.pmtiles",
+   "bytes": 141492,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-709.2ccce936770e.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 710,
+   "file": "11-1044-710.4348bbe575ca.pmtiles",
+   "bytes": 153325,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-et-marne-2026-10-03/11-1044-710.4348bbe575ca.pmtiles"
+  }
+ ]
+}

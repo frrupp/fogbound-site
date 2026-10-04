@@ -1,0 +1,637 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-savoie",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:46:37.592Z",
+ "publishedAt": "2026-10-04T15:46:59.524Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-savoie-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.62183,
+  45.05162,
+  7.18593,
+  45.93827
+ ],
+ "overview": {
+  "file": "overview.204e35089661.pmtiles",
+  "bytes": 4942349,
+  "tiles": 62,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/overview.204e35089661.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1055,
+   "y": 729,
+   "file": "11-1055-729.8ef7806074e2.pmtiles",
+   "bytes": 162671,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-729.8ef7806074e2.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 730,
+   "file": "11-1055-730.442ddf3f711c.pmtiles",
+   "bytes": 226126,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-730.442ddf3f711c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 731,
+   "file": "11-1055-731.1e25c4f4c6c3.pmtiles",
+   "bytes": 292307,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-731.1e25c4f4c6c3.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 732,
+   "file": "11-1055-732.5d9b6cd24630.pmtiles",
+   "bytes": 262272,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-732.5d9b6cd24630.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 733,
+   "file": "11-1055-733.f47305fd7928.pmtiles",
+   "bytes": 395709,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-733.f47305fd7928.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 734,
+   "file": "11-1055-734.cd7e0f989fd6.pmtiles",
+   "bytes": 343098,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-734.cd7e0f989fd6.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 735,
+   "file": "11-1055-735.04a569697081.pmtiles",
+   "bytes": 250274,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-735.04a569697081.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 736,
+   "file": "11-1055-736.23dcd095e5bf.pmtiles",
+   "bytes": 114662,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1055-736.23dcd095e5bf.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 729,
+   "file": "11-1056-729.ee1904f4a834.pmtiles",
+   "bytes": 1153773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-729.ee1904f4a834.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 730,
+   "file": "11-1056-730.2ae5dc68a624.pmtiles",
+   "bytes": 1298639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-730.2ae5dc68a624.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 731,
+   "file": "11-1056-731.3bbf07247b0a.pmtiles",
+   "bytes": 1197797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-731.3bbf07247b0a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 732,
+   "file": "11-1056-732.f8d5770ce8b4.pmtiles",
+   "bytes": 1390352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-732.f8d5770ce8b4.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 733,
+   "file": "11-1056-733.4a3b85e9dd81.pmtiles",
+   "bytes": 1107205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-733.4a3b85e9dd81.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 734,
+   "file": "11-1056-734.fa7771bdde76.pmtiles",
+   "bytes": 2051350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-734.fa7771bdde76.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 735,
+   "file": "11-1056-735.2f5cae8ceb1d.pmtiles",
+   "bytes": 5512081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-735.2f5cae8ceb1d.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 736,
+   "file": "11-1056-736.8b573f9fd71f.pmtiles",
+   "bytes": 956727,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1056-736.8b573f9fd71f.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 729,
+   "file": "11-1057-729.f9afe73e10a0.pmtiles",
+   "bytes": 1259417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-729.f9afe73e10a0.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 730,
+   "file": "11-1057-730.9a02302dce39.pmtiles",
+   "bytes": 1452326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-730.9a02302dce39.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 731,
+   "file": "11-1057-731.41f80221801c.pmtiles",
+   "bytes": 2452272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-731.41f80221801c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 732,
+   "file": "11-1057-732.21b45f8232c9.pmtiles",
+   "bytes": 2369851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-732.21b45f8232c9.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 733,
+   "file": "11-1057-733.89d31ed487e1.pmtiles",
+   "bytes": 1082905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-733.89d31ed487e1.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 734,
+   "file": "11-1057-734.13292ee78666.pmtiles",
+   "bytes": 2118609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-734.13292ee78666.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 735,
+   "file": "11-1057-735.81f2649b4358.pmtiles",
+   "bytes": 1402418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-735.81f2649b4358.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 736,
+   "file": "11-1057-736.15149a10cbc5.pmtiles",
+   "bytes": 325844,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1057-736.15149a10cbc5.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 729,
+   "file": "11-1058-729.fe2de167f25f.pmtiles",
+   "bytes": 3026285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-729.fe2de167f25f.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 730,
+   "file": "11-1058-730.02bbbb0d0719.pmtiles",
+   "bytes": 1321997,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-730.02bbbb0d0719.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 731,
+   "file": "11-1058-731.e985e5350141.pmtiles",
+   "bytes": 926081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-731.e985e5350141.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 732,
+   "file": "11-1058-732.a9de9f0724ca.pmtiles",
+   "bytes": 1645547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-732.a9de9f0724ca.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 733,
+   "file": "11-1058-733.010e044f92b6.pmtiles",
+   "bytes": 1352275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-733.010e044f92b6.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 734,
+   "file": "11-1058-734.289464d6a902.pmtiles",
+   "bytes": 640790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-734.289464d6a902.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 735,
+   "file": "11-1058-735.824913885d82.pmtiles",
+   "bytes": 665790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-735.824913885d82.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 736,
+   "file": "11-1058-736.b738cb8f79aa.pmtiles",
+   "bytes": 433202,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1058-736.b738cb8f79aa.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 729,
+   "file": "11-1059-729.d69f1a98fd6a.pmtiles",
+   "bytes": 1378498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-729.d69f1a98fd6a.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 730,
+   "file": "11-1059-730.52480cb088f5.pmtiles",
+   "bytes": 1144839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-730.52480cb088f5.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 731,
+   "file": "11-1059-731.e8e1e71b2c4b.pmtiles",
+   "bytes": 1141493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-731.e8e1e71b2c4b.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 732,
+   "file": "11-1059-732.7dd8e397b29d.pmtiles",
+   "bytes": 1180292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-732.7dd8e397b29d.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 733,
+   "file": "11-1059-733.54e79f3df5c6.pmtiles",
+   "bytes": 753203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-733.54e79f3df5c6.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 734,
+   "file": "11-1059-734.17092a4ebf20.pmtiles",
+   "bytes": 778520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-734.17092a4ebf20.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 735,
+   "file": "11-1059-735.a088d85a07d4.pmtiles",
+   "bytes": 421126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-735.a088d85a07d4.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 736,
+   "file": "11-1059-736.e6b3c13780a6.pmtiles",
+   "bytes": 323925,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1059-736.e6b3c13780a6.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 729,
+   "file": "11-1060-729.569c50c1d37c.pmtiles",
+   "bytes": 995385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-729.569c50c1d37c.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 730,
+   "file": "11-1060-730.239427cc747a.pmtiles",
+   "bytes": 1181198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-730.239427cc747a.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 731,
+   "file": "11-1060-731.f1d70b9cde66.pmtiles",
+   "bytes": 1519368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-731.f1d70b9cde66.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 732,
+   "file": "11-1060-732.7befefa8eeff.pmtiles",
+   "bytes": 788412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-732.7befefa8eeff.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 733,
+   "file": "11-1060-733.10ef610fc5d4.pmtiles",
+   "bytes": 610210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-733.10ef610fc5d4.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 734,
+   "file": "11-1060-734.f88cad7fdfbe.pmtiles",
+   "bytes": 1151157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-734.f88cad7fdfbe.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 735,
+   "file": "11-1060-735.6d27b0ea616f.pmtiles",
+   "bytes": 746418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-735.6d27b0ea616f.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 736,
+   "file": "11-1060-736.d3f85b5d2a7a.pmtiles",
+   "bytes": 230060,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1060-736.d3f85b5d2a7a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 729,
+   "file": "11-1061-729.c941ccbc580a.pmtiles",
+   "bytes": 1430549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-729.c941ccbc580a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 730,
+   "file": "11-1061-730.566e2da06c0f.pmtiles",
+   "bytes": 933183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-730.566e2da06c0f.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 731,
+   "file": "11-1061-731.2b8edfcb59a3.pmtiles",
+   "bytes": 501708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-731.2b8edfcb59a3.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 732,
+   "file": "11-1061-732.3e3c0e044892.pmtiles",
+   "bytes": 1011470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-732.3e3c0e044892.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 733,
+   "file": "11-1061-733.bc2203f51096.pmtiles",
+   "bytes": 1133078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-733.bc2203f51096.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 734,
+   "file": "11-1061-734.f9a68627b49a.pmtiles",
+   "bytes": 626177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-734.f9a68627b49a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 735,
+   "file": "11-1061-735.80e0cb60c624.pmtiles",
+   "bytes": 888874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-735.80e0cb60c624.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 736,
+   "file": "11-1061-736.c7094a19d589.pmtiles",
+   "bytes": 475759,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1061-736.c7094a19d589.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 729,
+   "file": "11-1062-729.d987479efcbe.pmtiles",
+   "bytes": 1595524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-729.d987479efcbe.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 730,
+   "file": "11-1062-730.180a069e5661.pmtiles",
+   "bytes": 482394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-730.180a069e5661.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 731,
+   "file": "11-1062-731.768c4622222f.pmtiles",
+   "bytes": 848689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-731.768c4622222f.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 732,
+   "file": "11-1062-732.c9068e69639e.pmtiles",
+   "bytes": 918059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-732.c9068e69639e.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 733,
+   "file": "11-1062-733.0b92d9030d50.pmtiles",
+   "bytes": 535259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-733.0b92d9030d50.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 734,
+   "file": "11-1062-734.3b480fc5a9ce.pmtiles",
+   "bytes": 681575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-734.3b480fc5a9ce.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 735,
+   "file": "11-1062-735.fbec859773e5.pmtiles",
+   "bytes": 308185,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-735.fbec859773e5.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 736,
+   "file": "11-1062-736.8388ca738b47.pmtiles",
+   "bytes": 23900,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1062-736.8388ca738b47.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 729,
+   "file": "11-1063-729.147eddb06eb6.pmtiles",
+   "bytes": 586701,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-729.147eddb06eb6.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 730,
+   "file": "11-1063-730.eeba2124e21a.pmtiles",
+   "bytes": 33200,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-730.eeba2124e21a.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 731,
+   "file": "11-1063-731.c168d53d42a6.pmtiles",
+   "bytes": 311900,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-731.c168d53d42a6.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 732,
+   "file": "11-1063-732.de610389dd6f.pmtiles",
+   "bytes": 549959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-732.de610389dd6f.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 733,
+   "file": "11-1063-733.cbf76b86ed0f.pmtiles",
+   "bytes": 360225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-733.cbf76b86ed0f.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 734,
+   "file": "11-1063-734.eca181d5dacc.pmtiles",
+   "bytes": 1000553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-734.eca181d5dacc.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 735,
+   "file": "11-1063-735.89b54bb2ebb7.pmtiles",
+   "bytes": 419110,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1063-735.89b54bb2ebb7.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 729,
+   "file": "11-1064-729.8b860abe8dd5.pmtiles",
+   "bytes": 45244,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1064-729.8b860abe8dd5.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 732,
+   "file": "11-1064-732.78f77785bd21.pmtiles",
+   "bytes": 30348,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1064-732.78f77785bd21.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 733,
+   "file": "11-1064-733.797033b29d39.pmtiles",
+   "bytes": 271275,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1064-733.797033b29d39.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 734,
+   "file": "11-1064-734.1002c8f8bb5a.pmtiles",
+   "bytes": 173498,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1064-734.1002c8f8bb5a.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 735,
+   "file": "11-1064-735.52fcb1e7f3d9.pmtiles",
+   "bytes": 22048,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-savoie-2026-10-03/11-1064-735.52fcb1e7f3d9.pmtiles"
+  }
+ ]
+}

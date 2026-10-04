@@ -1,0 +1,605 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haute-vienne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:40:28.579Z",
+ "publishedAt": "2026-10-04T14:40:49.200Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haute-vienne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.62934,
+  45.43659,
+  1.91041,
+  46.40145
+ ],
+ "overview": {
+  "file": "overview.0e391fc1fb62.pmtiles",
+  "bytes": 3921748,
+  "tiles": 46,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/overview.0e391fc1fb62.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1027,
+   "y": 725,
+   "file": "11-1027-725.bc2564293276.pmtiles",
+   "bytes": 240363,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-725.bc2564293276.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 726,
+   "file": "11-1027-726.536a3462efe7.pmtiles",
+   "bytes": 303239,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-726.536a3462efe7.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 727,
+   "file": "11-1027-727.a6a1fc852b46.pmtiles",
+   "bytes": 244953,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-727.a6a1fc852b46.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 728,
+   "file": "11-1027-728.cee5b4556b12.pmtiles",
+   "bytes": 400047,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-728.cee5b4556b12.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 729,
+   "file": "11-1027-729.f31544a138d1.pmtiles",
+   "bytes": 381520,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-729.f31544a138d1.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 730,
+   "file": "11-1027-730.233c20946e2f.pmtiles",
+   "bytes": 322917,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-730.233c20946e2f.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 731,
+   "file": "11-1027-731.abe25e69322f.pmtiles",
+   "bytes": 418298,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-731.abe25e69322f.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 732,
+   "file": "11-1027-732.5d127358e076.pmtiles",
+   "bytes": 442293,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-732.5d127358e076.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 733,
+   "file": "11-1027-733.f6f6efe6aba2.pmtiles",
+   "bytes": 115768,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1027-733.f6f6efe6aba2.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 725,
+   "file": "11-1028-725.b85c94475b3b.pmtiles",
+   "bytes": 441657,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-725.b85c94475b3b.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 726,
+   "file": "11-1028-726.4d41a03ca3fd.pmtiles",
+   "bytes": 401414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-726.4d41a03ca3fd.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 727,
+   "file": "11-1028-727.bb05bfa9ddb7.pmtiles",
+   "bytes": 370934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-727.bb05bfa9ddb7.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 728,
+   "file": "11-1028-728.71788c81ad76.pmtiles",
+   "bytes": 575047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-728.71788c81ad76.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 729,
+   "file": "11-1028-729.0f9d879542a5.pmtiles",
+   "bytes": 920946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-729.0f9d879542a5.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 730,
+   "file": "11-1028-730.6da2dfefdeb8.pmtiles",
+   "bytes": 818718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-730.6da2dfefdeb8.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 731,
+   "file": "11-1028-731.8dad6152bd07.pmtiles",
+   "bytes": 747354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-731.8dad6152bd07.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 732,
+   "file": "11-1028-732.b93145b9fd64.pmtiles",
+   "bytes": 737454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-732.b93145b9fd64.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 733,
+   "file": "11-1028-733.a0014cf14e16.pmtiles",
+   "bytes": 234732,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1028-733.a0014cf14e16.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 725,
+   "file": "11-1029-725.add35f1aff32.pmtiles",
+   "bytes": 281088,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-725.add35f1aff32.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 726,
+   "file": "11-1029-726.0d870741509c.pmtiles",
+   "bytes": 524602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-726.0d870741509c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 727,
+   "file": "11-1029-727.bef78f4b1d0b.pmtiles",
+   "bytes": 624062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-727.bef78f4b1d0b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 728,
+   "file": "11-1029-728.37e34aa35ebb.pmtiles",
+   "bytes": 624466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-728.37e34aa35ebb.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 729,
+   "file": "11-1029-729.29f0035ffd8b.pmtiles",
+   "bytes": 1147849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-729.29f0035ffd8b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 730,
+   "file": "11-1029-730.5899469c8518.pmtiles",
+   "bytes": 749841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-730.5899469c8518.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 731,
+   "file": "11-1029-731.2326b48c1ab5.pmtiles",
+   "bytes": 902070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-731.2326b48c1ab5.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 732,
+   "file": "11-1029-732.66e185cd3932.pmtiles",
+   "bytes": 768326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-732.66e185cd3932.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 733,
+   "file": "11-1029-733.6e3cf8e46348.pmtiles",
+   "bytes": 250185,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1029-733.6e3cf8e46348.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 725,
+   "file": "11-1030-725.8d67a7d5a8eb.pmtiles",
+   "bytes": 330199,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-725.8d67a7d5a8eb.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 726,
+   "file": "11-1030-726.899cd62a71cc.pmtiles",
+   "bytes": 504108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-726.899cd62a71cc.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 727,
+   "file": "11-1030-727.b98f9596ec11.pmtiles",
+   "bytes": 812750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-727.b98f9596ec11.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 728,
+   "file": "11-1030-728.215927241a46.pmtiles",
+   "bytes": 784494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-728.215927241a46.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 729,
+   "file": "11-1030-729.e62c96cca98c.pmtiles",
+   "bytes": 1304880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-729.e62c96cca98c.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 730,
+   "file": "11-1030-730.dfe37846dae9.pmtiles",
+   "bytes": 1430457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-730.dfe37846dae9.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 731,
+   "file": "11-1030-731.cbde60566c99.pmtiles",
+   "bytes": 814796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-731.cbde60566c99.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 732,
+   "file": "11-1030-732.9594be603861.pmtiles",
+   "bytes": 833524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-732.9594be603861.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 733,
+   "file": "11-1030-733.20bc6102d707.pmtiles",
+   "bytes": 221745,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1030-733.20bc6102d707.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 725,
+   "file": "11-1031-725.c9d033847920.pmtiles",
+   "bytes": 553544,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-725.c9d033847920.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 726,
+   "file": "11-1031-726.130e0ec52316.pmtiles",
+   "bytes": 559055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-726.130e0ec52316.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 727,
+   "file": "11-1031-727.14c20f15f9fd.pmtiles",
+   "bytes": 976147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-727.14c20f15f9fd.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 728,
+   "file": "11-1031-728.77299aa60e66.pmtiles",
+   "bytes": 947364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-728.77299aa60e66.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 729,
+   "file": "11-1031-729.d818ca2e6474.pmtiles",
+   "bytes": 2535451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-729.d818ca2e6474.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 730,
+   "file": "11-1031-730.324db204dd96.pmtiles",
+   "bytes": 1744421,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-730.324db204dd96.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 731,
+   "file": "11-1031-731.30c71b5751e8.pmtiles",
+   "bytes": 722317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-731.30c71b5751e8.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 732,
+   "file": "11-1031-732.b82bdaf7fc28.pmtiles",
+   "bytes": 636656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-732.b82bdaf7fc28.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 733,
+   "file": "11-1031-733.eddee785c8d4.pmtiles",
+   "bytes": 253939,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1031-733.eddee785c8d4.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 725,
+   "file": "11-1032-725.260e339ef794.pmtiles",
+   "bytes": 1015350,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-725.260e339ef794.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 726,
+   "file": "11-1032-726.aad9fa08392b.pmtiles",
+   "bytes": 1394509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-726.aad9fa08392b.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 727,
+   "file": "11-1032-727.700495600243.pmtiles",
+   "bytes": 1034556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-727.700495600243.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 728,
+   "file": "11-1032-728.e8195eab64eb.pmtiles",
+   "bytes": 867685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-728.e8195eab64eb.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 729,
+   "file": "11-1032-729.08f579e3bbf1.pmtiles",
+   "bytes": 1125389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-729.08f579e3bbf1.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 730,
+   "file": "11-1032-730.3e8c98c19a30.pmtiles",
+   "bytes": 1046507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-730.3e8c98c19a30.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 731,
+   "file": "11-1032-731.d1abe7ce0c53.pmtiles",
+   "bytes": 795553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-731.d1abe7ce0c53.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 732,
+   "file": "11-1032-732.bda3c6bdc3e5.pmtiles",
+   "bytes": 744983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-732.bda3c6bdc3e5.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 733,
+   "file": "11-1032-733.c62f2c1529f1.pmtiles",
+   "bytes": 286564,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1032-733.c62f2c1529f1.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 725,
+   "file": "11-1033-725.3857e6c04642.pmtiles",
+   "bytes": 955413,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-725.3857e6c04642.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 726,
+   "file": "11-1033-726.844aaa3b01d8.pmtiles",
+   "bytes": 1093995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-726.844aaa3b01d8.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 727,
+   "file": "11-1033-727.ab9e64bb29e7.pmtiles",
+   "bytes": 864787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-727.ab9e64bb29e7.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 728,
+   "file": "11-1033-728.c0ee88523b97.pmtiles",
+   "bytes": 834266,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-728.c0ee88523b97.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 729,
+   "file": "11-1033-729.fffdc9aa17f1.pmtiles",
+   "bytes": 928056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-729.fffdc9aa17f1.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 730,
+   "file": "11-1033-730.8e1cea3ea527.pmtiles",
+   "bytes": 1071189,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-730.8e1cea3ea527.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 731,
+   "file": "11-1033-731.47788dfd77b5.pmtiles",
+   "bytes": 656253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-731.47788dfd77b5.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 732,
+   "file": "11-1033-732.3434174a7af6.pmtiles",
+   "bytes": 654904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-732.3434174a7af6.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 733,
+   "file": "11-1033-733.0e411c2d7e65.pmtiles",
+   "bytes": 228705,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1033-733.0e411c2d7e65.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 725,
+   "file": "11-1034-725.219fef88c764.pmtiles",
+   "bytes": 853958,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-725.219fef88c764.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 726,
+   "file": "11-1034-726.0f26acffbf02.pmtiles",
+   "bytes": 967794,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-726.0f26acffbf02.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 727,
+   "file": "11-1034-727.2af040d029bb.pmtiles",
+   "bytes": 1163108,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-727.2af040d029bb.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 728,
+   "file": "11-1034-728.cb68d9561e95.pmtiles",
+   "bytes": 805388,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-728.cb68d9561e95.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 729,
+   "file": "11-1034-729.d4ad87b49eab.pmtiles",
+   "bytes": 599962,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-729.d4ad87b49eab.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 730,
+   "file": "11-1034-730.44b9979ee022.pmtiles",
+   "bytes": 780296,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-730.44b9979ee022.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 731,
+   "file": "11-1034-731.0c2e2a3f05df.pmtiles",
+   "bytes": 536512,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-731.0c2e2a3f05df.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 732,
+   "file": "11-1034-732.7819dda6687d.pmtiles",
+   "bytes": 642831,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-732.7819dda6687d.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 733,
+   "file": "11-1034-733.3c0c5fd1f20c.pmtiles",
+   "bytes": 201645,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-vienne-2026-10-03/11-1034-733.3c0c5fd1f20c.pmtiles"
+  }
+ ]
+}

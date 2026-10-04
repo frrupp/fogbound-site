@@ -1,0 +1,549 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-calvados",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:34:17.487Z",
+ "publishedAt": "2026-10-04T13:34:36.416Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-calvados-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.15977,
+  48.75172,
+  0.44662,
+  49.42987
+ ],
+ "overview": {
+  "file": "overview.657ec73b7cbd.pmtiles",
+  "bytes": 3759935,
+  "tiles": 58,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/overview.657ec73b7cbd.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1017,
+   "y": 699,
+   "file": "11-1017-699.1a089b3063ce.pmtiles",
+   "bytes": 72517,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-699.1a089b3063ce.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 700,
+   "file": "11-1017-700.c287d1599de2.pmtiles",
+   "bytes": 624294,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-700.c287d1599de2.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 701,
+   "file": "11-1017-701.f185b75fe2be.pmtiles",
+   "bytes": 625898,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-701.f185b75fe2be.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 702,
+   "file": "11-1017-702.29eb2f942455.pmtiles",
+   "bytes": 1056257,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-702.29eb2f942455.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 703,
+   "file": "11-1017-703.7b0408a0df27.pmtiles",
+   "bytes": 522085,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-703.7b0408a0df27.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 704,
+   "file": "11-1017-704.1b3b14ec9e0d.pmtiles",
+   "bytes": 556233,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-704.1b3b14ec9e0d.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 705,
+   "file": "11-1017-705.bb6c9045c065.pmtiles",
+   "bytes": 327800,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1017-705.bb6c9045c065.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 699,
+   "file": "11-1018-699.dad2a8653883.pmtiles",
+   "bytes": 179838,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-699.dad2a8653883.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 700,
+   "file": "11-1018-700.b6add6605861.pmtiles",
+   "bytes": 1032677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-700.b6add6605861.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 701,
+   "file": "11-1018-701.b5cb078e30e4.pmtiles",
+   "bytes": 1107525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-701.b5cb078e30e4.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 702,
+   "file": "11-1018-702.59b8ba1b065c.pmtiles",
+   "bytes": 859784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-702.59b8ba1b065c.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 703,
+   "file": "11-1018-703.0746e01edb87.pmtiles",
+   "bytes": 822733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-703.0746e01edb87.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 704,
+   "file": "11-1018-704.ecc3ee30bfa2.pmtiles",
+   "bytes": 1026377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-704.ecc3ee30bfa2.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 705,
+   "file": "11-1018-705.20f28d996f3b.pmtiles",
+   "bytes": 345376,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1018-705.20f28d996f3b.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 700,
+   "file": "11-1019-700.e0547d551ffb.pmtiles",
+   "bytes": 1136158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-700.e0547d551ffb.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 701,
+   "file": "11-1019-701.ae8497bcb665.pmtiles",
+   "bytes": 1242301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-701.ae8497bcb665.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 702,
+   "file": "11-1019-702.07e8fdfb0076.pmtiles",
+   "bytes": 1186416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-702.07e8fdfb0076.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 703,
+   "file": "11-1019-703.eda60bab204e.pmtiles",
+   "bytes": 973987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-703.eda60bab204e.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 704,
+   "file": "11-1019-704.081f9256f0df.pmtiles",
+   "bytes": 906781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-704.081f9256f0df.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 705,
+   "file": "11-1019-705.79e4ec0dddd0.pmtiles",
+   "bytes": 352928,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1019-705.79e4ec0dddd0.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 700,
+   "file": "11-1020-700.9d534582e821.pmtiles",
+   "bytes": 1019516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-700.9d534582e821.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 701,
+   "file": "11-1020-701.602e6dde9114.pmtiles",
+   "bytes": 1110201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-701.602e6dde9114.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 702,
+   "file": "11-1020-702.6376620e2373.pmtiles",
+   "bytes": 1293260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-702.6376620e2373.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 703,
+   "file": "11-1020-703.21fde4c20536.pmtiles",
+   "bytes": 1062878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-703.21fde4c20536.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 704,
+   "file": "11-1020-704.8876312172e5.pmtiles",
+   "bytes": 936646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-704.8876312172e5.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 705,
+   "file": "11-1020-705.50d2b9693ed4.pmtiles",
+   "bytes": 596620,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1020-705.50d2b9693ed4.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 700,
+   "file": "11-1021-700.831af13cef77.pmtiles",
+   "bytes": 1103424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-700.831af13cef77.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 701,
+   "file": "11-1021-701.a5b92b9ac293.pmtiles",
+   "bytes": 3001746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-701.a5b92b9ac293.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 702,
+   "file": "11-1021-702.7911e167988c.pmtiles",
+   "bytes": 1647839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-702.7911e167988c.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 703,
+   "file": "11-1021-703.ba508affdc39.pmtiles",
+   "bytes": 1188538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-703.ba508affdc39.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 704,
+   "file": "11-1021-704.44ba2d10dbf1.pmtiles",
+   "bytes": 1106861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-704.44ba2d10dbf1.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 705,
+   "file": "11-1021-705.41def39abeeb.pmtiles",
+   "bytes": 359650,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1021-705.41def39abeeb.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 700,
+   "file": "11-1022-700.d1e0d5279c63.pmtiles",
+   "bytes": 725355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-700.d1e0d5279c63.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 701,
+   "file": "11-1022-701.25ab03292014.pmtiles",
+   "bytes": 2637078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-701.25ab03292014.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 702,
+   "file": "11-1022-702.67a28d024161.pmtiles",
+   "bytes": 1319382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-702.67a28d024161.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 703,
+   "file": "11-1022-703.da1d41eac9d6.pmtiles",
+   "bytes": 911594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-703.da1d41eac9d6.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 704,
+   "file": "11-1022-704.d4d8cccf9ce4.pmtiles",
+   "bytes": 1000410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-704.d4d8cccf9ce4.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 705,
+   "file": "11-1022-705.74fcabd45720.pmtiles",
+   "bytes": 340759,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1022-705.74fcabd45720.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 700,
+   "file": "11-1023-700.52095d3c28ea.pmtiles",
+   "bytes": 897808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-700.52095d3c28ea.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 701,
+   "file": "11-1023-701.8260ab6f1c82.pmtiles",
+   "bytes": 1036296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-701.8260ab6f1c82.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 702,
+   "file": "11-1023-702.3cb2b5285e8c.pmtiles",
+   "bytes": 918842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-702.3cb2b5285e8c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 703,
+   "file": "11-1023-703.fc81a6de581c.pmtiles",
+   "bytes": 634952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-703.fc81a6de581c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 704,
+   "file": "11-1023-704.0ad3a864adc2.pmtiles",
+   "bytes": 603799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-704.0ad3a864adc2.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 705,
+   "file": "11-1023-705.77c9b8955c09.pmtiles",
+   "bytes": 317001,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1023-705.77c9b8955c09.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 699,
+   "file": "11-1024-699.c35917cbf5cf.pmtiles",
+   "bytes": 180538,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-699.c35917cbf5cf.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 700,
+   "file": "11-1024-700.6805970a22ce.pmtiles",
+   "bytes": 1282895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-700.6805970a22ce.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 701,
+   "file": "11-1024-701.d00885fc292b.pmtiles",
+   "bytes": 794773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-701.d00885fc292b.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 702,
+   "file": "11-1024-702.70de471607b0.pmtiles",
+   "bytes": 599513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-702.70de471607b0.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 703,
+   "file": "11-1024-703.21d31e3728e8.pmtiles",
+   "bytes": 517169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-703.21d31e3728e8.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 704,
+   "file": "11-1024-704.ee3152162cbf.pmtiles",
+   "bytes": 459117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-704.ee3152162cbf.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 705,
+   "file": "11-1024-705.c94bdfce2229.pmtiles",
+   "bytes": 242769,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1024-705.c94bdfce2229.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 699,
+   "file": "11-1025-699.7960d8dfbd22.pmtiles",
+   "bytes": 713221,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-699.7960d8dfbd22.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 700,
+   "file": "11-1025-700.c1838f0f003f.pmtiles",
+   "bytes": 863363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-700.c1838f0f003f.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 701,
+   "file": "11-1025-701.9fc91d384451.pmtiles",
+   "bytes": 859278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-701.9fc91d384451.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 702,
+   "file": "11-1025-702.1966929a8e4c.pmtiles",
+   "bytes": 964134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-702.1966929a8e4c.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 703,
+   "file": "11-1025-703.66e04637677e.pmtiles",
+   "bytes": 532868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-703.66e04637677e.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 704,
+   "file": "11-1025-704.e7c57faa84b5.pmtiles",
+   "bytes": 445681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-704.e7c57faa84b5.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 705,
+   "file": "11-1025-705.c7d661309ee7.pmtiles",
+   "bytes": 266668,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1025-705.c7d661309ee7.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 699,
+   "file": "11-1026-699.2648b873e9f7.pmtiles",
+   "bytes": 223117,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-699.2648b873e9f7.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 700,
+   "file": "11-1026-700.a0c70d04fa91.pmtiles",
+   "bytes": 428962,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-700.a0c70d04fa91.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 701,
+   "file": "11-1026-701.b274c711b25a.pmtiles",
+   "bytes": 446950,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-701.b274c711b25a.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 702,
+   "file": "11-1026-702.b59a29de0cbb.pmtiles",
+   "bytes": 420020,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-702.b59a29de0cbb.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 703,
+   "file": "11-1026-703.396301308140.pmtiles",
+   "bytes": 395435,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-703.396301308140.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 704,
+   "file": "11-1026-704.f08493f2c198.pmtiles",
+   "bytes": 298764,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-704.f08493f2c198.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 705,
+   "file": "11-1026-705.2156830fc7b9.pmtiles",
+   "bytes": 127682,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-calvados-2026-10-03/11-1026-705.2156830fc7b9.pmtiles"
+  }
+ ]
+}

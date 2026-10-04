@@ -1,0 +1,61 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-seine-saint-denis",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:25:26.384Z",
+ "publishedAt": "2026-10-04T13:25:32.031Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-seine-saint-denis-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.28828,
+  48.80725,
+  2.6033,
+  49.01233
+ ],
+ "overview": {
+  "file": "overview.938b7ae66a70.pmtiles",
+  "bytes": 1772570,
+  "tiles": 19,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-saint-denis-2026-10-03/overview.938b7ae66a70.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1037,
+   "y": 703,
+   "file": "11-1037-703.cd84a95e0037.pmtiles",
+   "bytes": 5157061,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-saint-denis-2026-10-03/11-1037-703.cd84a95e0037.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 704,
+   "file": "11-1037-704.4f1ad1042eb5.pmtiles",
+   "bytes": 17420005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-saint-denis-2026-10-03/11-1037-704.4f1ad1042eb5.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 703,
+   "file": "11-1038-703.bdbaa37300c2.pmtiles",
+   "bytes": 3169036,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-saint-denis-2026-10-03/11-1038-703.bdbaa37300c2.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 704,
+   "file": "11-1038-704.2dbf0a9160ed.pmtiles",
+   "bytes": 7219141,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-seine-saint-denis-2026-10-03/11-1038-704.2dbf0a9160ed.pmtiles"
+  }
+ ]
+}

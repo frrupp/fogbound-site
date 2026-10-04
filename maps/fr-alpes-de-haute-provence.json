@@ -1,0 +1,677 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-alpes-de-haute-provence",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:50:15.980Z",
+ "publishedAt": "2026-10-04T15:50:39.616Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-alpes-de-haute-provence-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.49642,
+  43.66823,
+  6.96914,
+  44.65991
+ ],
+ "overview": {
+  "file": "overview.3f28093a90eb.pmtiles",
+  "bytes": 3705737,
+  "tiles": 48,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/overview.3f28093a90eb.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1055,
+   "y": 739,
+   "file": "11-1055-739.3f84c687d13e.pmtiles",
+   "bytes": 280093,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-739.3f84c687d13e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 740,
+   "file": "11-1055-740.04c6bfe4180c.pmtiles",
+   "bytes": 313515,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-740.04c6bfe4180c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 741,
+   "file": "11-1055-741.978de799df96.pmtiles",
+   "bytes": 370651,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-741.978de799df96.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 742,
+   "file": "11-1055-742.79afc2035869.pmtiles",
+   "bytes": 393441,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-742.79afc2035869.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 743,
+   "file": "11-1055-743.7a920e9c30f0.pmtiles",
+   "bytes": 423339,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-743.7a920e9c30f0.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 744,
+   "file": "11-1055-744.a8f6b5556b60.pmtiles",
+   "bytes": 468255,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-744.a8f6b5556b60.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 745,
+   "file": "11-1055-745.28a691a27a90.pmtiles",
+   "bytes": 687735,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-745.28a691a27a90.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 746,
+   "file": "11-1055-746.57f1ebbff973.pmtiles",
+   "bytes": 912498,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-746.57f1ebbff973.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 747,
+   "file": "11-1055-747.70050fe1b5f6.pmtiles",
+   "bytes": 766922,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1055-747.70050fe1b5f6.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 739,
+   "file": "11-1056-739.3594ed48f6cc.pmtiles",
+   "bytes": 381147,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-739.3594ed48f6cc.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 740,
+   "file": "11-1056-740.83aa57643894.pmtiles",
+   "bytes": 513995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-740.83aa57643894.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 741,
+   "file": "11-1056-741.093ff23b71ee.pmtiles",
+   "bytes": 813271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-741.093ff23b71ee.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 742,
+   "file": "11-1056-742.a24ba033e2a6.pmtiles",
+   "bytes": 603927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-742.a24ba033e2a6.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 743,
+   "file": "11-1056-743.69d77054dc15.pmtiles",
+   "bytes": 348139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-743.69d77054dc15.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 744,
+   "file": "11-1056-744.0ceb8f78c9fb.pmtiles",
+   "bytes": 541255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-744.0ceb8f78c9fb.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 745,
+   "file": "11-1056-745.3b02626e4c20.pmtiles",
+   "bytes": 1082112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-745.3b02626e4c20.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 746,
+   "file": "11-1056-746.d6811654e578.pmtiles",
+   "bytes": 1402051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-746.d6811654e578.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 747,
+   "file": "11-1056-747.580e6b03c4a6.pmtiles",
+   "bytes": 307787,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1056-747.580e6b03c4a6.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 739,
+   "file": "11-1057-739.10722d4acef0.pmtiles",
+   "bytes": 429521,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-739.10722d4acef0.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 740,
+   "file": "11-1057-740.4de5ced1c570.pmtiles",
+   "bytes": 786691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-740.4de5ced1c570.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 741,
+   "file": "11-1057-741.96a34da3f5f5.pmtiles",
+   "bytes": 796450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-741.96a34da3f5f5.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 742,
+   "file": "11-1057-742.71aa56d63366.pmtiles",
+   "bytes": 1018829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-742.71aa56d63366.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 743,
+   "file": "11-1057-743.b10c68bf43ff.pmtiles",
+   "bytes": 695783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-743.b10c68bf43ff.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 744,
+   "file": "11-1057-744.a13a6fe26040.pmtiles",
+   "bytes": 673679,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-744.a13a6fe26040.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 745,
+   "file": "11-1057-745.0b5763847355.pmtiles",
+   "bytes": 1019428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-745.0b5763847355.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 746,
+   "file": "11-1057-746.a0e0f6524f35.pmtiles",
+   "bytes": 1015160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-746.a0e0f6524f35.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 747,
+   "file": "11-1057-747.319fd85941a2.pmtiles",
+   "bytes": 368846,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1057-747.319fd85941a2.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 739,
+   "file": "11-1058-739.084ab165f474.pmtiles",
+   "bytes": 547160,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-739.084ab165f474.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 740,
+   "file": "11-1058-740.9374e70039ab.pmtiles",
+   "bytes": 1511973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-740.9374e70039ab.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 741,
+   "file": "11-1058-741.9727378a5297.pmtiles",
+   "bytes": 706125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-741.9727378a5297.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 742,
+   "file": "11-1058-742.5b5293e202cf.pmtiles",
+   "bytes": 595994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-742.5b5293e202cf.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 743,
+   "file": "11-1058-743.973545cb1837.pmtiles",
+   "bytes": 774443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-743.973545cb1837.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 744,
+   "file": "11-1058-744.f158e1c2510e.pmtiles",
+   "bytes": 828080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-744.f158e1c2510e.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 745,
+   "file": "11-1058-745.431be507809c.pmtiles",
+   "bytes": 526425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-745.431be507809c.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 746,
+   "file": "11-1058-746.4c0d374c0fe5.pmtiles",
+   "bytes": 731608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-746.4c0d374c0fe5.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 747,
+   "file": "11-1058-747.37d919be9753.pmtiles",
+   "bytes": 265463,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1058-747.37d919be9753.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 739,
+   "file": "11-1059-739.ea2c7071576d.pmtiles",
+   "bytes": 575869,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-739.ea2c7071576d.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 740,
+   "file": "11-1059-740.e059d796f7ce.pmtiles",
+   "bytes": 1059979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-740.e059d796f7ce.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 741,
+   "file": "11-1059-741.ef3d2554fe7c.pmtiles",
+   "bytes": 778841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-741.ef3d2554fe7c.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 742,
+   "file": "11-1059-742.f0db7afcfa12.pmtiles",
+   "bytes": 550897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-742.f0db7afcfa12.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 743,
+   "file": "11-1059-743.1d8c94c2665f.pmtiles",
+   "bytes": 761275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-743.1d8c94c2665f.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 744,
+   "file": "11-1059-744.f35c5b91a497.pmtiles",
+   "bytes": 726982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-744.f35c5b91a497.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 745,
+   "file": "11-1059-745.7b53febbd559.pmtiles",
+   "bytes": 456640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-745.7b53febbd559.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 746,
+   "file": "11-1059-746.40ab4f132f18.pmtiles",
+   "bytes": 508730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-746.40ab4f132f18.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 747,
+   "file": "11-1059-747.7850db29496c.pmtiles",
+   "bytes": 99512,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1059-747.7850db29496c.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 739,
+   "file": "11-1060-739.115193d0d4a4.pmtiles",
+   "bytes": 391830,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-739.115193d0d4a4.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 740,
+   "file": "11-1060-740.23aaa893d615.pmtiles",
+   "bytes": 1158996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-740.23aaa893d615.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 741,
+   "file": "11-1060-741.3e85ff8a43d9.pmtiles",
+   "bytes": 791633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-741.3e85ff8a43d9.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 742,
+   "file": "11-1060-742.0f50f615e791.pmtiles",
+   "bytes": 508721,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-742.0f50f615e791.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 743,
+   "file": "11-1060-743.bdcda976c0a4.pmtiles",
+   "bytes": 357633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-743.bdcda976c0a4.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 744,
+   "file": "11-1060-744.2da35e1a7054.pmtiles",
+   "bytes": 417347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-744.2da35e1a7054.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 745,
+   "file": "11-1060-745.5084d6643c16.pmtiles",
+   "bytes": 378323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-745.5084d6643c16.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 746,
+   "file": "11-1060-746.252dff04fcff.pmtiles",
+   "bytes": 422316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-746.252dff04fcff.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 747,
+   "file": "11-1060-747.66c5e61422f7.pmtiles",
+   "bytes": 79196,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1060-747.66c5e61422f7.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 739,
+   "file": "11-1061-739.e3722dd98abb.pmtiles",
+   "bytes": 693781,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-739.e3722dd98abb.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 740,
+   "file": "11-1061-740.09693e0966f3.pmtiles",
+   "bytes": 713384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-740.09693e0966f3.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 741,
+   "file": "11-1061-741.68d5fdd216f4.pmtiles",
+   "bytes": 697796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-741.68d5fdd216f4.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 742,
+   "file": "11-1061-742.be8263da3fe2.pmtiles",
+   "bytes": 560877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-742.be8263da3fe2.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 743,
+   "file": "11-1061-743.68a92ff56419.pmtiles",
+   "bytes": 438229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-743.68a92ff56419.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 744,
+   "file": "11-1061-744.e1c7c3e6743a.pmtiles",
+   "bytes": 428537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-744.e1c7c3e6743a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 745,
+   "file": "11-1061-745.6fd6080a48d5.pmtiles",
+   "bytes": 515406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-745.6fd6080a48d5.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 746,
+   "file": "11-1061-746.20c793a9e154.pmtiles",
+   "bytes": 473253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-746.20c793a9e154.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 747,
+   "file": "11-1061-747.1b73bb687b84.pmtiles",
+   "bytes": 87999,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1061-747.1b73bb687b84.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 739,
+   "file": "11-1062-739.30644c34effa.pmtiles",
+   "bytes": 530801,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-739.30644c34effa.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 740,
+   "file": "11-1062-740.801567bcb4fb.pmtiles",
+   "bytes": 436573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-740.801567bcb4fb.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 741,
+   "file": "11-1062-741.3665f27d0d6c.pmtiles",
+   "bytes": 449079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-741.3665f27d0d6c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 742,
+   "file": "11-1062-742.9802dbcfad2a.pmtiles",
+   "bytes": 362344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-742.9802dbcfad2a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 743,
+   "file": "11-1062-743.6f3fa0755570.pmtiles",
+   "bytes": 370026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-743.6f3fa0755570.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 744,
+   "file": "11-1062-744.bc76fca98de2.pmtiles",
+   "bytes": 374933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-744.bc76fca98de2.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 745,
+   "file": "11-1062-745.c09a49159732.pmtiles",
+   "bytes": 462170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-745.c09a49159732.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 746,
+   "file": "11-1062-746.8c493bff2e43.pmtiles",
+   "bytes": 491844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-746.8c493bff2e43.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 747,
+   "file": "11-1062-747.8f10814f1660.pmtiles",
+   "bytes": 376450,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1062-747.8f10814f1660.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 739,
+   "file": "11-1063-739.f311c0d37ff0.pmtiles",
+   "bytes": 292045,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-739.f311c0d37ff0.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 740,
+   "file": "11-1063-740.7c253d7fbbfa.pmtiles",
+   "bytes": 206422,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-740.7c253d7fbbfa.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 741,
+   "file": "11-1063-741.f90199893fd6.pmtiles",
+   "bytes": 321816,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-741.f90199893fd6.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 742,
+   "file": "11-1063-742.a819c709f09a.pmtiles",
+   "bytes": 594154,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-742.a819c709f09a.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 743,
+   "file": "11-1063-743.48a2ed69c69e.pmtiles",
+   "bytes": 329688,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-743.48a2ed69c69e.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 744,
+   "file": "11-1063-744.9f827e664ca3.pmtiles",
+   "bytes": 321827,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-744.9f827e664ca3.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 745,
+   "file": "11-1063-745.bc367f349569.pmtiles",
+   "bytes": 414158,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-745.bc367f349569.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 746,
+   "file": "11-1063-746.5f2a2e396834.pmtiles",
+   "bytes": 397902,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-746.5f2a2e396834.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 747,
+   "file": "11-1063-747.573d23194633.pmtiles",
+   "bytes": 650291,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-de-haute-provence-2026-10-03/11-1063-747.573d23194633.pmtiles"
+  }
+ ]
+}

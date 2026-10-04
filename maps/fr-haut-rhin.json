@@ -1,0 +1,397 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haut-rhin",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:28:57.798Z",
+ "publishedAt": "2026-10-04T13:29:11.760Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haut-rhin-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  6.84132,
+  47.42034,
+  7.62201,
+  48.31134
+ ],
+ "overview": {
+  "file": "overview.b06ea714efca.pmtiles",
+  "bytes": 2569609,
+  "tiles": 33,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/overview.b06ea714efca.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1062,
+   "y": 709,
+   "file": "11-1062-709.3b00e6242532.pmtiles",
+   "bytes": 90241,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-709.3b00e6242532.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 710,
+   "file": "11-1062-710.a97be8e6335a.pmtiles",
+   "bytes": 186456,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-710.a97be8e6335a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 711,
+   "file": "11-1062-711.16803d463d50.pmtiles",
+   "bytes": 199368,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-711.16803d463d50.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 712,
+   "file": "11-1062-712.a3c0aab9eb0c.pmtiles",
+   "bytes": 268513,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-712.a3c0aab9eb0c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 713,
+   "file": "11-1062-713.9bd3db656283.pmtiles",
+   "bytes": 267728,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-713.9bd3db656283.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 714,
+   "file": "11-1062-714.7a4ead15b830.pmtiles",
+   "bytes": 811145,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-714.7a4ead15b830.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 715,
+   "file": "11-1062-715.712aec83f342.pmtiles",
+   "bytes": 507785,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-715.712aec83f342.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 716,
+   "file": "11-1062-716.483c5ed3fead.pmtiles",
+   "bytes": 525698,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1062-716.483c5ed3fead.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 709,
+   "file": "11-1063-709.200be98b2aca.pmtiles",
+   "bytes": 1134016,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-709.200be98b2aca.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 710,
+   "file": "11-1063-710.18fe73254952.pmtiles",
+   "bytes": 983888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-710.18fe73254952.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 711,
+   "file": "11-1063-711.39ce30a3444a.pmtiles",
+   "bytes": 1264784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-711.39ce30a3444a.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 712,
+   "file": "11-1063-712.e0f586e1cd4e.pmtiles",
+   "bytes": 948853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-712.e0f586e1cd4e.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 713,
+   "file": "11-1063-713.5e0f7d4ef269.pmtiles",
+   "bytes": 992519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-713.5e0f7d4ef269.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 714,
+   "file": "11-1063-714.047ea7ae8007.pmtiles",
+   "bytes": 2054476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-714.047ea7ae8007.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 715,
+   "file": "11-1063-715.67904004629b.pmtiles",
+   "bytes": 1461144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-715.67904004629b.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 716,
+   "file": "11-1063-716.34a632af737f.pmtiles",
+   "bytes": 953471,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1063-716.34a632af737f.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 709,
+   "file": "11-1064-709.3dddaec2308c.pmtiles",
+   "bytes": 826107,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-709.3dddaec2308c.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 710,
+   "file": "11-1064-710.08df788bf690.pmtiles",
+   "bytes": 993149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-710.08df788bf690.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 711,
+   "file": "11-1064-711.d880c57dacb8.pmtiles",
+   "bytes": 1335440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-711.d880c57dacb8.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 712,
+   "file": "11-1064-712.c764cd2a25b9.pmtiles",
+   "bytes": 1044512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-712.c764cd2a25b9.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 713,
+   "file": "11-1064-713.1a1e15a27dd2.pmtiles",
+   "bytes": 1452401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-713.1a1e15a27dd2.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 714,
+   "file": "11-1064-714.d66aa00fc110.pmtiles",
+   "bytes": 930677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-714.d66aa00fc110.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 715,
+   "file": "11-1064-715.d88af3706c6d.pmtiles",
+   "bytes": 914578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-715.d88af3706c6d.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 716,
+   "file": "11-1064-716.0bed2d37414e.pmtiles",
+   "bytes": 293416,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1064-716.0bed2d37414e.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 709,
+   "file": "11-1065-709.31385237a14d.pmtiles",
+   "bytes": 685173,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-709.31385237a14d.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 710,
+   "file": "11-1065-710.4f2921a787a2.pmtiles",
+   "bytes": 1235676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-710.4f2921a787a2.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 711,
+   "file": "11-1065-711.54770cce1163.pmtiles",
+   "bytes": 1924080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-711.54770cce1163.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 712,
+   "file": "11-1065-712.f30e499c613d.pmtiles",
+   "bytes": 1341684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-712.f30e499c613d.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 713,
+   "file": "11-1065-713.5aba99c7f1d7.pmtiles",
+   "bytes": 2347883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-713.5aba99c7f1d7.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 714,
+   "file": "11-1065-714.a81c1f0ef4d9.pmtiles",
+   "bytes": 2243743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-714.a81c1f0ef4d9.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 715,
+   "file": "11-1065-715.ea75f2fd3a04.pmtiles",
+   "bytes": 1158954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-715.ea75f2fd3a04.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 716,
+   "file": "11-1065-716.713994617b68.pmtiles",
+   "bytes": 756030,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1065-716.713994617b68.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 709,
+   "file": "11-1066-709.d6da32631524.pmtiles",
+   "bytes": 1154653,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-709.d6da32631524.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 710,
+   "file": "11-1066-710.f1c73b06c4f7.pmtiles",
+   "bytes": 660177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-710.f1c73b06c4f7.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 711,
+   "file": "11-1066-711.3839ecb9b773.pmtiles",
+   "bytes": 959250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-711.3839ecb9b773.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 712,
+   "file": "11-1066-712.64f474d7af70.pmtiles",
+   "bytes": 569208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-712.64f474d7af70.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 713,
+   "file": "11-1066-713.80bae766a1cd.pmtiles",
+   "bytes": 672760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-713.80bae766a1cd.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 714,
+   "file": "11-1066-714.791ebf9abe90.pmtiles",
+   "bytes": 1194684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-714.791ebf9abe90.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 715,
+   "file": "11-1066-715.154183f7a6f7.pmtiles",
+   "bytes": 1525955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-715.154183f7a6f7.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 716,
+   "file": "11-1066-716.ba35787149b3.pmtiles",
+   "bytes": 485635,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1066-716.ba35787149b3.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 709,
+   "file": "11-1067-709.a419f44ae1f0.pmtiles",
+   "bytes": 354580,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-709.a419f44ae1f0.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 710,
+   "file": "11-1067-710.d0c5048992e4.pmtiles",
+   "bytes": 256917,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-710.d0c5048992e4.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 711,
+   "file": "11-1067-711.bfc562268e13.pmtiles",
+   "bytes": 285961,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-711.bfc562268e13.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 712,
+   "file": "11-1067-712.0fb22d09dee4.pmtiles",
+   "bytes": 206200,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-712.0fb22d09dee4.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 713,
+   "file": "11-1067-713.05ef7884b82e.pmtiles",
+   "bytes": 35262,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-713.05ef7884b82e.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 715,
+   "file": "11-1067-715.ceab97fde30c.pmtiles",
+   "bytes": 439715,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haut-rhin-2026-10-03/11-1067-715.ceab97fde30c.pmtiles"
+  }
+ ]
+}

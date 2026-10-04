@@ -1,0 +1,429 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-ariege",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:33:07.649Z",
+ "publishedAt": "2026-10-04T13:33:22.148Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-ariege-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.82675,
+  42.57324,
+  2.17581,
+  43.31625
+ ],
+ "overview": {
+  "file": "overview.15bbbd187ac2.pmtiles",
+  "bytes": 2507005,
+  "tiles": 34,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/overview.15bbbd187ac2.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1028,
+   "y": 750,
+   "file": "11-1028-750.b61f967201a3.pmtiles",
+   "bytes": 563424,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1028-750.b61f967201a3.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 751,
+   "file": "11-1028-751.41b0b0aea136.pmtiles",
+   "bytes": 545872,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1028-751.41b0b0aea136.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 752,
+   "file": "11-1028-752.4576b4a5c1fe.pmtiles",
+   "bytes": 239190,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1028-752.4576b4a5c1fe.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 753,
+   "file": "11-1028-753.4e1fa3719e18.pmtiles",
+   "bytes": 148473,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1028-753.4e1fa3719e18.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 750,
+   "file": "11-1029-750.cde3caf6a82b.pmtiles",
+   "bytes": 1258796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1029-750.cde3caf6a82b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 751,
+   "file": "11-1029-751.ebef9f243d4b.pmtiles",
+   "bytes": 1234867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1029-751.ebef9f243d4b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 752,
+   "file": "11-1029-752.6f7a4ed6bc9d.pmtiles",
+   "bytes": 746240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1029-752.6f7a4ed6bc9d.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 753,
+   "file": "11-1029-753.21f28f855440.pmtiles",
+   "bytes": 624691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1029-753.21f28f855440.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 754,
+   "file": "11-1029-754.0ec3bae8806f.pmtiles",
+   "bytes": 90561,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1029-754.0ec3bae8806f.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 750,
+   "file": "11-1030-750.5ac0e4e825e3.pmtiles",
+   "bytes": 978063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1030-750.5ac0e4e825e3.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 751,
+   "file": "11-1030-751.2c7a134fca93.pmtiles",
+   "bytes": 829846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1030-751.2c7a134fca93.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 752,
+   "file": "11-1030-752.ced6c260e178.pmtiles",
+   "bytes": 1086757,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1030-752.ced6c260e178.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 753,
+   "file": "11-1030-753.dd53c9e98544.pmtiles",
+   "bytes": 649827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1030-753.dd53c9e98544.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 754,
+   "file": "11-1030-754.d5f5b118d36b.pmtiles",
+   "bytes": 292115,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1030-754.d5f5b118d36b.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 750,
+   "file": "11-1031-750.f75e4b1e935d.pmtiles",
+   "bytes": 1120284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-750.f75e4b1e935d.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 751,
+   "file": "11-1031-751.f3a3d38e1fbe.pmtiles",
+   "bytes": 849719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-751.f3a3d38e1fbe.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 752,
+   "file": "11-1031-752.ad4fe28136bc.pmtiles",
+   "bytes": 564263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-752.ad4fe28136bc.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 753,
+   "file": "11-1031-753.aba3f228b909.pmtiles",
+   "bytes": 646286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-753.aba3f228b909.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 754,
+   "file": "11-1031-754.8f3ebcb25997.pmtiles",
+   "bytes": 648196,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-754.8f3ebcb25997.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 755,
+   "file": "11-1031-755.e6f2c0cebffd.pmtiles",
+   "bytes": 64244,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1031-755.e6f2c0cebffd.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 750,
+   "file": "11-1032-750.e82220570e30.pmtiles",
+   "bytes": 954943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-750.e82220570e30.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 751,
+   "file": "11-1032-751.a326d9a78b3a.pmtiles",
+   "bytes": 1349455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-751.a326d9a78b3a.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 752,
+   "file": "11-1032-752.af7404ddce1a.pmtiles",
+   "bytes": 754797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-752.af7404ddce1a.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 753,
+   "file": "11-1032-753.8cf8a927304b.pmtiles",
+   "bytes": 487902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-753.8cf8a927304b.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 754,
+   "file": "11-1032-754.0609f5e2b33a.pmtiles",
+   "bytes": 538292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-754.0609f5e2b33a.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 755,
+   "file": "11-1032-755.6d9717a7c65c.pmtiles",
+   "bytes": 227936,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1032-755.6d9717a7c65c.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 750,
+   "file": "11-1033-750.9a8fc427e7ce.pmtiles",
+   "bytes": 778230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-750.9a8fc427e7ce.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 751,
+   "file": "11-1033-751.78c71aa3673a.pmtiles",
+   "bytes": 1116371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-751.78c71aa3673a.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 752,
+   "file": "11-1033-752.a76f1e230577.pmtiles",
+   "bytes": 1026404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-752.a76f1e230577.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 753,
+   "file": "11-1033-753.d62e0526951a.pmtiles",
+   "bytes": 787299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-753.d62e0526951a.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 754,
+   "file": "11-1033-754.36a39a84948f.pmtiles",
+   "bytes": 446340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-754.36a39a84948f.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 755,
+   "file": "11-1033-755.904a9cec51b0.pmtiles",
+   "bytes": 228723,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1033-755.904a9cec51b0.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 750,
+   "file": "11-1034-750.e1bd8c9d2370.pmtiles",
+   "bytes": 909191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-750.e1bd8c9d2370.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 751,
+   "file": "11-1034-751.f36d27942d19.pmtiles",
+   "bytes": 695380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-751.f36d27942d19.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 752,
+   "file": "11-1034-752.c71d7dc67849.pmtiles",
+   "bytes": 875778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-752.c71d7dc67849.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 753,
+   "file": "11-1034-753.212b7c0dd08b.pmtiles",
+   "bytes": 695385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-753.212b7c0dd08b.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 754,
+   "file": "11-1034-754.0276c3e65eef.pmtiles",
+   "bytes": 585874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-754.0276c3e65eef.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 755,
+   "file": "11-1034-755.7b54d1f46e31.pmtiles",
+   "bytes": 352000,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1034-755.7b54d1f46e31.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 750,
+   "file": "11-1035-750.0bf365b15d76.pmtiles",
+   "bytes": 1009390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-750.0bf365b15d76.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 751,
+   "file": "11-1035-751.7c1a154ee0ea.pmtiles",
+   "bytes": 679589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-751.7c1a154ee0ea.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 752,
+   "file": "11-1035-752.c705de160be6.pmtiles",
+   "bytes": 573662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-752.c705de160be6.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 753,
+   "file": "11-1035-753.4a2ed64ac1bc.pmtiles",
+   "bytes": 559033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-753.4a2ed64ac1bc.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 754,
+   "file": "11-1035-754.a5bc8652c7a6.pmtiles",
+   "bytes": 418768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-754.a5bc8652c7a6.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 755,
+   "file": "11-1035-755.79e89738613b.pmtiles",
+   "bytes": 716201,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1035-755.79e89738613b.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 750,
+   "file": "11-1036-750.1d90a48c2294.pmtiles",
+   "bytes": 450165,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-750.1d90a48c2294.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 751,
+   "file": "11-1036-751.012996e9dea9.pmtiles",
+   "bytes": 383970,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-751.012996e9dea9.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 752,
+   "file": "11-1036-752.517a97649314.pmtiles",
+   "bytes": 458097,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-752.517a97649314.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 753,
+   "file": "11-1036-753.d9e904e04db1.pmtiles",
+   "bytes": 530944,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-753.d9e904e04db1.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 754,
+   "file": "11-1036-754.e29c944d3deb.pmtiles",
+   "bytes": 183028,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-754.e29c944d3deb.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 755,
+   "file": "11-1036-755.482c2a62342a.pmtiles",
+   "bytes": 333699,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ariege-2026-10-03/11-1036-755.482c2a62342a.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-paris",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:25:09.024Z",
+ "publishedAt": "2026-10-04T13:25:14.129Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-paris-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.22412,
+  48.81558,
+  2.46976,
+  48.90216
+ ],
+ "overview": {
+  "file": "overview.61ee05903bad.pmtiles",
+  "bytes": 998582,
+  "tiles": 12,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-paris-2026-10-03/overview.61ee05903bad.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1036,
+   "y": 704,
+   "file": "11-1036-704.1b2d8192a5c3.pmtiles",
+   "bytes": 4601466,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-paris-2026-10-03/11-1036-704.1b2d8192a5c3.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 704,
+   "file": "11-1037-704.e2a002f4bae0.pmtiles",
+   "bytes": 16348996,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-paris-2026-10-03/11-1037-704.e2a002f4bae0.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 704,
+   "file": "11-1038-704.f123ca0b5367.pmtiles",
+   "bytes": 1533899,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-paris-2026-10-03/11-1038-704.f123ca0b5367.pmtiles"
+  }
+ ]
+}

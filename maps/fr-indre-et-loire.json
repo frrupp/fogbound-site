@@ -1,0 +1,605 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-indre-et-loire",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:42:57.013Z",
+ "publishedAt": "2026-10-04T14:43:18.170Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-indre-et-loire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.05276,
+  46.73666,
+  1.36594,
+  47.70979
+ ],
+ "overview": {
+  "file": "overview.da430323fe6f.pmtiles",
+  "bytes": 2890790,
+  "tiles": 37,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/overview.da430323fe6f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1024,
+   "y": 714,
+   "file": "11-1024-714.850cb23469fc.pmtiles",
+   "bytes": 699735,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-714.850cb23469fc.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 715,
+   "file": "11-1024-715.e48b7750885c.pmtiles",
+   "bytes": 630535,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-715.e48b7750885c.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 716,
+   "file": "11-1024-716.3b8d0130d8d5.pmtiles",
+   "bytes": 621182,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-716.3b8d0130d8d5.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 717,
+   "file": "11-1024-717.a52752903784.pmtiles",
+   "bytes": 667093,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-717.a52752903784.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 718,
+   "file": "11-1024-718.a42c5da1447f.pmtiles",
+   "bytes": 1205664,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-718.a42c5da1447f.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 719,
+   "file": "11-1024-719.499a1a1214a1.pmtiles",
+   "bytes": 572887,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-719.499a1a1214a1.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 720,
+   "file": "11-1024-720.ba33546a1550.pmtiles",
+   "bytes": 737630,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-720.ba33546a1550.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 721,
+   "file": "11-1024-721.5ff2bf62ebf6.pmtiles",
+   "bytes": 430193,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-721.5ff2bf62ebf6.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 722,
+   "file": "11-1024-722.bddf2a047b63.pmtiles",
+   "bytes": 289376,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1024-722.bddf2a047b63.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 714,
+   "file": "11-1025-714.5d7538636a19.pmtiles",
+   "bytes": 813259,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-714.5d7538636a19.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 715,
+   "file": "11-1025-715.39bc4ea27bab.pmtiles",
+   "bytes": 838685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-715.39bc4ea27bab.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 716,
+   "file": "11-1025-716.121a5a03f9ec.pmtiles",
+   "bytes": 868652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-716.121a5a03f9ec.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 717,
+   "file": "11-1025-717.aa2ce3ae6bca.pmtiles",
+   "bytes": 892636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-717.aa2ce3ae6bca.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 718,
+   "file": "11-1025-718.5d7d1da9ce96.pmtiles",
+   "bytes": 1465483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-718.5d7d1da9ce96.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 719,
+   "file": "11-1025-719.71e7f3a92ea4.pmtiles",
+   "bytes": 1033010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-719.71e7f3a92ea4.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 720,
+   "file": "11-1025-720.f09a1f80d4af.pmtiles",
+   "bytes": 716284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-720.f09a1f80d4af.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 721,
+   "file": "11-1025-721.5525299f7882.pmtiles",
+   "bytes": 637257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-721.5525299f7882.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 722,
+   "file": "11-1025-722.d5effca4635b.pmtiles",
+   "bytes": 555083,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1025-722.d5effca4635b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 714,
+   "file": "11-1026-714.f15a3fe61430.pmtiles",
+   "bytes": 1028058,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-714.f15a3fe61430.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 715,
+   "file": "11-1026-715.69aca846a992.pmtiles",
+   "bytes": 824470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-715.69aca846a992.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 716,
+   "file": "11-1026-716.6b8894981f93.pmtiles",
+   "bytes": 860523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-716.6b8894981f93.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 717,
+   "file": "11-1026-717.2616e3002f20.pmtiles",
+   "bytes": 1378697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-717.2616e3002f20.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 718,
+   "file": "11-1026-718.6f75459744de.pmtiles",
+   "bytes": 810096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-718.6f75459744de.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 719,
+   "file": "11-1026-719.48e195632edd.pmtiles",
+   "bytes": 1010211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-719.48e195632edd.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 720,
+   "file": "11-1026-720.43a7fdb2cb49.pmtiles",
+   "bytes": 707486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-720.43a7fdb2cb49.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 721,
+   "file": "11-1026-721.462dc93f7d1a.pmtiles",
+   "bytes": 791462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-721.462dc93f7d1a.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 722,
+   "file": "11-1026-722.a676cdd234d6.pmtiles",
+   "bytes": 698024,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1026-722.a676cdd234d6.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 714,
+   "file": "11-1027-714.b94984ab8acd.pmtiles",
+   "bytes": 612748,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-714.b94984ab8acd.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 715,
+   "file": "11-1027-715.70294efee809.pmtiles",
+   "bytes": 808284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-715.70294efee809.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 716,
+   "file": "11-1027-716.96a65e7b0fff.pmtiles",
+   "bytes": 2532629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-716.96a65e7b0fff.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 717,
+   "file": "11-1027-717.dfa4e6042bdc.pmtiles",
+   "bytes": 4165198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-717.dfa4e6042bdc.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 718,
+   "file": "11-1027-718.e3154120f9e1.pmtiles",
+   "bytes": 1046593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-718.e3154120f9e1.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 719,
+   "file": "11-1027-719.112e21b5e78c.pmtiles",
+   "bytes": 1012116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-719.112e21b5e78c.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 720,
+   "file": "11-1027-720.ce5b3b756b8b.pmtiles",
+   "bytes": 987894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-720.ce5b3b756b8b.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 721,
+   "file": "11-1027-721.c726f235d590.pmtiles",
+   "bytes": 1209632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-721.c726f235d590.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 722,
+   "file": "11-1027-722.d6a43552d5d9.pmtiles",
+   "bytes": 617363,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1027-722.d6a43552d5d9.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 714,
+   "file": "11-1028-714.1b292f99ab04.pmtiles",
+   "bytes": 508682,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-714.1b292f99ab04.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 715,
+   "file": "11-1028-715.37d644383843.pmtiles",
+   "bytes": 724627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-715.37d644383843.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 716,
+   "file": "11-1028-716.c3e21af0974b.pmtiles",
+   "bytes": 1944191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-716.c3e21af0974b.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 717,
+   "file": "11-1028-717.624f7ff381b0.pmtiles",
+   "bytes": 3370433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-717.624f7ff381b0.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 718,
+   "file": "11-1028-718.85b9d661638f.pmtiles",
+   "bytes": 1064919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-718.85b9d661638f.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 719,
+   "file": "11-1028-719.feb51d87541b.pmtiles",
+   "bytes": 740400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-719.feb51d87541b.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 720,
+   "file": "11-1028-720.4f3d9dc53c22.pmtiles",
+   "bytes": 673855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-720.4f3d9dc53c22.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 721,
+   "file": "11-1028-721.4603668fe20c.pmtiles",
+   "bytes": 679632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-721.4603668fe20c.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 722,
+   "file": "11-1028-722.6b37ab037a9c.pmtiles",
+   "bytes": 512475,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1028-722.6b37ab037a9c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 714,
+   "file": "11-1029-714.b2669467e016.pmtiles",
+   "bytes": 511966,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-714.b2669467e016.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 715,
+   "file": "11-1029-715.0db5395c8231.pmtiles",
+   "bytes": 991330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-715.0db5395c8231.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 716,
+   "file": "11-1029-716.fa6a360849cc.pmtiles",
+   "bytes": 1617301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-716.fa6a360849cc.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 717,
+   "file": "11-1029-717.e8a127f52c18.pmtiles",
+   "bytes": 1737909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-717.e8a127f52c18.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 718,
+   "file": "11-1029-718.7b6557ea025b.pmtiles",
+   "bytes": 1068694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-718.7b6557ea025b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 719,
+   "file": "11-1029-719.136b0de9d0d5.pmtiles",
+   "bytes": 987190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-719.136b0de9d0d5.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 720,
+   "file": "11-1029-720.3c61755dc378.pmtiles",
+   "bytes": 561697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-720.3c61755dc378.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 721,
+   "file": "11-1029-721.f6ab59f05882.pmtiles",
+   "bytes": 816467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-721.f6ab59f05882.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 722,
+   "file": "11-1029-722.5c487455d2f1.pmtiles",
+   "bytes": 622763,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1029-722.5c487455d2f1.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 714,
+   "file": "11-1030-714.8a26a8b435f9.pmtiles",
+   "bytes": 355221,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-714.8a26a8b435f9.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 715,
+   "file": "11-1030-715.0aaaa51c4cb2.pmtiles",
+   "bytes": 560096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-715.0aaaa51c4cb2.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 716,
+   "file": "11-1030-716.a39ec0add70e.pmtiles",
+   "bytes": 912063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-716.a39ec0add70e.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 717,
+   "file": "11-1030-717.2fe096c6daee.pmtiles",
+   "bytes": 1131281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-717.2fe096c6daee.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 718,
+   "file": "11-1030-718.5ab9f13481c3.pmtiles",
+   "bytes": 709692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-718.5ab9f13481c3.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 719,
+   "file": "11-1030-719.dfb49150c0fc.pmtiles",
+   "bytes": 573791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-719.dfb49150c0fc.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 720,
+   "file": "11-1030-720.b922505887ee.pmtiles",
+   "bytes": 669220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-720.b922505887ee.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 721,
+   "file": "11-1030-721.e2759a609019.pmtiles",
+   "bytes": 774583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-721.e2759a609019.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 722,
+   "file": "11-1030-722.637ad6a0be65.pmtiles",
+   "bytes": 491024,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1030-722.637ad6a0be65.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 714,
+   "file": "11-1031-714.11a689ecd15c.pmtiles",
+   "bytes": 484042,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-714.11a689ecd15c.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 715,
+   "file": "11-1031-715.c68a005676f1.pmtiles",
+   "bytes": 2090348,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-715.c68a005676f1.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 716,
+   "file": "11-1031-716.161d877bf906.pmtiles",
+   "bytes": 841385,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-716.161d877bf906.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 717,
+   "file": "11-1031-717.9dda0e5720ed.pmtiles",
+   "bytes": 803913,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-717.9dda0e5720ed.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 718,
+   "file": "11-1031-718.247d978f12b3.pmtiles",
+   "bytes": 682752,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-718.247d978f12b3.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 719,
+   "file": "11-1031-719.a0d5557e82d1.pmtiles",
+   "bytes": 496449,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-719.a0d5557e82d1.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 720,
+   "file": "11-1031-720.8297a0f69e13.pmtiles",
+   "bytes": 602903,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-720.8297a0f69e13.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 721,
+   "file": "11-1031-721.9df00a1524a2.pmtiles",
+   "bytes": 658904,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-721.9df00a1524a2.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 722,
+   "file": "11-1031-722.6b8f781fa4b6.pmtiles",
+   "bytes": 423490,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-indre-et-loire-2026-10-03/11-1031-722.6b8f781fa4b6.pmtiles"
+  }
+ ]
+}

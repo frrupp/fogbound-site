@@ -1,0 +1,381 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-alpes-maritimes",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:31:01.335Z",
+ "publishedAt": "2026-10-04T13:31:15.173Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-alpes-maritimes-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  6.6352,
+  43.48006,
+  7.71898,
+  44.36251
+ ],
+ "overview": {
+  "file": "overview.fb9c516aaacc.pmtiles",
+  "bytes": 1882300,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/overview.fb9c516aaacc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1061,
+   "y": 741,
+   "file": "11-1061-741.e683343d5cd5.pmtiles",
+   "bytes": 118663,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-741.e683343d5cd5.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 742,
+   "file": "11-1061-742.dc1f8cd07f34.pmtiles",
+   "bytes": 262963,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-742.dc1f8cd07f34.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 743,
+   "file": "11-1061-743.407feaa49130.pmtiles",
+   "bytes": 203387,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-743.407feaa49130.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 744,
+   "file": "11-1061-744.0fb920663896.pmtiles",
+   "bytes": 210266,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-744.0fb920663896.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 745,
+   "file": "11-1061-745.70933f1307ab.pmtiles",
+   "bytes": 156916,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-745.70933f1307ab.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 746,
+   "file": "11-1061-746.4b861cf7d166.pmtiles",
+   "bytes": 220100,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-746.4b861cf7d166.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 747,
+   "file": "11-1061-747.5363f9d6cd20.pmtiles",
+   "bytes": 270992,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-747.5363f9d6cd20.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 748,
+   "file": "11-1061-748.4fd58ce2f9b0.pmtiles",
+   "bytes": 373609,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1061-748.4fd58ce2f9b0.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 741,
+   "file": "11-1062-741.1b9467b67b14.pmtiles",
+   "bytes": 110939,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-741.1b9467b67b14.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 742,
+   "file": "11-1062-742.9802dbcfad2a.pmtiles",
+   "bytes": 362344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-742.9802dbcfad2a.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 743,
+   "file": "11-1062-743.6f3fa0755570.pmtiles",
+   "bytes": 370026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-743.6f3fa0755570.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 744,
+   "file": "11-1062-744.bc76fca98de2.pmtiles",
+   "bytes": 374933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-744.bc76fca98de2.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 745,
+   "file": "11-1062-745.c09a49159732.pmtiles",
+   "bytes": 462170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-745.c09a49159732.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 746,
+   "file": "11-1062-746.8c493bff2e43.pmtiles",
+   "bytes": 491844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-746.8c493bff2e43.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 747,
+   "file": "11-1062-747.543f7e494e2d.pmtiles",
+   "bytes": 1386969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-747.543f7e494e2d.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 748,
+   "file": "11-1062-748.a90ad22fdb02.pmtiles",
+   "bytes": 790147,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1062-748.a90ad22fdb02.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 741,
+   "file": "11-1063-741.d394586c2400.pmtiles",
+   "bytes": 109149,
+   "tiles": 17,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-741.d394586c2400.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 742,
+   "file": "11-1063-742.8709525e59ee.pmtiles",
+   "bytes": 742209,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-742.8709525e59ee.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 743,
+   "file": "11-1063-743.59cc2ccd252c.pmtiles",
+   "bytes": 404526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-743.59cc2ccd252c.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 744,
+   "file": "11-1063-744.1e9d69e2f6a8.pmtiles",
+   "bytes": 401846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-744.1e9d69e2f6a8.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 745,
+   "file": "11-1063-745.39b18f065a5e.pmtiles",
+   "bytes": 551099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-745.39b18f065a5e.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 746,
+   "file": "11-1063-746.4ceefaa44857.pmtiles",
+   "bytes": 518056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-746.4ceefaa44857.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 747,
+   "file": "11-1063-747.ad0a1e9b9833.pmtiles",
+   "bytes": 3397321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-747.ad0a1e9b9833.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 748,
+   "file": "11-1063-748.8e362fc1305d.pmtiles",
+   "bytes": 1937154,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1063-748.8e362fc1305d.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 742,
+   "file": "11-1064-742.a785b63c7450.pmtiles",
+   "bytes": 203795,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-742.a785b63c7450.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 743,
+   "file": "11-1064-743.b820bd98e1eb.pmtiles",
+   "bytes": 517785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-743.b820bd98e1eb.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 744,
+   "file": "11-1064-744.5a531face604.pmtiles",
+   "bytes": 453720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-744.5a531face604.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 745,
+   "file": "11-1064-745.2ff622f41c1b.pmtiles",
+   "bytes": 644252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-745.2ff622f41c1b.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 746,
+   "file": "11-1064-746.f77bb402d063.pmtiles",
+   "bytes": 1628606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-746.f77bb402d063.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 747,
+   "file": "11-1064-747.a851695b0b62.pmtiles",
+   "bytes": 3731931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-747.a851695b0b62.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 748,
+   "file": "11-1064-748.21f960c344aa.pmtiles",
+   "bytes": 1004110,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1064-748.21f960c344aa.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 743,
+   "file": "11-1065-743.e39e96b93767.pmtiles",
+   "bytes": 720841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1065-743.e39e96b93767.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 744,
+   "file": "11-1065-744.6714055c2011.pmtiles",
+   "bytes": 872209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1065-744.6714055c2011.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 745,
+   "file": "11-1065-745.d5338a4e09eb.pmtiles",
+   "bytes": 727708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1065-745.d5338a4e09eb.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 746,
+   "file": "11-1065-746.49dbdbabfd77.pmtiles",
+   "bytes": 2994748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1065-746.49dbdbabfd77.pmtiles"
+  },
+  {
+   "x": 1065,
+   "y": 747,
+   "file": "11-1065-747.238362b9fc5c.pmtiles",
+   "bytes": 1601018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1065-747.238362b9fc5c.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 743,
+   "file": "11-1066-743.9f4cc44b1d81.pmtiles",
+   "bytes": 564404,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1066-743.9f4cc44b1d81.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 744,
+   "file": "11-1066-744.89e0ddb0ec56.pmtiles",
+   "bytes": 455074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1066-744.89e0ddb0ec56.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 745,
+   "file": "11-1066-745.877ce602da9a.pmtiles",
+   "bytes": 579342,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1066-745.877ce602da9a.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 746,
+   "file": "11-1066-746.7908d15395c8.pmtiles",
+   "bytes": 1651617,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1066-746.7908d15395c8.pmtiles"
+  },
+  {
+   "x": 1066,
+   "y": 747,
+   "file": "11-1066-747.de9a3e87902e.pmtiles",
+   "bytes": 28203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1066-747.de9a3e87902e.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 743,
+   "file": "11-1067-743.af419330bea6.pmtiles",
+   "bytes": 396387,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1067-743.af419330bea6.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 744,
+   "file": "11-1067-744.05f530daaef6.pmtiles",
+   "bytes": 345664,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1067-744.05f530daaef6.pmtiles"
+  },
+  {
+   "x": 1067,
+   "y": 745,
+   "file": "11-1067-745.f7363e424f4d.pmtiles",
+   "bytes": 60256,
+   "tiles": 36,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-alpes-maritimes-2026-10-03/11-1067-745.f7363e424f4d.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-bouches-du-rhone",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T14:39:24.004Z",
+ "publishedAt": "2026-10-04T14:39:41.979Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-bouches-du-rhone-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.23014,
+  43.15741,
+  5.81352,
+  43.92459
+ ],
+ "overview": {
+  "file": "overview.f303f6fa7244.pmtiles",
+  "bytes": 2478683,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/overview.f303f6fa7244.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1048,
+   "y": 745,
+   "file": "11-1048-745.9d96f6d54a5d.pmtiles",
+   "bytes": 1282439,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1048-745.9d96f6d54a5d.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 746,
+   "file": "11-1048-746.404aca648b91.pmtiles",
+   "bytes": 2187155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1048-746.404aca648b91.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 747,
+   "file": "11-1048-747.69e2465c5ac6.pmtiles",
+   "bytes": 648106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1048-747.69e2465c5ac6.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 748,
+   "file": "11-1048-748.c8e17c61cfb1.pmtiles",
+   "bytes": 393096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1048-748.c8e17c61cfb1.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 745,
+   "file": "11-1049-745.86882b99eabd.pmtiles",
+   "bytes": 1156860,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1049-745.86882b99eabd.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 746,
+   "file": "11-1049-746.61c654a45b53.pmtiles",
+   "bytes": 1021744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1049-746.61c654a45b53.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 747,
+   "file": "11-1049-747.1f4efb88887d.pmtiles",
+   "bytes": 671483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1049-747.1f4efb88887d.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 748,
+   "file": "11-1049-748.1dee0abccc7e.pmtiles",
+   "bytes": 765210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1049-748.1dee0abccc7e.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 749,
+   "file": "11-1049-749.7d930ea77efa.pmtiles",
+   "bytes": 89773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1049-749.7d930ea77efa.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 745,
+   "file": "11-1050-745.d9426bba599c.pmtiles",
+   "bytes": 825958,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1050-745.d9426bba599c.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 746,
+   "file": "11-1050-746.10f3ab108221.pmtiles",
+   "bytes": 1316016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1050-746.10f3ab108221.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 747,
+   "file": "11-1050-747.28288d699f6d.pmtiles",
+   "bytes": 1609460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1050-747.28288d699f6d.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 748,
+   "file": "11-1050-748.32c4fc305e53.pmtiles",
+   "bytes": 575593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1050-748.32c4fc305e53.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 749,
+   "file": "11-1050-749.6fa741995e2d.pmtiles",
+   "bytes": 463859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1050-749.6fa741995e2d.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 745,
+   "file": "11-1051-745.fd98f4619780.pmtiles",
+   "bytes": 1799974,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1051-745.fd98f4619780.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 746,
+   "file": "11-1051-746.b141ad9f49a9.pmtiles",
+   "bytes": 1699435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1051-746.b141ad9f49a9.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 747,
+   "file": "11-1051-747.c1916ad662c0.pmtiles",
+   "bytes": 1034968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1051-747.c1916ad662c0.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 748,
+   "file": "11-1051-748.dcc96cb9adc7.pmtiles",
+   "bytes": 431693,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1051-748.dcc96cb9adc7.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 749,
+   "file": "11-1051-749.c1a9f2304a00.pmtiles",
+   "bytes": 549644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1051-749.c1a9f2304a00.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 745,
+   "file": "11-1052-745.353a56aa607f.pmtiles",
+   "bytes": 1889185,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1052-745.353a56aa607f.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 746,
+   "file": "11-1052-746.73e87ac9af7a.pmtiles",
+   "bytes": 1293935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1052-746.73e87ac9af7a.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 747,
+   "file": "11-1052-747.62ae0d06a2c8.pmtiles",
+   "bytes": 1647183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1052-747.62ae0d06a2c8.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 748,
+   "file": "11-1052-748.cdf11fc590c7.pmtiles",
+   "bytes": 1555973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1052-748.cdf11fc590c7.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 749,
+   "file": "11-1052-749.0d0bb7385745.pmtiles",
+   "bytes": 1656092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1052-749.0d0bb7385745.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 745,
+   "file": "11-1053-745.bf037ed18d14.pmtiles",
+   "bytes": 1521796,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-745.bf037ed18d14.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 746,
+   "file": "11-1053-746.5879ae3da93d.pmtiles",
+   "bytes": 1076107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-746.5879ae3da93d.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 747,
+   "file": "11-1053-747.e5de2febef90.pmtiles",
+   "bytes": 1621039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-747.e5de2febef90.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 748,
+   "file": "11-1053-748.7ac549bd19bc.pmtiles",
+   "bytes": 1460578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-748.7ac549bd19bc.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 749,
+   "file": "11-1053-749.9bc0a42f72a0.pmtiles",
+   "bytes": 2615712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-749.9bc0a42f72a0.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 750,
+   "file": "11-1053-750.6b47a6ca73fd.pmtiles",
+   "bytes": 37435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1053-750.6b47a6ca73fd.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 745,
+   "file": "11-1054-745.9196349c0dc7.pmtiles",
+   "bytes": 1508469,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-745.9196349c0dc7.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 746,
+   "file": "11-1054-746.d42831760edb.pmtiles",
+   "bytes": 1338705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-746.d42831760edb.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 747,
+   "file": "11-1054-747.716b334c9246.pmtiles",
+   "bytes": 1093673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-747.716b334c9246.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 748,
+   "file": "11-1054-748.e64880b4bfce.pmtiles",
+   "bytes": 2791063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-748.e64880b4bfce.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 749,
+   "file": "11-1054-749.530039b21055.pmtiles",
+   "bytes": 4020922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-749.530039b21055.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 750,
+   "file": "11-1054-750.43dfc387160b.pmtiles",
+   "bytes": 5185099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-750.43dfc387160b.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 751,
+   "file": "11-1054-751.514110fd907d.pmtiles",
+   "bytes": 44214,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1054-751.514110fd907d.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 745,
+   "file": "11-1055-745.85873e0a2ab4.pmtiles",
+   "bytes": 811040,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-745.85873e0a2ab4.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 746,
+   "file": "11-1055-746.ba14b02ee844.pmtiles",
+   "bytes": 1140826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-746.ba14b02ee844.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 747,
+   "file": "11-1055-747.16f23bb37822.pmtiles",
+   "bytes": 1622876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-747.16f23bb37822.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 748,
+   "file": "11-1055-748.0d3cc7e250d7.pmtiles",
+   "bytes": 2364893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-748.0d3cc7e250d7.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 749,
+   "file": "11-1055-749.fe0caf102864.pmtiles",
+   "bytes": 2537109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-749.fe0caf102864.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 750,
+   "file": "11-1055-750.124ff884adbc.pmtiles",
+   "bytes": 3095466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-750.124ff884adbc.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 751,
+   "file": "11-1055-751.cd056dd1bb2b.pmtiles",
+   "bytes": 444362,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1055-751.cd056dd1bb2b.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 745,
+   "file": "11-1056-745.fce32534094f.pmtiles",
+   "bytes": 809594,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-745.fce32534094f.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 746,
+   "file": "11-1056-746.d6811654e578.pmtiles",
+   "bytes": 1402051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-746.d6811654e578.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 747,
+   "file": "11-1056-747.810858b3631b.pmtiles",
+   "bytes": 685523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-747.810858b3631b.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 748,
+   "file": "11-1056-748.925040da0d9a.pmtiles",
+   "bytes": 824460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-748.925040da0d9a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 749,
+   "file": "11-1056-749.0d1655676dd2.pmtiles",
+   "bytes": 1115636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-749.0d1655676dd2.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 750,
+   "file": "11-1056-750.1286fd803368.pmtiles",
+   "bytes": 1067807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-750.1286fd803368.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 751,
+   "file": "11-1056-751.0a7ccf3f0f2d.pmtiles",
+   "bytes": 1094885,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1056-751.0a7ccf3f0f2d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 745,
+   "file": "11-1057-745.858662cc1f6c.pmtiles",
+   "bytes": 167295,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-745.858662cc1f6c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 746,
+   "file": "11-1057-746.4b01d6be1a8a.pmtiles",
+   "bytes": 350198,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-746.4b01d6be1a8a.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 747,
+   "file": "11-1057-747.f8903e364ccd.pmtiles",
+   "bytes": 97611,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-747.f8903e364ccd.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 748,
+   "file": "11-1057-748.9ecb2c653b47.pmtiles",
+   "bytes": 93168,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-748.9ecb2c653b47.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 749,
+   "file": "11-1057-749.230e0c5df6c0.pmtiles",
+   "bytes": 101032,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-749.230e0c5df6c0.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 750,
+   "file": "11-1057-750.93acd21b0af9.pmtiles",
+   "bytes": 171607,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-750.93acd21b0af9.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 751,
+   "file": "11-1057-751.d73334491e84.pmtiles",
+   "bytes": 182469,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-bouches-du-rhone-2026-10-03/11-1057-751.d73334491e84.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,669 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-maine-et-loire",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:45:50.106Z",
+ "publishedAt": "2026-10-04T15:46:13.116Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-maine-et-loire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.35422,
+  46.96891,
+  0.23444,
+  47.80971
+ ],
+ "overview": {
+  "file": "overview.370f036707cb.pmtiles",
+  "bytes": 4528597,
+  "tiles": 55,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/overview.370f036707cb.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1016,
+   "y": 713,
+   "file": "11-1016-713.c39e574ec502.pmtiles",
+   "bytes": 375918,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-713.c39e574ec502.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 714,
+   "file": "11-1016-714.6bbfa2fc3a68.pmtiles",
+   "bytes": 848846,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-714.6bbfa2fc3a68.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 715,
+   "file": "11-1016-715.fd2976f59431.pmtiles",
+   "bytes": 877514,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-715.fd2976f59431.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 716,
+   "file": "11-1016-716.069897fcc073.pmtiles",
+   "bytes": 998854,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-716.069897fcc073.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 717,
+   "file": "11-1016-717.15e3897ac083.pmtiles",
+   "bytes": 1298913,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-717.15e3897ac083.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 718,
+   "file": "11-1016-718.fd834aede03e.pmtiles",
+   "bytes": 1360990,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-718.fd834aede03e.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 719,
+   "file": "11-1016-719.0c535531a5f4.pmtiles",
+   "bytes": 1813758,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-719.0c535531a5f4.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 720,
+   "file": "11-1016-720.0949539ba575.pmtiles",
+   "bytes": 969740,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1016-720.0949539ba575.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 713,
+   "file": "11-1017-713.8dcb8b36bbee.pmtiles",
+   "bytes": 379033,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-713.8dcb8b36bbee.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 714,
+   "file": "11-1017-714.f1ed68a95325.pmtiles",
+   "bytes": 692747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-714.f1ed68a95325.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 715,
+   "file": "11-1017-715.168c763df061.pmtiles",
+   "bytes": 1088584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-715.168c763df061.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 716,
+   "file": "11-1017-716.69054e0a0265.pmtiles",
+   "bytes": 1396854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-716.69054e0a0265.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 717,
+   "file": "11-1017-717.693dae8aaf0f.pmtiles",
+   "bytes": 1700593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-717.693dae8aaf0f.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 718,
+   "file": "11-1017-718.a1c77a9b8fdc.pmtiles",
+   "bytes": 959055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-718.a1c77a9b8fdc.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 719,
+   "file": "11-1017-719.70f483085ab5.pmtiles",
+   "bytes": 1203888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-719.70f483085ab5.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 720,
+   "file": "11-1017-720.17d972703e9e.pmtiles",
+   "bytes": 851692,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1017-720.17d972703e9e.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 713,
+   "file": "11-1018-713.14e4fd601a18.pmtiles",
+   "bytes": 370667,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-713.14e4fd601a18.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 714,
+   "file": "11-1018-714.3ed1250337cf.pmtiles",
+   "bytes": 769074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-714.3ed1250337cf.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 715,
+   "file": "11-1018-715.d5006b0866a9.pmtiles",
+   "bytes": 729949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-715.d5006b0866a9.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 716,
+   "file": "11-1018-716.867da9526d63.pmtiles",
+   "bytes": 1132178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-716.867da9526d63.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 717,
+   "file": "11-1018-717.373f9d7632ea.pmtiles",
+   "bytes": 1113499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-717.373f9d7632ea.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 718,
+   "file": "11-1018-718.f6de084091ab.pmtiles",
+   "bytes": 1097334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-718.f6de084091ab.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 719,
+   "file": "11-1018-719.641672a0f652.pmtiles",
+   "bytes": 1641093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-719.641672a0f652.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 720,
+   "file": "11-1018-720.82be2cf6a407.pmtiles",
+   "bytes": 997357,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1018-720.82be2cf6a407.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 713,
+   "file": "11-1019-713.b1e313d15d4f.pmtiles",
+   "bytes": 337729,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-713.b1e313d15d4f.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 714,
+   "file": "11-1019-714.2647c2da01ef.pmtiles",
+   "bytes": 832995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-714.2647c2da01ef.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 715,
+   "file": "11-1019-715.34a88ec05f17.pmtiles",
+   "bytes": 862288,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-715.34a88ec05f17.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 716,
+   "file": "11-1019-716.0516661bb0c1.pmtiles",
+   "bytes": 863894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-716.0516661bb0c1.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 717,
+   "file": "11-1019-717.0d36cc4dd348.pmtiles",
+   "bytes": 1290203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-717.0d36cc4dd348.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 718,
+   "file": "11-1019-718.93e91481bb22.pmtiles",
+   "bytes": 1053220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-718.93e91481bb22.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 719,
+   "file": "11-1019-719.f8094a917f93.pmtiles",
+   "bytes": 1215096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-719.f8094a917f93.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 720,
+   "file": "11-1019-720.85d3a9896f9c.pmtiles",
+   "bytes": 781922,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1019-720.85d3a9896f9c.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 713,
+   "file": "11-1020-713.7232c8ebf2b9.pmtiles",
+   "bytes": 366175,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-713.7232c8ebf2b9.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 714,
+   "file": "11-1020-714.a6640ddf2bc5.pmtiles",
+   "bytes": 621646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-714.a6640ddf2bc5.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 715,
+   "file": "11-1020-715.0f450a38bb60.pmtiles",
+   "bytes": 1303051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-715.0f450a38bb60.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 716,
+   "file": "11-1020-716.df7286256055.pmtiles",
+   "bytes": 4008901,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-716.df7286256055.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 717,
+   "file": "11-1020-717.fae6eb65416e.pmtiles",
+   "bytes": 1226232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-717.fae6eb65416e.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 718,
+   "file": "11-1020-718.8224768a3e15.pmtiles",
+   "bytes": 817965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-718.8224768a3e15.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 719,
+   "file": "11-1020-719.a490d25c53f8.pmtiles",
+   "bytes": 814026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-719.a490d25c53f8.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 720,
+   "file": "11-1020-720.a405659130e1.pmtiles",
+   "bytes": 508193,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1020-720.a405659130e1.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 713,
+   "file": "11-1021-713.67fd5aa3ac03.pmtiles",
+   "bytes": 320475,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-713.67fd5aa3ac03.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 714,
+   "file": "11-1021-714.4bba018837e7.pmtiles",
+   "bytes": 682297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-714.4bba018837e7.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 715,
+   "file": "11-1021-715.0ad04bc327bc.pmtiles",
+   "bytes": 1142183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-715.0ad04bc327bc.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 716,
+   "file": "11-1021-716.d5a1d8bb700a.pmtiles",
+   "bytes": 2298939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-716.d5a1d8bb700a.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 717,
+   "file": "11-1021-717.925666df0e10.pmtiles",
+   "bytes": 1066990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-717.925666df0e10.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 718,
+   "file": "11-1021-718.6500f21752fb.pmtiles",
+   "bytes": 1033134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-718.6500f21752fb.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 719,
+   "file": "11-1021-719.c5f019dacb78.pmtiles",
+   "bytes": 867602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-719.c5f019dacb78.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 720,
+   "file": "11-1021-720.4935f62bd667.pmtiles",
+   "bytes": 583889,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1021-720.4935f62bd667.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 713,
+   "file": "11-1022-713.a0f0cbcdea35.pmtiles",
+   "bytes": 435743,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-713.a0f0cbcdea35.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 714,
+   "file": "11-1022-714.2115c255c46d.pmtiles",
+   "bytes": 787882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-714.2115c255c46d.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 715,
+   "file": "11-1022-715.5921d3749749.pmtiles",
+   "bytes": 730543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-715.5921d3749749.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 716,
+   "file": "11-1022-716.6474e57f47f8.pmtiles",
+   "bytes": 1151093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-716.6474e57f47f8.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 717,
+   "file": "11-1022-717.53d3174657e5.pmtiles",
+   "bytes": 961753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-717.53d3174657e5.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 718,
+   "file": "11-1022-718.bc489af78143.pmtiles",
+   "bytes": 1035251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-718.bc489af78143.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 719,
+   "file": "11-1022-719.cba606d9934e.pmtiles",
+   "bytes": 943542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-719.cba606d9934e.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 720,
+   "file": "11-1022-720.5eb997f6f17a.pmtiles",
+   "bytes": 965710,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1022-720.5eb997f6f17a.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 713,
+   "file": "11-1023-713.c13871cacebb.pmtiles",
+   "bytes": 591708,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-713.c13871cacebb.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 714,
+   "file": "11-1023-714.06bef01f802a.pmtiles",
+   "bytes": 1384033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-714.06bef01f802a.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 715,
+   "file": "11-1023-715.dbf96fbe989a.pmtiles",
+   "bytes": 958166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-715.dbf96fbe989a.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 716,
+   "file": "11-1023-716.dd8c1719104c.pmtiles",
+   "bytes": 738603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-716.dd8c1719104c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 717,
+   "file": "11-1023-717.ed0219cd4cb4.pmtiles",
+   "bytes": 1105689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-717.ed0219cd4cb4.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 718,
+   "file": "11-1023-718.8c107e873339.pmtiles",
+   "bytes": 1519003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-718.8c107e873339.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 719,
+   "file": "11-1023-719.6322ff8c552a.pmtiles",
+   "bytes": 774515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-719.6322ff8c552a.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 720,
+   "file": "11-1023-720.b150a7881cad.pmtiles",
+   "bytes": 457519,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1023-720.b150a7881cad.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 713,
+   "file": "11-1024-713.89e7cf51a335.pmtiles",
+   "bytes": 634456,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-713.89e7cf51a335.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 714,
+   "file": "11-1024-714.aad9f05b6e7b.pmtiles",
+   "bytes": 1164241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-714.aad9f05b6e7b.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 715,
+   "file": "11-1024-715.b823b1437876.pmtiles",
+   "bytes": 745130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-715.b823b1437876.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 716,
+   "file": "11-1024-716.20eb0a6f0855.pmtiles",
+   "bytes": 770423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-716.20eb0a6f0855.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 717,
+   "file": "11-1024-717.a62edddffa9a.pmtiles",
+   "bytes": 855454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-717.a62edddffa9a.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 718,
+   "file": "11-1024-718.01bc6dec6988.pmtiles",
+   "bytes": 1403894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-718.01bc6dec6988.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 719,
+   "file": "11-1024-719.a8bd6b4dab6c.pmtiles",
+   "bytes": 769353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-719.a8bd6b4dab6c.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 720,
+   "file": "11-1024-720.a1d928ee651e.pmtiles",
+   "bytes": 716620,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1024-720.a1d928ee651e.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 713,
+   "file": "11-1025-713.d292d349f6e6.pmtiles",
+   "bytes": 212238,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-713.d292d349f6e6.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 714,
+   "file": "11-1025-714.6b9f17bc31ee.pmtiles",
+   "bytes": 485306,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-714.6b9f17bc31ee.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 715,
+   "file": "11-1025-715.0681625e8dde.pmtiles",
+   "bytes": 337958,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-715.0681625e8dde.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 716,
+   "file": "11-1025-716.76b2d5f15941.pmtiles",
+   "bytes": 337068,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-716.76b2d5f15941.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 717,
+   "file": "11-1025-717.bdb94ac4b116.pmtiles",
+   "bytes": 464017,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-717.bdb94ac4b116.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 718,
+   "file": "11-1025-718.69e9ba6207c0.pmtiles",
+   "bytes": 769959,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-718.69e9ba6207c0.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 719,
+   "file": "11-1025-719.6a573f29cb59.pmtiles",
+   "bytes": 440855,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-719.6a573f29cb59.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 720,
+   "file": "11-1025-720.4dc0c7c9fe55.pmtiles",
+   "bytes": 206827,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-maine-et-loire-2026-10-03/11-1025-720.4dc0c7c9fe55.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,749 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-puy-de-dome",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:54:26.080Z",
+ "publishedAt": "2026-10-04T15:54:51.388Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-puy-de-dome-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  2.38802,
+  45.28705,
+  3.98563,
+  46.25629
+ ],
+ "overview": {
+  "file": "overview.ba2316a8170d.pmtiles",
+  "bytes": 5176612,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/overview.ba2316a8170d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1037,
+   "y": 726,
+   "file": "11-1037-726.c011ace5772f.pmtiles",
+   "bytes": 245412,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-726.c011ace5772f.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 727,
+   "file": "11-1037-727.e38286fadc79.pmtiles",
+   "bytes": 362421,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-727.e38286fadc79.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 728,
+   "file": "11-1037-728.1598116c94e5.pmtiles",
+   "bytes": 513660,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-728.1598116c94e5.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 729,
+   "file": "11-1037-729.7060c62ff652.pmtiles",
+   "bytes": 403678,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-729.7060c62ff652.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 730,
+   "file": "11-1037-730.80e2aad2f7de.pmtiles",
+   "bytes": 389964,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-730.80e2aad2f7de.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 731,
+   "file": "11-1037-731.fab4b3f98dd5.pmtiles",
+   "bytes": 323685,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-731.fab4b3f98dd5.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 732,
+   "file": "11-1037-732.06ce365caa02.pmtiles",
+   "bytes": 326933,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-732.06ce365caa02.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 733,
+   "file": "11-1037-733.82be634c489d.pmtiles",
+   "bytes": 417814,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-733.82be634c489d.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 734,
+   "file": "11-1037-734.eae9f604f6f4.pmtiles",
+   "bytes": 213027,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1037-734.eae9f604f6f4.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 726,
+   "file": "11-1038-726.7e366e79dd96.pmtiles",
+   "bytes": 430433,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-726.7e366e79dd96.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 727,
+   "file": "11-1038-727.0d8c34afeee4.pmtiles",
+   "bytes": 811802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-727.0d8c34afeee4.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 728,
+   "file": "11-1038-728.edde046f0195.pmtiles",
+   "bytes": 901241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-728.edde046f0195.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 729,
+   "file": "11-1038-729.83c27958d072.pmtiles",
+   "bytes": 696890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-729.83c27958d072.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 730,
+   "file": "11-1038-730.bb302c494814.pmtiles",
+   "bytes": 542474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-730.bb302c494814.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 731,
+   "file": "11-1038-731.f11fb6f09706.pmtiles",
+   "bytes": 552759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-731.f11fb6f09706.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 732,
+   "file": "11-1038-732.c07811139d2e.pmtiles",
+   "bytes": 525923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-732.c07811139d2e.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 733,
+   "file": "11-1038-733.54377becb803.pmtiles",
+   "bytes": 820160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-733.54377becb803.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 734,
+   "file": "11-1038-734.e0adca38439d.pmtiles",
+   "bytes": 362203,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1038-734.e0adca38439d.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 726,
+   "file": "11-1039-726.209718e45c25.pmtiles",
+   "bytes": 447336,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-726.209718e45c25.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 727,
+   "file": "11-1039-727.7036e541314b.pmtiles",
+   "bytes": 741373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-727.7036e541314b.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 728,
+   "file": "11-1039-728.2064a8b71bd0.pmtiles",
+   "bytes": 689535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-728.2064a8b71bd0.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 729,
+   "file": "11-1039-729.d40ddee4230d.pmtiles",
+   "bytes": 752562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-729.d40ddee4230d.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 730,
+   "file": "11-1039-730.af0864e28884.pmtiles",
+   "bytes": 534260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-730.af0864e28884.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 731,
+   "file": "11-1039-731.bb6ab4495e3c.pmtiles",
+   "bytes": 715333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-731.bb6ab4495e3c.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 732,
+   "file": "11-1039-732.f0dfb9d17b0f.pmtiles",
+   "bytes": 703721,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-732.f0dfb9d17b0f.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 733,
+   "file": "11-1039-733.5a411aaf2dc5.pmtiles",
+   "bytes": 564964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-733.5a411aaf2dc5.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 734,
+   "file": "11-1039-734.c55e1eb0a187.pmtiles",
+   "bytes": 358916,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1039-734.c55e1eb0a187.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 726,
+   "file": "11-1040-726.cbe213821235.pmtiles",
+   "bytes": 436005,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-726.cbe213821235.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 727,
+   "file": "11-1040-727.4785fcb115da.pmtiles",
+   "bytes": 881991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-727.4785fcb115da.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 728,
+   "file": "11-1040-728.d99098b50691.pmtiles",
+   "bytes": 753475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-728.d99098b50691.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 729,
+   "file": "11-1040-729.6a0b8ee3775f.pmtiles",
+   "bytes": 877610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-729.6a0b8ee3775f.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 730,
+   "file": "11-1040-730.cfa7ad8c1d11.pmtiles",
+   "bytes": 777516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-730.cfa7ad8c1d11.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 731,
+   "file": "11-1040-731.2cc0d4b87efa.pmtiles",
+   "bytes": 698736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-731.2cc0d4b87efa.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 732,
+   "file": "11-1040-732.7912dc400541.pmtiles",
+   "bytes": 899760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-732.7912dc400541.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 733,
+   "file": "11-1040-733.e16b5ee84408.pmtiles",
+   "bytes": 571251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-733.e16b5ee84408.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 734,
+   "file": "11-1040-734.e7acabeec48f.pmtiles",
+   "bytes": 195828,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1040-734.e7acabeec48f.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 726,
+   "file": "11-1041-726.a245a9a9f5f2.pmtiles",
+   "bytes": 464018,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-726.a245a9a9f5f2.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 727,
+   "file": "11-1041-727.016af2bfe441.pmtiles",
+   "bytes": 844594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-727.016af2bfe441.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 728,
+   "file": "11-1041-728.05afbfc8df80.pmtiles",
+   "bytes": 918630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-728.05afbfc8df80.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 729,
+   "file": "11-1041-729.91c815bea903.pmtiles",
+   "bytes": 1865612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-729.91c815bea903.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 730,
+   "file": "11-1041-730.ec901760409b.pmtiles",
+   "bytes": 3752922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-730.ec901760409b.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 731,
+   "file": "11-1041-731.75d47b26cbb0.pmtiles",
+   "bytes": 1187428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-731.75d47b26cbb0.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 732,
+   "file": "11-1041-732.93b28ff9a4fe.pmtiles",
+   "bytes": 707914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-732.93b28ff9a4fe.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 733,
+   "file": "11-1041-733.9addd0c69ee0.pmtiles",
+   "bytes": 495960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-733.9addd0c69ee0.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 734,
+   "file": "11-1041-734.d0e649b98975.pmtiles",
+   "bytes": 242277,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1041-734.d0e649b98975.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 726,
+   "file": "11-1042-726.f4450ca330cd.pmtiles",
+   "bytes": 410534,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-726.f4450ca330cd.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 727,
+   "file": "11-1042-727.845597986a06.pmtiles",
+   "bytes": 842362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-727.845597986a06.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 728,
+   "file": "11-1042-728.b9f78d821023.pmtiles",
+   "bytes": 638208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-728.b9f78d821023.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 729,
+   "file": "11-1042-729.ddb5d17470bc.pmtiles",
+   "bytes": 773188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-729.ddb5d17470bc.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 730,
+   "file": "11-1042-730.ed3661f14617.pmtiles",
+   "bytes": 1779864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-730.ed3661f14617.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 731,
+   "file": "11-1042-731.e1e0b0640bea.pmtiles",
+   "bytes": 1508756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-731.e1e0b0640bea.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 732,
+   "file": "11-1042-732.fbec3b2b9d87.pmtiles",
+   "bytes": 1306991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-732.fbec3b2b9d87.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 733,
+   "file": "11-1042-733.8b47f6c30694.pmtiles",
+   "bytes": 1121884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-733.8b47f6c30694.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 734,
+   "file": "11-1042-734.42b3c8c04094.pmtiles",
+   "bytes": 388401,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1042-734.42b3c8c04094.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 726,
+   "file": "11-1043-726.bab287cfe1ba.pmtiles",
+   "bytes": 620267,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-726.bab287cfe1ba.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 727,
+   "file": "11-1043-727.9cccc3ddf70d.pmtiles",
+   "bytes": 2093268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-727.9cccc3ddf70d.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 728,
+   "file": "11-1043-728.67971dc3c68e.pmtiles",
+   "bytes": 971060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-728.67971dc3c68e.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 729,
+   "file": "11-1043-729.77487350b28e.pmtiles",
+   "bytes": 1064668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-729.77487350b28e.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 730,
+   "file": "11-1043-730.67c3c1173e49.pmtiles",
+   "bytes": 1084233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-730.67c3c1173e49.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 731,
+   "file": "11-1043-731.a6e56ba846c7.pmtiles",
+   "bytes": 1159993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-731.a6e56ba846c7.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 732,
+   "file": "11-1043-732.e00a6df12174.pmtiles",
+   "bytes": 920513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-732.e00a6df12174.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 733,
+   "file": "11-1043-733.34d32caba0bb.pmtiles",
+   "bytes": 805631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-733.34d32caba0bb.pmtiles"
+  },
+  {
+   "x": 1043,
+   "y": 734,
+   "file": "11-1043-734.7555f61def7c.pmtiles",
+   "bytes": 627835,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1043-734.7555f61def7c.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 726,
+   "file": "11-1044-726.977bf8c96561.pmtiles",
+   "bytes": 519988,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-726.977bf8c96561.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 727,
+   "file": "11-1044-727.ee746fccd831.pmtiles",
+   "bytes": 728212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-727.ee746fccd831.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 728,
+   "file": "11-1044-728.d4e47ab382fd.pmtiles",
+   "bytes": 730379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-728.d4e47ab382fd.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 729,
+   "file": "11-1044-729.377e341601bd.pmtiles",
+   "bytes": 1196552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-729.377e341601bd.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 730,
+   "file": "11-1044-730.ee325b165c3c.pmtiles",
+   "bytes": 1065555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-730.ee325b165c3c.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 731,
+   "file": "11-1044-731.c0015e07794b.pmtiles",
+   "bytes": 1334267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-731.c0015e07794b.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 732,
+   "file": "11-1044-732.e3bb0dc3b654.pmtiles",
+   "bytes": 923747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-732.e3bb0dc3b654.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 733,
+   "file": "11-1044-733.50478c86ca47.pmtiles",
+   "bytes": 854118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-733.50478c86ca47.pmtiles"
+  },
+  {
+   "x": 1044,
+   "y": 734,
+   "file": "11-1044-734.37e888981ea6.pmtiles",
+   "bytes": 330745,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1044-734.37e888981ea6.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 726,
+   "file": "11-1045-726.b25a6000d22d.pmtiles",
+   "bytes": 536793,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-726.b25a6000d22d.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 727,
+   "file": "11-1045-727.1f1fa68f7064.pmtiles",
+   "bytes": 771829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-727.1f1fa68f7064.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 728,
+   "file": "11-1045-728.ddc054f7461f.pmtiles",
+   "bytes": 586498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-728.ddc054f7461f.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 729,
+   "file": "11-1045-729.2277636e0814.pmtiles",
+   "bytes": 680453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-729.2277636e0814.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 730,
+   "file": "11-1045-730.c5179af9c2f4.pmtiles",
+   "bytes": 734238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-730.c5179af9c2f4.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 731,
+   "file": "11-1045-731.3741b4f15c39.pmtiles",
+   "bytes": 994715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-731.3741b4f15c39.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 732,
+   "file": "11-1045-732.106c1e8f4bb9.pmtiles",
+   "bytes": 1351705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-732.106c1e8f4bb9.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 733,
+   "file": "11-1045-733.78b1ca00de3b.pmtiles",
+   "bytes": 1073291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-733.78b1ca00de3b.pmtiles"
+  },
+  {
+   "x": 1045,
+   "y": 734,
+   "file": "11-1045-734.8b603d3de38c.pmtiles",
+   "bytes": 459109,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1045-734.8b603d3de38c.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 726,
+   "file": "11-1046-726.84ccf7f93e0a.pmtiles",
+   "bytes": 527695,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-726.84ccf7f93e0a.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 727,
+   "file": "11-1046-727.d92ee31cee25.pmtiles",
+   "bytes": 635279,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-727.d92ee31cee25.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 728,
+   "file": "11-1046-728.04382ca3b0df.pmtiles",
+   "bytes": 776012,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-728.04382ca3b0df.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 729,
+   "file": "11-1046-729.3579fc39d3f4.pmtiles",
+   "bytes": 570388,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-729.3579fc39d3f4.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 730,
+   "file": "11-1046-730.52748e3fdb89.pmtiles",
+   "bytes": 633599,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-730.52748e3fdb89.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 731,
+   "file": "11-1046-731.6ecc41e6c7b1.pmtiles",
+   "bytes": 589953,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-731.6ecc41e6c7b1.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 732,
+   "file": "11-1046-732.c6de3a6ced11.pmtiles",
+   "bytes": 734213,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-732.c6de3a6ced11.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 733,
+   "file": "11-1046-733.84a0486c514b.pmtiles",
+   "bytes": 954300,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-733.84a0486c514b.pmtiles"
+  },
+  {
+   "x": 1046,
+   "y": 734,
+   "file": "11-1046-734.8524b0cf4cb9.pmtiles",
+   "bytes": 484883,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-puy-de-dome-2026-10-03/11-1046-734.8524b0cf4cb9.pmtiles"
+  }
+ ]
+}

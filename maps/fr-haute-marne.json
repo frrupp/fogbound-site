@@ -1,0 +1,669 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-haute-marne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:48:13.288Z",
+ "publishedAt": "2026-10-04T15:48:35.140Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-haute-marne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.62751,
+  47.57671,
+  5.89099,
+  48.68915
+ ],
+ "overview": {
+  "file": "overview.9f783957624f.pmtiles",
+  "bytes": 3610401,
+  "tiles": 43,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/overview.9f783957624f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1050,
+   "y": 706,
+   "file": "11-1050-706.30e6421c5a49.pmtiles",
+   "bytes": 361722,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-706.30e6421c5a49.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 707,
+   "file": "11-1050-707.896fb120279f.pmtiles",
+   "bytes": 249543,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-707.896fb120279f.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 708,
+   "file": "11-1050-708.5b8f90b27a67.pmtiles",
+   "bytes": 265785,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-708.5b8f90b27a67.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 709,
+   "file": "11-1050-709.aa400cf0371c.pmtiles",
+   "bytes": 474270,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-709.aa400cf0371c.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 710,
+   "file": "11-1050-710.ae09258085f1.pmtiles",
+   "bytes": 317442,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-710.ae09258085f1.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 711,
+   "file": "11-1050-711.fc59f23b908e.pmtiles",
+   "bytes": 138692,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-711.fc59f23b908e.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 712,
+   "file": "11-1050-712.c48c3b124557.pmtiles",
+   "bytes": 224133,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-712.c48c3b124557.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 713,
+   "file": "11-1050-713.31fbd4d8fc81.pmtiles",
+   "bytes": 193219,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-713.31fbd4d8fc81.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 714,
+   "file": "11-1050-714.29f3499aae62.pmtiles",
+   "bytes": 420122,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-714.29f3499aae62.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 715,
+   "file": "11-1050-715.c6e81b420a32.pmtiles",
+   "bytes": 144036,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1050-715.c6e81b420a32.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 706,
+   "file": "11-1051-706.180bbe6944a5.pmtiles",
+   "bytes": 563864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-706.180bbe6944a5.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 707,
+   "file": "11-1051-707.75ca0ad7ce3c.pmtiles",
+   "bytes": 413862,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-707.75ca0ad7ce3c.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 708,
+   "file": "11-1051-708.b50189d2f544.pmtiles",
+   "bytes": 260811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-708.b50189d2f544.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 709,
+   "file": "11-1051-709.f3633abf6994.pmtiles",
+   "bytes": 304270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-709.f3633abf6994.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 710,
+   "file": "11-1051-710.e4f606a253a0.pmtiles",
+   "bytes": 315462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-710.e4f606a253a0.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 711,
+   "file": "11-1051-711.44ca1f358f11.pmtiles",
+   "bytes": 354787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-711.44ca1f358f11.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 712,
+   "file": "11-1051-712.2d2492d0ab33.pmtiles",
+   "bytes": 298058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-712.2d2492d0ab33.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 713,
+   "file": "11-1051-713.a49403d1d6ed.pmtiles",
+   "bytes": 361554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-713.a49403d1d6ed.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 714,
+   "file": "11-1051-714.5ea267f8d602.pmtiles",
+   "bytes": 394708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-714.5ea267f8d602.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 715,
+   "file": "11-1051-715.64a6ff925a02.pmtiles",
+   "bytes": 170521,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1051-715.64a6ff925a02.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 706,
+   "file": "11-1052-706.7242cfb0b338.pmtiles",
+   "bytes": 923509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-706.7242cfb0b338.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 707,
+   "file": "11-1052-707.32c707329cac.pmtiles",
+   "bytes": 466730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-707.32c707329cac.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 708,
+   "file": "11-1052-708.5a0ac4f1a8bb.pmtiles",
+   "bytes": 318990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-708.5a0ac4f1a8bb.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 709,
+   "file": "11-1052-709.1fbd243398cd.pmtiles",
+   "bytes": 270754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-709.1fbd243398cd.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 710,
+   "file": "11-1052-710.63f6d2e40850.pmtiles",
+   "bytes": 308380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-710.63f6d2e40850.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 711,
+   "file": "11-1052-711.ebebfd4d830a.pmtiles",
+   "bytes": 367520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-711.ebebfd4d830a.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 712,
+   "file": "11-1052-712.20348af19387.pmtiles",
+   "bytes": 311351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-712.20348af19387.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 713,
+   "file": "11-1052-713.04e2049be3f8.pmtiles",
+   "bytes": 412210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-713.04e2049be3f8.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 714,
+   "file": "11-1052-714.05c567b4bb38.pmtiles",
+   "bytes": 422255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-714.05c567b4bb38.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 715,
+   "file": "11-1052-715.6d73416962ed.pmtiles",
+   "bytes": 198712,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1052-715.6d73416962ed.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 706,
+   "file": "11-1053-706.c9167a8d2590.pmtiles",
+   "bytes": 357435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-706.c9167a8d2590.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 707,
+   "file": "11-1053-707.ab931da70def.pmtiles",
+   "bytes": 368846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-707.ab931da70def.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 708,
+   "file": "11-1053-708.ce611ffa9b09.pmtiles",
+   "bytes": 608468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-708.ce611ffa9b09.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 709,
+   "file": "11-1053-709.eef7811d1dc4.pmtiles",
+   "bytes": 378084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-709.eef7811d1dc4.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 710,
+   "file": "11-1053-710.e04e84d940e0.pmtiles",
+   "bytes": 583186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-710.e04e84d940e0.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 711,
+   "file": "11-1053-711.cac262c4e070.pmtiles",
+   "bytes": 584382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-711.cac262c4e070.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 712,
+   "file": "11-1053-712.cc4f51395331.pmtiles",
+   "bytes": 350564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-712.cc4f51395331.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 713,
+   "file": "11-1053-713.fc8dedc92452.pmtiles",
+   "bytes": 382253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-713.fc8dedc92452.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 714,
+   "file": "11-1053-714.849a2f7344ff.pmtiles",
+   "bytes": 447985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-714.849a2f7344ff.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 715,
+   "file": "11-1053-715.758b58c868c2.pmtiles",
+   "bytes": 248430,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1053-715.758b58c868c2.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 706,
+   "file": "11-1054-706.18f684c79b8c.pmtiles",
+   "bytes": 460604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-706.18f684c79b8c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 707,
+   "file": "11-1054-707.db02a942cfaa.pmtiles",
+   "bytes": 297532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-707.db02a942cfaa.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 708,
+   "file": "11-1054-708.ae29f830a8b8.pmtiles",
+   "bytes": 267921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-708.ae29f830a8b8.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 709,
+   "file": "11-1054-709.a65af7f48178.pmtiles",
+   "bytes": 329118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-709.a65af7f48178.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 710,
+   "file": "11-1054-710.cc62622e220c.pmtiles",
+   "bytes": 274411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-710.cc62622e220c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 711,
+   "file": "11-1054-711.005877cfebcd.pmtiles",
+   "bytes": 464371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-711.005877cfebcd.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 712,
+   "file": "11-1054-712.0b5be81a9c54.pmtiles",
+   "bytes": 525283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-712.0b5be81a9c54.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 713,
+   "file": "11-1054-713.d0e873493510.pmtiles",
+   "bytes": 741703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-713.d0e873493510.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 714,
+   "file": "11-1054-714.fb0182a9f74c.pmtiles",
+   "bytes": 449599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-714.fb0182a9f74c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 715,
+   "file": "11-1054-715.ccdd1578993c.pmtiles",
+   "bytes": 209793,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1054-715.ccdd1578993c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 706,
+   "file": "11-1055-706.4e59bdee1e67.pmtiles",
+   "bytes": 308350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-706.4e59bdee1e67.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 707,
+   "file": "11-1055-707.f70882776af9.pmtiles",
+   "bytes": 277084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-707.f70882776af9.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 708,
+   "file": "11-1055-708.863da0426c7f.pmtiles",
+   "bytes": 249608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-708.863da0426c7f.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 709,
+   "file": "11-1055-709.1886fe072d31.pmtiles",
+   "bytes": 321422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-709.1886fe072d31.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 710,
+   "file": "11-1055-710.7b2b93dafdd5.pmtiles",
+   "bytes": 344085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-710.7b2b93dafdd5.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 711,
+   "file": "11-1055-711.1541488c1b4a.pmtiles",
+   "bytes": 435703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-711.1541488c1b4a.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 712,
+   "file": "11-1055-712.81629144caf6.pmtiles",
+   "bytes": 451995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-712.81629144caf6.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 713,
+   "file": "11-1055-713.02178115ae03.pmtiles",
+   "bytes": 526252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-713.02178115ae03.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 714,
+   "file": "11-1055-714.1c71e4376e87.pmtiles",
+   "bytes": 383495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-714.1c71e4376e87.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 715,
+   "file": "11-1055-715.3c92a64a876c.pmtiles",
+   "bytes": 247411,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1055-715.3c92a64a876c.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 706,
+   "file": "11-1056-706.8949b867060f.pmtiles",
+   "bytes": 423105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-706.8949b867060f.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 707,
+   "file": "11-1056-707.3923f1288f93.pmtiles",
+   "bytes": 399646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-707.3923f1288f93.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 708,
+   "file": "11-1056-708.c0a59c40702a.pmtiles",
+   "bytes": 607312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-708.c0a59c40702a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 709,
+   "file": "11-1056-709.030e62c15121.pmtiles",
+   "bytes": 382938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-709.030e62c15121.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 710,
+   "file": "11-1056-710.97fcaa19a2fa.pmtiles",
+   "bytes": 310462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-710.97fcaa19a2fa.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 711,
+   "file": "11-1056-711.1d63b285ca68.pmtiles",
+   "bytes": 330995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-711.1d63b285ca68.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 712,
+   "file": "11-1056-712.b9392c4edc0a.pmtiles",
+   "bytes": 410640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-712.b9392c4edc0a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 713,
+   "file": "11-1056-713.7c98dfc7087f.pmtiles",
+   "bytes": 394914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-713.7c98dfc7087f.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 714,
+   "file": "11-1056-714.baf347cf5f72.pmtiles",
+   "bytes": 419971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-714.baf347cf5f72.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 715,
+   "file": "11-1056-715.a28d05ab6c54.pmtiles",
+   "bytes": 219990,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1056-715.a28d05ab6c54.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 706,
+   "file": "11-1057-706.54dfa740fd46.pmtiles",
+   "bytes": 972781,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-706.54dfa740fd46.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 707,
+   "file": "11-1057-707.a2cd3b5dfd63.pmtiles",
+   "bytes": 355662,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-707.a2cd3b5dfd63.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 708,
+   "file": "11-1057-708.5f35644c81f4.pmtiles",
+   "bytes": 342859,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-708.5f35644c81f4.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 709,
+   "file": "11-1057-709.74e0080d28eb.pmtiles",
+   "bytes": 407377,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-709.74e0080d28eb.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 710,
+   "file": "11-1057-710.b03e930f28ec.pmtiles",
+   "bytes": 374639,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-710.b03e930f28ec.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 711,
+   "file": "11-1057-711.e6f25c21ee59.pmtiles",
+   "bytes": 260080,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-711.e6f25c21ee59.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 712,
+   "file": "11-1057-712.b9bf161f2142.pmtiles",
+   "bytes": 276928,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-712.b9bf161f2142.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 713,
+   "file": "11-1057-713.1418c40388bc.pmtiles",
+   "bytes": 292957,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-713.1418c40388bc.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 714,
+   "file": "11-1057-714.87ea557e3e03.pmtiles",
+   "bytes": 284781,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-714.87ea557e3e03.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 715,
+   "file": "11-1057-715.29b2c351ccdd.pmtiles",
+   "bytes": 184372,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-haute-marne-2026-10-03/11-1057-715.29b2c351ccdd.pmtiles"
+  }
+ ]
+}

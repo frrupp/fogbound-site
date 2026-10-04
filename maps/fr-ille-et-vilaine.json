@@ -1,0 +1,805 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-ille-et-vilaine",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T15:47:00.103Z",
+ "publishedAt": "2026-10-04T15:47:27.345Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-ille-et-vilaine-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.28897,
+  47.63139,
+  -1.01569,
+  48.72201
+ ],
+ "overview": {
+  "file": "overview.7b86d31dadd2.pmtiles",
+  "bytes": 3517207,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/overview.7b86d31dadd2.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1010,
+   "y": 706,
+   "file": "11-1010-706.9caae2ccf1ec.pmtiles",
+   "bytes": 248569,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-706.9caae2ccf1ec.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 707,
+   "file": "11-1010-707.428feffc9eba.pmtiles",
+   "bytes": 262661,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-707.428feffc9eba.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 708,
+   "file": "11-1010-708.80e1421da79a.pmtiles",
+   "bytes": 276956,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-708.80e1421da79a.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 709,
+   "file": "11-1010-709.eeb5da470e6e.pmtiles",
+   "bytes": 218737,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-709.eeb5da470e6e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 710,
+   "file": "11-1010-710.827a35d27d32.pmtiles",
+   "bytes": 186333,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-710.827a35d27d32.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 711,
+   "file": "11-1010-711.c2b175c98a01.pmtiles",
+   "bytes": 224159,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-711.c2b175c98a01.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 712,
+   "file": "11-1010-712.19dc4c481bb9.pmtiles",
+   "bytes": 203950,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-712.19dc4c481bb9.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 713,
+   "file": "11-1010-713.f2f8c513158e.pmtiles",
+   "bytes": 200716,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-713.f2f8c513158e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 714,
+   "file": "11-1010-714.ee98d0198265.pmtiles",
+   "bytes": 265558,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-714.ee98d0198265.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 715,
+   "file": "11-1010-715.947dd0a44dce.pmtiles",
+   "bytes": 100917,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1010-715.947dd0a44dce.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 706,
+   "file": "11-1011-706.8069b607ab70.pmtiles",
+   "bytes": 1228734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-706.8069b607ab70.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 707,
+   "file": "11-1011-707.28b61ad43424.pmtiles",
+   "bytes": 1672447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-707.28b61ad43424.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 708,
+   "file": "11-1011-708.32930571ecc8.pmtiles",
+   "bytes": 1397641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-708.32930571ecc8.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 709,
+   "file": "11-1011-709.9b999eff2721.pmtiles",
+   "bytes": 1024231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-709.9b999eff2721.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 710,
+   "file": "11-1011-710.51642e88653b.pmtiles",
+   "bytes": 941761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-710.51642e88653b.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 711,
+   "file": "11-1011-711.77db57c0166f.pmtiles",
+   "bytes": 759504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-711.77db57c0166f.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 712,
+   "file": "11-1011-712.3a2150667dd5.pmtiles",
+   "bytes": 878594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-712.3a2150667dd5.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 713,
+   "file": "11-1011-713.7b7bba521aa5.pmtiles",
+   "bytes": 929402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-713.7b7bba521aa5.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 714,
+   "file": "11-1011-714.47c4ae442c49.pmtiles",
+   "bytes": 1287110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-714.47c4ae442c49.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 715,
+   "file": "11-1011-715.368454239d44.pmtiles",
+   "bytes": 290901,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1011-715.368454239d44.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 705,
+   "file": "11-1012-705.65227c90b0e4.pmtiles",
+   "bytes": 51060,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-705.65227c90b0e4.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 706,
+   "file": "11-1012-706.81f342b3c91f.pmtiles",
+   "bytes": 2617728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-706.81f342b3c91f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 707,
+   "file": "11-1012-707.18f76dc8fa7f.pmtiles",
+   "bytes": 1937396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-707.18f76dc8fa7f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 708,
+   "file": "11-1012-708.308d8c9d3919.pmtiles",
+   "bytes": 1829449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-708.308d8c9d3919.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 709,
+   "file": "11-1012-709.81e0c33ab3ee.pmtiles",
+   "bytes": 1199263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-709.81e0c33ab3ee.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 710,
+   "file": "11-1012-710.16a68d7258ab.pmtiles",
+   "bytes": 1420167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-710.16a68d7258ab.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 711,
+   "file": "11-1012-711.8ff5b328abed.pmtiles",
+   "bytes": 964937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-711.8ff5b328abed.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 712,
+   "file": "11-1012-712.13c8b74614a8.pmtiles",
+   "bytes": 908135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-712.13c8b74614a8.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 713,
+   "file": "11-1012-713.e50e193b052f.pmtiles",
+   "bytes": 1005379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-713.e50e193b052f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 714,
+   "file": "11-1012-714.4d2275562562.pmtiles",
+   "bytes": 1275115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-714.4d2275562562.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 715,
+   "file": "11-1012-715.cd71f4f5cb4f.pmtiles",
+   "bytes": 216548,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1012-715.cd71f4f5cb4f.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 705,
+   "file": "11-1013-705.86a294db4fcf.pmtiles",
+   "bytes": 153240,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-705.86a294db4fcf.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 706,
+   "file": "11-1013-706.0e7d110b4971.pmtiles",
+   "bytes": 1203046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-706.0e7d110b4971.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 707,
+   "file": "11-1013-707.75eb3963da07.pmtiles",
+   "bytes": 1389385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-707.75eb3963da07.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 708,
+   "file": "11-1013-708.2ed81c1b331a.pmtiles",
+   "bytes": 1198499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-708.2ed81c1b331a.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 709,
+   "file": "11-1013-709.c73693893d11.pmtiles",
+   "bytes": 1489937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-709.c73693893d11.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 710,
+   "file": "11-1013-710.d9862ef4f2bd.pmtiles",
+   "bytes": 2150738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-710.d9862ef4f2bd.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 711,
+   "file": "11-1013-711.3c1dcca014d2.pmtiles",
+   "bytes": 2049277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-711.3c1dcca014d2.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 712,
+   "file": "11-1013-712.da38993dd7c2.pmtiles",
+   "bytes": 1108582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-712.da38993dd7c2.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 713,
+   "file": "11-1013-713.19e69a39ee7d.pmtiles",
+   "bytes": 989995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-713.19e69a39ee7d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 714,
+   "file": "11-1013-714.10040599d032.pmtiles",
+   "bytes": 863371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-714.10040599d032.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 715,
+   "file": "11-1013-715.118e3e373e17.pmtiles",
+   "bytes": 229314,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1013-715.118e3e373e17.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 705,
+   "file": "11-1014-705.97f3c4aa6ed8.pmtiles",
+   "bytes": 20746,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-705.97f3c4aa6ed8.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 706,
+   "file": "11-1014-706.86b9c2a00518.pmtiles",
+   "bytes": 440217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-706.86b9c2a00518.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 707,
+   "file": "11-1014-707.9406ed726a1e.pmtiles",
+   "bytes": 1273405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-707.9406ed726a1e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 708,
+   "file": "11-1014-708.3054f446bf15.pmtiles",
+   "bytes": 963539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-708.3054f446bf15.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 709,
+   "file": "11-1014-709.0bb28f2acb05.pmtiles",
+   "bytes": 1410448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-709.0bb28f2acb05.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 710,
+   "file": "11-1014-710.b29e16fc0706.pmtiles",
+   "bytes": 4302259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-710.b29e16fc0706.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 711,
+   "file": "11-1014-711.14ec81c460fe.pmtiles",
+   "bytes": 3873096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-711.14ec81c460fe.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 712,
+   "file": "11-1014-712.89d47fe30277.pmtiles",
+   "bytes": 1453648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-712.89d47fe30277.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 713,
+   "file": "11-1014-713.2a24c2aa0408.pmtiles",
+   "bytes": 980845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-713.2a24c2aa0408.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 714,
+   "file": "11-1014-714.d94c1ff2ef7e.pmtiles",
+   "bytes": 771926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-714.d94c1ff2ef7e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 715,
+   "file": "11-1014-715.98d91074ae76.pmtiles",
+   "bytes": 171535,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1014-715.98d91074ae76.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 705,
+   "file": "11-1015-705.db8deeb66ef4.pmtiles",
+   "bytes": 281280,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-705.db8deeb66ef4.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 706,
+   "file": "11-1015-706.e77a56453df8.pmtiles",
+   "bytes": 537177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-706.e77a56453df8.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 707,
+   "file": "11-1015-707.4fbf881a5375.pmtiles",
+   "bytes": 1006515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-707.4fbf881a5375.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 708,
+   "file": "11-1015-708.34ecf55b779b.pmtiles",
+   "bytes": 946403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-708.34ecf55b779b.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 709,
+   "file": "11-1015-709.1b4edb9c4655.pmtiles",
+   "bytes": 1204076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-709.1b4edb9c4655.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 710,
+   "file": "11-1015-710.f6098717c6b1.pmtiles",
+   "bytes": 1652572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-710.f6098717c6b1.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 711,
+   "file": "11-1015-711.b532ecf1e907.pmtiles",
+   "bytes": 1634977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-711.b532ecf1e907.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 712,
+   "file": "11-1015-712.39214597536d.pmtiles",
+   "bytes": 1239848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-712.39214597536d.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 713,
+   "file": "11-1015-713.c28c1c7e3734.pmtiles",
+   "bytes": 1094771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-713.c28c1c7e3734.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 714,
+   "file": "11-1015-714.e50dfffdd004.pmtiles",
+   "bytes": 1066792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-714.e50dfffdd004.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 715,
+   "file": "11-1015-715.212a5c5b5922.pmtiles",
+   "bytes": 222699,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1015-715.212a5c5b5922.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 705,
+   "file": "11-1016-705.8d2833321e51.pmtiles",
+   "bytes": 383051,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-705.8d2833321e51.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 706,
+   "file": "11-1016-706.e5693551c07d.pmtiles",
+   "bytes": 1127737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-706.e5693551c07d.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 707,
+   "file": "11-1016-707.d598af6aff98.pmtiles",
+   "bytes": 873387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-707.d598af6aff98.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 708,
+   "file": "11-1016-708.b328103eb14f.pmtiles",
+   "bytes": 1233095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-708.b328103eb14f.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 709,
+   "file": "11-1016-709.cbadc0355537.pmtiles",
+   "bytes": 1051627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-709.cbadc0355537.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 710,
+   "file": "11-1016-710.ab149924260a.pmtiles",
+   "bytes": 1262584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-710.ab149924260a.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 711,
+   "file": "11-1016-711.d618961277e8.pmtiles",
+   "bytes": 1281704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-711.d618961277e8.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 712,
+   "file": "11-1016-712.6fb9b04bd5b4.pmtiles",
+   "bytes": 1028093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-712.6fb9b04bd5b4.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 713,
+   "file": "11-1016-713.3d1f37eb0491.pmtiles",
+   "bytes": 932793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-713.3d1f37eb0491.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 714,
+   "file": "11-1016-714.9e660e246e2a.pmtiles",
+   "bytes": 1304395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-714.9e660e246e2a.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 715,
+   "file": "11-1016-715.9b9b86e2c349.pmtiles",
+   "bytes": 286064,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1016-715.9b9b86e2c349.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 705,
+   "file": "11-1017-705.ee0d48e41577.pmtiles",
+   "bytes": 410969,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-705.ee0d48e41577.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 706,
+   "file": "11-1017-706.35cc12629409.pmtiles",
+   "bytes": 798158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-706.35cc12629409.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 707,
+   "file": "11-1017-707.73a4d594c60c.pmtiles",
+   "bytes": 897563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-707.73a4d594c60c.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 708,
+   "file": "11-1017-708.ff35a1346f68.pmtiles",
+   "bytes": 1349759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-708.ff35a1346f68.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 709,
+   "file": "11-1017-709.b315c71632ed.pmtiles",
+   "bytes": 1063789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-709.b315c71632ed.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 710,
+   "file": "11-1017-710.409c18dca965.pmtiles",
+   "bytes": 1405046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-710.409c18dca965.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 711,
+   "file": "11-1017-711.41d6547f63cd.pmtiles",
+   "bytes": 1189195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-711.41d6547f63cd.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 712,
+   "file": "11-1017-712.c21735c3bb13.pmtiles",
+   "bytes": 826270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-712.c21735c3bb13.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 713,
+   "file": "11-1017-713.a133e18528df.pmtiles",
+   "bytes": 679515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-713.a133e18528df.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 714,
+   "file": "11-1017-714.f1ed68a95325.pmtiles",
+   "bytes": 692747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-714.f1ed68a95325.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 715,
+   "file": "11-1017-715.f82ae7ed339a.pmtiles",
+   "bytes": 214321,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1017-715.f82ae7ed339a.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 705,
+   "file": "11-1018-705.eb6019f2cce5.pmtiles",
+   "bytes": 100893,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-705.eb6019f2cce5.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 706,
+   "file": "11-1018-706.6d2c8742528d.pmtiles",
+   "bytes": 198785,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-706.6d2c8742528d.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 707,
+   "file": "11-1018-707.6a7b07bc109c.pmtiles",
+   "bytes": 220016,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-707.6a7b07bc109c.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 708,
+   "file": "11-1018-708.11fd1e788cb3.pmtiles",
+   "bytes": 273106,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-708.11fd1e788cb3.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 709,
+   "file": "11-1018-709.bdf5a05326df.pmtiles",
+   "bytes": 295187,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-709.bdf5a05326df.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 710,
+   "file": "11-1018-710.397adae2894e.pmtiles",
+   "bytes": 328192,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-710.397adae2894e.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 711,
+   "file": "11-1018-711.3f7c2f0cfbb0.pmtiles",
+   "bytes": 337044,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-711.3f7c2f0cfbb0.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 712,
+   "file": "11-1018-712.8a3bbf291233.pmtiles",
+   "bytes": 200457,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-712.8a3bbf291233.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 713,
+   "file": "11-1018-713.b007bc9f4fd2.pmtiles",
+   "bytes": 244219,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-713.b007bc9f4fd2.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 714,
+   "file": "11-1018-714.6e343c6386d0.pmtiles",
+   "bytes": 201673,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-714.6e343c6386d0.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 715,
+   "file": "11-1018-715.2b23f6c79644.pmtiles",
+   "bytes": 69150,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-ille-et-vilaine-2026-10-03/11-1018-715.2b23f6c79644.pmtiles"
+  }
+ ]
+}

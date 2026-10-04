@@ -1,0 +1,477 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-lot-et-garonne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:31:49.709Z",
+ "publishedAt": "2026-10-04T13:32:06.246Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-lot-et-garonne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.14058,
+  43.97267,
+  1.07848,
+  44.76568
+ ],
+ "overview": {
+  "file": "overview.f5fd61f1e547.pmtiles",
+  "bytes": 3235344,
+  "tiles": 48,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/overview.f5fd61f1e547.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1023,
+   "y": 738,
+   "file": "11-1023-738.9396d84e0e42.pmtiles",
+   "bytes": 407147,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-738.9396d84e0e42.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 739,
+   "file": "11-1023-739.191a03043bad.pmtiles",
+   "bytes": 836575,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-739.191a03043bad.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 740,
+   "file": "11-1023-740.530f2cd1ec4c.pmtiles",
+   "bytes": 902284,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-740.530f2cd1ec4c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 741,
+   "file": "11-1023-741.8be683a43574.pmtiles",
+   "bytes": 457030,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-741.8be683a43574.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 742,
+   "file": "11-1023-742.5c2eacc5ca33.pmtiles",
+   "bytes": 208172,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-742.5c2eacc5ca33.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 743,
+   "file": "11-1023-743.59ff8feb4ddc.pmtiles",
+   "bytes": 267936,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-743.59ff8feb4ddc.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 744,
+   "file": "11-1023-744.5126f8b2b450.pmtiles",
+   "bytes": 486487,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1023-744.5126f8b2b450.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 738,
+   "file": "11-1024-738.080491a9eaea.pmtiles",
+   "bytes": 440241,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-738.080491a9eaea.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 739,
+   "file": "11-1024-739.bdf1bb0bf331.pmtiles",
+   "bytes": 729176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-739.bdf1bb0bf331.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 740,
+   "file": "11-1024-740.5e6dfd22fddb.pmtiles",
+   "bytes": 1093003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-740.5e6dfd22fddb.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 741,
+   "file": "11-1024-741.fe56bc5cb8d9.pmtiles",
+   "bytes": 602230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-741.fe56bc5cb8d9.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 742,
+   "file": "11-1024-742.45f3fc6620d5.pmtiles",
+   "bytes": 672318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-742.45f3fc6620d5.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 743,
+   "file": "11-1024-743.8add8a96854e.pmtiles",
+   "bytes": 346593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-743.8add8a96854e.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 744,
+   "file": "11-1024-744.5f6da37a7593.pmtiles",
+   "bytes": 889634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1024-744.5f6da37a7593.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 738,
+   "file": "11-1025-738.5288dec78aad.pmtiles",
+   "bytes": 550021,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-738.5288dec78aad.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 739,
+   "file": "11-1025-739.912b0a66a6e7.pmtiles",
+   "bytes": 821228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-739.912b0a66a6e7.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 740,
+   "file": "11-1025-740.92e811814104.pmtiles",
+   "bytes": 698945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-740.92e811814104.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 741,
+   "file": "11-1025-741.1ba8b19b74a4.pmtiles",
+   "bytes": 832066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-741.1ba8b19b74a4.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 742,
+   "file": "11-1025-742.b8c9841ca937.pmtiles",
+   "bytes": 1047020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-742.b8c9841ca937.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 743,
+   "file": "11-1025-743.133aef0501f4.pmtiles",
+   "bytes": 1188971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-743.133aef0501f4.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 744,
+   "file": "11-1025-744.c89e4353f556.pmtiles",
+   "bytes": 1261699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1025-744.c89e4353f556.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 738,
+   "file": "11-1026-738.47e566807675.pmtiles",
+   "bytes": 520859,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-738.47e566807675.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 739,
+   "file": "11-1026-739.5a197187dc4b.pmtiles",
+   "bytes": 866779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-739.5a197187dc4b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 740,
+   "file": "11-1026-740.d0a9e906a12c.pmtiles",
+   "bytes": 495092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-740.d0a9e906a12c.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 741,
+   "file": "11-1026-741.9f6722a18d0e.pmtiles",
+   "bytes": 755632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-741.9f6722a18d0e.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 742,
+   "file": "11-1026-742.8597b4898022.pmtiles",
+   "bytes": 991375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-742.8597b4898022.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 743,
+   "file": "11-1026-743.1b6c4fafac3a.pmtiles",
+   "bytes": 1194833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-743.1b6c4fafac3a.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 744,
+   "file": "11-1026-744.484e6ad98566.pmtiles",
+   "bytes": 1022790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1026-744.484e6ad98566.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 738,
+   "file": "11-1027-738.2a8a486ac8fa.pmtiles",
+   "bytes": 394909,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-738.2a8a486ac8fa.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 739,
+   "file": "11-1027-739.8721dcaeff38.pmtiles",
+   "bytes": 687050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-739.8721dcaeff38.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 740,
+   "file": "11-1027-740.1e277d33c456.pmtiles",
+   "bytes": 582296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-740.1e277d33c456.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 741,
+   "file": "11-1027-741.2de28f2ed508.pmtiles",
+   "bytes": 1252374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-741.2de28f2ed508.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 742,
+   "file": "11-1027-742.e79750b2634b.pmtiles",
+   "bytes": 1109773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-742.e79750b2634b.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 743,
+   "file": "11-1027-743.5f35acd131a4.pmtiles",
+   "bytes": 2531054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-743.5f35acd131a4.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 744,
+   "file": "11-1027-744.b73c5979df33.pmtiles",
+   "bytes": 928972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1027-744.b73c5979df33.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 738,
+   "file": "11-1028-738.90a1b9061d8a.pmtiles",
+   "bytes": 415222,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-738.90a1b9061d8a.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 739,
+   "file": "11-1028-739.01ad3a452d4f.pmtiles",
+   "bytes": 692051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-739.01ad3a452d4f.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 740,
+   "file": "11-1028-740.459e6af73852.pmtiles",
+   "bytes": 678595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-740.459e6af73852.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 741,
+   "file": "11-1028-741.9dcb6003858a.pmtiles",
+   "bytes": 1213650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-741.9dcb6003858a.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 742,
+   "file": "11-1028-742.a7bbf6535b35.pmtiles",
+   "bytes": 819284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-742.a7bbf6535b35.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 743,
+   "file": "11-1028-743.ee0839be13fe.pmtiles",
+   "bytes": 1063901,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-743.ee0839be13fe.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 744,
+   "file": "11-1028-744.38fefe2d0ba0.pmtiles",
+   "bytes": 825135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1028-744.38fefe2d0ba0.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 738,
+   "file": "11-1029-738.16b84acb6c4c.pmtiles",
+   "bytes": 402042,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-738.16b84acb6c4c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 739,
+   "file": "11-1029-739.e2a76ebfd9b3.pmtiles",
+   "bytes": 622322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-739.e2a76ebfd9b3.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 740,
+   "file": "11-1029-740.cbd654b42c27.pmtiles",
+   "bytes": 978150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-740.cbd654b42c27.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 741,
+   "file": "11-1029-741.747487d7192d.pmtiles",
+   "bytes": 761070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-741.747487d7192d.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 742,
+   "file": "11-1029-742.95198ee6d1d7.pmtiles",
+   "bytes": 1100377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-742.95198ee6d1d7.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 743,
+   "file": "11-1029-743.47c7842c0110.pmtiles",
+   "bytes": 1061488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-743.47c7842c0110.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 744,
+   "file": "11-1029-744.4c51bd05809b.pmtiles",
+   "bytes": 848410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1029-744.4c51bd05809b.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 738,
+   "file": "11-1030-738.e9cd779ad9e4.pmtiles",
+   "bytes": 148515,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-738.e9cd779ad9e4.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 739,
+   "file": "11-1030-739.882661c77db7.pmtiles",
+   "bytes": 241168,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-739.882661c77db7.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 740,
+   "file": "11-1030-740.84f77c36fa8e.pmtiles",
+   "bytes": 312148,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-740.84f77c36fa8e.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 741,
+   "file": "11-1030-741.08dd489e8d9c.pmtiles",
+   "bytes": 273199,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-741.08dd489e8d9c.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 742,
+   "file": "11-1030-742.2a3700ab5c9b.pmtiles",
+   "bytes": 232297,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-742.2a3700ab5c9b.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 743,
+   "file": "11-1030-743.8bee9559ae50.pmtiles",
+   "bytes": 541786,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-743.8bee9559ae50.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 744,
+   "file": "11-1030-744.ab9d38f629d5.pmtiles",
+   "bytes": 319070,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-lot-et-garonne-2026-10-03/11-1030-744.ab9d38f629d5.pmtiles"
+  }
+ ]
+}

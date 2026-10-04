@@ -1,0 +1,413 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fr-tarn-et-garonne",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-04T13:29:28.680Z",
+ "publishedAt": "2026-10-04T13:29:43.346Z",
+ "host": "github",
+ "releases": [
+  "maps-fr-tarn-et-garonne-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.73781,
+  43.76743,
+  2.00087,
+  44.39389
+ ],
+ "overview": {
+  "file": "overview.e2c75fa0e44c.pmtiles",
+  "bytes": 2522771,
+  "tiles": 32,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/overview.e2c75fa0e44c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1028,
+   "y": 741,
+   "file": "11-1028-741.1479440bf634.pmtiles",
+   "bytes": 522859,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-741.1479440bf634.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 742,
+   "file": "11-1028-742.dc74d089a44a.pmtiles",
+   "bytes": 733019,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-742.dc74d089a44a.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 743,
+   "file": "11-1028-743.af9fefd28302.pmtiles",
+   "bytes": 961871,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-743.af9fefd28302.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 744,
+   "file": "11-1028-744.ae878eadcbbe.pmtiles",
+   "bytes": 756986,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-744.ae878eadcbbe.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 745,
+   "file": "11-1028-745.bcb65b147fd3.pmtiles",
+   "bytes": 682784,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-745.bcb65b147fd3.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 746,
+   "file": "11-1028-746.afa95b911bed.pmtiles",
+   "bytes": 380735,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1028-746.afa95b911bed.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 741,
+   "file": "11-1029-741.c267920f2e46.pmtiles",
+   "bytes": 388436,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-741.c267920f2e46.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 742,
+   "file": "11-1029-742.95198ee6d1d7.pmtiles",
+   "bytes": 1100377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-742.95198ee6d1d7.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 743,
+   "file": "11-1029-743.47c7842c0110.pmtiles",
+   "bytes": 1061488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-743.47c7842c0110.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 744,
+   "file": "11-1029-744.4c51bd05809b.pmtiles",
+   "bytes": 848410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-744.4c51bd05809b.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 745,
+   "file": "11-1029-745.48cfb58b74a1.pmtiles",
+   "bytes": 804677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-745.48cfb58b74a1.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 746,
+   "file": "11-1029-746.f5748988c1a4.pmtiles",
+   "bytes": 616468,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1029-746.f5748988c1a4.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 741,
+   "file": "11-1030-741.12b8f693360f.pmtiles",
+   "bytes": 365553,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-741.12b8f693360f.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 742,
+   "file": "11-1030-742.8642eec98fa6.pmtiles",
+   "bytes": 774900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-742.8642eec98fa6.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 743,
+   "file": "11-1030-743.4b4f89419d71.pmtiles",
+   "bytes": 1320062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-743.4b4f89419d71.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 744,
+   "file": "11-1030-744.2a99b10854f2.pmtiles",
+   "bytes": 1120337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-744.2a99b10854f2.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 745,
+   "file": "11-1030-745.e219e3b06f36.pmtiles",
+   "bytes": 897312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-745.e219e3b06f36.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 746,
+   "file": "11-1030-746.741799039a69.pmtiles",
+   "bytes": 760887,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1030-746.741799039a69.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 741,
+   "file": "11-1031-741.c9a3721dcc87.pmtiles",
+   "bytes": 279389,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-741.c9a3721dcc87.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 742,
+   "file": "11-1031-742.5367df63ed61.pmtiles",
+   "bytes": 660078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-742.5367df63ed61.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 743,
+   "file": "11-1031-743.26ee613de56d.pmtiles",
+   "bytes": 835459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-743.26ee613de56d.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 744,
+   "file": "11-1031-744.7241ef021b35.pmtiles",
+   "bytes": 2020012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-744.7241ef021b35.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 745,
+   "file": "11-1031-745.c45833ad797f.pmtiles",
+   "bytes": 1219350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-745.c45833ad797f.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 746,
+   "file": "11-1031-746.630803fe6fd7.pmtiles",
+   "bytes": 1187806,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1031-746.630803fe6fd7.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 741,
+   "file": "11-1032-741.cea602e5a624.pmtiles",
+   "bytes": 348470,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-741.cea602e5a624.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 742,
+   "file": "11-1032-742.5cad56ebfe88.pmtiles",
+   "bytes": 678178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-742.5cad56ebfe88.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 743,
+   "file": "11-1032-743.1d0a96933ab9.pmtiles",
+   "bytes": 934741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-743.1d0a96933ab9.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 744,
+   "file": "11-1032-744.ab6e86991fa9.pmtiles",
+   "bytes": 1115254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-744.ab6e86991fa9.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 745,
+   "file": "11-1032-745.f631a1b5494b.pmtiles",
+   "bytes": 825154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-745.f631a1b5494b.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 746,
+   "file": "11-1032-746.927a654701e2.pmtiles",
+   "bytes": 939952,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1032-746.927a654701e2.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 741,
+   "file": "11-1033-741.a43508b00a5b.pmtiles",
+   "bytes": 272057,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-741.a43508b00a5b.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 742,
+   "file": "11-1033-742.9c01591eef92.pmtiles",
+   "bytes": 515790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-742.9c01591eef92.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 743,
+   "file": "11-1033-743.9d7302d0854a.pmtiles",
+   "bytes": 678896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-743.9d7302d0854a.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 744,
+   "file": "11-1033-744.e6a5483bb2d0.pmtiles",
+   "bytes": 683736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-744.e6a5483bb2d0.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 745,
+   "file": "11-1033-745.0f13ad3fa5ce.pmtiles",
+   "bytes": 496839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-745.0f13ad3fa5ce.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 746,
+   "file": "11-1033-746.ccafd6950b21.pmtiles",
+   "bytes": 959817,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1033-746.ccafd6950b21.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 741,
+   "file": "11-1034-741.f5729b8a34f3.pmtiles",
+   "bytes": 349307,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-741.f5729b8a34f3.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 742,
+   "file": "11-1034-742.7a2fec456c69.pmtiles",
+   "bytes": 805357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-742.7a2fec456c69.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 743,
+   "file": "11-1034-743.a0c3c4b2a504.pmtiles",
+   "bytes": 826445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-743.a0c3c4b2a504.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 744,
+   "file": "11-1034-744.cf657f646b65.pmtiles",
+   "bytes": 744921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-744.cf657f646b65.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 745,
+   "file": "11-1034-745.b4251546add7.pmtiles",
+   "bytes": 1109655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-745.b4251546add7.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 746,
+   "file": "11-1034-746.8ff6dbf6965f.pmtiles",
+   "bytes": 417243,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1034-746.8ff6dbf6965f.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 741,
+   "file": "11-1035-741.dff4f0d29a78.pmtiles",
+   "bytes": 334494,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-741.dff4f0d29a78.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 742,
+   "file": "11-1035-742.63cb8dd67ca8.pmtiles",
+   "bytes": 707261,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-742.63cb8dd67ca8.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 743,
+   "file": "11-1035-743.4bd03847c7cc.pmtiles",
+   "bytes": 368347,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-743.4bd03847c7cc.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 744,
+   "file": "11-1035-744.f8dd00cc7fd5.pmtiles",
+   "bytes": 424932,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-744.f8dd00cc7fd5.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 745,
+   "file": "11-1035-745.1359d6e25498.pmtiles",
+   "bytes": 509595,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-745.1359d6e25498.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 746,
+   "file": "11-1035-746.b188f44fe93d.pmtiles",
+   "bytes": 419149,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fr-tarn-et-garonne-2026-10-03/11-1035-746.b188f44fe93d.pmtiles"
+  }
+ ]
+}
