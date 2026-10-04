@@ -1,0 +1,2269 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pl-lubelskie",
+ "source": "pl.pmtiles",
+ "builtAt": "2026-10-04T09:46:18.549Z",
+ "publishedAt": "2026-10-04T09:47:32.768Z",
+ "host": "github",
+ "releases": [
+  "maps-pl-lubelskie-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  21.61555,
+  50.25182,
+  24.14578,
+  52.28784
+ ],
+ "overview": {
+  "file": "overview.5de610a329e6.pmtiles",
+  "bytes": 7714810,
+  "tiles": 141,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/overview.5de610a329e6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1146,
+   "y": 673,
+   "file": "11-1146-673.1f9de6cfea5f.pmtiles",
+   "bytes": 76122,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-673.1f9de6cfea5f.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 674,
+   "file": "11-1146-674.142206148da3.pmtiles",
+   "bytes": 263564,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-674.142206148da3.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 675,
+   "file": "11-1146-675.453db3de007a.pmtiles",
+   "bytes": 235171,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-675.453db3de007a.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 676,
+   "file": "11-1146-676.38ff17e0f055.pmtiles",
+   "bytes": 156019,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-676.38ff17e0f055.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 677,
+   "file": "11-1146-677.fc12a2cffbe2.pmtiles",
+   "bytes": 302107,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-677.fc12a2cffbe2.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 678,
+   "file": "11-1146-678.aad2d4f03220.pmtiles",
+   "bytes": 163251,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-678.aad2d4f03220.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 679,
+   "file": "11-1146-679.8214549ca617.pmtiles",
+   "bytes": 173421,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-679.8214549ca617.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 680,
+   "file": "11-1146-680.7f3ead467e1f.pmtiles",
+   "bytes": 176272,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-680.7f3ead467e1f.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 681,
+   "file": "11-1146-681.2f8296aeae72.pmtiles",
+   "bytes": 179056,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-681.2f8296aeae72.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 682,
+   "file": "11-1146-682.b2ad7fd9bfda.pmtiles",
+   "bytes": 191562,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-682.b2ad7fd9bfda.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 683,
+   "file": "11-1146-683.d00d0ed7d1b1.pmtiles",
+   "bytes": 167702,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-683.d00d0ed7d1b1.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 684,
+   "file": "11-1146-684.5f20c80e66fa.pmtiles",
+   "bytes": 161788,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-684.5f20c80e66fa.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 685,
+   "file": "11-1146-685.3ccbd421bb91.pmtiles",
+   "bytes": 149014,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-685.3ccbd421bb91.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 686,
+   "file": "11-1146-686.b22a3a179a63.pmtiles",
+   "bytes": 119041,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-686.b22a3a179a63.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 687,
+   "file": "11-1146-687.2b08b8e80dad.pmtiles",
+   "bytes": 125534,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-687.2b08b8e80dad.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 688,
+   "file": "11-1146-688.536b45408b82.pmtiles",
+   "bytes": 209790,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-688.536b45408b82.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 689,
+   "file": "11-1146-689.eb43de86b5af.pmtiles",
+   "bytes": 190573,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-689.eb43de86b5af.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 690,
+   "file": "11-1146-690.0c8e58f734b7.pmtiles",
+   "bytes": 154389,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-690.0c8e58f734b7.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 691,
+   "file": "11-1146-691.fbd8cb026541.pmtiles",
+   "bytes": 70882,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-691.fbd8cb026541.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 692,
+   "file": "11-1146-692.315f0d6264b6.pmtiles",
+   "bytes": 83248,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1146-692.315f0d6264b6.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 673,
+   "file": "11-1147-673.c53d4ef68832.pmtiles",
+   "bytes": 194115,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-673.c53d4ef68832.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 674,
+   "file": "11-1147-674.228df36f12a7.pmtiles",
+   "bytes": 701235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-674.228df36f12a7.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 675,
+   "file": "11-1147-675.d69867c0148a.pmtiles",
+   "bytes": 675188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-675.d69867c0148a.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 676,
+   "file": "11-1147-676.5575c1168f06.pmtiles",
+   "bytes": 535082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-676.5575c1168f06.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 677,
+   "file": "11-1147-677.d79f581d01be.pmtiles",
+   "bytes": 640489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-677.d79f581d01be.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 678,
+   "file": "11-1147-678.1e1e3d9edb65.pmtiles",
+   "bytes": 767293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-678.1e1e3d9edb65.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 679,
+   "file": "11-1147-679.acee740ebeb5.pmtiles",
+   "bytes": 809093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-679.acee740ebeb5.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 680,
+   "file": "11-1147-680.02528ac7159c.pmtiles",
+   "bytes": 789498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-680.02528ac7159c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 681,
+   "file": "11-1147-681.352d375a6ae5.pmtiles",
+   "bytes": 760478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-681.352d375a6ae5.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 682,
+   "file": "11-1147-682.9774ce9c169e.pmtiles",
+   "bytes": 585989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-682.9774ce9c169e.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 683,
+   "file": "11-1147-683.8dc54ffec1c9.pmtiles",
+   "bytes": 527375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-683.8dc54ffec1c9.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 684,
+   "file": "11-1147-684.3a42d5a9e5cf.pmtiles",
+   "bytes": 795356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-684.3a42d5a9e5cf.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 685,
+   "file": "11-1147-685.b217a143d2d9.pmtiles",
+   "bytes": 557095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-685.b217a143d2d9.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 686,
+   "file": "11-1147-686.ca57918f46cb.pmtiles",
+   "bytes": 532386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-686.ca57918f46cb.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 687,
+   "file": "11-1147-687.d8c814f47f76.pmtiles",
+   "bytes": 641978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-687.d8c814f47f76.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 688,
+   "file": "11-1147-688.5164bd8b0571.pmtiles",
+   "bytes": 1356042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-688.5164bd8b0571.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 689,
+   "file": "11-1147-689.48922479765b.pmtiles",
+   "bytes": 1218420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-689.48922479765b.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 690,
+   "file": "11-1147-690.6e9584171422.pmtiles",
+   "bytes": 566802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-690.6e9584171422.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 691,
+   "file": "11-1147-691.67cd5e5d729b.pmtiles",
+   "bytes": 719274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-691.67cd5e5d729b.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 692,
+   "file": "11-1147-692.6fde06cc7c4f.pmtiles",
+   "bytes": 613425,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1147-692.6fde06cc7c4f.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 673,
+   "file": "11-1148-673.748269534857.pmtiles",
+   "bytes": 182837,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-673.748269534857.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 674,
+   "file": "11-1148-674.93a9e07e7337.pmtiles",
+   "bytes": 663313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-674.93a9e07e7337.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 675,
+   "file": "11-1148-675.22e84e6095f1.pmtiles",
+   "bytes": 476050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-675.22e84e6095f1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 676,
+   "file": "11-1148-676.2dd5f3c55ca5.pmtiles",
+   "bytes": 549003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-676.2dd5f3c55ca5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 677,
+   "file": "11-1148-677.4a50c0e38970.pmtiles",
+   "bytes": 493604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-677.4a50c0e38970.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 678,
+   "file": "11-1148-678.704b9b7bafb9.pmtiles",
+   "bytes": 599970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-678.704b9b7bafb9.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 679,
+   "file": "11-1148-679.78569df1a6f7.pmtiles",
+   "bytes": 888365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-679.78569df1a6f7.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 680,
+   "file": "11-1148-680.b451502c0d40.pmtiles",
+   "bytes": 994684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-680.b451502c0d40.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 681,
+   "file": "11-1148-681.8af5723c6d06.pmtiles",
+   "bytes": 1185521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-681.8af5723c6d06.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 682,
+   "file": "11-1148-682.e6c152678035.pmtiles",
+   "bytes": 867910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-682.e6c152678035.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 683,
+   "file": "11-1148-683.8983d2e1adf5.pmtiles",
+   "bytes": 590087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-683.8983d2e1adf5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 684,
+   "file": "11-1148-684.d68d2b0fc72d.pmtiles",
+   "bytes": 621723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-684.d68d2b0fc72d.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 685,
+   "file": "11-1148-685.1469cfe2ce29.pmtiles",
+   "bytes": 518843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-685.1469cfe2ce29.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 686,
+   "file": "11-1148-686.1f4744ad80d8.pmtiles",
+   "bytes": 471919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-686.1f4744ad80d8.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 687,
+   "file": "11-1148-687.d2525e5d2c0e.pmtiles",
+   "bytes": 688031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-687.d2525e5d2c0e.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 688,
+   "file": "11-1148-688.0609b7788819.pmtiles",
+   "bytes": 799562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-688.0609b7788819.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 689,
+   "file": "11-1148-689.a8b2460548c0.pmtiles",
+   "bytes": 532712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-689.a8b2460548c0.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 690,
+   "file": "11-1148-690.8d2ae21350a2.pmtiles",
+   "bytes": 217477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-690.8d2ae21350a2.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 691,
+   "file": "11-1148-691.e020b19782a5.pmtiles",
+   "bytes": 491837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-691.e020b19782a5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 692,
+   "file": "11-1148-692.11c1df783519.pmtiles",
+   "bytes": 320862,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1148-692.11c1df783519.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 673,
+   "file": "11-1149-673.0eb67ccd3efd.pmtiles",
+   "bytes": 163826,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-673.0eb67ccd3efd.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 674,
+   "file": "11-1149-674.1abd88fd155e.pmtiles",
+   "bytes": 613195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-674.1abd88fd155e.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 675,
+   "file": "11-1149-675.422fc7d9899a.pmtiles",
+   "bytes": 498746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-675.422fc7d9899a.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 676,
+   "file": "11-1149-676.5d7bea1485ce.pmtiles",
+   "bytes": 455854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-676.5d7bea1485ce.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 677,
+   "file": "11-1149-677.6f4d0ea5c4da.pmtiles",
+   "bytes": 503216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-677.6f4d0ea5c4da.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 678,
+   "file": "11-1149-678.1b85eefd20b1.pmtiles",
+   "bytes": 525899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-678.1b85eefd20b1.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 679,
+   "file": "11-1149-679.3542999957bc.pmtiles",
+   "bytes": 547159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-679.3542999957bc.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 680,
+   "file": "11-1149-680.b4334160a992.pmtiles",
+   "bytes": 644517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-680.b4334160a992.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 681,
+   "file": "11-1149-681.163e53fec161.pmtiles",
+   "bytes": 1007166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-681.163e53fec161.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 682,
+   "file": "11-1149-682.4a321e38ac8c.pmtiles",
+   "bytes": 1146380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-682.4a321e38ac8c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 683,
+   "file": "11-1149-683.5238b5a0caf4.pmtiles",
+   "bytes": 707437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-683.5238b5a0caf4.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 684,
+   "file": "11-1149-684.604c64c5a9e2.pmtiles",
+   "bytes": 798253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-684.604c64c5a9e2.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 685,
+   "file": "11-1149-685.b55a6fa3c61f.pmtiles",
+   "bytes": 509637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-685.b55a6fa3c61f.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 686,
+   "file": "11-1149-686.c3d391d3e8d4.pmtiles",
+   "bytes": 606775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-686.c3d391d3e8d4.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 687,
+   "file": "11-1149-687.4a18b901e592.pmtiles",
+   "bytes": 361737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-687.4a18b901e592.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 688,
+   "file": "11-1149-688.de26c99e35de.pmtiles",
+   "bytes": 370196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-688.de26c99e35de.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 689,
+   "file": "11-1149-689.74a7656b2325.pmtiles",
+   "bytes": 1784816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-689.74a7656b2325.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 690,
+   "file": "11-1149-690.b89cdcad865b.pmtiles",
+   "bytes": 429836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-690.b89cdcad865b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 691,
+   "file": "11-1149-691.1593ece4cd68.pmtiles",
+   "bytes": 482167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-691.1593ece4cd68.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 692,
+   "file": "11-1149-692.a7e80af1318d.pmtiles",
+   "bytes": 296148,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1149-692.a7e80af1318d.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 673,
+   "file": "11-1150-673.32e9793b3e24.pmtiles",
+   "bytes": 133111,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-673.32e9793b3e24.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 674,
+   "file": "11-1150-674.01d7142eace3.pmtiles",
+   "bytes": 1270426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-674.01d7142eace3.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 675,
+   "file": "11-1150-675.4f66ac98d51c.pmtiles",
+   "bytes": 954704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-675.4f66ac98d51c.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 676,
+   "file": "11-1150-676.34e6f7ae7559.pmtiles",
+   "bytes": 276897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-676.34e6f7ae7559.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 677,
+   "file": "11-1150-677.684af4964214.pmtiles",
+   "bytes": 504152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-677.684af4964214.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 678,
+   "file": "11-1150-678.cf7c13c65bc8.pmtiles",
+   "bytes": 579101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-678.cf7c13c65bc8.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 679,
+   "file": "11-1150-679.ac5aa2345409.pmtiles",
+   "bytes": 532304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-679.ac5aa2345409.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 680,
+   "file": "11-1150-680.9512d942a9a3.pmtiles",
+   "bytes": 565388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-680.9512d942a9a3.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 681,
+   "file": "11-1150-681.1eb9a7c4441b.pmtiles",
+   "bytes": 563510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-681.1eb9a7c4441b.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 682,
+   "file": "11-1150-682.cfbe9c0de379.pmtiles",
+   "bytes": 989709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-682.cfbe9c0de379.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 683,
+   "file": "11-1150-683.93c04c275d28.pmtiles",
+   "bytes": 850970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-683.93c04c275d28.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 684,
+   "file": "11-1150-684.5cf1c51a38fc.pmtiles",
+   "bytes": 539490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-684.5cf1c51a38fc.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 685,
+   "file": "11-1150-685.29b90b10d57d.pmtiles",
+   "bytes": 712495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-685.29b90b10d57d.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 686,
+   "file": "11-1150-686.b43855223ee4.pmtiles",
+   "bytes": 1297944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-686.b43855223ee4.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 687,
+   "file": "11-1150-687.8f447cbdee3d.pmtiles",
+   "bytes": 439801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-687.8f447cbdee3d.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 688,
+   "file": "11-1150-688.6d5b3b15b1c8.pmtiles",
+   "bytes": 301082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-688.6d5b3b15b1c8.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 689,
+   "file": "11-1150-689.6dc85cf1d3f2.pmtiles",
+   "bytes": 776322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-689.6dc85cf1d3f2.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 690,
+   "file": "11-1150-690.496de2c78670.pmtiles",
+   "bytes": 1532243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-690.496de2c78670.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 691,
+   "file": "11-1150-691.8f356a46a433.pmtiles",
+   "bytes": 744519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-691.8f356a46a433.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 692,
+   "file": "11-1150-692.20821b90fcc8.pmtiles",
+   "bytes": 270928,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1150-692.20821b90fcc8.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 673,
+   "file": "11-1151-673.ad5b0baeaf20.pmtiles",
+   "bytes": 140346,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-673.ad5b0baeaf20.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 674,
+   "file": "11-1151-674.eee1597d91da.pmtiles",
+   "bytes": 582543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-674.eee1597d91da.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 675,
+   "file": "11-1151-675.52f819c0f0d8.pmtiles",
+   "bytes": 589847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-675.52f819c0f0d8.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 676,
+   "file": "11-1151-676.d72a15cca00a.pmtiles",
+   "bytes": 476218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-676.d72a15cca00a.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 677,
+   "file": "11-1151-677.3b9b5907816c.pmtiles",
+   "bytes": 765659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-677.3b9b5907816c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 678,
+   "file": "11-1151-678.7e562012c11e.pmtiles",
+   "bytes": 433559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-678.7e562012c11e.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 679,
+   "file": "11-1151-679.c632bee6857b.pmtiles",
+   "bytes": 738075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-679.c632bee6857b.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 680,
+   "file": "11-1151-680.637fd0867586.pmtiles",
+   "bytes": 522661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-680.637fd0867586.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 681,
+   "file": "11-1151-681.110a64a7046c.pmtiles",
+   "bytes": 596255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-681.110a64a7046c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 682,
+   "file": "11-1151-682.f61d51599e3c.pmtiles",
+   "bytes": 888622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-682.f61d51599e3c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 683,
+   "file": "11-1151-683.7f9a3cf88f00.pmtiles",
+   "bytes": 1520329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-683.7f9a3cf88f00.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 684,
+   "file": "11-1151-684.8d715bfda7b6.pmtiles",
+   "bytes": 782483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-684.8d715bfda7b6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 685,
+   "file": "11-1151-685.72d801551e6b.pmtiles",
+   "bytes": 492356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-685.72d801551e6b.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 686,
+   "file": "11-1151-686.77c643ac1a20.pmtiles",
+   "bytes": 396778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-686.77c643ac1a20.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 687,
+   "file": "11-1151-687.75f6d3672257.pmtiles",
+   "bytes": 582128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-687.75f6d3672257.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 688,
+   "file": "11-1151-688.a4abd56baeda.pmtiles",
+   "bytes": 560603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-688.a4abd56baeda.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 689,
+   "file": "11-1151-689.4b7ef4fef739.pmtiles",
+   "bytes": 407676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-689.4b7ef4fef739.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 690,
+   "file": "11-1151-690.a8c363662e99.pmtiles",
+   "bytes": 636962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-690.a8c363662e99.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 691,
+   "file": "11-1151-691.b87127f35832.pmtiles",
+   "bytes": 624775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-691.b87127f35832.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 692,
+   "file": "11-1151-692.fc83129a5e41.pmtiles",
+   "bytes": 402532,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1151-692.fc83129a5e41.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 673,
+   "file": "11-1152-673.75e8c15a5e69.pmtiles",
+   "bytes": 138461,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-673.75e8c15a5e69.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 674,
+   "file": "11-1152-674.206294f782dc.pmtiles",
+   "bytes": 443914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-674.206294f782dc.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 675,
+   "file": "11-1152-675.1f47f32eb129.pmtiles",
+   "bytes": 395636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-675.1f47f32eb129.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 676,
+   "file": "11-1152-676.7d284228bd35.pmtiles",
+   "bytes": 443789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-676.7d284228bd35.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 677,
+   "file": "11-1152-677.143e6d9589bb.pmtiles",
+   "bytes": 354704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-677.143e6d9589bb.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 678,
+   "file": "11-1152-678.9af9a64fc7f3.pmtiles",
+   "bytes": 643429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-678.9af9a64fc7f3.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 679,
+   "file": "11-1152-679.a7e9f142a120.pmtiles",
+   "bytes": 485724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-679.a7e9f142a120.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 680,
+   "file": "11-1152-680.2b4ce135a9ea.pmtiles",
+   "bytes": 486910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-680.2b4ce135a9ea.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 681,
+   "file": "11-1152-681.debe76d232c5.pmtiles",
+   "bytes": 943587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-681.debe76d232c5.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 682,
+   "file": "11-1152-682.bd1b35861c2e.pmtiles",
+   "bytes": 910565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-682.bd1b35861c2e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 683,
+   "file": "11-1152-683.dff77747b5c6.pmtiles",
+   "bytes": 4360614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-683.dff77747b5c6.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 684,
+   "file": "11-1152-684.e2794e1b0aaa.pmtiles",
+   "bytes": 686140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-684.e2794e1b0aaa.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 685,
+   "file": "11-1152-685.3ea852b56272.pmtiles",
+   "bytes": 501279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-685.3ea852b56272.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 686,
+   "file": "11-1152-686.d71055ef9a7a.pmtiles",
+   "bytes": 463839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-686.d71055ef9a7a.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 687,
+   "file": "11-1152-687.be4176cc0238.pmtiles",
+   "bytes": 386377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-687.be4176cc0238.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 688,
+   "file": "11-1152-688.8008429e7820.pmtiles",
+   "bytes": 434748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-688.8008429e7820.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 689,
+   "file": "11-1152-689.69e1e7bf3ef6.pmtiles",
+   "bytes": 377499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-689.69e1e7bf3ef6.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 690,
+   "file": "11-1152-690.2a3397884c30.pmtiles",
+   "bytes": 452944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-690.2a3397884c30.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 691,
+   "file": "11-1152-691.bb08f971c486.pmtiles",
+   "bytes": 358537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-691.bb08f971c486.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 692,
+   "file": "11-1152-692.2c44076414e7.pmtiles",
+   "bytes": 162704,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1152-692.2c44076414e7.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 673,
+   "file": "11-1153-673.233b392fc41d.pmtiles",
+   "bytes": 152227,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-673.233b392fc41d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 674,
+   "file": "11-1153-674.82a15e30933d.pmtiles",
+   "bytes": 518374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-674.82a15e30933d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 675,
+   "file": "11-1153-675.a7003268ad76.pmtiles",
+   "bytes": 386493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-675.a7003268ad76.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 676,
+   "file": "11-1153-676.32c2f826b98a.pmtiles",
+   "bytes": 659018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-676.32c2f826b98a.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 677,
+   "file": "11-1153-677.fc9c6b78f7a4.pmtiles",
+   "bytes": 421246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-677.fc9c6b78f7a4.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 678,
+   "file": "11-1153-678.ffffaaba42c2.pmtiles",
+   "bytes": 399744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-678.ffffaaba42c2.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 679,
+   "file": "11-1153-679.f16b09655fc0.pmtiles",
+   "bytes": 464689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-679.f16b09655fc0.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 680,
+   "file": "11-1153-680.13b053829e8d.pmtiles",
+   "bytes": 375534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-680.13b053829e8d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 681,
+   "file": "11-1153-681.7207e5b812ec.pmtiles",
+   "bytes": 339799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-681.7207e5b812ec.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 682,
+   "file": "11-1153-682.dee812908616.pmtiles",
+   "bytes": 577314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-682.dee812908616.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 683,
+   "file": "11-1153-683.67396afb4a5c.pmtiles",
+   "bytes": 1334374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-683.67396afb4a5c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 684,
+   "file": "11-1153-684.851ba1d8aed1.pmtiles",
+   "bytes": 416270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-684.851ba1d8aed1.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 685,
+   "file": "11-1153-685.e8fde930f31a.pmtiles",
+   "bytes": 372428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-685.e8fde930f31a.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 686,
+   "file": "11-1153-686.fe43f2e9f5f6.pmtiles",
+   "bytes": 362715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-686.fe43f2e9f5f6.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 687,
+   "file": "11-1153-687.dd32f89df925.pmtiles",
+   "bytes": 355985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-687.dd32f89df925.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 688,
+   "file": "11-1153-688.a1274f48de44.pmtiles",
+   "bytes": 579322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-688.a1274f48de44.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 689,
+   "file": "11-1153-689.30bea09c86a8.pmtiles",
+   "bytes": 885764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-689.30bea09c86a8.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 690,
+   "file": "11-1153-690.7a1776a586ba.pmtiles",
+   "bytes": 567186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-690.7a1776a586ba.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 691,
+   "file": "11-1153-691.f962b31372a2.pmtiles",
+   "bytes": 431508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-691.f962b31372a2.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 692,
+   "file": "11-1153-692.3ce91ad4a247.pmtiles",
+   "bytes": 155850,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1153-692.3ce91ad4a247.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 673,
+   "file": "11-1154-673.78c256d52fbc.pmtiles",
+   "bytes": 119987,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-673.78c256d52fbc.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 674,
+   "file": "11-1154-674.a3c94a2b9d3a.pmtiles",
+   "bytes": 375375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-674.a3c94a2b9d3a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 675,
+   "file": "11-1154-675.2c43aef3edb0.pmtiles",
+   "bytes": 386395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-675.2c43aef3edb0.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 676,
+   "file": "11-1154-676.d2de062a1f5e.pmtiles",
+   "bytes": 303918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-676.d2de062a1f5e.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 677,
+   "file": "11-1154-677.50cfb8cc879c.pmtiles",
+   "bytes": 298396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-677.50cfb8cc879c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 678,
+   "file": "11-1154-678.b7470003e14f.pmtiles",
+   "bytes": 294217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-678.b7470003e14f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 679,
+   "file": "11-1154-679.5ad18b72604c.pmtiles",
+   "bytes": 740148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-679.5ad18b72604c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 680,
+   "file": "11-1154-680.1032ff45d326.pmtiles",
+   "bytes": 458029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-680.1032ff45d326.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 681,
+   "file": "11-1154-681.bf738e3c56dc.pmtiles",
+   "bytes": 532715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-681.bf738e3c56dc.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 682,
+   "file": "11-1154-682.dc1fbb80be80.pmtiles",
+   "bytes": 637231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-682.dc1fbb80be80.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 683,
+   "file": "11-1154-683.161e407ae006.pmtiles",
+   "bytes": 473317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-683.161e407ae006.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 684,
+   "file": "11-1154-684.f49029e18b78.pmtiles",
+   "bytes": 497381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-684.f49029e18b78.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 685,
+   "file": "11-1154-685.c4cc2bf99759.pmtiles",
+   "bytes": 259825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-685.c4cc2bf99759.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 686,
+   "file": "11-1154-686.4f2d46869d4a.pmtiles",
+   "bytes": 272497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-686.4f2d46869d4a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 687,
+   "file": "11-1154-687.51f25dd32d9f.pmtiles",
+   "bytes": 390004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-687.51f25dd32d9f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 688,
+   "file": "11-1154-688.1e73906b74b7.pmtiles",
+   "bytes": 625790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-688.1e73906b74b7.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 689,
+   "file": "11-1154-689.4f04be0ff37f.pmtiles",
+   "bytes": 488124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-689.4f04be0ff37f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 690,
+   "file": "11-1154-690.09849b79c79a.pmtiles",
+   "bytes": 333884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-690.09849b79c79a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 691,
+   "file": "11-1154-691.0106020f1250.pmtiles",
+   "bytes": 393307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-691.0106020f1250.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 692,
+   "file": "11-1154-692.97cd2b2ca703.pmtiles",
+   "bytes": 125018,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1154-692.97cd2b2ca703.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 673,
+   "file": "11-1155-673.68edd28919a3.pmtiles",
+   "bytes": 185373,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-673.68edd28919a3.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 674,
+   "file": "11-1155-674.d3c65603ea4c.pmtiles",
+   "bytes": 425797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-674.d3c65603ea4c.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 675,
+   "file": "11-1155-675.5512087e61a1.pmtiles",
+   "bytes": 493739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-675.5512087e61a1.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 676,
+   "file": "11-1155-676.4d0a5a7c22dc.pmtiles",
+   "bytes": 1017902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-676.4d0a5a7c22dc.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 677,
+   "file": "11-1155-677.40cf452b3488.pmtiles",
+   "bytes": 362627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-677.40cf452b3488.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 678,
+   "file": "11-1155-678.8902de673a3c.pmtiles",
+   "bytes": 305513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-678.8902de673a3c.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 679,
+   "file": "11-1155-679.f1329d2e24cb.pmtiles",
+   "bytes": 342751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-679.f1329d2e24cb.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 680,
+   "file": "11-1155-680.8fe9135523d1.pmtiles",
+   "bytes": 336928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-680.8fe9135523d1.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 681,
+   "file": "11-1155-681.4bdce3373be6.pmtiles",
+   "bytes": 498553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-681.4bdce3373be6.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 682,
+   "file": "11-1155-682.7855d595ef21.pmtiles",
+   "bytes": 502351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-682.7855d595ef21.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 683,
+   "file": "11-1155-683.690160e9b620.pmtiles",
+   "bytes": 342746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-683.690160e9b620.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 684,
+   "file": "11-1155-684.5f0d273fea40.pmtiles",
+   "bytes": 369729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-684.5f0d273fea40.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 685,
+   "file": "11-1155-685.096267eb678b.pmtiles",
+   "bytes": 594126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-685.096267eb678b.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 686,
+   "file": "11-1155-686.a760b6ff6a67.pmtiles",
+   "bytes": 456032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-686.a760b6ff6a67.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 687,
+   "file": "11-1155-687.9d30abd70501.pmtiles",
+   "bytes": 376629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-687.9d30abd70501.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 688,
+   "file": "11-1155-688.d3c07be30aee.pmtiles",
+   "bytes": 477511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-688.d3c07be30aee.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 689,
+   "file": "11-1155-689.6e1346203627.pmtiles",
+   "bytes": 458526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-689.6e1346203627.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 690,
+   "file": "11-1155-690.8bb62f6a0a97.pmtiles",
+   "bytes": 533559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-690.8bb62f6a0a97.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 691,
+   "file": "11-1155-691.f72290e3331a.pmtiles",
+   "bytes": 324910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-691.f72290e3331a.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 692,
+   "file": "11-1155-692.f84c81a77ef2.pmtiles",
+   "bytes": 199295,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1155-692.f84c81a77ef2.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 673,
+   "file": "11-1156-673.a29bff9c3682.pmtiles",
+   "bytes": 24301,
+   "tiles": 9,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-673.a29bff9c3682.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 674,
+   "file": "11-1156-674.6be058d83ebc.pmtiles",
+   "bytes": 379519,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-674.6be058d83ebc.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 675,
+   "file": "11-1156-675.afa251a24d1e.pmtiles",
+   "bytes": 259975,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-675.afa251a24d1e.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 676,
+   "file": "11-1156-676.5a391bdd5ea1.pmtiles",
+   "bytes": 416312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-676.5a391bdd5ea1.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 677,
+   "file": "11-1156-677.0932a583e346.pmtiles",
+   "bytes": 225898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-677.0932a583e346.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 678,
+   "file": "11-1156-678.9383a42462b7.pmtiles",
+   "bytes": 230572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-678.9383a42462b7.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 679,
+   "file": "11-1156-679.171f4af0224c.pmtiles",
+   "bytes": 240209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-679.171f4af0224c.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 680,
+   "file": "11-1156-680.f0d78c41dbd2.pmtiles",
+   "bytes": 296703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-680.f0d78c41dbd2.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 681,
+   "file": "11-1156-681.e35fd2a72e16.pmtiles",
+   "bytes": 347602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-681.e35fd2a72e16.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 682,
+   "file": "11-1156-682.af1b54852ab6.pmtiles",
+   "bytes": 370016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-682.af1b54852ab6.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 683,
+   "file": "11-1156-683.a187ee0def16.pmtiles",
+   "bytes": 262786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-683.a187ee0def16.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 684,
+   "file": "11-1156-684.7ad59684e592.pmtiles",
+   "bytes": 465070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-684.7ad59684e592.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 685,
+   "file": "11-1156-685.52b2477b52fe.pmtiles",
+   "bytes": 368291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-685.52b2477b52fe.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 686,
+   "file": "11-1156-686.8ad47fbcca5b.pmtiles",
+   "bytes": 336922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-686.8ad47fbcca5b.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 687,
+   "file": "11-1156-687.77274e9a8eb4.pmtiles",
+   "bytes": 514431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-687.77274e9a8eb4.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 688,
+   "file": "11-1156-688.eba139d228bc.pmtiles",
+   "bytes": 1215602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-688.eba139d228bc.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 689,
+   "file": "11-1156-689.2efd98d5f7af.pmtiles",
+   "bytes": 506995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-689.2efd98d5f7af.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 690,
+   "file": "11-1156-690.4073991f9356.pmtiles",
+   "bytes": 513536,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-690.4073991f9356.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 691,
+   "file": "11-1156-691.87315ae49cbc.pmtiles",
+   "bytes": 791587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-691.87315ae49cbc.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 692,
+   "file": "11-1156-692.c861fe4b459b.pmtiles",
+   "bytes": 223460,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1156-692.c861fe4b459b.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 674,
+   "file": "11-1157-674.5c5cf5cf7ea9.pmtiles",
+   "bytes": 195110,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-674.5c5cf5cf7ea9.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 675,
+   "file": "11-1157-675.25a2ad206d38.pmtiles",
+   "bytes": 449498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-675.25a2ad206d38.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 676,
+   "file": "11-1157-676.0ce3525032ad.pmtiles",
+   "bytes": 306558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-676.0ce3525032ad.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 677,
+   "file": "11-1157-677.7786071fbeb0.pmtiles",
+   "bytes": 219691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-677.7786071fbeb0.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 678,
+   "file": "11-1157-678.2da63f59d30f.pmtiles",
+   "bytes": 331029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-678.2da63f59d30f.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 679,
+   "file": "11-1157-679.f6def3fa7097.pmtiles",
+   "bytes": 617898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-679.f6def3fa7097.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 680,
+   "file": "11-1157-680.d977c32d7e48.pmtiles",
+   "bytes": 626391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-680.d977c32d7e48.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 681,
+   "file": "11-1157-681.3e9b6283c081.pmtiles",
+   "bytes": 422873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-681.3e9b6283c081.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 682,
+   "file": "11-1157-682.d206330dadd0.pmtiles",
+   "bytes": 266747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-682.d206330dadd0.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 683,
+   "file": "11-1157-683.867a849a3b44.pmtiles",
+   "bytes": 385424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-683.867a849a3b44.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 684,
+   "file": "11-1157-684.dd67441b3c51.pmtiles",
+   "bytes": 1372092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-684.dd67441b3c51.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 685,
+   "file": "11-1157-685.6220dfbaf05f.pmtiles",
+   "bytes": 248807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-685.6220dfbaf05f.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 686,
+   "file": "11-1157-686.7832f5f42c51.pmtiles",
+   "bytes": 362937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-686.7832f5f42c51.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 687,
+   "file": "11-1157-687.04cc3edddc1a.pmtiles",
+   "bytes": 570974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-687.04cc3edddc1a.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 688,
+   "file": "11-1157-688.82c35f0a7b24.pmtiles",
+   "bytes": 568385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-688.82c35f0a7b24.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 689,
+   "file": "11-1157-689.05932a951970.pmtiles",
+   "bytes": 437906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-689.05932a951970.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 690,
+   "file": "11-1157-690.e53fbccffe79.pmtiles",
+   "bytes": 860562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-690.e53fbccffe79.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 691,
+   "file": "11-1157-691.4f144314b631.pmtiles",
+   "bytes": 880063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-691.4f144314b631.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 692,
+   "file": "11-1157-692.6a0aa5c50f7d.pmtiles",
+   "bytes": 232944,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1157-692.6a0aa5c50f7d.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 675,
+   "file": "11-1158-675.8462518771c0.pmtiles",
+   "bytes": 657254,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-675.8462518771c0.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 676,
+   "file": "11-1158-676.ab3aa7a6e4fe.pmtiles",
+   "bytes": 297835,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-676.ab3aa7a6e4fe.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 677,
+   "file": "11-1158-677.359b03b092f2.pmtiles",
+   "bytes": 217431,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-677.359b03b092f2.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 678,
+   "file": "11-1158-678.2808097c0158.pmtiles",
+   "bytes": 385490,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-678.2808097c0158.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 679,
+   "file": "11-1158-679.4b403cb8c93e.pmtiles",
+   "bytes": 58252,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-679.4b403cb8c93e.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 680,
+   "file": "11-1158-680.600904da9734.pmtiles",
+   "bytes": 301854,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-680.600904da9734.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 681,
+   "file": "11-1158-681.e189e1292b35.pmtiles",
+   "bytes": 429961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-681.e189e1292b35.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 682,
+   "file": "11-1158-682.69704b042d41.pmtiles",
+   "bytes": 384369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-682.69704b042d41.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 683,
+   "file": "11-1158-683.27034e9f9738.pmtiles",
+   "bytes": 329296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-683.27034e9f9738.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 684,
+   "file": "11-1158-684.345d8efeb3d4.pmtiles",
+   "bytes": 298967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-684.345d8efeb3d4.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 685,
+   "file": "11-1158-685.196e3503ae7c.pmtiles",
+   "bytes": 342017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-685.196e3503ae7c.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 686,
+   "file": "11-1158-686.dde430fc823f.pmtiles",
+   "bytes": 319531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-686.dde430fc823f.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 687,
+   "file": "11-1158-687.6cbbcf3f2fa1.pmtiles",
+   "bytes": 583048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-687.6cbbcf3f2fa1.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 688,
+   "file": "11-1158-688.a3ab7c28a700.pmtiles",
+   "bytes": 640444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-688.a3ab7c28a700.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 689,
+   "file": "11-1158-689.caa00c787fcf.pmtiles",
+   "bytes": 745905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-689.caa00c787fcf.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 690,
+   "file": "11-1158-690.d84823a8576e.pmtiles",
+   "bytes": 391775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-690.d84823a8576e.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 691,
+   "file": "11-1158-691.d77051abebf0.pmtiles",
+   "bytes": 348194,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-691.d77051abebf0.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 692,
+   "file": "11-1158-692.d503cce5de33.pmtiles",
+   "bytes": 122268,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1158-692.d503cce5de33.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 681,
+   "file": "11-1159-681.d29dece2b27a.pmtiles",
+   "bytes": 31581,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-681.d29dece2b27a.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 682,
+   "file": "11-1159-682.579fbdb693fa.pmtiles",
+   "bytes": 24662,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-682.579fbdb693fa.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 683,
+   "file": "11-1159-683.18dd015a8a4b.pmtiles",
+   "bytes": 157557,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-683.18dd015a8a4b.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 684,
+   "file": "11-1159-684.13cedeb03995.pmtiles",
+   "bytes": 423594,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-684.13cedeb03995.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 685,
+   "file": "11-1159-685.187ab32a15c3.pmtiles",
+   "bytes": 266550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-685.187ab32a15c3.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 686,
+   "file": "11-1159-686.e963025185e7.pmtiles",
+   "bytes": 284214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-686.e963025185e7.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 687,
+   "file": "11-1159-687.a7fcb63774bc.pmtiles",
+   "bytes": 763285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-687.a7fcb63774bc.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 688,
+   "file": "11-1159-688.bb933c77212f.pmtiles",
+   "bytes": 453915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-688.bb933c77212f.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 689,
+   "file": "11-1159-689.2b9fd491cccd.pmtiles",
+   "bytes": 454375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-689.2b9fd491cccd.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 690,
+   "file": "11-1159-690.a9c719f6042e.pmtiles",
+   "bytes": 432400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-690.a9c719f6042e.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 691,
+   "file": "11-1159-691.e51c68fd0acf.pmtiles",
+   "bytes": 78513,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1159-691.e51c68fd0acf.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 684,
+   "file": "11-1160-684.ed00c67a2203.pmtiles",
+   "bytes": 21607,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-684.ed00c67a2203.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 685,
+   "file": "11-1160-685.e8c39186a480.pmtiles",
+   "bytes": 100909,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-685.e8c39186a480.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 686,
+   "file": "11-1160-686.fbb60df90ea6.pmtiles",
+   "bytes": 274577,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-686.fbb60df90ea6.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 687,
+   "file": "11-1160-687.0d71e5d70d9d.pmtiles",
+   "bytes": 325903,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-687.0d71e5d70d9d.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 688,
+   "file": "11-1160-688.dfe3acad2d5f.pmtiles",
+   "bytes": 246811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-688.dfe3acad2d5f.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 689,
+   "file": "11-1160-689.1a6c6aac6d32.pmtiles",
+   "bytes": 279162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-689.1a6c6aac6d32.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 690,
+   "file": "11-1160-690.9513131ee958.pmtiles",
+   "bytes": 320036,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-690.9513131ee958.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 691,
+   "file": "11-1160-691.caf1711fce5e.pmtiles",
+   "bytes": 28117,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1160-691.caf1711fce5e.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 686,
+   "file": "11-1161-686.85ac67fefea2.pmtiles",
+   "bytes": 117121,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1161-686.85ac67fefea2.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 687,
+   "file": "11-1161-687.92630ea86d99.pmtiles",
+   "bytes": 40187,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1161-687.92630ea86d99.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 688,
+   "file": "11-1161-688.ac229e4e90ee.pmtiles",
+   "bytes": 54046,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1161-688.ac229e4e90ee.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 689,
+   "file": "11-1161-689.3cae7e8ee4d0.pmtiles",
+   "bytes": 44383,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-lubelskie-2026-10-03/11-1161-689.3cae7e8ee4d0.pmtiles"
+  }
+ ]
+}

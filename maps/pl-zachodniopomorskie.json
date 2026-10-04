@@ -1,0 +1,2285 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pl-zachodniopomorskie",
+ "source": "pl.pmtiles",
+ "builtAt": "2026-10-04T09:47:33.108Z",
+ "publishedAt": "2026-10-04T09:48:47.857Z",
+ "host": "github",
+ "releases": [
+  "maps-pl-zachodniopomorskie-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.12288,
+  52.62469,
+  16.98208,
+  54.57079
+ ],
+ "overview": {
+  "file": "overview.b804461a9873.pmtiles",
+  "bytes": 6339418,
+  "tiles": 136,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/overview.b804461a9873.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1104,
+   "y": 658,
+   "file": "11-1104-658.3c7951f415b9.pmtiles",
+   "bytes": 287575,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-658.3c7951f415b9.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 659,
+   "file": "11-1104-659.2869af40e35f.pmtiles",
+   "bytes": 20122,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-659.2869af40e35f.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 660,
+   "file": "11-1104-660.c6cb06c7a463.pmtiles",
+   "bytes": 44093,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-660.c6cb06c7a463.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 667,
+   "file": "11-1104-667.2c55a1010435.pmtiles",
+   "bytes": 225310,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-667.2c55a1010435.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 668,
+   "file": "11-1104-668.312393b9f8e8.pmtiles",
+   "bytes": 390318,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-668.312393b9f8e8.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 669,
+   "file": "11-1104-669.6998e5ba6032.pmtiles",
+   "bytes": 33794,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1104-669.6998e5ba6032.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 656,
+   "file": "11-1105-656.d1c9431c52e0.pmtiles",
+   "bytes": 13594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-656.d1c9431c52e0.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 657,
+   "file": "11-1105-657.e3a8f5c48fdb.pmtiles",
+   "bytes": 20004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-657.e3a8f5c48fdb.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 658,
+   "file": "11-1105-658.e926eaeefceb.pmtiles",
+   "bytes": 681467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-658.e926eaeefceb.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 659,
+   "file": "11-1105-659.e1ee54cb00df.pmtiles",
+   "bytes": 104208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-659.e1ee54cb00df.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 660,
+   "file": "11-1105-660.0bd3bcb85c62.pmtiles",
+   "bytes": 310751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-660.0bd3bcb85c62.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 661,
+   "file": "11-1105-661.65a334771d23.pmtiles",
+   "bytes": 200002,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-661.65a334771d23.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 662,
+   "file": "11-1105-662.b3f38549bc1f.pmtiles",
+   "bytes": 393660,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-662.b3f38549bc1f.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 663,
+   "file": "11-1105-663.4cbf844b305c.pmtiles",
+   "bytes": 232346,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-663.4cbf844b305c.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 664,
+   "file": "11-1105-664.6a7ca4d2a248.pmtiles",
+   "bytes": 59972,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-664.6a7ca4d2a248.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 665,
+   "file": "11-1105-665.bf3630017084.pmtiles",
+   "bytes": 189047,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-665.bf3630017084.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 666,
+   "file": "11-1105-666.8bffac88a554.pmtiles",
+   "bytes": 202791,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-666.8bffac88a554.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 667,
+   "file": "11-1105-667.daf12141433e.pmtiles",
+   "bytes": 302680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-667.daf12141433e.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 668,
+   "file": "11-1105-668.8c74f9f76044.pmtiles",
+   "bytes": 409618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-668.8c74f9f76044.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 669,
+   "file": "11-1105-669.af8b4e2ac415.pmtiles",
+   "bytes": 269865,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1105-669.af8b4e2ac415.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 655,
+   "file": "11-1106-655.595e1a690d51.pmtiles",
+   "bytes": 10547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-655.595e1a690d51.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 656,
+   "file": "11-1106-656.1f61cea445aa.pmtiles",
+   "bytes": 3818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-656.1f61cea445aa.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 657,
+   "file": "11-1106-657.baacb084f530.pmtiles",
+   "bytes": 91385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-657.baacb084f530.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 658,
+   "file": "11-1106-658.98900dcb36b7.pmtiles",
+   "bytes": 563182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-658.98900dcb36b7.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 659,
+   "file": "11-1106-659.51a628a5c15d.pmtiles",
+   "bytes": 59921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-659.51a628a5c15d.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 660,
+   "file": "11-1106-660.c38bf0502bac.pmtiles",
+   "bytes": 237685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-660.c38bf0502bac.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 661,
+   "file": "11-1106-661.82135b59211f.pmtiles",
+   "bytes": 777558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-661.82135b59211f.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 662,
+   "file": "11-1106-662.c24673f13ea4.pmtiles",
+   "bytes": 2393965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-662.c24673f13ea4.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 663,
+   "file": "11-1106-663.50492ea70642.pmtiles",
+   "bytes": 2316775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-663.50492ea70642.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 664,
+   "file": "11-1106-664.63accf81f210.pmtiles",
+   "bytes": 692697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-664.63accf81f210.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 665,
+   "file": "11-1106-665.9e0f364362d0.pmtiles",
+   "bytes": 341227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-665.9e0f364362d0.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 666,
+   "file": "11-1106-666.41f20fec1b6f.pmtiles",
+   "bytes": 209350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-666.41f20fec1b6f.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 667,
+   "file": "11-1106-667.3a3ff5bcf11e.pmtiles",
+   "bytes": 374587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-667.3a3ff5bcf11e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 668,
+   "file": "11-1106-668.dfbb71c6e764.pmtiles",
+   "bytes": 284053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-668.dfbb71c6e764.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 669,
+   "file": "11-1106-669.2d09b1d6754e.pmtiles",
+   "bytes": 280903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-669.2d09b1d6754e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 670,
+   "file": "11-1106-670.43d1a372d274.pmtiles",
+   "bytes": 244964,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1106-670.43d1a372d274.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 653,
+   "file": "11-1107-653.9df63a2510ad.pmtiles",
+   "bytes": 12680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-653.9df63a2510ad.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 654,
+   "file": "11-1107-654.c371a1cba208.pmtiles",
+   "bytes": 2743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-654.c371a1cba208.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 655,
+   "file": "11-1107-655.ce8d086f87f8.pmtiles",
+   "bytes": 5560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-655.ce8d086f87f8.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 656,
+   "file": "11-1107-656.109ffb8033e1.pmtiles",
+   "bytes": 6601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-656.109ffb8033e1.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 657,
+   "file": "11-1107-657.66c26e1331b0.pmtiles",
+   "bytes": 416831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-657.66c26e1331b0.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 658,
+   "file": "11-1107-658.da461b2115c5.pmtiles",
+   "bytes": 341874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-658.da461b2115c5.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 659,
+   "file": "11-1107-659.019de32cd08e.pmtiles",
+   "bytes": 401829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-659.019de32cd08e.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 660,
+   "file": "11-1107-660.99dcdbc5f17c.pmtiles",
+   "bytes": 262092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-660.99dcdbc5f17c.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 661,
+   "file": "11-1107-661.51cbf802c8e3.pmtiles",
+   "bytes": 331495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-661.51cbf802c8e3.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 662,
+   "file": "11-1107-662.32e304bb7333.pmtiles",
+   "bytes": 577538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-662.32e304bb7333.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 663,
+   "file": "11-1107-663.731a13aa6b50.pmtiles",
+   "bytes": 1497555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-663.731a13aa6b50.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 664,
+   "file": "11-1107-664.b1eb1e51add3.pmtiles",
+   "bytes": 501656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-664.b1eb1e51add3.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 665,
+   "file": "11-1107-665.7add426f119b.pmtiles",
+   "bytes": 325830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-665.7add426f119b.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 666,
+   "file": "11-1107-666.b69f254162a6.pmtiles",
+   "bytes": 254100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-666.b69f254162a6.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 667,
+   "file": "11-1107-667.ba0c85197473.pmtiles",
+   "bytes": 264586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-667.ba0c85197473.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 668,
+   "file": "11-1107-668.e435ef68aa74.pmtiles",
+   "bytes": 196412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-668.e435ef68aa74.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 669,
+   "file": "11-1107-669.acc36d01542d.pmtiles",
+   "bytes": 364566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-669.acc36d01542d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 670,
+   "file": "11-1107-670.3dde8692ea54.pmtiles",
+   "bytes": 313741,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1107-670.3dde8692ea54.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 653,
+   "file": "11-1108-653.cf91e2864d8e.pmtiles",
+   "bytes": 9413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-653.cf91e2864d8e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 654,
+   "file": "11-1108-654.c7659ca54c0a.pmtiles",
+   "bytes": 3875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-654.c7659ca54c0a.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 655,
+   "file": "11-1108-655.652e63167293.pmtiles",
+   "bytes": 12927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-655.652e63167293.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 656,
+   "file": "11-1108-656.05cb57448428.pmtiles",
+   "bytes": 40185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-656.05cb57448428.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 657,
+   "file": "11-1108-657.d9b11a216720.pmtiles",
+   "bytes": 576126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-657.d9b11a216720.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 658,
+   "file": "11-1108-658.8812af8b5f97.pmtiles",
+   "bytes": 315941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-658.8812af8b5f97.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 659,
+   "file": "11-1108-659.f73c475a6b0e.pmtiles",
+   "bytes": 307112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-659.f73c475a6b0e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 660,
+   "file": "11-1108-660.8f8069ccc63e.pmtiles",
+   "bytes": 220000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-660.8f8069ccc63e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 661,
+   "file": "11-1108-661.917669fca722.pmtiles",
+   "bytes": 680528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-661.917669fca722.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 662,
+   "file": "11-1108-662.c8dd422cf37f.pmtiles",
+   "bytes": 332378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-662.c8dd422cf37f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 663,
+   "file": "11-1108-663.c10e4bc26b65.pmtiles",
+   "bytes": 421103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-663.c10e4bc26b65.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 664,
+   "file": "11-1108-664.5b67c79f883c.pmtiles",
+   "bytes": 313834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-664.5b67c79f883c.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 665,
+   "file": "11-1108-665.1df7413cd5f6.pmtiles",
+   "bytes": 381833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-665.1df7413cd5f6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 666,
+   "file": "11-1108-666.6517255fb51e.pmtiles",
+   "bytes": 300023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-666.6517255fb51e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 667,
+   "file": "11-1108-667.d0b97fd191b5.pmtiles",
+   "bytes": 427346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-667.d0b97fd191b5.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 668,
+   "file": "11-1108-668.42ba59ed314e.pmtiles",
+   "bytes": 380307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-668.42ba59ed314e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 669,
+   "file": "11-1108-669.e6e641acf1d1.pmtiles",
+   "bytes": 302969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-669.e6e641acf1d1.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 670,
+   "file": "11-1108-670.c492bbcb4b65.pmtiles",
+   "bytes": 360966,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1108-670.c492bbcb4b65.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 654,
+   "file": "11-1109-654.302249a9ab9f.pmtiles",
+   "bytes": 7018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-654.302249a9ab9f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 655,
+   "file": "11-1109-655.0e9325eace07.pmtiles",
+   "bytes": 24865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-655.0e9325eace07.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 656,
+   "file": "11-1109-656.5cfe5be9ce11.pmtiles",
+   "bytes": 453461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-656.5cfe5be9ce11.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 657,
+   "file": "11-1109-657.bcd6c3b18792.pmtiles",
+   "bytes": 275210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-657.bcd6c3b18792.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 658,
+   "file": "11-1109-658.ea3bb575c029.pmtiles",
+   "bytes": 221425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-658.ea3bb575c029.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 659,
+   "file": "11-1109-659.75e7d616b9e6.pmtiles",
+   "bytes": 276293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-659.75e7d616b9e6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 660,
+   "file": "11-1109-660.63a04367f456.pmtiles",
+   "bytes": 313273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-660.63a04367f456.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 661,
+   "file": "11-1109-661.d632b1ec842d.pmtiles",
+   "bytes": 252173,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-661.d632b1ec842d.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 662,
+   "file": "11-1109-662.b9e3afef3295.pmtiles",
+   "bytes": 293087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-662.b9e3afef3295.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 663,
+   "file": "11-1109-663.d3eda65a5c38.pmtiles",
+   "bytes": 767852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-663.d3eda65a5c38.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 664,
+   "file": "11-1109-664.80064e7d78ee.pmtiles",
+   "bytes": 455546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-664.80064e7d78ee.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 665,
+   "file": "11-1109-665.5c226c6aa8a2.pmtiles",
+   "bytes": 200284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-665.5c226c6aa8a2.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 666,
+   "file": "11-1109-666.113904fc1792.pmtiles",
+   "bytes": 251361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-666.113904fc1792.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 667,
+   "file": "11-1109-667.83ee8b714143.pmtiles",
+   "bytes": 377950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-667.83ee8b714143.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 668,
+   "file": "11-1109-668.6513f8b7562f.pmtiles",
+   "bytes": 385442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-668.6513f8b7562f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 669,
+   "file": "11-1109-669.09bec62c5c79.pmtiles",
+   "bytes": 424748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-669.09bec62c5c79.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 670,
+   "file": "11-1109-670.031a58d9dcba.pmtiles",
+   "bytes": 404386,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1109-670.031a58d9dcba.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 654,
+   "file": "11-1110-654.00f0b360b672.pmtiles",
+   "bytes": 11653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-654.00f0b360b672.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 655,
+   "file": "11-1110-655.1d66915afb3b.pmtiles",
+   "bytes": 10477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-655.1d66915afb3b.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 656,
+   "file": "11-1110-656.24041a924e67.pmtiles",
+   "bytes": 527713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-656.24041a924e67.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 657,
+   "file": "11-1110-657.d685d682f83f.pmtiles",
+   "bytes": 396499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-657.d685d682f83f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 658,
+   "file": "11-1110-658.e165b4b99e46.pmtiles",
+   "bytes": 550820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-658.e165b4b99e46.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 659,
+   "file": "11-1110-659.5b6be39e10d4.pmtiles",
+   "bytes": 306326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-659.5b6be39e10d4.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 660,
+   "file": "11-1110-660.698b3e879d63.pmtiles",
+   "bytes": 344544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-660.698b3e879d63.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 661,
+   "file": "11-1110-661.f8de019f78be.pmtiles",
+   "bytes": 178633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-661.f8de019f78be.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 662,
+   "file": "11-1110-662.a017b9c0f3e0.pmtiles",
+   "bytes": 182833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-662.a017b9c0f3e0.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 663,
+   "file": "11-1110-663.b6453d1af5c8.pmtiles",
+   "bytes": 313660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-663.b6453d1af5c8.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 664,
+   "file": "11-1110-664.1f0dcdf15566.pmtiles",
+   "bytes": 209952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-664.1f0dcdf15566.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 665,
+   "file": "11-1110-665.ac4e4ba97f4b.pmtiles",
+   "bytes": 207784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-665.ac4e4ba97f4b.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 666,
+   "file": "11-1110-666.ad08ebef5f68.pmtiles",
+   "bytes": 333660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-666.ad08ebef5f68.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 667,
+   "file": "11-1110-667.f57e6a6cd682.pmtiles",
+   "bytes": 467712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-667.f57e6a6cd682.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 668,
+   "file": "11-1110-668.d6eaf07b0924.pmtiles",
+   "bytes": 342713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-668.d6eaf07b0924.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 669,
+   "file": "11-1110-669.b50b82ad18b6.pmtiles",
+   "bytes": 2413311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-669.b50b82ad18b6.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 670,
+   "file": "11-1110-670.40366c7c6c91.pmtiles",
+   "bytes": 473289,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1110-670.40366c7c6c91.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 655,
+   "file": "11-1111-655.a8f38e7f55bf.pmtiles",
+   "bytes": 53320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-655.a8f38e7f55bf.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 656,
+   "file": "11-1111-656.c62f2662cd78.pmtiles",
+   "bytes": 573977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-656.c62f2662cd78.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 657,
+   "file": "11-1111-657.f98753313347.pmtiles",
+   "bytes": 386681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-657.f98753313347.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 658,
+   "file": "11-1111-658.350f744d4fb6.pmtiles",
+   "bytes": 353472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-658.350f744d4fb6.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 659,
+   "file": "11-1111-659.dd319f7cce66.pmtiles",
+   "bytes": 255075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-659.dd319f7cce66.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 660,
+   "file": "11-1111-660.5f5f4dbe46b2.pmtiles",
+   "bytes": 188127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-660.5f5f4dbe46b2.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 661,
+   "file": "11-1111-661.b2615d1c30a3.pmtiles",
+   "bytes": 199534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-661.b2615d1c30a3.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 662,
+   "file": "11-1111-662.5e783310fc44.pmtiles",
+   "bytes": 297444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-662.5e783310fc44.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 663,
+   "file": "11-1111-663.a55dc33db296.pmtiles",
+   "bytes": 275528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-663.a55dc33db296.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 664,
+   "file": "11-1111-664.875dd768e44b.pmtiles",
+   "bytes": 285218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-664.875dd768e44b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 665,
+   "file": "11-1111-665.935e5861b5e8.pmtiles",
+   "bytes": 675308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-665.935e5861b5e8.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 666,
+   "file": "11-1111-666.99636a7f50b7.pmtiles",
+   "bytes": 437013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-666.99636a7f50b7.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 667,
+   "file": "11-1111-667.5ee73d8c6a2b.pmtiles",
+   "bytes": 283386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-667.5ee73d8c6a2b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 668,
+   "file": "11-1111-668.6f32ae5c06a6.pmtiles",
+   "bytes": 374883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-668.6f32ae5c06a6.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 669,
+   "file": "11-1111-669.7df968a74a21.pmtiles",
+   "bytes": 648486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-669.7df968a74a21.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 670,
+   "file": "11-1111-670.be264a3e29b0.pmtiles",
+   "bytes": 518932,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1111-670.be264a3e29b0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 655,
+   "file": "11-1112-655.acda524810f7.pmtiles",
+   "bytes": 1099750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-655.acda524810f7.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 656,
+   "file": "11-1112-656.b2e8036483f2.pmtiles",
+   "bytes": 920440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-656.b2e8036483f2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 657,
+   "file": "11-1112-657.1ae956e33014.pmtiles",
+   "bytes": 504304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-657.1ae956e33014.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 658,
+   "file": "11-1112-658.d8394c50b3c0.pmtiles",
+   "bytes": 252335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-658.d8394c50b3c0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 659,
+   "file": "11-1112-659.9ad6da06673e.pmtiles",
+   "bytes": 184609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-659.9ad6da06673e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 660,
+   "file": "11-1112-660.951aff720c5c.pmtiles",
+   "bytes": 216832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-660.951aff720c5c.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 661,
+   "file": "11-1112-661.d43ac77363cd.pmtiles",
+   "bytes": 367635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-661.d43ac77363cd.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 662,
+   "file": "11-1112-662.eb521c6e8047.pmtiles",
+   "bytes": 379082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-662.eb521c6e8047.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 663,
+   "file": "11-1112-663.37471b496425.pmtiles",
+   "bytes": 270508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-663.37471b496425.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 664,
+   "file": "11-1112-664.4094f9afba42.pmtiles",
+   "bytes": 421014,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-664.4094f9afba42.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 665,
+   "file": "11-1112-665.274293b595f1.pmtiles",
+   "bytes": 445574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-665.274293b595f1.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 666,
+   "file": "11-1112-666.2be7e3c24a71.pmtiles",
+   "bytes": 465290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-666.2be7e3c24a71.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 667,
+   "file": "11-1112-667.40908012f72d.pmtiles",
+   "bytes": 229187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-667.40908012f72d.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 668,
+   "file": "11-1112-668.fb00a53fb928.pmtiles",
+   "bytes": 581515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-668.fb00a53fb928.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 669,
+   "file": "11-1112-669.6a0132a608c8.pmtiles",
+   "bytes": 384785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-669.6a0132a608c8.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 670,
+   "file": "11-1112-670.d036b8bee28e.pmtiles",
+   "bytes": 143088,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1112-670.d036b8bee28e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 655,
+   "file": "11-1113-655.e9b01cd40777.pmtiles",
+   "bytes": 536016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-655.e9b01cd40777.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 656,
+   "file": "11-1113-656.13af5df806ae.pmtiles",
+   "bytes": 501122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-656.13af5df806ae.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 657,
+   "file": "11-1113-657.9a76c8e90b0b.pmtiles",
+   "bytes": 376483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-657.9a76c8e90b0b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 658,
+   "file": "11-1113-658.d79e26360feb.pmtiles",
+   "bytes": 199765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-658.d79e26360feb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 659,
+   "file": "11-1113-659.10025a3f50c4.pmtiles",
+   "bytes": 478942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-659.10025a3f50c4.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 660,
+   "file": "11-1113-660.faa8912f4512.pmtiles",
+   "bytes": 294840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-660.faa8912f4512.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 661,
+   "file": "11-1113-661.c7d149c81011.pmtiles",
+   "bytes": 250482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-661.c7d149c81011.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 662,
+   "file": "11-1113-662.f02348b96fd1.pmtiles",
+   "bytes": 377463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-662.f02348b96fd1.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 663,
+   "file": "11-1113-663.4a9596bfff6d.pmtiles",
+   "bytes": 132318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-663.4a9596bfff6d.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 664,
+   "file": "11-1113-664.1b0b4d003945.pmtiles",
+   "bytes": 303395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-664.1b0b4d003945.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 665,
+   "file": "11-1113-665.1a6b192ef962.pmtiles",
+   "bytes": 348596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-665.1a6b192ef962.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 666,
+   "file": "11-1113-666.4d48ec2e2678.pmtiles",
+   "bytes": 373687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-666.4d48ec2e2678.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 667,
+   "file": "11-1113-667.5fe6d16054cb.pmtiles",
+   "bytes": 357614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-667.5fe6d16054cb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 668,
+   "file": "11-1113-668.1a7099c44409.pmtiles",
+   "bytes": 407679,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-668.1a7099c44409.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 669,
+   "file": "11-1113-669.a50a9c008088.pmtiles",
+   "bytes": 292996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-669.a50a9c008088.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 670,
+   "file": "11-1113-670.d26a538d44ed.pmtiles",
+   "bytes": 169716,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1113-670.d26a538d44ed.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 654,
+   "file": "11-1114-654.59f891cf82ca.pmtiles",
+   "bytes": 15004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-654.59f891cf82ca.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 655,
+   "file": "11-1114-655.f129ff6aa585.pmtiles",
+   "bytes": 648953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-655.f129ff6aa585.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 656,
+   "file": "11-1114-656.badcf3839dd7.pmtiles",
+   "bytes": 284962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-656.badcf3839dd7.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 657,
+   "file": "11-1114-657.d43f4a1a5648.pmtiles",
+   "bytes": 591254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-657.d43f4a1a5648.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 658,
+   "file": "11-1114-658.6e3604dc6644.pmtiles",
+   "bytes": 191352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-658.6e3604dc6644.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 659,
+   "file": "11-1114-659.2eb71a0feaa1.pmtiles",
+   "bytes": 324296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-659.2eb71a0feaa1.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 660,
+   "file": "11-1114-660.7bd4488f9a1c.pmtiles",
+   "bytes": 375547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-660.7bd4488f9a1c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 661,
+   "file": "11-1114-661.d046368e3dda.pmtiles",
+   "bytes": 308138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-661.d046368e3dda.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 662,
+   "file": "11-1114-662.d25263414d36.pmtiles",
+   "bytes": 335240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-662.d25263414d36.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 663,
+   "file": "11-1114-663.f4230a6e2d4a.pmtiles",
+   "bytes": 209274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-663.f4230a6e2d4a.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 664,
+   "file": "11-1114-664.9d93232cd6f6.pmtiles",
+   "bytes": 307134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-664.9d93232cd6f6.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 665,
+   "file": "11-1114-665.d306c034e413.pmtiles",
+   "bytes": 250545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-665.d306c034e413.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 666,
+   "file": "11-1114-666.1e4d8dd51c67.pmtiles",
+   "bytes": 243048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-666.1e4d8dd51c67.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 667,
+   "file": "11-1114-667.79d10d8e2c80.pmtiles",
+   "bytes": 263561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-667.79d10d8e2c80.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 668,
+   "file": "11-1114-668.8c16909bb594.pmtiles",
+   "bytes": 699766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-668.8c16909bb594.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 669,
+   "file": "11-1114-669.26a8634b35ce.pmtiles",
+   "bytes": 230922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-669.26a8634b35ce.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 670,
+   "file": "11-1114-670.44fa22859679.pmtiles",
+   "bytes": 276386,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1114-670.44fa22859679.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 654,
+   "file": "11-1115-654.f61556075bf5.pmtiles",
+   "bytes": 92349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-654.f61556075bf5.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 655,
+   "file": "11-1115-655.bcd826abcadd.pmtiles",
+   "bytes": 948921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-655.bcd826abcadd.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 656,
+   "file": "11-1115-656.1f7d70430ac4.pmtiles",
+   "bytes": 370270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-656.1f7d70430ac4.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 657,
+   "file": "11-1115-657.93354bb7db95.pmtiles",
+   "bytes": 355166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-657.93354bb7db95.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 658,
+   "file": "11-1115-658.a22b6e3c761c.pmtiles",
+   "bytes": 181789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-658.a22b6e3c761c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 659,
+   "file": "11-1115-659.ba876521adf2.pmtiles",
+   "bytes": 530883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-659.ba876521adf2.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 660,
+   "file": "11-1115-660.54e043f21f68.pmtiles",
+   "bytes": 1018322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-660.54e043f21f68.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 661,
+   "file": "11-1115-661.55b06d7b32a4.pmtiles",
+   "bytes": 816071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-661.55b06d7b32a4.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 662,
+   "file": "11-1115-662.1ee78615bf83.pmtiles",
+   "bytes": 432385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-662.1ee78615bf83.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 663,
+   "file": "11-1115-663.64672b5068ac.pmtiles",
+   "bytes": 248579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-663.64672b5068ac.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 664,
+   "file": "11-1115-664.0a71be719413.pmtiles",
+   "bytes": 251271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-664.0a71be719413.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 665,
+   "file": "11-1115-665.6e1b739cc134.pmtiles",
+   "bytes": 245976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-665.6e1b739cc134.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 666,
+   "file": "11-1115-666.2d0294610963.pmtiles",
+   "bytes": 278317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-666.2d0294610963.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 667,
+   "file": "11-1115-667.0816f50e90fb.pmtiles",
+   "bytes": 196731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-667.0816f50e90fb.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 668,
+   "file": "11-1115-668.47a408dad22e.pmtiles",
+   "bytes": 391818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-668.47a408dad22e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 669,
+   "file": "11-1115-669.8303f1017502.pmtiles",
+   "bytes": 229444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-669.8303f1017502.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 670,
+   "file": "11-1115-670.550869404bf1.pmtiles",
+   "bytes": 393515,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1115-670.550869404bf1.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 653,
+   "file": "11-1116-653.bf529b7d52b2.pmtiles",
+   "bytes": 97510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-653.bf529b7d52b2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 654,
+   "file": "11-1116-654.b68029fcb6bf.pmtiles",
+   "bytes": 240626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-654.b68029fcb6bf.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 655,
+   "file": "11-1116-655.7e7e5215a99e.pmtiles",
+   "bytes": 1228555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-655.7e7e5215a99e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 656,
+   "file": "11-1116-656.40cdf028ace5.pmtiles",
+   "bytes": 418944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-656.40cdf028ace5.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 657,
+   "file": "11-1116-657.c9bcbe2826df.pmtiles",
+   "bytes": 262166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-657.c9bcbe2826df.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 658,
+   "file": "11-1116-658.57496ca33bfb.pmtiles",
+   "bytes": 371730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-658.57496ca33bfb.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 659,
+   "file": "11-1116-659.6866dec412b6.pmtiles",
+   "bytes": 439751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-659.6866dec412b6.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 660,
+   "file": "11-1116-660.31e9b61b955e.pmtiles",
+   "bytes": 539719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-660.31e9b61b955e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 661,
+   "file": "11-1116-661.8f7d8b67a0ee.pmtiles",
+   "bytes": 838225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-661.8f7d8b67a0ee.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 662,
+   "file": "11-1116-662.cdac3a90b49f.pmtiles",
+   "bytes": 345695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-662.cdac3a90b49f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 663,
+   "file": "11-1116-663.90faae99b3c2.pmtiles",
+   "bytes": 196925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-663.90faae99b3c2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 664,
+   "file": "11-1116-664.4f82408291b3.pmtiles",
+   "bytes": 238782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-664.4f82408291b3.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 665,
+   "file": "11-1116-665.6ee45f7c9680.pmtiles",
+   "bytes": 245464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-665.6ee45f7c9680.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 666,
+   "file": "11-1116-666.1fa7e4b1f520.pmtiles",
+   "bytes": 179631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-666.1fa7e4b1f520.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 667,
+   "file": "11-1116-667.1e12f3d81f0a.pmtiles",
+   "bytes": 230141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-667.1e12f3d81f0a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 668,
+   "file": "11-1116-668.ac43dcff78a4.pmtiles",
+   "bytes": 292561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-668.ac43dcff78a4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 669,
+   "file": "11-1116-669.d7014dde37d1.pmtiles",
+   "bytes": 275751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-669.d7014dde37d1.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 670,
+   "file": "11-1116-670.a717ce025393.pmtiles",
+   "bytes": 324479,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1116-670.a717ce025393.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 652,
+   "file": "11-1117-652.ae634cee0183.pmtiles",
+   "bytes": 147738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-652.ae634cee0183.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 653,
+   "file": "11-1117-653.59fc9b60574d.pmtiles",
+   "bytes": 448682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-653.59fc9b60574d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 654,
+   "file": "11-1117-654.06aa8479049e.pmtiles",
+   "bytes": 240888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-654.06aa8479049e.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 655,
+   "file": "11-1117-655.c248701dcda8.pmtiles",
+   "bytes": 213488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-655.c248701dcda8.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 656,
+   "file": "11-1117-656.87131f5c6998.pmtiles",
+   "bytes": 235705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-656.87131f5c6998.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 657,
+   "file": "11-1117-657.811227b7cb1a.pmtiles",
+   "bytes": 419313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-657.811227b7cb1a.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 658,
+   "file": "11-1117-658.ff63137862f5.pmtiles",
+   "bytes": 552117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-658.ff63137862f5.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 659,
+   "file": "11-1117-659.855034720da6.pmtiles",
+   "bytes": 593435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-659.855034720da6.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 660,
+   "file": "11-1117-660.9fa7c0bf540a.pmtiles",
+   "bytes": 613030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-660.9fa7c0bf540a.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 661,
+   "file": "11-1117-661.62d475966452.pmtiles",
+   "bytes": 517475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-661.62d475966452.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 662,
+   "file": "11-1117-662.e9d86ee54406.pmtiles",
+   "bytes": 260523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-662.e9d86ee54406.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 663,
+   "file": "11-1117-663.32fafd35dbd7.pmtiles",
+   "bytes": 237305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-663.32fafd35dbd7.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 664,
+   "file": "11-1117-664.68a34513ccb0.pmtiles",
+   "bytes": 693294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-664.68a34513ccb0.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 665,
+   "file": "11-1117-665.4e49f6fa6c2f.pmtiles",
+   "bytes": 268110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-665.4e49f6fa6c2f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 666,
+   "file": "11-1117-666.3e1a1a5bd8ad.pmtiles",
+   "bytes": 466077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-666.3e1a1a5bd8ad.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 667,
+   "file": "11-1117-667.25f57be19933.pmtiles",
+   "bytes": 235593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-667.25f57be19933.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 668,
+   "file": "11-1117-668.cd694f1bf9a6.pmtiles",
+   "bytes": 366099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-668.cd694f1bf9a6.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 669,
+   "file": "11-1117-669.d08aa97452b3.pmtiles",
+   "bytes": 496137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-669.d08aa97452b3.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 670,
+   "file": "11-1117-670.8f6be04dfc83.pmtiles",
+   "bytes": 404173,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1117-670.8f6be04dfc83.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 652,
+   "file": "11-1118-652.c89efdd176d6.pmtiles",
+   "bytes": 295681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-652.c89efdd176d6.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 653,
+   "file": "11-1118-653.ea2237abbc8d.pmtiles",
+   "bytes": 200346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-653.ea2237abbc8d.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 654,
+   "file": "11-1118-654.fa12aecbcee5.pmtiles",
+   "bytes": 384547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-654.fa12aecbcee5.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 655,
+   "file": "11-1118-655.0a0f5f5c136e.pmtiles",
+   "bytes": 181484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-655.0a0f5f5c136e.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 656,
+   "file": "11-1118-656.6662dd342628.pmtiles",
+   "bytes": 225700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-656.6662dd342628.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 657,
+   "file": "11-1118-657.e8c6339eb1b8.pmtiles",
+   "bytes": 720999,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-657.e8c6339eb1b8.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 658,
+   "file": "11-1118-658.3e8f195b5549.pmtiles",
+   "bytes": 904023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-658.3e8f195b5549.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 659,
+   "file": "11-1118-659.e9f006385df0.pmtiles",
+   "bytes": 640371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-659.e9f006385df0.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 660,
+   "file": "11-1118-660.5a74d8f799ae.pmtiles",
+   "bytes": 998079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-660.5a74d8f799ae.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 661,
+   "file": "11-1118-661.8885bdd8c15b.pmtiles",
+   "bytes": 479217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-661.8885bdd8c15b.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 662,
+   "file": "11-1118-662.0ab429f9f759.pmtiles",
+   "bytes": 156091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-662.0ab429f9f759.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 663,
+   "file": "11-1118-663.ee2cc8cf98e6.pmtiles",
+   "bytes": 174343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-663.ee2cc8cf98e6.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 664,
+   "file": "11-1118-664.9b5fb0c43fbc.pmtiles",
+   "bytes": 264972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-664.9b5fb0c43fbc.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 665,
+   "file": "11-1118-665.c640390340a4.pmtiles",
+   "bytes": 288031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-665.c640390340a4.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 666,
+   "file": "11-1118-666.d6ba9c3d3769.pmtiles",
+   "bytes": 220874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-666.d6ba9c3d3769.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 667,
+   "file": "11-1118-667.ac340cf07bb8.pmtiles",
+   "bytes": 255680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-667.ac340cf07bb8.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 668,
+   "file": "11-1118-668.24f7c9f73d96.pmtiles",
+   "bytes": 436455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-668.24f7c9f73d96.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 669,
+   "file": "11-1118-669.65462684abf4.pmtiles",
+   "bytes": 273507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-669.65462684abf4.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 670,
+   "file": "11-1118-670.3e37a78f9327.pmtiles",
+   "bytes": 432677,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1118-670.3e37a78f9327.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 652,
+   "file": "11-1119-652.784e3d0663e2.pmtiles",
+   "bytes": 343114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-652.784e3d0663e2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 653,
+   "file": "11-1119-653.1e6f3a7dd337.pmtiles",
+   "bytes": 288984,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-653.1e6f3a7dd337.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 654,
+   "file": "11-1119-654.66cb002f5581.pmtiles",
+   "bytes": 208207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-654.66cb002f5581.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 655,
+   "file": "11-1119-655.6d8edcbbb801.pmtiles",
+   "bytes": 181227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-655.6d8edcbbb801.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 656,
+   "file": "11-1119-656.421bc1cc296b.pmtiles",
+   "bytes": 235503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-656.421bc1cc296b.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 657,
+   "file": "11-1119-657.0a24162eda97.pmtiles",
+   "bytes": 489948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-657.0a24162eda97.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 658,
+   "file": "11-1119-658.5c22501db06e.pmtiles",
+   "bytes": 503273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-658.5c22501db06e.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 659,
+   "file": "11-1119-659.0999e0632915.pmtiles",
+   "bytes": 406270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-659.0999e0632915.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 660,
+   "file": "11-1119-660.2b26fef602c2.pmtiles",
+   "bytes": 877846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-660.2b26fef602c2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 661,
+   "file": "11-1119-661.7428c10623ca.pmtiles",
+   "bytes": 390044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-661.7428c10623ca.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 662,
+   "file": "11-1119-662.11489765f98a.pmtiles",
+   "bytes": 196198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-662.11489765f98a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 663,
+   "file": "11-1119-663.b32b9ea4a5db.pmtiles",
+   "bytes": 271435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-663.b32b9ea4a5db.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 664,
+   "file": "11-1119-664.e59359a57726.pmtiles",
+   "bytes": 193759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-664.e59359a57726.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 665,
+   "file": "11-1119-665.04dd30a64ae9.pmtiles",
+   "bytes": 934087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-665.04dd30a64ae9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 666,
+   "file": "11-1119-666.c5279914604b.pmtiles",
+   "bytes": 409819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-666.c5279914604b.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 667,
+   "file": "11-1119-667.4c542667afb0.pmtiles",
+   "bytes": 195179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-667.4c542667afb0.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 668,
+   "file": "11-1119-668.b812e6f05e81.pmtiles",
+   "bytes": 232740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-668.b812e6f05e81.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 669,
+   "file": "11-1119-669.83e4aa10ddcc.pmtiles",
+   "bytes": 254775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-669.83e4aa10ddcc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 670,
+   "file": "11-1119-670.c46eaa6828af.pmtiles",
+   "bytes": 598769,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1119-670.c46eaa6828af.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 652,
+   "file": "11-1120-652.58b829b42dcc.pmtiles",
+   "bytes": 596509,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-652.58b829b42dcc.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 653,
+   "file": "11-1120-653.72bc39cd2f78.pmtiles",
+   "bytes": 463628,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-653.72bc39cd2f78.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 654,
+   "file": "11-1120-654.ecd0046f7287.pmtiles",
+   "bytes": 134507,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-654.ecd0046f7287.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 655,
+   "file": "11-1120-655.20c37fe8a779.pmtiles",
+   "bytes": 134229,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-655.20c37fe8a779.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 656,
+   "file": "11-1120-656.1a8e83606ca6.pmtiles",
+   "bytes": 146354,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-656.1a8e83606ca6.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 657,
+   "file": "11-1120-657.0869b54cfd35.pmtiles",
+   "bytes": 562924,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-657.0869b54cfd35.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 658,
+   "file": "11-1120-658.11b700886297.pmtiles",
+   "bytes": 467124,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-658.11b700886297.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 659,
+   "file": "11-1120-659.a94a8f1c6368.pmtiles",
+   "bytes": 189056,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-659.a94a8f1c6368.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 660,
+   "file": "11-1120-660.f8201dee67b5.pmtiles",
+   "bytes": 226474,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-660.f8201dee67b5.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 661,
+   "file": "11-1120-661.c71d669ec207.pmtiles",
+   "bytes": 156184,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-661.c71d669ec207.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 662,
+   "file": "11-1120-662.1c1d522ce2af.pmtiles",
+   "bytes": 159469,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-662.1c1d522ce2af.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 663,
+   "file": "11-1120-663.6d7a0fcf7f32.pmtiles",
+   "bytes": 147187,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-663.6d7a0fcf7f32.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 664,
+   "file": "11-1120-664.36f3005e0c26.pmtiles",
+   "bytes": 150628,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-664.36f3005e0c26.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 665,
+   "file": "11-1120-665.3d7dc4403f88.pmtiles",
+   "bytes": 174684,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-665.3d7dc4403f88.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 666,
+   "file": "11-1120-666.f1ef612438bc.pmtiles",
+   "bytes": 244362,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-666.f1ef612438bc.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 667,
+   "file": "11-1120-667.73e38ac320e9.pmtiles",
+   "bytes": 577635,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-667.73e38ac320e9.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 668,
+   "file": "11-1120-668.69026ed1277b.pmtiles",
+   "bytes": 217439,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-668.69026ed1277b.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 669,
+   "file": "11-1120-669.30c7edb65e67.pmtiles",
+   "bytes": 250835,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-669.30c7edb65e67.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 670,
+   "file": "11-1120-670.f0ff988de493.pmtiles",
+   "bytes": 195260,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-zachodniopomorskie-2026-10-03/11-1120-670.f0ff988de493.pmtiles"
+  }
+ ]
+}

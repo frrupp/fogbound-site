@@ -1,0 +1,4445 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pl-mazowieckie",
+ "source": "pl.pmtiles",
+ "builtAt": "2026-10-04T09:51:06.896Z",
+ "publishedAt": "2026-10-04T09:53:42.086Z",
+ "host": "github",
+ "releases": [
+  "maps-pl-mazowieckie-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  19.25921,
+  51.01314,
+  23.12841,
+  53.48181
+ ],
+ "overview": {
+  "file": "overview.a7fd29b243ca.pmtiles",
+  "bytes": 16591852,
+  "tiles": 220,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/overview.a7fd29b243ca.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1133,
+   "y": 662,
+   "file": "11-1133-662.a04d340e471b.pmtiles",
+   "bytes": 151681,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-662.a04d340e471b.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 663,
+   "file": "11-1133-663.024e02705a09.pmtiles",
+   "bytes": 209741,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-663.024e02705a09.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 664,
+   "file": "11-1133-664.5c4cbb4c81cf.pmtiles",
+   "bytes": 258569,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-664.5c4cbb4c81cf.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 665,
+   "file": "11-1133-665.63cb9122fa1d.pmtiles",
+   "bytes": 252580,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-665.63cb9122fa1d.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 666,
+   "file": "11-1133-666.8c9c7b150779.pmtiles",
+   "bytes": 314520,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-666.8c9c7b150779.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 667,
+   "file": "11-1133-667.abb0a781b855.pmtiles",
+   "bytes": 272244,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-667.abb0a781b855.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 668,
+   "file": "11-1133-668.8060dd021e8b.pmtiles",
+   "bytes": 258826,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-668.8060dd021e8b.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 669,
+   "file": "11-1133-669.99f7f858761f.pmtiles",
+   "bytes": 322222,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-669.99f7f858761f.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 670,
+   "file": "11-1133-670.4c7dee968bb0.pmtiles",
+   "bytes": 219546,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-670.4c7dee968bb0.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 671,
+   "file": "11-1133-671.598e25d65745.pmtiles",
+   "bytes": 228688,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-671.598e25d65745.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 672,
+   "file": "11-1133-672.01ac404fcd83.pmtiles",
+   "bytes": 248209,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-672.01ac404fcd83.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 673,
+   "file": "11-1133-673.b70727f068aa.pmtiles",
+   "bytes": 185693,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-673.b70727f068aa.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 674,
+   "file": "11-1133-674.30dc8df5a57a.pmtiles",
+   "bytes": 318704,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-674.30dc8df5a57a.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 675,
+   "file": "11-1133-675.82f3fe24bc6b.pmtiles",
+   "bytes": 266481,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-675.82f3fe24bc6b.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 676,
+   "file": "11-1133-676.bad5cfdd47f2.pmtiles",
+   "bytes": 446599,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-676.bad5cfdd47f2.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 677,
+   "file": "11-1133-677.f4345b501d44.pmtiles",
+   "bytes": 346738,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-677.f4345b501d44.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 678,
+   "file": "11-1133-678.7552718ba4fb.pmtiles",
+   "bytes": 862155,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-678.7552718ba4fb.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 679,
+   "file": "11-1133-679.b1c6db3142c3.pmtiles",
+   "bytes": 608215,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-679.b1c6db3142c3.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 680,
+   "file": "11-1133-680.585ffc049b81.pmtiles",
+   "bytes": 280407,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-680.585ffc049b81.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 681,
+   "file": "11-1133-681.da937bd487b7.pmtiles",
+   "bytes": 246114,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-681.da937bd487b7.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 682,
+   "file": "11-1133-682.ffb8eedca403.pmtiles",
+   "bytes": 265314,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-682.ffb8eedca403.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 683,
+   "file": "11-1133-683.808304978eba.pmtiles",
+   "bytes": 459879,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-683.808304978eba.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 684,
+   "file": "11-1133-684.2f73ea751084.pmtiles",
+   "bytes": 486466,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-684.2f73ea751084.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 685,
+   "file": "11-1133-685.1108b4f4a944.pmtiles",
+   "bytes": 290207,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1133-685.1108b4f4a944.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 662,
+   "file": "11-1134-662.d46d0647f1d4.pmtiles",
+   "bytes": 208153,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-662.d46d0647f1d4.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 663,
+   "file": "11-1134-663.afa757cfac44.pmtiles",
+   "bytes": 510404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-663.afa757cfac44.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 664,
+   "file": "11-1134-664.ba8ac288b3eb.pmtiles",
+   "bytes": 923792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-664.ba8ac288b3eb.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 665,
+   "file": "11-1134-665.ae027610b4e9.pmtiles",
+   "bytes": 445344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-665.ae027610b4e9.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 666,
+   "file": "11-1134-666.5cf69d755252.pmtiles",
+   "bytes": 629228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-666.5cf69d755252.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 667,
+   "file": "11-1134-667.5482e9569dab.pmtiles",
+   "bytes": 395510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-667.5482e9569dab.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 668,
+   "file": "11-1134-668.0fc9dc25def3.pmtiles",
+   "bytes": 470889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-668.0fc9dc25def3.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 669,
+   "file": "11-1134-669.069fa6898c23.pmtiles",
+   "bytes": 435639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-669.069fa6898c23.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 670,
+   "file": "11-1134-670.4b902cdf2157.pmtiles",
+   "bytes": 421646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-670.4b902cdf2157.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 671,
+   "file": "11-1134-671.3ae4f0d3d266.pmtiles",
+   "bytes": 296028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-671.3ae4f0d3d266.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 672,
+   "file": "11-1134-672.23060312f61a.pmtiles",
+   "bytes": 577770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-672.23060312f61a.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 673,
+   "file": "11-1134-673.04f089397184.pmtiles",
+   "bytes": 407495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-673.04f089397184.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 674,
+   "file": "11-1134-674.b80fd685653d.pmtiles",
+   "bytes": 896443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-674.b80fd685653d.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 675,
+   "file": "11-1134-675.25d7dfcd109b.pmtiles",
+   "bytes": 748980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-675.25d7dfcd109b.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 676,
+   "file": "11-1134-676.749fead8f896.pmtiles",
+   "bytes": 746207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-676.749fead8f896.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 677,
+   "file": "11-1134-677.d89dc22c217f.pmtiles",
+   "bytes": 1474705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-677.d89dc22c217f.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 678,
+   "file": "11-1134-678.f587dc9d0f39.pmtiles",
+   "bytes": 5917789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-678.f587dc9d0f39.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 679,
+   "file": "11-1134-679.5e8d3b87059c.pmtiles",
+   "bytes": 2365916,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-679.5e8d3b87059c.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 680,
+   "file": "11-1134-680.454196d040da.pmtiles",
+   "bytes": 480098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-680.454196d040da.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 681,
+   "file": "11-1134-681.ea1f33203cb5.pmtiles",
+   "bytes": 370797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-681.ea1f33203cb5.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 682,
+   "file": "11-1134-682.4fd752b85a55.pmtiles",
+   "bytes": 907377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-682.4fd752b85a55.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 683,
+   "file": "11-1134-683.2d2558f9f2eb.pmtiles",
+   "bytes": 694356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-683.2d2558f9f2eb.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 684,
+   "file": "11-1134-684.c179b2dde4ec.pmtiles",
+   "bytes": 1636283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-684.c179b2dde4ec.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 685,
+   "file": "11-1134-685.bbf17d79de0c.pmtiles",
+   "bytes": 973304,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1134-685.bbf17d79de0c.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 662,
+   "file": "11-1135-662.674d3a5f30df.pmtiles",
+   "bytes": 265489,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-662.674d3a5f30df.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 663,
+   "file": "11-1135-663.cb9d634433e9.pmtiles",
+   "bytes": 649114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-663.cb9d634433e9.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 664,
+   "file": "11-1135-664.2e711a49cd3b.pmtiles",
+   "bytes": 523189,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-664.2e711a49cd3b.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 665,
+   "file": "11-1135-665.fcec6d4fc8ba.pmtiles",
+   "bytes": 569856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-665.fcec6d4fc8ba.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 666,
+   "file": "11-1135-666.1a835fe7ed0a.pmtiles",
+   "bytes": 420704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-666.1a835fe7ed0a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 667,
+   "file": "11-1135-667.14f99135a266.pmtiles",
+   "bytes": 431852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-667.14f99135a266.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 668,
+   "file": "11-1135-668.907c8c30f096.pmtiles",
+   "bytes": 668116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-668.907c8c30f096.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 669,
+   "file": "11-1135-669.860ab7d6a10c.pmtiles",
+   "bytes": 423142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-669.860ab7d6a10c.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 670,
+   "file": "11-1135-670.be36ade3cc8e.pmtiles",
+   "bytes": 483747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-670.be36ade3cc8e.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 671,
+   "file": "11-1135-671.9e48a359d15e.pmtiles",
+   "bytes": 854489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-671.9e48a359d15e.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 672,
+   "file": "11-1135-672.7fbe3e577ed2.pmtiles",
+   "bytes": 456206,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-672.7fbe3e577ed2.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 673,
+   "file": "11-1135-673.7dbc086ba7d3.pmtiles",
+   "bytes": 394273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-673.7dbc086ba7d3.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 674,
+   "file": "11-1135-674.77a53c3f2330.pmtiles",
+   "bytes": 512825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-674.77a53c3f2330.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 675,
+   "file": "11-1135-675.f55b127772c8.pmtiles",
+   "bytes": 484201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-675.f55b127772c8.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 676,
+   "file": "11-1135-676.a9e95d92cf01.pmtiles",
+   "bytes": 590392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-676.a9e95d92cf01.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 677,
+   "file": "11-1135-677.15bad158ff59.pmtiles",
+   "bytes": 946906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-677.15bad158ff59.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 678,
+   "file": "11-1135-678.95f41839bab8.pmtiles",
+   "bytes": 2097332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-678.95f41839bab8.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 679,
+   "file": "11-1135-679.e89f35aaeb66.pmtiles",
+   "bytes": 1263751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-679.e89f35aaeb66.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 680,
+   "file": "11-1135-680.b04f7bd4f422.pmtiles",
+   "bytes": 655332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-680.b04f7bd4f422.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 681,
+   "file": "11-1135-681.f91411efa929.pmtiles",
+   "bytes": 726728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-681.f91411efa929.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 682,
+   "file": "11-1135-682.91cf68b2a608.pmtiles",
+   "bytes": 522752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-682.91cf68b2a608.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 683,
+   "file": "11-1135-683.214dc49aba3a.pmtiles",
+   "bytes": 840965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-683.214dc49aba3a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 684,
+   "file": "11-1135-684.720dee7bd77a.pmtiles",
+   "bytes": 1093129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-684.720dee7bd77a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 685,
+   "file": "11-1135-685.d22e451aff6c.pmtiles",
+   "bytes": 715495,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1135-685.d22e451aff6c.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 662,
+   "file": "11-1136-662.e08718906f83.pmtiles",
+   "bytes": 251096,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-662.e08718906f83.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 663,
+   "file": "11-1136-663.c6be0715d72e.pmtiles",
+   "bytes": 492617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-663.c6be0715d72e.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 664,
+   "file": "11-1136-664.783e0c053763.pmtiles",
+   "bytes": 460071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-664.783e0c053763.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 665,
+   "file": "11-1136-665.1a8b3aaa0c65.pmtiles",
+   "bytes": 227744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-665.1a8b3aaa0c65.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 666,
+   "file": "11-1136-666.89e5ba100d76.pmtiles",
+   "bytes": 300692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-666.89e5ba100d76.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 667,
+   "file": "11-1136-667.d15ec793b245.pmtiles",
+   "bytes": 336941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-667.d15ec793b245.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 668,
+   "file": "11-1136-668.85459c7c386e.pmtiles",
+   "bytes": 441160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-668.85459c7c386e.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 669,
+   "file": "11-1136-669.925c5e780f9b.pmtiles",
+   "bytes": 406043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-669.925c5e780f9b.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 670,
+   "file": "11-1136-670.da8a6d78adab.pmtiles",
+   "bytes": 466364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-670.da8a6d78adab.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 671,
+   "file": "11-1136-671.3d9236de929a.pmtiles",
+   "bytes": 1503755,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-671.3d9236de929a.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 672,
+   "file": "11-1136-672.51aebc512370.pmtiles",
+   "bytes": 596696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-672.51aebc512370.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 673,
+   "file": "11-1136-673.2b9e3a64e711.pmtiles",
+   "bytes": 582803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-673.2b9e3a64e711.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 674,
+   "file": "11-1136-674.b34a87efc50a.pmtiles",
+   "bytes": 411502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-674.b34a87efc50a.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 675,
+   "file": "11-1136-675.913c6e7c9d90.pmtiles",
+   "bytes": 475591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-675.913c6e7c9d90.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 676,
+   "file": "11-1136-676.bbf449b2dcf9.pmtiles",
+   "bytes": 674336,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-676.bbf449b2dcf9.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 677,
+   "file": "11-1136-677.ea78301a92a1.pmtiles",
+   "bytes": 536622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-677.ea78301a92a1.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 678,
+   "file": "11-1136-678.e29d49d0cd00.pmtiles",
+   "bytes": 1024930,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-678.e29d49d0cd00.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 679,
+   "file": "11-1136-679.1c5594faa15e.pmtiles",
+   "bytes": 605317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-679.1c5594faa15e.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 680,
+   "file": "11-1136-680.64d48167ca6c.pmtiles",
+   "bytes": 354935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-680.64d48167ca6c.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 681,
+   "file": "11-1136-681.5302384758f4.pmtiles",
+   "bytes": 723544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-681.5302384758f4.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 682,
+   "file": "11-1136-682.a317a92b746f.pmtiles",
+   "bytes": 440727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-682.a317a92b746f.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 683,
+   "file": "11-1136-683.f7d3ab9c5bf3.pmtiles",
+   "bytes": 513994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-683.f7d3ab9c5bf3.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 684,
+   "file": "11-1136-684.89331a32999e.pmtiles",
+   "bytes": 833466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-684.89331a32999e.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 685,
+   "file": "11-1136-685.7735fe50d73b.pmtiles",
+   "bytes": 804322,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1136-685.7735fe50d73b.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 662,
+   "file": "11-1137-662.e3858bb3004e.pmtiles",
+   "bytes": 201430,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-662.e3858bb3004e.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 663,
+   "file": "11-1137-663.b287d9b4a5a2.pmtiles",
+   "bytes": 481733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-663.b287d9b4a5a2.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 664,
+   "file": "11-1137-664.8cd316fe9073.pmtiles",
+   "bytes": 346907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-664.8cd316fe9073.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 665,
+   "file": "11-1137-665.2ff7b601dcfa.pmtiles",
+   "bytes": 276310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-665.2ff7b601dcfa.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 666,
+   "file": "11-1137-666.86176fb7e2b9.pmtiles",
+   "bytes": 496739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-666.86176fb7e2b9.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 667,
+   "file": "11-1137-667.1b3631085bc0.pmtiles",
+   "bytes": 413060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-667.1b3631085bc0.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 668,
+   "file": "11-1137-668.feec7517c6bf.pmtiles",
+   "bytes": 372251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-668.feec7517c6bf.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 669,
+   "file": "11-1137-669.8963f6420b2c.pmtiles",
+   "bytes": 419613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-669.8963f6420b2c.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 670,
+   "file": "11-1137-670.b626219cc9ed.pmtiles",
+   "bytes": 433670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-670.b626219cc9ed.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 671,
+   "file": "11-1137-671.0ad646f9d900.pmtiles",
+   "bytes": 474081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-671.0ad646f9d900.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 672,
+   "file": "11-1137-672.3c1d26c1e5b1.pmtiles",
+   "bytes": 469373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-672.3c1d26c1e5b1.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 673,
+   "file": "11-1137-673.2374b4dc9bf6.pmtiles",
+   "bytes": 806750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-673.2374b4dc9bf6.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 674,
+   "file": "11-1137-674.e0a4e6f41708.pmtiles",
+   "bytes": 584351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-674.e0a4e6f41708.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 675,
+   "file": "11-1137-675.f44b797303ad.pmtiles",
+   "bytes": 1099060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-675.f44b797303ad.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 676,
+   "file": "11-1137-676.b118b358199c.pmtiles",
+   "bytes": 808419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-676.b118b358199c.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 677,
+   "file": "11-1137-677.de8524b19f6f.pmtiles",
+   "bytes": 640138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-677.de8524b19f6f.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 678,
+   "file": "11-1137-678.92ebac68708d.pmtiles",
+   "bytes": 572335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-678.92ebac68708d.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 679,
+   "file": "11-1137-679.ad3ded72700a.pmtiles",
+   "bytes": 393718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-679.ad3ded72700a.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 680,
+   "file": "11-1137-680.80d17ba37b5c.pmtiles",
+   "bytes": 1077141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-680.80d17ba37b5c.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 681,
+   "file": "11-1137-681.f0a30fb6db9f.pmtiles",
+   "bytes": 466792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-681.f0a30fb6db9f.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 682,
+   "file": "11-1137-682.ad775ea443ed.pmtiles",
+   "bytes": 480104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-682.ad775ea443ed.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 683,
+   "file": "11-1137-683.09a1ce16571e.pmtiles",
+   "bytes": 557173,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-683.09a1ce16571e.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 684,
+   "file": "11-1137-684.6ada1dbbaa3d.pmtiles",
+   "bytes": 497011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-684.6ada1dbbaa3d.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 685,
+   "file": "11-1137-685.7d8ef35634b3.pmtiles",
+   "bytes": 486374,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1137-685.7d8ef35634b3.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 662,
+   "file": "11-1138-662.a6b09dbddafc.pmtiles",
+   "bytes": 159981,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-662.a6b09dbddafc.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 663,
+   "file": "11-1138-663.88f310000b9e.pmtiles",
+   "bytes": 259363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-663.88f310000b9e.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 664,
+   "file": "11-1138-664.91f6dc4f51e5.pmtiles",
+   "bytes": 574873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-664.91f6dc4f51e5.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 665,
+   "file": "11-1138-665.7f071e2fcb13.pmtiles",
+   "bytes": 275139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-665.7f071e2fcb13.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 666,
+   "file": "11-1138-666.87b3681bcc35.pmtiles",
+   "bytes": 307316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-666.87b3681bcc35.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 667,
+   "file": "11-1138-667.2578eb98ef93.pmtiles",
+   "bytes": 341729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-667.2578eb98ef93.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 668,
+   "file": "11-1138-668.5653301ab356.pmtiles",
+   "bytes": 365664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-668.5653301ab356.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 669,
+   "file": "11-1138-669.e5a724b2fd5a.pmtiles",
+   "bytes": 422773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-669.e5a724b2fd5a.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 670,
+   "file": "11-1138-670.c8cb530c11e7.pmtiles",
+   "bytes": 366931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-670.c8cb530c11e7.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 671,
+   "file": "11-1138-671.fbab64213382.pmtiles",
+   "bytes": 353141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-671.fbab64213382.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 672,
+   "file": "11-1138-672.c11290f81708.pmtiles",
+   "bytes": 487180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-672.c11290f81708.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 673,
+   "file": "11-1138-673.b36510876abe.pmtiles",
+   "bytes": 936711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-673.b36510876abe.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 674,
+   "file": "11-1138-674.d6d519ab80a5.pmtiles",
+   "bytes": 1208390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-674.d6d519ab80a5.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 675,
+   "file": "11-1138-675.3c1320611a46.pmtiles",
+   "bytes": 982059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-675.3c1320611a46.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 676,
+   "file": "11-1138-676.580b70e3c6c3.pmtiles",
+   "bytes": 1338688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-676.580b70e3c6c3.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 677,
+   "file": "11-1138-677.25749d23af08.pmtiles",
+   "bytes": 824103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-677.25749d23af08.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 678,
+   "file": "11-1138-678.fe06fba05c05.pmtiles",
+   "bytes": 649617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-678.fe06fba05c05.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 679,
+   "file": "11-1138-679.231f5509df82.pmtiles",
+   "bytes": 478933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-679.231f5509df82.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 680,
+   "file": "11-1138-680.8f17fe6b0c36.pmtiles",
+   "bytes": 539652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-680.8f17fe6b0c36.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 681,
+   "file": "11-1138-681.91e42e998168.pmtiles",
+   "bytes": 309594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-681.91e42e998168.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 682,
+   "file": "11-1138-682.bc770663c868.pmtiles",
+   "bytes": 345993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-682.bc770663c868.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 683,
+   "file": "11-1138-683.ee79b3467189.pmtiles",
+   "bytes": 479217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-683.ee79b3467189.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 684,
+   "file": "11-1138-684.512ce518322e.pmtiles",
+   "bytes": 409034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-684.512ce518322e.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 685,
+   "file": "11-1138-685.92f9d37d9579.pmtiles",
+   "bytes": 349975,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1138-685.92f9d37d9579.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 662,
+   "file": "11-1139-662.32695a1c0c37.pmtiles",
+   "bytes": 158667,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-662.32695a1c0c37.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 663,
+   "file": "11-1139-663.c687463e7d7d.pmtiles",
+   "bytes": 266915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-663.c687463e7d7d.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 664,
+   "file": "11-1139-664.dd67e0a15905.pmtiles",
+   "bytes": 233304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-664.dd67e0a15905.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 665,
+   "file": "11-1139-665.91c8165261e2.pmtiles",
+   "bytes": 471278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-665.91c8165261e2.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 666,
+   "file": "11-1139-666.0d57ce8f8921.pmtiles",
+   "bytes": 494403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-666.0d57ce8f8921.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 667,
+   "file": "11-1139-667.72c6467047b1.pmtiles",
+   "bytes": 364481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-667.72c6467047b1.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 668,
+   "file": "11-1139-668.4f65f539f61f.pmtiles",
+   "bytes": 449692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-668.4f65f539f61f.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 669,
+   "file": "11-1139-669.913e1ba4abc4.pmtiles",
+   "bytes": 378042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-669.913e1ba4abc4.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 670,
+   "file": "11-1139-670.d0ad37ccd689.pmtiles",
+   "bytes": 632342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-670.d0ad37ccd689.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 671,
+   "file": "11-1139-671.af829a1f2362.pmtiles",
+   "bytes": 345993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-671.af829a1f2362.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 672,
+   "file": "11-1139-672.ce36488670c2.pmtiles",
+   "bytes": 494865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-672.ce36488670c2.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 673,
+   "file": "11-1139-673.4162bdb38ada.pmtiles",
+   "bytes": 842547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-673.4162bdb38ada.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 674,
+   "file": "11-1139-674.724749229d52.pmtiles",
+   "bytes": 1946132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-674.724749229d52.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 675,
+   "file": "11-1139-675.30652ae8aa7f.pmtiles",
+   "bytes": 864248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-675.30652ae8aa7f.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 676,
+   "file": "11-1139-676.3ab7c6ee5b4f.pmtiles",
+   "bytes": 898546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-676.3ab7c6ee5b4f.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 677,
+   "file": "11-1139-677.1a59d3299724.pmtiles",
+   "bytes": 634697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-677.1a59d3299724.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 678,
+   "file": "11-1139-678.6c131c65a22a.pmtiles",
+   "bytes": 1009195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-678.6c131c65a22a.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 679,
+   "file": "11-1139-679.81a88d320e8f.pmtiles",
+   "bytes": 577106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-679.81a88d320e8f.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 680,
+   "file": "11-1139-680.e0168dd69c0a.pmtiles",
+   "bytes": 483994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-680.e0168dd69c0a.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 681,
+   "file": "11-1139-681.ac307b2f9eed.pmtiles",
+   "bytes": 353272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-681.ac307b2f9eed.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 682,
+   "file": "11-1139-682.fda37546a1c6.pmtiles",
+   "bytes": 730948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-682.fda37546a1c6.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 683,
+   "file": "11-1139-683.2fecd1b6a665.pmtiles",
+   "bytes": 505637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-683.2fecd1b6a665.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 684,
+   "file": "11-1139-684.32ec755dc2af.pmtiles",
+   "bytes": 563540,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-684.32ec755dc2af.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 685,
+   "file": "11-1139-685.d1e318ce5b41.pmtiles",
+   "bytes": 335197,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1139-685.d1e318ce5b41.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 662,
+   "file": "11-1140-662.b7c7ad2b686a.pmtiles",
+   "bytes": 128019,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-662.b7c7ad2b686a.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 663,
+   "file": "11-1140-663.6cdf578528f1.pmtiles",
+   "bytes": 363370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-663.6cdf578528f1.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 664,
+   "file": "11-1140-664.7c4c026f3e3b.pmtiles",
+   "bytes": 353595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-664.7c4c026f3e3b.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 665,
+   "file": "11-1140-665.4e551800bdee.pmtiles",
+   "bytes": 379451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-665.4e551800bdee.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 666,
+   "file": "11-1140-666.ac375fa2e2fd.pmtiles",
+   "bytes": 467379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-666.ac375fa2e2fd.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 667,
+   "file": "11-1140-667.d2a0772c08d7.pmtiles",
+   "bytes": 403361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-667.d2a0772c08d7.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 668,
+   "file": "11-1140-668.b950147c6ebd.pmtiles",
+   "bytes": 476833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-668.b950147c6ebd.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 669,
+   "file": "11-1140-669.eff2e976adbc.pmtiles",
+   "bytes": 410899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-669.eff2e976adbc.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 670,
+   "file": "11-1140-670.fb023403681f.pmtiles",
+   "bytes": 496524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-670.fb023403681f.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 671,
+   "file": "11-1140-671.425ce74eee93.pmtiles",
+   "bytes": 564442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-671.425ce74eee93.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 672,
+   "file": "11-1140-672.717c08c0abc8.pmtiles",
+   "bytes": 731704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-672.717c08c0abc8.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 673,
+   "file": "11-1140-673.0bdf83733264.pmtiles",
+   "bytes": 525318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-673.0bdf83733264.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 674,
+   "file": "11-1140-674.385aeb969e1e.pmtiles",
+   "bytes": 1217021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-674.385aeb969e1e.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 675,
+   "file": "11-1140-675.3fc568787d59.pmtiles",
+   "bytes": 1229452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-675.3fc568787d59.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 676,
+   "file": "11-1140-676.9c7dbf347e38.pmtiles",
+   "bytes": 940273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-676.9c7dbf347e38.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 677,
+   "file": "11-1140-677.d06636f92cf1.pmtiles",
+   "bytes": 685610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-677.d06636f92cf1.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 678,
+   "file": "11-1140-678.54ee4a80c304.pmtiles",
+   "bytes": 793562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-678.54ee4a80c304.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 679,
+   "file": "11-1140-679.929f0dbb3b51.pmtiles",
+   "bytes": 609879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-679.929f0dbb3b51.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 680,
+   "file": "11-1140-680.cd96937149cb.pmtiles",
+   "bytes": 494147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-680.cd96937149cb.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 681,
+   "file": "11-1140-681.34f3d8dcec55.pmtiles",
+   "bytes": 509395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-681.34f3d8dcec55.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 682,
+   "file": "11-1140-682.f8a80dcde84d.pmtiles",
+   "bytes": 433820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-682.f8a80dcde84d.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 683,
+   "file": "11-1140-683.01c044524c9c.pmtiles",
+   "bytes": 766419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-683.01c044524c9c.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 684,
+   "file": "11-1140-684.b8959f18e303.pmtiles",
+   "bytes": 463111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-684.b8959f18e303.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 685,
+   "file": "11-1140-685.7907a6d42a3e.pmtiles",
+   "bytes": 357737,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1140-685.7907a6d42a3e.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 662,
+   "file": "11-1141-662.3eac3ab4ca9d.pmtiles",
+   "bytes": 74482,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-662.3eac3ab4ca9d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 663,
+   "file": "11-1141-663.4eb8a47cd682.pmtiles",
+   "bytes": 149740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-663.4eb8a47cd682.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 664,
+   "file": "11-1141-664.582aa8eade0d.pmtiles",
+   "bytes": 234820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-664.582aa8eade0d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 665,
+   "file": "11-1141-665.2d0721342cad.pmtiles",
+   "bytes": 289443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-665.2d0721342cad.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 666,
+   "file": "11-1141-666.d8344eade6b0.pmtiles",
+   "bytes": 376071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-666.d8344eade6b0.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 667,
+   "file": "11-1141-667.dfe5c0e52d86.pmtiles",
+   "bytes": 501391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-667.dfe5c0e52d86.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 668,
+   "file": "11-1141-668.73b6c471db06.pmtiles",
+   "bytes": 1011773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-668.73b6c471db06.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 669,
+   "file": "11-1141-669.53c520c8fc26.pmtiles",
+   "bytes": 479409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-669.53c520c8fc26.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 670,
+   "file": "11-1141-670.64e0e720b22d.pmtiles",
+   "bytes": 560108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-670.64e0e720b22d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 671,
+   "file": "11-1141-671.9600c9f4f3a3.pmtiles",
+   "bytes": 570661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-671.9600c9f4f3a3.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 672,
+   "file": "11-1141-672.971623f748fb.pmtiles",
+   "bytes": 1233556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-672.971623f748fb.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 673,
+   "file": "11-1141-673.000a139b5bf5.pmtiles",
+   "bytes": 712859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-673.000a139b5bf5.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 674,
+   "file": "11-1141-674.8358a87f15ab.pmtiles",
+   "bytes": 1192251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-674.8358a87f15ab.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 675,
+   "file": "11-1141-675.9347f6b56b7c.pmtiles",
+   "bytes": 2462108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-675.9347f6b56b7c.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 676,
+   "file": "11-1141-676.e172f5d83035.pmtiles",
+   "bytes": 931978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-676.e172f5d83035.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 677,
+   "file": "11-1141-677.2e93f99a8e34.pmtiles",
+   "bytes": 627572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-677.2e93f99a8e34.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 678,
+   "file": "11-1141-678.6cd1c052519d.pmtiles",
+   "bytes": 630128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-678.6cd1c052519d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 679,
+   "file": "11-1141-679.1fd37978565b.pmtiles",
+   "bytes": 734969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-679.1fd37978565b.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 680,
+   "file": "11-1141-680.b7c569f56e2c.pmtiles",
+   "bytes": 591108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-680.b7c569f56e2c.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 681,
+   "file": "11-1141-681.cafff9ed4bc8.pmtiles",
+   "bytes": 602101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-681.cafff9ed4bc8.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 682,
+   "file": "11-1141-682.89799681591d.pmtiles",
+   "bytes": 759939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-682.89799681591d.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 683,
+   "file": "11-1141-683.aa922875e95f.pmtiles",
+   "bytes": 332849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-683.aa922875e95f.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 684,
+   "file": "11-1141-684.35c977f07670.pmtiles",
+   "bytes": 684209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-684.35c977f07670.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 685,
+   "file": "11-1141-685.97f2cdf84aba.pmtiles",
+   "bytes": 329940,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1141-685.97f2cdf84aba.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 662,
+   "file": "11-1142-662.0667d68ac95a.pmtiles",
+   "bytes": 102353,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-662.0667d68ac95a.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 663,
+   "file": "11-1142-663.b4fe40291181.pmtiles",
+   "bytes": 152438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-663.b4fe40291181.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 664,
+   "file": "11-1142-664.de072238589d.pmtiles",
+   "bytes": 353839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-664.de072238589d.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 665,
+   "file": "11-1142-665.e277e9ededcf.pmtiles",
+   "bytes": 356692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-665.e277e9ededcf.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 666,
+   "file": "11-1142-666.352cab1a6756.pmtiles",
+   "bytes": 594039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-666.352cab1a6756.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 667,
+   "file": "11-1142-667.523e7687275d.pmtiles",
+   "bytes": 489388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-667.523e7687275d.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 668,
+   "file": "11-1142-668.b5eb5486d2bc.pmtiles",
+   "bytes": 389605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-668.b5eb5486d2bc.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 669,
+   "file": "11-1142-669.9ad9d5b31f7c.pmtiles",
+   "bytes": 551687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-669.9ad9d5b31f7c.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 670,
+   "file": "11-1142-670.2bc83c46c8e3.pmtiles",
+   "bytes": 748791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-670.2bc83c46c8e3.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 671,
+   "file": "11-1142-671.bd65c611d906.pmtiles",
+   "bytes": 667255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-671.bd65c611d906.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 672,
+   "file": "11-1142-672.9405cb2f7477.pmtiles",
+   "bytes": 1333134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-672.9405cb2f7477.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 673,
+   "file": "11-1142-673.23675c3bcc1d.pmtiles",
+   "bytes": 1674559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-673.23675c3bcc1d.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 674,
+   "file": "11-1142-674.d0e55b890326.pmtiles",
+   "bytes": 4346624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-674.d0e55b890326.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 675,
+   "file": "11-1142-675.7de6a366bde6.pmtiles",
+   "bytes": 3278970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-675.7de6a366bde6.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 676,
+   "file": "11-1142-676.33e07e739bf9.pmtiles",
+   "bytes": 1572730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-676.33e07e739bf9.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 677,
+   "file": "11-1142-677.161e07e117f3.pmtiles",
+   "bytes": 1081323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-677.161e07e117f3.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 678,
+   "file": "11-1142-678.f277672cf28e.pmtiles",
+   "bytes": 661528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-678.f277672cf28e.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 679,
+   "file": "11-1142-679.e49b4a543e31.pmtiles",
+   "bytes": 662216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-679.e49b4a543e31.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 680,
+   "file": "11-1142-680.72fd9b4fa4eb.pmtiles",
+   "bytes": 536333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-680.72fd9b4fa4eb.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 681,
+   "file": "11-1142-681.2074b96138f9.pmtiles",
+   "bytes": 764541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-681.2074b96138f9.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 682,
+   "file": "11-1142-682.6d05cd37e27c.pmtiles",
+   "bytes": 816129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-682.6d05cd37e27c.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 683,
+   "file": "11-1142-683.207b467e150b.pmtiles",
+   "bytes": 893893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-683.207b467e150b.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 684,
+   "file": "11-1142-684.4f494b8b4e08.pmtiles",
+   "bytes": 1792382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-684.4f494b8b4e08.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 685,
+   "file": "11-1142-685.8d77ff54d23f.pmtiles",
+   "bytes": 664454,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1142-685.8d77ff54d23f.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 662,
+   "file": "11-1143-662.ed959d1ee9ce.pmtiles",
+   "bytes": 127918,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-662.ed959d1ee9ce.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 663,
+   "file": "11-1143-663.93c3321f2441.pmtiles",
+   "bytes": 219126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-663.93c3321f2441.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 664,
+   "file": "11-1143-664.ce40a7ea335a.pmtiles",
+   "bytes": 242752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-664.ce40a7ea335a.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 665,
+   "file": "11-1143-665.6b5f6f70a51c.pmtiles",
+   "bytes": 290826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-665.6b5f6f70a51c.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 666,
+   "file": "11-1143-666.079e41b1871d.pmtiles",
+   "bytes": 316880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-666.079e41b1871d.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 667,
+   "file": "11-1143-667.861e93b8a4cb.pmtiles",
+   "bytes": 421536,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-667.861e93b8a4cb.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 668,
+   "file": "11-1143-668.b1e5c4d826f9.pmtiles",
+   "bytes": 441972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-668.b1e5c4d826f9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 669,
+   "file": "11-1143-669.0a2b560cef37.pmtiles",
+   "bytes": 648407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-669.0a2b560cef37.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 670,
+   "file": "11-1143-670.b1d359e1e331.pmtiles",
+   "bytes": 615910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-670.b1d359e1e331.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 671,
+   "file": "11-1143-671.76a7c10d712f.pmtiles",
+   "bytes": 1044660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-671.76a7c10d712f.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 672,
+   "file": "11-1143-672.087652b54f68.pmtiles",
+   "bytes": 1786430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-672.087652b54f68.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 673,
+   "file": "11-1143-673.4fbf82eb4850.pmtiles",
+   "bytes": 5057308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-673.4fbf82eb4850.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 674,
+   "file": "11-1143-674.02194060a81f.pmtiles",
+   "bytes": 10398479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-674.02194060a81f.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 675,
+   "file": "11-1143-675.2bea0cba259b.pmtiles",
+   "bytes": 4789646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-675.2bea0cba259b.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 676,
+   "file": "11-1143-676.e4c01eee656f.pmtiles",
+   "bytes": 1758006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-676.e4c01eee656f.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 677,
+   "file": "11-1143-677.168f27366ff4.pmtiles",
+   "bytes": 812542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-677.168f27366ff4.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 678,
+   "file": "11-1143-678.50cb0cf61112.pmtiles",
+   "bytes": 554620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-678.50cb0cf61112.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 679,
+   "file": "11-1143-679.9e3ba2b968b1.pmtiles",
+   "bytes": 957406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-679.9e3ba2b968b1.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 680,
+   "file": "11-1143-680.1f7930f17c80.pmtiles",
+   "bytes": 705909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-680.1f7930f17c80.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 681,
+   "file": "11-1143-681.f0dfcd40a27b.pmtiles",
+   "bytes": 1470075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-681.f0dfcd40a27b.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 682,
+   "file": "11-1143-682.20102b21cb2e.pmtiles",
+   "bytes": 1213320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-682.20102b21cb2e.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 683,
+   "file": "11-1143-683.3823ce695c01.pmtiles",
+   "bytes": 735364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-683.3823ce695c01.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 684,
+   "file": "11-1143-684.6268cfbadb5c.pmtiles",
+   "bytes": 974410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-684.6268cfbadb5c.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 685,
+   "file": "11-1143-685.94271b09822f.pmtiles",
+   "bytes": 942803,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1143-685.94271b09822f.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 662,
+   "file": "11-1144-662.cb61faadc272.pmtiles",
+   "bytes": 125569,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-662.cb61faadc272.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 663,
+   "file": "11-1144-663.e8be6d5ced77.pmtiles",
+   "bytes": 245907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-663.e8be6d5ced77.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 664,
+   "file": "11-1144-664.60620a6a098b.pmtiles",
+   "bytes": 271503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-664.60620a6a098b.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 665,
+   "file": "11-1144-665.629016ac097a.pmtiles",
+   "bytes": 253676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-665.629016ac097a.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 666,
+   "file": "11-1144-666.3d63070b54dc.pmtiles",
+   "bytes": 365579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-666.3d63070b54dc.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 667,
+   "file": "11-1144-667.73af0526aba3.pmtiles",
+   "bytes": 337766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-667.73af0526aba3.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 668,
+   "file": "11-1144-668.5d27756d0e2f.pmtiles",
+   "bytes": 447208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-668.5d27756d0e2f.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 669,
+   "file": "11-1144-669.6424d46d64a4.pmtiles",
+   "bytes": 458394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-669.6424d46d64a4.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 670,
+   "file": "11-1144-670.5d6d5851fa26.pmtiles",
+   "bytes": 512054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-670.5d6d5851fa26.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 671,
+   "file": "11-1144-671.9dd4546cfa7d.pmtiles",
+   "bytes": 900836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-671.9dd4546cfa7d.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 672,
+   "file": "11-1144-672.08fa2bb0fc07.pmtiles",
+   "bytes": 1441165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-672.08fa2bb0fc07.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 673,
+   "file": "11-1144-673.0e884eab869c.pmtiles",
+   "bytes": 2656560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-673.0e884eab869c.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 674,
+   "file": "11-1144-674.f7b8515bbd18.pmtiles",
+   "bytes": 3566239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-674.f7b8515bbd18.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 675,
+   "file": "11-1144-675.2bc1ba443941.pmtiles",
+   "bytes": 2565763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-675.2bc1ba443941.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 676,
+   "file": "11-1144-676.6578b1f890ba.pmtiles",
+   "bytes": 1648471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-676.6578b1f890ba.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 677,
+   "file": "11-1144-677.4f3255f45a85.pmtiles",
+   "bytes": 779279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-677.4f3255f45a85.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 678,
+   "file": "11-1144-678.3041bd0df195.pmtiles",
+   "bytes": 757117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-678.3041bd0df195.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 679,
+   "file": "11-1144-679.341b9bf36842.pmtiles",
+   "bytes": 494650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-679.341b9bf36842.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 680,
+   "file": "11-1144-680.3be96287d408.pmtiles",
+   "bytes": 720070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-680.3be96287d408.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 681,
+   "file": "11-1144-681.eb38b8525867.pmtiles",
+   "bytes": 2747796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-681.eb38b8525867.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 682,
+   "file": "11-1144-682.8c0a9a4119bf.pmtiles",
+   "bytes": 2483609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-682.8c0a9a4119bf.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 683,
+   "file": "11-1144-683.b48b15866c09.pmtiles",
+   "bytes": 585200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-683.b48b15866c09.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 684,
+   "file": "11-1144-684.128a7a2c4f31.pmtiles",
+   "bytes": 599861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-684.128a7a2c4f31.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 685,
+   "file": "11-1144-685.a7115244b6c2.pmtiles",
+   "bytes": 503693,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1144-685.a7115244b6c2.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 662,
+   "file": "11-1145-662.280fcd9b098b.pmtiles",
+   "bytes": 197242,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-662.280fcd9b098b.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 663,
+   "file": "11-1145-663.a7c09ec765f7.pmtiles",
+   "bytes": 421572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-663.a7c09ec765f7.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 664,
+   "file": "11-1145-664.f859a148d37f.pmtiles",
+   "bytes": 275472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-664.f859a148d37f.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 665,
+   "file": "11-1145-665.6fd6864970b3.pmtiles",
+   "bytes": 331017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-665.6fd6864970b3.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 666,
+   "file": "11-1145-666.eb911c5c5705.pmtiles",
+   "bytes": 276203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-666.eb911c5c5705.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 667,
+   "file": "11-1145-667.48c09c959097.pmtiles",
+   "bytes": 360880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-667.48c09c959097.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 668,
+   "file": "11-1145-668.849cb411df0d.pmtiles",
+   "bytes": 428631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-668.849cb411df0d.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 669,
+   "file": "11-1145-669.5388ccaaa482.pmtiles",
+   "bytes": 510713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-669.5388ccaaa482.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 670,
+   "file": "11-1145-670.25b1cd8a5d4d.pmtiles",
+   "bytes": 518925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-670.25b1cd8a5d4d.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 671,
+   "file": "11-1145-671.b68a0ef3089e.pmtiles",
+   "bytes": 855995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-671.b68a0ef3089e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 672,
+   "file": "11-1145-672.9f81fab7f061.pmtiles",
+   "bytes": 904791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-672.9f81fab7f061.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 673,
+   "file": "11-1145-673.b709ba8d9bd8.pmtiles",
+   "bytes": 745664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-673.b709ba8d9bd8.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 674,
+   "file": "11-1145-674.c542c91ea23e.pmtiles",
+   "bytes": 1773199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-674.c542c91ea23e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 675,
+   "file": "11-1145-675.ba7cca0b3489.pmtiles",
+   "bytes": 1169799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-675.ba7cca0b3489.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 676,
+   "file": "11-1145-676.94fc77fb3e54.pmtiles",
+   "bytes": 669347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-676.94fc77fb3e54.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 677,
+   "file": "11-1145-677.5abba22db4eb.pmtiles",
+   "bytes": 653876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-677.5abba22db4eb.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 678,
+   "file": "11-1145-678.c117480d50a4.pmtiles",
+   "bytes": 687162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-678.c117480d50a4.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 679,
+   "file": "11-1145-679.af8114683668.pmtiles",
+   "bytes": 494101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-679.af8114683668.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 680,
+   "file": "11-1145-680.5c38e5fc2bdb.pmtiles",
+   "bytes": 535806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-680.5c38e5fc2bdb.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 681,
+   "file": "11-1145-681.eeb7373c7583.pmtiles",
+   "bytes": 890799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-681.eeb7373c7583.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 682,
+   "file": "11-1145-682.54e99bd19e71.pmtiles",
+   "bytes": 679501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-682.54e99bd19e71.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 683,
+   "file": "11-1145-683.68c5cbc4ee1e.pmtiles",
+   "bytes": 493106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-683.68c5cbc4ee1e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 684,
+   "file": "11-1145-684.f03a92856908.pmtiles",
+   "bytes": 454302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-684.f03a92856908.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 685,
+   "file": "11-1145-685.249a9bd8c150.pmtiles",
+   "bytes": 211972,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1145-685.249a9bd8c150.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 662,
+   "file": "11-1146-662.d15debd95013.pmtiles",
+   "bytes": 168772,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-662.d15debd95013.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 663,
+   "file": "11-1146-663.1edd58cd17a1.pmtiles",
+   "bytes": 406152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-663.1edd58cd17a1.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 664,
+   "file": "11-1146-664.8445876d8e34.pmtiles",
+   "bytes": 363676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-664.8445876d8e34.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 665,
+   "file": "11-1146-665.c7493472fbc3.pmtiles",
+   "bytes": 358727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-665.c7493472fbc3.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 666,
+   "file": "11-1146-666.4c8fac610c35.pmtiles",
+   "bytes": 1138944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-666.4c8fac610c35.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 667,
+   "file": "11-1146-667.f10636a5a0a6.pmtiles",
+   "bytes": 391440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-667.f10636a5a0a6.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 668,
+   "file": "11-1146-668.4620ef5ffddf.pmtiles",
+   "bytes": 426985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-668.4620ef5ffddf.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 669,
+   "file": "11-1146-669.9ac9795f793f.pmtiles",
+   "bytes": 501866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-669.9ac9795f793f.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 670,
+   "file": "11-1146-670.4b9d80bd83fb.pmtiles",
+   "bytes": 634898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-670.4b9d80bd83fb.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 671,
+   "file": "11-1146-671.e74fb217fef8.pmtiles",
+   "bytes": 626077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-671.e74fb217fef8.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 672,
+   "file": "11-1146-672.faa7059209ea.pmtiles",
+   "bytes": 596690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-672.faa7059209ea.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 673,
+   "file": "11-1146-673.16089e7c41f2.pmtiles",
+   "bytes": 553933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-673.16089e7c41f2.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 674,
+   "file": "11-1146-674.8cbfa9228b29.pmtiles",
+   "bytes": 1317685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-674.8cbfa9228b29.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 675,
+   "file": "11-1146-675.49cf49c6c8c5.pmtiles",
+   "bytes": 907457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-675.49cf49c6c8c5.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 676,
+   "file": "11-1146-676.d84cf864cd05.pmtiles",
+   "bytes": 692562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-676.d84cf864cd05.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 677,
+   "file": "11-1146-677.b5ddef36c5a1.pmtiles",
+   "bytes": 772701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-677.b5ddef36c5a1.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 678,
+   "file": "11-1146-678.5d920ce93588.pmtiles",
+   "bytes": 552559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-678.5d920ce93588.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 679,
+   "file": "11-1146-679.0f87336783a4.pmtiles",
+   "bytes": 782803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-679.0f87336783a4.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 680,
+   "file": "11-1146-680.f0df8d565c5c.pmtiles",
+   "bytes": 819365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-680.f0df8d565c5c.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 681,
+   "file": "11-1146-681.6801a3200159.pmtiles",
+   "bytes": 857639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-681.6801a3200159.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 682,
+   "file": "11-1146-682.b88834e2071a.pmtiles",
+   "bytes": 715307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-682.b88834e2071a.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 683,
+   "file": "11-1146-683.c21dc5d0bcd3.pmtiles",
+   "bytes": 617954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-683.c21dc5d0bcd3.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 684,
+   "file": "11-1146-684.9dedd1fd0045.pmtiles",
+   "bytes": 608102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-684.9dedd1fd0045.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 685,
+   "file": "11-1146-685.94efa95eddf9.pmtiles",
+   "bytes": 387695,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1146-685.94efa95eddf9.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 662,
+   "file": "11-1147-662.d8baca0ff96c.pmtiles",
+   "bytes": 153028,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-662.d8baca0ff96c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 663,
+   "file": "11-1147-663.62231350c6f2.pmtiles",
+   "bytes": 317744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-663.62231350c6f2.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 664,
+   "file": "11-1147-664.25063d8766f2.pmtiles",
+   "bytes": 249783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-664.25063d8766f2.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 665,
+   "file": "11-1147-665.12148599b727.pmtiles",
+   "bytes": 404041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-665.12148599b727.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 666,
+   "file": "11-1147-666.83673891e779.pmtiles",
+   "bytes": 515736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-666.83673891e779.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 667,
+   "file": "11-1147-667.48f28d3c07e2.pmtiles",
+   "bytes": 370191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-667.48f28d3c07e2.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 668,
+   "file": "11-1147-668.448148c9d699.pmtiles",
+   "bytes": 343814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-668.448148c9d699.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 669,
+   "file": "11-1147-669.2604d88a3859.pmtiles",
+   "bytes": 305737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-669.2604d88a3859.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 670,
+   "file": "11-1147-670.3eb03f011994.pmtiles",
+   "bytes": 428603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-670.3eb03f011994.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 671,
+   "file": "11-1147-671.5a322b021b81.pmtiles",
+   "bytes": 802667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-671.5a322b021b81.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 672,
+   "file": "11-1147-672.98a388bafee6.pmtiles",
+   "bytes": 488174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-672.98a388bafee6.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 673,
+   "file": "11-1147-673.e45fc84a51f7.pmtiles",
+   "bytes": 568491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-673.e45fc84a51f7.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 674,
+   "file": "11-1147-674.228df36f12a7.pmtiles",
+   "bytes": 701235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-674.228df36f12a7.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 675,
+   "file": "11-1147-675.d69867c0148a.pmtiles",
+   "bytes": 675188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-675.d69867c0148a.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 676,
+   "file": "11-1147-676.5575c1168f06.pmtiles",
+   "bytes": 535082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-676.5575c1168f06.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 677,
+   "file": "11-1147-677.d79f581d01be.pmtiles",
+   "bytes": 640489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-677.d79f581d01be.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 678,
+   "file": "11-1147-678.1e1e3d9edb65.pmtiles",
+   "bytes": 767293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-678.1e1e3d9edb65.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 679,
+   "file": "11-1147-679.acee740ebeb5.pmtiles",
+   "bytes": 809093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-679.acee740ebeb5.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 680,
+   "file": "11-1147-680.02528ac7159c.pmtiles",
+   "bytes": 789498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-680.02528ac7159c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 681,
+   "file": "11-1147-681.352d375a6ae5.pmtiles",
+   "bytes": 760478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-681.352d375a6ae5.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 682,
+   "file": "11-1147-682.9774ce9c169e.pmtiles",
+   "bytes": 585989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-682.9774ce9c169e.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 683,
+   "file": "11-1147-683.8dc54ffec1c9.pmtiles",
+   "bytes": 527375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-683.8dc54ffec1c9.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 684,
+   "file": "11-1147-684.3a42d5a9e5cf.pmtiles",
+   "bytes": 795356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-684.3a42d5a9e5cf.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 685,
+   "file": "11-1147-685.f629bcdbf3b3.pmtiles",
+   "bytes": 421784,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1147-685.f629bcdbf3b3.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 662,
+   "file": "11-1148-662.91e93df54361.pmtiles",
+   "bytes": 142036,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-662.91e93df54361.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 663,
+   "file": "11-1148-663.ff5170a91639.pmtiles",
+   "bytes": 435561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-663.ff5170a91639.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 664,
+   "file": "11-1148-664.73ade05c31d5.pmtiles",
+   "bytes": 576417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-664.73ade05c31d5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 665,
+   "file": "11-1148-665.430b515c418c.pmtiles",
+   "bytes": 556754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-665.430b515c418c.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 666,
+   "file": "11-1148-666.46b17e9cd41f.pmtiles",
+   "bytes": 370906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-666.46b17e9cd41f.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 667,
+   "file": "11-1148-667.9fc9f636fc66.pmtiles",
+   "bytes": 391124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-667.9fc9f636fc66.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 668,
+   "file": "11-1148-668.b8b86bcdbe8a.pmtiles",
+   "bytes": 510472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-668.b8b86bcdbe8a.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 669,
+   "file": "11-1148-669.520368f67faf.pmtiles",
+   "bytes": 473819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-669.520368f67faf.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 670,
+   "file": "11-1148-670.8a5d9344a697.pmtiles",
+   "bytes": 448006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-670.8a5d9344a697.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 671,
+   "file": "11-1148-671.7e77c005bfb5.pmtiles",
+   "bytes": 427915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-671.7e77c005bfb5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 672,
+   "file": "11-1148-672.bf943632a87d.pmtiles",
+   "bytes": 468101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-672.bf943632a87d.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 673,
+   "file": "11-1148-673.35fcd71fc860.pmtiles",
+   "bytes": 479578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-673.35fcd71fc860.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 674,
+   "file": "11-1148-674.93a9e07e7337.pmtiles",
+   "bytes": 663313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-674.93a9e07e7337.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 675,
+   "file": "11-1148-675.22e84e6095f1.pmtiles",
+   "bytes": 476050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-675.22e84e6095f1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 676,
+   "file": "11-1148-676.2dd5f3c55ca5.pmtiles",
+   "bytes": 549003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-676.2dd5f3c55ca5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 677,
+   "file": "11-1148-677.4a50c0e38970.pmtiles",
+   "bytes": 493604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-677.4a50c0e38970.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 678,
+   "file": "11-1148-678.704b9b7bafb9.pmtiles",
+   "bytes": 599970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-678.704b9b7bafb9.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 679,
+   "file": "11-1148-679.78569df1a6f7.pmtiles",
+   "bytes": 888365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-679.78569df1a6f7.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 680,
+   "file": "11-1148-680.b451502c0d40.pmtiles",
+   "bytes": 994684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-680.b451502c0d40.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 681,
+   "file": "11-1148-681.8af5723c6d06.pmtiles",
+   "bytes": 1185521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-681.8af5723c6d06.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 682,
+   "file": "11-1148-682.e6c152678035.pmtiles",
+   "bytes": 867910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-682.e6c152678035.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 683,
+   "file": "11-1148-683.8983d2e1adf5.pmtiles",
+   "bytes": 590087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-683.8983d2e1adf5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 684,
+   "file": "11-1148-684.d68d2b0fc72d.pmtiles",
+   "bytes": 621723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-684.d68d2b0fc72d.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 685,
+   "file": "11-1148-685.580a00ac17f0.pmtiles",
+   "bytes": 395562,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1148-685.580a00ac17f0.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 662,
+   "file": "11-1149-662.c3051f2f103e.pmtiles",
+   "bytes": 173951,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-662.c3051f2f103e.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 663,
+   "file": "11-1149-663.46b8ee181254.pmtiles",
+   "bytes": 322592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-663.46b8ee181254.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 664,
+   "file": "11-1149-664.68f58ccb6e11.pmtiles",
+   "bytes": 446653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-664.68f58ccb6e11.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 665,
+   "file": "11-1149-665.87f2d12e9c54.pmtiles",
+   "bytes": 1124504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-665.87f2d12e9c54.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 666,
+   "file": "11-1149-666.aa9cefbe91af.pmtiles",
+   "bytes": 382772,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-666.aa9cefbe91af.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 667,
+   "file": "11-1149-667.520e8201ff34.pmtiles",
+   "bytes": 250114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-667.520e8201ff34.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 668,
+   "file": "11-1149-668.c3a6c2975621.pmtiles",
+   "bytes": 351422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-668.c3a6c2975621.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 669,
+   "file": "11-1149-669.1be1890205cb.pmtiles",
+   "bytes": 468848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-669.1be1890205cb.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 670,
+   "file": "11-1149-670.dabe4b103a3b.pmtiles",
+   "bytes": 511411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-670.dabe4b103a3b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 671,
+   "file": "11-1149-671.2b53729bc927.pmtiles",
+   "bytes": 372858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-671.2b53729bc927.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 672,
+   "file": "11-1149-672.ccb719209658.pmtiles",
+   "bytes": 779411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-672.ccb719209658.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 673,
+   "file": "11-1149-673.aac8c72dfaa5.pmtiles",
+   "bytes": 477434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-673.aac8c72dfaa5.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 674,
+   "file": "11-1149-674.1abd88fd155e.pmtiles",
+   "bytes": 613195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-674.1abd88fd155e.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 675,
+   "file": "11-1149-675.422fc7d9899a.pmtiles",
+   "bytes": 498746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-675.422fc7d9899a.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 676,
+   "file": "11-1149-676.5d7bea1485ce.pmtiles",
+   "bytes": 455854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-676.5d7bea1485ce.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 677,
+   "file": "11-1149-677.6f4d0ea5c4da.pmtiles",
+   "bytes": 503216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-677.6f4d0ea5c4da.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 678,
+   "file": "11-1149-678.1b85eefd20b1.pmtiles",
+   "bytes": 525899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-678.1b85eefd20b1.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 679,
+   "file": "11-1149-679.3542999957bc.pmtiles",
+   "bytes": 547159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-679.3542999957bc.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 680,
+   "file": "11-1149-680.b4334160a992.pmtiles",
+   "bytes": 644517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-680.b4334160a992.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 681,
+   "file": "11-1149-681.163e53fec161.pmtiles",
+   "bytes": 1007166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-681.163e53fec161.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 682,
+   "file": "11-1149-682.4a321e38ac8c.pmtiles",
+   "bytes": 1146380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-682.4a321e38ac8c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 683,
+   "file": "11-1149-683.5238b5a0caf4.pmtiles",
+   "bytes": 707437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-683.5238b5a0caf4.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 684,
+   "file": "11-1149-684.604c64c5a9e2.pmtiles",
+   "bytes": 798253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-684.604c64c5a9e2.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 685,
+   "file": "11-1149-685.e3a08ae33491.pmtiles",
+   "bytes": 312664,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1149-685.e3a08ae33491.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 662,
+   "file": "11-1150-662.8c8db3ba6b39.pmtiles",
+   "bytes": 192636,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-662.8c8db3ba6b39.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 663,
+   "file": "11-1150-663.3b4be65f56be.pmtiles",
+   "bytes": 411256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-663.3b4be65f56be.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 664,
+   "file": "11-1150-664.c874440a7da5.pmtiles",
+   "bytes": 416425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-664.c874440a7da5.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 665,
+   "file": "11-1150-665.be5043ebf90d.pmtiles",
+   "bytes": 421003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-665.be5043ebf90d.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 666,
+   "file": "11-1150-666.c5f04a8088ef.pmtiles",
+   "bytes": 354108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-666.c5f04a8088ef.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 667,
+   "file": "11-1150-667.eb6c856314d0.pmtiles",
+   "bytes": 619537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-667.eb6c856314d0.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 668,
+   "file": "11-1150-668.80703227ff43.pmtiles",
+   "bytes": 343370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-668.80703227ff43.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 669,
+   "file": "11-1150-669.e95328bbf0c9.pmtiles",
+   "bytes": 432671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-669.e95328bbf0c9.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 670,
+   "file": "11-1150-670.19ba6617e65b.pmtiles",
+   "bytes": 417308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-670.19ba6617e65b.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 671,
+   "file": "11-1150-671.19eea1886254.pmtiles",
+   "bytes": 468651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-671.19eea1886254.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 672,
+   "file": "11-1150-672.7474462fd9f0.pmtiles",
+   "bytes": 916385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-672.7474462fd9f0.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 673,
+   "file": "11-1150-673.99f03ecc0657.pmtiles",
+   "bytes": 414895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-673.99f03ecc0657.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 674,
+   "file": "11-1150-674.01d7142eace3.pmtiles",
+   "bytes": 1270426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-674.01d7142eace3.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 675,
+   "file": "11-1150-675.4f66ac98d51c.pmtiles",
+   "bytes": 954704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-675.4f66ac98d51c.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 676,
+   "file": "11-1150-676.34e6f7ae7559.pmtiles",
+   "bytes": 276897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-676.34e6f7ae7559.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 677,
+   "file": "11-1150-677.684af4964214.pmtiles",
+   "bytes": 504152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-677.684af4964214.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 678,
+   "file": "11-1150-678.cf7c13c65bc8.pmtiles",
+   "bytes": 579101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-678.cf7c13c65bc8.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 679,
+   "file": "11-1150-679.ac5aa2345409.pmtiles",
+   "bytes": 532304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-679.ac5aa2345409.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 680,
+   "file": "11-1150-680.9512d942a9a3.pmtiles",
+   "bytes": 565388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-680.9512d942a9a3.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 681,
+   "file": "11-1150-681.1eb9a7c4441b.pmtiles",
+   "bytes": 563510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-681.1eb9a7c4441b.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 682,
+   "file": "11-1150-682.cfbe9c0de379.pmtiles",
+   "bytes": 989709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-682.cfbe9c0de379.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 683,
+   "file": "11-1150-683.93c04c275d28.pmtiles",
+   "bytes": 850970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-683.93c04c275d28.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 684,
+   "file": "11-1150-684.5cf1c51a38fc.pmtiles",
+   "bytes": 539490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-684.5cf1c51a38fc.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 685,
+   "file": "11-1150-685.4ffe36e9eb8f.pmtiles",
+   "bytes": 346116,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1150-685.4ffe36e9eb8f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 662,
+   "file": "11-1151-662.ecd8b31e7e6f.pmtiles",
+   "bytes": 150725,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-662.ecd8b31e7e6f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 663,
+   "file": "11-1151-663.8d3836183e2a.pmtiles",
+   "bytes": 356692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-663.8d3836183e2a.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 664,
+   "file": "11-1151-664.766fa394c0e3.pmtiles",
+   "bytes": 413048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-664.766fa394c0e3.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 665,
+   "file": "11-1151-665.30dd824bc988.pmtiles",
+   "bytes": 326631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-665.30dd824bc988.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 666,
+   "file": "11-1151-666.1ae1e63afc41.pmtiles",
+   "bytes": 437207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-666.1ae1e63afc41.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 667,
+   "file": "11-1151-667.0a96f2c52b86.pmtiles",
+   "bytes": 426913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-667.0a96f2c52b86.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 668,
+   "file": "11-1151-668.231d949e5fa6.pmtiles",
+   "bytes": 411452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-668.231d949e5fa6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 669,
+   "file": "11-1151-669.ef6fc8c319c0.pmtiles",
+   "bytes": 391942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-669.ef6fc8c319c0.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 670,
+   "file": "11-1151-670.145aecaedb3f.pmtiles",
+   "bytes": 430176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-670.145aecaedb3f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 671,
+   "file": "11-1151-671.8c5227c96170.pmtiles",
+   "bytes": 414926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-671.8c5227c96170.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 672,
+   "file": "11-1151-672.2540eaa0f8a2.pmtiles",
+   "bytes": 427170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-672.2540eaa0f8a2.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 673,
+   "file": "11-1151-673.5143fa2ff1cb.pmtiles",
+   "bytes": 392822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-673.5143fa2ff1cb.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 674,
+   "file": "11-1151-674.eee1597d91da.pmtiles",
+   "bytes": 582543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-674.eee1597d91da.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 675,
+   "file": "11-1151-675.52f819c0f0d8.pmtiles",
+   "bytes": 589847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-675.52f819c0f0d8.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 676,
+   "file": "11-1151-676.d72a15cca00a.pmtiles",
+   "bytes": 476218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-676.d72a15cca00a.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 677,
+   "file": "11-1151-677.3b9b5907816c.pmtiles",
+   "bytes": 765659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-677.3b9b5907816c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 678,
+   "file": "11-1151-678.7e562012c11e.pmtiles",
+   "bytes": 433559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-678.7e562012c11e.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 679,
+   "file": "11-1151-679.c632bee6857b.pmtiles",
+   "bytes": 738075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-679.c632bee6857b.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 680,
+   "file": "11-1151-680.637fd0867586.pmtiles",
+   "bytes": 522661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-680.637fd0867586.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 681,
+   "file": "11-1151-681.110a64a7046c.pmtiles",
+   "bytes": 596255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-681.110a64a7046c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 682,
+   "file": "11-1151-682.f61d51599e3c.pmtiles",
+   "bytes": 888622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-682.f61d51599e3c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 683,
+   "file": "11-1151-683.7f9a3cf88f00.pmtiles",
+   "bytes": 1520329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-683.7f9a3cf88f00.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 684,
+   "file": "11-1151-684.8d715bfda7b6.pmtiles",
+   "bytes": 782483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-684.8d715bfda7b6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 685,
+   "file": "11-1151-685.55ea35f46e7e.pmtiles",
+   "bytes": 361846,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1151-685.55ea35f46e7e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 662,
+   "file": "11-1152-662.b859d3a651ac.pmtiles",
+   "bytes": 175290,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-662.b859d3a651ac.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 663,
+   "file": "11-1152-663.e3907f21c78e.pmtiles",
+   "bytes": 232279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-663.e3907f21c78e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 664,
+   "file": "11-1152-664.fb03e4787760.pmtiles",
+   "bytes": 184036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-664.fb03e4787760.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 665,
+   "file": "11-1152-665.7b03f5910fcf.pmtiles",
+   "bytes": 356108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-665.7b03f5910fcf.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 666,
+   "file": "11-1152-666.a6d72d4ff7e1.pmtiles",
+   "bytes": 436410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-666.a6d72d4ff7e1.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 667,
+   "file": "11-1152-667.63d33d33cc62.pmtiles",
+   "bytes": 489142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-667.63d33d33cc62.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 668,
+   "file": "11-1152-668.18f0fb0ada6b.pmtiles",
+   "bytes": 439214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-668.18f0fb0ada6b.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 669,
+   "file": "11-1152-669.cd0b3235acbe.pmtiles",
+   "bytes": 334779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-669.cd0b3235acbe.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 670,
+   "file": "11-1152-670.1fd5ca2e8a6e.pmtiles",
+   "bytes": 365217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-670.1fd5ca2e8a6e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 671,
+   "file": "11-1152-671.4238419fe014.pmtiles",
+   "bytes": 355839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-671.4238419fe014.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 672,
+   "file": "11-1152-672.f94e8c20f042.pmtiles",
+   "bytes": 452846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-672.f94e8c20f042.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 673,
+   "file": "11-1152-673.ee3428aa83b7.pmtiles",
+   "bytes": 419201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-673.ee3428aa83b7.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 674,
+   "file": "11-1152-674.206294f782dc.pmtiles",
+   "bytes": 443914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-674.206294f782dc.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 675,
+   "file": "11-1152-675.1f47f32eb129.pmtiles",
+   "bytes": 395636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-675.1f47f32eb129.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 676,
+   "file": "11-1152-676.7d284228bd35.pmtiles",
+   "bytes": 443789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-676.7d284228bd35.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 677,
+   "file": "11-1152-677.143e6d9589bb.pmtiles",
+   "bytes": 354704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-677.143e6d9589bb.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 678,
+   "file": "11-1152-678.9af9a64fc7f3.pmtiles",
+   "bytes": 643429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-678.9af9a64fc7f3.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 679,
+   "file": "11-1152-679.a7e9f142a120.pmtiles",
+   "bytes": 485724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-679.a7e9f142a120.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 680,
+   "file": "11-1152-680.2b4ce135a9ea.pmtiles",
+   "bytes": 486910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-680.2b4ce135a9ea.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 681,
+   "file": "11-1152-681.debe76d232c5.pmtiles",
+   "bytes": 943587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-681.debe76d232c5.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 682,
+   "file": "11-1152-682.bd1b35861c2e.pmtiles",
+   "bytes": 910565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-682.bd1b35861c2e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 683,
+   "file": "11-1152-683.dff77747b5c6.pmtiles",
+   "bytes": 4360614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-683.dff77747b5c6.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 684,
+   "file": "11-1152-684.e2794e1b0aaa.pmtiles",
+   "bytes": 686140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-684.e2794e1b0aaa.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 685,
+   "file": "11-1152-685.d5dc3c4051e7.pmtiles",
+   "bytes": 381998,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1152-685.d5dc3c4051e7.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 662,
+   "file": "11-1153-662.9ce3f4fd0b84.pmtiles",
+   "bytes": 256289,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-662.9ce3f4fd0b84.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 663,
+   "file": "11-1153-663.864a6804fe4e.pmtiles",
+   "bytes": 578954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-663.864a6804fe4e.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 664,
+   "file": "11-1153-664.32fd6c34864a.pmtiles",
+   "bytes": 356712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-664.32fd6c34864a.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 665,
+   "file": "11-1153-665.0e31d912eaea.pmtiles",
+   "bytes": 435600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-665.0e31d912eaea.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 666,
+   "file": "11-1153-666.1cb8f0f68cbe.pmtiles",
+   "bytes": 392072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-666.1cb8f0f68cbe.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 667,
+   "file": "11-1153-667.2054f8db8dc1.pmtiles",
+   "bytes": 564269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-667.2054f8db8dc1.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 668,
+   "file": "11-1153-668.2ae5103529ff.pmtiles",
+   "bytes": 399416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-668.2ae5103529ff.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 669,
+   "file": "11-1153-669.b78907636485.pmtiles",
+   "bytes": 360837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-669.b78907636485.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 670,
+   "file": "11-1153-670.43fcdd39995e.pmtiles",
+   "bytes": 280762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-670.43fcdd39995e.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 671,
+   "file": "11-1153-671.acb900f3839f.pmtiles",
+   "bytes": 354946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-671.acb900f3839f.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 672,
+   "file": "11-1153-672.2b8a6fb56704.pmtiles",
+   "bytes": 386263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-672.2b8a6fb56704.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 673,
+   "file": "11-1153-673.f6f943a06504.pmtiles",
+   "bytes": 438428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-673.f6f943a06504.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 674,
+   "file": "11-1153-674.82a15e30933d.pmtiles",
+   "bytes": 518374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-674.82a15e30933d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 675,
+   "file": "11-1153-675.a7003268ad76.pmtiles",
+   "bytes": 386493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-675.a7003268ad76.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 676,
+   "file": "11-1153-676.32c2f826b98a.pmtiles",
+   "bytes": 659018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-676.32c2f826b98a.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 677,
+   "file": "11-1153-677.fc9c6b78f7a4.pmtiles",
+   "bytes": 421246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-677.fc9c6b78f7a4.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 678,
+   "file": "11-1153-678.ffffaaba42c2.pmtiles",
+   "bytes": 399744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-678.ffffaaba42c2.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 679,
+   "file": "11-1153-679.f16b09655fc0.pmtiles",
+   "bytes": 464689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-679.f16b09655fc0.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 680,
+   "file": "11-1153-680.13b053829e8d.pmtiles",
+   "bytes": 375534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-680.13b053829e8d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 681,
+   "file": "11-1153-681.7207e5b812ec.pmtiles",
+   "bytes": 339799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-681.7207e5b812ec.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 682,
+   "file": "11-1153-682.dee812908616.pmtiles",
+   "bytes": 577314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-682.dee812908616.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 683,
+   "file": "11-1153-683.67396afb4a5c.pmtiles",
+   "bytes": 1334374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-683.67396afb4a5c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 684,
+   "file": "11-1153-684.851ba1d8aed1.pmtiles",
+   "bytes": 416270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-684.851ba1d8aed1.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 685,
+   "file": "11-1153-685.09e86294a0dc.pmtiles",
+   "bytes": 259895,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1153-685.09e86294a0dc.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 662,
+   "file": "11-1154-662.d150d37bed5b.pmtiles",
+   "bytes": 239494,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-662.d150d37bed5b.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 663,
+   "file": "11-1154-663.506b2bed8d8a.pmtiles",
+   "bytes": 431426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-663.506b2bed8d8a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 664,
+   "file": "11-1154-664.23335e90941c.pmtiles",
+   "bytes": 494224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-664.23335e90941c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 665,
+   "file": "11-1154-665.c66adcd0d459.pmtiles",
+   "bytes": 646474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-665.c66adcd0d459.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 666,
+   "file": "11-1154-666.38797515bc74.pmtiles",
+   "bytes": 449621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-666.38797515bc74.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 667,
+   "file": "11-1154-667.58711059545d.pmtiles",
+   "bytes": 745096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-667.58711059545d.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 668,
+   "file": "11-1154-668.4392247f7070.pmtiles",
+   "bytes": 519451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-668.4392247f7070.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 669,
+   "file": "11-1154-669.5cacee337549.pmtiles",
+   "bytes": 380668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-669.5cacee337549.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 670,
+   "file": "11-1154-670.b9007c694a2b.pmtiles",
+   "bytes": 310179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-670.b9007c694a2b.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 671,
+   "file": "11-1154-671.78e4d1dcd0e8.pmtiles",
+   "bytes": 321553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-671.78e4d1dcd0e8.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 672,
+   "file": "11-1154-672.4ef5ee06f481.pmtiles",
+   "bytes": 510561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-672.4ef5ee06f481.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 673,
+   "file": "11-1154-673.bc962823c4eb.pmtiles",
+   "bytes": 444618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-673.bc962823c4eb.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 674,
+   "file": "11-1154-674.a3c94a2b9d3a.pmtiles",
+   "bytes": 375375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-674.a3c94a2b9d3a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 675,
+   "file": "11-1154-675.2c43aef3edb0.pmtiles",
+   "bytes": 386395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-675.2c43aef3edb0.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 676,
+   "file": "11-1154-676.d2de062a1f5e.pmtiles",
+   "bytes": 303918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-676.d2de062a1f5e.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 677,
+   "file": "11-1154-677.50cfb8cc879c.pmtiles",
+   "bytes": 298396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-677.50cfb8cc879c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 678,
+   "file": "11-1154-678.b7470003e14f.pmtiles",
+   "bytes": 294217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-678.b7470003e14f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 679,
+   "file": "11-1154-679.5ad18b72604c.pmtiles",
+   "bytes": 740148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-679.5ad18b72604c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 680,
+   "file": "11-1154-680.1032ff45d326.pmtiles",
+   "bytes": 458029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-680.1032ff45d326.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 681,
+   "file": "11-1154-681.bf738e3c56dc.pmtiles",
+   "bytes": 532715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-681.bf738e3c56dc.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 682,
+   "file": "11-1154-682.dc1fbb80be80.pmtiles",
+   "bytes": 637231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-682.dc1fbb80be80.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 683,
+   "file": "11-1154-683.161e407ae006.pmtiles",
+   "bytes": 473317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-683.161e407ae006.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 684,
+   "file": "11-1154-684.f49029e18b78.pmtiles",
+   "bytes": 497381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-684.f49029e18b78.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 685,
+   "file": "11-1154-685.d142c0fb3154.pmtiles",
+   "bytes": 200857,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1154-685.d142c0fb3154.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 662,
+   "file": "11-1155-662.9500795ca560.pmtiles",
+   "bytes": 192543,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-662.9500795ca560.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 663,
+   "file": "11-1155-663.3ecbb4b7f932.pmtiles",
+   "bytes": 383807,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-663.3ecbb4b7f932.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 664,
+   "file": "11-1155-664.f70798fce15b.pmtiles",
+   "bytes": 186000,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-664.f70798fce15b.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 665,
+   "file": "11-1155-665.9a2298af99f9.pmtiles",
+   "bytes": 1275523,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-665.9a2298af99f9.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 666,
+   "file": "11-1155-666.496472aae235.pmtiles",
+   "bytes": 823189,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-666.496472aae235.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 667,
+   "file": "11-1155-667.2e5db0e750f2.pmtiles",
+   "bytes": 335869,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-667.2e5db0e750f2.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 668,
+   "file": "11-1155-668.2e17ebf38476.pmtiles",
+   "bytes": 297690,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-668.2e17ebf38476.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 669,
+   "file": "11-1155-669.8d835b72cd1f.pmtiles",
+   "bytes": 265722,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-669.8d835b72cd1f.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 670,
+   "file": "11-1155-670.8defa7357549.pmtiles",
+   "bytes": 264460,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-670.8defa7357549.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 671,
+   "file": "11-1155-671.ffbc2d087b4e.pmtiles",
+   "bytes": 223343,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-671.ffbc2d087b4e.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 672,
+   "file": "11-1155-672.599d0ce1fa30.pmtiles",
+   "bytes": 193451,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-672.599d0ce1fa30.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 673,
+   "file": "11-1155-673.1b707e58c78a.pmtiles",
+   "bytes": 309789,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-673.1b707e58c78a.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 674,
+   "file": "11-1155-674.7d357c799807.pmtiles",
+   "bytes": 299806,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-674.7d357c799807.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 675,
+   "file": "11-1155-675.4d3d884f82a3.pmtiles",
+   "bytes": 385637,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-675.4d3d884f82a3.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 676,
+   "file": "11-1155-676.f83b2fa6ccb4.pmtiles",
+   "bytes": 760907,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-676.f83b2fa6ccb4.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 677,
+   "file": "11-1155-677.673ba60e1fa6.pmtiles",
+   "bytes": 240554,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-677.673ba60e1fa6.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 678,
+   "file": "11-1155-678.2ec92d019bb0.pmtiles",
+   "bytes": 210945,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-678.2ec92d019bb0.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 679,
+   "file": "11-1155-679.28d114929b19.pmtiles",
+   "bytes": 264137,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-679.28d114929b19.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 680,
+   "file": "11-1155-680.27a0b7ecf047.pmtiles",
+   "bytes": 273513,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-680.27a0b7ecf047.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 681,
+   "file": "11-1155-681.3fdc950de0ae.pmtiles",
+   "bytes": 377161,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-681.3fdc950de0ae.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 682,
+   "file": "11-1155-682.056e33ea9731.pmtiles",
+   "bytes": 365862,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-682.056e33ea9731.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 683,
+   "file": "11-1155-683.e4bd4b58b8e5.pmtiles",
+   "bytes": 229501,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-683.e4bd4b58b8e5.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 684,
+   "file": "11-1155-684.dc0088749f3f.pmtiles",
+   "bytes": 266458,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-684.dc0088749f3f.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 685,
+   "file": "11-1155-685.9ff092a0de37.pmtiles",
+   "bytes": 196980,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-mazowieckie-2026-10-03/11-1155-685.9ff092a0de37.pmtiles"
+  }
+ ]
+}

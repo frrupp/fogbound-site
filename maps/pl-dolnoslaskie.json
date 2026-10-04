@@ -1,0 +1,1893 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pl-dolnoslaskie",
+ "source": "pl.pmtiles",
+ "builtAt": "2026-10-04T08:44:15.907Z",
+ "publishedAt": "2026-10-04T09:46:18.208Z",
+ "host": "github",
+ "releases": [
+  "maps-pl-dolnoslaskie-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.81737,
+  50.09633,
+  17.79527,
+  51.80475
+ ],
+ "overview": {
+  "file": "overview.8ec2868acaeb.pmtiles",
+  "bytes": 6105790,
+  "tiles": 114,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/overview.8ec2868acaeb.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1108,
+   "y": 678,
+   "file": "11-1108-678.5ecc8013b54f.pmtiles",
+   "bytes": 186588,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-678.5ecc8013b54f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 679,
+   "file": "11-1108-679.41c00be0fddf.pmtiles",
+   "bytes": 322333,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-679.41c00be0fddf.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 680,
+   "file": "11-1108-680.0e38aeda5706.pmtiles",
+   "bytes": 212221,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-680.0e38aeda5706.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 681,
+   "file": "11-1108-681.8db26e0dd40d.pmtiles",
+   "bytes": 145963,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-681.8db26e0dd40d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 685,
+   "file": "11-1108-685.7d5a750e823b.pmtiles",
+   "bytes": 185685,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-685.7d5a750e823b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 686,
+   "file": "11-1108-686.9b3378d62aa7.pmtiles",
+   "bytes": 645477,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1108-686.9b3378d62aa7.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 678,
+   "file": "11-1109-678.a07e5aeda121.pmtiles",
+   "bytes": 521689,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-678.a07e5aeda121.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 679,
+   "file": "11-1109-679.9f9d1affcd78.pmtiles",
+   "bytes": 376798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-679.9f9d1affcd78.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 680,
+   "file": "11-1109-680.fb781e80d20c.pmtiles",
+   "bytes": 407842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-680.fb781e80d20c.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 681,
+   "file": "11-1109-681.a15a41c5d888.pmtiles",
+   "bytes": 312781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-681.a15a41c5d888.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 682,
+   "file": "11-1109-682.2986f37243bc.pmtiles",
+   "bytes": 265420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-682.2986f37243bc.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 683,
+   "file": "11-1109-683.6c031a29991e.pmtiles",
+   "bytes": 423826,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-683.6c031a29991e.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 684,
+   "file": "11-1109-684.2c158b986c32.pmtiles",
+   "bytes": 1173024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-684.2c158b986c32.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 685,
+   "file": "11-1109-685.41aeb58d7cb1.pmtiles",
+   "bytes": 703893,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-685.41aeb58d7cb1.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 686,
+   "file": "11-1109-686.d7ab76d8f876.pmtiles",
+   "bytes": 484881,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1109-686.d7ab76d8f876.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 678,
+   "file": "11-1110-678.eb3ec173f8aa.pmtiles",
+   "bytes": 277023,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-678.eb3ec173f8aa.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 679,
+   "file": "11-1110-679.3a0a2ec279ec.pmtiles",
+   "bytes": 895704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-679.3a0a2ec279ec.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 680,
+   "file": "11-1110-680.823736d24ed3.pmtiles",
+   "bytes": 628740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-680.823736d24ed3.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 681,
+   "file": "11-1110-681.904dd9e1ac7c.pmtiles",
+   "bytes": 401533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-681.904dd9e1ac7c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 682,
+   "file": "11-1110-682.5ce22729b793.pmtiles",
+   "bytes": 268302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-682.5ce22729b793.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 683,
+   "file": "11-1110-683.015267386de4.pmtiles",
+   "bytes": 390407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-683.015267386de4.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 684,
+   "file": "11-1110-684.45c987d759cf.pmtiles",
+   "bytes": 640844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-684.45c987d759cf.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 685,
+   "file": "11-1110-685.cdc68e8835f9.pmtiles",
+   "bytes": 629910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-685.cdc68e8835f9.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 686,
+   "file": "11-1110-686.44df74564e67.pmtiles",
+   "bytes": 133654,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1110-686.44df74564e67.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 678,
+   "file": "11-1111-678.39905ecb85b3.pmtiles",
+   "bytes": 207361,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-678.39905ecb85b3.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 679,
+   "file": "11-1111-679.74a24803ca3b.pmtiles",
+   "bytes": 409830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-679.74a24803ca3b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 680,
+   "file": "11-1111-680.e233c1de3edd.pmtiles",
+   "bytes": 476938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-680.e233c1de3edd.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 681,
+   "file": "11-1111-681.db30c1ed89de.pmtiles",
+   "bytes": 223646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-681.db30c1ed89de.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 682,
+   "file": "11-1111-682.d6036191289d.pmtiles",
+   "bytes": 281752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-682.d6036191289d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 683,
+   "file": "11-1111-683.dcbee492eae4.pmtiles",
+   "bytes": 514836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-683.dcbee492eae4.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 684,
+   "file": "11-1111-684.e97e59b1d04c.pmtiles",
+   "bytes": 587011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-684.e97e59b1d04c.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 685,
+   "file": "11-1111-685.aa454f009ed6.pmtiles",
+   "bytes": 886220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-685.aa454f009ed6.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 686,
+   "file": "11-1111-686.806d9c97b169.pmtiles",
+   "bytes": 553128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-686.806d9c97b169.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 687,
+   "file": "11-1111-687.bdcebba75526.pmtiles",
+   "bytes": 234662,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1111-687.bdcebba75526.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 678,
+   "file": "11-1112-678.f63e7dde42c2.pmtiles",
+   "bytes": 326355,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-678.f63e7dde42c2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 679,
+   "file": "11-1112-679.be9962fe8983.pmtiles",
+   "bytes": 231111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-679.be9962fe8983.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 680,
+   "file": "11-1112-680.e2630cbe88b5.pmtiles",
+   "bytes": 426850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-680.e2630cbe88b5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 681,
+   "file": "11-1112-681.3027d7bebeff.pmtiles",
+   "bytes": 198101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-681.3027d7bebeff.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 682,
+   "file": "11-1112-682.5e6b77589a9e.pmtiles",
+   "bytes": 395510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-682.5e6b77589a9e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 683,
+   "file": "11-1112-683.5f75a7e59913.pmtiles",
+   "bytes": 1349649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-683.5f75a7e59913.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 684,
+   "file": "11-1112-684.99ee9cb276aa.pmtiles",
+   "bytes": 1221734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-684.99ee9cb276aa.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 685,
+   "file": "11-1112-685.f3e40d0decb2.pmtiles",
+   "bytes": 696194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-685.f3e40d0decb2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 686,
+   "file": "11-1112-686.a6d0b1f7f35e.pmtiles",
+   "bytes": 580029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-686.a6d0b1f7f35e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 687,
+   "file": "11-1112-687.c9fd1b072f13.pmtiles",
+   "bytes": 783837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-687.c9fd1b072f13.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 688,
+   "file": "11-1112-688.af770d55b259.pmtiles",
+   "bytes": 21746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1112-688.af770d55b259.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 678,
+   "file": "11-1113-678.49f544b8cccb.pmtiles",
+   "bytes": 737844,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-678.49f544b8cccb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 679,
+   "file": "11-1113-679.7ea2125c5aa2.pmtiles",
+   "bytes": 350668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-679.7ea2125c5aa2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 680,
+   "file": "11-1113-680.c20588aa74ee.pmtiles",
+   "bytes": 292838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-680.c20588aa74ee.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 681,
+   "file": "11-1113-681.4d8c8642d1c9.pmtiles",
+   "bytes": 131672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-681.4d8c8642d1c9.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 682,
+   "file": "11-1113-682.c3364febe844.pmtiles",
+   "bytes": 397067,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-682.c3364febe844.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 683,
+   "file": "11-1113-683.3d4981a3c6ce.pmtiles",
+   "bytes": 520703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-683.3d4981a3c6ce.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 684,
+   "file": "11-1113-684.1a4c048df321.pmtiles",
+   "bytes": 494450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-684.1a4c048df321.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 685,
+   "file": "11-1113-685.305b11fa2dfc.pmtiles",
+   "bytes": 737174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-685.305b11fa2dfc.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 686,
+   "file": "11-1113-686.cf6dd1562bfd.pmtiles",
+   "bytes": 1503723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-686.cf6dd1562bfd.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 687,
+   "file": "11-1113-687.07c08015af30.pmtiles",
+   "bytes": 1210941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-687.07c08015af30.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 688,
+   "file": "11-1113-688.9d8038abee5e.pmtiles",
+   "bytes": 142011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1113-688.9d8038abee5e.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 678,
+   "file": "11-1114-678.54d33a27ddd0.pmtiles",
+   "bytes": 269305,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-678.54d33a27ddd0.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 679,
+   "file": "11-1114-679.5d69313efebd.pmtiles",
+   "bytes": 491223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-679.5d69313efebd.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 680,
+   "file": "11-1114-680.bbc3b8a9ff16.pmtiles",
+   "bytes": 342998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-680.bbc3b8a9ff16.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 681,
+   "file": "11-1114-681.101ec552aafa.pmtiles",
+   "bytes": 278361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-681.101ec552aafa.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 682,
+   "file": "11-1114-682.dec8273ef276.pmtiles",
+   "bytes": 440223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-682.dec8273ef276.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 683,
+   "file": "11-1114-683.624f935b450a.pmtiles",
+   "bytes": 837581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-683.624f935b450a.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 684,
+   "file": "11-1114-684.6f395802fbae.pmtiles",
+   "bytes": 708951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-684.6f395802fbae.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 685,
+   "file": "11-1114-685.1c9d5329e0ac.pmtiles",
+   "bytes": 644435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-685.1c9d5329e0ac.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 686,
+   "file": "11-1114-686.dc42de25b08d.pmtiles",
+   "bytes": 931074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-686.dc42de25b08d.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 687,
+   "file": "11-1114-687.a1854472cf2e.pmtiles",
+   "bytes": 717627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-687.a1854472cf2e.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 688,
+   "file": "11-1114-688.c6f5f245a7d7.pmtiles",
+   "bytes": 459160,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-688.c6f5f245a7d7.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 689,
+   "file": "11-1114-689.2d3881c3d172.pmtiles",
+   "bytes": 61210,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1114-689.2d3881c3d172.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 678,
+   "file": "11-1115-678.e3c33a72a001.pmtiles",
+   "bytes": 267225,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-678.e3c33a72a001.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 679,
+   "file": "11-1115-679.96d2ba998cde.pmtiles",
+   "bytes": 1040543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-679.96d2ba998cde.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 680,
+   "file": "11-1115-680.20b0a1f9bc14.pmtiles",
+   "bytes": 573560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-680.20b0a1f9bc14.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 681,
+   "file": "11-1115-681.288fb8fa15ae.pmtiles",
+   "bytes": 588756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-681.288fb8fa15ae.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 682,
+   "file": "11-1115-682.f700d29a3c87.pmtiles",
+   "bytes": 388375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-682.f700d29a3c87.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 683,
+   "file": "11-1115-683.16caada23acc.pmtiles",
+   "bytes": 1024237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-683.16caada23acc.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 684,
+   "file": "11-1115-684.e77eacac602a.pmtiles",
+   "bytes": 607391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-684.e77eacac602a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 685,
+   "file": "11-1115-685.77262f4f71ca.pmtiles",
+   "bytes": 528611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-685.77262f4f71ca.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 686,
+   "file": "11-1115-686.c2b8e1924cda.pmtiles",
+   "bytes": 724908,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-686.c2b8e1924cda.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 687,
+   "file": "11-1115-687.d4f86c856624.pmtiles",
+   "bytes": 887871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-687.d4f86c856624.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 688,
+   "file": "11-1115-688.2bcaa2e0265c.pmtiles",
+   "bytes": 546304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-688.2bcaa2e0265c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 689,
+   "file": "11-1115-689.c70e56136b9a.pmtiles",
+   "bytes": 182508,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1115-689.c70e56136b9a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 678,
+   "file": "11-1116-678.483e392ff8be.pmtiles",
+   "bytes": 387223,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-678.483e392ff8be.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 679,
+   "file": "11-1116-679.a0d42dc00380.pmtiles",
+   "bytes": 442345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-679.a0d42dc00380.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 680,
+   "file": "11-1116-680.5332b3f3e201.pmtiles",
+   "bytes": 469816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-680.5332b3f3e201.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 681,
+   "file": "11-1116-681.66088d281efc.pmtiles",
+   "bytes": 592944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-681.66088d281efc.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 682,
+   "file": "11-1116-682.0fb93156c642.pmtiles",
+   "bytes": 660259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-682.0fb93156c642.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 683,
+   "file": "11-1116-683.3ca343bdd3b4.pmtiles",
+   "bytes": 850592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-683.3ca343bdd3b4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 684,
+   "file": "11-1116-684.8b6d5ac1e460.pmtiles",
+   "bytes": 533859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-684.8b6d5ac1e460.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 685,
+   "file": "11-1116-685.86d7a18e9b27.pmtiles",
+   "bytes": 765152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-685.86d7a18e9b27.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 686,
+   "file": "11-1116-686.20e98650de82.pmtiles",
+   "bytes": 837012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-686.20e98650de82.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 687,
+   "file": "11-1116-687.6c1be495ab6e.pmtiles",
+   "bytes": 1579233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-687.6c1be495ab6e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 688,
+   "file": "11-1116-688.375f7cf46cf3.pmtiles",
+   "bytes": 660525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-688.375f7cf46cf3.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 689,
+   "file": "11-1116-689.a3a88afb746f.pmtiles",
+   "bytes": 90600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-689.a3a88afb746f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 690,
+   "file": "11-1116-690.351e03c516a4.pmtiles",
+   "bytes": 820754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-690.351e03c516a4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 691,
+   "file": "11-1116-691.247740e09efd.pmtiles",
+   "bytes": 287029,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1116-691.247740e09efd.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 678,
+   "file": "11-1117-678.f2c8ea8c28fb.pmtiles",
+   "bytes": 288128,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-678.f2c8ea8c28fb.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 679,
+   "file": "11-1117-679.f1f63062ad83.pmtiles",
+   "bytes": 386011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-679.f1f63062ad83.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 680,
+   "file": "11-1117-680.495371c55499.pmtiles",
+   "bytes": 425107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-680.495371c55499.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 681,
+   "file": "11-1117-681.377896f7ea57.pmtiles",
+   "bytes": 620382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-681.377896f7ea57.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 682,
+   "file": "11-1117-682.3e025b11dd05.pmtiles",
+   "bytes": 445856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-682.3e025b11dd05.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 683,
+   "file": "11-1117-683.fd9f1506fe07.pmtiles",
+   "bytes": 606158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-683.fd9f1506fe07.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 684,
+   "file": "11-1117-684.58ce0f16fa53.pmtiles",
+   "bytes": 428661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-684.58ce0f16fa53.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 685,
+   "file": "11-1117-685.22b8cbf14097.pmtiles",
+   "bytes": 521644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-685.22b8cbf14097.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 686,
+   "file": "11-1117-686.ae0ca12c8ff4.pmtiles",
+   "bytes": 966912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-686.ae0ca12c8ff4.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 687,
+   "file": "11-1117-687.2f348b05736f.pmtiles",
+   "bytes": 1170771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-687.2f348b05736f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 688,
+   "file": "11-1117-688.6cf7ebda8354.pmtiles",
+   "bytes": 938190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-688.6cf7ebda8354.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 689,
+   "file": "11-1117-689.683d7c26f80d.pmtiles",
+   "bytes": 815314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-689.683d7c26f80d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 690,
+   "file": "11-1117-690.7354cd9959a6.pmtiles",
+   "bytes": 790620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-690.7354cd9959a6.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 691,
+   "file": "11-1117-691.971d64c64c4f.pmtiles",
+   "bytes": 508817,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-691.971d64c64c4f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 692,
+   "file": "11-1117-692.ea423738780a.pmtiles",
+   "bytes": 141829,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1117-692.ea423738780a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 678,
+   "file": "11-1118-678.5e504e5cb6be.pmtiles",
+   "bytes": 383835,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-678.5e504e5cb6be.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 679,
+   "file": "11-1118-679.4728ef0dbc02.pmtiles",
+   "bytes": 583249,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-679.4728ef0dbc02.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 680,
+   "file": "11-1118-680.ebd00e8e494e.pmtiles",
+   "bytes": 355275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-680.ebd00e8e494e.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 681,
+   "file": "11-1118-681.16248607e0ec.pmtiles",
+   "bytes": 412027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-681.16248607e0ec.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 682,
+   "file": "11-1118-682.f932e3eae3f3.pmtiles",
+   "bytes": 706549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-682.f932e3eae3f3.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 683,
+   "file": "11-1118-683.659aea8f056d.pmtiles",
+   "bytes": 539268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-683.659aea8f056d.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 684,
+   "file": "11-1118-684.5dfa17544b63.pmtiles",
+   "bytes": 575205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-684.5dfa17544b63.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 685,
+   "file": "11-1118-685.59c466af2630.pmtiles",
+   "bytes": 606775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-685.59c466af2630.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 686,
+   "file": "11-1118-686.3f684b93be0a.pmtiles",
+   "bytes": 645178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-686.3f684b93be0a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 687,
+   "file": "11-1118-687.aa80f56c59ed.pmtiles",
+   "bytes": 674110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-687.aa80f56c59ed.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 688,
+   "file": "11-1118-688.cae3c617bc4f.pmtiles",
+   "bytes": 1158060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-688.cae3c617bc4f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 689,
+   "file": "11-1118-689.7795e4fa6321.pmtiles",
+   "bytes": 694662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-689.7795e4fa6321.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 690,
+   "file": "11-1118-690.10596a274eb6.pmtiles",
+   "bytes": 943132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-690.10596a274eb6.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 691,
+   "file": "11-1118-691.85d734117b26.pmtiles",
+   "bytes": 935433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-691.85d734117b26.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 692,
+   "file": "11-1118-692.cb12d44e6bfb.pmtiles",
+   "bytes": 700138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-692.cb12d44e6bfb.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 693,
+   "file": "11-1118-693.175dd7dd433f.pmtiles",
+   "bytes": 446716,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1118-693.175dd7dd433f.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 678,
+   "file": "11-1119-678.b76feb382f22.pmtiles",
+   "bytes": 284014,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-678.b76feb382f22.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 679,
+   "file": "11-1119-679.96c5d331e453.pmtiles",
+   "bytes": 421863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-679.96c5d331e453.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 680,
+   "file": "11-1119-680.400948ac132b.pmtiles",
+   "bytes": 617518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-680.400948ac132b.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 681,
+   "file": "11-1119-681.4a70cfa86198.pmtiles",
+   "bytes": 508927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-681.4a70cfa86198.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 682,
+   "file": "11-1119-682.441933b9a680.pmtiles",
+   "bytes": 702164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-682.441933b9a680.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 683,
+   "file": "11-1119-683.9dc3bdb162cb.pmtiles",
+   "bytes": 1053742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-683.9dc3bdb162cb.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 684,
+   "file": "11-1119-684.af5a6ed573ec.pmtiles",
+   "bytes": 933892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-684.af5a6ed573ec.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 685,
+   "file": "11-1119-685.f28863ef0097.pmtiles",
+   "bytes": 717595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-685.f28863ef0097.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 686,
+   "file": "11-1119-686.b91333ee76a2.pmtiles",
+   "bytes": 725872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-686.b91333ee76a2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 687,
+   "file": "11-1119-687.9e37275aadfe.pmtiles",
+   "bytes": 617391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-687.9e37275aadfe.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 688,
+   "file": "11-1119-688.4f9121e14672.pmtiles",
+   "bytes": 681783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-688.4f9121e14672.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 689,
+   "file": "11-1119-689.c398a2891362.pmtiles",
+   "bytes": 709039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-689.c398a2891362.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 690,
+   "file": "11-1119-690.fd92ca4738a1.pmtiles",
+   "bytes": 639838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-690.fd92ca4738a1.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 691,
+   "file": "11-1119-691.87e068235065.pmtiles",
+   "bytes": 820048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-691.87e068235065.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 692,
+   "file": "11-1119-692.ad7a8e1d64bc.pmtiles",
+   "bytes": 577957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-692.ad7a8e1d64bc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 693,
+   "file": "11-1119-693.061ba2c17b52.pmtiles",
+   "bytes": 284825,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1119-693.061ba2c17b52.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 678,
+   "file": "11-1120-678.5c08f246833e.pmtiles",
+   "bytes": 269683,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-678.5c08f246833e.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 679,
+   "file": "11-1120-679.b61b38ee32b0.pmtiles",
+   "bytes": 445500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-679.b61b38ee32b0.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 680,
+   "file": "11-1120-680.ad343ade2b2c.pmtiles",
+   "bytes": 429778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-680.ad343ade2b2c.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 681,
+   "file": "11-1120-681.17b40633a2cf.pmtiles",
+   "bytes": 644689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-681.17b40633a2cf.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 682,
+   "file": "11-1120-682.2cecafe6ce16.pmtiles",
+   "bytes": 1015985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-682.2cecafe6ce16.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 683,
+   "file": "11-1120-683.f6d41b4acc18.pmtiles",
+   "bytes": 1122699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-683.f6d41b4acc18.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 684,
+   "file": "11-1120-684.f1dc29997ff9.pmtiles",
+   "bytes": 5662602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-684.f1dc29997ff9.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 685,
+   "file": "11-1120-685.f2f61966b0e4.pmtiles",
+   "bytes": 1712256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-685.f2f61966b0e4.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 686,
+   "file": "11-1120-686.c7573be5f825.pmtiles",
+   "bytes": 448273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-686.c7573be5f825.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 687,
+   "file": "11-1120-687.7772d8a9a469.pmtiles",
+   "bytes": 386635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-687.7772d8a9a469.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 688,
+   "file": "11-1120-688.18884a109681.pmtiles",
+   "bytes": 538802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-688.18884a109681.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 689,
+   "file": "11-1120-689.b77af6817093.pmtiles",
+   "bytes": 608934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-689.b77af6817093.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 690,
+   "file": "11-1120-690.40970a761b6c.pmtiles",
+   "bytes": 913109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-690.40970a761b6c.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 691,
+   "file": "11-1120-691.0e73e436a062.pmtiles",
+   "bytes": 420047,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-691.0e73e436a062.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 692,
+   "file": "11-1120-692.c87d83ae0508.pmtiles",
+   "bytes": 302654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1120-692.c87d83ae0508.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 678,
+   "file": "11-1121-678.4efec74b5fab.pmtiles",
+   "bytes": 259731,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-678.4efec74b5fab.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 679,
+   "file": "11-1121-679.06f7a424180e.pmtiles",
+   "bytes": 371882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-679.06f7a424180e.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 680,
+   "file": "11-1121-680.02455ef02351.pmtiles",
+   "bytes": 423909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-680.02455ef02351.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 681,
+   "file": "11-1121-681.93f649546456.pmtiles",
+   "bytes": 407398,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-681.93f649546456.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 682,
+   "file": "11-1121-682.edf052cf37d4.pmtiles",
+   "bytes": 753034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-682.edf052cf37d4.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 683,
+   "file": "11-1121-683.a037dc92066e.pmtiles",
+   "bytes": 927549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-683.a037dc92066e.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 684,
+   "file": "11-1121-684.57e349ac3add.pmtiles",
+   "bytes": 3223895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-684.57e349ac3add.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 685,
+   "file": "11-1121-685.8817e47e0ebe.pmtiles",
+   "bytes": 1289370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-685.8817e47e0ebe.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 686,
+   "file": "11-1121-686.a0aecddb06c1.pmtiles",
+   "bytes": 414706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-686.a0aecddb06c1.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 687,
+   "file": "11-1121-687.21e4f3b321a4.pmtiles",
+   "bytes": 618681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-687.21e4f3b321a4.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 688,
+   "file": "11-1121-688.b6f15ef63729.pmtiles",
+   "bytes": 558166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-688.b6f15ef63729.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 689,
+   "file": "11-1121-689.4090168c3b18.pmtiles",
+   "bytes": 361786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-689.4090168c3b18.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 690,
+   "file": "11-1121-690.d8913c910c74.pmtiles",
+   "bytes": 518043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-690.d8913c910c74.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 691,
+   "file": "11-1121-691.901ef89c1e22.pmtiles",
+   "bytes": 198510,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-691.901ef89c1e22.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 692,
+   "file": "11-1121-692.cf485eb4c7c7.pmtiles",
+   "bytes": 43200,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1121-692.cf485eb4c7c7.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 678,
+   "file": "11-1122-678.3dc3719f25bc.pmtiles",
+   "bytes": 181795,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-678.3dc3719f25bc.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 679,
+   "file": "11-1122-679.eb4c5259d435.pmtiles",
+   "bytes": 365138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-679.eb4c5259d435.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 680,
+   "file": "11-1122-680.1e6fd454c97f.pmtiles",
+   "bytes": 591643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-680.1e6fd454c97f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 681,
+   "file": "11-1122-681.cb0b355e6be0.pmtiles",
+   "bytes": 426895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-681.cb0b355e6be0.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 682,
+   "file": "11-1122-682.0a76b5af71b5.pmtiles",
+   "bytes": 376685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-682.0a76b5af71b5.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 683,
+   "file": "11-1122-683.dd8769a3bc68.pmtiles",
+   "bytes": 1166513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-683.dd8769a3bc68.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 684,
+   "file": "11-1122-684.d793ff9084c0.pmtiles",
+   "bytes": 672797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-684.d793ff9084c0.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 685,
+   "file": "11-1122-685.b681b477a1ff.pmtiles",
+   "bytes": 846040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-685.b681b477a1ff.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 686,
+   "file": "11-1122-686.9eb8390f7556.pmtiles",
+   "bytes": 816410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-686.9eb8390f7556.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 687,
+   "file": "11-1122-687.ad536afa9920.pmtiles",
+   "bytes": 350183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-687.ad536afa9920.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 688,
+   "file": "11-1122-688.af9102fd51be.pmtiles",
+   "bytes": 464620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-688.af9102fd51be.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 689,
+   "file": "11-1122-689.34467ebf311f.pmtiles",
+   "bytes": 399737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-689.34467ebf311f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 690,
+   "file": "11-1122-690.6619fbf34ec9.pmtiles",
+   "bytes": 1107699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-690.6619fbf34ec9.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 691,
+   "file": "11-1122-691.f7d61b33ead4.pmtiles",
+   "bytes": 642389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-691.f7d61b33ead4.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 692,
+   "file": "11-1122-692.08bbfc3e801e.pmtiles",
+   "bytes": 161866,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1122-692.08bbfc3e801e.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 678,
+   "file": "11-1123-678.8167135348a6.pmtiles",
+   "bytes": 236153,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-678.8167135348a6.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 679,
+   "file": "11-1123-679.7d01a47cd5d8.pmtiles",
+   "bytes": 735173,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-679.7d01a47cd5d8.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 680,
+   "file": "11-1123-680.e4e42d5d5feb.pmtiles",
+   "bytes": 427816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-680.e4e42d5d5feb.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 681,
+   "file": "11-1123-681.234f4c831ca0.pmtiles",
+   "bytes": 365953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-681.234f4c831ca0.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 682,
+   "file": "11-1123-682.7d58e4cf9b2b.pmtiles",
+   "bytes": 444367,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-682.7d58e4cf9b2b.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 683,
+   "file": "11-1123-683.48d39e318944.pmtiles",
+   "bytes": 585789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-683.48d39e318944.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 684,
+   "file": "11-1123-684.e5411694837c.pmtiles",
+   "bytes": 440259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-684.e5411694837c.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 685,
+   "file": "11-1123-685.e324ac35de51.pmtiles",
+   "bytes": 309683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-685.e324ac35de51.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 686,
+   "file": "11-1123-686.a18669879ce9.pmtiles",
+   "bytes": 774340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-686.a18669879ce9.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 687,
+   "file": "11-1123-687.f80987b3eaad.pmtiles",
+   "bytes": 437019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-687.f80987b3eaad.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 688,
+   "file": "11-1123-688.b0b903bc4454.pmtiles",
+   "bytes": 365688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-688.b0b903bc4454.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 689,
+   "file": "11-1123-689.c4b43e53d364.pmtiles",
+   "bytes": 399324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-689.c4b43e53d364.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 690,
+   "file": "11-1123-690.18cd8855389d.pmtiles",
+   "bytes": 383580,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-690.18cd8855389d.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 691,
+   "file": "11-1123-691.25d7939e21bd.pmtiles",
+   "bytes": 580261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-691.25d7939e21bd.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 692,
+   "file": "11-1123-692.0bc92bda944d.pmtiles",
+   "bytes": 341704,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1123-692.0bc92bda944d.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 678,
+   "file": "11-1124-678.4107fe6ad762.pmtiles",
+   "bytes": 167882,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-678.4107fe6ad762.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 679,
+   "file": "11-1124-679.088b8f63006e.pmtiles",
+   "bytes": 427716,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-679.088b8f63006e.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 680,
+   "file": "11-1124-680.dc497656ac40.pmtiles",
+   "bytes": 601952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-680.dc497656ac40.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 681,
+   "file": "11-1124-681.0af0e057f467.pmtiles",
+   "bytes": 269517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-681.0af0e057f467.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 682,
+   "file": "11-1124-682.579d349b9887.pmtiles",
+   "bytes": 512449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-682.579d349b9887.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 683,
+   "file": "11-1124-683.ef7f4e176c02.pmtiles",
+   "bytes": 400562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-683.ef7f4e176c02.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 684,
+   "file": "11-1124-684.e97cd36e5b57.pmtiles",
+   "bytes": 550495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-684.e97cd36e5b57.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 685,
+   "file": "11-1124-685.88b8a2e1ced9.pmtiles",
+   "bytes": 333805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-685.88b8a2e1ced9.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 686,
+   "file": "11-1124-686.938e9dbd73f9.pmtiles",
+   "bytes": 299335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-686.938e9dbd73f9.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 687,
+   "file": "11-1124-687.3d3e3e6448b1.pmtiles",
+   "bytes": 450757,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-687.3d3e3e6448b1.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 688,
+   "file": "11-1124-688.f40b407c1b48.pmtiles",
+   "bytes": 542256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-688.f40b407c1b48.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 689,
+   "file": "11-1124-689.0f7a075886a4.pmtiles",
+   "bytes": 469643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-689.0f7a075886a4.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 690,
+   "file": "11-1124-690.4b471f333b2d.pmtiles",
+   "bytes": 463980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-690.4b471f333b2d.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 691,
+   "file": "11-1124-691.4852ea98e265.pmtiles",
+   "bytes": 699555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-691.4852ea98e265.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 692,
+   "file": "11-1124-692.06f4824e646e.pmtiles",
+   "bytes": 430347,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-692.06f4824e646e.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 693,
+   "file": "11-1124-693.b388a80fa1de.pmtiles",
+   "bytes": 520776,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1124-693.b388a80fa1de.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 678,
+   "file": "11-1125-678.caaf3d40500e.pmtiles",
+   "bytes": 73655,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-678.caaf3d40500e.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 679,
+   "file": "11-1125-679.ed510024e659.pmtiles",
+   "bytes": 342290,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-679.ed510024e659.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 680,
+   "file": "11-1125-680.fae6b6963af8.pmtiles",
+   "bytes": 147019,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-680.fae6b6963af8.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 681,
+   "file": "11-1125-681.204770058858.pmtiles",
+   "bytes": 110676,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-681.204770058858.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 682,
+   "file": "11-1125-682.8d20d67d734f.pmtiles",
+   "bytes": 128218,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-682.8d20d67d734f.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 683,
+   "file": "11-1125-683.9fc368df2901.pmtiles",
+   "bytes": 73647,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-683.9fc368df2901.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 684,
+   "file": "11-1125-684.eff388251b9e.pmtiles",
+   "bytes": 125084,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-684.eff388251b9e.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 685,
+   "file": "11-1125-685.4f92fe9a63ad.pmtiles",
+   "bytes": 102502,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-685.4f92fe9a63ad.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 686,
+   "file": "11-1125-686.f45f96f77e8f.pmtiles",
+   "bytes": 102401,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-686.f45f96f77e8f.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 687,
+   "file": "11-1125-687.2d435891d271.pmtiles",
+   "bytes": 183535,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-687.2d435891d271.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 688,
+   "file": "11-1125-688.2bcc1ef11a1a.pmtiles",
+   "bytes": 214662,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-688.2bcc1ef11a1a.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 689,
+   "file": "11-1125-689.c04494dac6cf.pmtiles",
+   "bytes": 93302,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-689.c04494dac6cf.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 690,
+   "file": "11-1125-690.7675e6eb8916.pmtiles",
+   "bytes": 200606,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-690.7675e6eb8916.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 691,
+   "file": "11-1125-691.97b2f7e9eb9b.pmtiles",
+   "bytes": 168131,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-691.97b2f7e9eb9b.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 692,
+   "file": "11-1125-692.c8a9f07b8538.pmtiles",
+   "bytes": 158812,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-692.c8a9f07b8538.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 693,
+   "file": "11-1125-693.f62e4ae90fa0.pmtiles",
+   "bytes": 122933,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pl-dolnoslaskie-2026-10-03/11-1125-693.f62e4ae90fa0.pmtiles"
+  }
+ ]
+}
