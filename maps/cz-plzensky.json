@@ -1,0 +1,685 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-plzensky",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T07:28:17.152Z",
+ "publishedAt": "2026-10-04T07:28:39.337Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-plzensky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  12.4005,
+  48.94126,
+  13.84035,
+  50.10442
+ ],
+ "overview": {
+  "file": "overview.acbc4dd5cd2f.pmtiles",
+  "bytes": 3010465,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/overview.acbc4dd5cd2f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1094,
+   "y": 693,
+   "file": "11-1094-693.b0c8251cc4c7.pmtiles",
+   "bytes": 236093,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1094-693.b0c8251cc4c7.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 694,
+   "file": "11-1094-694.b298b6b99097.pmtiles",
+   "bytes": 337261,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1094-694.b298b6b99097.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 695,
+   "file": "11-1094-695.0dd48f04bcd2.pmtiles",
+   "bytes": 36081,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1094-695.0dd48f04bcd2.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 696,
+   "file": "11-1094-696.128abea9af5e.pmtiles",
+   "bytes": 128014,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1094-696.128abea9af5e.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 697,
+   "file": "11-1094-697.5758cafab150.pmtiles",
+   "bytes": 116153,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1094-697.5758cafab150.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 693,
+   "file": "11-1095-693.3ee836211284.pmtiles",
+   "bytes": 334111,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-693.3ee836211284.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 694,
+   "file": "11-1095-694.c280857e382d.pmtiles",
+   "bytes": 678302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-694.c280857e382d.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 695,
+   "file": "11-1095-695.f26e54e9883b.pmtiles",
+   "bytes": 402639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-695.f26e54e9883b.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 696,
+   "file": "11-1095-696.f00892012053.pmtiles",
+   "bytes": 742707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-696.f00892012053.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 697,
+   "file": "11-1095-697.5911bb3ef369.pmtiles",
+   "bytes": 559093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-697.5911bb3ef369.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 698,
+   "file": "11-1095-698.0f6092eeb18e.pmtiles",
+   "bytes": 195774,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-698.0f6092eeb18e.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 699,
+   "file": "11-1095-699.2504fd70ff4f.pmtiles",
+   "bytes": 66801,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1095-699.2504fd70ff4f.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 693,
+   "file": "11-1096-693.e4d2a2631dd2.pmtiles",
+   "bytes": 294350,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-693.e4d2a2631dd2.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 694,
+   "file": "11-1096-694.ac3d1382aba6.pmtiles",
+   "bytes": 861653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-694.ac3d1382aba6.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 695,
+   "file": "11-1096-695.18c6e451d113.pmtiles",
+   "bytes": 953118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-695.18c6e451d113.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 696,
+   "file": "11-1096-696.da4e96b3c42e.pmtiles",
+   "bytes": 828890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-696.da4e96b3c42e.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 697,
+   "file": "11-1096-697.6ee91ab0457c.pmtiles",
+   "bytes": 852604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-697.6ee91ab0457c.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 698,
+   "file": "11-1096-698.b86d9c307628.pmtiles",
+   "bytes": 834374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-698.b86d9c307628.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 699,
+   "file": "11-1096-699.d56f351b1139.pmtiles",
+   "bytes": 558204,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-699.d56f351b1139.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 700,
+   "file": "11-1096-700.4e50890aa803.pmtiles",
+   "bytes": 101951,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1096-700.4e50890aa803.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 693,
+   "file": "11-1097-693.d37382a36b7c.pmtiles",
+   "bytes": 329494,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-693.d37382a36b7c.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 694,
+   "file": "11-1097-694.fccb205b6fda.pmtiles",
+   "bytes": 764374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-694.fccb205b6fda.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 695,
+   "file": "11-1097-695.88730037481e.pmtiles",
+   "bytes": 742949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-695.88730037481e.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 696,
+   "file": "11-1097-696.483babe74df7.pmtiles",
+   "bytes": 780237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-696.483babe74df7.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 697,
+   "file": "11-1097-697.3180abcf84ad.pmtiles",
+   "bytes": 649942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-697.3180abcf84ad.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 698,
+   "file": "11-1097-698.80ceb8931b18.pmtiles",
+   "bytes": 825910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-698.80ceb8931b18.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 699,
+   "file": "11-1097-699.98642ae8a5eb.pmtiles",
+   "bytes": 1125740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-699.98642ae8a5eb.pmtiles"
+  },
+  {
+   "x": 1097,
+   "y": 700,
+   "file": "11-1097-700.80c5a9edab72.pmtiles",
+   "bytes": 404929,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1097-700.80c5a9edab72.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 693,
+   "file": "11-1098-693.4ddfff6a3bd7.pmtiles",
+   "bytes": 464748,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-693.4ddfff6a3bd7.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 694,
+   "file": "11-1098-694.7172583b7ff6.pmtiles",
+   "bytes": 770210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-694.7172583b7ff6.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 695,
+   "file": "11-1098-695.cd3cecf765eb.pmtiles",
+   "bytes": 637891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-695.cd3cecf765eb.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 696,
+   "file": "11-1098-696.815cf51f828f.pmtiles",
+   "bytes": 742088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-696.815cf51f828f.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 697,
+   "file": "11-1098-697.ea9832faf130.pmtiles",
+   "bytes": 750631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-697.ea9832faf130.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 698,
+   "file": "11-1098-698.3953959052f6.pmtiles",
+   "bytes": 831481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-698.3953959052f6.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 699,
+   "file": "11-1098-699.727ba1f84d6b.pmtiles",
+   "bytes": 862538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-699.727ba1f84d6b.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 700,
+   "file": "11-1098-700.e5df101a73de.pmtiles",
+   "bytes": 934669,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-700.e5df101a73de.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 701,
+   "file": "11-1098-701.2f7f4b2ebeca.pmtiles",
+   "bytes": 326344,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-701.2f7f4b2ebeca.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 702,
+   "file": "11-1098-702.23d905afdf13.pmtiles",
+   "bytes": 57933,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1098-702.23d905afdf13.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 693,
+   "file": "11-1099-693.bdd87174074f.pmtiles",
+   "bytes": 384014,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-693.bdd87174074f.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 694,
+   "file": "11-1099-694.0fcc70a7982f.pmtiles",
+   "bytes": 790660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-694.0fcc70a7982f.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 695,
+   "file": "11-1099-695.0041e104ca89.pmtiles",
+   "bytes": 765326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-695.0041e104ca89.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 696,
+   "file": "11-1099-696.4bda6b4f6f65.pmtiles",
+   "bytes": 1337979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-696.4bda6b4f6f65.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 697,
+   "file": "11-1099-697.c8a6393b6d61.pmtiles",
+   "bytes": 1149846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-697.c8a6393b6d61.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 698,
+   "file": "11-1099-698.555909a7b4b9.pmtiles",
+   "bytes": 916870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-698.555909a7b4b9.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 699,
+   "file": "11-1099-699.c098c0b33a1d.pmtiles",
+   "bytes": 1202127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-699.c098c0b33a1d.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 700,
+   "file": "11-1099-700.1d6afea0caa4.pmtiles",
+   "bytes": 1104195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-700.1d6afea0caa4.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 701,
+   "file": "11-1099-701.7879ae7f2c1d.pmtiles",
+   "bytes": 717954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-701.7879ae7f2c1d.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 702,
+   "file": "11-1099-702.8939aed73e70.pmtiles",
+   "bytes": 344299,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-702.8939aed73e70.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 703,
+   "file": "11-1099-703.351f283c52e4.pmtiles",
+   "bytes": 27153,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1099-703.351f283c52e4.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 693,
+   "file": "11-1100-693.84cfb7f6d821.pmtiles",
+   "bytes": 378519,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-693.84cfb7f6d821.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 694,
+   "file": "11-1100-694.d320824faa44.pmtiles",
+   "bytes": 780102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-694.d320824faa44.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 695,
+   "file": "11-1100-695.9ad30246487e.pmtiles",
+   "bytes": 1041152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-695.9ad30246487e.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 696,
+   "file": "11-1100-696.5132b0fe21cb.pmtiles",
+   "bytes": 2346025,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-696.5132b0fe21cb.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 697,
+   "file": "11-1100-697.c2b906e1cbd3.pmtiles",
+   "bytes": 1412776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-697.c2b906e1cbd3.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 698,
+   "file": "11-1100-698.15e74c1f5a0b.pmtiles",
+   "bytes": 820897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-698.15e74c1f5a0b.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 699,
+   "file": "11-1100-699.66ba726fcebb.pmtiles",
+   "bytes": 924116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-699.66ba726fcebb.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 700,
+   "file": "11-1100-700.f096bc2adc57.pmtiles",
+   "bytes": 1126108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-700.f096bc2adc57.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 701,
+   "file": "11-1100-701.1f8ab79fae05.pmtiles",
+   "bytes": 1446592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-701.1f8ab79fae05.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 702,
+   "file": "11-1100-702.7a67e3e824be.pmtiles",
+   "bytes": 597523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-702.7a67e3e824be.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 703,
+   "file": "11-1100-703.ee4a40df34d3.pmtiles",
+   "bytes": 258372,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1100-703.ee4a40df34d3.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 693,
+   "file": "11-1101-693.98bf8c42c80e.pmtiles",
+   "bytes": 394555,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-693.98bf8c42c80e.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 694,
+   "file": "11-1101-694.11b602920438.pmtiles",
+   "bytes": 825684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-694.11b602920438.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 695,
+   "file": "11-1101-695.96d35ca60857.pmtiles",
+   "bytes": 886387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-695.96d35ca60857.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 696,
+   "file": "11-1101-696.cdc6cc4e3331.pmtiles",
+   "bytes": 946676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-696.cdc6cc4e3331.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 697,
+   "file": "11-1101-697.60d29a2fb74e.pmtiles",
+   "bytes": 912496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-697.60d29a2fb74e.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 698,
+   "file": "11-1101-698.c4de80426d23.pmtiles",
+   "bytes": 959776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-698.c4de80426d23.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 699,
+   "file": "11-1101-699.b9a4a8ff1817.pmtiles",
+   "bytes": 1085884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-699.b9a4a8ff1817.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 700,
+   "file": "11-1101-700.076d596162fb.pmtiles",
+   "bytes": 1175629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-700.076d596162fb.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 701,
+   "file": "11-1101-701.42c16731f821.pmtiles",
+   "bytes": 1153239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-701.42c16731f821.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 702,
+   "file": "11-1101-702.832b4f623545.pmtiles",
+   "bytes": 942050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-702.832b4f623545.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 703,
+   "file": "11-1101-703.65e84277a109.pmtiles",
+   "bytes": 484941,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1101-703.65e84277a109.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 693,
+   "file": "11-1102-693.5a27651080a9.pmtiles",
+   "bytes": 441350,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-693.5a27651080a9.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 694,
+   "file": "11-1102-694.01e468c3b1cb.pmtiles",
+   "bytes": 607457,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-694.01e468c3b1cb.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 695,
+   "file": "11-1102-695.045c0073f534.pmtiles",
+   "bytes": 577562,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-695.045c0073f534.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 696,
+   "file": "11-1102-696.41f7c98e69c5.pmtiles",
+   "bytes": 601144,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-696.41f7c98e69c5.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 697,
+   "file": "11-1102-697.a482353e3ac3.pmtiles",
+   "bytes": 300564,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-697.a482353e3ac3.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 698,
+   "file": "11-1102-698.cfa39c9a723a.pmtiles",
+   "bytes": 525046,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-698.cfa39c9a723a.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 699,
+   "file": "11-1102-699.841973d37be8.pmtiles",
+   "bytes": 892653,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-699.841973d37be8.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 700,
+   "file": "11-1102-700.a458e99cdf73.pmtiles",
+   "bytes": 970280,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-700.a458e99cdf73.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 701,
+   "file": "11-1102-701.767c32ec8e11.pmtiles",
+   "bytes": 1007125,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-701.767c32ec8e11.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 702,
+   "file": "11-1102-702.400c56e4efd3.pmtiles",
+   "bytes": 1189977,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-702.400c56e4efd3.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 703,
+   "file": "11-1102-703.18dc308285af.pmtiles",
+   "bytes": 423825,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-plzensky-2026-10-03/11-1102-703.18dc308285af.pmtiles"
+  }
+ ]
+}

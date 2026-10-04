@@ -1,0 +1,749 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-vysocina",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T07:27:09.558Z",
+ "publishedAt": "2026-10-04T07:27:34.657Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-vysocina-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.88818,
+  48.93759,
+  16.4183,
+  49.86122
+ ],
+ "overview": {
+  "file": "overview.e065dd0fb43a.pmtiles",
+  "bytes": 3861793,
+  "tiles": 46,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/overview.e065dd0fb43a.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1108,
+   "y": 695,
+   "file": "11-1108-695.0dd7f16adf82.pmtiles",
+   "bytes": 155877,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-695.0dd7f16adf82.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 696,
+   "file": "11-1108-696.ac550a04a361.pmtiles",
+   "bytes": 468065,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-696.ac550a04a361.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 697,
+   "file": "11-1108-697.583fed587a1d.pmtiles",
+   "bytes": 541409,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-697.583fed587a1d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 698,
+   "file": "11-1108-698.88843cc80dd4.pmtiles",
+   "bytes": 367745,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-698.88843cc80dd4.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 699,
+   "file": "11-1108-699.61db4aa9e564.pmtiles",
+   "bytes": 414710,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-699.61db4aa9e564.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 700,
+   "file": "11-1108-700.2b578f18ce46.pmtiles",
+   "bytes": 320945,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-700.2b578f18ce46.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 701,
+   "file": "11-1108-701.324c6f8ab73b.pmtiles",
+   "bytes": 400827,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-701.324c6f8ab73b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 702,
+   "file": "11-1108-702.afa78423051f.pmtiles",
+   "bytes": 425751,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-702.afa78423051f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 703,
+   "file": "11-1108-703.88e24e602b69.pmtiles",
+   "bytes": 426905,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1108-703.88e24e602b69.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 695,
+   "file": "11-1109-695.c7b65f81312a.pmtiles",
+   "bytes": 241637,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-695.c7b65f81312a.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 696,
+   "file": "11-1109-696.8dfae62c5b07.pmtiles",
+   "bytes": 1092980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-696.8dfae62c5b07.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 697,
+   "file": "11-1109-697.854c5801f721.pmtiles",
+   "bytes": 886415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-697.854c5801f721.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 698,
+   "file": "11-1109-698.96ad83425ec3.pmtiles",
+   "bytes": 862428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-698.96ad83425ec3.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 699,
+   "file": "11-1109-699.b82068194bfb.pmtiles",
+   "bytes": 891215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-699.b82068194bfb.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 700,
+   "file": "11-1109-700.38e4267b8b05.pmtiles",
+   "bytes": 826150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-700.38e4267b8b05.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 701,
+   "file": "11-1109-701.0e4c6cc2e4a8.pmtiles",
+   "bytes": 1111823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-701.0e4c6cc2e4a8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 702,
+   "file": "11-1109-702.f134fe688bbb.pmtiles",
+   "bytes": 1284034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-702.f134fe688bbb.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 703,
+   "file": "11-1109-703.83c62c1e9c59.pmtiles",
+   "bytes": 481495,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1109-703.83c62c1e9c59.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 695,
+   "file": "11-1110-695.16bdc170c6f2.pmtiles",
+   "bytes": 260545,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-695.16bdc170c6f2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 696,
+   "file": "11-1110-696.736c8ae3aa15.pmtiles",
+   "bytes": 857283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-696.736c8ae3aa15.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 697,
+   "file": "11-1110-697.be71bc10384c.pmtiles",
+   "bytes": 977685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-697.be71bc10384c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 698,
+   "file": "11-1110-698.abed37570bd4.pmtiles",
+   "bytes": 1032654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-698.abed37570bd4.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 699,
+   "file": "11-1110-699.7107bff80556.pmtiles",
+   "bytes": 1311620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-699.7107bff80556.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 700,
+   "file": "11-1110-700.d7ac858d4d61.pmtiles",
+   "bytes": 900999,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-700.d7ac858d4d61.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 701,
+   "file": "11-1110-701.b3c6acefe8ae.pmtiles",
+   "bytes": 1158698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-701.b3c6acefe8ae.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 702,
+   "file": "11-1110-702.92d8f0cc893d.pmtiles",
+   "bytes": 946662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-702.92d8f0cc893d.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 703,
+   "file": "11-1110-703.d9984ee81985.pmtiles",
+   "bytes": 588290,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1110-703.d9984ee81985.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 695,
+   "file": "11-1111-695.1f680ca572be.pmtiles",
+   "bytes": 250243,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-695.1f680ca572be.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 696,
+   "file": "11-1111-696.2bdd8caeba31.pmtiles",
+   "bytes": 765569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-696.2bdd8caeba31.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 697,
+   "file": "11-1111-697.fa52055b8a25.pmtiles",
+   "bytes": 1176339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-697.fa52055b8a25.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 698,
+   "file": "11-1111-698.cff2a3673f65.pmtiles",
+   "bytes": 1287746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-698.cff2a3673f65.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 699,
+   "file": "11-1111-699.6fedfd91a2ab.pmtiles",
+   "bytes": 1300015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-699.6fedfd91a2ab.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 700,
+   "file": "11-1111-700.40264684bee5.pmtiles",
+   "bytes": 1116530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-700.40264684bee5.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 701,
+   "file": "11-1111-701.ef38ec425a38.pmtiles",
+   "bytes": 1177781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-701.ef38ec425a38.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 702,
+   "file": "11-1111-702.b67e8271a004.pmtiles",
+   "bytes": 1055990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-702.b67e8271a004.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 703,
+   "file": "11-1111-703.c0888de49558.pmtiles",
+   "bytes": 608562,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1111-703.c0888de49558.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 695,
+   "file": "11-1112-695.56e1fe344cf9.pmtiles",
+   "bytes": 334008,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-695.56e1fe344cf9.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 696,
+   "file": "11-1112-696.ebe6632e581a.pmtiles",
+   "bytes": 918603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-696.ebe6632e581a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 697,
+   "file": "11-1112-697.ea011c1d9c53.pmtiles",
+   "bytes": 1056852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-697.ea011c1d9c53.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 698,
+   "file": "11-1112-698.892de826b663.pmtiles",
+   "bytes": 1282616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-698.892de826b663.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 699,
+   "file": "11-1112-699.faac564d1b55.pmtiles",
+   "bytes": 1557647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-699.faac564d1b55.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 700,
+   "file": "11-1112-700.501466d93486.pmtiles",
+   "bytes": 921429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-700.501466d93486.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 701,
+   "file": "11-1112-701.b5e65124ea0d.pmtiles",
+   "bytes": 843712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-701.b5e65124ea0d.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 702,
+   "file": "11-1112-702.8b8b02ff3fa3.pmtiles",
+   "bytes": 757234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-702.8b8b02ff3fa3.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 703,
+   "file": "11-1112-703.954d3a8c254b.pmtiles",
+   "bytes": 656545,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1112-703.954d3a8c254b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 695,
+   "file": "11-1113-695.3b2761482476.pmtiles",
+   "bytes": 438725,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-695.3b2761482476.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 696,
+   "file": "11-1113-696.0d6f22f24459.pmtiles",
+   "bytes": 1071134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-696.0d6f22f24459.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 697,
+   "file": "11-1113-697.e71614ce76a2.pmtiles",
+   "bytes": 1046812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-697.e71614ce76a2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 698,
+   "file": "11-1113-698.8ddd02aae89e.pmtiles",
+   "bytes": 1059783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-698.8ddd02aae89e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 699,
+   "file": "11-1113-699.8ac53b3dc2ec.pmtiles",
+   "bytes": 898998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-699.8ac53b3dc2ec.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 700,
+   "file": "11-1113-700.359cb60697ea.pmtiles",
+   "bytes": 1190980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-700.359cb60697ea.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 701,
+   "file": "11-1113-701.c55ea078f510.pmtiles",
+   "bytes": 793724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-701.c55ea078f510.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 702,
+   "file": "11-1113-702.e39853c6f4fb.pmtiles",
+   "bytes": 694592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-702.e39853c6f4fb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 703,
+   "file": "11-1113-703.6c539ee1981f.pmtiles",
+   "bytes": 576048,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1113-703.6c539ee1981f.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 695,
+   "file": "11-1114-695.dde96a806995.pmtiles",
+   "bytes": 422083,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-695.dde96a806995.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 696,
+   "file": "11-1114-696.80c86d29920b.pmtiles",
+   "bytes": 1246271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-696.80c86d29920b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 697,
+   "file": "11-1114-697.5d07b3154b1c.pmtiles",
+   "bytes": 688433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-697.5d07b3154b1c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 698,
+   "file": "11-1114-698.6fc288c351c6.pmtiles",
+   "bytes": 1163995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-698.6fc288c351c6.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 699,
+   "file": "11-1114-699.6d5d4b0a4e17.pmtiles",
+   "bytes": 960788,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-699.6d5d4b0a4e17.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 700,
+   "file": "11-1114-700.92949464a4d6.pmtiles",
+   "bytes": 1155640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-700.92949464a4d6.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 701,
+   "file": "11-1114-701.ea2e3592dec1.pmtiles",
+   "bytes": 1367529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-701.ea2e3592dec1.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 702,
+   "file": "11-1114-702.f8d880cd06fb.pmtiles",
+   "bytes": 668953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-702.f8d880cd06fb.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 703,
+   "file": "11-1114-703.54115668d1dd.pmtiles",
+   "bytes": 566795,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1114-703.54115668d1dd.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 695,
+   "file": "11-1115-695.fb6eab86802a.pmtiles",
+   "bytes": 317937,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-695.fb6eab86802a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 696,
+   "file": "11-1115-696.ec20e814384c.pmtiles",
+   "bytes": 913764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-696.ec20e814384c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 697,
+   "file": "11-1115-697.6cf6ca73e105.pmtiles",
+   "bytes": 1067576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-697.6cf6ca73e105.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 698,
+   "file": "11-1115-698.17e65ec3b20e.pmtiles",
+   "bytes": 1145802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-698.17e65ec3b20e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 699,
+   "file": "11-1115-699.0f109b2ea054.pmtiles",
+   "bytes": 1003720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-699.0f109b2ea054.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 700,
+   "file": "11-1115-700.fe91c2473fb1.pmtiles",
+   "bytes": 1245785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-700.fe91c2473fb1.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 701,
+   "file": "11-1115-701.1b9d5cc855a7.pmtiles",
+   "bytes": 984832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-701.1b9d5cc855a7.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 702,
+   "file": "11-1115-702.7881c5dd3f6b.pmtiles",
+   "bytes": 685648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-702.7881c5dd3f6b.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 703,
+   "file": "11-1115-703.549136b620ba.pmtiles",
+   "bytes": 643620,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1115-703.549136b620ba.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 695,
+   "file": "11-1116-695.0c221ef1044a.pmtiles",
+   "bytes": 290556,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-695.0c221ef1044a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 696,
+   "file": "11-1116-696.5bcf5a08d61a.pmtiles",
+   "bytes": 758502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-696.5bcf5a08d61a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 697,
+   "file": "11-1116-697.58a7abfa37fa.pmtiles",
+   "bytes": 1177756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-697.58a7abfa37fa.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 698,
+   "file": "11-1116-698.87b00f470c8a.pmtiles",
+   "bytes": 1291560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-698.87b00f470c8a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 699,
+   "file": "11-1116-699.90e7ff1858b9.pmtiles",
+   "bytes": 1231793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-699.90e7ff1858b9.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 700,
+   "file": "11-1116-700.424bfd5d2127.pmtiles",
+   "bytes": 1043556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-700.424bfd5d2127.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 701,
+   "file": "11-1116-701.8b48a9ce8551.pmtiles",
+   "bytes": 829370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-701.8b48a9ce8551.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 702,
+   "file": "11-1116-702.ff0c49dbb910.pmtiles",
+   "bytes": 947237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-702.ff0c49dbb910.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 703,
+   "file": "11-1116-703.fc4e7f1b37ef.pmtiles",
+   "bytes": 693489,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1116-703.fc4e7f1b37ef.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 695,
+   "file": "11-1117-695.0ed9f4a7f16b.pmtiles",
+   "bytes": 101312,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-695.0ed9f4a7f16b.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 696,
+   "file": "11-1117-696.c774d0de2992.pmtiles",
+   "bytes": 332880,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-696.c774d0de2992.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 697,
+   "file": "11-1117-697.93e90f719f6b.pmtiles",
+   "bytes": 409103,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-697.93e90f719f6b.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 698,
+   "file": "11-1117-698.38a9ae890511.pmtiles",
+   "bytes": 626707,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-698.38a9ae890511.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 699,
+   "file": "11-1117-699.24ee3ae46ab1.pmtiles",
+   "bytes": 594537,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-699.24ee3ae46ab1.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 700,
+   "file": "11-1117-700.01f13ac2ad20.pmtiles",
+   "bytes": 685168,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-700.01f13ac2ad20.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 701,
+   "file": "11-1117-701.aa544c5004a8.pmtiles",
+   "bytes": 611982,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-701.aa544c5004a8.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 702,
+   "file": "11-1117-702.b017b98b562a.pmtiles",
+   "bytes": 491044,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-702.b017b98b562a.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 703,
+   "file": "11-1117-703.2009f0514e74.pmtiles",
+   "bytes": 306676,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-vysocina-2026-10-03/11-1117-703.2009f0514e74.pmtiles"
+  }
+ ]
+}

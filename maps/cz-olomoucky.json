@@ -1,0 +1,597 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-olomoucky",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T07:27:34.829Z",
+ "publishedAt": "2026-10-04T07:27:55.744Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-olomoucky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  16.71199,
+  49.26879,
+  17.91811,
+  50.44945
+ ],
+ "overview": {
+  "file": "overview.504ad9ab8ec3.pmtiles",
+  "bytes": 3348844,
+  "tiles": 50,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/overview.504ad9ab8ec3.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1119,
+   "y": 690,
+   "file": "11-1119-690.284b74dab32c.pmtiles",
+   "bytes": 41962,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-690.284b74dab32c.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 691,
+   "file": "11-1119-691.87fd6f25c67e.pmtiles",
+   "bytes": 25322,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-691.87fd6f25c67e.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 692,
+   "file": "11-1119-692.b0175798ecae.pmtiles",
+   "bytes": 101034,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-692.b0175798ecae.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 693,
+   "file": "11-1119-693.db585bbea16d.pmtiles",
+   "bytes": 752385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-693.db585bbea16d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 694,
+   "file": "11-1119-694.c270151ecccc.pmtiles",
+   "bytes": 897881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-694.c270151ecccc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 695,
+   "file": "11-1119-695.b0119e1dbdec.pmtiles",
+   "bytes": 934176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-695.b0119e1dbdec.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 696,
+   "file": "11-1119-696.381524c55525.pmtiles",
+   "bytes": 698079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-696.381524c55525.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 697,
+   "file": "11-1119-697.93ae96680399.pmtiles",
+   "bytes": 875922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-697.93ae96680399.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 698,
+   "file": "11-1119-698.08c965078fd9.pmtiles",
+   "bytes": 836970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-698.08c965078fd9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 699,
+   "file": "11-1119-699.d895eee1dccc.pmtiles",
+   "bytes": 821322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-699.d895eee1dccc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 700,
+   "file": "11-1119-700.3583758a77ac.pmtiles",
+   "bytes": 897076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1119-700.3583758a77ac.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 690,
+   "file": "11-1120-690.87465ef0c035.pmtiles",
+   "bytes": 257371,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-690.87465ef0c035.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 691,
+   "file": "11-1120-691.af0ec7df87bf.pmtiles",
+   "bytes": 504175,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-691.af0ec7df87bf.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 692,
+   "file": "11-1120-692.b7f50fd3ef4d.pmtiles",
+   "bytes": 340883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-692.b7f50fd3ef4d.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 693,
+   "file": "11-1120-693.083bc530b2b2.pmtiles",
+   "bytes": 985327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-693.083bc530b2b2.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 694,
+   "file": "11-1120-694.794f23ad2f0a.pmtiles",
+   "bytes": 1260181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-694.794f23ad2f0a.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 695,
+   "file": "11-1120-695.bbf0966a74db.pmtiles",
+   "bytes": 1128252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-695.bbf0966a74db.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 696,
+   "file": "11-1120-696.7c7403b6c097.pmtiles",
+   "bytes": 911631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-696.7c7403b6c097.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 697,
+   "file": "11-1120-697.463d8505de5b.pmtiles",
+   "bytes": 948159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-697.463d8505de5b.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 698,
+   "file": "11-1120-698.8aee086eb109.pmtiles",
+   "bytes": 906907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-698.8aee086eb109.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 699,
+   "file": "11-1120-699.d0a40289daed.pmtiles",
+   "bytes": 608125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-699.d0a40289daed.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 700,
+   "file": "11-1120-700.f814ea96995d.pmtiles",
+   "bytes": 723220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1120-700.f814ea96995d.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 690,
+   "file": "11-1121-690.efe44ae3f168.pmtiles",
+   "bytes": 29247,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-690.efe44ae3f168.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 691,
+   "file": "11-1121-691.2217c8af326c.pmtiles",
+   "bytes": 781576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-691.2217c8af326c.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 692,
+   "file": "11-1121-692.4c55a59cda20.pmtiles",
+   "bytes": 805225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-692.4c55a59cda20.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 693,
+   "file": "11-1121-693.92ea11d58342.pmtiles",
+   "bytes": 454568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-693.92ea11d58342.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 694,
+   "file": "11-1121-694.609c8b65d25f.pmtiles",
+   "bytes": 574541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-694.609c8b65d25f.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 695,
+   "file": "11-1121-695.f95e59743d1e.pmtiles",
+   "bytes": 873643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-695.f95e59743d1e.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 696,
+   "file": "11-1121-696.c0c8a3e7dfaa.pmtiles",
+   "bytes": 773613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-696.c0c8a3e7dfaa.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 697,
+   "file": "11-1121-697.96d710b13825.pmtiles",
+   "bytes": 1068927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-697.96d710b13825.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 698,
+   "file": "11-1121-698.12a420596350.pmtiles",
+   "bytes": 1121331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-698.12a420596350.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 699,
+   "file": "11-1121-699.c8ba062a78df.pmtiles",
+   "bytes": 1271579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-699.c8ba062a78df.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 700,
+   "file": "11-1121-700.94f92453bacf.pmtiles",
+   "bytes": 790793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1121-700.94f92453bacf.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 691,
+   "file": "11-1122-691.cde733d8fed2.pmtiles",
+   "bytes": 247561,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-691.cde733d8fed2.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 692,
+   "file": "11-1122-692.0cab21eceb6e.pmtiles",
+   "bytes": 640323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-692.0cab21eceb6e.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 693,
+   "file": "11-1122-693.5ceca265b88f.pmtiles",
+   "bytes": 445009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-693.5ceca265b88f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 694,
+   "file": "11-1122-694.8c4f79b54dae.pmtiles",
+   "bytes": 706840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-694.8c4f79b54dae.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 695,
+   "file": "11-1122-695.903cc3221f4c.pmtiles",
+   "bytes": 729421,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-695.903cc3221f4c.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 696,
+   "file": "11-1122-696.e94ed0401443.pmtiles",
+   "bytes": 730326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-696.e94ed0401443.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 697,
+   "file": "11-1122-697.b2d4f2bb98fa.pmtiles",
+   "bytes": 1133352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-697.b2d4f2bb98fa.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 698,
+   "file": "11-1122-698.c36889b24c3f.pmtiles",
+   "bytes": 2286356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-698.c36889b24c3f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 699,
+   "file": "11-1122-699.1a7e7c548631.pmtiles",
+   "bytes": 752969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-699.1a7e7c548631.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 700,
+   "file": "11-1122-700.c26be4360340.pmtiles",
+   "bytes": 1088831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1122-700.c26be4360340.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 692,
+   "file": "11-1123-692.11f4fb47084f.pmtiles",
+   "bytes": 651467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-692.11f4fb47084f.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 693,
+   "file": "11-1123-693.d2ccf7ca1fbf.pmtiles",
+   "bytes": 693007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-693.d2ccf7ca1fbf.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 694,
+   "file": "11-1123-694.6c6b3eabd7cc.pmtiles",
+   "bytes": 759054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-694.6c6b3eabd7cc.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 695,
+   "file": "11-1123-695.02ee6b858bd2.pmtiles",
+   "bytes": 601162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-695.02ee6b858bd2.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 696,
+   "file": "11-1123-696.15da3484a80e.pmtiles",
+   "bytes": 642953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-696.15da3484a80e.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 697,
+   "file": "11-1123-697.929156a6a221.pmtiles",
+   "bytes": 382955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-697.929156a6a221.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 698,
+   "file": "11-1123-698.9ce2310e8467.pmtiles",
+   "bytes": 946355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-698.9ce2310e8467.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 699,
+   "file": "11-1123-699.ee6e01d10f6d.pmtiles",
+   "bytes": 1254079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-699.ee6e01d10f6d.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 700,
+   "file": "11-1123-700.96657ece15ae.pmtiles",
+   "bytes": 971271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1123-700.96657ece15ae.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 691,
+   "file": "11-1124-691.ca1f1ec46a4e.pmtiles",
+   "bytes": 82876,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-691.ca1f1ec46a4e.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 692,
+   "file": "11-1124-692.3b51899fb555.pmtiles",
+   "bytes": 703561,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-692.3b51899fb555.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 693,
+   "file": "11-1124-693.fefd193450aa.pmtiles",
+   "bytes": 691012,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-693.fefd193450aa.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 694,
+   "file": "11-1124-694.bccc5a652910.pmtiles",
+   "bytes": 774079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-694.bccc5a652910.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 695,
+   "file": "11-1124-695.82195b0192bc.pmtiles",
+   "bytes": 620599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-695.82195b0192bc.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 696,
+   "file": "11-1124-696.603c25b77c65.pmtiles",
+   "bytes": 742497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-696.603c25b77c65.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 697,
+   "file": "11-1124-697.b8e3bce2a858.pmtiles",
+   "bytes": 613647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-697.b8e3bce2a858.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 698,
+   "file": "11-1124-698.680a3ac2cd36.pmtiles",
+   "bytes": 1255038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-698.680a3ac2cd36.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 699,
+   "file": "11-1124-699.c75015d9d6fd.pmtiles",
+   "bytes": 905418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-699.c75015d9d6fd.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 700,
+   "file": "11-1124-700.7f82ed827bb6.pmtiles",
+   "bytes": 970762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1124-700.7f82ed827bb6.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 692,
+   "file": "11-1125-692.fb2f0ca83f1d.pmtiles",
+   "bytes": 29766,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-692.fb2f0ca83f1d.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 693,
+   "file": "11-1125-693.f4ef3ca69110.pmtiles",
+   "bytes": 22005,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-693.f4ef3ca69110.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 694,
+   "file": "11-1125-694.dd0193fd48cd.pmtiles",
+   "bytes": 438858,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-694.dd0193fd48cd.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 695,
+   "file": "11-1125-695.f19d4a8af6ab.pmtiles",
+   "bytes": 1227263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-695.f19d4a8af6ab.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 696,
+   "file": "11-1125-696.b3b31e74d0d5.pmtiles",
+   "bytes": 667726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-696.b3b31e74d0d5.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 697,
+   "file": "11-1125-697.51cb699c3caf.pmtiles",
+   "bytes": 936111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-697.51cb699c3caf.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 698,
+   "file": "11-1125-698.be542db01956.pmtiles",
+   "bytes": 929499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-698.be542db01956.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 699,
+   "file": "11-1125-699.ba04edfdc6b3.pmtiles",
+   "bytes": 875998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-699.ba04edfdc6b3.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 700,
+   "file": "11-1125-700.6fb89cc86c51.pmtiles",
+   "bytes": 990773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-olomoucky-2026-10-03/11-1125-700.6fb89cc86c51.pmtiles"
+  }
+ ]
+}

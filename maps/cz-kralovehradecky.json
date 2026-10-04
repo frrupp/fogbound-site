@@ -1,0 +1,605 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-kralovehradecky",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T06:25:47.332Z",
+ "publishedAt": "2026-10-04T07:27:09.363Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-kralovehradecky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  15.10423,
+  50.0384,
+  16.58552,
+  50.78042
+ ],
+ "overview": {
+  "file": "overview.61316f09f508.pmtiles",
+  "bytes": 3184077,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/overview.61316f09f508.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1109,
+   "y": 687,
+   "file": "11-1109-687.778a80db9851.pmtiles",
+   "bytes": 240424,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-687.778a80db9851.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 688,
+   "file": "11-1109-688.6da060756602.pmtiles",
+   "bytes": 346710,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-688.6da060756602.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 689,
+   "file": "11-1109-689.cccf5572e59b.pmtiles",
+   "bytes": 306651,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-689.cccf5572e59b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 690,
+   "file": "11-1109-690.74f9536ae23d.pmtiles",
+   "bytes": 212167,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-690.74f9536ae23d.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 691,
+   "file": "11-1109-691.923580e4da06.pmtiles",
+   "bytes": 179429,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-691.923580e4da06.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 692,
+   "file": "11-1109-692.ca8407d60585.pmtiles",
+   "bytes": 169050,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-692.ca8407d60585.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 693,
+   "file": "11-1109-693.f985460430fa.pmtiles",
+   "bytes": 318269,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-693.f985460430fa.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 694,
+   "file": "11-1109-694.f59fe0d5f2ed.pmtiles",
+   "bytes": 89704,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1109-694.f59fe0d5f2ed.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 687,
+   "file": "11-1110-687.cabc8d4d397c.pmtiles",
+   "bytes": 801091,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-687.cabc8d4d397c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 688,
+   "file": "11-1110-688.4a7fa5f620e8.pmtiles",
+   "bytes": 2113646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-688.4a7fa5f620e8.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 689,
+   "file": "11-1110-689.6658aaab5a2f.pmtiles",
+   "bytes": 1873667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-689.6658aaab5a2f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 690,
+   "file": "11-1110-690.2959cf8a2723.pmtiles",
+   "bytes": 1054667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-690.2959cf8a2723.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 691,
+   "file": "11-1110-691.2f3e386d8b4c.pmtiles",
+   "bytes": 804172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-691.2f3e386d8b4c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 692,
+   "file": "11-1110-692.1c41be1e5cca.pmtiles",
+   "bytes": 620662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-692.1c41be1e5cca.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 693,
+   "file": "11-1110-693.16c3fa097ef2.pmtiles",
+   "bytes": 994200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-693.16c3fa097ef2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 694,
+   "file": "11-1110-694.d162ce99e718.pmtiles",
+   "bytes": 370582,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1110-694.d162ce99e718.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 687,
+   "file": "11-1111-687.8abf2992cb01.pmtiles",
+   "bytes": 660021,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-687.8abf2992cb01.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 688,
+   "file": "11-1111-688.2db730714e7f.pmtiles",
+   "bytes": 1570077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-688.2db730714e7f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 689,
+   "file": "11-1111-689.c65ea6aa68f4.pmtiles",
+   "bytes": 1563095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-689.c65ea6aa68f4.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 690,
+   "file": "11-1111-690.e048cc00ab5b.pmtiles",
+   "bytes": 1286562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-690.e048cc00ab5b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 691,
+   "file": "11-1111-691.e78905efbbf1.pmtiles",
+   "bytes": 693120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-691.e78905efbbf1.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 692,
+   "file": "11-1111-692.4af5c418ac14.pmtiles",
+   "bytes": 587646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-692.4af5c418ac14.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 693,
+   "file": "11-1111-693.1ca1cb3907d9.pmtiles",
+   "bytes": 722194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-693.1ca1cb3907d9.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 694,
+   "file": "11-1111-694.b00894f13d54.pmtiles",
+   "bytes": 302761,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1111-694.b00894f13d54.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 687,
+   "file": "11-1112-687.e447e25397c4.pmtiles",
+   "bytes": 332527,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-687.e447e25397c4.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 688,
+   "file": "11-1112-688.8aba9f805f37.pmtiles",
+   "bytes": 1204155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-688.8aba9f805f37.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 689,
+   "file": "11-1112-689.83ac2002b4d0.pmtiles",
+   "bytes": 1329398,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-689.83ac2002b4d0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 690,
+   "file": "11-1112-690.37a23f119c9f.pmtiles",
+   "bytes": 1258557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-690.37a23f119c9f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 691,
+   "file": "11-1112-691.d0a283a40d29.pmtiles",
+   "bytes": 936109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-691.d0a283a40d29.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 692,
+   "file": "11-1112-692.60f8503cafeb.pmtiles",
+   "bytes": 900369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-692.60f8503cafeb.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 693,
+   "file": "11-1112-693.0ab57d41b53b.pmtiles",
+   "bytes": 723595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-693.0ab57d41b53b.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 694,
+   "file": "11-1112-694.da06f3fe144c.pmtiles",
+   "bytes": 382773,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1112-694.da06f3fe144c.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 687,
+   "file": "11-1113-687.ef5dfa433aa6.pmtiles",
+   "bytes": 273415,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-687.ef5dfa433aa6.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 688,
+   "file": "11-1113-688.74cbe8e069e3.pmtiles",
+   "bytes": 774709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-688.74cbe8e069e3.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 689,
+   "file": "11-1113-689.bfc3a0d8cc0b.pmtiles",
+   "bytes": 1059149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-689.bfc3a0d8cc0b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 690,
+   "file": "11-1113-690.2d11dab31e86.pmtiles",
+   "bytes": 1082656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-690.2d11dab31e86.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 691,
+   "file": "11-1113-691.36f09b1c7d3b.pmtiles",
+   "bytes": 946609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-691.36f09b1c7d3b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 692,
+   "file": "11-1113-692.bf571b4a70c2.pmtiles",
+   "bytes": 1389973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-692.bf571b4a70c2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 693,
+   "file": "11-1113-693.c14b95879757.pmtiles",
+   "bytes": 1216077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-693.c14b95879757.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 694,
+   "file": "11-1113-694.87606ef9d7a5.pmtiles",
+   "bytes": 951711,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1113-694.87606ef9d7a5.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 687,
+   "file": "11-1114-687.fb3580f08a57.pmtiles",
+   "bytes": 42957,
+   "tiles": 17,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-687.fb3580f08a57.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 688,
+   "file": "11-1114-688.295251e66eb9.pmtiles",
+   "bytes": 632189,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-688.295251e66eb9.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 689,
+   "file": "11-1114-689.eb6d0ec6ae0b.pmtiles",
+   "bytes": 1277846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-689.eb6d0ec6ae0b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 690,
+   "file": "11-1114-690.409c92f36383.pmtiles",
+   "bytes": 899933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-690.409c92f36383.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 691,
+   "file": "11-1114-691.f38e7a72d885.pmtiles",
+   "bytes": 1164786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-691.f38e7a72d885.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 692,
+   "file": "11-1114-692.991125cbc4e8.pmtiles",
+   "bytes": 1648302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-692.991125cbc4e8.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 693,
+   "file": "11-1114-693.ae4879fe5176.pmtiles",
+   "bytes": 1008765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-693.ae4879fe5176.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 694,
+   "file": "11-1114-694.7bc700c0beae.pmtiles",
+   "bytes": 296900,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1114-694.7bc700c0beae.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 688,
+   "file": "11-1115-688.168697c35faa.pmtiles",
+   "bytes": 208362,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-688.168697c35faa.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 689,
+   "file": "11-1115-689.92718e09ee63.pmtiles",
+   "bytes": 1041350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-689.92718e09ee63.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 690,
+   "file": "11-1115-690.26d150696ac6.pmtiles",
+   "bytes": 1531956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-690.26d150696ac6.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 691,
+   "file": "11-1115-691.4e5b1c5fcddc.pmtiles",
+   "bytes": 1233257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-691.4e5b1c5fcddc.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 692,
+   "file": "11-1115-692.487184d05941.pmtiles",
+   "bytes": 892163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-692.487184d05941.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 693,
+   "file": "11-1115-693.7dc4b528db35.pmtiles",
+   "bytes": 890763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-693.7dc4b528db35.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 694,
+   "file": "11-1115-694.441a15cd6766.pmtiles",
+   "bytes": 245090,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1115-694.441a15cd6766.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 688,
+   "file": "11-1116-688.1909e8eb64ca.pmtiles",
+   "bytes": 303130,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-688.1909e8eb64ca.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 689,
+   "file": "11-1116-689.cb399b1b3fff.pmtiles",
+   "bytes": 1070599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-689.cb399b1b3fff.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 690,
+   "file": "11-1116-690.d3427b548b83.pmtiles",
+   "bytes": 1012783,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-690.d3427b548b83.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 691,
+   "file": "11-1116-691.7ef6987c094e.pmtiles",
+   "bytes": 1095482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-691.7ef6987c094e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 692,
+   "file": "11-1116-692.f055fb6c4f11.pmtiles",
+   "bytes": 1062021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-692.f055fb6c4f11.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 693,
+   "file": "11-1116-693.83395a783989.pmtiles",
+   "bytes": 1282505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-693.83395a783989.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 694,
+   "file": "11-1116-694.5c64aa7f7aae.pmtiles",
+   "bytes": 299958,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1116-694.5c64aa7f7aae.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 688,
+   "file": "11-1117-688.30c4664b20ef.pmtiles",
+   "bytes": 73413,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-688.30c4664b20ef.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 689,
+   "file": "11-1117-689.3e5d0a549586.pmtiles",
+   "bytes": 412096,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-689.3e5d0a549586.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 690,
+   "file": "11-1117-690.580cf9aba3c4.pmtiles",
+   "bytes": 92674,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-690.580cf9aba3c4.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 691,
+   "file": "11-1117-691.722c35fbd06b.pmtiles",
+   "bytes": 317681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-691.722c35fbd06b.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 692,
+   "file": "11-1117-692.e07277c36b21.pmtiles",
+   "bytes": 640037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-692.e07277c36b21.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 693,
+   "file": "11-1117-693.5729198d34c2.pmtiles",
+   "bytes": 1093835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-693.5729198d34c2.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 694,
+   "file": "11-1117-694.a339a3173c58.pmtiles",
+   "bytes": 362647,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1117-694.a339a3173c58.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 692,
+   "file": "11-1118-692.423a595ef59b.pmtiles",
+   "bytes": 146620,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1118-692.423a595ef59b.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 693,
+   "file": "11-1118-693.6ad19fce4c2e.pmtiles",
+   "bytes": 419705,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1118-693.6ad19fce4c2e.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 694,
+   "file": "11-1118-694.cbbdbba3dabb.pmtiles",
+   "bytes": 168922,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-kralovehradecky-2026-10-03/11-1118-694.cbbdbba3dabb.pmtiles"
+  }
+ ]
+}

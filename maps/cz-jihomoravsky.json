@@ -1,0 +1,949 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-jihomoravsky",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T07:29:02.563Z",
+ "publishedAt": "2026-10-04T07:29:34.172Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-jihomoravsky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  15.54242,
+  48.61654,
+  17.64694,
+  49.63325
+ ],
+ "overview": {
+  "file": "overview.5463d42aa914.pmtiles",
+  "bytes": 4201316,
+  "tiles": 73,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/overview.5463d42aa914.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1112,
+   "y": 697,
+   "file": "11-1112-697.1278fc0e46b5.pmtiles",
+   "bytes": 343253,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-697.1278fc0e46b5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 698,
+   "file": "11-1112-698.38e229f8a785.pmtiles",
+   "bytes": 958941,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-698.38e229f8a785.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 699,
+   "file": "11-1112-699.060b76b3cc4a.pmtiles",
+   "bytes": 1240201,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-699.060b76b3cc4a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 700,
+   "file": "11-1112-700.4b3fa16a03d3.pmtiles",
+   "bytes": 591797,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-700.4b3fa16a03d3.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 701,
+   "file": "11-1112-701.34507d51811a.pmtiles",
+   "bytes": 536441,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-701.34507d51811a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 702,
+   "file": "11-1112-702.b538c5a46744.pmtiles",
+   "bytes": 538554,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-702.b538c5a46744.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 703,
+   "file": "11-1112-703.471bad4de346.pmtiles",
+   "bytes": 530217,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-703.471bad4de346.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 704,
+   "file": "11-1112-704.45468fc8fcfb.pmtiles",
+   "bytes": 154979,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1112-704.45468fc8fcfb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 697,
+   "file": "11-1113-697.14e7fc722aee.pmtiles",
+   "bytes": 280916,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-697.14e7fc722aee.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 698,
+   "file": "11-1113-698.8ddd02aae89e.pmtiles",
+   "bytes": 1059783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-698.8ddd02aae89e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 699,
+   "file": "11-1113-699.8ac53b3dc2ec.pmtiles",
+   "bytes": 898998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-699.8ac53b3dc2ec.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 700,
+   "file": "11-1113-700.359cb60697ea.pmtiles",
+   "bytes": 1190980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-700.359cb60697ea.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 701,
+   "file": "11-1113-701.c55ea078f510.pmtiles",
+   "bytes": 793724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-701.c55ea078f510.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 702,
+   "file": "11-1113-702.e39853c6f4fb.pmtiles",
+   "bytes": 694592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-702.e39853c6f4fb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 703,
+   "file": "11-1113-703.af60ddcaa921.pmtiles",
+   "bytes": 629452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-703.af60ddcaa921.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 704,
+   "file": "11-1113-704.b836e6898bc3.pmtiles",
+   "bytes": 390389,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1113-704.b836e6898bc3.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 697,
+   "file": "11-1114-697.58c3dd66ad72.pmtiles",
+   "bytes": 227822,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-697.58c3dd66ad72.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 698,
+   "file": "11-1114-698.6fc288c351c6.pmtiles",
+   "bytes": 1163995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-698.6fc288c351c6.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 699,
+   "file": "11-1114-699.6d5d4b0a4e17.pmtiles",
+   "bytes": 960788,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-699.6d5d4b0a4e17.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 700,
+   "file": "11-1114-700.92949464a4d6.pmtiles",
+   "bytes": 1155640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-700.92949464a4d6.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 701,
+   "file": "11-1114-701.ea2e3592dec1.pmtiles",
+   "bytes": 1367529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-701.ea2e3592dec1.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 702,
+   "file": "11-1114-702.f8d880cd06fb.pmtiles",
+   "bytes": 668953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-702.f8d880cd06fb.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 703,
+   "file": "11-1114-703.1daf2031dfc1.pmtiles",
+   "bytes": 617204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-703.1daf2031dfc1.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 704,
+   "file": "11-1114-704.3912dad3850f.pmtiles",
+   "bytes": 609626,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-704.3912dad3850f.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 705,
+   "file": "11-1114-705.86733fd3cf3c.pmtiles",
+   "bytes": 99690,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1114-705.86733fd3cf3c.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 697,
+   "file": "11-1115-697.625e2a52b82a.pmtiles",
+   "bytes": 342619,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-697.625e2a52b82a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 698,
+   "file": "11-1115-698.17e65ec3b20e.pmtiles",
+   "bytes": 1145802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-698.17e65ec3b20e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 699,
+   "file": "11-1115-699.0f109b2ea054.pmtiles",
+   "bytes": 1003720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-699.0f109b2ea054.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 700,
+   "file": "11-1115-700.fe91c2473fb1.pmtiles",
+   "bytes": 1245785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-700.fe91c2473fb1.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 701,
+   "file": "11-1115-701.1b9d5cc855a7.pmtiles",
+   "bytes": 984832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-701.1b9d5cc855a7.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 702,
+   "file": "11-1115-702.7881c5dd3f6b.pmtiles",
+   "bytes": 685648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-702.7881c5dd3f6b.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 703,
+   "file": "11-1115-703.5995bd2ccd10.pmtiles",
+   "bytes": 717547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-703.5995bd2ccd10.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 704,
+   "file": "11-1115-704.75d7ab35fcb3.pmtiles",
+   "bytes": 1235154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-704.75d7ab35fcb3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 705,
+   "file": "11-1115-705.1e3a3a3a080d.pmtiles",
+   "bytes": 345767,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1115-705.1e3a3a3a080d.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 697,
+   "file": "11-1116-697.c9c924cd2809.pmtiles",
+   "bytes": 393017,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-697.c9c924cd2809.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 698,
+   "file": "11-1116-698.87b00f470c8a.pmtiles",
+   "bytes": 1291560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-698.87b00f470c8a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 699,
+   "file": "11-1116-699.90e7ff1858b9.pmtiles",
+   "bytes": 1231793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-699.90e7ff1858b9.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 700,
+   "file": "11-1116-700.424bfd5d2127.pmtiles",
+   "bytes": 1043556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-700.424bfd5d2127.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 701,
+   "file": "11-1116-701.8b48a9ce8551.pmtiles",
+   "bytes": 829370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-701.8b48a9ce8551.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 702,
+   "file": "11-1116-702.ff0c49dbb910.pmtiles",
+   "bytes": 947237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-702.ff0c49dbb910.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 703,
+   "file": "11-1116-703.af72a3d552ed.pmtiles",
+   "bytes": 725418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-703.af72a3d552ed.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 704,
+   "file": "11-1116-704.8621d0e9eefc.pmtiles",
+   "bytes": 525018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-704.8621d0e9eefc.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 705,
+   "file": "11-1116-705.2899069bec24.pmtiles",
+   "bytes": 400583,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1116-705.2899069bec24.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 697,
+   "file": "11-1117-697.9bc3d1d750fc.pmtiles",
+   "bytes": 314811,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-697.9bc3d1d750fc.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 698,
+   "file": "11-1117-698.c5525921e741.pmtiles",
+   "bytes": 1169199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-698.c5525921e741.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 699,
+   "file": "11-1117-699.e8550729f9cc.pmtiles",
+   "bytes": 995732,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-699.e8550729f9cc.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 700,
+   "file": "11-1117-700.4b8d52eec354.pmtiles",
+   "bytes": 1256990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-700.4b8d52eec354.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 701,
+   "file": "11-1117-701.3f2856962f52.pmtiles",
+   "bytes": 1391183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-701.3f2856962f52.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 702,
+   "file": "11-1117-702.da30acfa77d0.pmtiles",
+   "bytes": 1042099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-702.da30acfa77d0.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 703,
+   "file": "11-1117-703.522b66c68998.pmtiles",
+   "bytes": 646016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-703.522b66c68998.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 704,
+   "file": "11-1117-704.3bb53696f48b.pmtiles",
+   "bytes": 596036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-704.3bb53696f48b.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 705,
+   "file": "11-1117-705.d847610ed115.pmtiles",
+   "bytes": 296593,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1117-705.d847610ed115.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 697,
+   "file": "11-1118-697.0957cac6099a.pmtiles",
+   "bytes": 321261,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-697.0957cac6099a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 698,
+   "file": "11-1118-698.620d3299d901.pmtiles",
+   "bytes": 1074607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-698.620d3299d901.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 699,
+   "file": "11-1118-699.fc10a8515881.pmtiles",
+   "bytes": 1175663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-699.fc10a8515881.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 700,
+   "file": "11-1118-700.38568725c12a.pmtiles",
+   "bytes": 1352603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-700.38568725c12a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 701,
+   "file": "11-1118-701.16189bee050b.pmtiles",
+   "bytes": 4750341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-701.16189bee050b.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 702,
+   "file": "11-1118-702.fb4f8631d957.pmtiles",
+   "bytes": 1372792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-702.fb4f8631d957.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 703,
+   "file": "11-1118-703.c7d62aaf4f65.pmtiles",
+   "bytes": 875955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-703.c7d62aaf4f65.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 704,
+   "file": "11-1118-704.0d2a892fede1.pmtiles",
+   "bytes": 861270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-704.0d2a892fede1.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 705,
+   "file": "11-1118-705.9dbb85b80549.pmtiles",
+   "bytes": 255676,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1118-705.9dbb85b80549.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 697,
+   "file": "11-1119-697.a2a24814592e.pmtiles",
+   "bytes": 312429,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-697.a2a24814592e.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 698,
+   "file": "11-1119-698.08c965078fd9.pmtiles",
+   "bytes": 836970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-698.08c965078fd9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 699,
+   "file": "11-1119-699.d895eee1dccc.pmtiles",
+   "bytes": 821322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-699.d895eee1dccc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 700,
+   "file": "11-1119-700.3583758a77ac.pmtiles",
+   "bytes": 897076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-700.3583758a77ac.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 701,
+   "file": "11-1119-701.4b5800953640.pmtiles",
+   "bytes": 1219934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-701.4b5800953640.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 702,
+   "file": "11-1119-702.7868410b2ddd.pmtiles",
+   "bytes": 940595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-702.7868410b2ddd.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 703,
+   "file": "11-1119-703.0efe1606d3d0.pmtiles",
+   "bytes": 864893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-703.0efe1606d3d0.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 704,
+   "file": "11-1119-704.05204254b295.pmtiles",
+   "bytes": 853598,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-704.05204254b295.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 705,
+   "file": "11-1119-705.2701a06c0a23.pmtiles",
+   "bytes": 720636,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1119-705.2701a06c0a23.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 697,
+   "file": "11-1120-697.acd8340a543e.pmtiles",
+   "bytes": 275050,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-697.acd8340a543e.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 698,
+   "file": "11-1120-698.8aee086eb109.pmtiles",
+   "bytes": 906907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-698.8aee086eb109.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 699,
+   "file": "11-1120-699.d0a40289daed.pmtiles",
+   "bytes": 608125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-699.d0a40289daed.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 700,
+   "file": "11-1120-700.f814ea96995d.pmtiles",
+   "bytes": 723220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-700.f814ea96995d.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 701,
+   "file": "11-1120-701.85ca8667fd31.pmtiles",
+   "bytes": 853202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-701.85ca8667fd31.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 702,
+   "file": "11-1120-702.ed2ba222e716.pmtiles",
+   "bytes": 815836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-702.ed2ba222e716.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 703,
+   "file": "11-1120-703.279a14ace184.pmtiles",
+   "bytes": 846336,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-703.279a14ace184.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 704,
+   "file": "11-1120-704.c307db51591f.pmtiles",
+   "bytes": 942587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-704.c307db51591f.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 705,
+   "file": "11-1120-705.93203dfcfb2e.pmtiles",
+   "bytes": 964686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-705.93203dfcfb2e.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 706,
+   "file": "11-1120-706.d3fdb8813a41.pmtiles",
+   "bytes": 256167,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1120-706.d3fdb8813a41.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 697,
+   "file": "11-1121-697.af38eb475783.pmtiles",
+   "bytes": 308071,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-697.af38eb475783.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 698,
+   "file": "11-1121-698.12a420596350.pmtiles",
+   "bytes": 1121331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-698.12a420596350.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 699,
+   "file": "11-1121-699.c8ba062a78df.pmtiles",
+   "bytes": 1271579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-699.c8ba062a78df.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 700,
+   "file": "11-1121-700.94f92453bacf.pmtiles",
+   "bytes": 790793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-700.94f92453bacf.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 701,
+   "file": "11-1121-701.28194502383a.pmtiles",
+   "bytes": 642457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-701.28194502383a.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 702,
+   "file": "11-1121-702.a149d9c4c36f.pmtiles",
+   "bytes": 745713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-702.a149d9c4c36f.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 703,
+   "file": "11-1121-703.a4a903d884d2.pmtiles",
+   "bytes": 1037344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-703.a4a903d884d2.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 704,
+   "file": "11-1121-704.018c9a201f20.pmtiles",
+   "bytes": 924382,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-704.018c9a201f20.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 705,
+   "file": "11-1121-705.fb48db863d22.pmtiles",
+   "bytes": 157168,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1121-705.fb48db863d22.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 697,
+   "file": "11-1122-697.193bcb5f028e.pmtiles",
+   "bytes": 502344,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-697.193bcb5f028e.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 698,
+   "file": "11-1122-698.c36889b24c3f.pmtiles",
+   "bytes": 2286356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-698.c36889b24c3f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 699,
+   "file": "11-1122-699.1a7e7c548631.pmtiles",
+   "bytes": 752969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-699.1a7e7c548631.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 700,
+   "file": "11-1122-700.c26be4360340.pmtiles",
+   "bytes": 1088831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-700.c26be4360340.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 701,
+   "file": "11-1122-701.1239e6c39371.pmtiles",
+   "bytes": 712836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-701.1239e6c39371.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 702,
+   "file": "11-1122-702.0e46c1fd9274.pmtiles",
+   "bytes": 869329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-702.0e46c1fd9274.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 703,
+   "file": "11-1122-703.72cdefb990a8.pmtiles",
+   "bytes": 1117948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-703.72cdefb990a8.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 704,
+   "file": "11-1122-704.0799c236585c.pmtiles",
+   "bytes": 697331,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-704.0799c236585c.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 705,
+   "file": "11-1122-705.e7e91bbc9125.pmtiles",
+   "bytes": 34719,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1122-705.e7e91bbc9125.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 697,
+   "file": "11-1123-697.307cbfab76b3.pmtiles",
+   "bytes": 122410,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-697.307cbfab76b3.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 698,
+   "file": "11-1123-698.9ce2310e8467.pmtiles",
+   "bytes": 946355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-698.9ce2310e8467.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 699,
+   "file": "11-1123-699.ee6e01d10f6d.pmtiles",
+   "bytes": 1254079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-699.ee6e01d10f6d.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 700,
+   "file": "11-1123-700.96657ece15ae.pmtiles",
+   "bytes": 971271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-700.96657ece15ae.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 701,
+   "file": "11-1123-701.7240a83175b7.pmtiles",
+   "bytes": 1290966,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-701.7240a83175b7.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 702,
+   "file": "11-1123-702.3b92c3161354.pmtiles",
+   "bytes": 1880454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-702.3b92c3161354.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 703,
+   "file": "11-1123-703.70c44eed2b6d.pmtiles",
+   "bytes": 833807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-703.70c44eed2b6d.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 704,
+   "file": "11-1123-704.6bcd14ead160.pmtiles",
+   "bytes": 885015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-704.6bcd14ead160.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 705,
+   "file": "11-1123-705.58a06f8f1860.pmtiles",
+   "bytes": 36078,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1123-705.58a06f8f1860.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 697,
+   "file": "11-1124-697.33109efc3eec.pmtiles",
+   "bytes": 110582,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-697.33109efc3eec.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 698,
+   "file": "11-1124-698.9305239b87e7.pmtiles",
+   "bytes": 662503,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-698.9305239b87e7.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 699,
+   "file": "11-1124-699.f47e13811943.pmtiles",
+   "bytes": 450926,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-699.f47e13811943.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 700,
+   "file": "11-1124-700.fccfa01b788a.pmtiles",
+   "bytes": 520271,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-700.fccfa01b788a.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 701,
+   "file": "11-1124-701.ed98f2538b73.pmtiles",
+   "bytes": 782264,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-701.ed98f2538b73.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 702,
+   "file": "11-1124-702.4447cf5af201.pmtiles",
+   "bytes": 472713,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-702.4447cf5af201.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 703,
+   "file": "11-1124-703.a1de6b59e2ac.pmtiles",
+   "bytes": 601162,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-703.a1de6b59e2ac.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 704,
+   "file": "11-1124-704.67a73de71842.pmtiles",
+   "bytes": 277070,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-jihomoravsky-2026-10-03/11-1124-704.67a73de71842.pmtiles"
+  }
+ ]
+}

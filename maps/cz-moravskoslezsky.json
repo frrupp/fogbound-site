@@ -1,0 +1,597 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cz-moravskoslezsky",
+ "source": "cz.pmtiles",
+ "builtAt": "2026-10-04T07:27:55.922Z",
+ "publishedAt": "2026-10-04T07:28:16.970Z",
+ "host": "github",
+ "releases": [
+  "maps-cz-moravskoslezsky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  17.14653,
+  49.39259,
+  18.85925,
+  50.32798
+ ],
+ "overview": {
+  "file": "overview.8ee0fb63e1cf.pmtiles",
+  "bytes": 2305419,
+  "tiles": 49,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/overview.8ee0fb63e1cf.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1121,
+   "y": 691,
+   "file": "11-1121-691.268c7a954ba8.pmtiles",
+   "bytes": 189435,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-691.268c7a954ba8.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 692,
+   "file": "11-1121-692.0c0ca3641cd9.pmtiles",
+   "bytes": 507089,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-692.0c0ca3641cd9.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 693,
+   "file": "11-1121-693.e94b055ebe02.pmtiles",
+   "bytes": 221636,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-693.e94b055ebe02.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 694,
+   "file": "11-1121-694.4d2afc15e5e7.pmtiles",
+   "bytes": 199002,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-694.4d2afc15e5e7.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 695,
+   "file": "11-1121-695.6978f3c4fa84.pmtiles",
+   "bytes": 447994,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-695.6978f3c4fa84.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 696,
+   "file": "11-1121-696.70cebcef1be9.pmtiles",
+   "bytes": 334262,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-696.70cebcef1be9.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 697,
+   "file": "11-1121-697.9def8f6188d7.pmtiles",
+   "bytes": 575948,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-697.9def8f6188d7.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 698,
+   "file": "11-1121-698.6bcd83999483.pmtiles",
+   "bytes": 620176,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-698.6bcd83999483.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 699,
+   "file": "11-1121-699.d345d9e2ee7b.pmtiles",
+   "bytes": 428363,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1121-699.d345d9e2ee7b.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 691,
+   "file": "11-1122-691.8140a83fe95b.pmtiles",
+   "bytes": 225395,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-691.8140a83fe95b.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 692,
+   "file": "11-1122-692.0cab21eceb6e.pmtiles",
+   "bytes": 640323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-692.0cab21eceb6e.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 693,
+   "file": "11-1122-693.5ceca265b88f.pmtiles",
+   "bytes": 445009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-693.5ceca265b88f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 694,
+   "file": "11-1122-694.8c4f79b54dae.pmtiles",
+   "bytes": 706840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-694.8c4f79b54dae.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 695,
+   "file": "11-1122-695.903cc3221f4c.pmtiles",
+   "bytes": 729421,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-695.903cc3221f4c.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 696,
+   "file": "11-1122-696.e94ed0401443.pmtiles",
+   "bytes": 730326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-696.e94ed0401443.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 697,
+   "file": "11-1122-697.b2d4f2bb98fa.pmtiles",
+   "bytes": 1133352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-697.b2d4f2bb98fa.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 698,
+   "file": "11-1122-698.c36889b24c3f.pmtiles",
+   "bytes": 2286356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-698.c36889b24c3f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 699,
+   "file": "11-1122-699.1a7e7c548631.pmtiles",
+   "bytes": 752969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1122-699.1a7e7c548631.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 692,
+   "file": "11-1123-692.11f4fb47084f.pmtiles",
+   "bytes": 651467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-692.11f4fb47084f.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 693,
+   "file": "11-1123-693.d2ccf7ca1fbf.pmtiles",
+   "bytes": 693007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-693.d2ccf7ca1fbf.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 694,
+   "file": "11-1123-694.6c6b3eabd7cc.pmtiles",
+   "bytes": 759054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-694.6c6b3eabd7cc.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 695,
+   "file": "11-1123-695.02ee6b858bd2.pmtiles",
+   "bytes": 601162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-695.02ee6b858bd2.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 696,
+   "file": "11-1123-696.15da3484a80e.pmtiles",
+   "bytes": 642953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-696.15da3484a80e.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 697,
+   "file": "11-1123-697.929156a6a221.pmtiles",
+   "bytes": 382955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-697.929156a6a221.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 698,
+   "file": "11-1123-698.9ce2310e8467.pmtiles",
+   "bytes": 946355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-698.9ce2310e8467.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 699,
+   "file": "11-1123-699.ee6e01d10f6d.pmtiles",
+   "bytes": 1254079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1123-699.ee6e01d10f6d.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 691,
+   "file": "11-1124-691.7c8845d24086.pmtiles",
+   "bytes": 82094,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-691.7c8845d24086.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 692,
+   "file": "11-1124-692.3b51899fb555.pmtiles",
+   "bytes": 703561,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-692.3b51899fb555.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 693,
+   "file": "11-1124-693.fefd193450aa.pmtiles",
+   "bytes": 691012,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-693.fefd193450aa.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 694,
+   "file": "11-1124-694.bccc5a652910.pmtiles",
+   "bytes": 774079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-694.bccc5a652910.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 695,
+   "file": "11-1124-695.82195b0192bc.pmtiles",
+   "bytes": 620599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-695.82195b0192bc.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 696,
+   "file": "11-1124-696.603c25b77c65.pmtiles",
+   "bytes": 742497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-696.603c25b77c65.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 697,
+   "file": "11-1124-697.b8e3bce2a858.pmtiles",
+   "bytes": 613647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-697.b8e3bce2a858.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 698,
+   "file": "11-1124-698.680a3ac2cd36.pmtiles",
+   "bytes": 1255038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-698.680a3ac2cd36.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 699,
+   "file": "11-1124-699.c75015d9d6fd.pmtiles",
+   "bytes": 905418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1124-699.c75015d9d6fd.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 692,
+   "file": "11-1125-692.fb2f0ca83f1d.pmtiles",
+   "bytes": 29766,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-692.fb2f0ca83f1d.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 693,
+   "file": "11-1125-693.f4ef3ca69110.pmtiles",
+   "bytes": 22005,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-693.f4ef3ca69110.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 694,
+   "file": "11-1125-694.dd0193fd48cd.pmtiles",
+   "bytes": 438858,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-694.dd0193fd48cd.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 695,
+   "file": "11-1125-695.f19d4a8af6ab.pmtiles",
+   "bytes": 1227263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-695.f19d4a8af6ab.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 696,
+   "file": "11-1125-696.b3b31e74d0d5.pmtiles",
+   "bytes": 667726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-696.b3b31e74d0d5.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 697,
+   "file": "11-1125-697.51cb699c3caf.pmtiles",
+   "bytes": 936111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-697.51cb699c3caf.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 698,
+   "file": "11-1125-698.be542db01956.pmtiles",
+   "bytes": 929499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-698.be542db01956.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 699,
+   "file": "11-1125-699.ba04edfdc6b3.pmtiles",
+   "bytes": 875998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1125-699.ba04edfdc6b3.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 694,
+   "file": "11-1126-694.43c2a9039d9e.pmtiles",
+   "bytes": 514034,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-694.43c2a9039d9e.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 695,
+   "file": "11-1126-695.3e301b03f9b5.pmtiles",
+   "bytes": 1132243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-695.3e301b03f9b5.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 696,
+   "file": "11-1126-696.cbdba451cc12.pmtiles",
+   "bytes": 973520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-696.cbdba451cc12.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 697,
+   "file": "11-1126-697.67d3f7853a6f.pmtiles",
+   "bytes": 1216226,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-697.67d3f7853a6f.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 698,
+   "file": "11-1126-698.0166d3ae4dab.pmtiles",
+   "bytes": 1411166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-698.0166d3ae4dab.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 699,
+   "file": "11-1126-699.2e88dbfd7e40.pmtiles",
+   "bytes": 1659351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1126-699.2e88dbfd7e40.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 694,
+   "file": "11-1127-694.cc125b571e46.pmtiles",
+   "bytes": 264850,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-694.cc125b571e46.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 695,
+   "file": "11-1127-695.69156c0f3dc3.pmtiles",
+   "bytes": 1679564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-695.69156c0f3dc3.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 696,
+   "file": "11-1127-696.71bbd569290b.pmtiles",
+   "bytes": 2320386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-696.71bbd569290b.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 697,
+   "file": "11-1127-697.e8bf481896e5.pmtiles",
+   "bytes": 1493083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-697.e8bf481896e5.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 698,
+   "file": "11-1127-698.af6effea6626.pmtiles",
+   "bytes": 1954647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-698.af6effea6626.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 699,
+   "file": "11-1127-699.575355cddcbd.pmtiles",
+   "bytes": 1488565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1127-699.575355cddcbd.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 695,
+   "file": "11-1128-695.330c881d468f.pmtiles",
+   "bytes": 1867826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1128-695.330c881d468f.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 696,
+   "file": "11-1128-696.7b712e279b6f.pmtiles",
+   "bytes": 2257195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1128-696.7b712e279b6f.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 697,
+   "file": "11-1128-697.a26651a7afe0.pmtiles",
+   "bytes": 2144214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1128-697.a26651a7afe0.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 698,
+   "file": "11-1128-698.4ee534a2107a.pmtiles",
+   "bytes": 1343328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1128-698.4ee534a2107a.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 699,
+   "file": "11-1128-699.4d87308ab0f6.pmtiles",
+   "bytes": 629570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1128-699.4d87308ab0f6.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 695,
+   "file": "11-1129-695.b01d641d307b.pmtiles",
+   "bytes": 939993,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1129-695.b01d641d307b.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 696,
+   "file": "11-1129-696.89f1603969a4.pmtiles",
+   "bytes": 1702988,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1129-696.89f1603969a4.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 697,
+   "file": "11-1129-697.5618933a896d.pmtiles",
+   "bytes": 1521103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1129-697.5618933a896d.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 698,
+   "file": "11-1129-698.a5051c1dd704.pmtiles",
+   "bytes": 595181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1129-698.a5051c1dd704.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 699,
+   "file": "11-1129-699.f4e22a448b77.pmtiles",
+   "bytes": 350158,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1129-699.f4e22a448b77.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 696,
+   "file": "11-1130-696.cd57cb5f441c.pmtiles",
+   "bytes": 44329,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1130-696.cd57cb5f441c.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 697,
+   "file": "11-1130-697.86aff2d574c6.pmtiles",
+   "bytes": 1477942,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1130-697.86aff2d574c6.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 698,
+   "file": "11-1130-698.ad933cb6df5c.pmtiles",
+   "bytes": 1069998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1130-698.ad933cb6df5c.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 699,
+   "file": "11-1130-699.6019d644b736.pmtiles",
+   "bytes": 78489,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1130-699.6019d644b736.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 697,
+   "file": "11-1131-697.a886c4405f1d.pmtiles",
+   "bytes": 80085,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1131-697.a886c4405f1d.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 698,
+   "file": "11-1131-698.8fc01246ce2e.pmtiles",
+   "bytes": 238692,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cz-moravskoslezsky-2026-10-03/11-1131-698.8fc01246ce2e.pmtiles"
+  }
+ ]
+}
