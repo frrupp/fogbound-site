@@ -1,0 +1,981 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-cordoba",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T22:04:21.474Z",
+ "publishedAt": "2026-10-04T22:04:52.754Z",
+ "host": "github",
+ "releases": [
+  "maps-es-cordoba-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -5.58592,
+  37.18433,
+  -4.00082,
+  38.72909
+ ],
+ "overview": {
+  "file": "overview.22cdd0082e99.pmtiles",
+  "bytes": 1042811,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/overview.22cdd0082e99.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 992,
+   "y": 784,
+   "file": "11-992-784.bb34e054ab1f.pmtiles",
+   "bytes": 91588,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-784.bb34e054ab1f.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 785,
+   "file": "11-992-785.25090c1e6b07.pmtiles",
+   "bytes": 135388,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-785.25090c1e6b07.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 786,
+   "file": "11-992-786.c4e59980b8ab.pmtiles",
+   "bytes": 77721,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-786.c4e59980b8ab.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 787,
+   "file": "11-992-787.4d96479d66fe.pmtiles",
+   "bytes": 72184,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-787.4d96479d66fe.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 788,
+   "file": "11-992-788.994c6f2a2637.pmtiles",
+   "bytes": 66611,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-788.994c6f2a2637.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 789,
+   "file": "11-992-789.d41e355fae37.pmtiles",
+   "bytes": 33800,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-789.d41e355fae37.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 790,
+   "file": "11-992-790.597c2e14d4c5.pmtiles",
+   "bytes": 79779,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-790.597c2e14d4c5.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 791,
+   "file": "11-992-791.bfbed9a4d379.pmtiles",
+   "bytes": 67059,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-791.bfbed9a4d379.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 792,
+   "file": "11-992-792.c58eab239f06.pmtiles",
+   "bytes": 184259,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-792.c58eab239f06.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 793,
+   "file": "11-992-793.921b63ee07e2.pmtiles",
+   "bytes": 72395,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-793.921b63ee07e2.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 794,
+   "file": "11-992-794.a832a53a5d98.pmtiles",
+   "bytes": 50773,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-794.a832a53a5d98.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 795,
+   "file": "11-992-795.da64e4228c5a.pmtiles",
+   "bytes": 211357,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-992-795.da64e4228c5a.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 784,
+   "file": "11-993-784.1ade2bc69fd9.pmtiles",
+   "bytes": 28110,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-784.1ade2bc69fd9.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 785,
+   "file": "11-993-785.88b2bed17f55.pmtiles",
+   "bytes": 120193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-785.88b2bed17f55.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 786,
+   "file": "11-993-786.4f4f806489b3.pmtiles",
+   "bytes": 67343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-786.4f4f806489b3.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 787,
+   "file": "11-993-787.628547bb2d30.pmtiles",
+   "bytes": 125636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-787.628547bb2d30.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 788,
+   "file": "11-993-788.68f7468a79fb.pmtiles",
+   "bytes": 97694,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-788.68f7468a79fb.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 789,
+   "file": "11-993-789.748f0abe43ff.pmtiles",
+   "bytes": 58731,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-789.748f0abe43ff.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 790,
+   "file": "11-993-790.7504768f5f8a.pmtiles",
+   "bytes": 67734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-790.7504768f5f8a.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 791,
+   "file": "11-993-791.ad2b642516e7.pmtiles",
+   "bytes": 116764,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-791.ad2b642516e7.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 792,
+   "file": "11-993-792.8dcc1e612a16.pmtiles",
+   "bytes": 173377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-792.8dcc1e612a16.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 793,
+   "file": "11-993-793.7d8e8ad8aff6.pmtiles",
+   "bytes": 230603,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-793.7d8e8ad8aff6.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 794,
+   "file": "11-993-794.57405c076aed.pmtiles",
+   "bytes": 131461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-794.57405c076aed.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 795,
+   "file": "11-993-795.29549e6f2f43.pmtiles",
+   "bytes": 126771,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-993-795.29549e6f2f43.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 784,
+   "file": "11-994-784.77a8d3ba3b74.pmtiles",
+   "bytes": 94554,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-784.77a8d3ba3b74.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 785,
+   "file": "11-994-785.e92f8fbd85d6.pmtiles",
+   "bytes": 90322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-785.e92f8fbd85d6.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 786,
+   "file": "11-994-786.971a0fea5e50.pmtiles",
+   "bytes": 343636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-786.971a0fea5e50.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 787,
+   "file": "11-994-787.94d6f091a7c2.pmtiles",
+   "bytes": 104769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-787.94d6f091a7c2.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 788,
+   "file": "11-994-788.1a1b15e26d1d.pmtiles",
+   "bytes": 89351,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-788.1a1b15e26d1d.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 789,
+   "file": "11-994-789.7b23c2ebdc9e.pmtiles",
+   "bytes": 41786,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-789.7b23c2ebdc9e.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 790,
+   "file": "11-994-790.580ae949dbf5.pmtiles",
+   "bytes": 64558,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-790.580ae949dbf5.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 791,
+   "file": "11-994-791.19e4c5187b71.pmtiles",
+   "bytes": 180388,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-791.19e4c5187b71.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 792,
+   "file": "11-994-792.8cabf6a8d2ff.pmtiles",
+   "bytes": 147069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-792.8cabf6a8d2ff.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 793,
+   "file": "11-994-793.f92d5132fd27.pmtiles",
+   "bytes": 119642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-793.f92d5132fd27.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 794,
+   "file": "11-994-794.89b90697ed65.pmtiles",
+   "bytes": 84256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-794.89b90697ed65.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 795,
+   "file": "11-994-795.e54f4d83036a.pmtiles",
+   "bytes": 117688,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-994-795.e54f4d83036a.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 784,
+   "file": "11-995-784.52d8ffc2c418.pmtiles",
+   "bytes": 31081,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-784.52d8ffc2c418.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 785,
+   "file": "11-995-785.058929de3b9a.pmtiles",
+   "bytes": 40405,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-785.058929de3b9a.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 786,
+   "file": "11-995-786.99f310a62429.pmtiles",
+   "bytes": 110272,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-786.99f310a62429.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 787,
+   "file": "11-995-787.e686c0b0d430.pmtiles",
+   "bytes": 100541,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-787.e686c0b0d430.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 788,
+   "file": "11-995-788.e4b6b5279866.pmtiles",
+   "bytes": 89791,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-788.e4b6b5279866.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 789,
+   "file": "11-995-789.4c48482466fa.pmtiles",
+   "bytes": 90525,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-789.4c48482466fa.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 790,
+   "file": "11-995-790.a88d536ed0df.pmtiles",
+   "bytes": 83363,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-790.a88d536ed0df.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 791,
+   "file": "11-995-791.6f059f0a3b1a.pmtiles",
+   "bytes": 220753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-791.6f059f0a3b1a.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 792,
+   "file": "11-995-792.67fb4d78d82f.pmtiles",
+   "bytes": 173165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-792.67fb4d78d82f.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 793,
+   "file": "11-995-793.1934b1611d7b.pmtiles",
+   "bytes": 213125,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-793.1934b1611d7b.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 794,
+   "file": "11-995-794.c2b3be67d5e0.pmtiles",
+   "bytes": 113837,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-794.c2b3be67d5e0.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 795,
+   "file": "11-995-795.b39e49f12d05.pmtiles",
+   "bytes": 123337,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-995-795.b39e49f12d05.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 784,
+   "file": "11-996-784.93ebc48141a2.pmtiles",
+   "bytes": 31301,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-784.93ebc48141a2.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 785,
+   "file": "11-996-785.904de1dcb551.pmtiles",
+   "bytes": 73634,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-785.904de1dcb551.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 786,
+   "file": "11-996-786.a34202b29905.pmtiles",
+   "bytes": 199509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-786.a34202b29905.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 787,
+   "file": "11-996-787.1da6c96472de.pmtiles",
+   "bytes": 139061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-787.1da6c96472de.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 788,
+   "file": "11-996-788.70af2f92aeb1.pmtiles",
+   "bytes": 88233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-788.70af2f92aeb1.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 789,
+   "file": "11-996-789.1403735779c9.pmtiles",
+   "bytes": 133845,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-789.1403735779c9.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 790,
+   "file": "11-996-790.b9316e6b2c5c.pmtiles",
+   "bytes": 1620085,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-790.b9316e6b2c5c.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 791,
+   "file": "11-996-791.3c6286ea365d.pmtiles",
+   "bytes": 218002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-791.3c6286ea365d.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 792,
+   "file": "11-996-792.73628834cbab.pmtiles",
+   "bytes": 194182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-792.73628834cbab.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 793,
+   "file": "11-996-793.3b3ee973fcea.pmtiles",
+   "bytes": 127330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-793.3b3ee973fcea.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 794,
+   "file": "11-996-794.967d5dc7cc95.pmtiles",
+   "bytes": 245491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-794.967d5dc7cc95.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 795,
+   "file": "11-996-795.08c177c3055b.pmtiles",
+   "bytes": 272660,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-996-795.08c177c3055b.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 784,
+   "file": "11-997-784.5fea38a86b9a.pmtiles",
+   "bytes": 28398,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-784.5fea38a86b9a.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 785,
+   "file": "11-997-785.78465c6d5d14.pmtiles",
+   "bytes": 44574,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-785.78465c6d5d14.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 786,
+   "file": "11-997-786.4052dfefe993.pmtiles",
+   "bytes": 64294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-786.4052dfefe993.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 787,
+   "file": "11-997-787.a6e635504aeb.pmtiles",
+   "bytes": 106034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-787.a6e635504aeb.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 788,
+   "file": "11-997-788.d71dbceb124a.pmtiles",
+   "bytes": 61056,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-788.d71dbceb124a.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 789,
+   "file": "11-997-789.c027cee6c810.pmtiles",
+   "bytes": 97921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-789.c027cee6c810.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 790,
+   "file": "11-997-790.dc6440bbc9a7.pmtiles",
+   "bytes": 375204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-790.dc6440bbc9a7.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 791,
+   "file": "11-997-791.445206dca50b.pmtiles",
+   "bytes": 69409,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-791.445206dca50b.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 792,
+   "file": "11-997-792.dd902a275ebd.pmtiles",
+   "bytes": 250079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-792.dd902a275ebd.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 793,
+   "file": "11-997-793.2be613779488.pmtiles",
+   "bytes": 195515,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-793.2be613779488.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 794,
+   "file": "11-997-794.2271bfde627f.pmtiles",
+   "bytes": 140213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-794.2271bfde627f.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 795,
+   "file": "11-997-795.be7e18a374ab.pmtiles",
+   "bytes": 115648,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-997-795.be7e18a374ab.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 784,
+   "file": "11-998-784.6156109684e0.pmtiles",
+   "bytes": 29006,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-784.6156109684e0.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 785,
+   "file": "11-998-785.0ba22ef9f59b.pmtiles",
+   "bytes": 61539,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-785.0ba22ef9f59b.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 786,
+   "file": "11-998-786.97c39de63419.pmtiles",
+   "bytes": 80909,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-786.97c39de63419.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 787,
+   "file": "11-998-787.07f3042c5e29.pmtiles",
+   "bytes": 57528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-787.07f3042c5e29.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 788,
+   "file": "11-998-788.6e9016031862.pmtiles",
+   "bytes": 52522,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-788.6e9016031862.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 789,
+   "file": "11-998-789.ad27b179a036.pmtiles",
+   "bytes": 229192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-789.ad27b179a036.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 790,
+   "file": "11-998-790.bc1ec451693e.pmtiles",
+   "bytes": 168477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-790.bc1ec451693e.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 791,
+   "file": "11-998-791.16747d4ec1c4.pmtiles",
+   "bytes": 44722,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-791.16747d4ec1c4.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 792,
+   "file": "11-998-792.ae61a950c7ab.pmtiles",
+   "bytes": 141988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-792.ae61a950c7ab.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 793,
+   "file": "11-998-793.533b20808423.pmtiles",
+   "bytes": 241105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-793.533b20808423.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 794,
+   "file": "11-998-794.0dd816a26035.pmtiles",
+   "bytes": 289061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-794.0dd816a26035.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 795,
+   "file": "11-998-795.00c184bb7135.pmtiles",
+   "bytes": 239777,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-998-795.00c184bb7135.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 784,
+   "file": "11-999-784.efcfa12a63a3.pmtiles",
+   "bytes": 58575,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-784.efcfa12a63a3.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 785,
+   "file": "11-999-785.fd71a2279627.pmtiles",
+   "bytes": 99911,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-785.fd71a2279627.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 786,
+   "file": "11-999-786.5130e6c7832a.pmtiles",
+   "bytes": 119035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-786.5130e6c7832a.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 787,
+   "file": "11-999-787.1e1b8745e2db.pmtiles",
+   "bytes": 93856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-787.1e1b8745e2db.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 788,
+   "file": "11-999-788.90f69d1eef5b.pmtiles",
+   "bytes": 82697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-788.90f69d1eef5b.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 789,
+   "file": "11-999-789.91e4a5455660.pmtiles",
+   "bytes": 179768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-789.91e4a5455660.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 790,
+   "file": "11-999-790.1ba27d64354e.pmtiles",
+   "bytes": 169415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-790.1ba27d64354e.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 791,
+   "file": "11-999-791.4a8ff2d690be.pmtiles",
+   "bytes": 60381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-791.4a8ff2d690be.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 792,
+   "file": "11-999-792.144425afcf06.pmtiles",
+   "bytes": 179440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-792.144425afcf06.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 793,
+   "file": "11-999-793.4aa7c8a2fbed.pmtiles",
+   "bytes": 253739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-793.4aa7c8a2fbed.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 794,
+   "file": "11-999-794.82b80754821c.pmtiles",
+   "bytes": 229224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-794.82b80754821c.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 795,
+   "file": "11-999-795.4ccace415c88.pmtiles",
+   "bytes": 233581,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-999-795.4ccace415c88.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 784,
+   "file": "11-1000-784.549fb4a9659f.pmtiles",
+   "bytes": 389663,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-784.549fb4a9659f.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 785,
+   "file": "11-1000-785.a7e886657618.pmtiles",
+   "bytes": 369248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-785.a7e886657618.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 786,
+   "file": "11-1000-786.253eb4f6a0bd.pmtiles",
+   "bytes": 128890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-786.253eb4f6a0bd.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 787,
+   "file": "11-1000-787.e01b05311410.pmtiles",
+   "bytes": 86264,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-787.e01b05311410.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 788,
+   "file": "11-1000-788.6b8c4e5bae0c.pmtiles",
+   "bytes": 119211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-788.6b8c4e5bae0c.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 789,
+   "file": "11-1000-789.128ccdda5c7c.pmtiles",
+   "bytes": 338739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-789.128ccdda5c7c.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 790,
+   "file": "11-1000-790.de023a7cb8b6.pmtiles",
+   "bytes": 402084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-790.de023a7cb8b6.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 791,
+   "file": "11-1000-791.8d3050e8a34a.pmtiles",
+   "bytes": 172421,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-791.8d3050e8a34a.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 792,
+   "file": "11-1000-792.64ddbe2db414.pmtiles",
+   "bytes": 139082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-792.64ddbe2db414.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 793,
+   "file": "11-1000-793.d7edb0790d68.pmtiles",
+   "bytes": 228729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-793.d7edb0790d68.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 794,
+   "file": "11-1000-794.a38dd6927eb2.pmtiles",
+   "bytes": 209021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-794.a38dd6927eb2.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 795,
+   "file": "11-1000-795.74fdf11cd6cb.pmtiles",
+   "bytes": 741906,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1000-795.74fdf11cd6cb.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 785,
+   "file": "11-1001-785.93e661c8b6fb.pmtiles",
+   "bytes": 35785,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-785.93e661c8b6fb.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 786,
+   "file": "11-1001-786.dd6a28950285.pmtiles",
+   "bytes": 25811,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-786.dd6a28950285.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 787,
+   "file": "11-1001-787.3e4a994cf416.pmtiles",
+   "bytes": 22884,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-787.3e4a994cf416.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 788,
+   "file": "11-1001-788.7b3127202603.pmtiles",
+   "bytes": 48781,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-788.7b3127202603.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 789,
+   "file": "11-1001-789.6722d39a2a2a.pmtiles",
+   "bytes": 104736,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-789.6722d39a2a2a.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 790,
+   "file": "11-1001-790.daf5032142ee.pmtiles",
+   "bytes": 50404,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-790.daf5032142ee.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 791,
+   "file": "11-1001-791.ced36b9f15ab.pmtiles",
+   "bytes": 48228,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-791.ced36b9f15ab.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 792,
+   "file": "11-1001-792.eb54c1612e43.pmtiles",
+   "bytes": 47384,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-792.eb54c1612e43.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 793,
+   "file": "11-1001-793.c370220338d0.pmtiles",
+   "bytes": 47864,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-793.c370220338d0.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 794,
+   "file": "11-1001-794.36cf463a1c49.pmtiles",
+   "bytes": 91982,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-794.36cf463a1c49.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 795,
+   "file": "11-1001-795.f14714484f1c.pmtiles",
+   "bytes": 291141,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cordoba-2026-10-03/11-1001-795.f14714484f1c.pmtiles"
+  }
+ ]
+}

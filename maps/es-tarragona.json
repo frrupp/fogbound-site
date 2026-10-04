@@ -1,0 +1,565 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-tarragona",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:53:46.311Z",
+ "publishedAt": "2026-10-04T19:54:06.499Z",
+ "host": "github",
+ "releases": [
+  "maps-es-tarragona-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.15941,
+  40.52298,
+  1.65309,
+  41.58261
+ ],
+ "overview": {
+  "file": "overview.3db6558e3bef.pmtiles",
+  "bytes": 1684944,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/overview.3db6558e3bef.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1024,
+   "y": 764,
+   "file": "11-1024-764.a943ccb92746.pmtiles",
+   "bytes": 24100,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-764.a943ccb92746.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 765,
+   "file": "11-1024-765.3f2bc87c0ae6.pmtiles",
+   "bytes": 33707,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-765.3f2bc87c0ae6.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 766,
+   "file": "11-1024-766.c2735d796645.pmtiles",
+   "bytes": 62067,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-766.c2735d796645.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 767,
+   "file": "11-1024-767.1f0c32629c51.pmtiles",
+   "bytes": 52246,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-767.1f0c32629c51.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 768,
+   "file": "11-1024-768.f1b07a50a8aa.pmtiles",
+   "bytes": 119388,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-768.f1b07a50a8aa.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 769,
+   "file": "11-1024-769.819eb5e83de9.pmtiles",
+   "bytes": 79184,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-769.819eb5e83de9.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 770,
+   "file": "11-1024-770.fc6be25913f9.pmtiles",
+   "bytes": 87885,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-770.fc6be25913f9.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 771,
+   "file": "11-1024-771.192f5c2ee57b.pmtiles",
+   "bytes": 40053,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1024-771.192f5c2ee57b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 763,
+   "file": "11-1025-763.1dea20d188a1.pmtiles",
+   "bytes": 191772,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-763.1dea20d188a1.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 764,
+   "file": "11-1025-764.13d555a99336.pmtiles",
+   "bytes": 180055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-764.13d555a99336.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 765,
+   "file": "11-1025-765.a4852c5b2374.pmtiles",
+   "bytes": 166264,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-765.a4852c5b2374.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 766,
+   "file": "11-1025-766.e2aae3a67474.pmtiles",
+   "bytes": 321397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-766.e2aae3a67474.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 767,
+   "file": "11-1025-767.22a214899d7b.pmtiles",
+   "bytes": 465142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-767.22a214899d7b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 768,
+   "file": "11-1025-768.a878a7230b0f.pmtiles",
+   "bytes": 498331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-768.a878a7230b0f.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 769,
+   "file": "11-1025-769.8ace525cf56d.pmtiles",
+   "bytes": 438410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-769.8ace525cf56d.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 770,
+   "file": "11-1025-770.518272730400.pmtiles",
+   "bytes": 394838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-770.518272730400.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 771,
+   "file": "11-1025-771.13e8b33a6b4f.pmtiles",
+   "bytes": 133203,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1025-771.13e8b33a6b4f.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 763,
+   "file": "11-1026-763.0000aaed8598.pmtiles",
+   "bytes": 388755,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-763.0000aaed8598.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 764,
+   "file": "11-1026-764.ec73427c143a.pmtiles",
+   "bytes": 606447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-764.ec73427c143a.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 765,
+   "file": "11-1026-765.88fcae91d44b.pmtiles",
+   "bytes": 423946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-765.88fcae91d44b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 766,
+   "file": "11-1026-766.34fe87b5123b.pmtiles",
+   "bytes": 361283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-766.34fe87b5123b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 767,
+   "file": "11-1026-767.b8f9534a2d10.pmtiles",
+   "bytes": 525494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-767.b8f9534a2d10.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 768,
+   "file": "11-1026-768.916ef3248b1e.pmtiles",
+   "bytes": 557046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-768.916ef3248b1e.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 769,
+   "file": "11-1026-769.da0d53aa138b.pmtiles",
+   "bytes": 953197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-769.da0d53aa138b.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 770,
+   "file": "11-1026-770.7a6489a3eeb7.pmtiles",
+   "bytes": 393402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-770.7a6489a3eeb7.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 771,
+   "file": "11-1026-771.dbd84e7b597c.pmtiles",
+   "bytes": 214918,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1026-771.dbd84e7b597c.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 763,
+   "file": "11-1027-763.2cfe38854424.pmtiles",
+   "bytes": 620082,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-763.2cfe38854424.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 764,
+   "file": "11-1027-764.6f27a7686209.pmtiles",
+   "bytes": 525948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-764.6f27a7686209.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 765,
+   "file": "11-1027-765.28980671dceb.pmtiles",
+   "bytes": 460290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-765.28980671dceb.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 766,
+   "file": "11-1027-766.09e9e6810ff7.pmtiles",
+   "bytes": 437729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-766.09e9e6810ff7.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 767,
+   "file": "11-1027-767.c6dd9ebe599d.pmtiles",
+   "bytes": 485634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-767.c6dd9ebe599d.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 768,
+   "file": "11-1027-768.e60d15e355ab.pmtiles",
+   "bytes": 250299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-768.e60d15e355ab.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 769,
+   "file": "11-1027-769.0fd730a171ed.pmtiles",
+   "bytes": 873187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-769.0fd730a171ed.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 770,
+   "file": "11-1027-770.d55d37cc1d04.pmtiles",
+   "bytes": 509483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-770.d55d37cc1d04.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 771,
+   "file": "11-1027-771.38592a83f1aa.pmtiles",
+   "bytes": 104445,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1027-771.38592a83f1aa.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 763,
+   "file": "11-1028-763.51f9132dff81.pmtiles",
+   "bytes": 726542,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-763.51f9132dff81.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 764,
+   "file": "11-1028-764.57de28dbc5e8.pmtiles",
+   "bytes": 499257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-764.57de28dbc5e8.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 765,
+   "file": "11-1028-765.66ab68ccfa2c.pmtiles",
+   "bytes": 769082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-765.66ab68ccfa2c.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 766,
+   "file": "11-1028-766.57a1c9d7adf7.pmtiles",
+   "bytes": 637673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-766.57a1c9d7adf7.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 767,
+   "file": "11-1028-767.07a8902d8c97.pmtiles",
+   "bytes": 497118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-767.07a8902d8c97.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 768,
+   "file": "11-1028-768.244dfa74929a.pmtiles",
+   "bytes": 985170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-768.244dfa74929a.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 769,
+   "file": "11-1028-769.e922ecb8bc1c.pmtiles",
+   "bytes": 464233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-769.e922ecb8bc1c.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 770,
+   "file": "11-1028-770.f28c6b1fc3fc.pmtiles",
+   "bytes": 309128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1028-770.f28c6b1fc3fc.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 763,
+   "file": "11-1029-763.23089e19d428.pmtiles",
+   "bytes": 452051,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-763.23089e19d428.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 764,
+   "file": "11-1029-764.26794c2561d3.pmtiles",
+   "bytes": 597531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-764.26794c2561d3.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 765,
+   "file": "11-1029-765.a7b6bb02c434.pmtiles",
+   "bytes": 835891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-765.a7b6bb02c434.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 766,
+   "file": "11-1029-766.4bf1f3e1f29d.pmtiles",
+   "bytes": 642415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-766.4bf1f3e1f29d.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 767,
+   "file": "11-1029-767.e19bac8fcb4c.pmtiles",
+   "bytes": 944776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-767.e19bac8fcb4c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 768,
+   "file": "11-1029-768.f1432e6ecbba.pmtiles",
+   "bytes": 31959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1029-768.f1432e6ecbba.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 763,
+   "file": "11-1030-763.653c5ca1558a.pmtiles",
+   "bytes": 322599,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1030-763.653c5ca1558a.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 764,
+   "file": "11-1030-764.1461bf381251.pmtiles",
+   "bytes": 681183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1030-764.1461bf381251.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 765,
+   "file": "11-1030-765.6c63f783a5c5.pmtiles",
+   "bytes": 715036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1030-765.6c63f783a5c5.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 766,
+   "file": "11-1030-766.7289a7ce0bd8.pmtiles",
+   "bytes": 1798441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1030-766.7289a7ce0bd8.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 767,
+   "file": "11-1030-767.ef10fe57fe93.pmtiles",
+   "bytes": 845329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1030-767.ef10fe57fe93.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 763,
+   "file": "11-1031-763.e1aef284df40.pmtiles",
+   "bytes": 389908,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1031-763.e1aef284df40.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 764,
+   "file": "11-1031-764.f61ff8179a9f.pmtiles",
+   "bytes": 413442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1031-764.f61ff8179a9f.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 765,
+   "file": "11-1031-765.aa8d8e8b9977.pmtiles",
+   "bytes": 1134570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1031-765.aa8d8e8b9977.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 766,
+   "file": "11-1031-766.65ffc9bcbc76.pmtiles",
+   "bytes": 1243905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1031-766.65ffc9bcbc76.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 767,
+   "file": "11-1031-767.4f9e2a031a86.pmtiles",
+   "bytes": 109359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1031-767.4f9e2a031a86.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 763,
+   "file": "11-1032-763.c762a71574e6.pmtiles",
+   "bytes": 450172,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1032-763.c762a71574e6.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 764,
+   "file": "11-1032-764.6a249a039e18.pmtiles",
+   "bytes": 632168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1032-764.6a249a039e18.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 765,
+   "file": "11-1032-765.5288d46c1ea2.pmtiles",
+   "bytes": 856186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1032-765.5288d46c1ea2.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 766,
+   "file": "11-1032-766.aa051c568ac0.pmtiles",
+   "bytes": 1109583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1032-766.aa051c568ac0.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 763,
+   "file": "11-1033-763.20cd5ea446a5.pmtiles",
+   "bytes": 807221,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1033-763.20cd5ea446a5.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 764,
+   "file": "11-1033-764.ba85d00309d1.pmtiles",
+   "bytes": 505160,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1033-764.ba85d00309d1.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 765,
+   "file": "11-1033-765.3c9b3aa29e10.pmtiles",
+   "bytes": 674196,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1033-765.3c9b3aa29e10.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 766,
+   "file": "11-1033-766.1baa28c5b72f.pmtiles",
+   "bytes": 1005879,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-tarragona-2026-10-03/11-1033-766.1baa28c5b72f.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,821 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-soria",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T20:57:34.936Z",
+ "publishedAt": "2026-10-04T20:58:01.070Z",
+ "host": "github",
+ "releases": [
+  "maps-es-soria-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.55044,
+  41.05651,
+  -1.77537,
+  42.14671
+ ],
+ "overview": {
+  "file": "overview.a9b029cf402d.pmtiles",
+  "bytes": 2259044,
+  "tiles": 55,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/overview.a9b029cf402d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1003,
+   "y": 759,
+   "file": "11-1003-759.fdf27cbb4c7d.pmtiles",
+   "bytes": 117512,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-759.fdf27cbb4c7d.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 760,
+   "file": "11-1003-760.4f9f308836d8.pmtiles",
+   "bytes": 130051,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-760.4f9f308836d8.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 761,
+   "file": "11-1003-761.ebf484296a82.pmtiles",
+   "bytes": 57665,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-761.ebf484296a82.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 762,
+   "file": "11-1003-762.f9deb71d1563.pmtiles",
+   "bytes": 244569,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-762.f9deb71d1563.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 763,
+   "file": "11-1003-763.7d16fa70c5cd.pmtiles",
+   "bytes": 52629,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-763.7d16fa70c5cd.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 764,
+   "file": "11-1003-764.436b63183bae.pmtiles",
+   "bytes": 72727,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-764.436b63183bae.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 765,
+   "file": "11-1003-765.27a5c6db9886.pmtiles",
+   "bytes": 53905,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-765.27a5c6db9886.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 766,
+   "file": "11-1003-766.0f49d9ec50b4.pmtiles",
+   "bytes": 81848,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-766.0f49d9ec50b4.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 767,
+   "file": "11-1003-767.8c59d81009c4.pmtiles",
+   "bytes": 68877,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1003-767.8c59d81009c4.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 759,
+   "file": "11-1004-759.f639bb6226c2.pmtiles",
+   "bytes": 360986,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-759.f639bb6226c2.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 760,
+   "file": "11-1004-760.b6ab47708704.pmtiles",
+   "bytes": 322131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-760.b6ab47708704.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 761,
+   "file": "11-1004-761.8f2f5c96817e.pmtiles",
+   "bytes": 267896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-761.8f2f5c96817e.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 762,
+   "file": "11-1004-762.92866b5c6f51.pmtiles",
+   "bytes": 193739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-762.92866b5c6f51.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 763,
+   "file": "11-1004-763.17dc03ed857f.pmtiles",
+   "bytes": 174910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-763.17dc03ed857f.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 764,
+   "file": "11-1004-764.56a6d4b6f65f.pmtiles",
+   "bytes": 169231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-764.56a6d4b6f65f.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 765,
+   "file": "11-1004-765.3ba980e41f34.pmtiles",
+   "bytes": 281739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-765.3ba980e41f34.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 766,
+   "file": "11-1004-766.8aaa4c32a223.pmtiles",
+   "bytes": 308737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-766.8aaa4c32a223.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 767,
+   "file": "11-1004-767.2d4c4534b86c.pmtiles",
+   "bytes": 156357,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1004-767.2d4c4534b86c.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 759,
+   "file": "11-1005-759.3e1d424e2c1f.pmtiles",
+   "bytes": 476646,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-759.3e1d424e2c1f.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 760,
+   "file": "11-1005-760.bcbe2e321671.pmtiles",
+   "bytes": 336610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-760.bcbe2e321671.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 761,
+   "file": "11-1005-761.6235f1a87c25.pmtiles",
+   "bytes": 254709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-761.6235f1a87c25.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 762,
+   "file": "11-1005-762.71a97dfeecec.pmtiles",
+   "bytes": 145272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-762.71a97dfeecec.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 763,
+   "file": "11-1005-763.f21c04d7adc7.pmtiles",
+   "bytes": 207676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-763.f21c04d7adc7.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 764,
+   "file": "11-1005-764.2ee3f58cbd3e.pmtiles",
+   "bytes": 125486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-764.2ee3f58cbd3e.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 765,
+   "file": "11-1005-765.0c47ec0de107.pmtiles",
+   "bytes": 191230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-765.0c47ec0de107.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 766,
+   "file": "11-1005-766.ffa6d748c85d.pmtiles",
+   "bytes": 257119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-766.ffa6d748c85d.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 767,
+   "file": "11-1005-767.95da56317a8b.pmtiles",
+   "bytes": 134417,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1005-767.95da56317a8b.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 759,
+   "file": "11-1006-759.fa9f39868239.pmtiles",
+   "bytes": 684944,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-759.fa9f39868239.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 760,
+   "file": "11-1006-760.e478d1d0496d.pmtiles",
+   "bytes": 491433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-760.e478d1d0496d.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 761,
+   "file": "11-1006-761.f05dd1d3c398.pmtiles",
+   "bytes": 372211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-761.f05dd1d3c398.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 762,
+   "file": "11-1006-762.e5ec88c2855d.pmtiles",
+   "bytes": 196731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-762.e5ec88c2855d.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 763,
+   "file": "11-1006-763.27140c7ae52e.pmtiles",
+   "bytes": 207361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-763.27140c7ae52e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 764,
+   "file": "11-1006-764.ef3534111ca2.pmtiles",
+   "bytes": 141282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-764.ef3534111ca2.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 765,
+   "file": "11-1006-765.be39db6a3f54.pmtiles",
+   "bytes": 136085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-765.be39db6a3f54.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 766,
+   "file": "11-1006-766.20dfd760f963.pmtiles",
+   "bytes": 227366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-766.20dfd760f963.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 767,
+   "file": "11-1006-767.2e489049f1a5.pmtiles",
+   "bytes": 112331,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1006-767.2e489049f1a5.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 759,
+   "file": "11-1007-759.2c2a8469ac59.pmtiles",
+   "bytes": 285006,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-759.2c2a8469ac59.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 760,
+   "file": "11-1007-760.a3f3557745c9.pmtiles",
+   "bytes": 331329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-760.a3f3557745c9.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 761,
+   "file": "11-1007-761.a08ee01c4bd8.pmtiles",
+   "bytes": 177341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-761.a08ee01c4bd8.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 762,
+   "file": "11-1007-762.0b039d767889.pmtiles",
+   "bytes": 253753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-762.0b039d767889.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 763,
+   "file": "11-1007-763.4ce86b9ecd49.pmtiles",
+   "bytes": 292951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-763.4ce86b9ecd49.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 764,
+   "file": "11-1007-764.3a32815445b8.pmtiles",
+   "bytes": 150920,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-764.3a32815445b8.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 765,
+   "file": "11-1007-765.8692ef5822f9.pmtiles",
+   "bytes": 134813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-765.8692ef5822f9.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 766,
+   "file": "11-1007-766.c84b18397fd5.pmtiles",
+   "bytes": 164232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-766.c84b18397fd5.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 767,
+   "file": "11-1007-767.3c21d9d78937.pmtiles",
+   "bytes": 58290,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1007-767.3c21d9d78937.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 759,
+   "file": "11-1008-759.85d42dbd40c2.pmtiles",
+   "bytes": 153128,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-759.85d42dbd40c2.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 760,
+   "file": "11-1008-760.d89b4a7d2ef8.pmtiles",
+   "bytes": 147188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-760.d89b4a7d2ef8.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 761,
+   "file": "11-1008-761.dc51f21cc312.pmtiles",
+   "bytes": 279941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-761.dc51f21cc312.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 762,
+   "file": "11-1008-762.52bf6edf9ec0.pmtiles",
+   "bytes": 212644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-762.52bf6edf9ec0.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 763,
+   "file": "11-1008-763.481ba721581b.pmtiles",
+   "bytes": 263357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-763.481ba721581b.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 764,
+   "file": "11-1008-764.f5291a1a840e.pmtiles",
+   "bytes": 127895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-764.f5291a1a840e.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 765,
+   "file": "11-1008-765.e4499c92b796.pmtiles",
+   "bytes": 135898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-765.e4499c92b796.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 766,
+   "file": "11-1008-766.a776f0331b17.pmtiles",
+   "bytes": 158746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-766.a776f0331b17.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 767,
+   "file": "11-1008-767.9e8b94306bd4.pmtiles",
+   "bytes": 137181,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1008-767.9e8b94306bd4.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 759,
+   "file": "11-1009-759.1d85bc71406e.pmtiles",
+   "bytes": 181709,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-759.1d85bc71406e.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 760,
+   "file": "11-1009-760.3ea52d132fc1.pmtiles",
+   "bytes": 189657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-760.3ea52d132fc1.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 761,
+   "file": "11-1009-761.fb50b4411e9b.pmtiles",
+   "bytes": 309099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-761.fb50b4411e9b.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 762,
+   "file": "11-1009-762.e2d898ae8044.pmtiles",
+   "bytes": 441459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-762.e2d898ae8044.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 763,
+   "file": "11-1009-763.534a1def67b3.pmtiles",
+   "bytes": 158893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-763.534a1def67b3.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 764,
+   "file": "11-1009-764.bd70eb0b55d1.pmtiles",
+   "bytes": 285226,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-764.bd70eb0b55d1.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 765,
+   "file": "11-1009-765.0e24e8255f4a.pmtiles",
+   "bytes": 142128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-765.0e24e8255f4a.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 766,
+   "file": "11-1009-766.314e79071469.pmtiles",
+   "bytes": 177497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-766.314e79071469.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 767,
+   "file": "11-1009-767.7ad8ea6fb251.pmtiles",
+   "bytes": 102142,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1009-767.7ad8ea6fb251.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 759,
+   "file": "11-1010-759.eb7627c68690.pmtiles",
+   "bytes": 187629,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-759.eb7627c68690.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 760,
+   "file": "11-1010-760.dacf79d40da1.pmtiles",
+   "bytes": 167979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-760.dacf79d40da1.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 761,
+   "file": "11-1010-761.2dbc474bb28b.pmtiles",
+   "bytes": 200694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-761.2dbc474bb28b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 762,
+   "file": "11-1010-762.27df344b1c98.pmtiles",
+   "bytes": 190219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-762.27df344b1c98.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 763,
+   "file": "11-1010-763.fc0b231dfd6d.pmtiles",
+   "bytes": 148829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-763.fc0b231dfd6d.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 764,
+   "file": "11-1010-764.5127d10b428f.pmtiles",
+   "bytes": 118771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-764.5127d10b428f.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 765,
+   "file": "11-1010-765.50ed5d8c1d8c.pmtiles",
+   "bytes": 121439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-765.50ed5d8c1d8c.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 766,
+   "file": "11-1010-766.07670f5de520.pmtiles",
+   "bytes": 226008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-766.07670f5de520.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 767,
+   "file": "11-1010-767.e6f8e3d6c651.pmtiles",
+   "bytes": 87717,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1010-767.e6f8e3d6c651.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 759,
+   "file": "11-1011-759.9b2414241e26.pmtiles",
+   "bytes": 244633,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-759.9b2414241e26.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 760,
+   "file": "11-1011-760.90c52b5babc4.pmtiles",
+   "bytes": 173477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-760.90c52b5babc4.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 761,
+   "file": "11-1011-761.a137d454ae33.pmtiles",
+   "bytes": 172186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-761.a137d454ae33.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 762,
+   "file": "11-1011-762.d5eb167ec0d2.pmtiles",
+   "bytes": 124273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-762.d5eb167ec0d2.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 763,
+   "file": "11-1011-763.89f846ef537c.pmtiles",
+   "bytes": 139741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-763.89f846ef537c.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 764,
+   "file": "11-1011-764.f7135cd6bd59.pmtiles",
+   "bytes": 102070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-764.f7135cd6bd59.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 765,
+   "file": "11-1011-765.596543773f21.pmtiles",
+   "bytes": 145995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-765.596543773f21.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 766,
+   "file": "11-1011-766.b53521df9ecf.pmtiles",
+   "bytes": 174905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-766.b53521df9ecf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 767,
+   "file": "11-1011-767.3f5f8e30b9f8.pmtiles",
+   "bytes": 97674,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1011-767.3f5f8e30b9f8.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 759,
+   "file": "11-1012-759.8d48cc1035b7.pmtiles",
+   "bytes": 237459,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-759.8d48cc1035b7.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 760,
+   "file": "11-1012-760.e97253aaa8d5.pmtiles",
+   "bytes": 184574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-760.e97253aaa8d5.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 761,
+   "file": "11-1012-761.d6698efd77e9.pmtiles",
+   "bytes": 229666,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-761.d6698efd77e9.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 762,
+   "file": "11-1012-762.2881e3e66e2f.pmtiles",
+   "bytes": 107075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-762.2881e3e66e2f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 763,
+   "file": "11-1012-763.8a08e7f2ad95.pmtiles",
+   "bytes": 119012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-763.8a08e7f2ad95.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 764,
+   "file": "11-1012-764.f551fd4c0488.pmtiles",
+   "bytes": 101167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-764.f551fd4c0488.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 765,
+   "file": "11-1012-765.8ca89cdd1257.pmtiles",
+   "bytes": 164955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-765.8ca89cdd1257.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 766,
+   "file": "11-1012-766.ff3c71cec0b6.pmtiles",
+   "bytes": 157949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-766.ff3c71cec0b6.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 767,
+   "file": "11-1012-767.acb5c7bac74a.pmtiles",
+   "bytes": 97054,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1012-767.acb5c7bac74a.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 759,
+   "file": "11-1013-759.9fe7224f2122.pmtiles",
+   "bytes": 674054,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-759.9fe7224f2122.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 760,
+   "file": "11-1013-760.e1f35f67b28c.pmtiles",
+   "bytes": 213654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-760.e1f35f67b28c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 761,
+   "file": "11-1013-761.3001ee926fe4.pmtiles",
+   "bytes": 277442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-761.3001ee926fe4.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 762,
+   "file": "11-1013-762.e61b7c9891d1.pmtiles",
+   "bytes": 155818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-762.e61b7c9891d1.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 763,
+   "file": "11-1013-763.01df34f806ec.pmtiles",
+   "bytes": 128839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-763.01df34f806ec.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 764,
+   "file": "11-1013-764.15d5b30048f0.pmtiles",
+   "bytes": 124542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-764.15d5b30048f0.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 765,
+   "file": "11-1013-765.e665c7b74562.pmtiles",
+   "bytes": 234080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-765.e665c7b74562.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 766,
+   "file": "11-1013-766.1cdaf7cb1647.pmtiles",
+   "bytes": 217020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-766.1cdaf7cb1647.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 767,
+   "file": "11-1013-767.d4862c633f04.pmtiles",
+   "bytes": 88606,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-soria-2026-10-03/11-1013-767.d4862c633f04.pmtiles"
+  }
+ ]
+}

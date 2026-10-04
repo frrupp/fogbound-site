@@ -1,0 +1,45 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-ceuta",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:50:06.884Z",
+ "publishedAt": "2026-10-04T19:50:10.145Z",
+ "host": "github",
+ "releases": [
+  "maps-es-ceuta-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -5.38203,
+  35.87086,
+  -5.2783,
+  35.918
+ ],
+ "overview": {
+  "file": "overview.030e1bcdaa03.pmtiles",
+  "bytes": 177267,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-ceuta-2026-10-03/overview.030e1bcdaa03.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 993,
+   "y": 804,
+   "file": "11-993-804.73da00c30c63.pmtiles",
+   "bytes": 225463,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-ceuta-2026-10-03/11-993-804.73da00c30c63.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 805,
+   "file": "11-993-805.0c7c0dd623bc.pmtiles",
+   "bytes": 198236,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-ceuta-2026-10-03/11-993-805.0c7c0dd623bc.pmtiles"
+  }
+ ]
+}

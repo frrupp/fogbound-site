@@ -1,0 +1,37 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-melilla",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:50:03.033Z",
+ "publishedAt": "2026-10-04T19:50:06.622Z",
+ "host": "github",
+ "releases": [
+  "maps-es-melilla-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.9702,
+  35.26563,
+  -2.9231,
+  35.32015
+ ],
+ "overview": {
+  "file": "overview.734c5fdf6f76.pmtiles",
+  "bytes": 151593,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-melilla-2026-10-03/overview.734c5fdf6f76.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1007,
+   "y": 809,
+   "file": "11-1007-809.40633bb28c35.pmtiles",
+   "bytes": 392690,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-melilla-2026-10-03/11-1007-809.40633bb28c35.pmtiles"
+  }
+ ]
+}

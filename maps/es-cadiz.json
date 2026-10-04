@@ -1,0 +1,517 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-cadiz",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:52:22.709Z",
+ "publishedAt": "2026-10-04T19:52:39.805Z",
+ "host": "github",
+ "releases": [
+  "maps-es-cadiz-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -6.44399,
+  36.00002,
+  -5.08677,
+  37.05245
+ ],
+ "overview": {
+  "file": "overview.00710183bd64.pmtiles",
+  "bytes": 1065300,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/overview.00710183bd64.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 987,
+   "y": 796,
+   "file": "11-987-796.f359df1a71d9.pmtiles",
+   "bytes": 81198,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-987-796.f359df1a71d9.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 797,
+   "file": "11-987-797.3d0967931d57.pmtiles",
+   "bytes": 290451,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-987-797.3d0967931d57.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 798,
+   "file": "11-987-798.b42ace45a5b3.pmtiles",
+   "bytes": 533554,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-987-798.b42ace45a5b3.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 799,
+   "file": "11-987-799.62a65d49d964.pmtiles",
+   "bytes": 471103,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-987-799.62a65d49d964.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 796,
+   "file": "11-988-796.9dac3cfe45bf.pmtiles",
+   "bytes": 35223,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-796.9dac3cfe45bf.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 797,
+   "file": "11-988-797.5fbd7f68cee5.pmtiles",
+   "bytes": 173832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-797.5fbd7f68cee5.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 798,
+   "file": "11-988-798.110be072d846.pmtiles",
+   "bytes": 256915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-798.110be072d846.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 799,
+   "file": "11-988-799.55dd8184b77f.pmtiles",
+   "bytes": 639253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-799.55dd8184b77f.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 800,
+   "file": "11-988-800.326dee7144b2.pmtiles",
+   "bytes": 1381509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-800.326dee7144b2.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 801,
+   "file": "11-988-801.c3b9fbc736ec.pmtiles",
+   "bytes": 503149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-988-801.c3b9fbc736ec.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 797,
+   "file": "11-989-797.58241139fe7f.pmtiles",
+   "bytes": 213157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-797.58241139fe7f.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 798,
+   "file": "11-989-798.ccbe79ec0b35.pmtiles",
+   "bytes": 170042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-798.ccbe79ec0b35.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 799,
+   "file": "11-989-799.cf69441a0a58.pmtiles",
+   "bytes": 1372833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-799.cf69441a0a58.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 800,
+   "file": "11-989-800.f3f6906fab71.pmtiles",
+   "bytes": 192640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-800.f3f6906fab71.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 801,
+   "file": "11-989-801.dacebf21f713.pmtiles",
+   "bytes": 542056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-801.dacebf21f713.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 802,
+   "file": "11-989-802.fb7ec5fb37c2.pmtiles",
+   "bytes": 596159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-989-802.fb7ec5fb37c2.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 796,
+   "file": "11-990-796.0da88f2b1117.pmtiles",
+   "bytes": 38992,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-796.0da88f2b1117.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 797,
+   "file": "11-990-797.c0093a33a295.pmtiles",
+   "bytes": 156340,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-797.c0093a33a295.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 798,
+   "file": "11-990-798.89f1b38d7dd6.pmtiles",
+   "bytes": 176198,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-798.89f1b38d7dd6.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 799,
+   "file": "11-990-799.871335d1af39.pmtiles",
+   "bytes": 189505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-799.871335d1af39.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 800,
+   "file": "11-990-800.6d548e27e27f.pmtiles",
+   "bytes": 180648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-800.6d548e27e27f.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 801,
+   "file": "11-990-801.b742d53b9add.pmtiles",
+   "bytes": 137793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-801.b742d53b9add.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 802,
+   "file": "11-990-802.45d61c89ba68.pmtiles",
+   "bytes": 481815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-802.45d61c89ba68.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 803,
+   "file": "11-990-803.e4a24e5745a0.pmtiles",
+   "bytes": 207214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-990-803.e4a24e5745a0.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 796,
+   "file": "11-991-796.54880acd6862.pmtiles",
+   "bytes": 28439,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-796.54880acd6862.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 797,
+   "file": "11-991-797.3f5fd24dd86b.pmtiles",
+   "bytes": 47109,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-797.3f5fd24dd86b.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 798,
+   "file": "11-991-798.99d786cdd1da.pmtiles",
+   "bytes": 205106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-798.99d786cdd1da.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 799,
+   "file": "11-991-799.a17d02c7189b.pmtiles",
+   "bytes": 106918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-799.a17d02c7189b.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 800,
+   "file": "11-991-800.66f8a8a03355.pmtiles",
+   "bytes": 79473,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-800.66f8a8a03355.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 801,
+   "file": "11-991-801.1392b1aaafc3.pmtiles",
+   "bytes": 106566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-801.1392b1aaafc3.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 802,
+   "file": "11-991-802.3183644094c1.pmtiles",
+   "bytes": 98978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-802.3183644094c1.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 803,
+   "file": "11-991-803.68a734c72b89.pmtiles",
+   "bytes": 309646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-991-803.68a734c72b89.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 796,
+   "file": "11-992-796.12424209af21.pmtiles",
+   "bytes": 28138,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-796.12424209af21.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 797,
+   "file": "11-992-797.1a5d47d1720a.pmtiles",
+   "bytes": 154977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-797.1a5d47d1720a.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 798,
+   "file": "11-992-798.2e7370639a11.pmtiles",
+   "bytes": 195299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-798.2e7370639a11.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 799,
+   "file": "11-992-799.22603ddef17c.pmtiles",
+   "bytes": 152111,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-799.22603ddef17c.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 800,
+   "file": "11-992-800.4ec21a07c528.pmtiles",
+   "bytes": 75591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-800.4ec21a07c528.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 801,
+   "file": "11-992-801.4e21ef0c1487.pmtiles",
+   "bytes": 102515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-801.4e21ef0c1487.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 802,
+   "file": "11-992-802.ee0da2103dcc.pmtiles",
+   "bytes": 245080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-802.ee0da2103dcc.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 803,
+   "file": "11-992-803.8dc1a851db14.pmtiles",
+   "bytes": 585140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-803.8dc1a851db14.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 804,
+   "file": "11-992-804.535c0e350061.pmtiles",
+   "bytes": 307216,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-992-804.535c0e350061.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 796,
+   "file": "11-993-796.642a0bdeeadd.pmtiles",
+   "bytes": 26721,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-796.642a0bdeeadd.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 797,
+   "file": "11-993-797.fe1105c57b06.pmtiles",
+   "bytes": 232720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-797.fe1105c57b06.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 798,
+   "file": "11-993-798.7488982a9211.pmtiles",
+   "bytes": 363108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-798.7488982a9211.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 799,
+   "file": "11-993-799.76d915d91db0.pmtiles",
+   "bytes": 288614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-799.76d915d91db0.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 800,
+   "file": "11-993-800.02bcb2f63c72.pmtiles",
+   "bytes": 251878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-800.02bcb2f63c72.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 801,
+   "file": "11-993-801.f7f1b893e42e.pmtiles",
+   "bytes": 203277,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-801.f7f1b893e42e.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 802,
+   "file": "11-993-802.a5225b58d94b.pmtiles",
+   "bytes": 1354152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-802.a5225b58d94b.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 803,
+   "file": "11-993-803.d8c51e5cae26.pmtiles",
+   "bytes": 1076990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-993-803.d8c51e5cae26.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 796,
+   "file": "11-994-796.c248fc34783c.pmtiles",
+   "bytes": 28225,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-796.c248fc34783c.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 797,
+   "file": "11-994-797.c06f11891fcd.pmtiles",
+   "bytes": 325137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-797.c06f11891fcd.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 798,
+   "file": "11-994-798.f0e0ae01b6a2.pmtiles",
+   "bytes": 705029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-798.f0e0ae01b6a2.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 799,
+   "file": "11-994-799.11a3a312021e.pmtiles",
+   "bytes": 478486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-799.11a3a312021e.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 800,
+   "file": "11-994-800.5a7878b6b5ae.pmtiles",
+   "bytes": 242304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-800.5a7878b6b5ae.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 801,
+   "file": "11-994-801.b954ec9b2e5b.pmtiles",
+   "bytes": 755694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-801.b954ec9b2e5b.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 802,
+   "file": "11-994-802.7b80758530d2.pmtiles",
+   "bytes": 58217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-994-802.7b80758530d2.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 797,
+   "file": "11-995-797.b53e0bc3b1f9.pmtiles",
+   "bytes": 24281,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-995-797.b53e0bc3b1f9.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 798,
+   "file": "11-995-798.4f76294d8833.pmtiles",
+   "bytes": 44641,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-995-798.4f76294d8833.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 799,
+   "file": "11-995-799.66f2640026ea.pmtiles",
+   "bytes": 68250,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-995-799.66f2640026ea.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 800,
+   "file": "11-995-800.c1e314bbdac3.pmtiles",
+   "bytes": 126992,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-995-800.c1e314bbdac3.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 801,
+   "file": "11-995-801.d4c63308dda3.pmtiles",
+   "bytes": 44227,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-cadiz-2026-10-03/11-995-801.d4c63308dda3.pmtiles"
+  }
+ ]
+}

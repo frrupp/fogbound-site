@@ -1,0 +1,461 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-la-rioja",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:50:48.936Z",
+ "publishedAt": "2026-10-04T19:51:05.163Z",
+ "host": "github",
+ "releases": [
+  "maps-es-la-rioja-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.13427,
+  41.91903,
+  -1.6787,
+  42.64426
+ ],
+ "overview": {
+  "file": "overview.bad3d9f62ecc.pmtiles",
+  "bytes": 2651848,
+  "tiles": 42,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/overview.bad3d9f62ecc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1006,
+   "y": 755,
+   "file": "11-1006-755.30b5840a71f2.pmtiles",
+   "bytes": 457897,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-755.30b5840a71f2.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 756,
+   "file": "11-1006-756.fd01c65a6fa9.pmtiles",
+   "bytes": 269964,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-756.fd01c65a6fa9.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 757,
+   "file": "11-1006-757.df34c61a80e5.pmtiles",
+   "bytes": 507137,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-757.df34c61a80e5.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 758,
+   "file": "11-1006-758.7e24bc954a3f.pmtiles",
+   "bytes": 304679,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-758.7e24bc954a3f.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 759,
+   "file": "11-1006-759.24388e2abaaf.pmtiles",
+   "bytes": 652056,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-759.24388e2abaaf.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 760,
+   "file": "11-1006-760.e3e32da79124.pmtiles",
+   "bytes": 459098,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1006-760.e3e32da79124.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 755,
+   "file": "11-1007-755.05f8fc520513.pmtiles",
+   "bytes": 879173,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-755.05f8fc520513.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 756,
+   "file": "11-1007-756.9a421738b620.pmtiles",
+   "bytes": 458949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-756.9a421738b620.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 757,
+   "file": "11-1007-757.c0c7cdc66d1e.pmtiles",
+   "bytes": 282907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-757.c0c7cdc66d1e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 758,
+   "file": "11-1007-758.8d3391a63c36.pmtiles",
+   "bytes": 163705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-758.8d3391a63c36.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 759,
+   "file": "11-1007-759.943daa13cd5b.pmtiles",
+   "bytes": 314719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-759.943daa13cd5b.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 760,
+   "file": "11-1007-760.b46c5622f72e.pmtiles",
+   "bytes": 318884,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1007-760.b46c5622f72e.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 755,
+   "file": "11-1008-755.24fdc4116a2a.pmtiles",
+   "bytes": 558535,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-755.24fdc4116a2a.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 756,
+   "file": "11-1008-756.6a0cc7f98b29.pmtiles",
+   "bytes": 397026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-756.6a0cc7f98b29.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 757,
+   "file": "11-1008-757.c55ae5e57226.pmtiles",
+   "bytes": 311480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-757.c55ae5e57226.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 758,
+   "file": "11-1008-758.86b58fc6a9d4.pmtiles",
+   "bytes": 271866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-758.86b58fc6a9d4.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 759,
+   "file": "11-1008-759.f0c369213cc5.pmtiles",
+   "bytes": 170070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-759.f0c369213cc5.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 760,
+   "file": "11-1008-760.f3f664aeec46.pmtiles",
+   "bytes": 122228,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1008-760.f3f664aeec46.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 755,
+   "file": "11-1009-755.952cc486f98f.pmtiles",
+   "bytes": 620982,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-755.952cc486f98f.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 756,
+   "file": "11-1009-756.e768b7af4f1f.pmtiles",
+   "bytes": 732644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-756.e768b7af4f1f.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 757,
+   "file": "11-1009-757.18000a0f312a.pmtiles",
+   "bytes": 488513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-757.18000a0f312a.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 758,
+   "file": "11-1009-758.68a49c14a807.pmtiles",
+   "bytes": 303083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-758.68a49c14a807.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 759,
+   "file": "11-1009-759.2040b56ab55d.pmtiles",
+   "bytes": 196496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-759.2040b56ab55d.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 760,
+   "file": "11-1009-760.d1147fa768b3.pmtiles",
+   "bytes": 157813,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1009-760.d1147fa768b3.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 755,
+   "file": "11-1010-755.1ab240ad587a.pmtiles",
+   "bytes": 416502,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-755.1ab240ad587a.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 756,
+   "file": "11-1010-756.bee02aeb08f2.pmtiles",
+   "bytes": 1265747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-756.bee02aeb08f2.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 757,
+   "file": "11-1010-757.7d8e7c735b9b.pmtiles",
+   "bytes": 334333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-757.7d8e7c735b9b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 758,
+   "file": "11-1010-758.ecdf28eb6e20.pmtiles",
+   "bytes": 211109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-758.ecdf28eb6e20.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 759,
+   "file": "11-1010-759.fdfd52f70ffe.pmtiles",
+   "bytes": 200074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-759.fdfd52f70ffe.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 760,
+   "file": "11-1010-760.e85b817efc79.pmtiles",
+   "bytes": 155610,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1010-760.e85b817efc79.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 755,
+   "file": "11-1011-755.cf48b15f0f9f.pmtiles",
+   "bytes": 409562,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-755.cf48b15f0f9f.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 756,
+   "file": "11-1011-756.eacd7b269acf.pmtiles",
+   "bytes": 385878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-756.eacd7b269acf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 757,
+   "file": "11-1011-757.8104a9f026c3.pmtiles",
+   "bytes": 242113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-757.8104a9f026c3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 758,
+   "file": "11-1011-758.c8ac327fb56e.pmtiles",
+   "bytes": 267221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-758.c8ac327fb56e.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 759,
+   "file": "11-1011-759.5e4f9da10918.pmtiles",
+   "bytes": 268907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-759.5e4f9da10918.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 760,
+   "file": "11-1011-760.a028c113aded.pmtiles",
+   "bytes": 162107,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1011-760.a028c113aded.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 755,
+   "file": "11-1012-755.2f870a0ceb7a.pmtiles",
+   "bytes": 466148,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-755.2f870a0ceb7a.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 756,
+   "file": "11-1012-756.c9dcc90ef1f1.pmtiles",
+   "bytes": 370333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-756.c9dcc90ef1f1.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 757,
+   "file": "11-1012-757.85c8f2341bab.pmtiles",
+   "bytes": 475075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-757.85c8f2341bab.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 758,
+   "file": "11-1012-758.1b0e7b47bbbc.pmtiles",
+   "bytes": 260051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-758.1b0e7b47bbbc.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 759,
+   "file": "11-1012-759.9502fb9afd1a.pmtiles",
+   "bytes": 249357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-759.9502fb9afd1a.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 760,
+   "file": "11-1012-760.48508b5488c4.pmtiles",
+   "bytes": 175731,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1012-760.48508b5488c4.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 755,
+   "file": "11-1013-755.0d17a7f6ebdd.pmtiles",
+   "bytes": 347006,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-755.0d17a7f6ebdd.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 756,
+   "file": "11-1013-756.c4433322ee87.pmtiles",
+   "bytes": 407072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-756.c4433322ee87.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 757,
+   "file": "11-1013-757.f3c29bbb34e7.pmtiles",
+   "bytes": 410718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-757.f3c29bbb34e7.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 758,
+   "file": "11-1013-758.0dac3df84370.pmtiles",
+   "bytes": 345545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-758.0dac3df84370.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 759,
+   "file": "11-1013-759.b37e549d8faa.pmtiles",
+   "bytes": 693148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-759.b37e549d8faa.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 760,
+   "file": "11-1013-760.d2764850d154.pmtiles",
+   "bytes": 202052,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1013-760.d2764850d154.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 755,
+   "file": "11-1014-755.44316d38b126.pmtiles",
+   "bytes": 188480,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-755.44316d38b126.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 756,
+   "file": "11-1014-756.888c6f837762.pmtiles",
+   "bytes": 328676,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-756.888c6f837762.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 757,
+   "file": "11-1014-757.50612287448d.pmtiles",
+   "bytes": 173754,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-757.50612287448d.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 758,
+   "file": "11-1014-758.a8ef358f7aed.pmtiles",
+   "bytes": 321200,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-758.a8ef358f7aed.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 759,
+   "file": "11-1014-759.8f5a1a9dfd82.pmtiles",
+   "bytes": 236815,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-759.8f5a1a9dfd82.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 760,
+   "file": "11-1014-760.5aaaf4f43c88.pmtiles",
+   "bytes": 144527,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-la-rioja-2026-10-03/11-1014-760.5aaaf4f43c88.pmtiles"
+  }
+ ]
+}

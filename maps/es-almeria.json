@@ -1,0 +1,677 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-almeria",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T22:14:15.457Z",
+ "publishedAt": "2026-10-04T22:14:38.120Z",
+ "host": "github",
+ "releases": [
+  "maps-es-almeria-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.14019,
+  35.93764,
+  -1.6298,
+  37.91657
+ ],
+ "overview": {
+  "file": "overview.5c9f2bcbd444.pmtiles",
+  "bytes": 1418394,
+  "tiles": 73,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/overview.5c9f2bcbd444.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1006,
+   "y": 790,
+   "file": "11-1006-790.c19771ecf20e.pmtiles",
+   "bytes": 333651,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-790.c19771ecf20e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 791,
+   "file": "11-1006-791.62e3274efac4.pmtiles",
+   "bytes": 364815,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-791.62e3274efac4.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 792,
+   "file": "11-1006-792.7fca76664a9a.pmtiles",
+   "bytes": 136106,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-792.7fca76664a9a.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 793,
+   "file": "11-1006-793.2fe97a884cc4.pmtiles",
+   "bytes": 182169,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-793.2fe97a884cc4.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 794,
+   "file": "11-1006-794.85191b9cff70.pmtiles",
+   "bytes": 236265,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-794.85191b9cff70.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 795,
+   "file": "11-1006-795.3ceca3569b74.pmtiles",
+   "bytes": 393199,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-795.3ceca3569b74.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 796,
+   "file": "11-1006-796.b7934efd2c69.pmtiles",
+   "bytes": 250933,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-796.b7934efd2c69.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 797,
+   "file": "11-1006-797.83b142e5d7b9.pmtiles",
+   "bytes": 556789,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-797.83b142e5d7b9.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 798,
+   "file": "11-1006-798.35780eab63e2.pmtiles",
+   "bytes": 383396,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1006-798.35780eab63e2.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 790,
+   "file": "11-1007-790.2c2531fad78d.pmtiles",
+   "bytes": 128585,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-790.2c2531fad78d.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 791,
+   "file": "11-1007-791.d8269debf708.pmtiles",
+   "bytes": 399972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-791.d8269debf708.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 792,
+   "file": "11-1007-792.ac400cc7ab7a.pmtiles",
+   "bytes": 357851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-792.ac400cc7ab7a.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 793,
+   "file": "11-1007-793.ce8e4f0b81b4.pmtiles",
+   "bytes": 228492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-793.ce8e4f0b81b4.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 794,
+   "file": "11-1007-794.96c10c25c51d.pmtiles",
+   "bytes": 272992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-794.96c10c25c51d.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 795,
+   "file": "11-1007-795.7ded95c0146c.pmtiles",
+   "bytes": 313065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-795.7ded95c0146c.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 796,
+   "file": "11-1007-796.e1ff41a6957e.pmtiles",
+   "bytes": 188557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-796.e1ff41a6957e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 797,
+   "file": "11-1007-797.fb598a2dda7f.pmtiles",
+   "bytes": 270293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-797.fb598a2dda7f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 798,
+   "file": "11-1007-798.83bddd64389c.pmtiles",
+   "bytes": 912261,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-798.83bddd64389c.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 799,
+   "file": "11-1007-799.04c9c51ffe52.pmtiles",
+   "bytes": 254756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1007-799.04c9c51ffe52.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 790,
+   "file": "11-1008-790.8e9c7727f8f2.pmtiles",
+   "bytes": 116622,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-790.8e9c7727f8f2.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 791,
+   "file": "11-1008-791.e534aa54cb3c.pmtiles",
+   "bytes": 525576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-791.e534aa54cb3c.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 792,
+   "file": "11-1008-792.a69e081f312f.pmtiles",
+   "bytes": 555111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-792.a69e081f312f.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 793,
+   "file": "11-1008-793.419647cc8d5c.pmtiles",
+   "bytes": 699130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-793.419647cc8d5c.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 794,
+   "file": "11-1008-794.378143aa829c.pmtiles",
+   "bytes": 186506,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-794.378143aa829c.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 795,
+   "file": "11-1008-795.db3ce5b09aaf.pmtiles",
+   "bytes": 169837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-795.db3ce5b09aaf.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 796,
+   "file": "11-1008-796.50b460cea833.pmtiles",
+   "bytes": 237698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-796.50b460cea833.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 797,
+   "file": "11-1008-797.f6228830972b.pmtiles",
+   "bytes": 204748,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-797.f6228830972b.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 798,
+   "file": "11-1008-798.09af46381bfc.pmtiles",
+   "bytes": 1152019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-798.09af46381bfc.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 799,
+   "file": "11-1008-799.7727017ee587.pmtiles",
+   "bytes": 527917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1008-799.7727017ee587.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 790,
+   "file": "11-1009-790.020d2098f912.pmtiles",
+   "bytes": 168486,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-790.020d2098f912.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 791,
+   "file": "11-1009-791.5d3e53676d44.pmtiles",
+   "bytes": 485899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-791.5d3e53676d44.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 792,
+   "file": "11-1009-792.ad7bbb1cfade.pmtiles",
+   "bytes": 144595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-792.ad7bbb1cfade.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 793,
+   "file": "11-1009-793.9e51a0a34426.pmtiles",
+   "bytes": 184340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-793.9e51a0a34426.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 794,
+   "file": "11-1009-794.601ad81b93cd.pmtiles",
+   "bytes": 176803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-794.601ad81b93cd.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 795,
+   "file": "11-1009-795.fe28da94b325.pmtiles",
+   "bytes": 256216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-795.fe28da94b325.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 796,
+   "file": "11-1009-796.262a58a6ad69.pmtiles",
+   "bytes": 259185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-796.262a58a6ad69.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 797,
+   "file": "11-1009-797.19f1f66be00f.pmtiles",
+   "bytes": 474733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-797.19f1f66be00f.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 798,
+   "file": "11-1009-798.9398888a9003.pmtiles",
+   "bytes": 1692640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-798.9398888a9003.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 799,
+   "file": "11-1009-799.5869c77942f2.pmtiles",
+   "bytes": 221748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1009-799.5869c77942f2.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 790,
+   "file": "11-1010-790.beb40c07e9f8.pmtiles",
+   "bytes": 125015,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-790.beb40c07e9f8.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 791,
+   "file": "11-1010-791.a83707b07911.pmtiles",
+   "bytes": 79615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-791.a83707b07911.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 792,
+   "file": "11-1010-792.0d1c5803d50e.pmtiles",
+   "bytes": 96810,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-792.0d1c5803d50e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 793,
+   "file": "11-1010-793.f8eb59b4d13a.pmtiles",
+   "bytes": 178428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-793.f8eb59b4d13a.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 794,
+   "file": "11-1010-794.421ee3cf9379.pmtiles",
+   "bytes": 366690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-794.421ee3cf9379.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 795,
+   "file": "11-1010-795.59d0ece40a76.pmtiles",
+   "bytes": 287951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-795.59d0ece40a76.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 796,
+   "file": "11-1010-796.e20b1da80274.pmtiles",
+   "bytes": 277174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-796.e20b1da80274.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 797,
+   "file": "11-1010-797.a6ecfe601ba2.pmtiles",
+   "bytes": 571195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-797.a6ecfe601ba2.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 798,
+   "file": "11-1010-798.724db533dd50.pmtiles",
+   "bytes": 1592090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1010-798.724db533dd50.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 790,
+   "file": "11-1011-790.047189157071.pmtiles",
+   "bytes": 55502,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-790.047189157071.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 791,
+   "file": "11-1011-791.7ce21e87f724.pmtiles",
+   "bytes": 63276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-791.7ce21e87f724.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 792,
+   "file": "11-1011-792.b09662728a3a.pmtiles",
+   "bytes": 152824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-792.b09662728a3a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 793,
+   "file": "11-1011-793.770c7e85540d.pmtiles",
+   "bytes": 163644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-793.770c7e85540d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 794,
+   "file": "11-1011-794.9747de102642.pmtiles",
+   "bytes": 375679,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-794.9747de102642.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 795,
+   "file": "11-1011-795.b7efc00a9cf3.pmtiles",
+   "bytes": 283422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-795.b7efc00a9cf3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 796,
+   "file": "11-1011-796.8f08a06f5ae3.pmtiles",
+   "bytes": 247597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-796.8f08a06f5ae3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 797,
+   "file": "11-1011-797.7793a8520a80.pmtiles",
+   "bytes": 435972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-797.7793a8520a80.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 798,
+   "file": "11-1011-798.76ae9957108a.pmtiles",
+   "bytes": 322007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-798.76ae9957108a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 799,
+   "file": "11-1011-799.3df2dac3aeb4.pmtiles",
+   "bytes": 44970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1011-799.3df2dac3aeb4.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 790,
+   "file": "11-1012-790.15bdcfef2e0e.pmtiles",
+   "bytes": 41323,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-790.15bdcfef2e0e.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 791,
+   "file": "11-1012-791.3f1d246b91e4.pmtiles",
+   "bytes": 192496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-791.3f1d246b91e4.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 792,
+   "file": "11-1012-792.6eae6d0f901a.pmtiles",
+   "bytes": 375039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-792.6eae6d0f901a.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 793,
+   "file": "11-1012-793.0a345161d221.pmtiles",
+   "bytes": 233101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-793.0a345161d221.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 794,
+   "file": "11-1012-794.275543c9a43c.pmtiles",
+   "bytes": 406718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-794.275543c9a43c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 795,
+   "file": "11-1012-795.f0d75679c9ac.pmtiles",
+   "bytes": 233076,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-795.f0d75679c9ac.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 796,
+   "file": "11-1012-796.5c946af2a95e.pmtiles",
+   "bytes": 303003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-796.5c946af2a95e.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 797,
+   "file": "11-1012-797.2875e9cf10cc.pmtiles",
+   "bytes": 275400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-797.2875e9cf10cc.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 798,
+   "file": "11-1012-798.6f80e2014a5c.pmtiles",
+   "bytes": 188146,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1012-798.6f80e2014a5c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 790,
+   "file": "11-1013-790.da65fc132e3c.pmtiles",
+   "bytes": 163155,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-790.da65fc132e3c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 791,
+   "file": "11-1013-791.d051c30ad292.pmtiles",
+   "bytes": 259248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-791.d051c30ad292.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 792,
+   "file": "11-1013-792.df0cf0b34f2a.pmtiles",
+   "bytes": 374225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-792.df0cf0b34f2a.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 793,
+   "file": "11-1013-793.485c6fb6eadc.pmtiles",
+   "bytes": 355099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-793.485c6fb6eadc.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 794,
+   "file": "11-1013-794.d69c5aedd22e.pmtiles",
+   "bytes": 236088,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-794.d69c5aedd22e.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 795,
+   "file": "11-1013-795.600de37d1a5c.pmtiles",
+   "bytes": 1680093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-795.600de37d1a5c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 796,
+   "file": "11-1013-796.343ae14b681a.pmtiles",
+   "bytes": 389977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-796.343ae14b681a.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 797,
+   "file": "11-1013-797.b4a1c2ff454b.pmtiles",
+   "bytes": 129569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1013-797.b4a1c2ff454b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 790,
+   "file": "11-1014-790.d9207683daef.pmtiles",
+   "bytes": 412336,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-790.d9207683daef.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 791,
+   "file": "11-1014-791.8d8f25cdf870.pmtiles",
+   "bytes": 255257,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-791.8d8f25cdf870.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 792,
+   "file": "11-1014-792.4d9ef4531c91.pmtiles",
+   "bytes": 715790,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-792.4d9ef4531c91.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 793,
+   "file": "11-1014-793.bb26c073dddb.pmtiles",
+   "bytes": 275522,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-793.bb26c073dddb.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 794,
+   "file": "11-1014-794.479af555e6c0.pmtiles",
+   "bytes": 370098,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-794.479af555e6c0.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 795,
+   "file": "11-1014-795.ab6087314dff.pmtiles",
+   "bytes": 27838,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-almeria-2026-10-03/11-1014-795.ab6087314dff.pmtiles"
+  }
+ ]
+}

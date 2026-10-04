@@ -1,0 +1,1069 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-guadalajara",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T21:02:13.481Z",
+ "publishedAt": "2026-10-04T21:02:47.660Z",
+ "host": "github",
+ "releases": [
+  "maps-es-guadalajara-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.54111,
+  40.15246,
+  -1.53564,
+  41.32763
+ ],
+ "overview": {
+  "file": "overview.0a09f6415b06.pmtiles",
+  "bytes": 2794838,
+  "tiles": 73,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/overview.0a09f6415b06.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1003,
+   "y": 765,
+   "file": "11-1003-765.afbd42d41f56.pmtiles",
+   "bytes": 42774,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-765.afbd42d41f56.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 766,
+   "file": "11-1003-766.0f49d9ec50b4.pmtiles",
+   "bytes": 81848,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-766.0f49d9ec50b4.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 767,
+   "file": "11-1003-767.493ce33cdc85.pmtiles",
+   "bytes": 105788,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-767.493ce33cdc85.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 768,
+   "file": "11-1003-768.e965eca90509.pmtiles",
+   "bytes": 129706,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-768.e965eca90509.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 769,
+   "file": "11-1003-769.91158da10409.pmtiles",
+   "bytes": 176396,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-769.91158da10409.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 770,
+   "file": "11-1003-770.6c68e26aa9f8.pmtiles",
+   "bytes": 131416,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-770.6c68e26aa9f8.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 771,
+   "file": "11-1003-771.60b18cf3f5b4.pmtiles",
+   "bytes": 378289,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-771.60b18cf3f5b4.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 772,
+   "file": "11-1003-772.5a3ff9cfe084.pmtiles",
+   "bytes": 1665385,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-772.5a3ff9cfe084.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 773,
+   "file": "11-1003-773.7db8d2f8860a.pmtiles",
+   "bytes": 189826,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-773.7db8d2f8860a.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 774,
+   "file": "11-1003-774.5907fa3f079f.pmtiles",
+   "bytes": 46985,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1003-774.5907fa3f079f.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 765,
+   "file": "11-1004-765.c72fcd5bd430.pmtiles",
+   "bytes": 240816,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-765.c72fcd5bd430.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 766,
+   "file": "11-1004-766.8aaa4c32a223.pmtiles",
+   "bytes": 308737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-766.8aaa4c32a223.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 767,
+   "file": "11-1004-767.d04ef2d240a5.pmtiles",
+   "bytes": 267785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-767.d04ef2d240a5.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 768,
+   "file": "11-1004-768.7db8fab055ec.pmtiles",
+   "bytes": 306768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-768.7db8fab055ec.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 769,
+   "file": "11-1004-769.082d79c153f2.pmtiles",
+   "bytes": 249370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-769.082d79c153f2.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 770,
+   "file": "11-1004-770.a122709a2529.pmtiles",
+   "bytes": 411471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-770.a122709a2529.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 771,
+   "file": "11-1004-771.6a7a511e1ec9.pmtiles",
+   "bytes": 2106554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-771.6a7a511e1ec9.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 772,
+   "file": "11-1004-772.746701c9476e.pmtiles",
+   "bytes": 1233643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-772.746701c9476e.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 773,
+   "file": "11-1004-773.c2439b7a4bd9.pmtiles",
+   "bytes": 556947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-773.c2439b7a4bd9.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 774,
+   "file": "11-1004-774.594fc6f9d8ec.pmtiles",
+   "bytes": 91195,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1004-774.594fc6f9d8ec.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 765,
+   "file": "11-1005-765.cc6c49e3b21c.pmtiles",
+   "bytes": 153298,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-765.cc6c49e3b21c.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 766,
+   "file": "11-1005-766.ffa6d748c85d.pmtiles",
+   "bytes": 257119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-766.ffa6d748c85d.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 767,
+   "file": "11-1005-767.257f7139ffa8.pmtiles",
+   "bytes": 240798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-767.257f7139ffa8.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 768,
+   "file": "11-1005-768.90fce373580f.pmtiles",
+   "bytes": 174919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-768.90fce373580f.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 769,
+   "file": "11-1005-769.f5e565eb2f77.pmtiles",
+   "bytes": 207853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-769.f5e565eb2f77.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 770,
+   "file": "11-1005-770.24c4dc5aeaf2.pmtiles",
+   "bytes": 715005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-770.24c4dc5aeaf2.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 771,
+   "file": "11-1005-771.18a967886b9f.pmtiles",
+   "bytes": 748494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-771.18a967886b9f.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 772,
+   "file": "11-1005-772.3c9b1a71a4ce.pmtiles",
+   "bytes": 611890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-772.3c9b1a71a4ce.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 773,
+   "file": "11-1005-773.0694415a721d.pmtiles",
+   "bytes": 235455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-773.0694415a721d.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 774,
+   "file": "11-1005-774.01c29eef5131.pmtiles",
+   "bytes": 88838,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1005-774.01c29eef5131.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 765,
+   "file": "11-1006-765.2d9fc9e3cf47.pmtiles",
+   "bytes": 110778,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-765.2d9fc9e3cf47.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 766,
+   "file": "11-1006-766.20dfd760f963.pmtiles",
+   "bytes": 227366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-766.20dfd760f963.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 767,
+   "file": "11-1006-767.70d32f84a5d6.pmtiles",
+   "bytes": 179532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-767.70d32f84a5d6.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 768,
+   "file": "11-1006-768.a1e8ed96d1a3.pmtiles",
+   "bytes": 209164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-768.a1e8ed96d1a3.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 769,
+   "file": "11-1006-769.b9f7574eb6b2.pmtiles",
+   "bytes": 249545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-769.b9f7574eb6b2.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 770,
+   "file": "11-1006-770.2a8b991144ff.pmtiles",
+   "bytes": 516462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-770.2a8b991144ff.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 771,
+   "file": "11-1006-771.b9094cbc72d0.pmtiles",
+   "bytes": 295647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-771.b9094cbc72d0.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 772,
+   "file": "11-1006-772.5eeb952c990d.pmtiles",
+   "bytes": 198423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-772.5eeb952c990d.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 773,
+   "file": "11-1006-773.0c3d0f22da60.pmtiles",
+   "bytes": 196577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-773.0c3d0f22da60.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 774,
+   "file": "11-1006-774.40cc97cfc342.pmtiles",
+   "bytes": 55093,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1006-774.40cc97cfc342.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 765,
+   "file": "11-1007-765.690c14add6a9.pmtiles",
+   "bytes": 107233,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-765.690c14add6a9.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 766,
+   "file": "11-1007-766.c84b18397fd5.pmtiles",
+   "bytes": 164232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-766.c84b18397fd5.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 767,
+   "file": "11-1007-767.d696996e1700.pmtiles",
+   "bytes": 128230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-767.d696996e1700.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 768,
+   "file": "11-1007-768.f29a7e846cf9.pmtiles",
+   "bytes": 231953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-768.f29a7e846cf9.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 769,
+   "file": "11-1007-769.c8d55ec63d8e.pmtiles",
+   "bytes": 225575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-769.c8d55ec63d8e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 770,
+   "file": "11-1007-770.954c2d67f287.pmtiles",
+   "bytes": 219216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-770.954c2d67f287.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 771,
+   "file": "11-1007-771.f86933bdd3cd.pmtiles",
+   "bytes": 182036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-771.f86933bdd3cd.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 772,
+   "file": "11-1007-772.372f75c8c606.pmtiles",
+   "bytes": 238248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-772.372f75c8c606.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 773,
+   "file": "11-1007-773.c5db34cb749f.pmtiles",
+   "bytes": 158204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-773.c5db34cb749f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 774,
+   "file": "11-1007-774.651c88fa0f59.pmtiles",
+   "bytes": 51070,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1007-774.651c88fa0f59.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 765,
+   "file": "11-1008-765.82fab52e2ec7.pmtiles",
+   "bytes": 107966,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-765.82fab52e2ec7.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 766,
+   "file": "11-1008-766.a776f0331b17.pmtiles",
+   "bytes": 158746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-766.a776f0331b17.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 767,
+   "file": "11-1008-767.1bcd9504b983.pmtiles",
+   "bytes": 218348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-767.1bcd9504b983.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 768,
+   "file": "11-1008-768.ad104877bc85.pmtiles",
+   "bytes": 197584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-768.ad104877bc85.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 769,
+   "file": "11-1008-769.27556b43c8fb.pmtiles",
+   "bytes": 146097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-769.27556b43c8fb.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 770,
+   "file": "11-1008-770.4031a1a2caa0.pmtiles",
+   "bytes": 217832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-770.4031a1a2caa0.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 771,
+   "file": "11-1008-771.cd592a28b89e.pmtiles",
+   "bytes": 272065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-771.cd592a28b89e.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 772,
+   "file": "11-1008-772.0e80a1b5f0b3.pmtiles",
+   "bytes": 209628,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-772.0e80a1b5f0b3.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 773,
+   "file": "11-1008-773.04e26b35460b.pmtiles",
+   "bytes": 108698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-773.04e26b35460b.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 774,
+   "file": "11-1008-774.2cda8df38381.pmtiles",
+   "bytes": 43714,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1008-774.2cda8df38381.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 765,
+   "file": "11-1009-765.c4f49e9af9df.pmtiles",
+   "bytes": 107646,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-765.c4f49e9af9df.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 766,
+   "file": "11-1009-766.314e79071469.pmtiles",
+   "bytes": 177497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-766.314e79071469.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 767,
+   "file": "11-1009-767.e6e0faa819a4.pmtiles",
+   "bytes": 245352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-767.e6e0faa819a4.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 768,
+   "file": "11-1009-768.03c29ef7769a.pmtiles",
+   "bytes": 160126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-768.03c29ef7769a.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 769,
+   "file": "11-1009-769.5e7467b5d5fd.pmtiles",
+   "bytes": 180063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-769.5e7467b5d5fd.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 770,
+   "file": "11-1009-770.e0fa4dc84a3e.pmtiles",
+   "bytes": 216940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-770.e0fa4dc84a3e.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 771,
+   "file": "11-1009-771.83a05051ca02.pmtiles",
+   "bytes": 185374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-771.83a05051ca02.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 772,
+   "file": "11-1009-772.2dae14b648ad.pmtiles",
+   "bytes": 158833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-772.2dae14b648ad.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 773,
+   "file": "11-1009-773.a4142737fb92.pmtiles",
+   "bytes": 165425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-773.a4142737fb92.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 774,
+   "file": "11-1009-774.456f3b831b2b.pmtiles",
+   "bytes": 37400,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1009-774.456f3b831b2b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 765,
+   "file": "11-1010-765.05c28997c625.pmtiles",
+   "bytes": 92883,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-765.05c28997c625.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 766,
+   "file": "11-1010-766.07670f5de520.pmtiles",
+   "bytes": 226008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-766.07670f5de520.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 767,
+   "file": "11-1010-767.318dfbdd7c7e.pmtiles",
+   "bytes": 181588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-767.318dfbdd7c7e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 768,
+   "file": "11-1010-768.043765fc1345.pmtiles",
+   "bytes": 167741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-768.043765fc1345.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 769,
+   "file": "11-1010-769.da3fd07c1680.pmtiles",
+   "bytes": 229336,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-769.da3fd07c1680.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 770,
+   "file": "11-1010-770.a3a28029c1a8.pmtiles",
+   "bytes": 148724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-770.a3a28029c1a8.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 771,
+   "file": "11-1010-771.4c17230a6c53.pmtiles",
+   "bytes": 388233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-771.4c17230a6c53.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 772,
+   "file": "11-1010-772.241c4d36d358.pmtiles",
+   "bytes": 159504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-772.241c4d36d358.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 773,
+   "file": "11-1010-773.106172c50a4d.pmtiles",
+   "bytes": 142744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-773.106172c50a4d.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 774,
+   "file": "11-1010-774.f0e0561f411c.pmtiles",
+   "bytes": 52993,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1010-774.f0e0561f411c.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 765,
+   "file": "11-1011-765.fbc9ae2335ab.pmtiles",
+   "bytes": 117469,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-765.fbc9ae2335ab.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 766,
+   "file": "11-1011-766.b53521df9ecf.pmtiles",
+   "bytes": 174905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-766.b53521df9ecf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 767,
+   "file": "11-1011-767.b3b7c972b0eb.pmtiles",
+   "bytes": 222247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-767.b3b7c972b0eb.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 768,
+   "file": "11-1011-768.75c1e64c19f3.pmtiles",
+   "bytes": 222268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-768.75c1e64c19f3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 769,
+   "file": "11-1011-769.a666d9025d51.pmtiles",
+   "bytes": 181261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-769.a666d9025d51.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 770,
+   "file": "11-1011-770.9e539ceada97.pmtiles",
+   "bytes": 149546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-770.9e539ceada97.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 771,
+   "file": "11-1011-771.28801ba78d6c.pmtiles",
+   "bytes": 297499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-771.28801ba78d6c.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 772,
+   "file": "11-1011-772.699395a0be2d.pmtiles",
+   "bytes": 213123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-772.699395a0be2d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 773,
+   "file": "11-1011-773.926e60156bcc.pmtiles",
+   "bytes": 192600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-773.926e60156bcc.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 774,
+   "file": "11-1011-774.6319a0989ed3.pmtiles",
+   "bytes": 95755,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1011-774.6319a0989ed3.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 765,
+   "file": "11-1012-765.207bb765eb80.pmtiles",
+   "bytes": 144432,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-765.207bb765eb80.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 766,
+   "file": "11-1012-766.ff3c71cec0b6.pmtiles",
+   "bytes": 157949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-766.ff3c71cec0b6.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 767,
+   "file": "11-1012-767.d2d2a8300aa0.pmtiles",
+   "bytes": 229597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-767.d2d2a8300aa0.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 768,
+   "file": "11-1012-768.f0e4141d6418.pmtiles",
+   "bytes": 570270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-768.f0e4141d6418.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 769,
+   "file": "11-1012-769.5e5b43751879.pmtiles",
+   "bytes": 317717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-769.5e5b43751879.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 770,
+   "file": "11-1012-770.0ce433147746.pmtiles",
+   "bytes": 218827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-770.0ce433147746.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 771,
+   "file": "11-1012-771.9d4533f1c64c.pmtiles",
+   "bytes": 217481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-771.9d4533f1c64c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 772,
+   "file": "11-1012-772.b95d743d8736.pmtiles",
+   "bytes": 181556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-772.b95d743d8736.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 773,
+   "file": "11-1012-773.5d3b314a05f4.pmtiles",
+   "bytes": 368479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-773.5d3b314a05f4.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 774,
+   "file": "11-1012-774.b764ecfe292e.pmtiles",
+   "bytes": 87390,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1012-774.b764ecfe292e.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 765,
+   "file": "11-1013-765.e42a288d6259.pmtiles",
+   "bytes": 207316,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-765.e42a288d6259.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 766,
+   "file": "11-1013-766.1cdaf7cb1647.pmtiles",
+   "bytes": 217020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-766.1cdaf7cb1647.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 767,
+   "file": "11-1013-767.781ea351c431.pmtiles",
+   "bytes": 149255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-767.781ea351c431.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 768,
+   "file": "11-1013-768.7323ea7cb48e.pmtiles",
+   "bytes": 162972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-768.7323ea7cb48e.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 769,
+   "file": "11-1013-769.a760e7bd07dc.pmtiles",
+   "bytes": 251024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-769.a760e7bd07dc.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 770,
+   "file": "11-1013-770.226fde425d8c.pmtiles",
+   "bytes": 249277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-770.226fde425d8c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 771,
+   "file": "11-1013-771.a427642f9e20.pmtiles",
+   "bytes": 251337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-771.a427642f9e20.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 772,
+   "file": "11-1013-772.bf61ed79da8c.pmtiles",
+   "bytes": 201135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-772.bf61ed79da8c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 773,
+   "file": "11-1013-773.d284117fb7fb.pmtiles",
+   "bytes": 216556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-773.d284117fb7fb.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 774,
+   "file": "11-1013-774.def0faf98289.pmtiles",
+   "bytes": 54180,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1013-774.def0faf98289.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 765,
+   "file": "11-1014-765.1829897b95a7.pmtiles",
+   "bytes": 203348,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-765.1829897b95a7.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 766,
+   "file": "11-1014-766.2e4b9432a6b6.pmtiles",
+   "bytes": 128975,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-766.2e4b9432a6b6.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 767,
+   "file": "11-1014-767.dc47a5bc2c52.pmtiles",
+   "bytes": 97325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-767.dc47a5bc2c52.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 768,
+   "file": "11-1014-768.4c05afe96db1.pmtiles",
+   "bytes": 100832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-768.4c05afe96db1.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 769,
+   "file": "11-1014-769.9889a9ad9e2f.pmtiles",
+   "bytes": 139079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-769.9889a9ad9e2f.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 770,
+   "file": "11-1014-770.c0554e7d21b9.pmtiles",
+   "bytes": 179625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-770.c0554e7d21b9.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 771,
+   "file": "11-1014-771.328aaf0ecd46.pmtiles",
+   "bytes": 249883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-771.328aaf0ecd46.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 772,
+   "file": "11-1014-772.0d8f0f8773c1.pmtiles",
+   "bytes": 222840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-772.0d8f0f8773c1.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 773,
+   "file": "11-1014-773.664e7d703e45.pmtiles",
+   "bytes": 195992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-773.664e7d703e45.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 774,
+   "file": "11-1014-774.7c5c401bc014.pmtiles",
+   "bytes": 82133,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1014-774.7c5c401bc014.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 765,
+   "file": "11-1015-765.b371312f5c88.pmtiles",
+   "bytes": 87420,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-765.b371312f5c88.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 766,
+   "file": "11-1015-766.1ca594043dc9.pmtiles",
+   "bytes": 72563,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-766.1ca594043dc9.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 767,
+   "file": "11-1015-767.1f7e08097a87.pmtiles",
+   "bytes": 84093,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-767.1f7e08097a87.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 768,
+   "file": "11-1015-768.9e227cb71e34.pmtiles",
+   "bytes": 60938,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-768.9e227cb71e34.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 769,
+   "file": "11-1015-769.43164cdafd03.pmtiles",
+   "bytes": 67839,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-769.43164cdafd03.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 770,
+   "file": "11-1015-770.0081b2253e27.pmtiles",
+   "bytes": 57688,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-770.0081b2253e27.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 771,
+   "file": "11-1015-771.413698fc0d91.pmtiles",
+   "bytes": 54059,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-771.413698fc0d91.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 772,
+   "file": "11-1015-772.3664f37eebf7.pmtiles",
+   "bytes": 110731,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-772.3664f37eebf7.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 773,
+   "file": "11-1015-773.ad70144dbbec.pmtiles",
+   "bytes": 94572,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-773.ad70144dbbec.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 774,
+   "file": "11-1015-774.3b354a7cf8ed.pmtiles",
+   "bytes": 37738,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-guadalajara-2026-10-03/11-1015-774.3b354a7cf8ed.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-malaga",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T20:56:45.207Z",
+ "publishedAt": "2026-10-04T20:57:05.202Z",
+ "host": "github",
+ "releases": [
+  "maps-es-malaga-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -5.61178,
+  36.31035,
+  -3.76597,
+  37.28244
+ ],
+ "overview": {
+  "file": "overview.7a8997be0441.pmtiles",
+  "bytes": 1205231,
+  "tiles": 53,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/overview.7a8997be0441.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 992,
+   "y": 795,
+   "file": "11-992-795.f5aa4e11162e.pmtiles",
+   "bytes": 190925,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-795.f5aa4e11162e.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 796,
+   "file": "11-992-796.dccb19ba6c29.pmtiles",
+   "bytes": 172099,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-796.dccb19ba6c29.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 797,
+   "file": "11-992-797.1a5d47d1720a.pmtiles",
+   "bytes": 154977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-797.1a5d47d1720a.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 798,
+   "file": "11-992-798.2e7370639a11.pmtiles",
+   "bytes": 195299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-798.2e7370639a11.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 799,
+   "file": "11-992-799.22603ddef17c.pmtiles",
+   "bytes": 152111,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-799.22603ddef17c.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 800,
+   "file": "11-992-800.4ec21a07c528.pmtiles",
+   "bytes": 75591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-800.4ec21a07c528.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 801,
+   "file": "11-992-801.4e21ef0c1487.pmtiles",
+   "bytes": 102515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-801.4e21ef0c1487.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 802,
+   "file": "11-992-802.3130ccb01e15.pmtiles",
+   "bytes": 43997,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-992-802.3130ccb01e15.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 795,
+   "file": "11-993-795.34c1ba696691.pmtiles",
+   "bytes": 127461,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-795.34c1ba696691.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 796,
+   "file": "11-993-796.cfd343716f5b.pmtiles",
+   "bytes": 103203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-796.cfd343716f5b.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 797,
+   "file": "11-993-797.fe1105c57b06.pmtiles",
+   "bytes": 232720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-797.fe1105c57b06.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 798,
+   "file": "11-993-798.7488982a9211.pmtiles",
+   "bytes": 363108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-798.7488982a9211.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 799,
+   "file": "11-993-799.76d915d91db0.pmtiles",
+   "bytes": 288614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-799.76d915d91db0.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 800,
+   "file": "11-993-800.02bcb2f63c72.pmtiles",
+   "bytes": 251878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-800.02bcb2f63c72.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 801,
+   "file": "11-993-801.f7f1b893e42e.pmtiles",
+   "bytes": 203277,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-801.f7f1b893e42e.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 802,
+   "file": "11-993-802.de7cd9e40120.pmtiles",
+   "bytes": 176270,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-993-802.de7cd9e40120.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 795,
+   "file": "11-994-795.e96b805b796a.pmtiles",
+   "bytes": 116433,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-795.e96b805b796a.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 796,
+   "file": "11-994-796.2860215d47e1.pmtiles",
+   "bytes": 83916,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-796.2860215d47e1.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 797,
+   "file": "11-994-797.c06f11891fcd.pmtiles",
+   "bytes": 325137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-797.c06f11891fcd.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 798,
+   "file": "11-994-798.f0e0ae01b6a2.pmtiles",
+   "bytes": 705029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-798.f0e0ae01b6a2.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 799,
+   "file": "11-994-799.11a3a312021e.pmtiles",
+   "bytes": 478486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-799.11a3a312021e.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 800,
+   "file": "11-994-800.5a7878b6b5ae.pmtiles",
+   "bytes": 242304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-800.5a7878b6b5ae.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 801,
+   "file": "11-994-801.b954ec9b2e5b.pmtiles",
+   "bytes": 755694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-801.b954ec9b2e5b.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 802,
+   "file": "11-994-802.86a17423e40a.pmtiles",
+   "bytes": 44056,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-994-802.86a17423e40a.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 795,
+   "file": "11-995-795.673da49ab51f.pmtiles",
+   "bytes": 124027,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-795.673da49ab51f.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 796,
+   "file": "11-995-796.09bbcad16b8e.pmtiles",
+   "bytes": 132437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-796.09bbcad16b8e.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 797,
+   "file": "11-995-797.e01990d690eb.pmtiles",
+   "bytes": 137986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-797.e01990d690eb.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 798,
+   "file": "11-995-798.470335ff2697.pmtiles",
+   "bytes": 214952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-798.470335ff2697.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 799,
+   "file": "11-995-799.e8725a2b879d.pmtiles",
+   "bytes": 355872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-799.e8725a2b879d.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 800,
+   "file": "11-995-800.f9b9b5a7196e.pmtiles",
+   "bytes": 1360602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-800.f9b9b5a7196e.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 801,
+   "file": "11-995-801.42f4d66fc8be.pmtiles",
+   "bytes": 91243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-995-801.42f4d66fc8be.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 795,
+   "file": "11-996-795.3e11d68c27f6.pmtiles",
+   "bytes": 216790,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-795.3e11d68c27f6.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 796,
+   "file": "11-996-796.d4a04380875a.pmtiles",
+   "bytes": 165262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-796.d4a04380875a.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 797,
+   "file": "11-996-797.7c3f0c7e04c1.pmtiles",
+   "bytes": 291522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-797.7c3f0c7e04c1.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 798,
+   "file": "11-996-798.9105500318de.pmtiles",
+   "bytes": 161713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-798.9105500318de.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 799,
+   "file": "11-996-799.491cb2c50dda.pmtiles",
+   "bytes": 510702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-799.491cb2c50dda.pmtiles"
+  },
+  {
+   "x": 996,
+   "y": 800,
+   "file": "11-996-800.19019eb1f5d0.pmtiles",
+   "bytes": 967403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-996-800.19019eb1f5d0.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 795,
+   "file": "11-997-795.379d0d7792e7.pmtiles",
+   "bytes": 113532,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-795.379d0d7792e7.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 796,
+   "file": "11-997-796.784280a6dd11.pmtiles",
+   "bytes": 276369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-796.784280a6dd11.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 797,
+   "file": "11-997-797.4ae6801558d1.pmtiles",
+   "bytes": 425060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-797.4ae6801558d1.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 798,
+   "file": "11-997-798.90ce17abbd43.pmtiles",
+   "bytes": 373905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-798.90ce17abbd43.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 799,
+   "file": "11-997-799.1aa4a8933025.pmtiles",
+   "bytes": 647739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-799.1aa4a8933025.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 800,
+   "file": "11-997-800.41f3587230dc.pmtiles",
+   "bytes": 1799609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-997-800.41f3587230dc.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 795,
+   "file": "11-998-795.d407c0325a76.pmtiles",
+   "bytes": 241931,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-795.d407c0325a76.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 796,
+   "file": "11-998-796.2d7a2574035d.pmtiles",
+   "bytes": 239248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-796.2d7a2574035d.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 797,
+   "file": "11-998-797.abafd1ca9d8a.pmtiles",
+   "bytes": 382057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-797.abafd1ca9d8a.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 798,
+   "file": "11-998-798.167171f219a4.pmtiles",
+   "bytes": 1736589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-798.167171f219a4.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 799,
+   "file": "11-998-799.05d502adcd4e.pmtiles",
+   "bytes": 6131482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-799.05d502adcd4e.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 800,
+   "file": "11-998-800.cf66c1941be0.pmtiles",
+   "bytes": 235403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-998-800.cf66c1941be0.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 795,
+   "file": "11-999-795.868126c17d23.pmtiles",
+   "bytes": 243079,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-999-795.868126c17d23.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 796,
+   "file": "11-999-796.8dbc01819703.pmtiles",
+   "bytes": 421532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-999-796.8dbc01819703.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 797,
+   "file": "11-999-797.d6efdf9022a3.pmtiles",
+   "bytes": 601979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-999-797.d6efdf9022a3.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 798,
+   "file": "11-999-798.bce9f57c4aef.pmtiles",
+   "bytes": 817920,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-999-798.bce9f57c4aef.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 799,
+   "file": "11-999-799.1b0eb27fde07.pmtiles",
+   "bytes": 1482259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-999-799.1b0eb27fde07.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 795,
+   "file": "11-1000-795.c8131507a22a.pmtiles",
+   "bytes": 845573,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1000-795.c8131507a22a.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 796,
+   "file": "11-1000-796.247da11f00c1.pmtiles",
+   "bytes": 194649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1000-796.247da11f00c1.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 797,
+   "file": "11-1000-797.07ba9f676f08.pmtiles",
+   "bytes": 568972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1000-797.07ba9f676f08.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 798,
+   "file": "11-1000-798.bc57e9a05da2.pmtiles",
+   "bytes": 1537295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1000-798.bc57e9a05da2.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 799,
+   "file": "11-1000-799.b4d1f491e643.pmtiles",
+   "bytes": 338633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1000-799.b4d1f491e643.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 795,
+   "file": "11-1001-795.a6d5ce4e0838.pmtiles",
+   "bytes": 545611,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1001-795.a6d5ce4e0838.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 796,
+   "file": "11-1001-796.8aa2b3968690.pmtiles",
+   "bytes": 199418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1001-796.8aa2b3968690.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 797,
+   "file": "11-1001-797.25a9ae2238bc.pmtiles",
+   "bytes": 316091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1001-797.25a9ae2238bc.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 798,
+   "file": "11-1001-798.f8ad90e4b5bb.pmtiles",
+   "bytes": 1183284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1001-798.f8ad90e4b5bb.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 799,
+   "file": "11-1001-799.f5bf08d1d344.pmtiles",
+   "bytes": 133776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1001-799.f5bf08d1d344.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 795,
+   "file": "11-1002-795.e0f339680e27.pmtiles",
+   "bytes": 576947,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1002-795.e0f339680e27.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 796,
+   "file": "11-1002-796.2ae8301fdbc8.pmtiles",
+   "bytes": 174201,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1002-796.2ae8301fdbc8.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 797,
+   "file": "11-1002-797.d06afe485553.pmtiles",
+   "bytes": 148328,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1002-797.d06afe485553.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 798,
+   "file": "11-1002-798.73d07799fe36.pmtiles",
+   "bytes": 295502,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1002-798.73d07799fe36.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 799,
+   "file": "11-1002-799.c2269fe6d007.pmtiles",
+   "bytes": 70737,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-malaga-2026-10-03/11-1002-799.c2269fe6d007.pmtiles"
+  }
+ ]
+}

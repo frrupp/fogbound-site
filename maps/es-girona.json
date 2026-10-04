@@ -1,0 +1,629 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-girona",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:53:01.468Z",
+ "publishedAt": "2026-10-04T19:53:24.562Z",
+ "host": "github",
+ "releases": [
+  "maps-es-girona-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  1.5812,
+  41.65048,
+  3.32225,
+  42.50467
+ ],
+ "overview": {
+  "file": "overview.4c5f2b63a545.pmtiles",
+  "bytes": 1803481,
+  "tiles": 43,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/overview.4c5f2b63a545.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1032,
+   "y": 756,
+   "file": "11-1032-756.5956715e394e.pmtiles",
+   "bytes": 41442,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-756.5956715e394e.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 757,
+   "file": "11-1032-757.53b1b12a2efe.pmtiles",
+   "bytes": 111518,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-757.53b1b12a2efe.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 758,
+   "file": "11-1032-758.c7f9789766c3.pmtiles",
+   "bytes": 128988,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-758.c7f9789766c3.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 759,
+   "file": "11-1032-759.649dfb5d5658.pmtiles",
+   "bytes": 226891,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-759.649dfb5d5658.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 760,
+   "file": "11-1032-760.36d5c432553e.pmtiles",
+   "bytes": 302645,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-760.36d5c432553e.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 761,
+   "file": "11-1032-761.72e9672d0915.pmtiles",
+   "bytes": 189046,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-761.72e9672d0915.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 762,
+   "file": "11-1032-762.2232dfdfd469.pmtiles",
+   "bytes": 155362,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1032-762.2232dfdfd469.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 756,
+   "file": "11-1033-756.b9e30228f09f.pmtiles",
+   "bytes": 210353,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-756.b9e30228f09f.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 757,
+   "file": "11-1033-757.6e7cdd20a45e.pmtiles",
+   "bytes": 577039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-757.6e7cdd20a45e.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 758,
+   "file": "11-1033-758.58a15698bbff.pmtiles",
+   "bytes": 784002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-758.58a15698bbff.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 759,
+   "file": "11-1033-759.d48950685cf7.pmtiles",
+   "bytes": 787139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-759.d48950685cf7.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 760,
+   "file": "11-1033-760.0dff41f73926.pmtiles",
+   "bytes": 1053234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-760.0dff41f73926.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 761,
+   "file": "11-1033-761.7bbfb20946b7.pmtiles",
+   "bytes": 1029457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-761.7bbfb20946b7.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 762,
+   "file": "11-1033-762.72762168661d.pmtiles",
+   "bytes": 977494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1033-762.72762168661d.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 756,
+   "file": "11-1034-756.b67525d2cacb.pmtiles",
+   "bytes": 357870,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-756.b67525d2cacb.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 757,
+   "file": "11-1034-757.85f5416b7162.pmtiles",
+   "bytes": 890956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-757.85f5416b7162.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 758,
+   "file": "11-1034-758.21739bd8ee34.pmtiles",
+   "bytes": 1042496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-758.21739bd8ee34.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 759,
+   "file": "11-1034-759.5891583107b4.pmtiles",
+   "bytes": 1254588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-759.5891583107b4.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 760,
+   "file": "11-1034-760.ed6e172d9046.pmtiles",
+   "bytes": 1066809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-760.ed6e172d9046.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 761,
+   "file": "11-1034-761.1261ed886341.pmtiles",
+   "bytes": 1927689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-761.1261ed886341.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 762,
+   "file": "11-1034-762.bcfad34e309c.pmtiles",
+   "bytes": 2818037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1034-762.bcfad34e309c.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 756,
+   "file": "11-1035-756.1dc9d96ab684.pmtiles",
+   "bytes": 226942,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-756.1dc9d96ab684.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 757,
+   "file": "11-1035-757.e0e22da4bf4c.pmtiles",
+   "bytes": 448753,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-757.e0e22da4bf4c.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 758,
+   "file": "11-1035-758.609e5e79a6db.pmtiles",
+   "bytes": 710240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-758.609e5e79a6db.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 759,
+   "file": "11-1035-759.c413f46328e6.pmtiles",
+   "bytes": 737102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-759.c413f46328e6.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 760,
+   "file": "11-1035-760.aac8147bf38e.pmtiles",
+   "bytes": 976372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-760.aac8147bf38e.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 761,
+   "file": "11-1035-761.7d52322bd820.pmtiles",
+   "bytes": 1170325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-761.7d52322bd820.pmtiles"
+  },
+  {
+   "x": 1035,
+   "y": 762,
+   "file": "11-1035-762.b728f33f0ea5.pmtiles",
+   "bytes": 1030544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1035-762.b728f33f0ea5.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 756,
+   "file": "11-1036-756.1ae4cf5e0e26.pmtiles",
+   "bytes": 72489,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-756.1ae4cf5e0e26.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 757,
+   "file": "11-1036-757.383b032adb6b.pmtiles",
+   "bytes": 544665,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-757.383b032adb6b.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 758,
+   "file": "11-1036-758.e6becd435356.pmtiles",
+   "bytes": 738974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-758.e6becd435356.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 759,
+   "file": "11-1036-759.807ffe75b9ba.pmtiles",
+   "bytes": 730439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-759.807ffe75b9ba.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 760,
+   "file": "11-1036-760.7d3dac5d96ab.pmtiles",
+   "bytes": 1189468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-760.7d3dac5d96ab.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 761,
+   "file": "11-1036-761.fe9630510b2a.pmtiles",
+   "bytes": 1033062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-761.fe9630510b2a.pmtiles"
+  },
+  {
+   "x": 1036,
+   "y": 762,
+   "file": "11-1036-762.f434c0365564.pmtiles",
+   "bytes": 1443994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1036-762.f434c0365564.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 756,
+   "file": "11-1037-756.473760f431ca.pmtiles",
+   "bytes": 26626,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-756.473760f431ca.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 757,
+   "file": "11-1037-757.e98912629daf.pmtiles",
+   "bytes": 645851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-757.e98912629daf.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 758,
+   "file": "11-1037-758.addf8b22b79a.pmtiles",
+   "bytes": 595995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-758.addf8b22b79a.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 759,
+   "file": "11-1037-759.3dc54cee2d53.pmtiles",
+   "bytes": 763835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-759.3dc54cee2d53.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 760,
+   "file": "11-1037-760.53c3f3e7faf5.pmtiles",
+   "bytes": 960287,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-760.53c3f3e7faf5.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 761,
+   "file": "11-1037-761.ccfbffb3aea9.pmtiles",
+   "bytes": 713158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-761.ccfbffb3aea9.pmtiles"
+  },
+  {
+   "x": 1037,
+   "y": 762,
+   "file": "11-1037-762.22f8c32611cb.pmtiles",
+   "bytes": 1253476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1037-762.22f8c32611cb.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 757,
+   "file": "11-1038-757.2f091b3b98bf.pmtiles",
+   "bytes": 243837,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-757.2f091b3b98bf.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 758,
+   "file": "11-1038-758.6576f7416b69.pmtiles",
+   "bytes": 1069979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-758.6576f7416b69.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 759,
+   "file": "11-1038-759.37701353aca0.pmtiles",
+   "bytes": 788860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-759.37701353aca0.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 760,
+   "file": "11-1038-760.b7433cb639fe.pmtiles",
+   "bytes": 633403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-760.b7433cb639fe.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 761,
+   "file": "11-1038-761.61991a19a9ef.pmtiles",
+   "bytes": 472014,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-761.61991a19a9ef.pmtiles"
+  },
+  {
+   "x": 1038,
+   "y": 762,
+   "file": "11-1038-762.48e486260c70.pmtiles",
+   "bytes": 1005816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1038-762.48e486260c70.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 756,
+   "file": "11-1039-756.4ea37c0e8144.pmtiles",
+   "bytes": 44208,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-756.4ea37c0e8144.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 757,
+   "file": "11-1039-757.5ddcb7ade90d.pmtiles",
+   "bytes": 464836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-757.5ddcb7ade90d.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 758,
+   "file": "11-1039-758.861bbef3d8a9.pmtiles",
+   "bytes": 662074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-758.861bbef3d8a9.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 759,
+   "file": "11-1039-759.56f493c8e5e0.pmtiles",
+   "bytes": 1127199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-759.56f493c8e5e0.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 760,
+   "file": "11-1039-760.4ea528e95e07.pmtiles",
+   "bytes": 1511055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-760.4ea528e95e07.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 761,
+   "file": "11-1039-761.0549ab5359d0.pmtiles",
+   "bytes": 1014899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-761.0549ab5359d0.pmtiles"
+  },
+  {
+   "x": 1039,
+   "y": 762,
+   "file": "11-1039-762.20e9fbdab4e1.pmtiles",
+   "bytes": 1135166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1039-762.20e9fbdab4e1.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 756,
+   "file": "11-1040-756.1cef66a2d3e0.pmtiles",
+   "bytes": 218928,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-756.1cef66a2d3e0.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 757,
+   "file": "11-1040-757.d3f9869a80fb.pmtiles",
+   "bytes": 601898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-757.d3f9869a80fb.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 758,
+   "file": "11-1040-758.43698b231ca1.pmtiles",
+   "bytes": 1124586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-758.43698b231ca1.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 759,
+   "file": "11-1040-759.122efd2ffcf8.pmtiles",
+   "bytes": 895969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-759.122efd2ffcf8.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 760,
+   "file": "11-1040-760.c548178c07fc.pmtiles",
+   "bytes": 1526686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-760.c548178c07fc.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 761,
+   "file": "11-1040-761.fa037567a25d.pmtiles",
+   "bytes": 787217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-761.fa037567a25d.pmtiles"
+  },
+  {
+   "x": 1040,
+   "y": 762,
+   "file": "11-1040-762.4aacf1fb59b4.pmtiles",
+   "bytes": 807514,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1040-762.4aacf1fb59b4.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 756,
+   "file": "11-1041-756.7e1e38ef8390.pmtiles",
+   "bytes": 194924,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-756.7e1e38ef8390.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 757,
+   "file": "11-1041-757.b04f9f8f268b.pmtiles",
+   "bytes": 827615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-757.b04f9f8f268b.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 758,
+   "file": "11-1041-758.a671963ede4f.pmtiles",
+   "bytes": 1149451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-758.a671963ede4f.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 759,
+   "file": "11-1041-759.ec1bbc021349.pmtiles",
+   "bytes": 1001996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-759.ec1bbc021349.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 760,
+   "file": "11-1041-760.dfc5371d2bb2.pmtiles",
+   "bytes": 1117507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-760.dfc5371d2bb2.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 761,
+   "file": "11-1041-761.33dbfee8d40e.pmtiles",
+   "bytes": 1653910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-761.33dbfee8d40e.pmtiles"
+  },
+  {
+   "x": 1041,
+   "y": 762,
+   "file": "11-1041-762.5878f8ce2719.pmtiles",
+   "bytes": 44629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1041-762.5878f8ce2719.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 756,
+   "file": "11-1042-756.d969d1d35059.pmtiles",
+   "bytes": 27698,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-756.d969d1d35059.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 757,
+   "file": "11-1042-757.a27d9ac55db9.pmtiles",
+   "bytes": 520452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-757.a27d9ac55db9.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 758,
+   "file": "11-1042-758.c4655eb4ff85.pmtiles",
+   "bytes": 612140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-758.c4655eb4ff85.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 759,
+   "file": "11-1042-759.5876db45e7ea.pmtiles",
+   "bytes": 300611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-759.5876db45e7ea.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 760,
+   "file": "11-1042-760.ed5827faf720.pmtiles",
+   "bytes": 716425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-760.ed5827faf720.pmtiles"
+  },
+  {
+   "x": 1042,
+   "y": 761,
+   "file": "11-1042-761.28e5a2dfc7d3.pmtiles",
+   "bytes": 200084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-girona-2026-10-03/11-1042-761.28e5a2dfc7d3.pmtiles"
+  }
+ ]
+}

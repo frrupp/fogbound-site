@@ -1,0 +1,829 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-salamanca",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T20:58:01.354Z",
+ "publishedAt": "2026-10-04T20:58:27.529Z",
+ "host": "github",
+ "releases": [
+  "maps-es-salamanca-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -6.93171,
+  40.23892,
+  -5.08984,
+  41.29422
+ ],
+ "overview": {
+  "file": "overview.364849d59c6e.pmtiles",
+  "bytes": 1971812,
+  "tiles": 60,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/overview.364849d59c6e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 984,
+   "y": 767,
+   "file": "11-984-767.ebd30152bf58.pmtiles",
+   "bytes": 65738,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-984-767.ebd30152bf58.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 768,
+   "file": "11-984-768.1c795ff96e9e.pmtiles",
+   "bytes": 23783,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-984-768.1c795ff96e9e.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 772,
+   "file": "11-984-772.c537bc6ecb85.pmtiles",
+   "bytes": 32985,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-984-772.c537bc6ecb85.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 773,
+   "file": "11-984-773.3b6b5c93f566.pmtiles",
+   "bytes": 156079,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-984-773.3b6b5c93f566.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 766,
+   "file": "11-985-766.ac0028bdd873.pmtiles",
+   "bytes": 125777,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-766.ac0028bdd873.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 767,
+   "file": "11-985-767.c06ba52f0a88.pmtiles",
+   "bytes": 262245,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-767.c06ba52f0a88.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 768,
+   "file": "11-985-768.77ffa8002ecc.pmtiles",
+   "bytes": 148157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-768.77ffa8002ecc.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 769,
+   "file": "11-985-769.722a02b74bae.pmtiles",
+   "bytes": 122884,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-769.722a02b74bae.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 770,
+   "file": "11-985-770.2bd68c2acdc9.pmtiles",
+   "bytes": 172050,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-770.2bd68c2acdc9.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 771,
+   "file": "11-985-771.a0af33bcbdb6.pmtiles",
+   "bytes": 190392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-771.a0af33bcbdb6.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 772,
+   "file": "11-985-772.07a779e6ab0b.pmtiles",
+   "bytes": 208104,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-772.07a779e6ab0b.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 773,
+   "file": "11-985-773.e6aeb72f12ed.pmtiles",
+   "bytes": 245393,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-985-773.e6aeb72f12ed.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 765,
+   "file": "11-986-765.d1dd6cc825c8.pmtiles",
+   "bytes": 47977,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-765.d1dd6cc825c8.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 766,
+   "file": "11-986-766.61978a2521a8.pmtiles",
+   "bytes": 215917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-766.61978a2521a8.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 767,
+   "file": "11-986-767.5a1b95555afb.pmtiles",
+   "bytes": 151429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-767.5a1b95555afb.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 768,
+   "file": "11-986-768.d7ddafad26d8.pmtiles",
+   "bytes": 115184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-768.d7ddafad26d8.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 769,
+   "file": "11-986-769.fa0b46d56a3a.pmtiles",
+   "bytes": 74781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-769.fa0b46d56a3a.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 770,
+   "file": "11-986-770.481ccb0211f8.pmtiles",
+   "bytes": 415495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-770.481ccb0211f8.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 771,
+   "file": "11-986-771.b9f890b87e56.pmtiles",
+   "bytes": 176518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-771.b9f890b87e56.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 772,
+   "file": "11-986-772.719888d26443.pmtiles",
+   "bytes": 184261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-772.719888d26443.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 773,
+   "file": "11-986-773.f3d08bba412b.pmtiles",
+   "bytes": 148958,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-986-773.f3d08bba412b.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 765,
+   "file": "11-987-765.8c82b9a77f21.pmtiles",
+   "bytes": 98849,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-765.8c82b9a77f21.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 766,
+   "file": "11-987-766.ed571cd2d802.pmtiles",
+   "bytes": 126980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-766.ed571cd2d802.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 767,
+   "file": "11-987-767.3db0111f2a21.pmtiles",
+   "bytes": 255762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-767.3db0111f2a21.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 768,
+   "file": "11-987-768.6a300ef73b4a.pmtiles",
+   "bytes": 151308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-768.6a300ef73b4a.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 769,
+   "file": "11-987-769.07f2aeab3d9f.pmtiles",
+   "bytes": 121526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-769.07f2aeab3d9f.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 770,
+   "file": "11-987-770.24ea48f68606.pmtiles",
+   "bytes": 169259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-770.24ea48f68606.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 771,
+   "file": "11-987-771.2722f797f3d4.pmtiles",
+   "bytes": 295760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-771.2722f797f3d4.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 772,
+   "file": "11-987-772.1fa0fe605a70.pmtiles",
+   "bytes": 196370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-772.1fa0fe605a70.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 773,
+   "file": "11-987-773.01cd6ff39b77.pmtiles",
+   "bytes": 142689,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-987-773.01cd6ff39b77.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 765,
+   "file": "11-988-765.12988efef282.pmtiles",
+   "bytes": 60018,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-765.12988efef282.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 766,
+   "file": "11-988-766.f487482efeea.pmtiles",
+   "bytes": 132031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-766.f487482efeea.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 767,
+   "file": "11-988-767.de711ab53f9b.pmtiles",
+   "bytes": 160596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-767.de711ab53f9b.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 768,
+   "file": "11-988-768.1681e946f039.pmtiles",
+   "bytes": 102205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-768.1681e946f039.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 769,
+   "file": "11-988-769.688765f65e9d.pmtiles",
+   "bytes": 181301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-769.688765f65e9d.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 770,
+   "file": "11-988-770.f7afa957f13d.pmtiles",
+   "bytes": 136282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-770.f7afa957f13d.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 771,
+   "file": "11-988-771.687f7554ab3e.pmtiles",
+   "bytes": 184425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-771.687f7554ab3e.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 772,
+   "file": "11-988-772.733e8e8f7148.pmtiles",
+   "bytes": 243894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-772.733e8e8f7148.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 773,
+   "file": "11-988-773.e61afcfbaaab.pmtiles",
+   "bytes": 146685,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-988-773.e61afcfbaaab.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 765,
+   "file": "11-989-765.2bbbc9520144.pmtiles",
+   "bytes": 47886,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-765.2bbbc9520144.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 766,
+   "file": "11-989-766.2e8ceaa7e56a.pmtiles",
+   "bytes": 138901,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-766.2e8ceaa7e56a.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 767,
+   "file": "11-989-767.04b4ed01265c.pmtiles",
+   "bytes": 151239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-767.04b4ed01265c.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 768,
+   "file": "11-989-768.40d40703adbe.pmtiles",
+   "bytes": 127763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-768.40d40703adbe.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 769,
+   "file": "11-989-769.f87406db1c37.pmtiles",
+   "bytes": 156629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-769.f87406db1c37.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 770,
+   "file": "11-989-770.894ec5189b94.pmtiles",
+   "bytes": 189458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-770.894ec5189b94.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 771,
+   "file": "11-989-771.6437af557313.pmtiles",
+   "bytes": 505722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-771.6437af557313.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 772,
+   "file": "11-989-772.718a989b82e8.pmtiles",
+   "bytes": 261699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-772.718a989b82e8.pmtiles"
+  },
+  {
+   "x": 989,
+   "y": 773,
+   "file": "11-989-773.3e0c099210a9.pmtiles",
+   "bytes": 136027,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-989-773.3e0c099210a9.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 765,
+   "file": "11-990-765.d793f4c0fd92.pmtiles",
+   "bytes": 56517,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-765.d793f4c0fd92.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 766,
+   "file": "11-990-766.26656538188f.pmtiles",
+   "bytes": 143964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-766.26656538188f.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 767,
+   "file": "11-990-767.48ead5655262.pmtiles",
+   "bytes": 243698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-767.48ead5655262.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 768,
+   "file": "11-990-768.892dd1ffa9ef.pmtiles",
+   "bytes": 174333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-768.892dd1ffa9ef.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 769,
+   "file": "11-990-769.b576289c0689.pmtiles",
+   "bytes": 154388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-769.b576289c0689.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 770,
+   "file": "11-990-770.a242ce86cb02.pmtiles",
+   "bytes": 164349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-770.a242ce86cb02.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 771,
+   "file": "11-990-771.b6885bb17c72.pmtiles",
+   "bytes": 239365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-771.b6885bb17c72.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 772,
+   "file": "11-990-772.59d980ba2dd1.pmtiles",
+   "bytes": 321078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-772.59d980ba2dd1.pmtiles"
+  },
+  {
+   "x": 990,
+   "y": 773,
+   "file": "11-990-773.f647d8ae8c94.pmtiles",
+   "bytes": 293876,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-990-773.f647d8ae8c94.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 765,
+   "file": "11-991-765.005621688106.pmtiles",
+   "bytes": 66835,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-765.005621688106.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 766,
+   "file": "11-991-766.4d1578ea4f41.pmtiles",
+   "bytes": 154196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-766.4d1578ea4f41.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 767,
+   "file": "11-991-767.33b816fae597.pmtiles",
+   "bytes": 721209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-767.33b816fae597.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 768,
+   "file": "11-991-768.1cd3e5ed597c.pmtiles",
+   "bytes": 2289767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-768.1cd3e5ed597c.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 769,
+   "file": "11-991-769.807272920b97.pmtiles",
+   "bytes": 199864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-769.807272920b97.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 770,
+   "file": "11-991-770.58c0fad3cc79.pmtiles",
+   "bytes": 152263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-770.58c0fad3cc79.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 771,
+   "file": "11-991-771.e1ef05d554e7.pmtiles",
+   "bytes": 335700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-771.e1ef05d554e7.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 772,
+   "file": "11-991-772.c110d2917040.pmtiles",
+   "bytes": 416683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-772.c110d2917040.pmtiles"
+  },
+  {
+   "x": 991,
+   "y": 773,
+   "file": "11-991-773.efcc1ab26f16.pmtiles",
+   "bytes": 263740,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-991-773.efcc1ab26f16.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 765,
+   "file": "11-992-765.45eb2895029b.pmtiles",
+   "bytes": 47736,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-765.45eb2895029b.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 766,
+   "file": "11-992-766.5255e7782a22.pmtiles",
+   "bytes": 140386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-766.5255e7782a22.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 767,
+   "file": "11-992-767.b655166afaa1.pmtiles",
+   "bytes": 768256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-767.b655166afaa1.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 768,
+   "file": "11-992-768.42c38803edcb.pmtiles",
+   "bytes": 584359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-768.42c38803edcb.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 769,
+   "file": "11-992-769.17f428e821cd.pmtiles",
+   "bytes": 291500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-769.17f428e821cd.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 770,
+   "file": "11-992-770.fbc3ef9abdd8.pmtiles",
+   "bytes": 167298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-770.fbc3ef9abdd8.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 771,
+   "file": "11-992-771.238fef6cf006.pmtiles",
+   "bytes": 160020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-771.238fef6cf006.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 772,
+   "file": "11-992-772.05c1db797e73.pmtiles",
+   "bytes": 295298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-772.05c1db797e73.pmtiles"
+  },
+  {
+   "x": 992,
+   "y": 773,
+   "file": "11-992-773.35e45c03b69d.pmtiles",
+   "bytes": 188744,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-992-773.35e45c03b69d.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 765,
+   "file": "11-993-765.928fe452d10e.pmtiles",
+   "bytes": 63411,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-765.928fe452d10e.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 766,
+   "file": "11-993-766.005959203a02.pmtiles",
+   "bytes": 125561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-766.005959203a02.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 767,
+   "file": "11-993-767.1592261267b6.pmtiles",
+   "bytes": 181624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-767.1592261267b6.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 768,
+   "file": "11-993-768.a5372338c455.pmtiles",
+   "bytes": 464172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-768.a5372338c455.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 769,
+   "file": "11-993-769.31a998040184.pmtiles",
+   "bytes": 193419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-769.31a998040184.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 770,
+   "file": "11-993-770.9c9b57f149aa.pmtiles",
+   "bytes": 158248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-770.9c9b57f149aa.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 771,
+   "file": "11-993-771.23e2ca4c7d9a.pmtiles",
+   "bytes": 239367,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-771.23e2ca4c7d9a.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 772,
+   "file": "11-993-772.1957a47d8691.pmtiles",
+   "bytes": 262277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-772.1957a47d8691.pmtiles"
+  },
+  {
+   "x": 993,
+   "y": 773,
+   "file": "11-993-773.0f440b976423.pmtiles",
+   "bytes": 277564,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-993-773.0f440b976423.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 765,
+   "file": "11-994-765.12f43ff3f33e.pmtiles",
+   "bytes": 42296,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-765.12f43ff3f33e.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 766,
+   "file": "11-994-766.901a801b3d55.pmtiles",
+   "bytes": 125045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-766.901a801b3d55.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 767,
+   "file": "11-994-767.a0546a3dbab1.pmtiles",
+   "bytes": 116295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-767.a0546a3dbab1.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 768,
+   "file": "11-994-768.3416a8684737.pmtiles",
+   "bytes": 340054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-768.3416a8684737.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 769,
+   "file": "11-994-769.1487c2137e71.pmtiles",
+   "bytes": 114246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-769.1487c2137e71.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 770,
+   "file": "11-994-770.5ca26b0f0eb6.pmtiles",
+   "bytes": 94757,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-770.5ca26b0f0eb6.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 771,
+   "file": "11-994-771.3381305b1087.pmtiles",
+   "bytes": 156719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-771.3381305b1087.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 772,
+   "file": "11-994-772.6bb0c54d048e.pmtiles",
+   "bytes": 207434,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-772.6bb0c54d048e.pmtiles"
+  },
+  {
+   "x": 994,
+   "y": 773,
+   "file": "11-994-773.be19fec078fc.pmtiles",
+   "bytes": 251151,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-994-773.be19fec078fc.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 767,
+   "file": "11-995-767.14798b6d0bf1.pmtiles",
+   "bytes": 42570,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-767.14798b6d0bf1.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 768,
+   "file": "11-995-768.fcc86e61eedd.pmtiles",
+   "bytes": 138771,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-768.fcc86e61eedd.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 769,
+   "file": "11-995-769.df7454f65d53.pmtiles",
+   "bytes": 67375,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-769.df7454f65d53.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 770,
+   "file": "11-995-770.7be3a8aac654.pmtiles",
+   "bytes": 31914,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-770.7be3a8aac654.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 771,
+   "file": "11-995-771.1e6831f43cd4.pmtiles",
+   "bytes": 31672,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-771.1e6831f43cd4.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 772,
+   "file": "11-995-772.16f8f10596bc.pmtiles",
+   "bytes": 35066,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-772.16f8f10596bc.pmtiles"
+  },
+  {
+   "x": 995,
+   "y": 773,
+   "file": "11-995-773.064945e59ecb.pmtiles",
+   "bytes": 87184,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-salamanca-2026-10-03/11-995-773.064945e59ecb.pmtiles"
+  }
+ ]
+}

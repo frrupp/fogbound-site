@@ -1,0 +1,453 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "es-alicante",
+ "source": "es.pmtiles",
+ "builtAt": "2026-10-04T19:52:05.412Z",
+ "publishedAt": "2026-10-04T19:52:22.446Z",
+ "host": "github",
+ "releases": [
+  "maps-es-alicante-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.09416,
+  37.84379,
+  0.23416,
+  38.88738
+ ],
+ "overview": {
+  "file": "overview.bb9c3a6e2fe0.pmtiles",
+  "bytes": 1772134,
+  "tiles": 55,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/overview.bb9c3a6e2fe0.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1017,
+   "y": 783,
+   "file": "11-1017-783.8b727a4e4f8a.pmtiles",
+   "bytes": 138140,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-783.8b727a4e4f8a.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 784,
+   "file": "11-1017-784.e1701699a890.pmtiles",
+   "bytes": 100431,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-784.e1701699a890.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 785,
+   "file": "11-1017-785.237d5ad7b4f6.pmtiles",
+   "bytes": 167198,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-785.237d5ad7b4f6.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 786,
+   "file": "11-1017-786.c31fe626bb9f.pmtiles",
+   "bytes": 149259,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-786.c31fe626bb9f.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 787,
+   "file": "11-1017-787.d03c1ba8ec62.pmtiles",
+   "bytes": 100485,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-787.d03c1ba8ec62.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 788,
+   "file": "11-1017-788.7e1ba2b79836.pmtiles",
+   "bytes": 138120,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-788.7e1ba2b79836.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 789,
+   "file": "11-1017-789.2f9ce094eed2.pmtiles",
+   "bytes": 371670,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-789.2f9ce094eed2.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 790,
+   "file": "11-1017-790.e56a4f6a3091.pmtiles",
+   "bytes": 323109,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-790.e56a4f6a3091.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 791,
+   "file": "11-1017-791.8ca960f8f79d.pmtiles",
+   "bytes": 33211,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1017-791.8ca960f8f79d.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 783,
+   "file": "11-1018-783.39dbd92ec622.pmtiles",
+   "bytes": 112463,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-783.39dbd92ec622.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 784,
+   "file": "11-1018-784.5042105f8590.pmtiles",
+   "bytes": 459736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-784.5042105f8590.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 785,
+   "file": "11-1018-785.7e37f22e3eab.pmtiles",
+   "bytes": 371756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-785.7e37f22e3eab.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 786,
+   "file": "11-1018-786.fc3bf1712b7d.pmtiles",
+   "bytes": 322578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-786.fc3bf1712b7d.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 787,
+   "file": "11-1018-787.2cf631596ddc.pmtiles",
+   "bytes": 335952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-787.2cf631596ddc.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 788,
+   "file": "11-1018-788.ce12ca2d100b.pmtiles",
+   "bytes": 748871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-788.ce12ca2d100b.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 789,
+   "file": "11-1018-789.2c1a0eb8aa9b.pmtiles",
+   "bytes": 1806680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-789.2c1a0eb8aa9b.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 790,
+   "file": "11-1018-790.de4143e732b2.pmtiles",
+   "bytes": 579134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-790.de4143e732b2.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 791,
+   "file": "11-1018-791.3ee0319acd41.pmtiles",
+   "bytes": 126692,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1018-791.3ee0319acd41.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 783,
+   "file": "11-1019-783.c86675c3953c.pmtiles",
+   "bytes": 217873,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-783.c86675c3953c.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 784,
+   "file": "11-1019-784.a74ed7f3f9e6.pmtiles",
+   "bytes": 313600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-784.a74ed7f3f9e6.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 785,
+   "file": "11-1019-785.bfda72ee6835.pmtiles",
+   "bytes": 526009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-785.bfda72ee6835.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 786,
+   "file": "11-1019-786.844816c834c3.pmtiles",
+   "bytes": 1049141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-786.844816c834c3.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 787,
+   "file": "11-1019-787.e97c06a3adef.pmtiles",
+   "bytes": 1146631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-787.e97c06a3adef.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 788,
+   "file": "11-1019-788.1a37bf3202b5.pmtiles",
+   "bytes": 1643467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-788.1a37bf3202b5.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 789,
+   "file": "11-1019-789.b6825b0b65ab.pmtiles",
+   "bytes": 2030981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-789.b6825b0b65ab.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 790,
+   "file": "11-1019-790.bb7159532b8b.pmtiles",
+   "bytes": 2482155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-790.bb7159532b8b.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 791,
+   "file": "11-1019-791.6684f10fe729.pmtiles",
+   "bytes": 270452,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1019-791.6684f10fe729.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 783,
+   "file": "11-1020-783.7b3b60433113.pmtiles",
+   "bytes": 414241,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-783.7b3b60433113.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 784,
+   "file": "11-1020-784.c1cb9d80d8e0.pmtiles",
+   "bytes": 931070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-784.c1cb9d80d8e0.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 785,
+   "file": "11-1020-785.4311bda6adf2.pmtiles",
+   "bytes": 657719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-785.4311bda6adf2.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 786,
+   "file": "11-1020-786.b109e9dac1c0.pmtiles",
+   "bytes": 600005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-786.b109e9dac1c0.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 787,
+   "file": "11-1020-787.4fd4675553a4.pmtiles",
+   "bytes": 1068393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-787.4fd4675553a4.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 788,
+   "file": "11-1020-788.9da0cd8a1fc6.pmtiles",
+   "bytes": 1433301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-788.9da0cd8a1fc6.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 789,
+   "file": "11-1020-789.a018bf63b68b.pmtiles",
+   "bytes": 1284956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-789.a018bf63b68b.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 790,
+   "file": "11-1020-790.3454297ef653.pmtiles",
+   "bytes": 710236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1020-790.3454297ef653.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 783,
+   "file": "11-1021-783.9231a8920eba.pmtiles",
+   "bytes": 511662,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-783.9231a8920eba.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 784,
+   "file": "11-1021-784.0d77fbdcc265.pmtiles",
+   "bytes": 1394923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-784.0d77fbdcc265.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 785,
+   "file": "11-1021-785.5fc6a39476da.pmtiles",
+   "bytes": 431606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-785.5fc6a39476da.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 786,
+   "file": "11-1021-786.0fa9fe134f8e.pmtiles",
+   "bytes": 690280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-786.0fa9fe134f8e.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 787,
+   "file": "11-1021-787.fbaffa7d9670.pmtiles",
+   "bytes": 2136427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-787.fbaffa7d9670.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 788,
+   "file": "11-1021-788.d01ff2597a8b.pmtiles",
+   "bytes": 192358,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1021-788.d01ff2597a8b.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 783,
+   "file": "11-1022-783.747099ba221a.pmtiles",
+   "bytes": 377806,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1022-783.747099ba221a.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 784,
+   "file": "11-1022-784.eabddfa08b6e.pmtiles",
+   "bytes": 615769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1022-784.eabddfa08b6e.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 785,
+   "file": "11-1022-785.7f899c8a06cc.pmtiles",
+   "bytes": 579985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1022-785.7f899c8a06cc.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 786,
+   "file": "11-1022-786.00bfddd03b2f.pmtiles",
+   "bytes": 352104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1022-786.00bfddd03b2f.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 783,
+   "file": "11-1023-783.9229ff899bcc.pmtiles",
+   "bytes": 693699,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1023-783.9229ff899bcc.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 784,
+   "file": "11-1023-784.b7c5b1e75d4a.pmtiles",
+   "bytes": 1204527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1023-784.b7c5b1e75d4a.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 785,
+   "file": "11-1023-785.94e0ce19df73.pmtiles",
+   "bytes": 1554081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1023-785.94e0ce19df73.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 786,
+   "file": "11-1023-786.26a17f5cfb72.pmtiles",
+   "bytes": 1214509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1023-786.26a17f5cfb72.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 783,
+   "file": "11-1024-783.c7d39a80a7a5.pmtiles",
+   "bytes": 1201810,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1024-783.c7d39a80a7a5.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 784,
+   "file": "11-1024-784.3e2772bdeba3.pmtiles",
+   "bytes": 2354884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1024-784.3e2772bdeba3.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 785,
+   "file": "11-1024-785.3285c4933c7d.pmtiles",
+   "bytes": 1195882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1024-785.3285c4933c7d.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 784,
+   "file": "11-1025-784.2a957793c61d.pmtiles",
+   "bytes": 441076,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-es-alicante-2026-10-03/11-1025-784.2a957793c61d.pmtiles"
+  }
+ ]
+}
