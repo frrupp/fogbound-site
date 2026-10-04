@@ -1,0 +1,701 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "nl-gelderland",
+ "source": "nl.pmtiles",
+ "builtAt": "2026-10-04T06:18:43.047Z",
+ "publishedAt": "2026-10-04T06:19:10.469Z",
+ "host": "github",
+ "releases": [
+  "maps-nl-gelderland-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.99385,
+  51.73358,
+  6.8328,
+  52.52202
+ ],
+ "overview": {
+  "file": "overview.0d7d0f52f8ce.pmtiles",
+  "bytes": 3176869,
+  "tiles": 57,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/overview.0d7d0f52f8ce.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1052,
+   "y": 671,
+   "file": "11-1052-671.2c5753e32f39.pmtiles",
+   "bytes": 1144772,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-671.2c5753e32f39.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 672,
+   "file": "11-1052-672.291105ef19c6.pmtiles",
+   "bytes": 1472008,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-672.291105ef19c6.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 673,
+   "file": "11-1052-673.644d8205aca9.pmtiles",
+   "bytes": 2271644,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-673.644d8205aca9.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 674,
+   "file": "11-1052-674.d95efa2e099d.pmtiles",
+   "bytes": 1912267,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-674.d95efa2e099d.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 675,
+   "file": "11-1052-675.22691b190c8c.pmtiles",
+   "bytes": 3958103,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-675.22691b190c8c.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 676,
+   "file": "11-1052-676.696194a5d8f5.pmtiles",
+   "bytes": 2327429,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-676.696194a5d8f5.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 677,
+   "file": "11-1052-677.49ac5c841e33.pmtiles",
+   "bytes": 1542179,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-677.49ac5c841e33.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 678,
+   "file": "11-1052-678.48161fc31965.pmtiles",
+   "bytes": 1187130,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1052-678.48161fc31965.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 672,
+   "file": "11-1053-672.a4a56a21b6d2.pmtiles",
+   "bytes": 1319010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-672.a4a56a21b6d2.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 673,
+   "file": "11-1053-673.2b92d3240f56.pmtiles",
+   "bytes": 4403737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-673.2b92d3240f56.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 674,
+   "file": "11-1053-674.8ca2116dd7ad.pmtiles",
+   "bytes": 3753583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-674.8ca2116dd7ad.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 675,
+   "file": "11-1053-675.f2aa926bc4c9.pmtiles",
+   "bytes": 6056744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-675.f2aa926bc4c9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 676,
+   "file": "11-1053-676.b34ed1fcaf0f.pmtiles",
+   "bytes": 3116610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-676.b34ed1fcaf0f.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 677,
+   "file": "11-1053-677.6b3b78978391.pmtiles",
+   "bytes": 1547274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-677.6b3b78978391.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 678,
+   "file": "11-1053-678.b46a37799c74.pmtiles",
+   "bytes": 2173698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1053-678.b46a37799c74.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 671,
+   "file": "11-1054-671.8a3627a0f216.pmtiles",
+   "bytes": 314467,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-671.8a3627a0f216.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 672,
+   "file": "11-1054-672.f1c22e7a35b1.pmtiles",
+   "bytes": 1319940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-672.f1c22e7a35b1.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 673,
+   "file": "11-1054-673.93c6cd8dae50.pmtiles",
+   "bytes": 979646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-673.93c6cd8dae50.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 674,
+   "file": "11-1054-674.56d59aacc4c9.pmtiles",
+   "bytes": 3872995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-674.56d59aacc4c9.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 675,
+   "file": "11-1054-675.dde39010c61e.pmtiles",
+   "bytes": 3338102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-675.dde39010c61e.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 676,
+   "file": "11-1054-676.ee5079e17439.pmtiles",
+   "bytes": 2489878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-676.ee5079e17439.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 677,
+   "file": "11-1054-677.18a8e8402fb1.pmtiles",
+   "bytes": 2282776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-677.18a8e8402fb1.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 678,
+   "file": "11-1054-678.7636bc9b3f1c.pmtiles",
+   "bytes": 1799208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1054-678.7636bc9b3f1c.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 671,
+   "file": "11-1055-671.7736b99f1164.pmtiles",
+   "bytes": 1198528,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-671.7736b99f1164.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 672,
+   "file": "11-1055-672.71b1064925df.pmtiles",
+   "bytes": 722056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-672.71b1064925df.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 673,
+   "file": "11-1055-673.24a928599fa7.pmtiles",
+   "bytes": 2096664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-673.24a928599fa7.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 674,
+   "file": "11-1055-674.bcbf026ed94a.pmtiles",
+   "bytes": 2670403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-674.bcbf026ed94a.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 675,
+   "file": "11-1055-675.727b708638ab.pmtiles",
+   "bytes": 2228365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-675.727b708638ab.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 676,
+   "file": "11-1055-676.952574ed15a9.pmtiles",
+   "bytes": 2706564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-676.952574ed15a9.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 677,
+   "file": "11-1055-677.ebdae9c15889.pmtiles",
+   "bytes": 2035429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-677.ebdae9c15889.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 678,
+   "file": "11-1055-678.3edc5f73d063.pmtiles",
+   "bytes": 2654118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1055-678.3edc5f73d063.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 671,
+   "file": "11-1056-671.51cf4b95a7d2.pmtiles",
+   "bytes": 430121,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-671.51cf4b95a7d2.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 672,
+   "file": "11-1056-672.c2dbbefb710c.pmtiles",
+   "bytes": 1006915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-672.c2dbbefb710c.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 673,
+   "file": "11-1056-673.1b0967a4ca04.pmtiles",
+   "bytes": 2082210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-673.1b0967a4ca04.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 674,
+   "file": "11-1056-674.866b8860d857.pmtiles",
+   "bytes": 1421599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-674.866b8860d857.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 675,
+   "file": "11-1056-675.5c30cad1a74e.pmtiles",
+   "bytes": 1623292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-675.5c30cad1a74e.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 676,
+   "file": "11-1056-676.db19ee5734a7.pmtiles",
+   "bytes": 3640221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-676.db19ee5734a7.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 677,
+   "file": "11-1056-677.b881166634e1.pmtiles",
+   "bytes": 2069580,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-677.b881166634e1.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 678,
+   "file": "11-1056-678.c6052d74ce73.pmtiles",
+   "bytes": 2854717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1056-678.c6052d74ce73.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 671,
+   "file": "11-1057-671.95bfbbbdbe91.pmtiles",
+   "bytes": 452498,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-671.95bfbbbdbe91.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 672,
+   "file": "11-1057-672.f0ff08bc3f4c.pmtiles",
+   "bytes": 1765718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-672.f0ff08bc3f4c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 673,
+   "file": "11-1057-673.b62210b1254e.pmtiles",
+   "bytes": 1359850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-673.b62210b1254e.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 674,
+   "file": "11-1057-674.28dac586b4e0.pmtiles",
+   "bytes": 2291858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-674.28dac586b4e0.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 675,
+   "file": "11-1057-675.76c48714465d.pmtiles",
+   "bytes": 1080928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-675.76c48714465d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 676,
+   "file": "11-1057-676.348a2a1fcf29.pmtiles",
+   "bytes": 4515183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-676.348a2a1fcf29.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 677,
+   "file": "11-1057-677.a650c37d0c69.pmtiles",
+   "bytes": 3613088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-677.a650c37d0c69.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 678,
+   "file": "11-1057-678.4681f2660581.pmtiles",
+   "bytes": 3258891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1057-678.4681f2660581.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 671,
+   "file": "11-1058-671.96005014f2ec.pmtiles",
+   "bytes": 2020906,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-671.96005014f2ec.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 672,
+   "file": "11-1058-672.125f58c6dcf1.pmtiles",
+   "bytes": 2348405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-672.125f58c6dcf1.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 673,
+   "file": "11-1058-673.c4033dcaf343.pmtiles",
+   "bytes": 1911842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-673.c4033dcaf343.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 674,
+   "file": "11-1058-674.c9d160e36004.pmtiles",
+   "bytes": 3110837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-674.c9d160e36004.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 675,
+   "file": "11-1058-675.2df2183770d7.pmtiles",
+   "bytes": 1722142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-675.2df2183770d7.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 676,
+   "file": "11-1058-676.9fc69676224d.pmtiles",
+   "bytes": 2475440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-676.9fc69676224d.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 677,
+   "file": "11-1058-677.85b9463b7d44.pmtiles",
+   "bytes": 2567008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-677.85b9463b7d44.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 678,
+   "file": "11-1058-678.965eacc0d8e8.pmtiles",
+   "bytes": 126277,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1058-678.965eacc0d8e8.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 671,
+   "file": "11-1059-671.46132a280282.pmtiles",
+   "bytes": 768894,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-671.46132a280282.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 672,
+   "file": "11-1059-672.5f1e685decf0.pmtiles",
+   "bytes": 1496230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-672.5f1e685decf0.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 673,
+   "file": "11-1059-673.5763257cc171.pmtiles",
+   "bytes": 1448190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-673.5763257cc171.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 674,
+   "file": "11-1059-674.1cf61e57084c.pmtiles",
+   "bytes": 2717560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-674.1cf61e57084c.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 675,
+   "file": "11-1059-675.9e6d61a77ec8.pmtiles",
+   "bytes": 2475177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-675.9e6d61a77ec8.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 676,
+   "file": "11-1059-676.4a4f46c4a961.pmtiles",
+   "bytes": 2695549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-676.4a4f46c4a961.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 677,
+   "file": "11-1059-677.c8c969c7bff2.pmtiles",
+   "bytes": 1347022,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1059-677.c8c969c7bff2.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 671,
+   "file": "11-1060-671.edc6f2791b81.pmtiles",
+   "bytes": 794111,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-671.edc6f2791b81.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 672,
+   "file": "11-1060-672.f9fb2219f29e.pmtiles",
+   "bytes": 1673453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-672.f9fb2219f29e.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 673,
+   "file": "11-1060-673.ca355ac0adc7.pmtiles",
+   "bytes": 1910690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-673.ca355ac0adc7.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 674,
+   "file": "11-1060-674.30c17064ef9f.pmtiles",
+   "bytes": 1269590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-674.30c17064ef9f.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 675,
+   "file": "11-1060-675.aace1a3d9f0f.pmtiles",
+   "bytes": 1632544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-675.aace1a3d9f0f.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 676,
+   "file": "11-1060-676.461b2a8c60ee.pmtiles",
+   "bytes": 1335103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-676.461b2a8c60ee.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 677,
+   "file": "11-1060-677.134df3f5a5c0.pmtiles",
+   "bytes": 1827522,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-677.134df3f5a5c0.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 678,
+   "file": "11-1060-678.6d0d8715375a.pmtiles",
+   "bytes": 36559,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1060-678.6d0d8715375a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 671,
+   "file": "11-1061-671.aa10d2e086c7.pmtiles",
+   "bytes": 574180,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-671.aa10d2e086c7.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 672,
+   "file": "11-1061-672.391045e2d0d6.pmtiles",
+   "bytes": 1565806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-672.391045e2d0d6.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 673,
+   "file": "11-1061-673.3bff0d870aba.pmtiles",
+   "bytes": 2793545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-673.3bff0d870aba.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 674,
+   "file": "11-1061-674.d490dba110fc.pmtiles",
+   "bytes": 1577360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-674.d490dba110fc.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 675,
+   "file": "11-1061-675.ecbf5bf45dfb.pmtiles",
+   "bytes": 1647334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-675.ecbf5bf45dfb.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 676,
+   "file": "11-1061-676.0d38223d4fef.pmtiles",
+   "bytes": 1650616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-676.0d38223d4fef.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 677,
+   "file": "11-1061-677.fdbc6bba2552.pmtiles",
+   "bytes": 938352,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1061-677.fdbc6bba2552.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 671,
+   "file": "11-1062-671.6ef92aa08ec4.pmtiles",
+   "bytes": 68688,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-671.6ef92aa08ec4.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 672,
+   "file": "11-1062-672.ba1c5b30bc53.pmtiles",
+   "bytes": 1212166,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-672.ba1c5b30bc53.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 673,
+   "file": "11-1062-673.c5702189c4cf.pmtiles",
+   "bytes": 2591909,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-673.c5702189c4cf.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 674,
+   "file": "11-1062-674.34e43a9f2d9d.pmtiles",
+   "bytes": 2489363,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-674.34e43a9f2d9d.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 675,
+   "file": "11-1062-675.70bf6e503ff4.pmtiles",
+   "bytes": 931218,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-675.70bf6e503ff4.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 676,
+   "file": "11-1062-676.f2bb890664b2.pmtiles",
+   "bytes": 1179983,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-676.f2bb890664b2.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 677,
+   "file": "11-1062-677.1db0c7cccf8c.pmtiles",
+   "bytes": 319940,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-gelderland-2026-10-03/11-1062-677.1db0c7cccf8c.pmtiles"
+  }
+ ]
+}

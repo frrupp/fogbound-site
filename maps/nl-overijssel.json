@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "nl-overijssel",
+ "source": "nl.pmtiles",
+ "builtAt": "2026-10-04T06:17:39.203Z",
+ "publishedAt": "2026-10-04T06:18:01.052Z",
+ "host": "github",
+ "releases": [
+  "maps-nl-overijssel-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  5.77775,
+  52.11807,
+  7.07276,
+  52.85421
+ ],
+ "overview": {
+  "file": "overview.c34941b00855.pmtiles",
+  "bytes": 1667134,
+  "tiles": 40,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/overview.c34941b00855.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1056,
+   "y": 668,
+   "file": "11-1056-668.2541753107df.pmtiles",
+   "bytes": 122252,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-668.2541753107df.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 669,
+   "file": "11-1056-669.272eee03c653.pmtiles",
+   "bytes": 423169,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-669.272eee03c653.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 670,
+   "file": "11-1056-670.ef8a5580fc31.pmtiles",
+   "bytes": 163981,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-670.ef8a5580fc31.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 671,
+   "file": "11-1056-671.6ea81e39a12e.pmtiles",
+   "bytes": 157860,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-671.6ea81e39a12e.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 672,
+   "file": "11-1056-672.5f087211467a.pmtiles",
+   "bytes": 485628,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-672.5f087211467a.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 673,
+   "file": "11-1056-673.d5e6aa8eaa67.pmtiles",
+   "bytes": 539036,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-673.d5e6aa8eaa67.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 674,
+   "file": "11-1056-674.3a0b2593752c.pmtiles",
+   "bytes": 427045,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-674.3a0b2593752c.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 675,
+   "file": "11-1056-675.139e7763a56b.pmtiles",
+   "bytes": 177137,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1056-675.139e7763a56b.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 668,
+   "file": "11-1057-668.aa72e0cdf7e5.pmtiles",
+   "bytes": 740180,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-668.aa72e0cdf7e5.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 669,
+   "file": "11-1057-669.c71059870555.pmtiles",
+   "bytes": 1125297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-669.c71059870555.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 670,
+   "file": "11-1057-670.7a25af9656d9.pmtiles",
+   "bytes": 1109558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-670.7a25af9656d9.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 671,
+   "file": "11-1057-671.b854034bde6d.pmtiles",
+   "bytes": 1952544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-671.b854034bde6d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 672,
+   "file": "11-1057-672.f0ff08bc3f4c.pmtiles",
+   "bytes": 1765718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-672.f0ff08bc3f4c.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 673,
+   "file": "11-1057-673.b62210b1254e.pmtiles",
+   "bytes": 1359850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-673.b62210b1254e.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 674,
+   "file": "11-1057-674.28dac586b4e0.pmtiles",
+   "bytes": 2291858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-674.28dac586b4e0.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 675,
+   "file": "11-1057-675.ccd628ebfaf7.pmtiles",
+   "bytes": 636586,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1057-675.ccd628ebfaf7.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 668,
+   "file": "11-1058-668.c3c45bb5310a.pmtiles",
+   "bytes": 783991,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-668.c3c45bb5310a.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 669,
+   "file": "11-1058-669.1fda499f0eab.pmtiles",
+   "bytes": 1849720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-669.1fda499f0eab.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 670,
+   "file": "11-1058-670.daefd88da1d8.pmtiles",
+   "bytes": 1844234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-670.daefd88da1d8.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 671,
+   "file": "11-1058-671.8089e72e6bdf.pmtiles",
+   "bytes": 3521445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-671.8089e72e6bdf.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 672,
+   "file": "11-1058-672.125f58c6dcf1.pmtiles",
+   "bytes": 2348405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-672.125f58c6dcf1.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 673,
+   "file": "11-1058-673.c4033dcaf343.pmtiles",
+   "bytes": 1911842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-673.c4033dcaf343.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 674,
+   "file": "11-1058-674.c9d160e36004.pmtiles",
+   "bytes": 3110837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-674.c9d160e36004.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 675,
+   "file": "11-1058-675.3c5ffb39620b.pmtiles",
+   "bytes": 870468,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1058-675.3c5ffb39620b.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 668,
+   "file": "11-1059-668.36dad8ceb516.pmtiles",
+   "bytes": 619465,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-668.36dad8ceb516.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 669,
+   "file": "11-1059-669.dc6add308825.pmtiles",
+   "bytes": 1861987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-669.dc6add308825.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 670,
+   "file": "11-1059-670.597998cbdb95.pmtiles",
+   "bytes": 1783026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-670.597998cbdb95.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 671,
+   "file": "11-1059-671.7dfdc4378516.pmtiles",
+   "bytes": 1478938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-671.7dfdc4378516.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 672,
+   "file": "11-1059-672.5f1e685decf0.pmtiles",
+   "bytes": 1496230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-672.5f1e685decf0.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 673,
+   "file": "11-1059-673.5763257cc171.pmtiles",
+   "bytes": 1448190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-673.5763257cc171.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 674,
+   "file": "11-1059-674.1cf61e57084c.pmtiles",
+   "bytes": 2717560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-674.1cf61e57084c.pmtiles"
+  },
+  {
+   "x": 1059,
+   "y": 675,
+   "file": "11-1059-675.80bf92fb679a.pmtiles",
+   "bytes": 1657759,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1059-675.80bf92fb679a.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 668,
+   "file": "11-1060-668.0915b8fa9cd2.pmtiles",
+   "bytes": 725750,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-668.0915b8fa9cd2.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 669,
+   "file": "11-1060-669.e2e29ec75325.pmtiles",
+   "bytes": 1955531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-669.e2e29ec75325.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 670,
+   "file": "11-1060-670.5c4e30cb4628.pmtiles",
+   "bytes": 1532000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-670.5c4e30cb4628.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 671,
+   "file": "11-1060-671.969b69e5547d.pmtiles",
+   "bytes": 1543782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-671.969b69e5547d.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 672,
+   "file": "11-1060-672.f9fb2219f29e.pmtiles",
+   "bytes": 1673453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-672.f9fb2219f29e.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 673,
+   "file": "11-1060-673.ca355ac0adc7.pmtiles",
+   "bytes": 1910690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-673.ca355ac0adc7.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 674,
+   "file": "11-1060-674.30c17064ef9f.pmtiles",
+   "bytes": 1269590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-674.30c17064ef9f.pmtiles"
+  },
+  {
+   "x": 1060,
+   "y": 675,
+   "file": "11-1060-675.aa0ba3515603.pmtiles",
+   "bytes": 864529,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1060-675.aa0ba3515603.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 668,
+   "file": "11-1061-668.5fa6f1720723.pmtiles",
+   "bytes": 636473,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-668.5fa6f1720723.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 669,
+   "file": "11-1061-669.e92d9d9a2cf4.pmtiles",
+   "bytes": 1254021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-669.e92d9d9a2cf4.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 670,
+   "file": "11-1061-670.5dea37103b09.pmtiles",
+   "bytes": 1209381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-670.5dea37103b09.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 671,
+   "file": "11-1061-671.d6ca1f85057a.pmtiles",
+   "bytes": 1737027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-671.d6ca1f85057a.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 672,
+   "file": "11-1061-672.391045e2d0d6.pmtiles",
+   "bytes": 1565806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-672.391045e2d0d6.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 673,
+   "file": "11-1061-673.3bff0d870aba.pmtiles",
+   "bytes": 2793545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-673.3bff0d870aba.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 674,
+   "file": "11-1061-674.d490dba110fc.pmtiles",
+   "bytes": 1577360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-674.d490dba110fc.pmtiles"
+  },
+  {
+   "x": 1061,
+   "y": 675,
+   "file": "11-1061-675.d3727c0abb38.pmtiles",
+   "bytes": 933289,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1061-675.d3727c0abb38.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 668,
+   "file": "11-1062-668.5af1d6ab9943.pmtiles",
+   "bytes": 488660,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-668.5af1d6ab9943.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 669,
+   "file": "11-1062-669.245968a067fa.pmtiles",
+   "bytes": 1161322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-669.245968a067fa.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 670,
+   "file": "11-1062-670.06bf1ae8480c.pmtiles",
+   "bytes": 975740,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-670.06bf1ae8480c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 671,
+   "file": "11-1062-671.370123d9e891.pmtiles",
+   "bytes": 216056,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-671.370123d9e891.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 672,
+   "file": "11-1062-672.609b9d8620fd.pmtiles",
+   "bytes": 1326486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-672.609b9d8620fd.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 673,
+   "file": "11-1062-673.c3146ece8d5c.pmtiles",
+   "bytes": 2819030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-673.c3146ece8d5c.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 674,
+   "file": "11-1062-674.05143cb3de3f.pmtiles",
+   "bytes": 2846056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-674.05143cb3de3f.pmtiles"
+  },
+  {
+   "x": 1062,
+   "y": 675,
+   "file": "11-1062-675.f19380058759.pmtiles",
+   "bytes": 772976,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1062-675.f19380058759.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 668,
+   "file": "11-1063-668.2b07df6e876c.pmtiles",
+   "bytes": 534275,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-668.2b07df6e876c.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 669,
+   "file": "11-1063-669.f1c248360e7b.pmtiles",
+   "bytes": 2679639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-669.f1c248360e7b.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 670,
+   "file": "11-1063-670.ae784cc091d2.pmtiles",
+   "bytes": 682377,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-670.ae784cc091d2.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 672,
+   "file": "11-1063-672.4b1661285ec2.pmtiles",
+   "bytes": 1290343,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-672.4b1661285ec2.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 673,
+   "file": "11-1063-673.20414c1071bd.pmtiles",
+   "bytes": 2554747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-673.20414c1071bd.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 674,
+   "file": "11-1063-674.cdd66347b430.pmtiles",
+   "bytes": 3460926,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-674.cdd66347b430.pmtiles"
+  },
+  {
+   "x": 1063,
+   "y": 675,
+   "file": "11-1063-675.330089e1fd01.pmtiles",
+   "bytes": 115761,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1063-675.330089e1fd01.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 668,
+   "file": "11-1064-668.bbc4f55bfe48.pmtiles",
+   "bytes": 202879,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-668.bbc4f55bfe48.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 669,
+   "file": "11-1064-669.54b4de8eb689.pmtiles",
+   "bytes": 254124,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-669.54b4de8eb689.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 670,
+   "file": "11-1064-670.d165e487a6a2.pmtiles",
+   "bytes": 152396,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-670.d165e487a6a2.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 672,
+   "file": "11-1064-672.48150bb61026.pmtiles",
+   "bytes": 75603,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-672.48150bb61026.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 673,
+   "file": "11-1064-673.4464109290c9.pmtiles",
+   "bytes": 164233,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-673.4464109290c9.pmtiles"
+  },
+  {
+   "x": 1064,
+   "y": 674,
+   "file": "11-1064-674.173c978cec4d.pmtiles",
+   "bytes": 149001,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-overijssel-2026-10-03/11-1064-674.173c978cec4d.pmtiles"
+  }
+ ]
+}

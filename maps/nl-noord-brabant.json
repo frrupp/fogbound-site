@@ -1,0 +1,541 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "nl-noord-brabant",
+ "source": "nl.pmtiles",
+ "builtAt": "2026-10-04T06:18:01.262Z",
+ "publishedAt": "2026-10-04T06:18:21.254Z",
+ "host": "github",
+ "releases": [
+  "maps-nl-noord-brabant-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  4.19012,
+  51.22091,
+  6.04812,
+  51.83075
+ ],
+ "overview": {
+  "file": "overview.2e6a7bfeaeb5.pmtiles",
+  "bytes": 2463208,
+  "tiles": 45,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/overview.2e6a7bfeaeb5.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1047,
+   "y": 678,
+   "file": "11-1047-678.3d584cff75e2.pmtiles",
+   "bytes": 303042,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1047-678.3d584cff75e2.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 679,
+   "file": "11-1047-679.79fd68552a87.pmtiles",
+   "bytes": 318144,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1047-679.79fd68552a87.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 680,
+   "file": "11-1047-680.d9e03cb31176.pmtiles",
+   "bytes": 411384,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1047-680.d9e03cb31176.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 681,
+   "file": "11-1047-681.15565c804703.pmtiles",
+   "bytes": 181053,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1047-681.15565c804703.pmtiles"
+  },
+  {
+   "x": 1047,
+   "y": 682,
+   "file": "11-1047-682.83bf326b19ae.pmtiles",
+   "bytes": 192466,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1047-682.83bf326b19ae.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 678,
+   "file": "11-1048-678.820a068c716c.pmtiles",
+   "bytes": 1634707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1048-678.820a068c716c.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 679,
+   "file": "11-1048-679.a5c622ac0538.pmtiles",
+   "bytes": 871983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1048-679.a5c622ac0538.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 680,
+   "file": "11-1048-680.74c53c7196b1.pmtiles",
+   "bytes": 1564255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1048-680.74c53c7196b1.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 681,
+   "file": "11-1048-681.094ce40a23f4.pmtiles",
+   "bytes": 1936108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1048-681.094ce40a23f4.pmtiles"
+  },
+  {
+   "x": 1048,
+   "y": 682,
+   "file": "11-1048-682.1ddeb8a4b30e.pmtiles",
+   "bytes": 421487,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1048-682.1ddeb8a4b30e.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 678,
+   "file": "11-1049-678.075b43c5630e.pmtiles",
+   "bytes": 2472107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1049-678.075b43c5630e.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 679,
+   "file": "11-1049-679.6dde4c189c45.pmtiles",
+   "bytes": 1168466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1049-679.6dde4c189c45.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 680,
+   "file": "11-1049-680.9c8847ecaee6.pmtiles",
+   "bytes": 2459707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1049-680.9c8847ecaee6.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 681,
+   "file": "11-1049-681.770ca779cca9.pmtiles",
+   "bytes": 555038,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1049-681.770ca779cca9.pmtiles"
+  },
+  {
+   "x": 1049,
+   "y": 682,
+   "file": "11-1049-682.32fd59ec4c53.pmtiles",
+   "bytes": 137906,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1049-682.32fd59ec4c53.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 678,
+   "file": "11-1050-678.aecbdfa66085.pmtiles",
+   "bytes": 3942443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1050-678.aecbdfa66085.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 679,
+   "file": "11-1050-679.704f1a1cca49.pmtiles",
+   "bytes": 1461541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1050-679.704f1a1cca49.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 680,
+   "file": "11-1050-680.a989a9dfb969.pmtiles",
+   "bytes": 2685689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1050-680.a989a9dfb969.pmtiles"
+  },
+  {
+   "x": 1050,
+   "y": 681,
+   "file": "11-1050-681.1aa9dce49bf8.pmtiles",
+   "bytes": 968506,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1050-681.1aa9dce49bf8.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 678,
+   "file": "11-1051-678.91ee233613ce.pmtiles",
+   "bytes": 2049441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1051-678.91ee233613ce.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 679,
+   "file": "11-1051-679.fd1410f79cf4.pmtiles",
+   "bytes": 2685597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1051-679.fd1410f79cf4.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 680,
+   "file": "11-1051-680.13a0433aec86.pmtiles",
+   "bytes": 3277120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1051-680.13a0433aec86.pmtiles"
+  },
+  {
+   "x": 1051,
+   "y": 681,
+   "file": "11-1051-681.72b42a6d0b2e.pmtiles",
+   "bytes": 856870,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1051-681.72b42a6d0b2e.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 678,
+   "file": "11-1052-678.8c97c52238b7.pmtiles",
+   "bytes": 1833125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1052-678.8c97c52238b7.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 679,
+   "file": "11-1052-679.6a45cbc80e35.pmtiles",
+   "bytes": 2563536,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1052-679.6a45cbc80e35.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 680,
+   "file": "11-1052-680.54d38d208f4f.pmtiles",
+   "bytes": 4891104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1052-680.54d38d208f4f.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 681,
+   "file": "11-1052-681.862fb5f45048.pmtiles",
+   "bytes": 905617,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1052-681.862fb5f45048.pmtiles"
+  },
+  {
+   "x": 1052,
+   "y": 682,
+   "file": "11-1052-682.3132de7321c6.pmtiles",
+   "bytes": 49902,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1052-682.3132de7321c6.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 678,
+   "file": "11-1053-678.b46a37799c74.pmtiles",
+   "bytes": 2173698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-678.b46a37799c74.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 679,
+   "file": "11-1053-679.e18ca16e2c4e.pmtiles",
+   "bytes": 2346411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-679.e18ca16e2c4e.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 680,
+   "file": "11-1053-680.e9014eac732b.pmtiles",
+   "bytes": 2822162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-680.e9014eac732b.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 681,
+   "file": "11-1053-681.f262f0a248f7.pmtiles",
+   "bytes": 1549883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-681.f262f0a248f7.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 682,
+   "file": "11-1053-682.aca64e85bef9.pmtiles",
+   "bytes": 1393006,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-682.aca64e85bef9.pmtiles"
+  },
+  {
+   "x": 1053,
+   "y": 683,
+   "file": "11-1053-683.82db05b63358.pmtiles",
+   "bytes": 63254,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1053-683.82db05b63358.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 678,
+   "file": "11-1054-678.7636bc9b3f1c.pmtiles",
+   "bytes": 1799208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-678.7636bc9b3f1c.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 679,
+   "file": "11-1054-679.2cf1e7509314.pmtiles",
+   "bytes": 4069842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-679.2cf1e7509314.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 680,
+   "file": "11-1054-680.f9701dadf68f.pmtiles",
+   "bytes": 2188953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-680.f9701dadf68f.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 681,
+   "file": "11-1054-681.3999ec6bbb5a.pmtiles",
+   "bytes": 3487351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-681.3999ec6bbb5a.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 682,
+   "file": "11-1054-682.4ebb6090694a.pmtiles",
+   "bytes": 2200028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-682.4ebb6090694a.pmtiles"
+  },
+  {
+   "x": 1054,
+   "y": 683,
+   "file": "11-1054-683.7b3526bb76f3.pmtiles",
+   "bytes": 286497,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1054-683.7b3526bb76f3.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 678,
+   "file": "11-1055-678.3edc5f73d063.pmtiles",
+   "bytes": 2654118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-678.3edc5f73d063.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 679,
+   "file": "11-1055-679.061077a1fb16.pmtiles",
+   "bytes": 2287744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-679.061077a1fb16.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 680,
+   "file": "11-1055-680.f9d3da420c6b.pmtiles",
+   "bytes": 2332137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-680.f9d3da420c6b.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 681,
+   "file": "11-1055-681.d0af3bfc366f.pmtiles",
+   "bytes": 5260754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-681.d0af3bfc366f.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 682,
+   "file": "11-1055-682.ffe12859080e.pmtiles",
+   "bytes": 2046873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-682.ffe12859080e.pmtiles"
+  },
+  {
+   "x": 1055,
+   "y": 683,
+   "file": "11-1055-683.f01ebf3309fa.pmtiles",
+   "bytes": 625835,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1055-683.f01ebf3309fa.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 678,
+   "file": "11-1056-678.c6052d74ce73.pmtiles",
+   "bytes": 2854717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-678.c6052d74ce73.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 679,
+   "file": "11-1056-679.f6534be808c8.pmtiles",
+   "bytes": 2103248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-679.f6534be808c8.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 680,
+   "file": "11-1056-680.f049db6f5448.pmtiles",
+   "bytes": 1802220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-680.f049db6f5448.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 681,
+   "file": "11-1056-681.9b564a908c69.pmtiles",
+   "bytes": 3150224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-681.9b564a908c69.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 682,
+   "file": "11-1056-682.514754d98fcc.pmtiles",
+   "bytes": 1581476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-682.514754d98fcc.pmtiles"
+  },
+  {
+   "x": 1056,
+   "y": 683,
+   "file": "11-1056-683.5423c312509f.pmtiles",
+   "bytes": 1876468,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1056-683.5423c312509f.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 678,
+   "file": "11-1057-678.4681f2660581.pmtiles",
+   "bytes": 3258891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-678.4681f2660581.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 679,
+   "file": "11-1057-679.80f3e729ccbe.pmtiles",
+   "bytes": 2075895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-679.80f3e729ccbe.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 680,
+   "file": "11-1057-680.4957201e73d1.pmtiles",
+   "bytes": 1369327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-680.4957201e73d1.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 681,
+   "file": "11-1057-681.2aee628bfb0d.pmtiles",
+   "bytes": 1452208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-681.2aee628bfb0d.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 682,
+   "file": "11-1057-682.39e861ce506f.pmtiles",
+   "bytes": 1379216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-682.39e861ce506f.pmtiles"
+  },
+  {
+   "x": 1057,
+   "y": 683,
+   "file": "11-1057-683.7083347089ab.pmtiles",
+   "bytes": 1245295,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1057-683.7083347089ab.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 678,
+   "file": "11-1058-678.6ee34417c338.pmtiles",
+   "bytes": 106789,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-678.6ee34417c338.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 679,
+   "file": "11-1058-679.f71679517e8b.pmtiles",
+   "bytes": 826122,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-679.f71679517e8b.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 680,
+   "file": "11-1058-680.6c48dfef9e8b.pmtiles",
+   "bytes": 1212244,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-680.6c48dfef9e8b.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 681,
+   "file": "11-1058-681.bfa530686838.pmtiles",
+   "bytes": 1063868,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-681.bfa530686838.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 682,
+   "file": "11-1058-682.ebb9331b05fc.pmtiles",
+   "bytes": 1014638,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-682.ebb9331b05fc.pmtiles"
+  },
+  {
+   "x": 1058,
+   "y": 683,
+   "file": "11-1058-683.e36dce4e121d.pmtiles",
+   "bytes": 750738,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-nl-noord-brabant-2026-10-03/11-1058-683.e36dce4e121d.pmtiles"
+  }
+ ]
+}
