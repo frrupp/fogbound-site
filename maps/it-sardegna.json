@@ -1,0 +1,1197 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "it-sardegna",
+ "source": "it.pmtiles",
+ "builtAt": "2026-10-04T11:07:38.841Z",
+ "publishedAt": "2026-10-04T11:08:16.837Z",
+ "host": "github",
+ "releases": [
+  "maps-it-sardegna-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  8.13084,
+  38.8591,
+  9.82932,
+  41.31311
+ ],
+ "overview": {
+  "file": "overview.703839727092.pmtiles",
+  "bytes": 1604933,
+  "tiles": 86,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/overview.703839727092.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1070,
+   "y": 767,
+   "file": "11-1070-767.c8246e2ff0f9.pmtiles",
+   "bytes": 68182,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-767.c8246e2ff0f9.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 768,
+   "file": "11-1070-768.9a52c20dc22b.pmtiles",
+   "bytes": 214779,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-768.9a52c20dc22b.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 769,
+   "file": "11-1070-769.a0cb102c67a2.pmtiles",
+   "bytes": 153261,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-769.a0cb102c67a2.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 770,
+   "file": "11-1070-770.10d2d3a9a3d3.pmtiles",
+   "bytes": 218093,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-770.10d2d3a9a3d3.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 771,
+   "file": "11-1070-771.98bb9883ff67.pmtiles",
+   "bytes": 43134,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-771.98bb9883ff67.pmtiles"
+  },
+  {
+   "x": 1070,
+   "y": 781,
+   "file": "11-1070-781.124d32833f2f.pmtiles",
+   "bytes": 47683,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1070-781.124d32833f2f.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 766,
+   "file": "11-1071-766.8ed251726982.pmtiles",
+   "bytes": 26315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-766.8ed251726982.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 767,
+   "file": "11-1071-767.89cfc37c687f.pmtiles",
+   "bytes": 99866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-767.89cfc37c687f.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 768,
+   "file": "11-1071-768.25b8c73c2ab3.pmtiles",
+   "bytes": 39680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-768.25b8c73c2ab3.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 769,
+   "file": "11-1071-769.2804c5969bb9.pmtiles",
+   "bytes": 382685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-769.2804c5969bb9.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 770,
+   "file": "11-1071-770.4b9ba2f4efcb.pmtiles",
+   "bytes": 472703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-770.4b9ba2f4efcb.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 771,
+   "file": "11-1071-771.564b4787e538.pmtiles",
+   "bytes": 463182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-771.564b4787e538.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 772,
+   "file": "11-1071-772.8ef45eb9acef.pmtiles",
+   "bytes": 49624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-772.8ef45eb9acef.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 775,
+   "file": "11-1071-775.04556e1b2a7e.pmtiles",
+   "bytes": 138238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-775.04556e1b2a7e.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 776,
+   "file": "11-1071-776.d88d76b19d95.pmtiles",
+   "bytes": 53295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-776.d88d76b19d95.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 779,
+   "file": "11-1071-779.9be2deea0526.pmtiles",
+   "bytes": 103725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-779.9be2deea0526.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 780,
+   "file": "11-1071-780.aec3444f7b0b.pmtiles",
+   "bytes": 98244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-780.aec3444f7b0b.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 781,
+   "file": "11-1071-781.09e22d54c57d.pmtiles",
+   "bytes": 439418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-781.09e22d54c57d.pmtiles"
+  },
+  {
+   "x": 1071,
+   "y": 782,
+   "file": "11-1071-782.fcd792295630.pmtiles",
+   "bytes": 198557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1071-782.fcd792295630.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 768,
+   "file": "11-1072-768.773e82e32cc3.pmtiles",
+   "bytes": 23026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-768.773e82e32cc3.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 769,
+   "file": "11-1072-769.bebb131ede57.pmtiles",
+   "bytes": 1427866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-769.bebb131ede57.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 770,
+   "file": "11-1072-770.10c576e40caf.pmtiles",
+   "bytes": 717915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-770.10c576e40caf.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 771,
+   "file": "11-1072-771.1f470e2d2177.pmtiles",
+   "bytes": 226420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-771.1f470e2d2177.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 772,
+   "file": "11-1072-772.0b50cec07009.pmtiles",
+   "bytes": 130497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-772.0b50cec07009.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 773,
+   "file": "11-1072-773.1a6e43f8f446.pmtiles",
+   "bytes": 553294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-773.1a6e43f8f446.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 774,
+   "file": "11-1072-774.2ee560db8b8d.pmtiles",
+   "bytes": 411228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-774.2ee560db8b8d.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 775,
+   "file": "11-1072-775.1b6c0f20f0b6.pmtiles",
+   "bytes": 743229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-775.1b6c0f20f0b6.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 776,
+   "file": "11-1072-776.59eb6c68f52d.pmtiles",
+   "bytes": 564813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-776.59eb6c68f52d.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 777,
+   "file": "11-1072-777.d0f8240f7054.pmtiles",
+   "bytes": 282829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-777.d0f8240f7054.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 778,
+   "file": "11-1072-778.cbd9c7d42d70.pmtiles",
+   "bytes": 266267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-778.cbd9c7d42d70.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 779,
+   "file": "11-1072-779.6e54afc73445.pmtiles",
+   "bytes": 249372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-779.6e54afc73445.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 780,
+   "file": "11-1072-780.27909af2e94e.pmtiles",
+   "bytes": 532824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-780.27909af2e94e.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 781,
+   "file": "11-1072-781.17c3299e9c5d.pmtiles",
+   "bytes": 613100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-781.17c3299e9c5d.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 782,
+   "file": "11-1072-782.c89dded04c47.pmtiles",
+   "bytes": 344077,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-782.c89dded04c47.pmtiles"
+  },
+  {
+   "x": 1072,
+   "y": 783,
+   "file": "11-1072-783.3c18d3c9183b.pmtiles",
+   "bytes": 20755,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1072-783.3c18d3c9183b.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 768,
+   "file": "11-1073-768.21f4ede837c2.pmtiles",
+   "bytes": 338446,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-768.21f4ede837c2.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 769,
+   "file": "11-1073-769.1d11d8a450e6.pmtiles",
+   "bytes": 316760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-769.1d11d8a450e6.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 770,
+   "file": "11-1073-770.121db060a275.pmtiles",
+   "bytes": 364582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-770.121db060a275.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 771,
+   "file": "11-1073-771.2cf3a238f62d.pmtiles",
+   "bytes": 394153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-771.2cf3a238f62d.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 772,
+   "file": "11-1073-772.befa50b11466.pmtiles",
+   "bytes": 317410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-772.befa50b11466.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 773,
+   "file": "11-1073-773.30de97de88b8.pmtiles",
+   "bytes": 342735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-773.30de97de88b8.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 774,
+   "file": "11-1073-774.d6f17b6449fb.pmtiles",
+   "bytes": 477518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-774.d6f17b6449fb.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 775,
+   "file": "11-1073-775.35eef59f15a7.pmtiles",
+   "bytes": 891958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-775.35eef59f15a7.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 776,
+   "file": "11-1073-776.1d3189ab1953.pmtiles",
+   "bytes": 540968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-776.1d3189ab1953.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 777,
+   "file": "11-1073-777.f46b984271a9.pmtiles",
+   "bytes": 683344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-777.f46b984271a9.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 778,
+   "file": "11-1073-778.4facb77ffe86.pmtiles",
+   "bytes": 370388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-778.4facb77ffe86.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 779,
+   "file": "11-1073-779.4d8384e26832.pmtiles",
+   "bytes": 496940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-779.4d8384e26832.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 780,
+   "file": "11-1073-780.8133eae182f9.pmtiles",
+   "bytes": 306396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-780.8133eae182f9.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 781,
+   "file": "11-1073-781.d237d8590dc8.pmtiles",
+   "bytes": 336831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-781.d237d8590dc8.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 782,
+   "file": "11-1073-782.b847df8b5d94.pmtiles",
+   "bytes": 410099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-782.b847df8b5d94.pmtiles"
+  },
+  {
+   "x": 1073,
+   "y": 783,
+   "file": "11-1073-783.3cb4bfe8b273.pmtiles",
+   "bytes": 80811,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1073-783.3cb4bfe8b273.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 767,
+   "file": "11-1074-767.d4217512dd61.pmtiles",
+   "bytes": 252963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-767.d4217512dd61.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 768,
+   "file": "11-1074-768.57597c597239.pmtiles",
+   "bytes": 426819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-768.57597c597239.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 769,
+   "file": "11-1074-769.8dca015b621d.pmtiles",
+   "bytes": 307280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-769.8dca015b621d.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 770,
+   "file": "11-1074-770.d6869d7cb9f8.pmtiles",
+   "bytes": 183777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-770.d6869d7cb9f8.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 771,
+   "file": "11-1074-771.6ef93d9a857e.pmtiles",
+   "bytes": 416114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-771.6ef93d9a857e.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 772,
+   "file": "11-1074-772.c05c6909fd11.pmtiles",
+   "bytes": 240449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-772.c05c6909fd11.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 773,
+   "file": "11-1074-773.974be1346924.pmtiles",
+   "bytes": 394466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-773.974be1346924.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 774,
+   "file": "11-1074-774.4f6db597c674.pmtiles",
+   "bytes": 649321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-774.4f6db597c674.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 775,
+   "file": "11-1074-775.0c1aaec3acec.pmtiles",
+   "bytes": 396539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-775.0c1aaec3acec.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 776,
+   "file": "11-1074-776.1eb0e90bdb52.pmtiles",
+   "bytes": 389010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-776.1eb0e90bdb52.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 777,
+   "file": "11-1074-777.199cfca76336.pmtiles",
+   "bytes": 519621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-777.199cfca76336.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 778,
+   "file": "11-1074-778.45d2a952c653.pmtiles",
+   "bytes": 515686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-778.45d2a952c653.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 779,
+   "file": "11-1074-779.259b5ef30393.pmtiles",
+   "bytes": 462544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-779.259b5ef30393.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 780,
+   "file": "11-1074-780.e986be2f7711.pmtiles",
+   "bytes": 478756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-780.e986be2f7711.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 781,
+   "file": "11-1074-781.2b896cd17812.pmtiles",
+   "bytes": 231123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-781.2b896cd17812.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 782,
+   "file": "11-1074-782.fc5e3781eac9.pmtiles",
+   "bytes": 174907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-782.fc5e3781eac9.pmtiles"
+  },
+  {
+   "x": 1074,
+   "y": 783,
+   "file": "11-1074-783.9a895d554128.pmtiles",
+   "bytes": 216010,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1074-783.9a895d554128.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 766,
+   "file": "11-1075-766.b45e6e717c91.pmtiles",
+   "bytes": 83308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-766.b45e6e717c91.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 767,
+   "file": "11-1075-767.bc7ecf150f53.pmtiles",
+   "bytes": 246490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-767.bc7ecf150f53.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 768,
+   "file": "11-1075-768.14202197923b.pmtiles",
+   "bytes": 377720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-768.14202197923b.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 769,
+   "file": "11-1075-769.fa4a10932817.pmtiles",
+   "bytes": 313742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-769.fa4a10932817.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 770,
+   "file": "11-1075-770.fa3c3a9c1dda.pmtiles",
+   "bytes": 343223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-770.fa3c3a9c1dda.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 771,
+   "file": "11-1075-771.77e807944ef5.pmtiles",
+   "bytes": 768943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-771.77e807944ef5.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 772,
+   "file": "11-1075-772.b3445b6072b0.pmtiles",
+   "bytes": 387877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-772.b3445b6072b0.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 773,
+   "file": "11-1075-773.6115f41312a3.pmtiles",
+   "bytes": 258059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-773.6115f41312a3.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 774,
+   "file": "11-1075-774.4c2452a59318.pmtiles",
+   "bytes": 256700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-774.4c2452a59318.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 775,
+   "file": "11-1075-775.49b517442c14.pmtiles",
+   "bytes": 343552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-775.49b517442c14.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 776,
+   "file": "11-1075-776.ec9c63b2de86.pmtiles",
+   "bytes": 332413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-776.ec9c63b2de86.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 777,
+   "file": "11-1075-777.047ebcdfa437.pmtiles",
+   "bytes": 388807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-777.047ebcdfa437.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 778,
+   "file": "11-1075-778.a694e75ef295.pmtiles",
+   "bytes": 381904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-778.a694e75ef295.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 779,
+   "file": "11-1075-779.b90947012130.pmtiles",
+   "bytes": 490437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-779.b90947012130.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 780,
+   "file": "11-1075-780.174f3211eb51.pmtiles",
+   "bytes": 1519345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-780.174f3211eb51.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 781,
+   "file": "11-1075-781.e18efb46269d.pmtiles",
+   "bytes": 1039349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-781.e18efb46269d.pmtiles"
+  },
+  {
+   "x": 1075,
+   "y": 782,
+   "file": "11-1075-782.6d0258bdfb79.pmtiles",
+   "bytes": 358075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1075-782.6d0258bdfb79.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 765,
+   "file": "11-1076-765.67cb1a85a094.pmtiles",
+   "bytes": 78915,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-765.67cb1a85a094.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 766,
+   "file": "11-1076-766.e2e1b80b77cf.pmtiles",
+   "bytes": 407126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-766.e2e1b80b77cf.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 767,
+   "file": "11-1076-767.a79092c2d95c.pmtiles",
+   "bytes": 244604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-767.a79092c2d95c.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 768,
+   "file": "11-1076-768.e7b0a3ccf96c.pmtiles",
+   "bytes": 276399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-768.e7b0a3ccf96c.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 769,
+   "file": "11-1076-769.0b169510f1a2.pmtiles",
+   "bytes": 202845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-769.0b169510f1a2.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 770,
+   "file": "11-1076-770.d53cca985f2e.pmtiles",
+   "bytes": 399426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-770.d53cca985f2e.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 771,
+   "file": "11-1076-771.a058f455e1d4.pmtiles",
+   "bytes": 923520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-771.a058f455e1d4.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 772,
+   "file": "11-1076-772.e6397ba293df.pmtiles",
+   "bytes": 425914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-772.e6397ba293df.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 773,
+   "file": "11-1076-773.296c017de568.pmtiles",
+   "bytes": 403291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-773.296c017de568.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 774,
+   "file": "11-1076-774.b7f2ed55819a.pmtiles",
+   "bytes": 428285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-774.b7f2ed55819a.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 775,
+   "file": "11-1076-775.ec3e2fb42c56.pmtiles",
+   "bytes": 367104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-775.ec3e2fb42c56.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 776,
+   "file": "11-1076-776.ebc8c8cd7362.pmtiles",
+   "bytes": 334485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-776.ebc8c8cd7362.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 777,
+   "file": "11-1076-777.b42d7f60710e.pmtiles",
+   "bytes": 295260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-777.b42d7f60710e.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 778,
+   "file": "11-1076-778.6826075f7b5f.pmtiles",
+   "bytes": 312561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-778.6826075f7b5f.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 779,
+   "file": "11-1076-779.805c09181aaf.pmtiles",
+   "bytes": 397158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-779.805c09181aaf.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 780,
+   "file": "11-1076-780.b53197748ea5.pmtiles",
+   "bytes": 1289751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-780.b53197748ea5.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 781,
+   "file": "11-1076-781.d98e67633f17.pmtiles",
+   "bytes": 407396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1076-781.d98e67633f17.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 765,
+   "file": "11-1077-765.3a0d1acafb23.pmtiles",
+   "bytes": 182981,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-765.3a0d1acafb23.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 766,
+   "file": "11-1077-766.3065426129a6.pmtiles",
+   "bytes": 911179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-766.3065426129a6.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 767,
+   "file": "11-1077-767.4e9fea09eef8.pmtiles",
+   "bytes": 489596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-767.4e9fea09eef8.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 768,
+   "file": "11-1077-768.0faebfb5227e.pmtiles",
+   "bytes": 484028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-768.0faebfb5227e.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 769,
+   "file": "11-1077-769.c3dbaa8a2817.pmtiles",
+   "bytes": 252020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-769.c3dbaa8a2817.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 770,
+   "file": "11-1077-770.7657716107f7.pmtiles",
+   "bytes": 220489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-770.7657716107f7.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 771,
+   "file": "11-1077-771.6efece903c84.pmtiles",
+   "bytes": 257845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-771.6efece903c84.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 772,
+   "file": "11-1077-772.e470029193a4.pmtiles",
+   "bytes": 431277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-772.e470029193a4.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 773,
+   "file": "11-1077-773.b24ed003bf75.pmtiles",
+   "bytes": 512947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-773.b24ed003bf75.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 774,
+   "file": "11-1077-774.333350e0fe86.pmtiles",
+   "bytes": 357527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-774.333350e0fe86.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 775,
+   "file": "11-1077-775.f84d7efa5c80.pmtiles",
+   "bytes": 195403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-775.f84d7efa5c80.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 776,
+   "file": "11-1077-776.99ac1493be9c.pmtiles",
+   "bytes": 310948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-776.99ac1493be9c.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 777,
+   "file": "11-1077-777.6d703f539b65.pmtiles",
+   "bytes": 198107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-777.6d703f539b65.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 778,
+   "file": "11-1077-778.b495c77fb64d.pmtiles",
+   "bytes": 229615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-778.b495c77fb64d.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 779,
+   "file": "11-1077-779.9d6df2e32809.pmtiles",
+   "bytes": 195088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-779.9d6df2e32809.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 780,
+   "file": "11-1077-780.c7fe2a7a88e4.pmtiles",
+   "bytes": 381485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-780.c7fe2a7a88e4.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 781,
+   "file": "11-1077-781.e2b7f60c6646.pmtiles",
+   "bytes": 351649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1077-781.e2b7f60c6646.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 766,
+   "file": "11-1078-766.8d24cf49dbcc.pmtiles",
+   "bytes": 199438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-766.8d24cf49dbcc.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 767,
+   "file": "11-1078-767.7f7f7f962df7.pmtiles",
+   "bytes": 518179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-767.7f7f7f962df7.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 768,
+   "file": "11-1078-768.0fe98797f9ab.pmtiles",
+   "bytes": 910832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-768.0fe98797f9ab.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 769,
+   "file": "11-1078-769.37981102be20.pmtiles",
+   "bytes": 993941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-769.37981102be20.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 770,
+   "file": "11-1078-770.8159522dfdbd.pmtiles",
+   "bytes": 371437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-770.8159522dfdbd.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 771,
+   "file": "11-1078-771.f2132d27d5be.pmtiles",
+   "bytes": 183191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-771.f2132d27d5be.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 772,
+   "file": "11-1078-772.35f0632bb577.pmtiles",
+   "bytes": 307351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-772.35f0632bb577.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 773,
+   "file": "11-1078-773.32e357260a8b.pmtiles",
+   "bytes": 554503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-773.32e357260a8b.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 774,
+   "file": "11-1078-774.be969f70fe3e.pmtiles",
+   "bytes": 350515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-774.be969f70fe3e.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 775,
+   "file": "11-1078-775.67e09816b44d.pmtiles",
+   "bytes": 502917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-775.67e09816b44d.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 776,
+   "file": "11-1078-776.6e83ecabc6b7.pmtiles",
+   "bytes": 848481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-776.6e83ecabc6b7.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 777,
+   "file": "11-1078-777.7a97bce532cf.pmtiles",
+   "bytes": 366920,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-777.7a97bce532cf.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 778,
+   "file": "11-1078-778.eb99199260fe.pmtiles",
+   "bytes": 158473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-778.eb99199260fe.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 779,
+   "file": "11-1078-779.d83f3acf0cac.pmtiles",
+   "bytes": 463005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-779.d83f3acf0cac.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 780,
+   "file": "11-1078-780.3228b83dc364.pmtiles",
+   "bytes": 286544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-780.3228b83dc364.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 781,
+   "file": "11-1078-781.c69007055645.pmtiles",
+   "bytes": 330252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-781.c69007055645.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 782,
+   "file": "11-1078-782.182e3eab31ec.pmtiles",
+   "bytes": 28335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1078-782.182e3eab31ec.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 767,
+   "file": "11-1079-767.b948e2873e3a.pmtiles",
+   "bytes": 21351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-767.b948e2873e3a.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 768,
+   "file": "11-1079-768.985908f522c1.pmtiles",
+   "bytes": 97040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-768.985908f522c1.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 769,
+   "file": "11-1079-769.dd999cd4c520.pmtiles",
+   "bytes": 385339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-769.dd999cd4c520.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 770,
+   "file": "11-1079-770.f439401aafbd.pmtiles",
+   "bytes": 541845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-770.f439401aafbd.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 771,
+   "file": "11-1079-771.660215bfb1b8.pmtiles",
+   "bytes": 300388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-771.660215bfb1b8.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 772,
+   "file": "11-1079-772.166f32482301.pmtiles",
+   "bytes": 288401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-772.166f32482301.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 774,
+   "file": "11-1079-774.71abd80a8f3a.pmtiles",
+   "bytes": 65950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-774.71abd80a8f3a.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 775,
+   "file": "11-1079-775.54cf1651417b.pmtiles",
+   "bytes": 263702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-775.54cf1651417b.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 776,
+   "file": "11-1079-776.8d563ef107ff.pmtiles",
+   "bytes": 113307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-776.8d563ef107ff.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 777,
+   "file": "11-1079-777.d8d582c46ef3.pmtiles",
+   "bytes": 33619,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-sardegna-2026-10-03/11-1079-777.d8d582c46ef3.pmtiles"
+  }
+ ]
+}

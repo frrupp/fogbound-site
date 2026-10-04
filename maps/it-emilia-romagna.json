@@ -1,0 +1,1781 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "it-emilia-romagna",
+ "source": "it.pmtiles",
+ "builtAt": "2026-10-04T12:10:22.469Z",
+ "publishedAt": "2026-10-04T12:11:24.524Z",
+ "host": "github",
+ "releases": [
+  "maps-it-emilia-romagna-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  9.19791,
+  43.73081,
+  12.7559,
+  45.1395
+ ],
+ "overview": {
+  "file": "overview.5bc4236316bc.pmtiles",
+  "bytes": 8162049,
+  "tiles": 128,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/overview.5bc4236316bc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1076,
+   "y": 735,
+   "file": "11-1076-735.88a1173e73a3.pmtiles",
+   "bytes": 492817,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-735.88a1173e73a3.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 736,
+   "file": "11-1076-736.4ed326fb21df.pmtiles",
+   "bytes": 2092141,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-736.4ed326fb21df.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 737,
+   "file": "11-1076-737.be91f54643cd.pmtiles",
+   "bytes": 1687849,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-737.be91f54643cd.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 738,
+   "file": "11-1076-738.c9f9a0ea011b.pmtiles",
+   "bytes": 1827297,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-738.c9f9a0ea011b.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 739,
+   "file": "11-1076-739.843b03d114bd.pmtiles",
+   "bytes": 786817,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-739.843b03d114bd.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 740,
+   "file": "11-1076-740.e27bc00780d9.pmtiles",
+   "bytes": 675713,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-740.e27bc00780d9.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 741,
+   "file": "11-1076-741.456601ace353.pmtiles",
+   "bytes": 1250816,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-741.456601ace353.pmtiles"
+  },
+  {
+   "x": 1076,
+   "y": 742,
+   "file": "11-1076-742.6b927e3b41f5.pmtiles",
+   "bytes": 373285,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1076-742.6b927e3b41f5.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 735,
+   "file": "11-1077-735.38a2a44f0e4f.pmtiles",
+   "bytes": 361155,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-735.38a2a44f0e4f.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 736,
+   "file": "11-1077-736.1f10582d4c27.pmtiles",
+   "bytes": 1322155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-736.1f10582d4c27.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 737,
+   "file": "11-1077-737.ba7be587563b.pmtiles",
+   "bytes": 1003486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-737.ba7be587563b.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 738,
+   "file": "11-1077-738.2108fb111e9a.pmtiles",
+   "bytes": 1011267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-738.2108fb111e9a.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 739,
+   "file": "11-1077-739.f7b4fc3fd774.pmtiles",
+   "bytes": 499369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-739.f7b4fc3fd774.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 740,
+   "file": "11-1077-740.6701e0c6eca3.pmtiles",
+   "bytes": 844250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-740.6701e0c6eca3.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 741,
+   "file": "11-1077-741.ef20d0d1a68c.pmtiles",
+   "bytes": 1107003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-741.ef20d0d1a68c.pmtiles"
+  },
+  {
+   "x": 1077,
+   "y": 742,
+   "file": "11-1077-742.d0c24b2fc374.pmtiles",
+   "bytes": 1219273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1077-742.d0c24b2fc374.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 735,
+   "file": "11-1078-735.6d020075ddcd.pmtiles",
+   "bytes": 337563,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-735.6d020075ddcd.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 736,
+   "file": "11-1078-736.214d17611083.pmtiles",
+   "bytes": 820539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-736.214d17611083.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 737,
+   "file": "11-1078-737.fc0762211326.pmtiles",
+   "bytes": 939882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-737.fc0762211326.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 738,
+   "file": "11-1078-738.90cdef9a9911.pmtiles",
+   "bytes": 685889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-738.90cdef9a9911.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 739,
+   "file": "11-1078-739.a475520f3494.pmtiles",
+   "bytes": 684804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-739.a475520f3494.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 740,
+   "file": "11-1078-740.34b30ee89303.pmtiles",
+   "bytes": 958959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-740.34b30ee89303.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 741,
+   "file": "11-1078-741.e35d0cee7240.pmtiles",
+   "bytes": 1050896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-741.e35d0cee7240.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 742,
+   "file": "11-1078-742.535960a0af90.pmtiles",
+   "bytes": 912661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-742.535960a0af90.pmtiles"
+  },
+  {
+   "x": 1078,
+   "y": 743,
+   "file": "11-1078-743.b01d93ccb6d3.pmtiles",
+   "bytes": 570375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1078-743.b01d93ccb6d3.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 735,
+   "file": "11-1079-735.6950ab59b051.pmtiles",
+   "bytes": 510579,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-735.6950ab59b051.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 736,
+   "file": "11-1079-736.2485dbed7c57.pmtiles",
+   "bytes": 1280493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-736.2485dbed7c57.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 737,
+   "file": "11-1079-737.b52fde9ab820.pmtiles",
+   "bytes": 556357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-737.b52fde9ab820.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 738,
+   "file": "11-1079-738.719282cf3133.pmtiles",
+   "bytes": 649196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-738.719282cf3133.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 739,
+   "file": "11-1079-739.4f5980a3e2f6.pmtiles",
+   "bytes": 1264950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-739.4f5980a3e2f6.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 740,
+   "file": "11-1079-740.2e412fdb9b4e.pmtiles",
+   "bytes": 876482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-740.2e412fdb9b4e.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 741,
+   "file": "11-1079-741.c38214d62424.pmtiles",
+   "bytes": 714856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-741.c38214d62424.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 742,
+   "file": "11-1079-742.76378a150f8f.pmtiles",
+   "bytes": 847064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-742.76378a150f8f.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 743,
+   "file": "11-1079-743.ed1583fa1246.pmtiles",
+   "bytes": 1407057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-743.ed1583fa1246.pmtiles"
+  },
+  {
+   "x": 1079,
+   "y": 744,
+   "file": "11-1079-744.e4a258a62578.pmtiles",
+   "bytes": 209938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1079-744.e4a258a62578.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 735,
+   "file": "11-1080-735.f76b4e7edb31.pmtiles",
+   "bytes": 658964,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-735.f76b4e7edb31.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 736,
+   "file": "11-1080-736.df4728614df3.pmtiles",
+   "bytes": 635525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-736.df4728614df3.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 737,
+   "file": "11-1080-737.fdee69bf82e9.pmtiles",
+   "bytes": 666374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-737.fdee69bf82e9.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 738,
+   "file": "11-1080-738.c7c295bd1c72.pmtiles",
+   "bytes": 764538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-738.c7c295bd1c72.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 739,
+   "file": "11-1080-739.075a0fc67bbe.pmtiles",
+   "bytes": 1188611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-739.075a0fc67bbe.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 740,
+   "file": "11-1080-740.27a876dc4677.pmtiles",
+   "bytes": 859626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-740.27a876dc4677.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 741,
+   "file": "11-1080-741.6e7a4720371e.pmtiles",
+   "bytes": 968281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-741.6e7a4720371e.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 742,
+   "file": "11-1080-742.7154e56ba72b.pmtiles",
+   "bytes": 1081566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-742.7154e56ba72b.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 743,
+   "file": "11-1080-743.f1019a2c2069.pmtiles",
+   "bytes": 2124936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-743.f1019a2c2069.pmtiles"
+  },
+  {
+   "x": 1080,
+   "y": 744,
+   "file": "11-1080-744.662bb95bcc07.pmtiles",
+   "bytes": 557268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1080-744.662bb95bcc07.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 735,
+   "file": "11-1081-735.273470839b8b.pmtiles",
+   "bytes": 588717,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-735.273470839b8b.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 736,
+   "file": "11-1081-736.751a7ba088c0.pmtiles",
+   "bytes": 596958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-736.751a7ba088c0.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 737,
+   "file": "11-1081-737.9a643c86b19c.pmtiles",
+   "bytes": 699843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-737.9a643c86b19c.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 738,
+   "file": "11-1081-738.069d20160f48.pmtiles",
+   "bytes": 833418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-738.069d20160f48.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 739,
+   "file": "11-1081-739.03388a5c0c75.pmtiles",
+   "bytes": 843162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-739.03388a5c0c75.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 740,
+   "file": "11-1081-740.86063493bea2.pmtiles",
+   "bytes": 837366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-740.86063493bea2.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 741,
+   "file": "11-1081-741.cd1399fad2bc.pmtiles",
+   "bytes": 727166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-741.cd1399fad2bc.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 742,
+   "file": "11-1081-742.a45507f90dd8.pmtiles",
+   "bytes": 826441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-742.a45507f90dd8.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 743,
+   "file": "11-1081-743.99dba7851f6a.pmtiles",
+   "bytes": 885811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-743.99dba7851f6a.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 744,
+   "file": "11-1081-744.e88a64ac21a6.pmtiles",
+   "bytes": 2793194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-744.e88a64ac21a6.pmtiles"
+  },
+  {
+   "x": 1081,
+   "y": 745,
+   "file": "11-1081-745.66062696cb9a.pmtiles",
+   "bytes": 129683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1081-745.66062696cb9a.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 735,
+   "file": "11-1082-735.cfe0b0017048.pmtiles",
+   "bytes": 232045,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-735.cfe0b0017048.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 736,
+   "file": "11-1082-736.a647e71fc9b8.pmtiles",
+   "bytes": 573353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-736.a647e71fc9b8.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 737,
+   "file": "11-1082-737.897d98b899b4.pmtiles",
+   "bytes": 644358,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-737.897d98b899b4.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 738,
+   "file": "11-1082-738.517a859f3465.pmtiles",
+   "bytes": 2312116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-738.517a859f3465.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 739,
+   "file": "11-1082-739.b52fb9aa0adb.pmtiles",
+   "bytes": 988913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-739.b52fb9aa0adb.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 740,
+   "file": "11-1082-740.1585ba4f8692.pmtiles",
+   "bytes": 1002217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-740.1585ba4f8692.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 741,
+   "file": "11-1082-741.d512d06d433e.pmtiles",
+   "bytes": 778332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-741.d512d06d433e.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 742,
+   "file": "11-1082-742.e097dd49c724.pmtiles",
+   "bytes": 580914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-742.e097dd49c724.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 743,
+   "file": "11-1082-743.595b7a5d9f2e.pmtiles",
+   "bytes": 805458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-743.595b7a5d9f2e.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 744,
+   "file": "11-1082-744.463e227ec265.pmtiles",
+   "bytes": 999582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-744.463e227ec265.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 745,
+   "file": "11-1082-745.6c3fd094c347.pmtiles",
+   "bytes": 2569712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-745.6c3fd094c347.pmtiles"
+  },
+  {
+   "x": 1082,
+   "y": 746,
+   "file": "11-1082-746.92e4dad981c0.pmtiles",
+   "bytes": 511322,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1082-746.92e4dad981c0.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 735,
+   "file": "11-1083-735.d78e126ff518.pmtiles",
+   "bytes": 289216,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-735.d78e126ff518.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 736,
+   "file": "11-1083-736.abe5e1a79724.pmtiles",
+   "bytes": 699262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-736.abe5e1a79724.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 737,
+   "file": "11-1083-737.8d67588bd37b.pmtiles",
+   "bytes": 917978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-737.8d67588bd37b.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 738,
+   "file": "11-1083-738.3b72697904a9.pmtiles",
+   "bytes": 1059322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-738.3b72697904a9.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 739,
+   "file": "11-1083-739.f86f2f9512d1.pmtiles",
+   "bytes": 1369198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-739.f86f2f9512d1.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 740,
+   "file": "11-1083-740.f784e74f7e31.pmtiles",
+   "bytes": 1434309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-740.f784e74f7e31.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 741,
+   "file": "11-1083-741.77291cb973ab.pmtiles",
+   "bytes": 1214555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-741.77291cb973ab.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 742,
+   "file": "11-1083-742.127d2188c4fd.pmtiles",
+   "bytes": 782412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-742.127d2188c4fd.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 743,
+   "file": "11-1083-743.60fdab0af953.pmtiles",
+   "bytes": 930396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-743.60fdab0af953.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 744,
+   "file": "11-1083-744.33062be7c63c.pmtiles",
+   "bytes": 1154548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-744.33062be7c63c.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 745,
+   "file": "11-1083-745.60a4121d3e07.pmtiles",
+   "bytes": 1799279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-745.60a4121d3e07.pmtiles"
+  },
+  {
+   "x": 1083,
+   "y": 746,
+   "file": "11-1083-746.cbb774432a3a.pmtiles",
+   "bytes": 1564161,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1083-746.cbb774432a3a.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 735,
+   "file": "11-1084-735.9a8269d9a774.pmtiles",
+   "bytes": 219822,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-735.9a8269d9a774.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 736,
+   "file": "11-1084-736.4fb698409805.pmtiles",
+   "bytes": 654633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-736.4fb698409805.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 737,
+   "file": "11-1084-737.b5de46ecab87.pmtiles",
+   "bytes": 883489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-737.b5de46ecab87.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 738,
+   "file": "11-1084-738.89b2d6fb4510.pmtiles",
+   "bytes": 1129909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-738.89b2d6fb4510.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 739,
+   "file": "11-1084-739.6bc05199d9b6.pmtiles",
+   "bytes": 2602515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-739.6bc05199d9b6.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 740,
+   "file": "11-1084-740.150ab87d850c.pmtiles",
+   "bytes": 1440834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-740.150ab87d850c.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 741,
+   "file": "11-1084-741.e70340100636.pmtiles",
+   "bytes": 1391056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-741.e70340100636.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 742,
+   "file": "11-1084-742.5413333cbe65.pmtiles",
+   "bytes": 1298766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-742.5413333cbe65.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 743,
+   "file": "11-1084-743.cd92965d74cd.pmtiles",
+   "bytes": 1018521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-743.cd92965d74cd.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 744,
+   "file": "11-1084-744.521f44c2d551.pmtiles",
+   "bytes": 703794,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-744.521f44c2d551.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 745,
+   "file": "11-1084-745.1f3fa64a3fed.pmtiles",
+   "bytes": 1598748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-745.1f3fa64a3fed.pmtiles"
+  },
+  {
+   "x": 1084,
+   "y": 746,
+   "file": "11-1084-746.83028cf8a023.pmtiles",
+   "bytes": 1030973,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1084-746.83028cf8a023.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 735,
+   "file": "11-1085-735.d14b90de2860.pmtiles",
+   "bytes": 613602,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-735.d14b90de2860.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 736,
+   "file": "11-1085-736.d823502f93e8.pmtiles",
+   "bytes": 595795,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-736.d823502f93e8.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 737,
+   "file": "11-1085-737.78e2a6cc95dd.pmtiles",
+   "bytes": 690511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-737.78e2a6cc95dd.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 738,
+   "file": "11-1085-738.a9a1e3169bc0.pmtiles",
+   "bytes": 1389463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-738.a9a1e3169bc0.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 739,
+   "file": "11-1085-739.33b4c7fa29e9.pmtiles",
+   "bytes": 1336027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-739.33b4c7fa29e9.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 740,
+   "file": "11-1085-740.da88128cd730.pmtiles",
+   "bytes": 2129917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-740.da88128cd730.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 741,
+   "file": "11-1085-741.9e6c24eb9028.pmtiles",
+   "bytes": 1502459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-741.9e6c24eb9028.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 742,
+   "file": "11-1085-742.fb85aba879bf.pmtiles",
+   "bytes": 1619889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-742.fb85aba879bf.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 743,
+   "file": "11-1085-743.f1d657b987d0.pmtiles",
+   "bytes": 1063126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-743.f1d657b987d0.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 744,
+   "file": "11-1085-744.0e0c9a20a713.pmtiles",
+   "bytes": 863402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-744.0e0c9a20a713.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 745,
+   "file": "11-1085-745.6ef0e8e1580f.pmtiles",
+   "bytes": 1709313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-745.6ef0e8e1580f.pmtiles"
+  },
+  {
+   "x": 1085,
+   "y": 746,
+   "file": "11-1085-746.4159e6c7dfb0.pmtiles",
+   "bytes": 1037821,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1085-746.4159e6c7dfb0.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 735,
+   "file": "11-1086-735.8334cbcad667.pmtiles",
+   "bytes": 265798,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-735.8334cbcad667.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 736,
+   "file": "11-1086-736.f6bfd1941739.pmtiles",
+   "bytes": 535552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-736.f6bfd1941739.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 737,
+   "file": "11-1086-737.2fed766c0646.pmtiles",
+   "bytes": 859236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-737.2fed766c0646.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 738,
+   "file": "11-1086-738.dd982725cb18.pmtiles",
+   "bytes": 906276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-738.dd982725cb18.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 739,
+   "file": "11-1086-739.bccc1c37f372.pmtiles",
+   "bytes": 1944018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-739.bccc1c37f372.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 740,
+   "file": "11-1086-740.6b2f9894271b.pmtiles",
+   "bytes": 1588279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-740.6b2f9894271b.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 741,
+   "file": "11-1086-741.2936afbcfb79.pmtiles",
+   "bytes": 1490828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-741.2936afbcfb79.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 742,
+   "file": "11-1086-742.ab0cd351adcb.pmtiles",
+   "bytes": 1364368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-742.ab0cd351adcb.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 743,
+   "file": "11-1086-743.cd2141e598d5.pmtiles",
+   "bytes": 1353317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-743.cd2141e598d5.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 744,
+   "file": "11-1086-744.8c641ab9f5fb.pmtiles",
+   "bytes": 651743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-744.8c641ab9f5fb.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 745,
+   "file": "11-1086-745.fa50aef5ab08.pmtiles",
+   "bytes": 2337372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-745.fa50aef5ab08.pmtiles"
+  },
+  {
+   "x": 1086,
+   "y": 746,
+   "file": "11-1086-746.0c4a911de22e.pmtiles",
+   "bytes": 1423929,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1086-746.0c4a911de22e.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 735,
+   "file": "11-1087-735.2944a751089d.pmtiles",
+   "bytes": 200682,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-735.2944a751089d.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 736,
+   "file": "11-1087-736.155be7f58a3a.pmtiles",
+   "bytes": 644197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-736.155be7f58a3a.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 737,
+   "file": "11-1087-737.ce9f51acad7f.pmtiles",
+   "bytes": 503870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-737.ce9f51acad7f.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 738,
+   "file": "11-1087-738.13f3a6722c0f.pmtiles",
+   "bytes": 606636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-738.13f3a6722c0f.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 739,
+   "file": "11-1087-739.49c0b7be3425.pmtiles",
+   "bytes": 802068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-739.49c0b7be3425.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 740,
+   "file": "11-1087-740.54c96b47a064.pmtiles",
+   "bytes": 1180396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-740.54c96b47a064.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 741,
+   "file": "11-1087-741.2bb144d2cc9f.pmtiles",
+   "bytes": 1274796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-741.2bb144d2cc9f.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 742,
+   "file": "11-1087-742.04b4bb3d30f5.pmtiles",
+   "bytes": 1275345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-742.04b4bb3d30f5.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 743,
+   "file": "11-1087-743.8c60ad0013cb.pmtiles",
+   "bytes": 1242631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-743.8c60ad0013cb.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 744,
+   "file": "11-1087-744.a31ec47a682d.pmtiles",
+   "bytes": 894570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-744.a31ec47a682d.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 745,
+   "file": "11-1087-745.786daaacb675.pmtiles",
+   "bytes": 2080496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-745.786daaacb675.pmtiles"
+  },
+  {
+   "x": 1087,
+   "y": 746,
+   "file": "11-1087-746.51e62027fadb.pmtiles",
+   "bytes": 3337602,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1087-746.51e62027fadb.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 735,
+   "file": "11-1088-735.5013a3b626f6.pmtiles",
+   "bytes": 389036,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-735.5013a3b626f6.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 736,
+   "file": "11-1088-736.4298a2d31b07.pmtiles",
+   "bytes": 623007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-736.4298a2d31b07.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 737,
+   "file": "11-1088-737.14b34de4b5cc.pmtiles",
+   "bytes": 468457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-737.14b34de4b5cc.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 738,
+   "file": "11-1088-738.00aa5a692d76.pmtiles",
+   "bytes": 828968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-738.00aa5a692d76.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 739,
+   "file": "11-1088-739.439bce321f25.pmtiles",
+   "bytes": 904075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-739.439bce321f25.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 740,
+   "file": "11-1088-740.e773f6a71a74.pmtiles",
+   "bytes": 4400128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-740.e773f6a71a74.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 741,
+   "file": "11-1088-741.d304d753a3e0.pmtiles",
+   "bytes": 1504785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-741.d304d753a3e0.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 742,
+   "file": "11-1088-742.be25c92f84a8.pmtiles",
+   "bytes": 1300552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-742.be25c92f84a8.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 743,
+   "file": "11-1088-743.15e420c62ed2.pmtiles",
+   "bytes": 1017300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-743.15e420c62ed2.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 744,
+   "file": "11-1088-744.f8e55d63ad44.pmtiles",
+   "bytes": 766955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-744.f8e55d63ad44.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 745,
+   "file": "11-1088-745.c9155862de97.pmtiles",
+   "bytes": 946896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-745.c9155862de97.pmtiles"
+  },
+  {
+   "x": 1088,
+   "y": 746,
+   "file": "11-1088-746.a27a0d322530.pmtiles",
+   "bytes": 2578521,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1088-746.a27a0d322530.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 735,
+   "file": "11-1089-735.10ea395bfb27.pmtiles",
+   "bytes": 377896,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-735.10ea395bfb27.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 736,
+   "file": "11-1089-736.31a1e7ec7a69.pmtiles",
+   "bytes": 562040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-736.31a1e7ec7a69.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 737,
+   "file": "11-1089-737.4a7149f97e89.pmtiles",
+   "bytes": 853493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-737.4a7149f97e89.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 738,
+   "file": "11-1089-738.7a1c01b2d2c0.pmtiles",
+   "bytes": 690418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-738.7a1c01b2d2c0.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 739,
+   "file": "11-1089-739.64836180710d.pmtiles",
+   "bytes": 615842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-739.64836180710d.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 740,
+   "file": "11-1089-740.1da15476d874.pmtiles",
+   "bytes": 955151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-740.1da15476d874.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 741,
+   "file": "11-1089-741.8d4e0ffc377b.pmtiles",
+   "bytes": 1007157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-741.8d4e0ffc377b.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 742,
+   "file": "11-1089-742.472ce1e39fa2.pmtiles",
+   "bytes": 1100161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-742.472ce1e39fa2.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 743,
+   "file": "11-1089-743.cb015d98e64e.pmtiles",
+   "bytes": 900493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-743.cb015d98e64e.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 744,
+   "file": "11-1089-744.e67d54069334.pmtiles",
+   "bytes": 507612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-744.e67d54069334.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 745,
+   "file": "11-1089-745.79f84e3fc9ce.pmtiles",
+   "bytes": 597907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-745.79f84e3fc9ce.pmtiles"
+  },
+  {
+   "x": 1089,
+   "y": 746,
+   "file": "11-1089-746.92f81b9536dd.pmtiles",
+   "bytes": 860714,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1089-746.92f81b9536dd.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 735,
+   "file": "11-1090-735.c6f22137be1f.pmtiles",
+   "bytes": 419007,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-735.c6f22137be1f.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 736,
+   "file": "11-1090-736.17c9ad818519.pmtiles",
+   "bytes": 861249,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-736.17c9ad818519.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 737,
+   "file": "11-1090-737.530f47b576e7.pmtiles",
+   "bytes": 1032434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-737.530f47b576e7.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 738,
+   "file": "11-1090-738.3b4f7137028b.pmtiles",
+   "bytes": 1170312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-738.3b4f7137028b.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 739,
+   "file": "11-1090-739.e59186408e76.pmtiles",
+   "bytes": 543741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-739.e59186408e76.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 740,
+   "file": "11-1090-740.dd23af9e7ac2.pmtiles",
+   "bytes": 489512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-740.dd23af9e7ac2.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 741,
+   "file": "11-1090-741.ba9313367e92.pmtiles",
+   "bytes": 1495588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-741.ba9313367e92.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 742,
+   "file": "11-1090-742.c7e1f502b1e0.pmtiles",
+   "bytes": 1531730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-742.c7e1f502b1e0.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 743,
+   "file": "11-1090-743.9503719542d8.pmtiles",
+   "bytes": 1441677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-743.9503719542d8.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 744,
+   "file": "11-1090-744.104fe20c9186.pmtiles",
+   "bytes": 918748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-744.104fe20c9186.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 745,
+   "file": "11-1090-745.5c6be1ba3bab.pmtiles",
+   "bytes": 521700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-745.5c6be1ba3bab.pmtiles"
+  },
+  {
+   "x": 1090,
+   "y": 746,
+   "file": "11-1090-746.d21c37c369a8.pmtiles",
+   "bytes": 714094,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1090-746.d21c37c369a8.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 735,
+   "file": "11-1091-735.ecfe6617ce8d.pmtiles",
+   "bytes": 397535,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-735.ecfe6617ce8d.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 736,
+   "file": "11-1091-736.08efc71a994f.pmtiles",
+   "bytes": 1297606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-736.08efc71a994f.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 737,
+   "file": "11-1091-737.80e89e5a6cab.pmtiles",
+   "bytes": 497489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-737.80e89e5a6cab.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 738,
+   "file": "11-1091-738.d6a7cc1c21c8.pmtiles",
+   "bytes": 586192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-738.d6a7cc1c21c8.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 739,
+   "file": "11-1091-739.42ae041b0f28.pmtiles",
+   "bytes": 484450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-739.42ae041b0f28.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 740,
+   "file": "11-1091-740.b27bb1f89e62.pmtiles",
+   "bytes": 681267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-740.b27bb1f89e62.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 741,
+   "file": "11-1091-741.82738aff7184.pmtiles",
+   "bytes": 1347830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-741.82738aff7184.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 742,
+   "file": "11-1091-742.3329a6931cf7.pmtiles",
+   "bytes": 1441811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-742.3329a6931cf7.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 743,
+   "file": "11-1091-743.ff0e178adf18.pmtiles",
+   "bytes": 1559742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-743.ff0e178adf18.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 744,
+   "file": "11-1091-744.211adbd86178.pmtiles",
+   "bytes": 1400492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-744.211adbd86178.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 745,
+   "file": "11-1091-745.575c1d66c8e6.pmtiles",
+   "bytes": 846451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-745.575c1d66c8e6.pmtiles"
+  },
+  {
+   "x": 1091,
+   "y": 746,
+   "file": "11-1091-746.8a036bafdbe4.pmtiles",
+   "bytes": 531294,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1091-746.8a036bafdbe4.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 735,
+   "file": "11-1092-735.3658151400ed.pmtiles",
+   "bytes": 409984,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-735.3658151400ed.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 736,
+   "file": "11-1092-736.be3c58f10dd9.pmtiles",
+   "bytes": 1013252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-736.be3c58f10dd9.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 737,
+   "file": "11-1092-737.0dc530144dbb.pmtiles",
+   "bytes": 386019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-737.0dc530144dbb.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 738,
+   "file": "11-1092-738.d16c25ef820c.pmtiles",
+   "bytes": 502654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-738.d16c25ef820c.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 739,
+   "file": "11-1092-739.e8cb662cb0f2.pmtiles",
+   "bytes": 142849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-739.e8cb662cb0f2.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 740,
+   "file": "11-1092-740.30ba2f93dae4.pmtiles",
+   "bytes": 724502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-740.30ba2f93dae4.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 741,
+   "file": "11-1092-741.e0e4fcd744e5.pmtiles",
+   "bytes": 969547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-741.e0e4fcd744e5.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 742,
+   "file": "11-1092-742.c0674e847bc7.pmtiles",
+   "bytes": 1002986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-742.c0674e847bc7.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 743,
+   "file": "11-1092-743.dd675f736487.pmtiles",
+   "bytes": 986526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-743.dd675f736487.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 744,
+   "file": "11-1092-744.26db50d26151.pmtiles",
+   "bytes": 955638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-744.26db50d26151.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 745,
+   "file": "11-1092-745.a0961ab0757a.pmtiles",
+   "bytes": 1281878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-745.a0961ab0757a.pmtiles"
+  },
+  {
+   "x": 1092,
+   "y": 746,
+   "file": "11-1092-746.48e4aefddca9.pmtiles",
+   "bytes": 1035865,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1092-746.48e4aefddca9.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 735,
+   "file": "11-1093-735.c4992794d773.pmtiles",
+   "bytes": 302581,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-735.c4992794d773.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 736,
+   "file": "11-1093-736.04b0fc95601e.pmtiles",
+   "bytes": 958479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-736.04b0fc95601e.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 737,
+   "file": "11-1093-737.3129d5a79574.pmtiles",
+   "bytes": 634476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-737.3129d5a79574.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 738,
+   "file": "11-1093-738.d54277058c56.pmtiles",
+   "bytes": 586937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-738.d54277058c56.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 739,
+   "file": "11-1093-739.6f7decc00dd4.pmtiles",
+   "bytes": 668868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-739.6f7decc00dd4.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 740,
+   "file": "11-1093-740.5ad7093cb172.pmtiles",
+   "bytes": 633185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-740.5ad7093cb172.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 741,
+   "file": "11-1093-741.a3f70e8c9ffd.pmtiles",
+   "bytes": 1438238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-741.a3f70e8c9ffd.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 742,
+   "file": "11-1093-742.000c1d2076c5.pmtiles",
+   "bytes": 561385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-742.000c1d2076c5.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 743,
+   "file": "11-1093-743.2eb1e6a9c1aa.pmtiles",
+   "bytes": 1478742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-743.2eb1e6a9c1aa.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 744,
+   "file": "11-1093-744.9ccaa41dadcb.pmtiles",
+   "bytes": 928735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-744.9ccaa41dadcb.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 745,
+   "file": "11-1093-745.8a153eefe21c.pmtiles",
+   "bytes": 1004294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-745.8a153eefe21c.pmtiles"
+  },
+  {
+   "x": 1093,
+   "y": 746,
+   "file": "11-1093-746.6e4d7a6dc13a.pmtiles",
+   "bytes": 855671,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1093-746.6e4d7a6dc13a.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 735,
+   "file": "11-1094-735.cbc2e312ecad.pmtiles",
+   "bytes": 146176,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-735.cbc2e312ecad.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 736,
+   "file": "11-1094-736.4295197a6377.pmtiles",
+   "bytes": 1115917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-736.4295197a6377.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 737,
+   "file": "11-1094-737.b3bd98268370.pmtiles",
+   "bytes": 672042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-737.b3bd98268370.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 738,
+   "file": "11-1094-738.d0c21813299e.pmtiles",
+   "bytes": 178296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-738.d0c21813299e.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 741,
+   "file": "11-1094-741.17c9b8be2f6f.pmtiles",
+   "bytes": 74753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-741.17c9b8be2f6f.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 742,
+   "file": "11-1094-742.abdc5a376b53.pmtiles",
+   "bytes": 600123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-742.abdc5a376b53.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 743,
+   "file": "11-1094-743.35d75e0937dd.pmtiles",
+   "bytes": 1429174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-743.35d75e0937dd.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 744,
+   "file": "11-1094-744.3f50ed7ffd01.pmtiles",
+   "bytes": 1062949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-744.3f50ed7ffd01.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 745,
+   "file": "11-1094-745.541627f2f638.pmtiles",
+   "bytes": 1154694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-745.541627f2f638.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 746,
+   "file": "11-1094-746.b38f84210885.pmtiles",
+   "bytes": 589496,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1094-746.b38f84210885.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 736,
+   "file": "11-1095-736.56b1f97bb9d0.pmtiles",
+   "bytes": 65264,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-736.56b1f97bb9d0.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 737,
+   "file": "11-1095-737.ffc7858fbcf9.pmtiles",
+   "bytes": 96225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-737.ffc7858fbcf9.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 743,
+   "file": "11-1095-743.938ecf6adf18.pmtiles",
+   "bytes": 193587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-743.938ecf6adf18.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 744,
+   "file": "11-1095-744.ea0752f3e7f1.pmtiles",
+   "bytes": 2170597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-744.ea0752f3e7f1.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 745,
+   "file": "11-1095-745.2e66664665b6.pmtiles",
+   "bytes": 756968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-745.2e66664665b6.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 746,
+   "file": "11-1095-746.ea025128ab2d.pmtiles",
+   "bytes": 555314,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1095-746.ea025128ab2d.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 744,
+   "file": "11-1096-744.5860181fa970.pmtiles",
+   "bytes": 500049,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1096-744.5860181fa970.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 745,
+   "file": "11-1096-745.c382ea7bf362.pmtiles",
+   "bytes": 742880,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1096-745.c382ea7bf362.pmtiles"
+  },
+  {
+   "x": 1096,
+   "y": 746,
+   "file": "11-1096-746.a224e53cfd99.pmtiles",
+   "bytes": 434479,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-it-emilia-romagna-2026-10-03/11-1096-746.a224e53cfd99.pmtiles"
+  }
+ ]
+}
