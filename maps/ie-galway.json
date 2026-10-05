@@ -1,0 +1,789 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ie-galway",
+ "source": "ie.pmtiles",
+ "builtAt": "2026-10-05T02:56:22.434Z",
+ "publishedAt": "2026-10-05T02:56:48.292Z",
+ "host": "github",
+ "releases": [
+  "maps-ie-galway-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -10.31428,
+  52.96818,
+  -7.96782,
+  53.71886
+ ],
+ "overview": {
+  "file": "overview.f40549727161.pmtiles",
+  "bytes": 1304064,
+  "tiles": 55,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/overview.f40549727161.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 965,
+   "y": 661,
+   "file": "11-965-661.3ebcb3c5eacb.pmtiles",
+   "bytes": 73098,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-965-661.3ebcb3c5eacb.pmtiles"
+  },
+  {
+   "x": 966,
+   "y": 660,
+   "file": "11-966-660.b8ac7e5732eb.pmtiles",
+   "bytes": 41269,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-966-660.b8ac7e5732eb.pmtiles"
+  },
+  {
+   "x": 966,
+   "y": 661,
+   "file": "11-966-661.1d3673b78d50.pmtiles",
+   "bytes": 144200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-966-661.1d3673b78d50.pmtiles"
+  },
+  {
+   "x": 966,
+   "y": 662,
+   "file": "11-966-662.426b1ca5e7d9.pmtiles",
+   "bytes": 274350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-966-662.426b1ca5e7d9.pmtiles"
+  },
+  {
+   "x": 966,
+   "y": 663,
+   "file": "11-966-663.bab0ef9e937e.pmtiles",
+   "bytes": 158507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-966-663.bab0ef9e937e.pmtiles"
+  },
+  {
+   "x": 967,
+   "y": 660,
+   "file": "11-967-660.00c010786098.pmtiles",
+   "bytes": 71076,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-967-660.00c010786098.pmtiles"
+  },
+  {
+   "x": 967,
+   "y": 661,
+   "file": "11-967-661.cc01b12af43b.pmtiles",
+   "bytes": 244979,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-967-661.cc01b12af43b.pmtiles"
+  },
+  {
+   "x": 967,
+   "y": 662,
+   "file": "11-967-662.1ad43b338555.pmtiles",
+   "bytes": 367260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-967-662.1ad43b338555.pmtiles"
+  },
+  {
+   "x": 967,
+   "y": 663,
+   "file": "11-967-663.861037923b27.pmtiles",
+   "bytes": 282627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-967-663.861037923b27.pmtiles"
+  },
+  {
+   "x": 967,
+   "y": 664,
+   "file": "11-967-664.e514592c85ca.pmtiles",
+   "bytes": 57048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-967-664.e514592c85ca.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 660,
+   "file": "11-968-660.eb8f6f0c74ad.pmtiles",
+   "bytes": 59004,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-660.eb8f6f0c74ad.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 661,
+   "file": "11-968-661.008e9a257ead.pmtiles",
+   "bytes": 123604,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-661.008e9a257ead.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 662,
+   "file": "11-968-662.e1525de72ac8.pmtiles",
+   "bytes": 213801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-662.e1525de72ac8.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 663,
+   "file": "11-968-663.89b475be7b44.pmtiles",
+   "bytes": 249712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-663.89b475be7b44.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 664,
+   "file": "11-968-664.1fa736a19b90.pmtiles",
+   "bytes": 274491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-664.1fa736a19b90.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 665,
+   "file": "11-968-665.ab39abd07131.pmtiles",
+   "bytes": 462114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-665.ab39abd07131.pmtiles"
+  },
+  {
+   "x": 968,
+   "y": 666,
+   "file": "11-968-666.27de417554b9.pmtiles",
+   "bytes": 304319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-968-666.27de417554b9.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 660,
+   "file": "11-969-660.81882a47cbf9.pmtiles",
+   "bytes": 107195,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-660.81882a47cbf9.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 661,
+   "file": "11-969-661.df3d1acb7646.pmtiles",
+   "bytes": 88902,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-661.df3d1acb7646.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 662,
+   "file": "11-969-662.6e00e7b8328d.pmtiles",
+   "bytes": 184044,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-662.6e00e7b8328d.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 663,
+   "file": "11-969-663.ca10e0fdb9e3.pmtiles",
+   "bytes": 306653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-663.ca10e0fdb9e3.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 664,
+   "file": "11-969-664.01f9494bfbb0.pmtiles",
+   "bytes": 439150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-664.01f9494bfbb0.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 665,
+   "file": "11-969-665.518f73b2c492.pmtiles",
+   "bytes": 68677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-665.518f73b2c492.pmtiles"
+  },
+  {
+   "x": 969,
+   "y": 666,
+   "file": "11-969-666.5610e5c4dfe4.pmtiles",
+   "bytes": 404486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-969-666.5610e5c4dfe4.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 660,
+   "file": "11-970-660.20a4773b4024.pmtiles",
+   "bytes": 102443,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-660.20a4773b4024.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 661,
+   "file": "11-970-661.9686fe6a709e.pmtiles",
+   "bytes": 174133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-661.9686fe6a709e.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 662,
+   "file": "11-970-662.b5d4459e5d8c.pmtiles",
+   "bytes": 210752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-662.b5d4459e5d8c.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 663,
+   "file": "11-970-663.d54849fd955a.pmtiles",
+   "bytes": 251990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-663.d54849fd955a.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 664,
+   "file": "11-970-664.86265db96085.pmtiles",
+   "bytes": 288003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-664.86265db96085.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 666,
+   "file": "11-970-666.3a71db29ebfd.pmtiles",
+   "bytes": 102064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-666.3a71db29ebfd.pmtiles"
+  },
+  {
+   "x": 970,
+   "y": 667,
+   "file": "11-970-667.be0a72372782.pmtiles",
+   "bytes": 98262,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-970-667.be0a72372782.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 660,
+   "file": "11-971-660.397c753f16b8.pmtiles",
+   "bytes": 220555,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-660.397c753f16b8.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 661,
+   "file": "11-971-661.f19269d08336.pmtiles",
+   "bytes": 327154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-661.f19269d08336.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 662,
+   "file": "11-971-662.0a75012b3219.pmtiles",
+   "bytes": 244120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-662.0a75012b3219.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 663,
+   "file": "11-971-663.c933f6f4d282.pmtiles",
+   "bytes": 340193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-663.c933f6f4d282.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 664,
+   "file": "11-971-664.d5bfb680b5e7.pmtiles",
+   "bytes": 354634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-664.d5bfb680b5e7.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 665,
+   "file": "11-971-665.cdac92d709eb.pmtiles",
+   "bytes": 66303,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-665.cdac92d709eb.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 666,
+   "file": "11-971-666.4173004347de.pmtiles",
+   "bytes": 267149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-666.4173004347de.pmtiles"
+  },
+  {
+   "x": 971,
+   "y": 667,
+   "file": "11-971-667.02b1843eefb0.pmtiles",
+   "bytes": 113167,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-971-667.02b1843eefb0.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 660,
+   "file": "11-972-660.ad5342d0499a.pmtiles",
+   "bytes": 231505,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-660.ad5342d0499a.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 661,
+   "file": "11-972-661.0b3718bbfc21.pmtiles",
+   "bytes": 253204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-661.0b3718bbfc21.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 662,
+   "file": "11-972-662.ed8ec2ef902c.pmtiles",
+   "bytes": 366522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-662.ed8ec2ef902c.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 663,
+   "file": "11-972-663.45ffe54c9fd1.pmtiles",
+   "bytes": 237927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-663.45ffe54c9fd1.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 664,
+   "file": "11-972-664.67aea28abe8e.pmtiles",
+   "bytes": 1738637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-664.67aea28abe8e.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 665,
+   "file": "11-972-665.3a8e07f0f3c8.pmtiles",
+   "bytes": 282076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-665.3a8e07f0f3c8.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 666,
+   "file": "11-972-666.86a40ac09889.pmtiles",
+   "bytes": 242518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-666.86a40ac09889.pmtiles"
+  },
+  {
+   "x": 972,
+   "y": 667,
+   "file": "11-972-667.f185c84ff361.pmtiles",
+   "bytes": 119067,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-972-667.f185c84ff361.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 660,
+   "file": "11-973-660.76b4c5e68a68.pmtiles",
+   "bytes": 185241,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-660.76b4c5e68a68.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 661,
+   "file": "11-973-661.d166b6f1b3fb.pmtiles",
+   "bytes": 314684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-661.d166b6f1b3fb.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 662,
+   "file": "11-973-662.33cf78a17207.pmtiles",
+   "bytes": 493393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-662.33cf78a17207.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 663,
+   "file": "11-973-663.8e7dc4e9dc16.pmtiles",
+   "bytes": 264389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-663.8e7dc4e9dc16.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 664,
+   "file": "11-973-664.e512c14d72e3.pmtiles",
+   "bytes": 568500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-664.e512c14d72e3.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 665,
+   "file": "11-973-665.c3ee31e09571.pmtiles",
+   "bytes": 641614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-665.c3ee31e09571.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 666,
+   "file": "11-973-666.f2fc02756897.pmtiles",
+   "bytes": 590041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-666.f2fc02756897.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 667,
+   "file": "11-973-667.ac087fbc613e.pmtiles",
+   "bytes": 158977,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-973-667.ac087fbc613e.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 660,
+   "file": "11-974-660.0319bfd9319d.pmtiles",
+   "bytes": 207094,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-660.0319bfd9319d.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 661,
+   "file": "11-974-661.7670038adf26.pmtiles",
+   "bytes": 295593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-661.7670038adf26.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 662,
+   "file": "11-974-662.bfd8a4800175.pmtiles",
+   "bytes": 298827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-662.bfd8a4800175.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 663,
+   "file": "11-974-663.d9bd06099017.pmtiles",
+   "bytes": 197261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-663.d9bd06099017.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 664,
+   "file": "11-974-664.e444152a0704.pmtiles",
+   "bytes": 320260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-664.e444152a0704.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 665,
+   "file": "11-974-665.f62f05db28d9.pmtiles",
+   "bytes": 214366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-665.f62f05db28d9.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 666,
+   "file": "11-974-666.a1ff81fbcf35.pmtiles",
+   "bytes": 245519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-666.a1ff81fbcf35.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 667,
+   "file": "11-974-667.f8a05ec58daf.pmtiles",
+   "bytes": 112201,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-974-667.f8a05ec58daf.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 660,
+   "file": "11-975-660.8267a497fdbc.pmtiles",
+   "bytes": 239396,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-660.8267a497fdbc.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 661,
+   "file": "11-975-661.62f85ba62b4d.pmtiles",
+   "bytes": 262250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-661.62f85ba62b4d.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 662,
+   "file": "11-975-662.5fccb7e2f91d.pmtiles",
+   "bytes": 308691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-662.5fccb7e2f91d.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 663,
+   "file": "11-975-663.001573fd8db8.pmtiles",
+   "bytes": 186844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-663.001573fd8db8.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 664,
+   "file": "11-975-664.28cade3551bf.pmtiles",
+   "bytes": 160860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-664.28cade3551bf.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 665,
+   "file": "11-975-665.c15c8dedbce7.pmtiles",
+   "bytes": 363581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-665.c15c8dedbce7.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 666,
+   "file": "11-975-666.e75e13166124.pmtiles",
+   "bytes": 163551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-666.e75e13166124.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 667,
+   "file": "11-975-667.3e5f1fe4fffa.pmtiles",
+   "bytes": 61154,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-975-667.3e5f1fe4fffa.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 660,
+   "file": "11-976-660.cb47b5773abd.pmtiles",
+   "bytes": 179937,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-660.cb47b5773abd.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 661,
+   "file": "11-976-661.10182b45f2db.pmtiles",
+   "bytes": 267067,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-661.10182b45f2db.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 662,
+   "file": "11-976-662.a75b0784c7bf.pmtiles",
+   "bytes": 309961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-662.a75b0784c7bf.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 663,
+   "file": "11-976-663.7aba35709ca2.pmtiles",
+   "bytes": 225311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-663.7aba35709ca2.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 664,
+   "file": "11-976-664.43184ff7201b.pmtiles",
+   "bytes": 159116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-664.43184ff7201b.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 665,
+   "file": "11-976-665.805d237a2011.pmtiles",
+   "bytes": 155897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-665.805d237a2011.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 666,
+   "file": "11-976-666.029d953457ec.pmtiles",
+   "bytes": 171049,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-666.029d953457ec.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 667,
+   "file": "11-976-667.93d36d57d34e.pmtiles",
+   "bytes": 81867,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-976-667.93d36d57d34e.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 660,
+   "file": "11-977-660.630c541893b3.pmtiles",
+   "bytes": 150595,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-660.630c541893b3.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 661,
+   "file": "11-977-661.50340a1a65be.pmtiles",
+   "bytes": 348682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-661.50340a1a65be.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 662,
+   "file": "11-977-662.cf0ea6cd9b4e.pmtiles",
+   "bytes": 234105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-662.cf0ea6cd9b4e.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 663,
+   "file": "11-977-663.35c14baaef96.pmtiles",
+   "bytes": 262667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-663.35c14baaef96.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 664,
+   "file": "11-977-664.2e770ef3e6c3.pmtiles",
+   "bytes": 309952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-664.2e770ef3e6c3.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 665,
+   "file": "11-977-665.22786d6d6ba5.pmtiles",
+   "bytes": 159980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-665.22786d6d6ba5.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 666,
+   "file": "11-977-666.5d2aa864b24b.pmtiles",
+   "bytes": 270401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-666.5d2aa864b24b.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 667,
+   "file": "11-977-667.555329af7737.pmtiles",
+   "bytes": 136159,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-977-667.555329af7737.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 660,
+   "file": "11-978-660.1d35e6900b70.pmtiles",
+   "bytes": 156184,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-660.1d35e6900b70.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 661,
+   "file": "11-978-661.4fc03c50ead5.pmtiles",
+   "bytes": 151550,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-661.4fc03c50ead5.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 662,
+   "file": "11-978-662.bd00f95ecbf8.pmtiles",
+   "bytes": 244748,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-662.bd00f95ecbf8.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 663,
+   "file": "11-978-663.745b218ade39.pmtiles",
+   "bytes": 400560,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-663.745b218ade39.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 664,
+   "file": "11-978-664.acf58d0ad2fe.pmtiles",
+   "bytes": 160434,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-664.acf58d0ad2fe.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 665,
+   "file": "11-978-665.46f79332debf.pmtiles",
+   "bytes": 250703,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-665.46f79332debf.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 666,
+   "file": "11-978-666.32cdd4facd7b.pmtiles",
+   "bytes": 150393,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-666.32cdd4facd7b.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 667,
+   "file": "11-978-667.2ebaac0aaf25.pmtiles",
+   "bytes": 87249,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-galway-2026-10-03/11-978-667.2ebaac0aaf25.pmtiles"
+  }
+ ]
+}

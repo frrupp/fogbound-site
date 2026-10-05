@@ -1,0 +1,773 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ie-donegal",
+ "source": "ie.pmtiles",
+ "builtAt": "2026-10-05T02:56:48.526Z",
+ "publishedAt": "2026-10-05T02:57:13.309Z",
+ "host": "github",
+ "releases": [
+  "maps-ie-donegal-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -8.83471,
+  54.45905,
+  -6.92224,
+  55.451
+ ],
+ "overview": {
+  "file": "overview.c10100eea00d.pmtiles",
+  "bytes": 1115890,
+  "tiles": 73,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/overview.c10100eea00d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 974,
+   "y": 650,
+   "file": "11-974-650.7023d567e28e.pmtiles",
+   "bytes": 178031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-974-650.7023d567e28e.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 651,
+   "file": "11-974-651.485cba88796f.pmtiles",
+   "bytes": 132745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-974-651.485cba88796f.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 647,
+   "file": "11-975-647.8e0135f74d1e.pmtiles",
+   "bytes": 84191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-647.8e0135f74d1e.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 648,
+   "file": "11-975-648.b0147abb07cf.pmtiles",
+   "bytes": 46539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-648.b0147abb07cf.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 649,
+   "file": "11-975-649.e7a481f249cf.pmtiles",
+   "bytes": 101130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-649.e7a481f249cf.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 650,
+   "file": "11-975-650.b9da9023f18b.pmtiles",
+   "bytes": 136010,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-650.b9da9023f18b.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 651,
+   "file": "11-975-651.8ccb0a41118a.pmtiles",
+   "bytes": 199149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-651.8ccb0a41118a.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 652,
+   "file": "11-975-652.0621e484ae0c.pmtiles",
+   "bytes": 16827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-652.0621e484ae0c.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 653,
+   "file": "11-975-653.2a8f24a3d5f2.pmtiles",
+   "bytes": 60910,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-975-653.2a8f24a3d5f2.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 646,
+   "file": "11-976-646.8b3995fa8379.pmtiles",
+   "bytes": 144841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-646.8b3995fa8379.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 647,
+   "file": "11-976-647.513ae96d7888.pmtiles",
+   "bytes": 365699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-647.513ae96d7888.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 648,
+   "file": "11-976-648.2c08bed25737.pmtiles",
+   "bytes": 253893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-648.2c08bed25737.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 649,
+   "file": "11-976-649.6e21f050e259.pmtiles",
+   "bytes": 244243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-649.6e21f050e259.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 650,
+   "file": "11-976-650.611d0c136a48.pmtiles",
+   "bytes": 185527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-650.611d0c136a48.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 651,
+   "file": "11-976-651.0f512e44f261.pmtiles",
+   "bytes": 177011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-651.0f512e44f261.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 652,
+   "file": "11-976-652.b61431d1aee9.pmtiles",
+   "bytes": 97195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-652.b61431d1aee9.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 653,
+   "file": "11-976-653.ddd86147a337.pmtiles",
+   "bytes": 103123,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-976-653.ddd86147a337.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 645,
+   "file": "11-977-645.c33d64ec86b2.pmtiles",
+   "bytes": 53719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-645.c33d64ec86b2.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 646,
+   "file": "11-977-646.9b9ed0c8bb6d.pmtiles",
+   "bytes": 192243,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-646.9b9ed0c8bb6d.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 647,
+   "file": "11-977-647.42fbcac08254.pmtiles",
+   "bytes": 112530,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-647.42fbcac08254.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 648,
+   "file": "11-977-648.9281a7f44393.pmtiles",
+   "bytes": 127264,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-648.9281a7f44393.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 649,
+   "file": "11-977-649.86cb0224deff.pmtiles",
+   "bytes": 118297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-649.86cb0224deff.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 650,
+   "file": "11-977-650.f9b511c511df.pmtiles",
+   "bytes": 108925,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-650.f9b511c511df.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 651,
+   "file": "11-977-651.baec5ad80d64.pmtiles",
+   "bytes": 315194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-651.baec5ad80d64.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 652,
+   "file": "11-977-652.09351bd1ce6a.pmtiles",
+   "bytes": 326937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-652.09351bd1ce6a.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 653,
+   "file": "11-977-653.0ef3e058cc18.pmtiles",
+   "bytes": 54494,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-977-653.0ef3e058cc18.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 645,
+   "file": "11-978-645.9ed92c4ffa67.pmtiles",
+   "bytes": 75330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-645.9ed92c4ffa67.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 646,
+   "file": "11-978-646.b38e0f6905c1.pmtiles",
+   "bytes": 187498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-646.b38e0f6905c1.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 647,
+   "file": "11-978-647.28c0593ae791.pmtiles",
+   "bytes": 86436,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-647.28c0593ae791.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 648,
+   "file": "11-978-648.8eb590209ca6.pmtiles",
+   "bytes": 87563,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-648.8eb590209ca6.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 649,
+   "file": "11-978-649.bcf2d026054d.pmtiles",
+   "bytes": 113418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-649.bcf2d026054d.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 650,
+   "file": "11-978-650.86288724b2bc.pmtiles",
+   "bytes": 117420,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-650.86288724b2bc.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 651,
+   "file": "11-978-651.e14d34dcd032.pmtiles",
+   "bytes": 149165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-651.e14d34dcd032.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 652,
+   "file": "11-978-652.b9486f96cc11.pmtiles",
+   "bytes": 211442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-652.b9486f96cc11.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 653,
+   "file": "11-978-653.6008510c10eb.pmtiles",
+   "bytes": 39955,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-978-653.6008510c10eb.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 645,
+   "file": "11-979-645.9fde97021f25.pmtiles",
+   "bytes": 162846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-645.9fde97021f25.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 646,
+   "file": "11-979-646.3c2ef2f25d4c.pmtiles",
+   "bytes": 191143,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-646.3c2ef2f25d4c.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 647,
+   "file": "11-979-647.568f69e37fe9.pmtiles",
+   "bytes": 191739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-647.568f69e37fe9.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 648,
+   "file": "11-979-648.b7309f71b51b.pmtiles",
+   "bytes": 377363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-648.b7309f71b51b.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 649,
+   "file": "11-979-649.05c7e0bdf666.pmtiles",
+   "bytes": 347497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-649.05c7e0bdf666.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 650,
+   "file": "11-979-650.81640b56ee87.pmtiles",
+   "bytes": 106448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-650.81640b56ee87.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 651,
+   "file": "11-979-651.f3538b92da08.pmtiles",
+   "bytes": 121356,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-651.f3538b92da08.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 652,
+   "file": "11-979-652.cbe8dff06327.pmtiles",
+   "bytes": 219262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-652.cbe8dff06327.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 653,
+   "file": "11-979-653.c9c86d38bd44.pmtiles",
+   "bytes": 47017,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-979-653.c9c86d38bd44.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 645,
+   "file": "11-980-645.945a6fd36821.pmtiles",
+   "bytes": 233754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-645.945a6fd36821.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 646,
+   "file": "11-980-646.6484530d0224.pmtiles",
+   "bytes": 209332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-646.6484530d0224.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 647,
+   "file": "11-980-647.94a4f46235e0.pmtiles",
+   "bytes": 252165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-647.94a4f46235e0.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 648,
+   "file": "11-980-648.3edfaf6de185.pmtiles",
+   "bytes": 506576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-648.3edfaf6de185.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 649,
+   "file": "11-980-649.bcaf5a44e6b5.pmtiles",
+   "bytes": 288346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-649.bcaf5a44e6b5.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 650,
+   "file": "11-980-650.27f02dd07a69.pmtiles",
+   "bytes": 214875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-650.27f02dd07a69.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 651,
+   "file": "11-980-651.87017168b601.pmtiles",
+   "bytes": 125713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-651.87017168b601.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 652,
+   "file": "11-980-652.7e2dcb22a1f6.pmtiles",
+   "bytes": 210020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-652.7e2dcb22a1f6.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 653,
+   "file": "11-980-653.49e2cf08b1a7.pmtiles",
+   "bytes": 54392,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-980-653.49e2cf08b1a7.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 644,
+   "file": "11-981-644.330042daf24b.pmtiles",
+   "bytes": 44304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-644.330042daf24b.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 645,
+   "file": "11-981-645.1f40e3b1db27.pmtiles",
+   "bytes": 188748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-645.1f40e3b1db27.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 646,
+   "file": "11-981-646.2686d3c8b4dd.pmtiles",
+   "bytes": 369798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-646.2686d3c8b4dd.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 647,
+   "file": "11-981-647.2df50cc4ef99.pmtiles",
+   "bytes": 231293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-647.2df50cc4ef99.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 648,
+   "file": "11-981-648.4cbe196ef677.pmtiles",
+   "bytes": 251958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-648.4cbe196ef677.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 649,
+   "file": "11-981-649.db428117660f.pmtiles",
+   "bytes": 543833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-649.db428117660f.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 650,
+   "file": "11-981-650.167761d91ae3.pmtiles",
+   "bytes": 316963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-650.167761d91ae3.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 651,
+   "file": "11-981-651.03d2a67cad0d.pmtiles",
+   "bytes": 112372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-651.03d2a67cad0d.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 652,
+   "file": "11-981-652.e7b7cca8cbc4.pmtiles",
+   "bytes": 124751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-652.e7b7cca8cbc4.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 653,
+   "file": "11-981-653.40ce1827efb4.pmtiles",
+   "bytes": 47833,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-981-653.40ce1827efb4.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 643,
+   "file": "11-982-643.44e8778d01f7.pmtiles",
+   "bytes": 34378,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-643.44e8778d01f7.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 644,
+   "file": "11-982-644.2714d9e43d29.pmtiles",
+   "bytes": 196179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-644.2714d9e43d29.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 645,
+   "file": "11-982-645.1970076be9cf.pmtiles",
+   "bytes": 222992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-645.1970076be9cf.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 646,
+   "file": "11-982-646.9b8aec2f7eb0.pmtiles",
+   "bytes": 161684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-646.9b8aec2f7eb0.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 647,
+   "file": "11-982-647.bc77109ba2ec.pmtiles",
+   "bytes": 1319015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-647.bc77109ba2ec.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 648,
+   "file": "11-982-648.14a62aa733bd.pmtiles",
+   "bytes": 283098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-648.14a62aa733bd.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 649,
+   "file": "11-982-649.96c3744a9557.pmtiles",
+   "bytes": 153576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-649.96c3744a9557.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 650,
+   "file": "11-982-650.0c3c511c8d0c.pmtiles",
+   "bytes": 296586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-650.0c3c511c8d0c.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 651,
+   "file": "11-982-651.b637790313df.pmtiles",
+   "bytes": 466148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-651.b637790313df.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 652,
+   "file": "11-982-652.c741462e3d73.pmtiles",
+   "bytes": 158502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-652.c741462e3d73.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 653,
+   "file": "11-982-653.854a1ba8068b.pmtiles",
+   "bytes": 24371,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-982-653.854a1ba8068b.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 644,
+   "file": "11-983-644.e9168081d71b.pmtiles",
+   "bytes": 77018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-644.e9168081d71b.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 645,
+   "file": "11-983-645.e86939a1a4fc.pmtiles",
+   "bytes": 219776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-645.e86939a1a4fc.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 646,
+   "file": "11-983-646.257603448b06.pmtiles",
+   "bytes": 93860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-646.257603448b06.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 647,
+   "file": "11-983-647.069996c973e6.pmtiles",
+   "bytes": 229758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-647.069996c973e6.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 648,
+   "file": "11-983-648.844f3b6ad521.pmtiles",
+   "bytes": 225070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-648.844f3b6ad521.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 649,
+   "file": "11-983-649.190d54ebc077.pmtiles",
+   "bytes": 104220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-649.190d54ebc077.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 650,
+   "file": "11-983-650.c8d581bf4e94.pmtiles",
+   "bytes": 175100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-650.c8d581bf4e94.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 651,
+   "file": "11-983-651.ae08c2269d8a.pmtiles",
+   "bytes": 170771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-651.ae08c2269d8a.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 652,
+   "file": "11-983-652.ae9cf432f333.pmtiles",
+   "bytes": 140422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-652.ae9cf432f333.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 653,
+   "file": "11-983-653.f9760de2231c.pmtiles",
+   "bytes": 47444,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-983-653.f9760de2231c.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 645,
+   "file": "11-984-645.d8a5cf82121e.pmtiles",
+   "bytes": 154682,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-645.d8a5cf82121e.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 646,
+   "file": "11-984-646.98d2a56be3ac.pmtiles",
+   "bytes": 133557,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-646.98d2a56be3ac.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 647,
+   "file": "11-984-647.4666cb025e00.pmtiles",
+   "bytes": 308492,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-647.4666cb025e00.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 648,
+   "file": "11-984-648.64f47326a9ba.pmtiles",
+   "bytes": 215062,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-648.64f47326a9ba.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 649,
+   "file": "11-984-649.33c004b334d9.pmtiles",
+   "bytes": 49490,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-649.33c004b334d9.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 650,
+   "file": "11-984-650.599af81e412f.pmtiles",
+   "bytes": 118718,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-650.599af81e412f.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 651,
+   "file": "11-984-651.ba7e1b679cfc.pmtiles",
+   "bytes": 144755,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-651.ba7e1b679cfc.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 652,
+   "file": "11-984-652.e8c2b8ccecf5.pmtiles",
+   "bytes": 109365,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-652.e8c2b8ccecf5.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 653,
+   "file": "11-984-653.85e66173aef6.pmtiles",
+   "bytes": 37125,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ie-donegal-2026-10-03/11-984-653.85e66173aef6.pmtiles"
+  }
+ ]
+}
