@@ -1,0 +1,837 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "sk-banskobystricky",
+ "source": "sk.pmtiles",
+ "builtAt": "2026-10-05T22:42:16.241Z",
+ "publishedAt": "2026-10-05T22:42:45.684Z",
+ "host": "github",
+ "releases": [
+  "maps-sk-banskobystricky-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  18.47868,
+  48.05365,
+  20.46995,
+  48.94725
+ ],
+ "overview": {
+  "file": "overview.05d18da19f43.pmtiles",
+  "bytes": 3569665,
+  "tiles": 64,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/overview.05d18da19f43.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1129,
+   "y": 703,
+   "file": "11-1129-703.1b63af0bb701.pmtiles",
+   "bytes": 100827,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-703.1b63af0bb701.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 704,
+   "file": "11-1129-704.b301478b5dd0.pmtiles",
+   "bytes": 443762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-704.b301478b5dd0.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 705,
+   "file": "11-1129-705.113d630b15ca.pmtiles",
+   "bytes": 1144134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-705.113d630b15ca.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 706,
+   "file": "11-1129-706.a63edf232e4d.pmtiles",
+   "bytes": 449673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-706.a63edf232e4d.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 707,
+   "file": "11-1129-707.39973e7940b5.pmtiles",
+   "bytes": 382916,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-707.39973e7940b5.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 708,
+   "file": "11-1129-708.ce20c1e8b23b.pmtiles",
+   "bytes": 454328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-708.ce20c1e8b23b.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 709,
+   "file": "11-1129-709.1672b3164ae3.pmtiles",
+   "bytes": 590603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-709.1672b3164ae3.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 710,
+   "file": "11-1129-710.4f9938dee410.pmtiles",
+   "bytes": 613574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-710.4f9938dee410.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 711,
+   "file": "11-1129-711.ba346b9ccac3.pmtiles",
+   "bytes": 113631,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1129-711.ba346b9ccac3.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 703,
+   "file": "11-1130-703.bf0467b5accb.pmtiles",
+   "bytes": 89366,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-703.bf0467b5accb.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 704,
+   "file": "11-1130-704.6050853ba630.pmtiles",
+   "bytes": 430657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-704.6050853ba630.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 705,
+   "file": "11-1130-705.9e0a27a91f07.pmtiles",
+   "bytes": 710395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-705.9e0a27a91f07.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 706,
+   "file": "11-1130-706.007179dd6924.pmtiles",
+   "bytes": 351062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-706.007179dd6924.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 707,
+   "file": "11-1130-707.7a0ed1bd3f41.pmtiles",
+   "bytes": 756097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-707.7a0ed1bd3f41.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 708,
+   "file": "11-1130-708.d4f13b5fdd40.pmtiles",
+   "bytes": 959122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-708.d4f13b5fdd40.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 709,
+   "file": "11-1130-709.47d684d4636f.pmtiles",
+   "bytes": 1271457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-709.47d684d4636f.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 710,
+   "file": "11-1130-710.5277a82b0a12.pmtiles",
+   "bytes": 422180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-710.5277a82b0a12.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 711,
+   "file": "11-1130-711.abc0329f5fc7.pmtiles",
+   "bytes": 203269,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1130-711.abc0329f5fc7.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 703,
+   "file": "11-1131-703.c9b08c66d5f9.pmtiles",
+   "bytes": 155839,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-703.c9b08c66d5f9.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 704,
+   "file": "11-1131-704.6405b925452a.pmtiles",
+   "bytes": 451801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-704.6405b925452a.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 705,
+   "file": "11-1131-705.8b0785462c7d.pmtiles",
+   "bytes": 398483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-705.8b0785462c7d.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 706,
+   "file": "11-1131-706.0c7eb626f92c.pmtiles",
+   "bytes": 664184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-706.0c7eb626f92c.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 707,
+   "file": "11-1131-707.cb07726895e1.pmtiles",
+   "bytes": 931546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-707.cb07726895e1.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 708,
+   "file": "11-1131-708.43850a870061.pmtiles",
+   "bytes": 2013524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-708.43850a870061.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 709,
+   "file": "11-1131-709.f408a13b331a.pmtiles",
+   "bytes": 1110056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-709.f408a13b331a.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 710,
+   "file": "11-1131-710.0d1ee5c1a9b3.pmtiles",
+   "bytes": 482335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-710.0d1ee5c1a9b3.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 711,
+   "file": "11-1131-711.fbaff79db2ce.pmtiles",
+   "bytes": 316861,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1131-711.fbaff79db2ce.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 703,
+   "file": "11-1132-703.d460d1f3697d.pmtiles",
+   "bytes": 130846,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-703.d460d1f3697d.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 704,
+   "file": "11-1132-704.ef4fa73276ce.pmtiles",
+   "bytes": 429917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-704.ef4fa73276ce.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 705,
+   "file": "11-1132-705.0d3a64879a87.pmtiles",
+   "bytes": 1470285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-705.0d3a64879a87.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 706,
+   "file": "11-1132-706.fb882e652106.pmtiles",
+   "bytes": 1024893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-706.fb882e652106.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 707,
+   "file": "11-1132-707.93c636856fec.pmtiles",
+   "bytes": 970751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-707.93c636856fec.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 708,
+   "file": "11-1132-708.a7e7036bbee6.pmtiles",
+   "bytes": 1047734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-708.a7e7036bbee6.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 709,
+   "file": "11-1132-709.07640fdbd75b.pmtiles",
+   "bytes": 864000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-709.07640fdbd75b.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 710,
+   "file": "11-1132-710.e639cce37258.pmtiles",
+   "bytes": 450977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-710.e639cce37258.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 711,
+   "file": "11-1132-711.824bfd95ad5c.pmtiles",
+   "bytes": 257165,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1132-711.824bfd95ad5c.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 703,
+   "file": "11-1133-703.8aa532489a64.pmtiles",
+   "bytes": 283091,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-703.8aa532489a64.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 704,
+   "file": "11-1133-704.20182b510ad8.pmtiles",
+   "bytes": 578071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-704.20182b510ad8.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 705,
+   "file": "11-1133-705.8388280a9fd6.pmtiles",
+   "bytes": 1044089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-705.8388280a9fd6.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 706,
+   "file": "11-1133-706.2af8d43ccb16.pmtiles",
+   "bytes": 795624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-706.2af8d43ccb16.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 707,
+   "file": "11-1133-707.38dd808b5cd3.pmtiles",
+   "bytes": 734338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-707.38dd808b5cd3.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 708,
+   "file": "11-1133-708.7662b6da2a96.pmtiles",
+   "bytes": 795434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-708.7662b6da2a96.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 709,
+   "file": "11-1133-709.a3f3ec54ff54.pmtiles",
+   "bytes": 476281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-709.a3f3ec54ff54.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 710,
+   "file": "11-1133-710.d820031aa270.pmtiles",
+   "bytes": 505206,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-710.d820031aa270.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 711,
+   "file": "11-1133-711.c8599adaf4b9.pmtiles",
+   "bytes": 248255,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1133-711.c8599adaf4b9.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 703,
+   "file": "11-1134-703.9f14aac6e447.pmtiles",
+   "bytes": 194061,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-703.9f14aac6e447.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 704,
+   "file": "11-1134-704.e611b27261d0.pmtiles",
+   "bytes": 395067,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-704.e611b27261d0.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 705,
+   "file": "11-1134-705.42cbddb9c8c5.pmtiles",
+   "bytes": 488839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-705.42cbddb9c8c5.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 706,
+   "file": "11-1134-706.ee31d921fb21.pmtiles",
+   "bytes": 476792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-706.ee31d921fb21.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 707,
+   "file": "11-1134-707.78ae3ebfb30e.pmtiles",
+   "bytes": 674872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-707.78ae3ebfb30e.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 708,
+   "file": "11-1134-708.422125db7030.pmtiles",
+   "bytes": 563516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-708.422125db7030.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 709,
+   "file": "11-1134-709.4f0160551532.pmtiles",
+   "bytes": 496186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-709.4f0160551532.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 710,
+   "file": "11-1134-710.9cca9670cf16.pmtiles",
+   "bytes": 632544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-710.9cca9670cf16.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 711,
+   "file": "11-1134-711.76696b94f4ef.pmtiles",
+   "bytes": 167284,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1134-711.76696b94f4ef.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 703,
+   "file": "11-1135-703.0dccf5922fb8.pmtiles",
+   "bytes": 165181,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-703.0dccf5922fb8.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 704,
+   "file": "11-1135-704.48108ad385d7.pmtiles",
+   "bytes": 552565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-704.48108ad385d7.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 705,
+   "file": "11-1135-705.5a84cbb47c36.pmtiles",
+   "bytes": 487444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-705.5a84cbb47c36.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 706,
+   "file": "11-1135-706.10d7799b8563.pmtiles",
+   "bytes": 346654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-706.10d7799b8563.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 707,
+   "file": "11-1135-707.79b54ae6475b.pmtiles",
+   "bytes": 431012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-707.79b54ae6475b.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 708,
+   "file": "11-1135-708.96d4503981a4.pmtiles",
+   "bytes": 518982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-708.96d4503981a4.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 709,
+   "file": "11-1135-709.d59ebce79a43.pmtiles",
+   "bytes": 609339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-709.d59ebce79a43.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 710,
+   "file": "11-1135-710.7a121934eddb.pmtiles",
+   "bytes": 164151,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1135-710.7a121934eddb.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 703,
+   "file": "11-1136-703.6e48d43f548e.pmtiles",
+   "bytes": 178387,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-703.6e48d43f548e.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 704,
+   "file": "11-1136-704.56ef64f2e36d.pmtiles",
+   "bytes": 353805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-704.56ef64f2e36d.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 705,
+   "file": "11-1136-705.3577be100259.pmtiles",
+   "bytes": 271573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-705.3577be100259.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 706,
+   "file": "11-1136-706.ac180128ed80.pmtiles",
+   "bytes": 333506,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-706.ac180128ed80.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 707,
+   "file": "11-1136-707.ed75227141fe.pmtiles",
+   "bytes": 401275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-707.ed75227141fe.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 708,
+   "file": "11-1136-708.eadfd07c957d.pmtiles",
+   "bytes": 369451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-708.eadfd07c957d.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 709,
+   "file": "11-1136-709.d9199d6e7362.pmtiles",
+   "bytes": 512472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-709.d9199d6e7362.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 710,
+   "file": "11-1136-710.11e85bd45cdc.pmtiles",
+   "bytes": 303083,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-710.11e85bd45cdc.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 711,
+   "file": "11-1136-711.61b10864d1c0.pmtiles",
+   "bytes": 22135,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1136-711.61b10864d1c0.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 703,
+   "file": "11-1137-703.ae5ac6df5d1f.pmtiles",
+   "bytes": 131877,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-703.ae5ac6df5d1f.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 704,
+   "file": "11-1137-704.a3eac0a55b1e.pmtiles",
+   "bytes": 370574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-704.a3eac0a55b1e.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 705,
+   "file": "11-1137-705.c806b42c395d.pmtiles",
+   "bytes": 300727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-705.c806b42c395d.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 706,
+   "file": "11-1137-706.88a2593e7004.pmtiles",
+   "bytes": 552839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-706.88a2593e7004.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 707,
+   "file": "11-1137-707.6a1981601f43.pmtiles",
+   "bytes": 424844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-707.6a1981601f43.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 708,
+   "file": "11-1137-708.4c0e2f27c3b4.pmtiles",
+   "bytes": 619314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-708.4c0e2f27c3b4.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 709,
+   "file": "11-1137-709.89e8b0b1dc97.pmtiles",
+   "bytes": 375921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-709.89e8b0b1dc97.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 710,
+   "file": "11-1137-710.fdb406e0d6e8.pmtiles",
+   "bytes": 318861,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-710.fdb406e0d6e8.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 711,
+   "file": "11-1137-711.a6a89f4708c8.pmtiles",
+   "bytes": 44488,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1137-711.a6a89f4708c8.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 703,
+   "file": "11-1138-703.36b97431c205.pmtiles",
+   "bytes": 126346,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-703.36b97431c205.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 704,
+   "file": "11-1138-704.80d7ef7b0c03.pmtiles",
+   "bytes": 412871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-704.80d7ef7b0c03.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 705,
+   "file": "11-1138-705.0a98a530b58d.pmtiles",
+   "bytes": 392098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-705.0a98a530b58d.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 706,
+   "file": "11-1138-706.6f1584e06cdb.pmtiles",
+   "bytes": 582343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-706.6f1584e06cdb.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 707,
+   "file": "11-1138-707.c80e10649bf4.pmtiles",
+   "bytes": 481922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-707.c80e10649bf4.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 708,
+   "file": "11-1138-708.25ccebc09c00.pmtiles",
+   "bytes": 309844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-708.25ccebc09c00.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 709,
+   "file": "11-1138-709.0a542501a1fb.pmtiles",
+   "bytes": 296960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-709.0a542501a1fb.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 710,
+   "file": "11-1138-710.1a9c55bb8667.pmtiles",
+   "bytes": 109356,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1138-710.1a9c55bb8667.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 703,
+   "file": "11-1139-703.ffd15965d9a1.pmtiles",
+   "bytes": 112882,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-703.ffd15965d9a1.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 704,
+   "file": "11-1139-704.900368d2850d.pmtiles",
+   "bytes": 535505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-704.900368d2850d.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 705,
+   "file": "11-1139-705.12a0b23b6171.pmtiles",
+   "bytes": 510316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-705.12a0b23b6171.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 706,
+   "file": "11-1139-706.34a903dcefe9.pmtiles",
+   "bytes": 488654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-706.34a903dcefe9.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 707,
+   "file": "11-1139-707.6111810d576d.pmtiles",
+   "bytes": 437526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-707.6111810d576d.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 708,
+   "file": "11-1139-708.fb5a2ecb64e1.pmtiles",
+   "bytes": 384045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-708.fb5a2ecb64e1.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 709,
+   "file": "11-1139-709.8b9cdc94cec6.pmtiles",
+   "bytes": 262976,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1139-709.8b9cdc94cec6.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 703,
+   "file": "11-1140-703.2f5a75814448.pmtiles",
+   "bytes": 89706,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-703.2f5a75814448.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 704,
+   "file": "11-1140-704.76f4b4fedc33.pmtiles",
+   "bytes": 221610,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-704.76f4b4fedc33.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 705,
+   "file": "11-1140-705.e96def916e0c.pmtiles",
+   "bytes": 319803,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-705.e96def916e0c.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 706,
+   "file": "11-1140-706.8f7d19c2bab7.pmtiles",
+   "bytes": 366577,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-706.8f7d19c2bab7.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 707,
+   "file": "11-1140-707.3be167cb3777.pmtiles",
+   "bytes": 374159,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-707.3be167cb3777.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 708,
+   "file": "11-1140-708.b2a7c0895986.pmtiles",
+   "bytes": 79420,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sk-banskobystricky-2026-10-03/11-1140-708.b2a7c0895986.pmtiles"
+  }
+ ]
+}
