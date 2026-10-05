@@ -1,0 +1,453 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pt-braganca",
+ "source": "pt.pmtiles",
+ "builtAt": "2026-10-04T23:24:45.309Z",
+ "publishedAt": "2026-10-04T23:25:01.228Z",
+ "host": "github",
+ "releases": [
+  "maps-pt-braganca-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -7.43189,
+  41.02454,
+  -6.18916,
+  41.99252
+ ],
+ "overview": {
+  "file": "overview.151968deafc9.pmtiles",
+  "bytes": 1059562,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/overview.151968deafc9.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 981,
+   "y": 761,
+   "file": "11-981-761.03d54f47fe91.pmtiles",
+   "bytes": 185873,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-761.03d54f47fe91.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 762,
+   "file": "11-981-762.a75316b4aa5a.pmtiles",
+   "bytes": 358107,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-762.a75316b4aa5a.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 763,
+   "file": "11-981-763.074261cebc5a.pmtiles",
+   "bytes": 385460,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-763.074261cebc5a.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 764,
+   "file": "11-981-764.fa84acd84505.pmtiles",
+   "bytes": 363003,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-764.fa84acd84505.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 765,
+   "file": "11-981-765.bf3d8aefbb9b.pmtiles",
+   "bytes": 278416,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-765.bf3d8aefbb9b.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 766,
+   "file": "11-981-766.34ada560baf7.pmtiles",
+   "bytes": 390577,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-766.34ada560baf7.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 767,
+   "file": "11-981-767.57d841c1cf36.pmtiles",
+   "bytes": 144884,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-981-767.57d841c1cf36.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 761,
+   "file": "11-982-761.04eb22bf77e4.pmtiles",
+   "bytes": 261723,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-761.04eb22bf77e4.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 762,
+   "file": "11-982-762.c0396330a6bc.pmtiles",
+   "bytes": 384431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-762.c0396330a6bc.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 763,
+   "file": "11-982-763.3f4060324ad6.pmtiles",
+   "bytes": 399835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-763.3f4060324ad6.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 764,
+   "file": "11-982-764.c2356026f0b2.pmtiles",
+   "bytes": 325291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-764.c2356026f0b2.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 765,
+   "file": "11-982-765.c0ee1b1ac528.pmtiles",
+   "bytes": 438097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-765.c0ee1b1ac528.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 766,
+   "file": "11-982-766.cb347f4c27c9.pmtiles",
+   "bytes": 426289,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-766.cb347f4c27c9.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 767,
+   "file": "11-982-767.3a78488f4ca8.pmtiles",
+   "bytes": 328331,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-982-767.3a78488f4ca8.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 760,
+   "file": "11-983-760.d2386d718106.pmtiles",
+   "bytes": 198705,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-760.d2386d718106.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 761,
+   "file": "11-983-761.933710027e04.pmtiles",
+   "bytes": 333767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-761.933710027e04.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 762,
+   "file": "11-983-762.85a58a37ef1e.pmtiles",
+   "bytes": 275343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-762.85a58a37ef1e.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 763,
+   "file": "11-983-763.1e145c2fb8c2.pmtiles",
+   "bytes": 274912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-763.1e145c2fb8c2.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 764,
+   "file": "11-983-764.30098d4822e0.pmtiles",
+   "bytes": 429760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-764.30098d4822e0.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 765,
+   "file": "11-983-765.cde0ab97f24d.pmtiles",
+   "bytes": 419008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-765.cde0ab97f24d.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 766,
+   "file": "11-983-766.bd6d9a66bf4f.pmtiles",
+   "bytes": 459849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-766.bd6d9a66bf4f.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 767,
+   "file": "11-983-767.b2b4b4c33494.pmtiles",
+   "bytes": 367187,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-983-767.b2b4b4c33494.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 760,
+   "file": "11-984-760.6fb62e6d3a34.pmtiles",
+   "bytes": 203447,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-760.6fb62e6d3a34.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 761,
+   "file": "11-984-761.f17054d3a0f5.pmtiles",
+   "bytes": 300886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-761.f17054d3a0f5.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 762,
+   "file": "11-984-762.12a75bbda633.pmtiles",
+   "bytes": 233968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-762.12a75bbda633.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 763,
+   "file": "11-984-763.fcc93e40485c.pmtiles",
+   "bytes": 369158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-763.fcc93e40485c.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 764,
+   "file": "11-984-764.f9ab71eb845a.pmtiles",
+   "bytes": 246051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-764.f9ab71eb845a.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 765,
+   "file": "11-984-765.118a42d54692.pmtiles",
+   "bytes": 261350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-765.118a42d54692.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 766,
+   "file": "11-984-766.162708d96e7c.pmtiles",
+   "bytes": 227454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-766.162708d96e7c.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 767,
+   "file": "11-984-767.4d332c92a1f5.pmtiles",
+   "bytes": 243372,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-984-767.4d332c92a1f5.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 760,
+   "file": "11-985-760.999b3371f893.pmtiles",
+   "bytes": 112390,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-760.999b3371f893.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 761,
+   "file": "11-985-761.3011e8b2ca80.pmtiles",
+   "bytes": 718998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-761.3011e8b2ca80.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 762,
+   "file": "11-985-762.6c38c08236f0.pmtiles",
+   "bytes": 333572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-762.6c38c08236f0.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 763,
+   "file": "11-985-763.2d6169155d0c.pmtiles",
+   "bytes": 184713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-763.2d6169155d0c.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 764,
+   "file": "11-985-764.36049f9116fa.pmtiles",
+   "bytes": 232589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-764.36049f9116fa.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 765,
+   "file": "11-985-765.eb2b2140771a.pmtiles",
+   "bytes": 382202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-765.eb2b2140771a.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 766,
+   "file": "11-985-766.eb5b0fbebfe0.pmtiles",
+   "bytes": 283777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-766.eb5b0fbebfe0.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 767,
+   "file": "11-985-767.438f90993c70.pmtiles",
+   "bytes": 146483,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-985-767.438f90993c70.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 760,
+   "file": "11-986-760.06fde4bf8d05.pmtiles",
+   "bytes": 75058,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-760.06fde4bf8d05.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 761,
+   "file": "11-986-761.148483b95701.pmtiles",
+   "bytes": 173144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-761.148483b95701.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 762,
+   "file": "11-986-762.d8d8507367d0.pmtiles",
+   "bytes": 214445,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-762.d8d8507367d0.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 763,
+   "file": "11-986-763.cbea47fc1b59.pmtiles",
+   "bytes": 214384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-763.cbea47fc1b59.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 764,
+   "file": "11-986-764.fd0e795375ed.pmtiles",
+   "bytes": 277018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-764.fd0e795375ed.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 765,
+   "file": "11-986-765.684d107ed488.pmtiles",
+   "bytes": 248898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-765.684d107ed488.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 766,
+   "file": "11-986-766.c09db6ed6639.pmtiles",
+   "bytes": 49812,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-986-766.c09db6ed6639.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 761,
+   "file": "11-987-761.efcf4071af30.pmtiles",
+   "bytes": 24081,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-987-761.efcf4071af30.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 762,
+   "file": "11-987-762.d1def1d9ac09.pmtiles",
+   "bytes": 430520,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-987-762.d1def1d9ac09.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 763,
+   "file": "11-987-763.e634736618af.pmtiles",
+   "bytes": 1301375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-987-763.e634736618af.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 764,
+   "file": "11-987-764.dab49cdfc05a.pmtiles",
+   "bytes": 441219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-987-764.dab49cdfc05a.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 765,
+   "file": "11-987-765.9e5ecfe7913d.pmtiles",
+   "bytes": 153789,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-987-765.9e5ecfe7913d.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 762,
+   "file": "11-988-762.5fcef0007932.pmtiles",
+   "bytes": 94672,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-988-762.5fcef0007932.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 763,
+   "file": "11-988-763.60e5aad22b63.pmtiles",
+   "bytes": 2595281,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-988-763.60e5aad22b63.pmtiles"
+  },
+  {
+   "x": 988,
+   "y": 764,
+   "file": "11-988-764.87fae2ee30e5.pmtiles",
+   "bytes": 605357,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-braganca-2026-10-03/11-988-764.87fae2ee30e5.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pt-viana-do-castelo",
+ "source": "pt.pmtiles",
+ "builtAt": "2026-10-04T23:22:47.057Z",
+ "publishedAt": "2026-10-04T23:22:57.835Z",
+ "host": "github",
+ "releases": [
+  "maps-pt-viana-do-castelo-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -8.88096,
+  41.60638,
+  -8.08277,
+  42.15431
+ ],
+ "overview": {
+  "file": "overview.ab272f24566c.pmtiles",
+  "bytes": 1377697,
+  "tiles": 29,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/overview.ab272f24566c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 973,
+   "y": 759,
+   "file": "11-973-759.37f6f9d68c02.pmtiles",
+   "bytes": 25917,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-973-759.37f6f9d68c02.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 760,
+   "file": "11-973-760.23f46218622d.pmtiles",
+   "bytes": 111796,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-973-760.23f46218622d.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 761,
+   "file": "11-973-761.a5057e68f77f.pmtiles",
+   "bytes": 744150,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-973-761.a5057e68f77f.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 762,
+   "file": "11-973-762.28d3fc7fb57f.pmtiles",
+   "bytes": 563847,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-973-762.28d3fc7fb57f.pmtiles"
+  },
+  {
+   "x": 973,
+   "y": 763,
+   "file": "11-973-763.96a7482047dc.pmtiles",
+   "bytes": 140880,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-973-763.96a7482047dc.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 759,
+   "file": "11-974-759.b1db2d653350.pmtiles",
+   "bytes": 187818,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-974-759.b1db2d653350.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 760,
+   "file": "11-974-760.4f793e9e62dd.pmtiles",
+   "bytes": 924753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-974-760.4f793e9e62dd.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 761,
+   "file": "11-974-761.c3cd225311ce.pmtiles",
+   "bytes": 996589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-974-761.c3cd225311ce.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 762,
+   "file": "11-974-762.855094025ebb.pmtiles",
+   "bytes": 915192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-974-762.855094025ebb.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 763,
+   "file": "11-974-763.d488b18bfda2.pmtiles",
+   "bytes": 427448,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-974-763.d488b18bfda2.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 759,
+   "file": "11-975-759.c306472c3b17.pmtiles",
+   "bytes": 617178,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-975-759.c306472c3b17.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 760,
+   "file": "11-975-760.c5f570f982e3.pmtiles",
+   "bytes": 929583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-975-760.c5f570f982e3.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 761,
+   "file": "11-975-761.83286c67f7fa.pmtiles",
+   "bytes": 1108895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-975-761.83286c67f7fa.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 762,
+   "file": "11-975-762.7cf266dc8fa8.pmtiles",
+   "bytes": 1005378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-975-762.7cf266dc8fa8.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 763,
+   "file": "11-975-763.df163c474575.pmtiles",
+   "bytes": 399548,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-975-763.df163c474575.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 759,
+   "file": "11-976-759.e6736ce56622.pmtiles",
+   "bytes": 795853,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-976-759.e6736ce56622.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 760,
+   "file": "11-976-760.0556eea6e5c8.pmtiles",
+   "bytes": 1892057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-976-760.0556eea6e5c8.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 761,
+   "file": "11-976-761.a3e8ab052810.pmtiles",
+   "bytes": 1623018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-976-761.a3e8ab052810.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 762,
+   "file": "11-976-762.d6b0196fa1bf.pmtiles",
+   "bytes": 1460221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-976-762.d6b0196fa1bf.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 763,
+   "file": "11-976-763.4ac2643b475f.pmtiles",
+   "bytes": 544690,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-976-763.4ac2643b475f.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 759,
+   "file": "11-977-759.e24a6d6397e0.pmtiles",
+   "bytes": 1208990,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-977-759.e24a6d6397e0.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 760,
+   "file": "11-977-760.60af3b0e6e62.pmtiles",
+   "bytes": 1785975,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-977-760.60af3b0e6e62.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 761,
+   "file": "11-977-761.fd83f39f8911.pmtiles",
+   "bytes": 1986351,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-977-761.fd83f39f8911.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 762,
+   "file": "11-977-762.68afeda583c6.pmtiles",
+   "bytes": 1873432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-977-762.68afeda583c6.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 763,
+   "file": "11-977-763.777edd51bf10.pmtiles",
+   "bytes": 538447,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-977-763.777edd51bf10.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 759,
+   "file": "11-978-759.624ae6eb17d9.pmtiles",
+   "bytes": 95445,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-978-759.624ae6eb17d9.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 760,
+   "file": "11-978-760.4d7190478baa.pmtiles",
+   "bytes": 85518,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-978-760.4d7190478baa.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 761,
+   "file": "11-978-761.97ef76d1759a.pmtiles",
+   "bytes": 438136,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-978-761.97ef76d1759a.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 762,
+   "file": "11-978-762.a36d2b51185e.pmtiles",
+   "bytes": 618392,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-978-762.a36d2b51185e.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 763,
+   "file": "11-978-763.786c6b870be1.pmtiles",
+   "bytes": 217763,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-viana-do-castelo-2026-10-03/11-978-763.786c6b870be1.pmtiles"
+  }
+ ]
+}

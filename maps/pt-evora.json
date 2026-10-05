@@ -1,0 +1,565 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pt-evora",
+ "source": "pt.pmtiles",
+ "builtAt": "2026-10-05T00:27:31.696Z",
+ "publishedAt": "2026-10-05T00:27:50.503Z",
+ "host": "github",
+ "releases": [
+  "maps-pt-evora-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -8.65844,
+  38.15465,
+  -7.10678,
+  39.02693
+ ],
+ "overview": {
+  "file": "overview.47bd80d233c0.pmtiles",
+  "bytes": 1374247,
+  "tiles": 44,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/overview.47bd80d233c0.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 974,
+   "y": 782,
+   "file": "11-974-782.7a905019d04b.pmtiles",
+   "bytes": 47621,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-782.7a905019d04b.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 783,
+   "file": "11-974-783.f6c9460aeb2a.pmtiles",
+   "bytes": 96107,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-783.f6c9460aeb2a.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 784,
+   "file": "11-974-784.0c3d429391f4.pmtiles",
+   "bytes": 151738,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-784.0c3d429391f4.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 785,
+   "file": "11-974-785.f4283c642971.pmtiles",
+   "bytes": 203633,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-785.f4283c642971.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 786,
+   "file": "11-974-786.ea4d98ccdab7.pmtiles",
+   "bytes": 111406,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-786.ea4d98ccdab7.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 787,
+   "file": "11-974-787.72d20646b94f.pmtiles",
+   "bytes": 163142,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-787.72d20646b94f.pmtiles"
+  },
+  {
+   "x": 974,
+   "y": 788,
+   "file": "11-974-788.d63f0aed6423.pmtiles",
+   "bytes": 85403,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-974-788.d63f0aed6423.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 782,
+   "file": "11-975-782.12e184b1a387.pmtiles",
+   "bytes": 279715,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-782.12e184b1a387.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 783,
+   "file": "11-975-783.1d4535b954b2.pmtiles",
+   "bytes": 320018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-783.1d4535b954b2.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 784,
+   "file": "11-975-784.cd7e7a711bcb.pmtiles",
+   "bytes": 196366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-784.cd7e7a711bcb.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 785,
+   "file": "11-975-785.fccdec327e78.pmtiles",
+   "bytes": 375938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-785.fccdec327e78.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 786,
+   "file": "11-975-786.704fb7681ae0.pmtiles",
+   "bytes": 201761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-786.704fb7681ae0.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 787,
+   "file": "11-975-787.d601ebac1c43.pmtiles",
+   "bytes": 384360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-787.d601ebac1c43.pmtiles"
+  },
+  {
+   "x": 975,
+   "y": 788,
+   "file": "11-975-788.417ba61770de.pmtiles",
+   "bytes": 282584,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-975-788.417ba61770de.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 782,
+   "file": "11-976-782.9878eb3193d2.pmtiles",
+   "bytes": 135508,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-782.9878eb3193d2.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 783,
+   "file": "11-976-783.15c753bbdf8b.pmtiles",
+   "bytes": 117501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-783.15c753bbdf8b.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 784,
+   "file": "11-976-784.b2d7ce3813f3.pmtiles",
+   "bytes": 215239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-784.b2d7ce3813f3.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 785,
+   "file": "11-976-785.b5b41f969490.pmtiles",
+   "bytes": 227012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-785.b5b41f969490.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 786,
+   "file": "11-976-786.6786d856b6bf.pmtiles",
+   "bytes": 230767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-786.6786d856b6bf.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 787,
+   "file": "11-976-787.baa14f29363b.pmtiles",
+   "bytes": 162207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-787.baa14f29363b.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 788,
+   "file": "11-976-788.027a385c894f.pmtiles",
+   "bytes": 127879,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-976-788.027a385c894f.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 782,
+   "file": "11-977-782.8230d3d4518c.pmtiles",
+   "bytes": 84832,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-782.8230d3d4518c.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 783,
+   "file": "11-977-783.5aae250d5133.pmtiles",
+   "bytes": 194452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-783.5aae250d5133.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 784,
+   "file": "11-977-784.31869fe3b2b2.pmtiles",
+   "bytes": 161479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-784.31869fe3b2b2.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 785,
+   "file": "11-977-785.22b2b0659f8e.pmtiles",
+   "bytes": 386468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-785.22b2b0659f8e.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 786,
+   "file": "11-977-786.93ff2741e48c.pmtiles",
+   "bytes": 167229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-786.93ff2741e48c.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 787,
+   "file": "11-977-787.1db27d777e66.pmtiles",
+   "bytes": 223533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-787.1db27d777e66.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 788,
+   "file": "11-977-788.2e46f45b2ee2.pmtiles",
+   "bytes": 193707,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-977-788.2e46f45b2ee2.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 782,
+   "file": "11-978-782.9b0e19f01158.pmtiles",
+   "bytes": 135621,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-782.9b0e19f01158.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 783,
+   "file": "11-978-783.8c5ca8e5a329.pmtiles",
+   "bytes": 229546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-783.8c5ca8e5a329.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 784,
+   "file": "11-978-784.f3de0aad4609.pmtiles",
+   "bytes": 247969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-784.f3de0aad4609.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 785,
+   "file": "11-978-785.36c4138ec856.pmtiles",
+   "bytes": 563830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-785.36c4138ec856.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 786,
+   "file": "11-978-786.22be06f1fde6.pmtiles",
+   "bytes": 209076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-786.22be06f1fde6.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 787,
+   "file": "11-978-787.30e9d9d44de5.pmtiles",
+   "bytes": 323709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-787.30e9d9d44de5.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 788,
+   "file": "11-978-788.59511172564b.pmtiles",
+   "bytes": 283113,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-978-788.59511172564b.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 782,
+   "file": "11-979-782.c14238e433c9.pmtiles",
+   "bytes": 140417,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-782.c14238e433c9.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 783,
+   "file": "11-979-783.91956f9a1ce8.pmtiles",
+   "bytes": 227840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-783.91956f9a1ce8.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 784,
+   "file": "11-979-784.f6f5b3a7ac57.pmtiles",
+   "bytes": 217550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-784.f6f5b3a7ac57.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 785,
+   "file": "11-979-785.fb7519271951.pmtiles",
+   "bytes": 560817,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-785.fb7519271951.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 786,
+   "file": "11-979-786.68f31465ef0e.pmtiles",
+   "bytes": 322573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-786.68f31465ef0e.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 787,
+   "file": "11-979-787.0c7f57ce6894.pmtiles",
+   "bytes": 239439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-787.0c7f57ce6894.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 788,
+   "file": "11-979-788.dd6f46c61cb0.pmtiles",
+   "bytes": 496333,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-979-788.dd6f46c61cb0.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 782,
+   "file": "11-980-782.29dcdf1c09a1.pmtiles",
+   "bytes": 101602,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-782.29dcdf1c09a1.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 783,
+   "file": "11-980-783.e106d86cd49e.pmtiles",
+   "bytes": 432233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-783.e106d86cd49e.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 784,
+   "file": "11-980-784.e789911f1151.pmtiles",
+   "bytes": 353454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-784.e789911f1151.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 785,
+   "file": "11-980-785.b7e2ee859145.pmtiles",
+   "bytes": 213736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-785.b7e2ee859145.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 786,
+   "file": "11-980-786.1eba676396e9.pmtiles",
+   "bytes": 388466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-786.1eba676396e9.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 787,
+   "file": "11-980-787.fff48e50386b.pmtiles",
+   "bytes": 338273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-787.fff48e50386b.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 788,
+   "file": "11-980-788.fc376933bfcb.pmtiles",
+   "bytes": 201089,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-980-788.fc376933bfcb.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 782,
+   "file": "11-981-782.4d13a782eb1c.pmtiles",
+   "bytes": 92020,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-782.4d13a782eb1c.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 783,
+   "file": "11-981-783.692fd698dd28.pmtiles",
+   "bytes": 321496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-783.692fd698dd28.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 784,
+   "file": "11-981-784.787a5a2dccd8.pmtiles",
+   "bytes": 569781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-784.787a5a2dccd8.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 785,
+   "file": "11-981-785.a93b585f5033.pmtiles",
+   "bytes": 464526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-785.a93b585f5033.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 786,
+   "file": "11-981-786.7807a9ddd399.pmtiles",
+   "bytes": 421708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-786.7807a9ddd399.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 787,
+   "file": "11-981-787.35bae138b484.pmtiles",
+   "bytes": 358796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-787.35bae138b484.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 788,
+   "file": "11-981-788.162a44bb8c40.pmtiles",
+   "bytes": 324595,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-981-788.162a44bb8c40.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 782,
+   "file": "11-982-782.9f4cef4ece98.pmtiles",
+   "bytes": 136693,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-782.9f4cef4ece98.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 783,
+   "file": "11-982-783.a7abea254430.pmtiles",
+   "bytes": 302591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-783.a7abea254430.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 784,
+   "file": "11-982-784.31fd788b0c46.pmtiles",
+   "bytes": 206320,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-784.31fd788b0c46.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 785,
+   "file": "11-982-785.48437459bac3.pmtiles",
+   "bytes": 284801,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-785.48437459bac3.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 786,
+   "file": "11-982-786.c1099bebd77a.pmtiles",
+   "bytes": 245675,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-786.c1099bebd77a.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 787,
+   "file": "11-982-787.fc2e3855755a.pmtiles",
+   "bytes": 331500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-787.fc2e3855755a.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 788,
+   "file": "11-982-788.f3de3e13743a.pmtiles",
+   "bytes": 250792,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-982-788.f3de3e13743a.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 782,
+   "file": "11-983-782.b8b3fb77db70.pmtiles",
+   "bytes": 146590,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-983-782.b8b3fb77db70.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 783,
+   "file": "11-983-783.4f69595dd7bd.pmtiles",
+   "bytes": 577577,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-983-783.4f69595dd7bd.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 784,
+   "file": "11-983-784.14635161d883.pmtiles",
+   "bytes": 61250,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-983-784.14635161d883.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 788,
+   "file": "11-983-788.79dcbd0ca0cd.pmtiles",
+   "bytes": 96488,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-evora-2026-10-03/11-983-788.79dcbd0ca0cd.pmtiles"
+  }
+ ]
+}

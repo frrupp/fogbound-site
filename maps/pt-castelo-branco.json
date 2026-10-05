@@ -1,0 +1,509 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pt-castelo-branco",
+ "source": "pt.pmtiles",
+ "builtAt": "2026-10-04T23:25:35.133Z",
+ "publishedAt": "2026-10-04T23:25:52.115Z",
+ "host": "github",
+ "releases": [
+  "maps-pt-castelo-branco-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -8.29312,
+  39.53736,
+  -6.86379,
+  40.41613
+ ],
+ "overview": {
+  "file": "overview.166aaacc574b.pmtiles",
+  "bytes": 1143735,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/overview.166aaacc574b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 976,
+   "y": 772,
+   "file": "11-976-772.0ed01cef80ed.pmtiles",
+   "bytes": 172095,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-772.0ed01cef80ed.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 773,
+   "file": "11-976-773.47d4e2fc072e.pmtiles",
+   "bytes": 247290,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-773.47d4e2fc072e.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 774,
+   "file": "11-976-774.1b67905177ac.pmtiles",
+   "bytes": 204321,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-774.1b67905177ac.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 775,
+   "file": "11-976-775.ffa730511adf.pmtiles",
+   "bytes": 190364,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-775.ffa730511adf.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 776,
+   "file": "11-976-776.33a3e4efa82b.pmtiles",
+   "bytes": 208491,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-776.33a3e4efa82b.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 777,
+   "file": "11-976-777.eac268517e73.pmtiles",
+   "bytes": 248238,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-777.eac268517e73.pmtiles"
+  },
+  {
+   "x": 976,
+   "y": 778,
+   "file": "11-976-778.d953f68c48b7.pmtiles",
+   "bytes": 163106,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-976-778.d953f68c48b7.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 772,
+   "file": "11-977-772.adb99878bf5b.pmtiles",
+   "bytes": 623473,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-772.adb99878bf5b.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 773,
+   "file": "11-977-773.29b45af965ba.pmtiles",
+   "bytes": 618121,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-773.29b45af965ba.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 774,
+   "file": "11-977-774.ebb0a27dbb54.pmtiles",
+   "bytes": 853080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-774.ebb0a27dbb54.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 775,
+   "file": "11-977-775.c9bf3f172707.pmtiles",
+   "bytes": 632709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-775.c9bf3f172707.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 776,
+   "file": "11-977-776.b8b7d779da2f.pmtiles",
+   "bytes": 565560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-776.b8b7d779da2f.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 777,
+   "file": "11-977-777.9ab2b3f39da3.pmtiles",
+   "bytes": 457460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-777.9ab2b3f39da3.pmtiles"
+  },
+  {
+   "x": 977,
+   "y": 778,
+   "file": "11-977-778.efc9461e8357.pmtiles",
+   "bytes": 414582,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-977-778.efc9461e8357.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 772,
+   "file": "11-978-772.eaa8621042e5.pmtiles",
+   "bytes": 574588,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-772.eaa8621042e5.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 773,
+   "file": "11-978-773.9ce7a6387da2.pmtiles",
+   "bytes": 615582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-773.9ce7a6387da2.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 774,
+   "file": "11-978-774.658a722afbb7.pmtiles",
+   "bytes": 388103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-774.658a722afbb7.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 775,
+   "file": "11-978-775.fe303bf5c088.pmtiles",
+   "bytes": 391685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-775.fe303bf5c088.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 776,
+   "file": "11-978-776.6f228527957b.pmtiles",
+   "bytes": 454124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-776.6f228527957b.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 777,
+   "file": "11-978-777.386ae9aa6789.pmtiles",
+   "bytes": 399167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-777.386ae9aa6789.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 778,
+   "file": "11-978-778.5a0e9387154e.pmtiles",
+   "bytes": 337704,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-978-778.5a0e9387154e.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 772,
+   "file": "11-979-772.34f5338eff35.pmtiles",
+   "bytes": 673853,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-772.34f5338eff35.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 773,
+   "file": "11-979-773.da4e4df4fe46.pmtiles",
+   "bytes": 548344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-773.da4e4df4fe46.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 774,
+   "file": "11-979-774.89cfb914feb7.pmtiles",
+   "bytes": 380278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-774.89cfb914feb7.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 775,
+   "file": "11-979-775.04668a8842d9.pmtiles",
+   "bytes": 362752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-775.04668a8842d9.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 776,
+   "file": "11-979-776.986291fe23fa.pmtiles",
+   "bytes": 354023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-776.986291fe23fa.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 777,
+   "file": "11-979-777.71952c87f366.pmtiles",
+   "bytes": 348089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-777.71952c87f366.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 778,
+   "file": "11-979-778.cf57b993aa00.pmtiles",
+   "bytes": 342658,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-979-778.cf57b993aa00.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 772,
+   "file": "11-980-772.5163932a1060.pmtiles",
+   "bytes": 819710,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-772.5163932a1060.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 773,
+   "file": "11-980-773.40a8a7597c83.pmtiles",
+   "bytes": 524767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-773.40a8a7597c83.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 774,
+   "file": "11-980-774.b66706db6778.pmtiles",
+   "bytes": 319224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-774.b66706db6778.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 775,
+   "file": "11-980-775.572ca1eca0eb.pmtiles",
+   "bytes": 237707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-775.572ca1eca0eb.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 776,
+   "file": "11-980-776.964112f8f6bb.pmtiles",
+   "bytes": 273707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-776.964112f8f6bb.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 777,
+   "file": "11-980-777.bececc71129a.pmtiles",
+   "bytes": 367037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-777.bececc71129a.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 778,
+   "file": "11-980-778.7a90d61647c9.pmtiles",
+   "bytes": 244211,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-980-778.7a90d61647c9.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 772,
+   "file": "11-981-772.2c0b79554254.pmtiles",
+   "bytes": 711333,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-772.2c0b79554254.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 773,
+   "file": "11-981-773.b061038b759f.pmtiles",
+   "bytes": 836880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-773.b061038b759f.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 774,
+   "file": "11-981-774.3af09e803c75.pmtiles",
+   "bytes": 716657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-774.3af09e803c75.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 775,
+   "file": "11-981-775.e69c3d18f982.pmtiles",
+   "bytes": 255382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-775.e69c3d18f982.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 776,
+   "file": "11-981-776.24c0808c30c6.pmtiles",
+   "bytes": 654246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-776.24c0808c30c6.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 777,
+   "file": "11-981-777.e6e00bece5c8.pmtiles",
+   "bytes": 178247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-777.e6e00bece5c8.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 778,
+   "file": "11-981-778.82a2e9321e2d.pmtiles",
+   "bytes": 102423,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-981-778.82a2e9321e2d.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 772,
+   "file": "11-982-772.2effa969067c.pmtiles",
+   "bytes": 374349,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-772.2effa969067c.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 773,
+   "file": "11-982-773.d5690ebf870c.pmtiles",
+   "bytes": 227958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-773.d5690ebf870c.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 774,
+   "file": "11-982-774.90c007fbea5c.pmtiles",
+   "bytes": 197085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-774.90c007fbea5c.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 775,
+   "file": "11-982-775.11f9bb36bcdb.pmtiles",
+   "bytes": 179465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-775.11f9bb36bcdb.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 776,
+   "file": "11-982-776.8654cf4cd284.pmtiles",
+   "bytes": 157538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-776.8654cf4cd284.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 777,
+   "file": "11-982-777.d9ec0aeccc26.pmtiles",
+   "bytes": 115217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-982-777.d9ec0aeccc26.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 772,
+   "file": "11-983-772.608c7f326f2e.pmtiles",
+   "bytes": 610150,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-772.608c7f326f2e.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 773,
+   "file": "11-983-773.31ed5ae9f977.pmtiles",
+   "bytes": 496465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-773.31ed5ae9f977.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 774,
+   "file": "11-983-774.3baaa292885e.pmtiles",
+   "bytes": 353333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-774.3baaa292885e.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 775,
+   "file": "11-983-775.fab572037abe.pmtiles",
+   "bytes": 192939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-775.fab572037abe.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 776,
+   "file": "11-983-776.1a7901064926.pmtiles",
+   "bytes": 140928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-776.1a7901064926.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 777,
+   "file": "11-983-777.8535c1f38c14.pmtiles",
+   "bytes": 139715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-983-777.8535c1f38c14.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 772,
+   "file": "11-984-772.fbdcc17959d7.pmtiles",
+   "bytes": 1055966,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-772.fbdcc17959d7.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 773,
+   "file": "11-984-773.f4e29be72b3f.pmtiles",
+   "bytes": 452781,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-773.f4e29be72b3f.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 774,
+   "file": "11-984-774.d0027c81d0ad.pmtiles",
+   "bytes": 167468,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-774.d0027c81d0ad.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 775,
+   "file": "11-984-775.11badf9329ad.pmtiles",
+   "bytes": 163704,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-775.11badf9329ad.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 776,
+   "file": "11-984-776.62e265a18561.pmtiles",
+   "bytes": 98598,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-776.62e265a18561.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 777,
+   "file": "11-984-777.32e851f2d61b.pmtiles",
+   "bytes": 32542,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pt-castelo-branco-2026-10-03/11-984-777.32e851f2d61b.pmtiles"
+  }
+ ]
+}
