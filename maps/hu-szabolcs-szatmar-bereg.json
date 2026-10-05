@@ -1,0 +1,685 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hu-szabolcs-szatmar-bereg",
+ "source": "hu.pmtiles",
+ "builtAt": "2026-10-05T21:36:12.493Z",
+ "publishedAt": "2026-10-05T21:36:36.617Z",
+ "host": "github",
+ "releases": [
+  "maps-hu-szabolcs-szatmar-bereg-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  21.07876,
+  47.59164,
+  22.8965,
+  48.42575
+ ],
+ "overview": {
+  "file": "overview.0cf1fbd0669d.pmtiles",
+  "bytes": 2181099,
+  "tiles": 54,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/overview.0cf1fbd0669d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1143,
+   "y": 708,
+   "file": "11-1143-708.05c264d858c9.pmtiles",
+   "bytes": 73811,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-708.05c264d858c9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 709,
+   "file": "11-1143-709.4875d2d747b9.pmtiles",
+   "bytes": 108328,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-709.4875d2d747b9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 710,
+   "file": "11-1143-710.483721a3db99.pmtiles",
+   "bytes": 64741,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-710.483721a3db99.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 711,
+   "file": "11-1143-711.2fed0c3ee440.pmtiles",
+   "bytes": 81196,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-711.2fed0c3ee440.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 712,
+   "file": "11-1143-712.6e4ad388cc6e.pmtiles",
+   "bytes": 127113,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-712.6e4ad388cc6e.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 713,
+   "file": "11-1143-713.965f00bc9969.pmtiles",
+   "bytes": 67717,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-713.965f00bc9969.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 714,
+   "file": "11-1143-714.e8d055b5b9a7.pmtiles",
+   "bytes": 54750,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-714.e8d055b5b9a7.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 715,
+   "file": "11-1143-715.77b436e8dca9.pmtiles",
+   "bytes": 48041,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1143-715.77b436e8dca9.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 708,
+   "file": "11-1144-708.2d0c826ca002.pmtiles",
+   "bytes": 299858,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-708.2d0c826ca002.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 709,
+   "file": "11-1144-709.e3bbb1cf4987.pmtiles",
+   "bytes": 483310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-709.e3bbb1cf4987.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 710,
+   "file": "11-1144-710.dde7ffd8c1f6.pmtiles",
+   "bytes": 545397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-710.dde7ffd8c1f6.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 711,
+   "file": "11-1144-711.5392bf27aa5a.pmtiles",
+   "bytes": 444180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-711.5392bf27aa5a.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 712,
+   "file": "11-1144-712.7725059e8c24.pmtiles",
+   "bytes": 236447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-712.7725059e8c24.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 713,
+   "file": "11-1144-713.998c01eb4827.pmtiles",
+   "bytes": 302267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-713.998c01eb4827.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 714,
+   "file": "11-1144-714.8b0c20e311f8.pmtiles",
+   "bytes": 169864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-714.8b0c20e311f8.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 715,
+   "file": "11-1144-715.3da2d2de55ea.pmtiles",
+   "bytes": 88261,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1144-715.3da2d2de55ea.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 708,
+   "file": "11-1145-708.d9c3b0607c90.pmtiles",
+   "bytes": 240937,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-708.d9c3b0607c90.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 709,
+   "file": "11-1145-709.076eea4de0d7.pmtiles",
+   "bytes": 322103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-709.076eea4de0d7.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 710,
+   "file": "11-1145-710.20482a328a4e.pmtiles",
+   "bytes": 473681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-710.20482a328a4e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 711,
+   "file": "11-1145-711.7bc1f8746f6a.pmtiles",
+   "bytes": 449192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-711.7bc1f8746f6a.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 712,
+   "file": "11-1145-712.63f0ede0a13f.pmtiles",
+   "bytes": 297527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-712.63f0ede0a13f.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 713,
+   "file": "11-1145-713.c4a5f0e2dd4a.pmtiles",
+   "bytes": 319343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-713.c4a5f0e2dd4a.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 714,
+   "file": "11-1145-714.bcaeb4afbbc8.pmtiles",
+   "bytes": 219758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-714.bcaeb4afbbc8.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 715,
+   "file": "11-1145-715.abe21a5a94ae.pmtiles",
+   "bytes": 140365,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1145-715.abe21a5a94ae.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 708,
+   "file": "11-1146-708.af4e878042ca.pmtiles",
+   "bytes": 266209,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-708.af4e878042ca.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 709,
+   "file": "11-1146-709.8c8a7c6f5a74.pmtiles",
+   "bytes": 506007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-709.8c8a7c6f5a74.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 710,
+   "file": "11-1146-710.5ae2914aa42c.pmtiles",
+   "bytes": 347706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-710.5ae2914aa42c.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 711,
+   "file": "11-1146-711.3843e3d3b349.pmtiles",
+   "bytes": 331554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-711.3843e3d3b349.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 712,
+   "file": "11-1146-712.f40ad66662b4.pmtiles",
+   "bytes": 291697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-712.f40ad66662b4.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 713,
+   "file": "11-1146-713.cd16efef16df.pmtiles",
+   "bytes": 249545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-713.cd16efef16df.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 714,
+   "file": "11-1146-714.c04ca8980519.pmtiles",
+   "bytes": 313163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-714.c04ca8980519.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 715,
+   "file": "11-1146-715.4e3986f58ab0.pmtiles",
+   "bytes": 146595,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1146-715.4e3986f58ab0.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 708,
+   "file": "11-1147-708.87f0bbfd523c.pmtiles",
+   "bytes": 456118,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-708.87f0bbfd523c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 709,
+   "file": "11-1147-709.6ee415d17c0f.pmtiles",
+   "bytes": 251000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-709.6ee415d17c0f.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 710,
+   "file": "11-1147-710.8dce1c2c6462.pmtiles",
+   "bytes": 344620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-710.8dce1c2c6462.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 711,
+   "file": "11-1147-711.f81834411d07.pmtiles",
+   "bytes": 465613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-711.f81834411d07.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 712,
+   "file": "11-1147-712.2a849d43ea42.pmtiles",
+   "bytes": 1075371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-712.2a849d43ea42.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 713,
+   "file": "11-1147-713.e307cf825b79.pmtiles",
+   "bytes": 246233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-713.e307cf825b79.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 714,
+   "file": "11-1147-714.0d3eb6923971.pmtiles",
+   "bytes": 301216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-714.0d3eb6923971.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 715,
+   "file": "11-1147-715.7ca0cb0b4a4c.pmtiles",
+   "bytes": 183380,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1147-715.7ca0cb0b4a4c.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 708,
+   "file": "11-1148-708.4d056b0b3fc4.pmtiles",
+   "bytes": 158934,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-708.4d056b0b3fc4.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 709,
+   "file": "11-1148-709.1ba1acaa0173.pmtiles",
+   "bytes": 380589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-709.1ba1acaa0173.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 710,
+   "file": "11-1148-710.945c24c94092.pmtiles",
+   "bytes": 315921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-710.945c24c94092.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 711,
+   "file": "11-1148-711.753dcde850fc.pmtiles",
+   "bytes": 324894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-711.753dcde850fc.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 712,
+   "file": "11-1148-712.f80e58a15b42.pmtiles",
+   "bytes": 435403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-712.f80e58a15b42.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 713,
+   "file": "11-1148-713.64b6663f31b7.pmtiles",
+   "bytes": 305947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-713.64b6663f31b7.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 714,
+   "file": "11-1148-714.ab3307e032f1.pmtiles",
+   "bytes": 297073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-714.ab3307e032f1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 715,
+   "file": "11-1148-715.bdce4cfb3a77.pmtiles",
+   "bytes": 160946,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1148-715.bdce4cfb3a77.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 708,
+   "file": "11-1149-708.5e58c5620dbb.pmtiles",
+   "bytes": 259363,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-708.5e58c5620dbb.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 709,
+   "file": "11-1149-709.bc646ccd0c62.pmtiles",
+   "bytes": 588375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-709.bc646ccd0c62.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 710,
+   "file": "11-1149-710.3294afcd1770.pmtiles",
+   "bytes": 552561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-710.3294afcd1770.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 711,
+   "file": "11-1149-711.79d1d3c86467.pmtiles",
+   "bytes": 344645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-711.79d1d3c86467.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 712,
+   "file": "11-1149-712.7be10252285d.pmtiles",
+   "bytes": 377711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-712.7be10252285d.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 713,
+   "file": "11-1149-713.b92e5746aaa1.pmtiles",
+   "bytes": 372726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-713.b92e5746aaa1.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 714,
+   "file": "11-1149-714.f903ca3eadaf.pmtiles",
+   "bytes": 317359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-714.f903ca3eadaf.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 715,
+   "file": "11-1149-715.4b0c3d27d61e.pmtiles",
+   "bytes": 177831,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1149-715.4b0c3d27d61e.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 708,
+   "file": "11-1150-708.81386b59b0de.pmtiles",
+   "bytes": 283247,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-708.81386b59b0de.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 709,
+   "file": "11-1150-709.5fbaaaeba7f7.pmtiles",
+   "bytes": 396596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-709.5fbaaaeba7f7.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 710,
+   "file": "11-1150-710.ef2017399018.pmtiles",
+   "bytes": 416391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-710.ef2017399018.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 711,
+   "file": "11-1150-711.fac0d09af1ba.pmtiles",
+   "bytes": 423162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-711.fac0d09af1ba.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 712,
+   "file": "11-1150-712.f0ab2b1b4c91.pmtiles",
+   "bytes": 486944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-712.f0ab2b1b4c91.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 713,
+   "file": "11-1150-713.03ed866ebf76.pmtiles",
+   "bytes": 257244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-713.03ed866ebf76.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 714,
+   "file": "11-1150-714.8d0d6303a564.pmtiles",
+   "bytes": 166409,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-714.8d0d6303a564.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 715,
+   "file": "11-1150-715.09ce7bd09449.pmtiles",
+   "bytes": 48309,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1150-715.09ce7bd09449.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 709,
+   "file": "11-1151-709.aff7be362df4.pmtiles",
+   "bytes": 79288,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-709.aff7be362df4.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 710,
+   "file": "11-1151-710.235d410031d6.pmtiles",
+   "bytes": 262865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-710.235d410031d6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 711,
+   "file": "11-1151-711.552069398dd5.pmtiles",
+   "bytes": 350135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-711.552069398dd5.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 712,
+   "file": "11-1151-712.22994d5b7484.pmtiles",
+   "bytes": 385912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-712.22994d5b7484.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 713,
+   "file": "11-1151-713.29625b69e95c.pmtiles",
+   "bytes": 275779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-713.29625b69e95c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 714,
+   "file": "11-1151-714.910a4d5da5bc.pmtiles",
+   "bytes": 54864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1151-714.910a4d5da5bc.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 710,
+   "file": "11-1152-710.4128b4972415.pmtiles",
+   "bytes": 155565,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1152-710.4128b4972415.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 711,
+   "file": "11-1152-711.d4d86d607f8f.pmtiles",
+   "bytes": 383643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1152-711.d4d86d607f8f.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 712,
+   "file": "11-1152-712.cc2744de1b4e.pmtiles",
+   "bytes": 489601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1152-712.cc2744de1b4e.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 713,
+   "file": "11-1152-713.204bc31a3669.pmtiles",
+   "bytes": 229278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1152-713.204bc31a3669.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 714,
+   "file": "11-1152-714.4017d293346b.pmtiles",
+   "bytes": 32358,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1152-714.4017d293346b.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 710,
+   "file": "11-1153-710.72e21a92ec58.pmtiles",
+   "bytes": 89219,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1153-710.72e21a92ec58.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 711,
+   "file": "11-1153-711.2241836440ed.pmtiles",
+   "bytes": 322857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1153-711.2241836440ed.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 712,
+   "file": "11-1153-712.127a2d32ae99.pmtiles",
+   "bytes": 325145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1153-712.127a2d32ae99.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 713,
+   "file": "11-1153-713.1e8faf8b59c7.pmtiles",
+   "bytes": 214588,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1153-713.1e8faf8b59c7.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 714,
+   "file": "11-1153-714.110067aee8ab.pmtiles",
+   "bytes": 27840,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1153-714.110067aee8ab.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 711,
+   "file": "11-1154-711.290869160af3.pmtiles",
+   "bytes": 89852,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1154-711.290869160af3.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 712,
+   "file": "11-1154-712.c8c39f59b7e9.pmtiles",
+   "bytes": 84621,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-szabolcs-szatmar-bereg-2026-10-03/11-1154-712.c8c39f59b7e9.pmtiles"
+  }
+ ]
+}

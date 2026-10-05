@@ -1,0 +1,573 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hu-hajdu-bihar",
+ "source": "hu.pmtiles",
+ "builtAt": "2026-10-05T21:35:51.631Z",
+ "publishedAt": "2026-10-05T21:36:12.342Z",
+ "host": "github",
+ "releases": [
+  "maps-hu-hajdu-bihar-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  20.8232,
+  46.94139,
+  22.12979,
+  47.96497
+ ],
+ "overview": {
+  "file": "overview.e0371cb95c43.pmtiles",
+  "bytes": 1706618,
+  "tiles": 42,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/overview.e0371cb95c43.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1142,
+   "y": 712,
+   "file": "11-1142-712.b176900e2686.pmtiles",
+   "bytes": 339625,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-712.b176900e2686.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 713,
+   "file": "11-1142-713.b19fd1840857.pmtiles",
+   "bytes": 138364,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-713.b19fd1840857.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 714,
+   "file": "11-1142-714.2a764b72358a.pmtiles",
+   "bytes": 117657,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-714.2a764b72358a.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 715,
+   "file": "11-1142-715.777ee4166af5.pmtiles",
+   "bytes": 134110,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-715.777ee4166af5.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 716,
+   "file": "11-1142-716.f2d9f7649e48.pmtiles",
+   "bytes": 127196,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-716.f2d9f7649e48.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 717,
+   "file": "11-1142-717.1477e2772945.pmtiles",
+   "bytes": 168366,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-717.1477e2772945.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 718,
+   "file": "11-1142-718.a4f26f128da7.pmtiles",
+   "bytes": 85281,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-718.a4f26f128da7.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 719,
+   "file": "11-1142-719.d12d10bc34b3.pmtiles",
+   "bytes": 68208,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-719.d12d10bc34b3.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 720,
+   "file": "11-1142-720.2d2697769a0a.pmtiles",
+   "bytes": 119074,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1142-720.2d2697769a0a.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 712,
+   "file": "11-1143-712.57eef70f9c64.pmtiles",
+   "bytes": 690030,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-712.57eef70f9c64.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 713,
+   "file": "11-1143-713.ee89f2556ea0.pmtiles",
+   "bytes": 285791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-713.ee89f2556ea0.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 714,
+   "file": "11-1143-714.d88a9f4e592a.pmtiles",
+   "bytes": 232132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-714.d88a9f4e592a.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 715,
+   "file": "11-1143-715.6ca39301a3c6.pmtiles",
+   "bytes": 211424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-715.6ca39301a3c6.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 716,
+   "file": "11-1143-716.58fb8b33427a.pmtiles",
+   "bytes": 112899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-716.58fb8b33427a.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 717,
+   "file": "11-1143-717.df5eaa143a58.pmtiles",
+   "bytes": 179557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-717.df5eaa143a58.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 718,
+   "file": "11-1143-718.7d378d3319bf.pmtiles",
+   "bytes": 106224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-718.7d378d3319bf.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 719,
+   "file": "11-1143-719.d8be2909db13.pmtiles",
+   "bytes": 110485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-719.d8be2909db13.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 720,
+   "file": "11-1143-720.8ae25961b48b.pmtiles",
+   "bytes": 223730,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1143-720.8ae25961b48b.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 712,
+   "file": "11-1144-712.a638406a0ce4.pmtiles",
+   "bytes": 221234,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-712.a638406a0ce4.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 713,
+   "file": "11-1144-713.998c01eb4827.pmtiles",
+   "bytes": 302267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-713.998c01eb4827.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 714,
+   "file": "11-1144-714.8b0c20e311f8.pmtiles",
+   "bytes": 169864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-714.8b0c20e311f8.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 715,
+   "file": "11-1144-715.d5ce4756e521.pmtiles",
+   "bytes": 211104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-715.d5ce4756e521.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 716,
+   "file": "11-1144-716.1eefec41a555.pmtiles",
+   "bytes": 210123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-716.1eefec41a555.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 717,
+   "file": "11-1144-717.ec1b531cd4a2.pmtiles",
+   "bytes": 283578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-717.ec1b531cd4a2.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 718,
+   "file": "11-1144-718.c27712cba8be.pmtiles",
+   "bytes": 195727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-718.c27712cba8be.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 719,
+   "file": "11-1144-719.ca506a2bad92.pmtiles",
+   "bytes": 170548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-719.ca506a2bad92.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 720,
+   "file": "11-1144-720.40e84b7f8ca2.pmtiles",
+   "bytes": 286400,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1144-720.40e84b7f8ca2.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 712,
+   "file": "11-1145-712.6efedfc18c7b.pmtiles",
+   "bytes": 277787,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-712.6efedfc18c7b.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 713,
+   "file": "11-1145-713.c4a5f0e2dd4a.pmtiles",
+   "bytes": 319343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-713.c4a5f0e2dd4a.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 714,
+   "file": "11-1145-714.bcaeb4afbbc8.pmtiles",
+   "bytes": 219758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-714.bcaeb4afbbc8.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 715,
+   "file": "11-1145-715.fc8f66e07ed1.pmtiles",
+   "bytes": 317746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-715.fc8f66e07ed1.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 716,
+   "file": "11-1145-716.93b9d4281f2c.pmtiles",
+   "bytes": 379642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-716.93b9d4281f2c.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 717,
+   "file": "11-1145-717.bbd54aa46cbd.pmtiles",
+   "bytes": 235324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-717.bbd54aa46cbd.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 718,
+   "file": "11-1145-718.2a79fb550e1f.pmtiles",
+   "bytes": 248198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-718.2a79fb550e1f.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 719,
+   "file": "11-1145-719.6efee8ea1387.pmtiles",
+   "bytes": 198506,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-719.6efee8ea1387.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 720,
+   "file": "11-1145-720.2161b8c17edd.pmtiles",
+   "bytes": 143876,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1145-720.2161b8c17edd.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 712,
+   "file": "11-1146-712.0018dcc9d07d.pmtiles",
+   "bytes": 271566,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-712.0018dcc9d07d.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 713,
+   "file": "11-1146-713.cd16efef16df.pmtiles",
+   "bytes": 249545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-713.cd16efef16df.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 714,
+   "file": "11-1146-714.c04ca8980519.pmtiles",
+   "bytes": 313163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-714.c04ca8980519.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 715,
+   "file": "11-1146-715.5d957d6a9ade.pmtiles",
+   "bytes": 676511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-715.5d957d6a9ade.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 716,
+   "file": "11-1146-716.25443d1429cd.pmtiles",
+   "bytes": 317510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-716.25443d1429cd.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 717,
+   "file": "11-1146-717.ce3c09078e75.pmtiles",
+   "bytes": 276943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-717.ce3c09078e75.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 718,
+   "file": "11-1146-718.87abeefebb12.pmtiles",
+   "bytes": 402903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-718.87abeefebb12.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 719,
+   "file": "11-1146-719.1c76aee1724a.pmtiles",
+   "bytes": 156856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-719.1c76aee1724a.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 720,
+   "file": "11-1146-720.966e4e75b23f.pmtiles",
+   "bytes": 227517,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1146-720.966e4e75b23f.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 712,
+   "file": "11-1147-712.42c03d09c868.pmtiles",
+   "bytes": 991417,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-712.42c03d09c868.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 713,
+   "file": "11-1147-713.e307cf825b79.pmtiles",
+   "bytes": 246233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-713.e307cf825b79.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 714,
+   "file": "11-1147-714.0d3eb6923971.pmtiles",
+   "bytes": 301216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-714.0d3eb6923971.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 715,
+   "file": "11-1147-715.3f3dfebc071e.pmtiles",
+   "bytes": 1371447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-715.3f3dfebc071e.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 716,
+   "file": "11-1147-716.be3a759d85c1.pmtiles",
+   "bytes": 716684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-716.be3a759d85c1.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 717,
+   "file": "11-1147-717.2064c01139fd.pmtiles",
+   "bytes": 347035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-717.2064c01139fd.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 718,
+   "file": "11-1147-718.7c6b712eb939.pmtiles",
+   "bytes": 261484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-718.7c6b712eb939.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 719,
+   "file": "11-1147-719.de3c3a5d8ed0.pmtiles",
+   "bytes": 296313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-719.de3c3a5d8ed0.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 720,
+   "file": "11-1147-720.9b76e4b34146.pmtiles",
+   "bytes": 114233,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1147-720.9b76e4b34146.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 712,
+   "file": "11-1148-712.70de0a9f547e.pmtiles",
+   "bytes": 409243,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-712.70de0a9f547e.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 713,
+   "file": "11-1148-713.64b6663f31b7.pmtiles",
+   "bytes": 305947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-713.64b6663f31b7.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 714,
+   "file": "11-1148-714.ab3307e032f1.pmtiles",
+   "bytes": 297073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-714.ab3307e032f1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 715,
+   "file": "11-1148-715.e87c5dd4653a.pmtiles",
+   "bytes": 409624,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-715.e87c5dd4653a.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 716,
+   "file": "11-1148-716.ae8f3dff62fd.pmtiles",
+   "bytes": 336673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-716.ae8f3dff62fd.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 717,
+   "file": "11-1148-717.83ee5cafa49c.pmtiles",
+   "bytes": 209537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-717.83ee5cafa49c.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 718,
+   "file": "11-1148-718.4dde89167b27.pmtiles",
+   "bytes": 148800,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-718.4dde89167b27.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 719,
+   "file": "11-1148-719.ea7d778347d5.pmtiles",
+   "bytes": 49233,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1148-719.ea7d778347d5.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 712,
+   "file": "11-1149-712.ac0126d84a5f.pmtiles",
+   "bytes": 354731,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-712.ac0126d84a5f.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 713,
+   "file": "11-1149-713.b92e5746aaa1.pmtiles",
+   "bytes": 372726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-713.b92e5746aaa1.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 714,
+   "file": "11-1149-714.f903ca3eadaf.pmtiles",
+   "bytes": 317359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-714.f903ca3eadaf.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 715,
+   "file": "11-1149-715.3ac57ce70fe0.pmtiles",
+   "bytes": 345462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-715.3ac57ce70fe0.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 716,
+   "file": "11-1149-716.43e642a40769.pmtiles",
+   "bytes": 134300,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-716.43e642a40769.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 717,
+   "file": "11-1149-717.75473dfa218a.pmtiles",
+   "bytes": 41344,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-hajdu-bihar-2026-10-03/11-1149-717.75473dfa218a.pmtiles"
+  }
+ ]
+}

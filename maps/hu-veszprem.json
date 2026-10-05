@@ -1,0 +1,421 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hu-veszprem",
+ "source": "hu.pmtiles",
+ "builtAt": "2026-10-05T21:33:56.419Z",
+ "publishedAt": "2026-10-05T21:34:12.313Z",
+ "host": "github",
+ "releases": [
+  "maps-hu-veszprem-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  17.07356,
+  46.74779,
+  18.26188,
+  47.48595
+ ],
+ "overview": {
+  "file": "overview.b0fd78cfd118.pmtiles",
+  "bytes": 1805361,
+  "tiles": 31,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/overview.b0fd78cfd118.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1121,
+   "y": 716,
+   "file": "11-1121-716.5dc01cc9a35d.pmtiles",
+   "bytes": 247736,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-716.5dc01cc9a35d.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 717,
+   "file": "11-1121-717.200f8b78a351.pmtiles",
+   "bytes": 203915,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-717.200f8b78a351.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 718,
+   "file": "11-1121-718.b953866e804d.pmtiles",
+   "bytes": 427132,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-718.b953866e804d.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 719,
+   "file": "11-1121-719.1e9b272d0907.pmtiles",
+   "bytes": 288925,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-719.1e9b272d0907.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 720,
+   "file": "11-1121-720.e43c2a715308.pmtiles",
+   "bytes": 395428,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-720.e43c2a715308.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 721,
+   "file": "11-1121-721.7eebfd765fdc.pmtiles",
+   "bytes": 544388,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-721.7eebfd765fdc.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 722,
+   "file": "11-1121-722.6291881b57bd.pmtiles",
+   "bytes": 303462,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1121-722.6291881b57bd.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 716,
+   "file": "11-1122-716.dcd4fc9dd7be.pmtiles",
+   "bytes": 261175,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-716.dcd4fc9dd7be.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 717,
+   "file": "11-1122-717.704f11d6d849.pmtiles",
+   "bytes": 246603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-717.704f11d6d849.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 718,
+   "file": "11-1122-718.a300d6924748.pmtiles",
+   "bytes": 255651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-718.a300d6924748.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 719,
+   "file": "11-1122-719.544bd6434f6f.pmtiles",
+   "bytes": 331888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-719.544bd6434f6f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 720,
+   "file": "11-1122-720.423fbad3fadf.pmtiles",
+   "bytes": 382422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-720.423fbad3fadf.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 721,
+   "file": "11-1122-721.143d17169cea.pmtiles",
+   "bytes": 423613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-721.143d17169cea.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 722,
+   "file": "11-1122-722.242b141f8998.pmtiles",
+   "bytes": 602188,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1122-722.242b141f8998.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 716,
+   "file": "11-1123-716.f205b5fcd0b7.pmtiles",
+   "bytes": 249699,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-716.f205b5fcd0b7.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 717,
+   "file": "11-1123-717.27e18581e6b8.pmtiles",
+   "bytes": 554153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-717.27e18581e6b8.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 718,
+   "file": "11-1123-718.c76b0ca1f857.pmtiles",
+   "bytes": 344101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-718.c76b0ca1f857.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 719,
+   "file": "11-1123-719.dee7246b016c.pmtiles",
+   "bytes": 551480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-719.dee7246b016c.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 720,
+   "file": "11-1123-720.c2e0d75b4a5c.pmtiles",
+   "bytes": 367091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-720.c2e0d75b4a5c.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 721,
+   "file": "11-1123-721.30d95edf7682.pmtiles",
+   "bytes": 881423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-721.30d95edf7682.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 722,
+   "file": "11-1123-722.ca9c4c739fbe.pmtiles",
+   "bytes": 227543,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1123-722.ca9c4c739fbe.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 716,
+   "file": "11-1124-716.55dec69e7c8c.pmtiles",
+   "bytes": 242752,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-716.55dec69e7c8c.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 717,
+   "file": "11-1124-717.dc85fdf85a0b.pmtiles",
+   "bytes": 347688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-717.dc85fdf85a0b.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 718,
+   "file": "11-1124-718.c756d8960ed8.pmtiles",
+   "bytes": 375960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-718.c756d8960ed8.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 719,
+   "file": "11-1124-719.38930d3a538f.pmtiles",
+   "bytes": 429010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-719.38930d3a538f.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 720,
+   "file": "11-1124-720.765f62a5d95a.pmtiles",
+   "bytes": 491317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-720.765f62a5d95a.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 721,
+   "file": "11-1124-721.e3847c01a17a.pmtiles",
+   "bytes": 610365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-721.e3847c01a17a.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 722,
+   "file": "11-1124-722.297b91caf7fd.pmtiles",
+   "bytes": 402197,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1124-722.297b91caf7fd.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 716,
+   "file": "11-1125-716.6246da15af29.pmtiles",
+   "bytes": 299561,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-716.6246da15af29.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 717,
+   "file": "11-1125-717.0c837437af3b.pmtiles",
+   "bytes": 478174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-717.0c837437af3b.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 718,
+   "file": "11-1125-718.a27b16da9a2f.pmtiles",
+   "bytes": 487188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-718.a27b16da9a2f.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 719,
+   "file": "11-1125-719.f1c0d22a5eeb.pmtiles",
+   "bytes": 858364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-719.f1c0d22a5eeb.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 720,
+   "file": "11-1125-720.eceb8bfc21e7.pmtiles",
+   "bytes": 781272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-720.eceb8bfc21e7.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 721,
+   "file": "11-1125-721.1a3555806593.pmtiles",
+   "bytes": 731888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-721.1a3555806593.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 722,
+   "file": "11-1125-722.c39f0b32cec0.pmtiles",
+   "bytes": 236110,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1125-722.c39f0b32cec0.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 716,
+   "file": "11-1126-716.14d77f931840.pmtiles",
+   "bytes": 260300,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-716.14d77f931840.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 717,
+   "file": "11-1126-717.4008526da17a.pmtiles",
+   "bytes": 422604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-717.4008526da17a.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 718,
+   "file": "11-1126-718.19796164c147.pmtiles",
+   "bytes": 349730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-718.19796164c147.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 719,
+   "file": "11-1126-719.4df6dffadeaa.pmtiles",
+   "bytes": 905725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-719.4df6dffadeaa.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 720,
+   "file": "11-1126-720.a06359a4d876.pmtiles",
+   "bytes": 571158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-720.a06359a4d876.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 721,
+   "file": "11-1126-721.fc5480dd2852.pmtiles",
+   "bytes": 857112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-721.fc5480dd2852.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 722,
+   "file": "11-1126-722.cbdf3f18dde6.pmtiles",
+   "bytes": 253029,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1126-722.cbdf3f18dde6.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 716,
+   "file": "11-1127-716.6bd7c51e669e.pmtiles",
+   "bytes": 242645,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-716.6bd7c51e669e.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 717,
+   "file": "11-1127-717.3cac27d9830a.pmtiles",
+   "bytes": 552947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-717.3cac27d9830a.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 718,
+   "file": "11-1127-718.312623806d34.pmtiles",
+   "bytes": 698814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-718.312623806d34.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 719,
+   "file": "11-1127-719.d89cd5304714.pmtiles",
+   "bytes": 406599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-719.d89cd5304714.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 720,
+   "file": "11-1127-720.00fca1684f34.pmtiles",
+   "bytes": 637924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-720.00fca1684f34.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 721,
+   "file": "11-1127-721.206a25a525ba.pmtiles",
+   "bytes": 349684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-721.206a25a525ba.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 722,
+   "file": "11-1127-722.472610ab256c.pmtiles",
+   "bytes": 208779,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-veszprem-2026-10-03/11-1127-722.472610ab256c.pmtiles"
+  }
+ ]
+}

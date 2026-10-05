@@ -1,0 +1,733 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hu-bacs-kiskun",
+ "source": "hu.pmtiles",
+ "builtAt": "2026-10-05T22:38:27.002Z",
+ "publishedAt": "2026-10-05T22:38:52.591Z",
+ "host": "github",
+ "releases": [
+  "maps-hu-bacs-kiskun-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  18.73307,
+  45.90479,
+  20.16009,
+  47.13438
+ ],
+ "overview": {
+  "file": "overview.82594d7dd9ed.pmtiles",
+  "bytes": 2911629,
+  "tiles": 59,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/overview.82594d7dd9ed.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1130,
+   "y": 719,
+   "file": "11-1130-719.834e23425d36.pmtiles",
+   "bytes": 174480,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-719.834e23425d36.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 720,
+   "file": "11-1130-720.ce46003be3c6.pmtiles",
+   "bytes": 109235,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-720.ce46003be3c6.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 721,
+   "file": "11-1130-721.284d20a54604.pmtiles",
+   "bytes": 109742,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-721.284d20a54604.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 722,
+   "file": "11-1130-722.68eec409cc88.pmtiles",
+   "bytes": 155768,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-722.68eec409cc88.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 723,
+   "file": "11-1130-723.7684af2a7555.pmtiles",
+   "bytes": 139888,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-723.7684af2a7555.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 724,
+   "file": "11-1130-724.931cff65b411.pmtiles",
+   "bytes": 141214,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-724.931cff65b411.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 725,
+   "file": "11-1130-725.2cd2df7e6b0a.pmtiles",
+   "bytes": 350743,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-725.2cd2df7e6b0a.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 726,
+   "file": "11-1130-726.037c2bf5ec51.pmtiles",
+   "bytes": 231446,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-726.037c2bf5ec51.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 727,
+   "file": "11-1130-727.06704cc42843.pmtiles",
+   "bytes": 249265,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-727.06704cc42843.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 728,
+   "file": "11-1130-728.bd72cc61f633.pmtiles",
+   "bytes": 170816,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-728.bd72cc61f633.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 729,
+   "file": "11-1130-729.f963f2e275ac.pmtiles",
+   "bytes": 81735,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1130-729.f963f2e275ac.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 719,
+   "file": "11-1131-719.8c9eecf7df90.pmtiles",
+   "bytes": 564902,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-719.8c9eecf7df90.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 720,
+   "file": "11-1131-720.e0446bc81ee1.pmtiles",
+   "bytes": 789391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-720.e0446bc81ee1.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 721,
+   "file": "11-1131-721.773c884f58ae.pmtiles",
+   "bytes": 640736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-721.773c884f58ae.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 722,
+   "file": "11-1131-722.54861a92c23f.pmtiles",
+   "bytes": 363174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-722.54861a92c23f.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 723,
+   "file": "11-1131-723.540da8bf8a27.pmtiles",
+   "bytes": 510314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-723.540da8bf8a27.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 724,
+   "file": "11-1131-724.b0f912ca8c01.pmtiles",
+   "bytes": 463515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-724.b0f912ca8c01.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 725,
+   "file": "11-1131-725.f4726a5d4c5e.pmtiles",
+   "bytes": 362209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-725.f4726a5d4c5e.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 726,
+   "file": "11-1131-726.f7e6ea127c76.pmtiles",
+   "bytes": 310955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-726.f7e6ea127c76.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 727,
+   "file": "11-1131-727.e5c003898e0c.pmtiles",
+   "bytes": 503042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-727.e5c003898e0c.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 728,
+   "file": "11-1131-728.1502af47787a.pmtiles",
+   "bytes": 326988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-728.1502af47787a.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 729,
+   "file": "11-1131-729.dc7bda0d80d6.pmtiles",
+   "bytes": 134513,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1131-729.dc7bda0d80d6.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 719,
+   "file": "11-1132-719.0ea18793595e.pmtiles",
+   "bytes": 248536,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-719.0ea18793595e.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 720,
+   "file": "11-1132-720.2eeaa38374c0.pmtiles",
+   "bytes": 326048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-720.2eeaa38374c0.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 721,
+   "file": "11-1132-721.df8a4d791245.pmtiles",
+   "bytes": 213228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-721.df8a4d791245.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 722,
+   "file": "11-1132-722.3476a46660e1.pmtiles",
+   "bytes": 281654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-722.3476a46660e1.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 723,
+   "file": "11-1132-723.3d761fb0d1e6.pmtiles",
+   "bytes": 272257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-723.3d761fb0d1e6.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 724,
+   "file": "11-1132-724.0742bbe12d3b.pmtiles",
+   "bytes": 287609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-724.0742bbe12d3b.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 725,
+   "file": "11-1132-725.4464bb3453f7.pmtiles",
+   "bytes": 249465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-725.4464bb3453f7.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 726,
+   "file": "11-1132-726.445e214aae27.pmtiles",
+   "bytes": 244874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-726.445e214aae27.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 727,
+   "file": "11-1132-727.910bd6a99187.pmtiles",
+   "bytes": 197824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-727.910bd6a99187.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 728,
+   "file": "11-1132-728.93f775713630.pmtiles",
+   "bytes": 148098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1132-728.93f775713630.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 719,
+   "file": "11-1133-719.fcec68b93a98.pmtiles",
+   "bytes": 229339,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-719.fcec68b93a98.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 720,
+   "file": "11-1133-720.d7d499ea22e4.pmtiles",
+   "bytes": 298068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-720.d7d499ea22e4.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 721,
+   "file": "11-1133-721.0a242f024742.pmtiles",
+   "bytes": 309235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-721.0a242f024742.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 722,
+   "file": "11-1133-722.adc32d3ae6fd.pmtiles",
+   "bytes": 367876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-722.adc32d3ae6fd.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 723,
+   "file": "11-1133-723.3f3aef0f29dd.pmtiles",
+   "bytes": 290896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-723.3f3aef0f29dd.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 724,
+   "file": "11-1133-724.519e65e5f793.pmtiles",
+   "bytes": 283315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-724.519e65e5f793.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 725,
+   "file": "11-1133-725.a5e2a229547f.pmtiles",
+   "bytes": 226774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-725.a5e2a229547f.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 726,
+   "file": "11-1133-726.a2efa19c57ef.pmtiles",
+   "bytes": 198867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-726.a2efa19c57ef.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 727,
+   "file": "11-1133-727.88e874eb2ddb.pmtiles",
+   "bytes": 243960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-727.88e874eb2ddb.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 728,
+   "file": "11-1133-728.1671af52e32d.pmtiles",
+   "bytes": 217471,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1133-728.1671af52e32d.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 719,
+   "file": "11-1134-719.6836af9a529a.pmtiles",
+   "bytes": 464790,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-719.6836af9a529a.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 720,
+   "file": "11-1134-720.e7ba489b1400.pmtiles",
+   "bytes": 551827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-720.e7ba489b1400.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 721,
+   "file": "11-1134-721.9f444d0bdd84.pmtiles",
+   "bytes": 422779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-721.9f444d0bdd84.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 722,
+   "file": "11-1134-722.add8e323ef58.pmtiles",
+   "bytes": 360406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-722.add8e323ef58.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 723,
+   "file": "11-1134-723.d3e9f030cd93.pmtiles",
+   "bytes": 288723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-723.d3e9f030cd93.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 724,
+   "file": "11-1134-724.a7d533485908.pmtiles",
+   "bytes": 249458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-724.a7d533485908.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 725,
+   "file": "11-1134-725.9ec25f422aaa.pmtiles",
+   "bytes": 329631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-725.9ec25f422aaa.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 726,
+   "file": "11-1134-726.5125a3d43a29.pmtiles",
+   "bytes": 197632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-726.5125a3d43a29.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 727,
+   "file": "11-1134-727.1aea87ff53eb.pmtiles",
+   "bytes": 251906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-727.1aea87ff53eb.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 728,
+   "file": "11-1134-728.5d2631ff4a7a.pmtiles",
+   "bytes": 51584,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1134-728.5d2631ff4a7a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 719,
+   "file": "11-1135-719.682ced9ab347.pmtiles",
+   "bytes": 297578,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-719.682ced9ab347.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 720,
+   "file": "11-1135-720.2108c32afa0b.pmtiles",
+   "bytes": 626442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-720.2108c32afa0b.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 721,
+   "file": "11-1135-721.ac47469056d4.pmtiles",
+   "bytes": 783891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-721.ac47469056d4.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 722,
+   "file": "11-1135-722.9a5df2a96315.pmtiles",
+   "bytes": 334425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-722.9a5df2a96315.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 723,
+   "file": "11-1135-723.d63de7bb1b31.pmtiles",
+   "bytes": 231479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-723.d63de7bb1b31.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 724,
+   "file": "11-1135-724.a55558accf0b.pmtiles",
+   "bytes": 252906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-724.a55558accf0b.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 725,
+   "file": "11-1135-725.f2378a71c7a4.pmtiles",
+   "bytes": 264639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-725.f2378a71c7a4.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 726,
+   "file": "11-1135-726.b26bb9b79f41.pmtiles",
+   "bytes": 314843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-726.b26bb9b79f41.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 727,
+   "file": "11-1135-727.ae12e335a5f3.pmtiles",
+   "bytes": 119647,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1135-727.ae12e335a5f3.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 719,
+   "file": "11-1136-719.77fdb3022484.pmtiles",
+   "bytes": 262885,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-719.77fdb3022484.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 720,
+   "file": "11-1136-720.6b44bc48301d.pmtiles",
+   "bytes": 390528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-720.6b44bc48301d.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 721,
+   "file": "11-1136-721.f85adfb05fe3.pmtiles",
+   "bytes": 611308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-721.f85adfb05fe3.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 722,
+   "file": "11-1136-722.64c6b9e21ad2.pmtiles",
+   "bytes": 458699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-722.64c6b9e21ad2.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 723,
+   "file": "11-1136-723.8f50e66add64.pmtiles",
+   "bytes": 328502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-723.8f50e66add64.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 724,
+   "file": "11-1136-724.b26e5840d186.pmtiles",
+   "bytes": 330534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-724.b26e5840d186.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 725,
+   "file": "11-1136-725.9199a585a40a.pmtiles",
+   "bytes": 277889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-725.9199a585a40a.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 726,
+   "file": "11-1136-726.cd755358f7a6.pmtiles",
+   "bytes": 355124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-726.cd755358f7a6.pmtiles"
+  },
+  {
+   "x": 1136,
+   "y": 727,
+   "file": "11-1136-727.1cb82eb43bfe.pmtiles",
+   "bytes": 191236,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1136-727.1cb82eb43bfe.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 719,
+   "file": "11-1137-719.e3063d7c2f96.pmtiles",
+   "bytes": 207992,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-719.e3063d7c2f96.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 720,
+   "file": "11-1137-720.a8d7b5ac6cbc.pmtiles",
+   "bytes": 196298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-720.a8d7b5ac6cbc.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 721,
+   "file": "11-1137-721.78d581b599a2.pmtiles",
+   "bytes": 399067,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-721.78d581b599a2.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 722,
+   "file": "11-1137-722.f3bc664a874c.pmtiles",
+   "bytes": 277711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-722.f3bc664a874c.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 723,
+   "file": "11-1137-723.9b7983124a1a.pmtiles",
+   "bytes": 283522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-723.9b7983124a1a.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 724,
+   "file": "11-1137-724.07ca1ea17a11.pmtiles",
+   "bytes": 352197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-724.07ca1ea17a11.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 725,
+   "file": "11-1137-725.fcb229f915e8.pmtiles",
+   "bytes": 499114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-725.fcb229f915e8.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 726,
+   "file": "11-1137-726.ae535811e3c2.pmtiles",
+   "bytes": 515697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-726.ae535811e3c2.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 727,
+   "file": "11-1137-727.7db79fe6037c.pmtiles",
+   "bytes": 174853,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1137-727.7db79fe6037c.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 719,
+   "file": "11-1138-719.f8ede71df33f.pmtiles",
+   "bytes": 203563,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-719.f8ede71df33f.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 720,
+   "file": "11-1138-720.0d685a246c93.pmtiles",
+   "bytes": 357165,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-720.0d685a246c93.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 721,
+   "file": "11-1138-721.686b774a449c.pmtiles",
+   "bytes": 279338,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-721.686b774a449c.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 722,
+   "file": "11-1138-722.72f5c74eca93.pmtiles",
+   "bytes": 341280,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-722.72f5c74eca93.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 723,
+   "file": "11-1138-723.94249f6c8644.pmtiles",
+   "bytes": 260410,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-723.94249f6c8644.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 724,
+   "file": "11-1138-724.4b40e08701f8.pmtiles",
+   "bytes": 270564,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-724.4b40e08701f8.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 725,
+   "file": "11-1138-725.5a07b170ab9b.pmtiles",
+   "bytes": 384273,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-725.5a07b170ab9b.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 726,
+   "file": "11-1138-726.338636dd188b.pmtiles",
+   "bytes": 1465998,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-726.338636dd188b.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 727,
+   "file": "11-1138-727.d514164e4d8c.pmtiles",
+   "bytes": 126242,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-bacs-kiskun-2026-10-03/11-1138-727.d514164e4d8c.pmtiles"
+  }
+ ]
+}

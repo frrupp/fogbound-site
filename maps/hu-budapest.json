@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hu-budapest",
+ "source": "hu.pmtiles",
+ "builtAt": "2026-10-05T21:31:58.861Z",
+ "publishedAt": "2026-10-05T21:32:05.175Z",
+ "host": "github",
+ "releases": [
+  "maps-hu-budapest-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  18.92511,
+  47.34969,
+  19.33493,
+  47.61315
+ ],
+ "overview": {
+  "file": "overview.3776c19a624f.pmtiles",
+  "bytes": 988295,
+  "tiles": 17,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/overview.3776c19a624f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1131,
+   "y": 715,
+   "file": "11-1131-715.27033748a7d3.pmtiles",
+   "bytes": 922142,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1131-715.27033748a7d3.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 716,
+   "file": "11-1131-716.5c86bdb57973.pmtiles",
+   "bytes": 1429893,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1131-716.5c86bdb57973.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 717,
+   "file": "11-1131-717.d3b786fd57f9.pmtiles",
+   "bytes": 593097,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1131-717.d3b786fd57f9.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 715,
+   "file": "11-1132-715.54ec04c9de95.pmtiles",
+   "bytes": 4185788,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1132-715.54ec04c9de95.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 716,
+   "file": "11-1132-716.51919b37527d.pmtiles",
+   "bytes": 6713631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1132-716.51919b37527d.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 717,
+   "file": "11-1132-717.0954a2d530f9.pmtiles",
+   "bytes": 889687,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1132-717.0954a2d530f9.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 715,
+   "file": "11-1133-715.97d61282f279.pmtiles",
+   "bytes": 1441971,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1133-715.97d61282f279.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 716,
+   "file": "11-1133-716.956e8dbb812b.pmtiles",
+   "bytes": 2544509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1133-716.956e8dbb812b.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 717,
+   "file": "11-1133-717.201cf1503828.pmtiles",
+   "bytes": 556994,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hu-budapest-2026-10-03/11-1133-717.201cf1503828.pmtiles"
+  }
+ ]
+}
