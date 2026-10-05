@@ -1,0 +1,1253 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "se-orebro",
+ "source": "se.pmtiles",
+ "builtAt": "2026-10-05T03:00:15.699Z",
+ "publishedAt": "2026-10-05T03:00:56.533Z",
+ "host": "github",
+ "releases": [
+  "maps-se-orebro-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.28524,
+  58.64617,
+  15.79821,
+  60.11093
+ ],
+ "overview": {
+  "file": "overview.2b4d5c7cfaf6.pmtiles",
+  "bytes": 3880144,
+  "tiles": 76,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/overview.2b4d5c7cfaf6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1105,
+   "y": 593,
+   "file": "11-1105-593.3cba2abf57af.pmtiles",
+   "bytes": 63219,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-593.3cba2abf57af.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 594,
+   "file": "11-1105-594.d5ad437c2bf0.pmtiles",
+   "bytes": 98862,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-594.d5ad437c2bf0.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 595,
+   "file": "11-1105-595.b2180c3ec198.pmtiles",
+   "bytes": 197872,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-595.b2180c3ec198.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 596,
+   "file": "11-1105-596.435f901e13e9.pmtiles",
+   "bytes": 153432,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-596.435f901e13e9.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 597,
+   "file": "11-1105-597.0967c6ffb412.pmtiles",
+   "bytes": 145862,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-597.0967c6ffb412.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 598,
+   "file": "11-1105-598.9296aa937e73.pmtiles",
+   "bytes": 198972,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-598.9296aa937e73.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 599,
+   "file": "11-1105-599.b3612decc4c2.pmtiles",
+   "bytes": 189325,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-599.b3612decc4c2.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 600,
+   "file": "11-1105-600.0fc79ef6bf7c.pmtiles",
+   "bytes": 240842,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-600.0fc79ef6bf7c.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 601,
+   "file": "11-1105-601.a680ba03a824.pmtiles",
+   "bytes": 353199,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-601.a680ba03a824.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 602,
+   "file": "11-1105-602.d26f9752f835.pmtiles",
+   "bytes": 269434,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-602.d26f9752f835.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 603,
+   "file": "11-1105-603.2a9f6b9f61ca.pmtiles",
+   "bytes": 275688,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-603.2a9f6b9f61ca.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 604,
+   "file": "11-1105-604.37929dd25b3f.pmtiles",
+   "bytes": 291110,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-604.37929dd25b3f.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 605,
+   "file": "11-1105-605.220c9fb3fb27.pmtiles",
+   "bytes": 242675,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-605.220c9fb3fb27.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 606,
+   "file": "11-1105-606.8a738bfe437a.pmtiles",
+   "bytes": 105243,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-606.8a738bfe437a.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 607,
+   "file": "11-1105-607.c7201b16a4c8.pmtiles",
+   "bytes": 150881,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-607.c7201b16a4c8.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 608,
+   "file": "11-1105-608.30cdbd1d0b4c.pmtiles",
+   "bytes": 123093,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-608.30cdbd1d0b4c.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 609,
+   "file": "11-1105-609.45c1beac1adb.pmtiles",
+   "bytes": 147424,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1105-609.45c1beac1adb.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 593,
+   "file": "11-1106-593.6e1bec9647a1.pmtiles",
+   "bytes": 177110,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-593.6e1bec9647a1.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 594,
+   "file": "11-1106-594.9de627589a03.pmtiles",
+   "bytes": 168968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-594.9de627589a03.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 595,
+   "file": "11-1106-595.0a2d37235f12.pmtiles",
+   "bytes": 227976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-595.0a2d37235f12.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 596,
+   "file": "11-1106-596.abe365649feb.pmtiles",
+   "bytes": 280293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-596.abe365649feb.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 597,
+   "file": "11-1106-597.e42937bccd9e.pmtiles",
+   "bytes": 439118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-597.e42937bccd9e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 598,
+   "file": "11-1106-598.436f7896fe79.pmtiles",
+   "bytes": 276840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-598.436f7896fe79.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 599,
+   "file": "11-1106-599.f742db3c6f7c.pmtiles",
+   "bytes": 247458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-599.f742db3c6f7c.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 600,
+   "file": "11-1106-600.a0056de51efd.pmtiles",
+   "bytes": 247308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-600.a0056de51efd.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 601,
+   "file": "11-1106-601.4ce9175d17c9.pmtiles",
+   "bytes": 401554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-601.4ce9175d17c9.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 602,
+   "file": "11-1106-602.dcf153784e55.pmtiles",
+   "bytes": 914435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-602.dcf153784e55.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 603,
+   "file": "11-1106-603.b73526e01f5a.pmtiles",
+   "bytes": 533591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-603.b73526e01f5a.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 604,
+   "file": "11-1106-604.f4c3bb438c24.pmtiles",
+   "bytes": 265962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-604.f4c3bb438c24.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 605,
+   "file": "11-1106-605.817f411e80e8.pmtiles",
+   "bytes": 222409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-605.817f411e80e8.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 606,
+   "file": "11-1106-606.613c7932ffbd.pmtiles",
+   "bytes": 275251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-606.613c7932ffbd.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 607,
+   "file": "11-1106-607.08f4e4f1f4bd.pmtiles",
+   "bytes": 177078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-607.08f4e4f1f4bd.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 608,
+   "file": "11-1106-608.550425dce80d.pmtiles",
+   "bytes": 143952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-608.550425dce80d.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 609,
+   "file": "11-1106-609.e095d2cbf582.pmtiles",
+   "bytes": 208527,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1106-609.e095d2cbf582.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 593,
+   "file": "11-1107-593.0b60bc5ca0dc.pmtiles",
+   "bytes": 205997,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-593.0b60bc5ca0dc.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 594,
+   "file": "11-1107-594.f418c10bb7d6.pmtiles",
+   "bytes": 202672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-594.f418c10bb7d6.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 595,
+   "file": "11-1107-595.3601843f54bf.pmtiles",
+   "bytes": 182887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-595.3601843f54bf.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 596,
+   "file": "11-1107-596.f6196b72e7da.pmtiles",
+   "bytes": 238654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-596.f6196b72e7da.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 597,
+   "file": "11-1107-597.5d5a1d53fc4d.pmtiles",
+   "bytes": 187230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-597.5d5a1d53fc4d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 598,
+   "file": "11-1107-598.192933901463.pmtiles",
+   "bytes": 247976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-598.192933901463.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 599,
+   "file": "11-1107-599.e928b89297fb.pmtiles",
+   "bytes": 228521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-599.e928b89297fb.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 600,
+   "file": "11-1107-600.95e8a8d70999.pmtiles",
+   "bytes": 259708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-600.95e8a8d70999.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 601,
+   "file": "11-1107-601.3c9481e70b01.pmtiles",
+   "bytes": 314274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-601.3c9481e70b01.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 602,
+   "file": "11-1107-602.7910610ce7b5.pmtiles",
+   "bytes": 478608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-602.7910610ce7b5.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 603,
+   "file": "11-1107-603.d9b61e8bc53a.pmtiles",
+   "bytes": 383309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-603.d9b61e8bc53a.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 604,
+   "file": "11-1107-604.3a166eb320d9.pmtiles",
+   "bytes": 399756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-604.3a166eb320d9.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 605,
+   "file": "11-1107-605.4976ac07a9bb.pmtiles",
+   "bytes": 269134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-605.4976ac07a9bb.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 606,
+   "file": "11-1107-606.44f94d784bb8.pmtiles",
+   "bytes": 286330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-606.44f94d784bb8.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 607,
+   "file": "11-1107-607.1bbedbffcc7d.pmtiles",
+   "bytes": 197634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-607.1bbedbffcc7d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 608,
+   "file": "11-1107-608.aa764a90f875.pmtiles",
+   "bytes": 270472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-608.aa764a90f875.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 609,
+   "file": "11-1107-609.8cdce9db8abb.pmtiles",
+   "bytes": 153052,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1107-609.8cdce9db8abb.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 593,
+   "file": "11-1108-593.efc7dd4ad145.pmtiles",
+   "bytes": 95986,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-593.efc7dd4ad145.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 594,
+   "file": "11-1108-594.eaab4bf2229f.pmtiles",
+   "bytes": 192525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-594.eaab4bf2229f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 595,
+   "file": "11-1108-595.c024f561e95f.pmtiles",
+   "bytes": 271890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-595.c024f561e95f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 596,
+   "file": "11-1108-596.6ad07ee449b7.pmtiles",
+   "bytes": 208084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-596.6ad07ee449b7.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 597,
+   "file": "11-1108-597.0ecf97258526.pmtiles",
+   "bytes": 243277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-597.0ecf97258526.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 598,
+   "file": "11-1108-598.e02aa76a0057.pmtiles",
+   "bytes": 372516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-598.e02aa76a0057.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 599,
+   "file": "11-1108-599.3b00e44f6a67.pmtiles",
+   "bytes": 316776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-599.3b00e44f6a67.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 600,
+   "file": "11-1108-600.bea18a31419a.pmtiles",
+   "bytes": 317885,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-600.bea18a31419a.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 601,
+   "file": "11-1108-601.caa0978e4f3b.pmtiles",
+   "bytes": 348775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-601.caa0978e4f3b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 602,
+   "file": "11-1108-602.c9713ec5c78e.pmtiles",
+   "bytes": 441060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-602.c9713ec5c78e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 603,
+   "file": "11-1108-603.602b9d5ac212.pmtiles",
+   "bytes": 453284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-603.602b9d5ac212.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 604,
+   "file": "11-1108-604.5eec428996b6.pmtiles",
+   "bytes": 529788,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-604.5eec428996b6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 605,
+   "file": "11-1108-605.f7729f39f261.pmtiles",
+   "bytes": 437109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-605.f7729f39f261.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 606,
+   "file": "11-1108-606.d9ab14dd6cd5.pmtiles",
+   "bytes": 306108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-606.d9ab14dd6cd5.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 607,
+   "file": "11-1108-607.7a4ba89bbb85.pmtiles",
+   "bytes": 330638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-607.7a4ba89bbb85.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 608,
+   "file": "11-1108-608.ff9455a50346.pmtiles",
+   "bytes": 211450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-608.ff9455a50346.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 609,
+   "file": "11-1108-609.3f9268002478.pmtiles",
+   "bytes": 58877,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1108-609.3f9268002478.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 593,
+   "file": "11-1109-593.a345b98c658f.pmtiles",
+   "bytes": 225627,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-593.a345b98c658f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 594,
+   "file": "11-1109-594.0da965885e95.pmtiles",
+   "bytes": 222975,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-594.0da965885e95.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 595,
+   "file": "11-1109-595.18c8772bbc4a.pmtiles",
+   "bytes": 173833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-595.18c8772bbc4a.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 596,
+   "file": "11-1109-596.f644bb0239a8.pmtiles",
+   "bytes": 331289,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-596.f644bb0239a8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 597,
+   "file": "11-1109-597.75358b9340c4.pmtiles",
+   "bytes": 181683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-597.75358b9340c4.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 598,
+   "file": "11-1109-598.13cf74489d3d.pmtiles",
+   "bytes": 275889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-598.13cf74489d3d.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 599,
+   "file": "11-1109-599.b17ffba192a9.pmtiles",
+   "bytes": 282163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-599.b17ffba192a9.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 600,
+   "file": "11-1109-600.e4a2a9fb2547.pmtiles",
+   "bytes": 504479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-600.e4a2a9fb2547.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 601,
+   "file": "11-1109-601.5659d14f5c29.pmtiles",
+   "bytes": 414793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-601.5659d14f5c29.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 602,
+   "file": "11-1109-602.ecd480ef49d7.pmtiles",
+   "bytes": 380478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-602.ecd480ef49d7.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 603,
+   "file": "11-1109-603.f588b0117047.pmtiles",
+   "bytes": 445672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-603.f588b0117047.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 604,
+   "file": "11-1109-604.4baf6e5095fc.pmtiles",
+   "bytes": 431039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-604.4baf6e5095fc.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 605,
+   "file": "11-1109-605.41cbf2b5683f.pmtiles",
+   "bytes": 599055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-605.41cbf2b5683f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 606,
+   "file": "11-1109-606.f6216c24912d.pmtiles",
+   "bytes": 401977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-606.f6216c24912d.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 607,
+   "file": "11-1109-607.2213a5f757a4.pmtiles",
+   "bytes": 279668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-607.2213a5f757a4.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 608,
+   "file": "11-1109-608.b003aa26a2f2.pmtiles",
+   "bytes": 264410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-608.b003aa26a2f2.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 609,
+   "file": "11-1109-609.cca00cb51535.pmtiles",
+   "bytes": 251853,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1109-609.cca00cb51535.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 593,
+   "file": "11-1110-593.4b575c2f1c8a.pmtiles",
+   "bytes": 185025,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-593.4b575c2f1c8a.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 594,
+   "file": "11-1110-594.9a3fcd0c8eee.pmtiles",
+   "bytes": 139559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-594.9a3fcd0c8eee.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 595,
+   "file": "11-1110-595.97c2bbd68bb2.pmtiles",
+   "bytes": 194868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-595.97c2bbd68bb2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 596,
+   "file": "11-1110-596.f64a451f3f6c.pmtiles",
+   "bytes": 159059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-596.f64a451f3f6c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 597,
+   "file": "11-1110-597.f830960f4772.pmtiles",
+   "bytes": 241043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-597.f830960f4772.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 598,
+   "file": "11-1110-598.672633c78063.pmtiles",
+   "bytes": 235323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-598.672633c78063.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 599,
+   "file": "11-1110-599.cda2b6665f2c.pmtiles",
+   "bytes": 499831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-599.cda2b6665f2c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 600,
+   "file": "11-1110-600.df2e30016238.pmtiles",
+   "bytes": 364344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-600.df2e30016238.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 601,
+   "file": "11-1110-601.9469b7de238a.pmtiles",
+   "bytes": 377695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-601.9469b7de238a.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 602,
+   "file": "11-1110-602.81d145c335fd.pmtiles",
+   "bytes": 1122944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-602.81d145c335fd.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 603,
+   "file": "11-1110-603.5117afa22bf8.pmtiles",
+   "bytes": 1052140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-603.5117afa22bf8.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 604,
+   "file": "11-1110-604.62d1f9315042.pmtiles",
+   "bytes": 704920,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-604.62d1f9315042.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 605,
+   "file": "11-1110-605.37345f2aeb99.pmtiles",
+   "bytes": 460374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-605.37345f2aeb99.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 606,
+   "file": "11-1110-606.59ef32fa951d.pmtiles",
+   "bytes": 376927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-606.59ef32fa951d.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 607,
+   "file": "11-1110-607.0f581fbf825d.pmtiles",
+   "bytes": 347065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-607.0f581fbf825d.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 608,
+   "file": "11-1110-608.315131a3ad36.pmtiles",
+   "bytes": 415030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-608.315131a3ad36.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 609,
+   "file": "11-1110-609.7d9beff6b93e.pmtiles",
+   "bytes": 194106,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1110-609.7d9beff6b93e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 593,
+   "file": "11-1111-593.27acac926296.pmtiles",
+   "bytes": 93542,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-593.27acac926296.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 594,
+   "file": "11-1111-594.041571c75543.pmtiles",
+   "bytes": 151918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-594.041571c75543.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 595,
+   "file": "11-1111-595.7df794e665a4.pmtiles",
+   "bytes": 173590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-595.7df794e665a4.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 596,
+   "file": "11-1111-596.646cd0abbedf.pmtiles",
+   "bytes": 114488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-596.646cd0abbedf.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 597,
+   "file": "11-1111-597.6058260d7990.pmtiles",
+   "bytes": 178556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-597.6058260d7990.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 598,
+   "file": "11-1111-598.114a5f304f04.pmtiles",
+   "bytes": 235720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-598.114a5f304f04.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 599,
+   "file": "11-1111-599.2e4e300461cf.pmtiles",
+   "bytes": 278496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-599.2e4e300461cf.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 600,
+   "file": "11-1111-600.c71f597108b7.pmtiles",
+   "bytes": 508015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-600.c71f597108b7.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 601,
+   "file": "11-1111-601.0a82bbb90402.pmtiles",
+   "bytes": 279655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-601.0a82bbb90402.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 602,
+   "file": "11-1111-602.4a3ed65f5d1c.pmtiles",
+   "bytes": 329166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-602.4a3ed65f5d1c.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 603,
+   "file": "11-1111-603.f84da5aac998.pmtiles",
+   "bytes": 394134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-603.f84da5aac998.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 604,
+   "file": "11-1111-604.d4aa3feff8d9.pmtiles",
+   "bytes": 437251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-604.d4aa3feff8d9.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 605,
+   "file": "11-1111-605.6005f0fff53e.pmtiles",
+   "bytes": 399087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-605.6005f0fff53e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 606,
+   "file": "11-1111-606.4e2c1123cdf4.pmtiles",
+   "bytes": 315865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-606.4e2c1123cdf4.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 607,
+   "file": "11-1111-607.64ad67dd34c8.pmtiles",
+   "bytes": 342126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-607.64ad67dd34c8.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 608,
+   "file": "11-1111-608.7ee2d583ae7f.pmtiles",
+   "bytes": 319948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-608.7ee2d583ae7f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 609,
+   "file": "11-1111-609.c4bea645b798.pmtiles",
+   "bytes": 251707,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1111-609.c4bea645b798.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 593,
+   "file": "11-1112-593.7425607633c1.pmtiles",
+   "bytes": 171828,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-593.7425607633c1.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 594,
+   "file": "11-1112-594.b70bd5ee407c.pmtiles",
+   "bytes": 165730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-594.b70bd5ee407c.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 595,
+   "file": "11-1112-595.13bf4f4df37e.pmtiles",
+   "bytes": 191523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-595.13bf4f4df37e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 596,
+   "file": "11-1112-596.756e672eebf5.pmtiles",
+   "bytes": 240390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-596.756e672eebf5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 597,
+   "file": "11-1112-597.6c3911490306.pmtiles",
+   "bytes": 319654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-597.6c3911490306.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 598,
+   "file": "11-1112-598.ab6e42c7048f.pmtiles",
+   "bytes": 359808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-598.ab6e42c7048f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 599,
+   "file": "11-1112-599.6d8035d32268.pmtiles",
+   "bytes": 279236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-599.6d8035d32268.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 600,
+   "file": "11-1112-600.ea274305cdb0.pmtiles",
+   "bytes": 337654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-600.ea274305cdb0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 601,
+   "file": "11-1112-601.25546a4a91ae.pmtiles",
+   "bytes": 350488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-601.25546a4a91ae.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 602,
+   "file": "11-1112-602.8cb17d4b7516.pmtiles",
+   "bytes": 209797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-602.8cb17d4b7516.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 603,
+   "file": "11-1112-603.b3021bdb055b.pmtiles",
+   "bytes": 378654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-603.b3021bdb055b.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 604,
+   "file": "11-1112-604.1e6351b87745.pmtiles",
+   "bytes": 416568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-604.1e6351b87745.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 605,
+   "file": "11-1112-605.73fc0bdab667.pmtiles",
+   "bytes": 269603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-605.73fc0bdab667.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 606,
+   "file": "11-1112-606.eed9d37d4eef.pmtiles",
+   "bytes": 347730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-606.eed9d37d4eef.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 607,
+   "file": "11-1112-607.ec5db1dbee4e.pmtiles",
+   "bytes": 411068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-607.ec5db1dbee4e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 608,
+   "file": "11-1112-608.8f5b37b84f4f.pmtiles",
+   "bytes": 486052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-608.8f5b37b84f4f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 609,
+   "file": "11-1112-609.5ca1b8e1c601.pmtiles",
+   "bytes": 443816,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1112-609.5ca1b8e1c601.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 593,
+   "file": "11-1113-593.3b3a6a12e893.pmtiles",
+   "bytes": 166258,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-593.3b3a6a12e893.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 594,
+   "file": "11-1113-594.47ee59353315.pmtiles",
+   "bytes": 280689,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-594.47ee59353315.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 595,
+   "file": "11-1113-595.d7805770d71e.pmtiles",
+   "bytes": 233545,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-595.d7805770d71e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 596,
+   "file": "11-1113-596.75976b834975.pmtiles",
+   "bytes": 321747,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-596.75976b834975.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 597,
+   "file": "11-1113-597.159901cccbbc.pmtiles",
+   "bytes": 307182,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-597.159901cccbbc.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 598,
+   "file": "11-1113-598.60aef56152a7.pmtiles",
+   "bytes": 359563,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-598.60aef56152a7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 599,
+   "file": "11-1113-599.085b658fbc66.pmtiles",
+   "bytes": 278939,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-599.085b658fbc66.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 600,
+   "file": "11-1113-600.33b75ed46e11.pmtiles",
+   "bytes": 234224,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-600.33b75ed46e11.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 601,
+   "file": "11-1113-601.07df2b3c856b.pmtiles",
+   "bytes": 280926,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-601.07df2b3c856b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 602,
+   "file": "11-1113-602.27a8328a0c89.pmtiles",
+   "bytes": 197478,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-602.27a8328a0c89.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 603,
+   "file": "11-1113-603.d698b1edbe8e.pmtiles",
+   "bytes": 100591,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-603.d698b1edbe8e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 604,
+   "file": "11-1113-604.52a7c290f92a.pmtiles",
+   "bytes": 249666,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-604.52a7c290f92a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 605,
+   "file": "11-1113-605.f2402d458b5b.pmtiles",
+   "bytes": 432182,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-605.f2402d458b5b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 606,
+   "file": "11-1113-606.a317a6019f70.pmtiles",
+   "bytes": 476512,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-606.a317a6019f70.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 607,
+   "file": "11-1113-607.883ecf883899.pmtiles",
+   "bytes": 438123,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-607.883ecf883899.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 608,
+   "file": "11-1113-608.a29200296cec.pmtiles",
+   "bytes": 472029,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-608.a29200296cec.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 609,
+   "file": "11-1113-609.160a300b61ef.pmtiles",
+   "bytes": 508122,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-orebro-2026-10-03/11-1113-609.160a300b61ef.pmtiles"
+  }
+ ]
+}

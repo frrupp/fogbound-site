@@ -1,0 +1,1933 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "se-jonkoping",
+ "source": "se.pmtiles",
+ "builtAt": "2026-10-05T04:04:06.277Z",
+ "publishedAt": "2026-10-05T04:05:09.611Z",
+ "host": "github",
+ "releases": [
+  "maps-se-jonkoping-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  13.07707,
+  56.87919,
+  15.66567,
+  58.19107
+ ],
+ "overview": {
+  "file": "overview.592b7c01364e.pmtiles",
+  "bytes": 5339819,
+  "tiles": 109,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/overview.592b7c01364e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1098,
+   "y": 614,
+   "file": "11-1098-614.5e689a2685b8.pmtiles",
+   "bytes": 128759,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-614.5e689a2685b8.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 615,
+   "file": "11-1098-615.ad69fe4ff9fe.pmtiles",
+   "bytes": 240287,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-615.ad69fe4ff9fe.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 616,
+   "file": "11-1098-616.511c8fa2f00d.pmtiles",
+   "bytes": 334219,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-616.511c8fa2f00d.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 617,
+   "file": "11-1098-617.7b664d506efc.pmtiles",
+   "bytes": 264643,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-617.7b664d506efc.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 618,
+   "file": "11-1098-618.a8cb92e70437.pmtiles",
+   "bytes": 237416,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-618.a8cb92e70437.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 619,
+   "file": "11-1098-619.874b3d7c6919.pmtiles",
+   "bytes": 338403,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-619.874b3d7c6919.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 620,
+   "file": "11-1098-620.0118850e3cd6.pmtiles",
+   "bytes": 245853,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-620.0118850e3cd6.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 621,
+   "file": "11-1098-621.843bd0c9a412.pmtiles",
+   "bytes": 159935,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-621.843bd0c9a412.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 622,
+   "file": "11-1098-622.0f2b313d3d5e.pmtiles",
+   "bytes": 236452,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-622.0f2b313d3d5e.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 623,
+   "file": "11-1098-623.e49319e31c76.pmtiles",
+   "bytes": 135549,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-623.e49319e31c76.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 624,
+   "file": "11-1098-624.a4deea7ac2c8.pmtiles",
+   "bytes": 137598,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-624.a4deea7ac2c8.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 625,
+   "file": "11-1098-625.8759ea75fe6e.pmtiles",
+   "bytes": 181362,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-625.8759ea75fe6e.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 626,
+   "file": "11-1098-626.e450f9a4f802.pmtiles",
+   "bytes": 164363,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-626.e450f9a4f802.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 627,
+   "file": "11-1098-627.d1d707cd20a7.pmtiles",
+   "bytes": 188385,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-627.d1d707cd20a7.pmtiles"
+  },
+  {
+   "x": 1098,
+   "y": 628,
+   "file": "11-1098-628.90fa493e8fa9.pmtiles",
+   "bytes": 101195,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1098-628.90fa493e8fa9.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 614,
+   "file": "11-1099-614.91882d1ac8ea.pmtiles",
+   "bytes": 101307,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-614.91882d1ac8ea.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 615,
+   "file": "11-1099-615.0611f5c4866c.pmtiles",
+   "bytes": 362106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-615.0611f5c4866c.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 616,
+   "file": "11-1099-616.0ac154fcbb46.pmtiles",
+   "bytes": 363216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-616.0ac154fcbb46.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 617,
+   "file": "11-1099-617.b60a4bd6c5c9.pmtiles",
+   "bytes": 350071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-617.b60a4bd6c5c9.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 618,
+   "file": "11-1099-618.3b6bc4102703.pmtiles",
+   "bytes": 350237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-618.3b6bc4102703.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 619,
+   "file": "11-1099-619.6a6b7733ebde.pmtiles",
+   "bytes": 291655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-619.6a6b7733ebde.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 620,
+   "file": "11-1099-620.dfcf8df2bba1.pmtiles",
+   "bytes": 287213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-620.dfcf8df2bba1.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 621,
+   "file": "11-1099-621.3b4989fa9d1e.pmtiles",
+   "bytes": 248505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-621.3b4989fa9d1e.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 622,
+   "file": "11-1099-622.c45deebfc311.pmtiles",
+   "bytes": 236265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-622.c45deebfc311.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 623,
+   "file": "11-1099-623.7d904cfec48b.pmtiles",
+   "bytes": 192635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-623.7d904cfec48b.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 624,
+   "file": "11-1099-624.e1d227efbca8.pmtiles",
+   "bytes": 226190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-624.e1d227efbca8.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 625,
+   "file": "11-1099-625.11d93c43f14b.pmtiles",
+   "bytes": 236201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-625.11d93c43f14b.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 626,
+   "file": "11-1099-626.f8a07b393903.pmtiles",
+   "bytes": 241728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-626.f8a07b393903.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 627,
+   "file": "11-1099-627.2cbdbf0f7efc.pmtiles",
+   "bytes": 239404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-627.2cbdbf0f7efc.pmtiles"
+  },
+  {
+   "x": 1099,
+   "y": 628,
+   "file": "11-1099-628.c09c2435e253.pmtiles",
+   "bytes": 145380,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1099-628.c09c2435e253.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 614,
+   "file": "11-1100-614.47280fa2a5ca.pmtiles",
+   "bytes": 138920,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-614.47280fa2a5ca.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 615,
+   "file": "11-1100-615.c37707040f29.pmtiles",
+   "bytes": 405993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-615.c37707040f29.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 616,
+   "file": "11-1100-616.5b013ee7a76a.pmtiles",
+   "bytes": 401985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-616.5b013ee7a76a.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 617,
+   "file": "11-1100-617.fe9559c2721f.pmtiles",
+   "bytes": 436123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-617.fe9559c2721f.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 618,
+   "file": "11-1100-618.32907a956786.pmtiles",
+   "bytes": 460659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-618.32907a956786.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 619,
+   "file": "11-1100-619.e1da887178b0.pmtiles",
+   "bytes": 456594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-619.e1da887178b0.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 620,
+   "file": "11-1100-620.315133c6ce59.pmtiles",
+   "bytes": 275552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-620.315133c6ce59.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 621,
+   "file": "11-1100-621.db300e986e0f.pmtiles",
+   "bytes": 243780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-621.db300e986e0f.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 622,
+   "file": "11-1100-622.2e60635830b3.pmtiles",
+   "bytes": 224008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-622.2e60635830b3.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 623,
+   "file": "11-1100-623.0da942199af4.pmtiles",
+   "bytes": 260090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-623.0da942199af4.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 624,
+   "file": "11-1100-624.fff01579f958.pmtiles",
+   "bytes": 355146,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-624.fff01579f958.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 625,
+   "file": "11-1100-625.f5a5d81739f2.pmtiles",
+   "bytes": 297185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-625.f5a5d81739f2.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 626,
+   "file": "11-1100-626.c565ac9102cd.pmtiles",
+   "bytes": 224642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-626.c565ac9102cd.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 627,
+   "file": "11-1100-627.29bdde3f1b8c.pmtiles",
+   "bytes": 169982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-627.29bdde3f1b8c.pmtiles"
+  },
+  {
+   "x": 1100,
+   "y": 628,
+   "file": "11-1100-628.38347dcd22ba.pmtiles",
+   "bytes": 156120,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1100-628.38347dcd22ba.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 614,
+   "file": "11-1101-614.c2b3715e76f1.pmtiles",
+   "bytes": 221826,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-614.c2b3715e76f1.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 615,
+   "file": "11-1101-615.f4f42f2d4c38.pmtiles",
+   "bytes": 514794,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-615.f4f42f2d4c38.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 616,
+   "file": "11-1101-616.57956b66d358.pmtiles",
+   "bytes": 401978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-616.57956b66d358.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 617,
+   "file": "11-1101-617.615556e948be.pmtiles",
+   "bytes": 270382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-617.615556e948be.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 618,
+   "file": "11-1101-618.655f32cab3b9.pmtiles",
+   "bytes": 271253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-618.655f32cab3b9.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 619,
+   "file": "11-1101-619.e2ac49e5ab46.pmtiles",
+   "bytes": 159337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-619.e2ac49e5ab46.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 620,
+   "file": "11-1101-620.35c1ef765d24.pmtiles",
+   "bytes": 208231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-620.35c1ef765d24.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 621,
+   "file": "11-1101-621.1320dff33dc2.pmtiles",
+   "bytes": 165580,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-621.1320dff33dc2.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 622,
+   "file": "11-1101-622.17a18ecad514.pmtiles",
+   "bytes": 345663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-622.17a18ecad514.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 623,
+   "file": "11-1101-623.4ddd6c5f54e5.pmtiles",
+   "bytes": 258096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-623.4ddd6c5f54e5.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 624,
+   "file": "11-1101-624.e152d1490f37.pmtiles",
+   "bytes": 415692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-624.e152d1490f37.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 625,
+   "file": "11-1101-625.f5a3c0b78f00.pmtiles",
+   "bytes": 346492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-625.f5a3c0b78f00.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 626,
+   "file": "11-1101-626.091922206560.pmtiles",
+   "bytes": 223076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-626.091922206560.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 627,
+   "file": "11-1101-627.ffa23c9588d5.pmtiles",
+   "bytes": 185074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-627.ffa23c9588d5.pmtiles"
+  },
+  {
+   "x": 1101,
+   "y": 628,
+   "file": "11-1101-628.2fc96dcd9933.pmtiles",
+   "bytes": 157456,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1101-628.2fc96dcd9933.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 614,
+   "file": "11-1102-614.9adcc8c6f43e.pmtiles",
+   "bytes": 100285,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-614.9adcc8c6f43e.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 615,
+   "file": "11-1102-615.0469f8945069.pmtiles",
+   "bytes": 333710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-615.0469f8945069.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 616,
+   "file": "11-1102-616.57a5392a0c9a.pmtiles",
+   "bytes": 312528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-616.57a5392a0c9a.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 617,
+   "file": "11-1102-617.9dfe6e8b14ff.pmtiles",
+   "bytes": 346862,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-617.9dfe6e8b14ff.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 618,
+   "file": "11-1102-618.f67c5598d532.pmtiles",
+   "bytes": 298691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-618.f67c5598d532.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 619,
+   "file": "11-1102-619.3424b5bd1654.pmtiles",
+   "bytes": 201399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-619.3424b5bd1654.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 620,
+   "file": "11-1102-620.4b5d574fde07.pmtiles",
+   "bytes": 128112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-620.4b5d574fde07.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 621,
+   "file": "11-1102-621.f28dcfe0b12e.pmtiles",
+   "bytes": 139032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-621.f28dcfe0b12e.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 622,
+   "file": "11-1102-622.142e0b0e23b8.pmtiles",
+   "bytes": 282376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-622.142e0b0e23b8.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 623,
+   "file": "11-1102-623.57a1c1b2182d.pmtiles",
+   "bytes": 396537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-623.57a1c1b2182d.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 624,
+   "file": "11-1102-624.2e606b6c9329.pmtiles",
+   "bytes": 255732,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-624.2e606b6c9329.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 625,
+   "file": "11-1102-625.0f2d7be1289a.pmtiles",
+   "bytes": 276512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-625.0f2d7be1289a.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 626,
+   "file": "11-1102-626.352668bde1ba.pmtiles",
+   "bytes": 193427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-626.352668bde1ba.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 627,
+   "file": "11-1102-627.51e3ba6f5e38.pmtiles",
+   "bytes": 239653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-627.51e3ba6f5e38.pmtiles"
+  },
+  {
+   "x": 1102,
+   "y": 628,
+   "file": "11-1102-628.78ed43b43b51.pmtiles",
+   "bytes": 197245,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1102-628.78ed43b43b51.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 614,
+   "file": "11-1103-614.9d940bee3314.pmtiles",
+   "bytes": 186688,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-614.9d940bee3314.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 615,
+   "file": "11-1103-615.5d28295a852b.pmtiles",
+   "bytes": 270820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-615.5d28295a852b.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 616,
+   "file": "11-1103-616.8b74c7b4900b.pmtiles",
+   "bytes": 169662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-616.8b74c7b4900b.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 617,
+   "file": "11-1103-617.ba24cfec75e2.pmtiles",
+   "bytes": 311904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-617.ba24cfec75e2.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 618,
+   "file": "11-1103-618.2738f179b095.pmtiles",
+   "bytes": 309334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-618.2738f179b095.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 619,
+   "file": "11-1103-619.6826d4f9e31a.pmtiles",
+   "bytes": 199019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-619.6826d4f9e31a.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 620,
+   "file": "11-1103-620.1072d7ba4c76.pmtiles",
+   "bytes": 154805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-620.1072d7ba4c76.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 621,
+   "file": "11-1103-621.f82aa1d6e46b.pmtiles",
+   "bytes": 130450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-621.f82aa1d6e46b.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 622,
+   "file": "11-1103-622.e7d173e1d125.pmtiles",
+   "bytes": 188782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-622.e7d173e1d125.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 623,
+   "file": "11-1103-623.e9d1f50fb7dd.pmtiles",
+   "bytes": 225236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-623.e9d1f50fb7dd.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 624,
+   "file": "11-1103-624.626f9e80eab0.pmtiles",
+   "bytes": 229435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-624.626f9e80eab0.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 625,
+   "file": "11-1103-625.b27039933c73.pmtiles",
+   "bytes": 623644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-625.b27039933c73.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 626,
+   "file": "11-1103-626.7561e2cc45c2.pmtiles",
+   "bytes": 244664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-626.7561e2cc45c2.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 627,
+   "file": "11-1103-627.e7609c9ef2e7.pmtiles",
+   "bytes": 217977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-627.e7609c9ef2e7.pmtiles"
+  },
+  {
+   "x": 1103,
+   "y": 628,
+   "file": "11-1103-628.ce52cef4c303.pmtiles",
+   "bytes": 315176,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1103-628.ce52cef4c303.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 614,
+   "file": "11-1104-614.1d317d957d47.pmtiles",
+   "bytes": 70384,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-614.1d317d957d47.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 615,
+   "file": "11-1104-615.10bc4ceda204.pmtiles",
+   "bytes": 207128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-615.10bc4ceda204.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 616,
+   "file": "11-1104-616.d9e55dfedf07.pmtiles",
+   "bytes": 195601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-616.d9e55dfedf07.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 617,
+   "file": "11-1104-617.53becf404ad7.pmtiles",
+   "bytes": 240178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-617.53becf404ad7.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 618,
+   "file": "11-1104-618.b854712cdf9f.pmtiles",
+   "bytes": 442567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-618.b854712cdf9f.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 619,
+   "file": "11-1104-619.5515fa08749a.pmtiles",
+   "bytes": 1296494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-619.5515fa08749a.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 620,
+   "file": "11-1104-620.2ed2f76910d6.pmtiles",
+   "bytes": 401448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-620.2ed2f76910d6.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 621,
+   "file": "11-1104-621.b8bdc5ecc86f.pmtiles",
+   "bytes": 296443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-621.b8bdc5ecc86f.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 622,
+   "file": "11-1104-622.8233ad7b8db5.pmtiles",
+   "bytes": 446265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-622.8233ad7b8db5.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 623,
+   "file": "11-1104-623.36579ab34053.pmtiles",
+   "bytes": 322690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-623.36579ab34053.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 624,
+   "file": "11-1104-624.2aaf3ca88a24.pmtiles",
+   "bytes": 177331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-624.2aaf3ca88a24.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 625,
+   "file": "11-1104-625.a82260e37aa0.pmtiles",
+   "bytes": 285643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-625.a82260e37aa0.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 626,
+   "file": "11-1104-626.54fe2a2b98d9.pmtiles",
+   "bytes": 219745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-626.54fe2a2b98d9.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 627,
+   "file": "11-1104-627.3feb46ea57ca.pmtiles",
+   "bytes": 146513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-627.3feb46ea57ca.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 628,
+   "file": "11-1104-628.8ffc7d4d14b7.pmtiles",
+   "bytes": 131546,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1104-628.8ffc7d4d14b7.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 615,
+   "file": "11-1105-615.3fa6df5f6317.pmtiles",
+   "bytes": 37844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-615.3fa6df5f6317.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 616,
+   "file": "11-1105-616.50b8815afcb2.pmtiles",
+   "bytes": 146849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-616.50b8815afcb2.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 617,
+   "file": "11-1105-617.8fb7b1d35d3c.pmtiles",
+   "bytes": 169680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-617.8fb7b1d35d3c.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 618,
+   "file": "11-1105-618.648ffb4f7326.pmtiles",
+   "bytes": 384627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-618.648ffb4f7326.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 619,
+   "file": "11-1105-619.726d53379562.pmtiles",
+   "bytes": 611701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-619.726d53379562.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 620,
+   "file": "11-1105-620.e16a7df711cf.pmtiles",
+   "bytes": 184637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-620.e16a7df711cf.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 621,
+   "file": "11-1105-621.54c180a966b9.pmtiles",
+   "bytes": 178765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-621.54c180a966b9.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 622,
+   "file": "11-1105-622.b254898f32e4.pmtiles",
+   "bytes": 200375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-622.b254898f32e4.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 623,
+   "file": "11-1105-623.2ebfa45b8212.pmtiles",
+   "bytes": 161165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-623.2ebfa45b8212.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 624,
+   "file": "11-1105-624.1014bd1e73fa.pmtiles",
+   "bytes": 153371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-624.1014bd1e73fa.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 625,
+   "file": "11-1105-625.985f273be5a7.pmtiles",
+   "bytes": 208972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-625.985f273be5a7.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 626,
+   "file": "11-1105-626.179a61fee642.pmtiles",
+   "bytes": 229708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-626.179a61fee642.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 627,
+   "file": "11-1105-627.395636b99b8d.pmtiles",
+   "bytes": 226296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-627.395636b99b8d.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 628,
+   "file": "11-1105-628.d06ce5c7f9fb.pmtiles",
+   "bytes": 134747,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1105-628.d06ce5c7f9fb.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 615,
+   "file": "11-1106-615.33fc6d0aa2cc.pmtiles",
+   "bytes": 139642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-615.33fc6d0aa2cc.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 616,
+   "file": "11-1106-616.87bdbc11da34.pmtiles",
+   "bytes": 309414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-616.87bdbc11da34.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 617,
+   "file": "11-1106-617.3c7ef0532a2d.pmtiles",
+   "bytes": 263703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-617.3c7ef0532a2d.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 618,
+   "file": "11-1106-618.7e45dd47cb7b.pmtiles",
+   "bytes": 211567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-618.7e45dd47cb7b.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 619,
+   "file": "11-1106-619.01486aad291e.pmtiles",
+   "bytes": 241751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-619.01486aad291e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 620,
+   "file": "11-1106-620.f82c13b5b4dd.pmtiles",
+   "bytes": 217542,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-620.f82c13b5b4dd.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 621,
+   "file": "11-1106-621.3799013ffdae.pmtiles",
+   "bytes": 200775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-621.3799013ffdae.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 622,
+   "file": "11-1106-622.2df1c8ed345e.pmtiles",
+   "bytes": 165701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-622.2df1c8ed345e.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 623,
+   "file": "11-1106-623.56ab562defad.pmtiles",
+   "bytes": 226437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-623.56ab562defad.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 624,
+   "file": "11-1106-624.a564b0ce9a91.pmtiles",
+   "bytes": 229345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-624.a564b0ce9a91.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 625,
+   "file": "11-1106-625.19c429f07545.pmtiles",
+   "bytes": 232246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-625.19c429f07545.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 626,
+   "file": "11-1106-626.4058a937a777.pmtiles",
+   "bytes": 209750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-626.4058a937a777.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 627,
+   "file": "11-1106-627.56121d3dd619.pmtiles",
+   "bytes": 239501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-627.56121d3dd619.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 628,
+   "file": "11-1106-628.a309e3d121b4.pmtiles",
+   "bytes": 338006,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1106-628.a309e3d121b4.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 614,
+   "file": "11-1107-614.163188ba2268.pmtiles",
+   "bytes": 87530,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-614.163188ba2268.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 615,
+   "file": "11-1107-615.515cfb1afb8f.pmtiles",
+   "bytes": 224455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-615.515cfb1afb8f.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 616,
+   "file": "11-1107-616.35d193450927.pmtiles",
+   "bytes": 224975,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-616.35d193450927.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 617,
+   "file": "11-1107-617.c2f7a1fbd884.pmtiles",
+   "bytes": 240356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-617.c2f7a1fbd884.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 618,
+   "file": "11-1107-618.ce5435507113.pmtiles",
+   "bytes": 205950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-618.ce5435507113.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 619,
+   "file": "11-1107-619.6a166b32098b.pmtiles",
+   "bytes": 210030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-619.6a166b32098b.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 620,
+   "file": "11-1107-620.608a20b4b7da.pmtiles",
+   "bytes": 528746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-620.608a20b4b7da.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 621,
+   "file": "11-1107-621.0c02d8638cfb.pmtiles",
+   "bytes": 256919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-621.0c02d8638cfb.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 622,
+   "file": "11-1107-622.435f94b7be7a.pmtiles",
+   "bytes": 288645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-622.435f94b7be7a.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 623,
+   "file": "11-1107-623.4d5127cb6749.pmtiles",
+   "bytes": 339377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-623.4d5127cb6749.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 624,
+   "file": "11-1107-624.591d74074ff0.pmtiles",
+   "bytes": 305989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-624.591d74074ff0.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 625,
+   "file": "11-1107-625.c71776e460ee.pmtiles",
+   "bytes": 248932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-625.c71776e460ee.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 626,
+   "file": "11-1107-626.37e6a0e60320.pmtiles",
+   "bytes": 244756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-626.37e6a0e60320.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 627,
+   "file": "11-1107-627.9ac3dd10b002.pmtiles",
+   "bytes": 315069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-627.9ac3dd10b002.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 628,
+   "file": "11-1107-628.636ab1de39d8.pmtiles",
+   "bytes": 398478,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1107-628.636ab1de39d8.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 614,
+   "file": "11-1108-614.24e38b59997f.pmtiles",
+   "bytes": 69170,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-614.24e38b59997f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 615,
+   "file": "11-1108-615.2e681c17dd25.pmtiles",
+   "bytes": 200956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-615.2e681c17dd25.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 616,
+   "file": "11-1108-616.3713982e5d3b.pmtiles",
+   "bytes": 251887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-616.3713982e5d3b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 617,
+   "file": "11-1108-617.327fb8721337.pmtiles",
+   "bytes": 239368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-617.327fb8721337.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 618,
+   "file": "11-1108-618.89b5d9862249.pmtiles",
+   "bytes": 298867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-618.89b5d9862249.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 619,
+   "file": "11-1108-619.475a364286e1.pmtiles",
+   "bytes": 259197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-619.475a364286e1.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 620,
+   "file": "11-1108-620.251b7d95c51b.pmtiles",
+   "bytes": 330853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-620.251b7d95c51b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 621,
+   "file": "11-1108-621.e4b19852eea6.pmtiles",
+   "bytes": 280375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-621.e4b19852eea6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 622,
+   "file": "11-1108-622.5a0dd7efb50e.pmtiles",
+   "bytes": 327128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-622.5a0dd7efb50e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 623,
+   "file": "11-1108-623.a1ab3804dcf8.pmtiles",
+   "bytes": 442079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-623.a1ab3804dcf8.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 624,
+   "file": "11-1108-624.6c390fa8a555.pmtiles",
+   "bytes": 264743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-624.6c390fa8a555.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 625,
+   "file": "11-1108-625.af31955c3e72.pmtiles",
+   "bytes": 232933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-625.af31955c3e72.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 626,
+   "file": "11-1108-626.65de625d1a33.pmtiles",
+   "bytes": 302044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-626.65de625d1a33.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 627,
+   "file": "11-1108-627.18936eb13802.pmtiles",
+   "bytes": 337251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-627.18936eb13802.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 628,
+   "file": "11-1108-628.662decf66477.pmtiles",
+   "bytes": 853941,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1108-628.662decf66477.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 614,
+   "file": "11-1109-614.da281f24f8f8.pmtiles",
+   "bytes": 98159,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-614.da281f24f8f8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 615,
+   "file": "11-1109-615.4f1d5a8c9d7c.pmtiles",
+   "bytes": 233854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-615.4f1d5a8c9d7c.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 616,
+   "file": "11-1109-616.559b5082cc3b.pmtiles",
+   "bytes": 464111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-616.559b5082cc3b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 617,
+   "file": "11-1109-617.cef4af8262e8.pmtiles",
+   "bytes": 309661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-617.cef4af8262e8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 618,
+   "file": "11-1109-618.92545c528a15.pmtiles",
+   "bytes": 258622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-618.92545c528a15.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 619,
+   "file": "11-1109-619.8843ab27289b.pmtiles",
+   "bytes": 208081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-619.8843ab27289b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 620,
+   "file": "11-1109-620.b7e6b7324782.pmtiles",
+   "bytes": 575220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-620.b7e6b7324782.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 621,
+   "file": "11-1109-621.1f010995574b.pmtiles",
+   "bytes": 287659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-621.1f010995574b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 622,
+   "file": "11-1109-622.2809d77adf92.pmtiles",
+   "bytes": 428200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-622.2809d77adf92.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 623,
+   "file": "11-1109-623.5669a820f47e.pmtiles",
+   "bytes": 388762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-623.5669a820f47e.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 624,
+   "file": "11-1109-624.2d0caedd06bc.pmtiles",
+   "bytes": 253202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-624.2d0caedd06bc.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 625,
+   "file": "11-1109-625.a19ef72f94f9.pmtiles",
+   "bytes": 257117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-625.a19ef72f94f9.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 626,
+   "file": "11-1109-626.501b1b1d7888.pmtiles",
+   "bytes": 291190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-626.501b1b1d7888.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 627,
+   "file": "11-1109-627.c263615a30a5.pmtiles",
+   "bytes": 268309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-627.c263615a30a5.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 628,
+   "file": "11-1109-628.9ad4ed42c2b9.pmtiles",
+   "bytes": 227758,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1109-628.9ad4ed42c2b9.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 614,
+   "file": "11-1110-614.29336da811aa.pmtiles",
+   "bytes": 59508,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-614.29336da811aa.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 615,
+   "file": "11-1110-615.86b013f5e64a.pmtiles",
+   "bytes": 167380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-615.86b013f5e64a.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 616,
+   "file": "11-1110-616.70627bd0e800.pmtiles",
+   "bytes": 212778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-616.70627bd0e800.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 617,
+   "file": "11-1110-617.d7a72c88250c.pmtiles",
+   "bytes": 365433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-617.d7a72c88250c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 618,
+   "file": "11-1110-618.2052543db43f.pmtiles",
+   "bytes": 323253,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-618.2052543db43f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 619,
+   "file": "11-1110-619.314727b15ecc.pmtiles",
+   "bytes": 222071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-619.314727b15ecc.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 620,
+   "file": "11-1110-620.cb84904098f7.pmtiles",
+   "bytes": 272759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-620.cb84904098f7.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 621,
+   "file": "11-1110-621.53a541ac33d1.pmtiles",
+   "bytes": 254738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-621.53a541ac33d1.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 622,
+   "file": "11-1110-622.891b16c64fe6.pmtiles",
+   "bytes": 268548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-622.891b16c64fe6.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 623,
+   "file": "11-1110-623.8b3d579c7a0c.pmtiles",
+   "bytes": 224946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-623.8b3d579c7a0c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 624,
+   "file": "11-1110-624.3b66c8ab76fc.pmtiles",
+   "bytes": 273350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-624.3b66c8ab76fc.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 625,
+   "file": "11-1110-625.4ab2edd16254.pmtiles",
+   "bytes": 259861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-625.4ab2edd16254.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 626,
+   "file": "11-1110-626.7f89644d0c47.pmtiles",
+   "bytes": 243013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-626.7f89644d0c47.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 627,
+   "file": "11-1110-627.5da07f995d27.pmtiles",
+   "bytes": 219023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-627.5da07f995d27.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 628,
+   "file": "11-1110-628.3b2e2ac17ec8.pmtiles",
+   "bytes": 181781,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1110-628.3b2e2ac17ec8.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 614,
+   "file": "11-1111-614.e314c1872d2d.pmtiles",
+   "bytes": 127696,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-614.e314c1872d2d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 615,
+   "file": "11-1111-615.311d7b6dae30.pmtiles",
+   "bytes": 402507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-615.311d7b6dae30.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 616,
+   "file": "11-1111-616.2918d4b7f9a1.pmtiles",
+   "bytes": 203146,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-616.2918d4b7f9a1.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 617,
+   "file": "11-1111-617.1073193af1bf.pmtiles",
+   "bytes": 221866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-617.1073193af1bf.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 618,
+   "file": "11-1111-618.9cffba4baa4f.pmtiles",
+   "bytes": 226069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-618.9cffba4baa4f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 619,
+   "file": "11-1111-619.6ebc0eeb90f0.pmtiles",
+   "bytes": 227689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-619.6ebc0eeb90f0.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 620,
+   "file": "11-1111-620.9ae874bb4323.pmtiles",
+   "bytes": 260181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-620.9ae874bb4323.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 621,
+   "file": "11-1111-621.512b3525d77a.pmtiles",
+   "bytes": 207362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-621.512b3525d77a.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 622,
+   "file": "11-1111-622.06b2129bd8cd.pmtiles",
+   "bytes": 189371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-622.06b2129bd8cd.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 623,
+   "file": "11-1111-623.052ab3ab7c68.pmtiles",
+   "bytes": 231906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-623.052ab3ab7c68.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 624,
+   "file": "11-1111-624.89f2cc95b49b.pmtiles",
+   "bytes": 220936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-624.89f2cc95b49b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 625,
+   "file": "11-1111-625.fbe22a776858.pmtiles",
+   "bytes": 301184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-625.fbe22a776858.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 626,
+   "file": "11-1111-626.55f4891c0804.pmtiles",
+   "bytes": 203202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-626.55f4891c0804.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 627,
+   "file": "11-1111-627.68b5940d5f77.pmtiles",
+   "bytes": 229983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-627.68b5940d5f77.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 628,
+   "file": "11-1111-628.2cfa3a17e962.pmtiles",
+   "bytes": 197252,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1111-628.2cfa3a17e962.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 614,
+   "file": "11-1112-614.04608865d6cf.pmtiles",
+   "bytes": 156790,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-614.04608865d6cf.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 615,
+   "file": "11-1112-615.d3754b9ac5d7.pmtiles",
+   "bytes": 304079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-615.d3754b9ac5d7.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 616,
+   "file": "11-1112-616.4b204a3d7b9a.pmtiles",
+   "bytes": 247015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-616.4b204a3d7b9a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 617,
+   "file": "11-1112-617.fdd538a7fd59.pmtiles",
+   "bytes": 236788,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-617.fdd538a7fd59.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 618,
+   "file": "11-1112-618.9aa0d439c002.pmtiles",
+   "bytes": 231840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-618.9aa0d439c002.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 619,
+   "file": "11-1112-619.f8cc600aeaab.pmtiles",
+   "bytes": 206203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-619.f8cc600aeaab.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 620,
+   "file": "11-1112-620.30b174ea4427.pmtiles",
+   "bytes": 265536,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-620.30b174ea4427.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 621,
+   "file": "11-1112-621.dd6c0bdd9975.pmtiles",
+   "bytes": 188780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-621.dd6c0bdd9975.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 622,
+   "file": "11-1112-622.0b4060378b12.pmtiles",
+   "bytes": 195608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-622.0b4060378b12.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 623,
+   "file": "11-1112-623.adcf59035653.pmtiles",
+   "bytes": 240561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-623.adcf59035653.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 624,
+   "file": "11-1112-624.34524fb07949.pmtiles",
+   "bytes": 261870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-624.34524fb07949.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 625,
+   "file": "11-1112-625.9fbb16c80693.pmtiles",
+   "bytes": 279736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-625.9fbb16c80693.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 626,
+   "file": "11-1112-626.6d16ba3109b7.pmtiles",
+   "bytes": 203927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-626.6d16ba3109b7.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 627,
+   "file": "11-1112-627.6788e58b0ea5.pmtiles",
+   "bytes": 224430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-627.6788e58b0ea5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 628,
+   "file": "11-1112-628.de4228f719fb.pmtiles",
+   "bytes": 231396,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1112-628.de4228f719fb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 614,
+   "file": "11-1113-614.41108dc0d605.pmtiles",
+   "bytes": 67818,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-614.41108dc0d605.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 615,
+   "file": "11-1113-615.b86e92de0ba1.pmtiles",
+   "bytes": 98200,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-615.b86e92de0ba1.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 616,
+   "file": "11-1113-616.ae65c4e3f1e8.pmtiles",
+   "bytes": 74119,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-616.ae65c4e3f1e8.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 617,
+   "file": "11-1113-617.c0d5adcfd4f7.pmtiles",
+   "bytes": 64322,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-617.c0d5adcfd4f7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 618,
+   "file": "11-1113-618.7e59fc68d9a2.pmtiles",
+   "bytes": 59063,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-618.7e59fc68d9a2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 619,
+   "file": "11-1113-619.12785e89879b.pmtiles",
+   "bytes": 48114,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-619.12785e89879b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 620,
+   "file": "11-1113-620.82ce5c849280.pmtiles",
+   "bytes": 60707,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-620.82ce5c849280.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 621,
+   "file": "11-1113-621.e863ff1886c7.pmtiles",
+   "bytes": 54958,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-621.e863ff1886c7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 622,
+   "file": "11-1113-622.9f07f1bf89b7.pmtiles",
+   "bytes": 49267,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-622.9f07f1bf89b7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 623,
+   "file": "11-1113-623.75c7e4b2b81a.pmtiles",
+   "bytes": 50299,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-623.75c7e4b2b81a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 624,
+   "file": "11-1113-624.71a29668ecd3.pmtiles",
+   "bytes": 53410,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-624.71a29668ecd3.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 625,
+   "file": "11-1113-625.82f53b312dca.pmtiles",
+   "bytes": 92115,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-625.82f53b312dca.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 626,
+   "file": "11-1113-626.c1fd6f4ad81d.pmtiles",
+   "bytes": 79301,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-626.c1fd6f4ad81d.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 627,
+   "file": "11-1113-627.a50e3e8de4be.pmtiles",
+   "bytes": 64679,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-627.a50e3e8de4be.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 628,
+   "file": "11-1113-628.8e4f2de855e5.pmtiles",
+   "bytes": 47011,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-jonkoping-2026-10-03/11-1113-628.8e4f2de855e5.pmtiles"
+  }
+ ]
+}

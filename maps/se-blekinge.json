@@ -1,0 +1,525 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "se-blekinge",
+ "source": "se.pmtiles",
+ "builtAt": "2026-10-05T02:59:23.836Z",
+ "publishedAt": "2026-10-05T02:59:41.968Z",
+ "host": "github",
+ "releases": [
+  "maps-se-blekinge-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.39015,
+  55.74669,
+  16.22368,
+  56.50354
+ ],
+ "overview": {
+  "file": "overview.ce1e981ec654.pmtiles",
+  "bytes": 1529699,
+  "tiles": 63,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/overview.ce1e981ec654.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1105,
+   "y": 632,
+   "file": "11-1105-632.50668ddf715f.pmtiles",
+   "bytes": 57234,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-632.50668ddf715f.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 633,
+   "file": "11-1105-633.1149cfbecc56.pmtiles",
+   "bytes": 93698,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-633.1149cfbecc56.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 634,
+   "file": "11-1105-634.30868bd0d8a0.pmtiles",
+   "bytes": 111725,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-634.30868bd0d8a0.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 635,
+   "file": "11-1105-635.9ed2f8cb4830.pmtiles",
+   "bytes": 103961,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-635.9ed2f8cb4830.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 636,
+   "file": "11-1105-636.7eed105eccf3.pmtiles",
+   "bytes": 101247,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-636.7eed105eccf3.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 637,
+   "file": "11-1105-637.e7e2b18082c7.pmtiles",
+   "bytes": 77734,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-637.e7e2b18082c7.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 638,
+   "file": "11-1105-638.49dfc7421f49.pmtiles",
+   "bytes": 24272,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1105-638.49dfc7421f49.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 632,
+   "file": "11-1106-632.e22e077e4861.pmtiles",
+   "bytes": 152335,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-632.e22e077e4861.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 633,
+   "file": "11-1106-633.7f5ab3882475.pmtiles",
+   "bytes": 263417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-633.7f5ab3882475.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 634,
+   "file": "11-1106-634.1a68cab1c075.pmtiles",
+   "bytes": 455230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-634.1a68cab1c075.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 635,
+   "file": "11-1106-635.e028bf828f76.pmtiles",
+   "bytes": 379987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-635.e028bf828f76.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 636,
+   "file": "11-1106-636.60472e2638ef.pmtiles",
+   "bytes": 308262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-636.60472e2638ef.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 637,
+   "file": "11-1106-637.9fb9fc4db2b6.pmtiles",
+   "bytes": 401889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1106-637.9fb9fc4db2b6.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 632,
+   "file": "11-1107-632.e45e01643847.pmtiles",
+   "bytes": 165868,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-632.e45e01643847.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 633,
+   "file": "11-1107-633.98976716219c.pmtiles",
+   "bytes": 399546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-633.98976716219c.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 634,
+   "file": "11-1107-634.55f020d79aca.pmtiles",
+   "bytes": 375400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-634.55f020d79aca.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 635,
+   "file": "11-1107-635.ec395b29d7bb.pmtiles",
+   "bytes": 434708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-635.ec395b29d7bb.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 636,
+   "file": "11-1107-636.c43fa5cefbd4.pmtiles",
+   "bytes": 308677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-636.c43fa5cefbd4.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 637,
+   "file": "11-1107-637.9bb97483ae74.pmtiles",
+   "bytes": 402460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1107-637.9bb97483ae74.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 632,
+   "file": "11-1108-632.e87ce566df5f.pmtiles",
+   "bytes": 155014,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-632.e87ce566df5f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 633,
+   "file": "11-1108-633.e2cb5de89b91.pmtiles",
+   "bytes": 249275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-633.e2cb5de89b91.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 634,
+   "file": "11-1108-634.54a54c3306ba.pmtiles",
+   "bytes": 293942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-634.54a54c3306ba.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 635,
+   "file": "11-1108-635.134cd4b4a331.pmtiles",
+   "bytes": 696512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-635.134cd4b4a331.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 636,
+   "file": "11-1108-636.90c1662e36df.pmtiles",
+   "bytes": 247132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-636.90c1662e36df.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 637,
+   "file": "11-1108-637.9674f2819bf7.pmtiles",
+   "bytes": 42510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1108-637.9674f2819bf7.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 632,
+   "file": "11-1109-632.7a36d7587d2b.pmtiles",
+   "bytes": 147201,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1109-632.7a36d7587d2b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 633,
+   "file": "11-1109-633.6b14ea3fcd17.pmtiles",
+   "bytes": 238516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1109-633.6b14ea3fcd17.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 634,
+   "file": "11-1109-634.e2d4b25f9781.pmtiles",
+   "bytes": 307547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1109-634.e2d4b25f9781.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 635,
+   "file": "11-1109-635.4ad1ee7fd3f3.pmtiles",
+   "bytes": 519085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1109-635.4ad1ee7fd3f3.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 636,
+   "file": "11-1109-636.762780f99b57.pmtiles",
+   "bytes": 170360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1109-636.762780f99b57.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 632,
+   "file": "11-1110-632.884618444ab0.pmtiles",
+   "bytes": 174324,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1110-632.884618444ab0.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 633,
+   "file": "11-1110-633.fee26abd2ce4.pmtiles",
+   "bytes": 232585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1110-633.fee26abd2ce4.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 634,
+   "file": "11-1110-634.23fc48850870.pmtiles",
+   "bytes": 281988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1110-634.23fc48850870.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 635,
+   "file": "11-1110-635.e8c558126345.pmtiles",
+   "bytes": 601521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1110-635.e8c558126345.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 636,
+   "file": "11-1110-636.04b0f3a67b56.pmtiles",
+   "bytes": 190695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1110-636.04b0f3a67b56.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 632,
+   "file": "11-1111-632.e31a15b9875e.pmtiles",
+   "bytes": 138253,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1111-632.e31a15b9875e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 633,
+   "file": "11-1111-633.87debfe70dc3.pmtiles",
+   "bytes": 240666,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1111-633.87debfe70dc3.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 634,
+   "file": "11-1111-634.bede9830138b.pmtiles",
+   "bytes": 257677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1111-634.bede9830138b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 635,
+   "file": "11-1111-635.d7dcf50b2943.pmtiles",
+   "bytes": 429186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1111-635.d7dcf50b2943.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 636,
+   "file": "11-1111-636.f66d3ac5629f.pmtiles",
+   "bytes": 272164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1111-636.f66d3ac5629f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 632,
+   "file": "11-1112-632.ff8ab5eaeb38.pmtiles",
+   "bytes": 142136,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1112-632.ff8ab5eaeb38.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 633,
+   "file": "11-1112-633.a00389be704b.pmtiles",
+   "bytes": 236746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1112-633.a00389be704b.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 634,
+   "file": "11-1112-634.e34f1d79838d.pmtiles",
+   "bytes": 287377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1112-634.e34f1d79838d.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 635,
+   "file": "11-1112-635.8ef5e5f55129.pmtiles",
+   "bytes": 807326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1112-635.8ef5e5f55129.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 636,
+   "file": "11-1112-636.5bd278cc2edb.pmtiles",
+   "bytes": 414586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1112-636.5bd278cc2edb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 632,
+   "file": "11-1113-632.995cfea23c6f.pmtiles",
+   "bytes": 93846,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-632.995cfea23c6f.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 633,
+   "file": "11-1113-633.5d5587d089e7.pmtiles",
+   "bytes": 183972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-633.5d5587d089e7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 634,
+   "file": "11-1113-634.542d6cb9e825.pmtiles",
+   "bytes": 304146,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-634.542d6cb9e825.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 635,
+   "file": "11-1113-635.1a1babbfb7de.pmtiles",
+   "bytes": 700641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-635.1a1babbfb7de.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 636,
+   "file": "11-1113-636.d21978231a28.pmtiles",
+   "bytes": 408419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-636.d21978231a28.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 637,
+   "file": "11-1113-637.dd334e6be833.pmtiles",
+   "bytes": 84529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-637.dd334e6be833.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 638,
+   "file": "11-1113-638.ac3542d20bae.pmtiles",
+   "bytes": 21395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1113-638.ac3542d20bae.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 632,
+   "file": "11-1114-632.c109cf37a3ba.pmtiles",
+   "bytes": 98685,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1114-632.c109cf37a3ba.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 633,
+   "file": "11-1114-633.c38326722dae.pmtiles",
+   "bytes": 205607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1114-633.c38326722dae.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 634,
+   "file": "11-1114-634.6b2800f6c480.pmtiles",
+   "bytes": 236557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1114-634.6b2800f6c480.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 635,
+   "file": "11-1114-635.d7a31323dfc5.pmtiles",
+   "bytes": 377712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1114-635.d7a31323dfc5.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 636,
+   "file": "11-1114-636.8b2fecd049ae.pmtiles",
+   "bytes": 169090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1114-636.8b2fecd049ae.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 632,
+   "file": "11-1115-632.0cdaab7162d8.pmtiles",
+   "bytes": 176226,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1115-632.0cdaab7162d8.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 633,
+   "file": "11-1115-633.df33f1d6c496.pmtiles",
+   "bytes": 327640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1115-633.df33f1d6c496.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 634,
+   "file": "11-1115-634.7704690b4c25.pmtiles",
+   "bytes": 183347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1115-634.7704690b4c25.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 635,
+   "file": "11-1115-635.ae16476ad40f.pmtiles",
+   "bytes": 80039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1115-635.ae16476ad40f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 632,
+   "file": "11-1116-632.5640983e94cb.pmtiles",
+   "bytes": 27138,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-blekinge-2026-10-03/11-1116-632.5640983e94cb.pmtiles"
+  }
+ ]
+}

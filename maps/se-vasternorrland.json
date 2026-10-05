@@ -1,0 +1,4613 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "se-vasternorrland",
+ "source": "se.pmtiles",
+ "builtAt": "2026-10-05T05:17:11.233Z",
+ "publishedAt": "2026-10-05T06:20:48.330Z",
+ "host": "github",
+ "releases": [
+  "maps-se-vasternorrland-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.78035,
+  62.08718,
+  19.60776,
+  64.02738
+ ],
+ "overview": {
+  "file": "overview.1f74bd5fd149.pmtiles",
+  "bytes": 5105866,
+  "tiles": 273,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/overview.1f74bd5fd149.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1108,
+   "y": 546,
+   "file": "11-1108-546.d7286c124f28.pmtiles",
+   "bytes": 31993,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-546.d7286c124f28.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 547,
+   "file": "11-1108-547.83aa06d3b577.pmtiles",
+   "bytes": 53428,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-547.83aa06d3b577.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 548,
+   "file": "11-1108-548.a5a941755921.pmtiles",
+   "bytes": 56770,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-548.a5a941755921.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 549,
+   "file": "11-1108-549.7eee1734f9cd.pmtiles",
+   "bytes": 105972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-549.7eee1734f9cd.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 550,
+   "file": "11-1108-550.1307ad5a488f.pmtiles",
+   "bytes": 35242,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-550.1307ad5a488f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 551,
+   "file": "11-1108-551.8c33dd5f9949.pmtiles",
+   "bytes": 55787,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-551.8c33dd5f9949.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 552,
+   "file": "11-1108-552.873f5f5111f1.pmtiles",
+   "bytes": 42022,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-552.873f5f5111f1.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 553,
+   "file": "11-1108-553.a49692a5c2cf.pmtiles",
+   "bytes": 120437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-553.a49692a5c2cf.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 554,
+   "file": "11-1108-554.7b83a1a9bb5b.pmtiles",
+   "bytes": 174604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-554.7b83a1a9bb5b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 555,
+   "file": "11-1108-555.83c866f8610d.pmtiles",
+   "bytes": 126462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-555.83c866f8610d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 556,
+   "file": "11-1108-556.45bcdef6ffd4.pmtiles",
+   "bytes": 208817,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-556.45bcdef6ffd4.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 557,
+   "file": "11-1108-557.9e58f50e1a1f.pmtiles",
+   "bytes": 282150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-557.9e58f50e1a1f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 558,
+   "file": "11-1108-558.534876b47b6b.pmtiles",
+   "bytes": 274551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-558.534876b47b6b.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 559,
+   "file": "11-1108-559.06d41b49b3b5.pmtiles",
+   "bytes": 218370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-559.06d41b49b3b5.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 560,
+   "file": "11-1108-560.ecdccb3aeb09.pmtiles",
+   "bytes": 251890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-560.ecdccb3aeb09.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 561,
+   "file": "11-1108-561.9f72262d793c.pmtiles",
+   "bytes": 191572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-561.9f72262d793c.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 562,
+   "file": "11-1108-562.2d334bbc487e.pmtiles",
+   "bytes": 222623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-562.2d334bbc487e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 563,
+   "file": "11-1108-563.f4849f381db2.pmtiles",
+   "bytes": 209664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-563.f4849f381db2.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 564,
+   "file": "11-1108-564.f21661e9efb0.pmtiles",
+   "bytes": 167819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-564.f21661e9efb0.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 565,
+   "file": "11-1108-565.d1e11a405aff.pmtiles",
+   "bytes": 258002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-565.d1e11a405aff.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 566,
+   "file": "11-1108-566.8d0a8d4ec53a.pmtiles",
+   "bytes": 254088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-566.8d0a8d4ec53a.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 567,
+   "file": "11-1108-567.2634d45fe27d.pmtiles",
+   "bytes": 249926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-567.2634d45fe27d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 568,
+   "file": "11-1108-568.2ef8f68efa1d.pmtiles",
+   "bytes": 210292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-568.2ef8f68efa1d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 569,
+   "file": "11-1108-569.b1a970d269d1.pmtiles",
+   "bytes": 211372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-569.b1a970d269d1.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 570,
+   "file": "11-1108-570.8680dce88a7b.pmtiles",
+   "bytes": 78303,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1108-570.8680dce88a7b.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 546,
+   "file": "11-1109-546.4416e1dcf586.pmtiles",
+   "bytes": 30555,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-546.4416e1dcf586.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 547,
+   "file": "11-1109-547.f0b2a299bf82.pmtiles",
+   "bytes": 36826,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-547.f0b2a299bf82.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 548,
+   "file": "11-1109-548.68220fcd8844.pmtiles",
+   "bytes": 227701,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-548.68220fcd8844.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 549,
+   "file": "11-1109-549.5e440a23d5ed.pmtiles",
+   "bytes": 159423,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-549.5e440a23d5ed.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 550,
+   "file": "11-1109-550.5fbcdb1f1020.pmtiles",
+   "bytes": 55325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-550.5fbcdb1f1020.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 551,
+   "file": "11-1109-551.a2471ca6432c.pmtiles",
+   "bytes": 48874,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-551.a2471ca6432c.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 552,
+   "file": "11-1109-552.19c3244319d1.pmtiles",
+   "bytes": 38082,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-552.19c3244319d1.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 553,
+   "file": "11-1109-553.e415512cd77e.pmtiles",
+   "bytes": 106861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-553.e415512cd77e.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 554,
+   "file": "11-1109-554.fd67c05c4f4f.pmtiles",
+   "bytes": 74133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-554.fd67c05c4f4f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 555,
+   "file": "11-1109-555.7c16778cf048.pmtiles",
+   "bytes": 115517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-555.7c16778cf048.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 556,
+   "file": "11-1109-556.0875e66e41e6.pmtiles",
+   "bytes": 215343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-556.0875e66e41e6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 557,
+   "file": "11-1109-557.2929d526b6f6.pmtiles",
+   "bytes": 254764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-557.2929d526b6f6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 558,
+   "file": "11-1109-558.82df1803c276.pmtiles",
+   "bytes": 238529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-558.82df1803c276.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 559,
+   "file": "11-1109-559.4a172a2dbdfb.pmtiles",
+   "bytes": 235432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-559.4a172a2dbdfb.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 560,
+   "file": "11-1109-560.b789b17b9abe.pmtiles",
+   "bytes": 195418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-560.b789b17b9abe.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 561,
+   "file": "11-1109-561.513a0fdad547.pmtiles",
+   "bytes": 172137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-561.513a0fdad547.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 562,
+   "file": "11-1109-562.492b75b8b7f4.pmtiles",
+   "bytes": 190007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-562.492b75b8b7f4.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 563,
+   "file": "11-1109-563.7fc0a7fec458.pmtiles",
+   "bytes": 178287,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-563.7fc0a7fec458.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 564,
+   "file": "11-1109-564.384b57436776.pmtiles",
+   "bytes": 263811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-564.384b57436776.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 565,
+   "file": "11-1109-565.99716a8aa736.pmtiles",
+   "bytes": 273564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-565.99716a8aa736.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 566,
+   "file": "11-1109-566.53b5ed25add8.pmtiles",
+   "bytes": 297318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-566.53b5ed25add8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 567,
+   "file": "11-1109-567.c41ed36c827e.pmtiles",
+   "bytes": 246035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-567.c41ed36c827e.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 568,
+   "file": "11-1109-568.6e8af6784fb8.pmtiles",
+   "bytes": 235665,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-568.6e8af6784fb8.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 569,
+   "file": "11-1109-569.accfaade4f32.pmtiles",
+   "bytes": 283219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-569.accfaade4f32.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 570,
+   "file": "11-1109-570.98eee06c2323.pmtiles",
+   "bytes": 86179,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1109-570.98eee06c2323.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 546,
+   "file": "11-1110-546.e02d97126869.pmtiles",
+   "bytes": 41206,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-546.e02d97126869.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 547,
+   "file": "11-1110-547.2973660c4f70.pmtiles",
+   "bytes": 39204,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-547.2973660c4f70.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 548,
+   "file": "11-1110-548.fef846602aad.pmtiles",
+   "bytes": 636957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-548.fef846602aad.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 549,
+   "file": "11-1110-549.9dc2001a2dd2.pmtiles",
+   "bytes": 661962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-549.9dc2001a2dd2.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 550,
+   "file": "11-1110-550.c5a3e2024b9d.pmtiles",
+   "bytes": 132033,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-550.c5a3e2024b9d.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 551,
+   "file": "11-1110-551.86da4d09e104.pmtiles",
+   "bytes": 63250,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-551.86da4d09e104.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 552,
+   "file": "11-1110-552.3ef35ec57758.pmtiles",
+   "bytes": 53325,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-552.3ef35ec57758.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 553,
+   "file": "11-1110-553.ba39c6413f0b.pmtiles",
+   "bytes": 74745,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-553.ba39c6413f0b.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 554,
+   "file": "11-1110-554.145dc867fd89.pmtiles",
+   "bytes": 61027,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-554.145dc867fd89.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 555,
+   "file": "11-1110-555.230915ecae2f.pmtiles",
+   "bytes": 57855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-555.230915ecae2f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 556,
+   "file": "11-1110-556.7d064f1d3c5b.pmtiles",
+   "bytes": 152301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-556.7d064f1d3c5b.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 557,
+   "file": "11-1110-557.0cb04f8b2ec6.pmtiles",
+   "bytes": 180106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-557.0cb04f8b2ec6.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 558,
+   "file": "11-1110-558.e40087791a80.pmtiles",
+   "bytes": 203363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-558.e40087791a80.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 559,
+   "file": "11-1110-559.113b8dec80b7.pmtiles",
+   "bytes": 228431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-559.113b8dec80b7.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 560,
+   "file": "11-1110-560.88cc2980f24c.pmtiles",
+   "bytes": 177377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-560.88cc2980f24c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 561,
+   "file": "11-1110-561.1fc33f775fe6.pmtiles",
+   "bytes": 174587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-561.1fc33f775fe6.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 562,
+   "file": "11-1110-562.bb0d70d217a8.pmtiles",
+   "bytes": 256024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-562.bb0d70d217a8.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 563,
+   "file": "11-1110-563.a3b8cdd60162.pmtiles",
+   "bytes": 239900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-563.a3b8cdd60162.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 564,
+   "file": "11-1110-564.c2c2c0a24267.pmtiles",
+   "bytes": 185045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-564.c2c2c0a24267.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 565,
+   "file": "11-1110-565.0b271b40b2fc.pmtiles",
+   "bytes": 210299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-565.0b271b40b2fc.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 566,
+   "file": "11-1110-566.777f4e6f2388.pmtiles",
+   "bytes": 239659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-566.777f4e6f2388.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 567,
+   "file": "11-1110-567.0f6bde9a29e8.pmtiles",
+   "bytes": 207810,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-567.0f6bde9a29e8.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 568,
+   "file": "11-1110-568.77b77dc4ab35.pmtiles",
+   "bytes": 234043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-568.77b77dc4ab35.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 569,
+   "file": "11-1110-569.442f38bfaf65.pmtiles",
+   "bytes": 191032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-569.442f38bfaf65.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 570,
+   "file": "11-1110-570.50115a449dc3.pmtiles",
+   "bytes": 69765,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1110-570.50115a449dc3.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 546,
+   "file": "11-1111-546.ca9e61d9655f.pmtiles",
+   "bytes": 44297,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-546.ca9e61d9655f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 547,
+   "file": "11-1111-547.0fee182b178d.pmtiles",
+   "bytes": 119480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-547.0fee182b178d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 548,
+   "file": "11-1111-548.95c891794a6d.pmtiles",
+   "bytes": 122372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-548.95c891794a6d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 549,
+   "file": "11-1111-549.55084a70bf26.pmtiles",
+   "bytes": 179572,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-549.55084a70bf26.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 550,
+   "file": "11-1111-550.3ca9945a05af.pmtiles",
+   "bytes": 54442,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-550.3ca9945a05af.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 551,
+   "file": "11-1111-551.e0347f8801e0.pmtiles",
+   "bytes": 153254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-551.e0347f8801e0.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 552,
+   "file": "11-1111-552.3e337c56d88f.pmtiles",
+   "bytes": 104892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-552.3e337c56d88f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 553,
+   "file": "11-1111-553.1868ac24a8f1.pmtiles",
+   "bytes": 41891,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-553.1868ac24a8f1.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 554,
+   "file": "11-1111-554.c4f0992c9a29.pmtiles",
+   "bytes": 41695,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-554.c4f0992c9a29.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 555,
+   "file": "11-1111-555.e1658222ac5d.pmtiles",
+   "bytes": 46343,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-555.e1658222ac5d.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 556,
+   "file": "11-1111-556.312cafdf0a13.pmtiles",
+   "bytes": 108483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-556.312cafdf0a13.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 557,
+   "file": "11-1111-557.2e0beba5803a.pmtiles",
+   "bytes": 140135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-557.2e0beba5803a.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 558,
+   "file": "11-1111-558.49c933b55880.pmtiles",
+   "bytes": 140039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-558.49c933b55880.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 559,
+   "file": "11-1111-559.c5efa4403208.pmtiles",
+   "bytes": 92564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-559.c5efa4403208.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 560,
+   "file": "11-1111-560.db8ecafa172a.pmtiles",
+   "bytes": 126181,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-560.db8ecafa172a.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 561,
+   "file": "11-1111-561.0044cd43b886.pmtiles",
+   "bytes": 183148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-561.0044cd43b886.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 562,
+   "file": "11-1111-562.15e5a45fb584.pmtiles",
+   "bytes": 225268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-562.15e5a45fb584.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 563,
+   "file": "11-1111-563.5e0c98ccc189.pmtiles",
+   "bytes": 246833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-563.5e0c98ccc189.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 564,
+   "file": "11-1111-564.5fef8beb77da.pmtiles",
+   "bytes": 192308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-564.5fef8beb77da.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 565,
+   "file": "11-1111-565.7f8be04bf81e.pmtiles",
+   "bytes": 173494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-565.7f8be04bf81e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 566,
+   "file": "11-1111-566.615bfb98490f.pmtiles",
+   "bytes": 237909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-566.615bfb98490f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 567,
+   "file": "11-1111-567.47e4a0c9a957.pmtiles",
+   "bytes": 207214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-567.47e4a0c9a957.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 568,
+   "file": "11-1111-568.337aaf906e94.pmtiles",
+   "bytes": 118977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-568.337aaf906e94.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 569,
+   "file": "11-1111-569.f571da87e007.pmtiles",
+   "bytes": 110663,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-569.f571da87e007.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 570,
+   "file": "11-1111-570.7397672b9802.pmtiles",
+   "bytes": 59634,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1111-570.7397672b9802.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 546,
+   "file": "11-1112-546.046fbe89761b.pmtiles",
+   "bytes": 41697,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-546.046fbe89761b.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 547,
+   "file": "11-1112-547.29fa0371f5b2.pmtiles",
+   "bytes": 102163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-547.29fa0371f5b2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 548,
+   "file": "11-1112-548.2e4ec808946f.pmtiles",
+   "bytes": 213609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-548.2e4ec808946f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 549,
+   "file": "11-1112-549.b3fe0d1a8595.pmtiles",
+   "bytes": 93960,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-549.b3fe0d1a8595.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 550,
+   "file": "11-1112-550.4fe594bd3a95.pmtiles",
+   "bytes": 64120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-550.4fe594bd3a95.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 551,
+   "file": "11-1112-551.c0a698193b95.pmtiles",
+   "bytes": 39421,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-551.c0a698193b95.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 552,
+   "file": "11-1112-552.3d828ee543e7.pmtiles",
+   "bytes": 44030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-552.3d828ee543e7.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 553,
+   "file": "11-1112-553.918d258fa3f3.pmtiles",
+   "bytes": 71542,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-553.918d258fa3f3.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 554,
+   "file": "11-1112-554.771c8664ca52.pmtiles",
+   "bytes": 42020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-554.771c8664ca52.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 555,
+   "file": "11-1112-555.2771f9db7cee.pmtiles",
+   "bytes": 61845,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-555.2771f9db7cee.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 556,
+   "file": "11-1112-556.0d7774d59670.pmtiles",
+   "bytes": 133334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-556.0d7774d59670.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 557,
+   "file": "11-1112-557.79893bd38d6f.pmtiles",
+   "bytes": 53490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-557.79893bd38d6f.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 558,
+   "file": "11-1112-558.0a458561f2d5.pmtiles",
+   "bytes": 31742,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-558.0a458561f2d5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 559,
+   "file": "11-1112-559.5321cfc210a2.pmtiles",
+   "bytes": 35568,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-559.5321cfc210a2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 560,
+   "file": "11-1112-560.c541c4e8fec3.pmtiles",
+   "bytes": 73621,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-560.c541c4e8fec3.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 561,
+   "file": "11-1112-561.63d9e7cd8933.pmtiles",
+   "bytes": 49053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-561.63d9e7cd8933.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 562,
+   "file": "11-1112-562.3125949ca345.pmtiles",
+   "bytes": 135177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-562.3125949ca345.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 563,
+   "file": "11-1112-563.8ac4c4ddcac8.pmtiles",
+   "bytes": 175721,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-563.8ac4c4ddcac8.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 564,
+   "file": "11-1112-564.6abfa37c2910.pmtiles",
+   "bytes": 266181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-564.6abfa37c2910.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 565,
+   "file": "11-1112-565.41240276230d.pmtiles",
+   "bytes": 189075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-565.41240276230d.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 566,
+   "file": "11-1112-566.4efe93b85fe1.pmtiles",
+   "bytes": 212752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-566.4efe93b85fe1.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 567,
+   "file": "11-1112-567.52f2700a69e1.pmtiles",
+   "bytes": 211577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-567.52f2700a69e1.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 568,
+   "file": "11-1112-568.0787d9212405.pmtiles",
+   "bytes": 203611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-568.0787d9212405.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 569,
+   "file": "11-1112-569.60bab4d269ba.pmtiles",
+   "bytes": 121970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-569.60bab4d269ba.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 570,
+   "file": "11-1112-570.485f117997cc.pmtiles",
+   "bytes": 38966,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1112-570.485f117997cc.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 546,
+   "file": "11-1113-546.26c3934466bb.pmtiles",
+   "bytes": 39261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-546.26c3934466bb.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 547,
+   "file": "11-1113-547.0107a7ee2d8f.pmtiles",
+   "bytes": 61847,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-547.0107a7ee2d8f.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 548,
+   "file": "11-1113-548.964b2781a0ef.pmtiles",
+   "bytes": 96455,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-548.964b2781a0ef.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 549,
+   "file": "11-1113-549.63606a76812a.pmtiles",
+   "bytes": 67998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-549.63606a76812a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 550,
+   "file": "11-1113-550.bc4e47ab7155.pmtiles",
+   "bytes": 39551,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-550.bc4e47ab7155.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 551,
+   "file": "11-1113-551.27fcdc5999f6.pmtiles",
+   "bytes": 64240,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-551.27fcdc5999f6.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 552,
+   "file": "11-1113-552.a60c2a558267.pmtiles",
+   "bytes": 36342,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-552.a60c2a558267.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 553,
+   "file": "11-1113-553.3471d8a93b9c.pmtiles",
+   "bytes": 42659,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-553.3471d8a93b9c.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 554,
+   "file": "11-1113-554.6408505f7917.pmtiles",
+   "bytes": 53176,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-554.6408505f7917.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 555,
+   "file": "11-1113-555.4792585c71d0.pmtiles",
+   "bytes": 55992,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-555.4792585c71d0.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 556,
+   "file": "11-1113-556.4a8101474ecf.pmtiles",
+   "bytes": 71606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-556.4a8101474ecf.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 557,
+   "file": "11-1113-557.f0b19ae26ac2.pmtiles",
+   "bytes": 72717,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-557.f0b19ae26ac2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 558,
+   "file": "11-1113-558.413af1a2e58a.pmtiles",
+   "bytes": 27230,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-558.413af1a2e58a.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 559,
+   "file": "11-1113-559.e9624335178b.pmtiles",
+   "bytes": 41280,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-559.e9624335178b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 560,
+   "file": "11-1113-560.8a461093e29e.pmtiles",
+   "bytes": 47353,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-560.8a461093e29e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 561,
+   "file": "11-1113-561.b6bb244b3531.pmtiles",
+   "bytes": 39728,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-561.b6bb244b3531.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 562,
+   "file": "11-1113-562.c9d980f11889.pmtiles",
+   "bytes": 105496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-562.c9d980f11889.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 563,
+   "file": "11-1113-563.5bdfe9643d0c.pmtiles",
+   "bytes": 166488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-563.5bdfe9643d0c.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 564,
+   "file": "11-1113-564.2388632f26db.pmtiles",
+   "bytes": 433686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-564.2388632f26db.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 565,
+   "file": "11-1113-565.e916b0d9831c.pmtiles",
+   "bytes": 79932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-565.e916b0d9831c.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 566,
+   "file": "11-1113-566.5ca9c8645925.pmtiles",
+   "bytes": 261959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-566.5ca9c8645925.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 567,
+   "file": "11-1113-567.66775c88c0d3.pmtiles",
+   "bytes": 221850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-567.66775c88c0d3.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 568,
+   "file": "11-1113-568.9b1498e8b954.pmtiles",
+   "bytes": 243037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-568.9b1498e8b954.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 569,
+   "file": "11-1113-569.87b7a3148007.pmtiles",
+   "bytes": 214267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-569.87b7a3148007.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 570,
+   "file": "11-1113-570.631d2e320ea7.pmtiles",
+   "bytes": 40566,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1113-570.631d2e320ea7.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 546,
+   "file": "11-1114-546.ec98c11bab62.pmtiles",
+   "bytes": 77100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-546.ec98c11bab62.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 547,
+   "file": "11-1114-547.dcad8e0b2ff4.pmtiles",
+   "bytes": 28596,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-547.dcad8e0b2ff4.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 548,
+   "file": "11-1114-548.f5ee43beac07.pmtiles",
+   "bytes": 62594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-548.f5ee43beac07.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 549,
+   "file": "11-1114-549.4d7ce773e15e.pmtiles",
+   "bytes": 40194,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-549.4d7ce773e15e.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 550,
+   "file": "11-1114-550.6fd19c09ebcd.pmtiles",
+   "bytes": 66437,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-550.6fd19c09ebcd.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 551,
+   "file": "11-1114-551.f0376fb47148.pmtiles",
+   "bytes": 37870,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-551.f0376fb47148.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 552,
+   "file": "11-1114-552.68e3469e4752.pmtiles",
+   "bytes": 25050,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-552.68e3469e4752.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 553,
+   "file": "11-1114-553.4841b992ce53.pmtiles",
+   "bytes": 55532,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-553.4841b992ce53.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 554,
+   "file": "11-1114-554.ef782a63c20c.pmtiles",
+   "bytes": 31595,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-554.ef782a63c20c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 555,
+   "file": "11-1114-555.606d136c3c7c.pmtiles",
+   "bytes": 50553,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-555.606d136c3c7c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 556,
+   "file": "11-1114-556.f00b53a4e58c.pmtiles",
+   "bytes": 74419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-556.f00b53a4e58c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 557,
+   "file": "11-1114-557.e66e59cc077e.pmtiles",
+   "bytes": 61014,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-557.e66e59cc077e.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 558,
+   "file": "11-1114-558.b4376998512b.pmtiles",
+   "bytes": 35625,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-558.b4376998512b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 559,
+   "file": "11-1114-559.7966f5d32c3d.pmtiles",
+   "bytes": 37426,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-559.7966f5d32c3d.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 560,
+   "file": "11-1114-560.52d9bd34e7be.pmtiles",
+   "bytes": 39047,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-560.52d9bd34e7be.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 561,
+   "file": "11-1114-561.a6f1cacfd20f.pmtiles",
+   "bytes": 34704,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-561.a6f1cacfd20f.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 562,
+   "file": "11-1114-562.d195f067d3d9.pmtiles",
+   "bytes": 276709,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-562.d195f067d3d9.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 563,
+   "file": "11-1114-563.8c9b7541cbbd.pmtiles",
+   "bytes": 230387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-563.8c9b7541cbbd.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 564,
+   "file": "11-1114-564.7d424acfd887.pmtiles",
+   "bytes": 347897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-564.7d424acfd887.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 565,
+   "file": "11-1114-565.b42d917c5011.pmtiles",
+   "bytes": 120535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-565.b42d917c5011.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 566,
+   "file": "11-1114-566.45727a89ba4b.pmtiles",
+   "bytes": 247754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-566.45727a89ba4b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 567,
+   "file": "11-1114-567.0511f0d3f84f.pmtiles",
+   "bytes": 235708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-567.0511f0d3f84f.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 568,
+   "file": "11-1114-568.b1744a68ccfb.pmtiles",
+   "bytes": 197278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-568.b1744a68ccfb.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 569,
+   "file": "11-1114-569.f834495862a3.pmtiles",
+   "bytes": 169098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-569.f834495862a3.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 570,
+   "file": "11-1114-570.f824c5fc3908.pmtiles",
+   "bytes": 60375,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1114-570.f824c5fc3908.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 545,
+   "file": "11-1115-545.cecf50ec1ef3.pmtiles",
+   "bytes": 21454,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-545.cecf50ec1ef3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 546,
+   "file": "11-1115-546.4f63e21b60af.pmtiles",
+   "bytes": 41827,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-546.4f63e21b60af.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 547,
+   "file": "11-1115-547.8e848c503aa5.pmtiles",
+   "bytes": 26829,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-547.8e848c503aa5.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 548,
+   "file": "11-1115-548.aaaf8e965213.pmtiles",
+   "bytes": 40744,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-548.aaaf8e965213.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 549,
+   "file": "11-1115-549.b76a96fc09ff.pmtiles",
+   "bytes": 68124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-549.b76a96fc09ff.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 550,
+   "file": "11-1115-550.f38f95bc7131.pmtiles",
+   "bytes": 68725,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-550.f38f95bc7131.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 551,
+   "file": "11-1115-551.ca9fd41f7034.pmtiles",
+   "bytes": 68250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-551.ca9fd41f7034.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 552,
+   "file": "11-1115-552.d03ea77ec111.pmtiles",
+   "bytes": 59912,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-552.d03ea77ec111.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 553,
+   "file": "11-1115-553.c53e9791193b.pmtiles",
+   "bytes": 41661,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-553.c53e9791193b.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 554,
+   "file": "11-1115-554.4567779b6b57.pmtiles",
+   "bytes": 41538,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-554.4567779b6b57.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 555,
+   "file": "11-1115-555.bd559639058a.pmtiles",
+   "bytes": 48058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-555.bd559639058a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 556,
+   "file": "11-1115-556.cbbc2636074d.pmtiles",
+   "bytes": 85652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-556.cbbc2636074d.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 557,
+   "file": "11-1115-557.2bc9f1a0a203.pmtiles",
+   "bytes": 94395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-557.2bc9f1a0a203.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 558,
+   "file": "11-1115-558.8c7e86425c1e.pmtiles",
+   "bytes": 138677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-558.8c7e86425c1e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 559,
+   "file": "11-1115-559.87da006a6c31.pmtiles",
+   "bytes": 141837,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-559.87da006a6c31.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 560,
+   "file": "11-1115-560.07058eae6070.pmtiles",
+   "bytes": 45265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-560.07058eae6070.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 561,
+   "file": "11-1115-561.af0ad4a784b0.pmtiles",
+   "bytes": 99484,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-561.af0ad4a784b0.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 562,
+   "file": "11-1115-562.fdfaffeb801f.pmtiles",
+   "bytes": 235261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-562.fdfaffeb801f.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 563,
+   "file": "11-1115-563.431a66d511bc.pmtiles",
+   "bytes": 237343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-563.431a66d511bc.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 564,
+   "file": "11-1115-564.af5ef5dca5c9.pmtiles",
+   "bytes": 184668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-564.af5ef5dca5c9.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 565,
+   "file": "11-1115-565.89d03fbcc8b1.pmtiles",
+   "bytes": 272620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-565.89d03fbcc8b1.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 566,
+   "file": "11-1115-566.9baf190bd9e2.pmtiles",
+   "bytes": 157391,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-566.9baf190bd9e2.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 567,
+   "file": "11-1115-567.d5eb7de694c3.pmtiles",
+   "bytes": 230981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-567.d5eb7de694c3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 568,
+   "file": "11-1115-568.c63e36500307.pmtiles",
+   "bytes": 233461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-568.c63e36500307.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 569,
+   "file": "11-1115-569.45d38dfe2ba1.pmtiles",
+   "bytes": 216523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-569.45d38dfe2ba1.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 570,
+   "file": "11-1115-570.3cf4f526f588.pmtiles",
+   "bytes": 60603,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1115-570.3cf4f526f588.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 546,
+   "file": "11-1116-546.8c229935f1ec.pmtiles",
+   "bytes": 53007,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-546.8c229935f1ec.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 547,
+   "file": "11-1116-547.af84292388d2.pmtiles",
+   "bytes": 83045,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-547.af84292388d2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 548,
+   "file": "11-1116-548.741a98f6aeed.pmtiles",
+   "bytes": 39938,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-548.741a98f6aeed.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 549,
+   "file": "11-1116-549.dec095fbe9cf.pmtiles",
+   "bytes": 86092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-549.dec095fbe9cf.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 550,
+   "file": "11-1116-550.4fe0007f8b45.pmtiles",
+   "bytes": 56435,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-550.4fe0007f8b45.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 551,
+   "file": "11-1116-551.0dce3b187067.pmtiles",
+   "bytes": 80936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-551.0dce3b187067.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 552,
+   "file": "11-1116-552.45be50c78f8c.pmtiles",
+   "bytes": 64655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-552.45be50c78f8c.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 553,
+   "file": "11-1116-553.f7a00d34fc9a.pmtiles",
+   "bytes": 66371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-553.f7a00d34fc9a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 554,
+   "file": "11-1116-554.f1f6d587bdb2.pmtiles",
+   "bytes": 52143,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-554.f1f6d587bdb2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 555,
+   "file": "11-1116-555.f8dc26494525.pmtiles",
+   "bytes": 32450,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-555.f8dc26494525.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 556,
+   "file": "11-1116-556.470ec1f3d8b9.pmtiles",
+   "bytes": 105885,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-556.470ec1f3d8b9.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 557,
+   "file": "11-1116-557.1181a2672aee.pmtiles",
+   "bytes": 185458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-557.1181a2672aee.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 558,
+   "file": "11-1116-558.8535e4711eba.pmtiles",
+   "bytes": 186811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-558.8535e4711eba.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 559,
+   "file": "11-1116-559.bc92a649d9d1.pmtiles",
+   "bytes": 156828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-559.bc92a649d9d1.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 560,
+   "file": "11-1116-560.8cf59fd09e6c.pmtiles",
+   "bytes": 204051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-560.8cf59fd09e6c.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 561,
+   "file": "11-1116-561.da6c042b8c88.pmtiles",
+   "bytes": 197577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-561.da6c042b8c88.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 562,
+   "file": "11-1116-562.02ce2183cb42.pmtiles",
+   "bytes": 182219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-562.02ce2183cb42.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 563,
+   "file": "11-1116-563.a32ea9f2f436.pmtiles",
+   "bytes": 235098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-563.a32ea9f2f436.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 564,
+   "file": "11-1116-564.8a3d0ea87c25.pmtiles",
+   "bytes": 220801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-564.8a3d0ea87c25.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 565,
+   "file": "11-1116-565.84b8104e10a4.pmtiles",
+   "bytes": 379985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-565.84b8104e10a4.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 566,
+   "file": "11-1116-566.36593b86ddaf.pmtiles",
+   "bytes": 166147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-566.36593b86ddaf.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 567,
+   "file": "11-1116-567.8971fba9d950.pmtiles",
+   "bytes": 251196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-567.8971fba9d950.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 568,
+   "file": "11-1116-568.a31af510bc8f.pmtiles",
+   "bytes": 240251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-568.a31af510bc8f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 569,
+   "file": "11-1116-569.eb39ae017a54.pmtiles",
+   "bytes": 160733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-569.eb39ae017a54.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 570,
+   "file": "11-1116-570.10ec18fb32e6.pmtiles",
+   "bytes": 47546,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1116-570.10ec18fb32e6.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 546,
+   "file": "11-1117-546.afa96cae2390.pmtiles",
+   "bytes": 79030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-546.afa96cae2390.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 547,
+   "file": "11-1117-547.fd551c74765a.pmtiles",
+   "bytes": 71051,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-547.fd551c74765a.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 548,
+   "file": "11-1117-548.b0639afe41a4.pmtiles",
+   "bytes": 95601,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-548.b0639afe41a4.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 549,
+   "file": "11-1117-549.b572a278bce6.pmtiles",
+   "bytes": 36899,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-549.b572a278bce6.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 550,
+   "file": "11-1117-550.4d234732ac86.pmtiles",
+   "bytes": 55316,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-550.4d234732ac86.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 551,
+   "file": "11-1117-551.19e09ee3f53b.pmtiles",
+   "bytes": 73306,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-551.19e09ee3f53b.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 552,
+   "file": "11-1117-552.d08aef11c502.pmtiles",
+   "bytes": 100167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-552.d08aef11c502.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 553,
+   "file": "11-1117-553.232db16edb7c.pmtiles",
+   "bytes": 63464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-553.232db16edb7c.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 554,
+   "file": "11-1117-554.1a6801c4d2ff.pmtiles",
+   "bytes": 56953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-554.1a6801c4d2ff.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 555,
+   "file": "11-1117-555.2d84832ba1c5.pmtiles",
+   "bytes": 49812,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-555.2d84832ba1c5.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 556,
+   "file": "11-1117-556.e4c40b969cab.pmtiles",
+   "bytes": 77406,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-556.e4c40b969cab.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 557,
+   "file": "11-1117-557.64048101ee02.pmtiles",
+   "bytes": 180172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-557.64048101ee02.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 558,
+   "file": "11-1117-558.b578d86d4ede.pmtiles",
+   "bytes": 210805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-558.b578d86d4ede.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 559,
+   "file": "11-1117-559.9ea59b0d3690.pmtiles",
+   "bytes": 174129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-559.9ea59b0d3690.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 560,
+   "file": "11-1117-560.b452917974e2.pmtiles",
+   "bytes": 200062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-560.b452917974e2.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 561,
+   "file": "11-1117-561.5840a708bef9.pmtiles",
+   "bytes": 256217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-561.5840a708bef9.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 562,
+   "file": "11-1117-562.fdc6eb0fd939.pmtiles",
+   "bytes": 194869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-562.fdc6eb0fd939.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 563,
+   "file": "11-1117-563.9e3c81f631bc.pmtiles",
+   "bytes": 188684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-563.9e3c81f631bc.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 564,
+   "file": "11-1117-564.38c657e90f0f.pmtiles",
+   "bytes": 152060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-564.38c657e90f0f.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 565,
+   "file": "11-1117-565.6b1629d0ccb8.pmtiles",
+   "bytes": 318807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-565.6b1629d0ccb8.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 566,
+   "file": "11-1117-566.01f3e1db35d2.pmtiles",
+   "bytes": 299782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-566.01f3e1db35d2.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 567,
+   "file": "11-1117-567.6ae30e378969.pmtiles",
+   "bytes": 248969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-567.6ae30e378969.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 568,
+   "file": "11-1117-568.c03746372650.pmtiles",
+   "bytes": 194881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-568.c03746372650.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 569,
+   "file": "11-1117-569.624460d3ca5e.pmtiles",
+   "bytes": 119403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-569.624460d3ca5e.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 570,
+   "file": "11-1117-570.4313b43bc58f.pmtiles",
+   "bytes": 27286,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1117-570.4313b43bc58f.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 546,
+   "file": "11-1118-546.8e6da52806e2.pmtiles",
+   "bytes": 32968,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-546.8e6da52806e2.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 547,
+   "file": "11-1118-547.21b62e6e0d9c.pmtiles",
+   "bytes": 55313,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-547.21b62e6e0d9c.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 548,
+   "file": "11-1118-548.f8ab81a27abd.pmtiles",
+   "bytes": 67551,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-548.f8ab81a27abd.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 549,
+   "file": "11-1118-549.112e84b9ce4e.pmtiles",
+   "bytes": 70551,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-549.112e84b9ce4e.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 550,
+   "file": "11-1118-550.1764910673bd.pmtiles",
+   "bytes": 52499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-550.1764910673bd.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 551,
+   "file": "11-1118-551.8111107ac2cc.pmtiles",
+   "bytes": 65690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-551.8111107ac2cc.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 552,
+   "file": "11-1118-552.200d70003601.pmtiles",
+   "bytes": 59157,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-552.200d70003601.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 553,
+   "file": "11-1118-553.a9561c79a2f4.pmtiles",
+   "bytes": 102004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-553.a9561c79a2f4.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 554,
+   "file": "11-1118-554.f4ee837a9cdc.pmtiles",
+   "bytes": 103592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-554.f4ee837a9cdc.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 555,
+   "file": "11-1118-555.265d624ffb06.pmtiles",
+   "bytes": 68036,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-555.265d624ffb06.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 556,
+   "file": "11-1118-556.15be75165fb5.pmtiles",
+   "bytes": 174899,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-556.15be75165fb5.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 557,
+   "file": "11-1118-557.d43abd5d2250.pmtiles",
+   "bytes": 180179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-557.d43abd5d2250.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 558,
+   "file": "11-1118-558.4b00ece43d18.pmtiles",
+   "bytes": 241402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-558.4b00ece43d18.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 559,
+   "file": "11-1118-559.37e5ffc87d92.pmtiles",
+   "bytes": 167546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-559.37e5ffc87d92.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 560,
+   "file": "11-1118-560.b9252e883eb0.pmtiles",
+   "bytes": 223369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-560.b9252e883eb0.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 561,
+   "file": "11-1118-561.96bcabdaeb40.pmtiles",
+   "bytes": 221761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-561.96bcabdaeb40.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 562,
+   "file": "11-1118-562.129547c07d52.pmtiles",
+   "bytes": 174186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-562.129547c07d52.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 563,
+   "file": "11-1118-563.db71fb351617.pmtiles",
+   "bytes": 222508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-563.db71fb351617.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 564,
+   "file": "11-1118-564.01069e140bfd.pmtiles",
+   "bytes": 227458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-564.01069e140bfd.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 565,
+   "file": "11-1118-565.fbd3b2c1887c.pmtiles",
+   "bytes": 139428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-565.fbd3b2c1887c.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 566,
+   "file": "11-1118-566.7fa40ed477a4.pmtiles",
+   "bytes": 460843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-566.7fa40ed477a4.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 567,
+   "file": "11-1118-567.ef2ea0b95bf9.pmtiles",
+   "bytes": 189851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-567.ef2ea0b95bf9.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 568,
+   "file": "11-1118-568.469d40c70de1.pmtiles",
+   "bytes": 152283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-568.469d40c70de1.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 569,
+   "file": "11-1118-569.b34644bc6ca7.pmtiles",
+   "bytes": 175381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-569.b34644bc6ca7.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 570,
+   "file": "11-1118-570.44103a737480.pmtiles",
+   "bytes": 42934,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1118-570.44103a737480.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 546,
+   "file": "11-1119-546.da8968ce05ff.pmtiles",
+   "bytes": 81098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-546.da8968ce05ff.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 547,
+   "file": "11-1119-547.64b384af23d8.pmtiles",
+   "bytes": 85376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-547.64b384af23d8.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 548,
+   "file": "11-1119-548.9220046463bf.pmtiles",
+   "bytes": 79853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-548.9220046463bf.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 549,
+   "file": "11-1119-549.b958b2d2e9b8.pmtiles",
+   "bytes": 70752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-549.b958b2d2e9b8.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 550,
+   "file": "11-1119-550.8eba6e046adb.pmtiles",
+   "bytes": 95699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-550.8eba6e046adb.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 551,
+   "file": "11-1119-551.c6850e6bde00.pmtiles",
+   "bytes": 74161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-551.c6850e6bde00.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 552,
+   "file": "11-1119-552.4887d377ff43.pmtiles",
+   "bytes": 137894,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-552.4887d377ff43.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 553,
+   "file": "11-1119-553.973c6a41cb2a.pmtiles",
+   "bytes": 226874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-553.973c6a41cb2a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 554,
+   "file": "11-1119-554.d068b07e5921.pmtiles",
+   "bytes": 171432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-554.d068b07e5921.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 555,
+   "file": "11-1119-555.8aaaa3d3f7fc.pmtiles",
+   "bytes": 159018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-555.8aaaa3d3f7fc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 556,
+   "file": "11-1119-556.acad6c16dc25.pmtiles",
+   "bytes": 159791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-556.acad6c16dc25.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 557,
+   "file": "11-1119-557.38dba1240f86.pmtiles",
+   "bytes": 167104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-557.38dba1240f86.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 558,
+   "file": "11-1119-558.04028dca0a88.pmtiles",
+   "bytes": 120771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-558.04028dca0a88.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 559,
+   "file": "11-1119-559.ebe739b4e759.pmtiles",
+   "bytes": 64178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-559.ebe739b4e759.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 560,
+   "file": "11-1119-560.4f5b992ad20a.pmtiles",
+   "bytes": 70460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-560.4f5b992ad20a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 561,
+   "file": "11-1119-561.c12c2b089482.pmtiles",
+   "bytes": 116317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-561.c12c2b089482.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 562,
+   "file": "11-1119-562.3a0d143cb8d2.pmtiles",
+   "bytes": 256288,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-562.3a0d143cb8d2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 563,
+   "file": "11-1119-563.5a1e2f810fb2.pmtiles",
+   "bytes": 266111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-563.5a1e2f810fb2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 564,
+   "file": "11-1119-564.20c5b3c53976.pmtiles",
+   "bytes": 221153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-564.20c5b3c53976.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 565,
+   "file": "11-1119-565.97375f659862.pmtiles",
+   "bytes": 198235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-565.97375f659862.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 566,
+   "file": "11-1119-566.b0c6f4517b17.pmtiles",
+   "bytes": 267998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-566.b0c6f4517b17.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 567,
+   "file": "11-1119-567.01cc89d1f13e.pmtiles",
+   "bytes": 182199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-567.01cc89d1f13e.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 568,
+   "file": "11-1119-568.9272065f241a.pmtiles",
+   "bytes": 279222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-568.9272065f241a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 569,
+   "file": "11-1119-569.4965a2b7678e.pmtiles",
+   "bytes": 211298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-569.4965a2b7678e.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 570,
+   "file": "11-1119-570.a4d46433f108.pmtiles",
+   "bytes": 102167,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1119-570.a4d46433f108.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 546,
+   "file": "11-1120-546.a5795de1b422.pmtiles",
+   "bytes": 93370,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-546.a5795de1b422.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 547,
+   "file": "11-1120-547.01195282f9b1.pmtiles",
+   "bytes": 85413,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-547.01195282f9b1.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 548,
+   "file": "11-1120-548.e2a8796ec5f2.pmtiles",
+   "bytes": 50016,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-548.e2a8796ec5f2.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 549,
+   "file": "11-1120-549.b25491d2bab3.pmtiles",
+   "bytes": 63025,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-549.b25491d2bab3.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 550,
+   "file": "11-1120-550.12fe5c9eacfb.pmtiles",
+   "bytes": 92006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-550.12fe5c9eacfb.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 551,
+   "file": "11-1120-551.9cb26db50d71.pmtiles",
+   "bytes": 59198,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-551.9cb26db50d71.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 552,
+   "file": "11-1120-552.346df3a47492.pmtiles",
+   "bytes": 88198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-552.346df3a47492.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 553,
+   "file": "11-1120-553.65020656fef1.pmtiles",
+   "bytes": 224200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-553.65020656fef1.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 554,
+   "file": "11-1120-554.647a95827429.pmtiles",
+   "bytes": 214194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-554.647a95827429.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 555,
+   "file": "11-1120-555.b283d7d667c8.pmtiles",
+   "bytes": 119342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-555.b283d7d667c8.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 556,
+   "file": "11-1120-556.e63c05465c29.pmtiles",
+   "bytes": 187069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-556.e63c05465c29.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 557,
+   "file": "11-1120-557.44a51a7c50be.pmtiles",
+   "bytes": 151415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-557.44a51a7c50be.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 558,
+   "file": "11-1120-558.188da7c12c61.pmtiles",
+   "bytes": 113583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-558.188da7c12c61.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 559,
+   "file": "11-1120-559.e44d1c1ef192.pmtiles",
+   "bytes": 51922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-559.e44d1c1ef192.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 560,
+   "file": "11-1120-560.639a3a75634f.pmtiles",
+   "bytes": 68098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-560.639a3a75634f.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 561,
+   "file": "11-1120-561.8bfeb229d8e2.pmtiles",
+   "bytes": 76947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-561.8bfeb229d8e2.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 562,
+   "file": "11-1120-562.d9f6df43fc28.pmtiles",
+   "bytes": 79004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-562.d9f6df43fc28.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 563,
+   "file": "11-1120-563.7d266a3b3cfb.pmtiles",
+   "bytes": 228699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-563.7d266a3b3cfb.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 564,
+   "file": "11-1120-564.b6026875005b.pmtiles",
+   "bytes": 266739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-564.b6026875005b.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 565,
+   "file": "11-1120-565.91ab9be5d9c5.pmtiles",
+   "bytes": 225976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-565.91ab9be5d9c5.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 566,
+   "file": "11-1120-566.dcf0e0b8a581.pmtiles",
+   "bytes": 395990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-566.dcf0e0b8a581.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 567,
+   "file": "11-1120-567.82cc20524012.pmtiles",
+   "bytes": 555438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-567.82cc20524012.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 568,
+   "file": "11-1120-568.49330d791bbd.pmtiles",
+   "bytes": 255970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-568.49330d791bbd.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 569,
+   "file": "11-1120-569.6495b91c7305.pmtiles",
+   "bytes": 188593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-569.6495b91c7305.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 570,
+   "file": "11-1120-570.5694f8544410.pmtiles",
+   "bytes": 51035,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1120-570.5694f8544410.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 546,
+   "file": "11-1121-546.aa7ebfa23f1a.pmtiles",
+   "bytes": 54831,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-546.aa7ebfa23f1a.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 547,
+   "file": "11-1121-547.85920673cb14.pmtiles",
+   "bytes": 55358,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-547.85920673cb14.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 548,
+   "file": "11-1121-548.6b1176ca3a3f.pmtiles",
+   "bytes": 53991,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-548.6b1176ca3a3f.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 549,
+   "file": "11-1121-549.2f775660890f.pmtiles",
+   "bytes": 46876,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-549.2f775660890f.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 550,
+   "file": "11-1121-550.d3c8237c4c91.pmtiles",
+   "bytes": 50272,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-550.d3c8237c4c91.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 551,
+   "file": "11-1121-551.854130100152.pmtiles",
+   "bytes": 57203,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-551.854130100152.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 552,
+   "file": "11-1121-552.5036ed34b400.pmtiles",
+   "bytes": 60693,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-552.5036ed34b400.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 553,
+   "file": "11-1121-553.16f839d43130.pmtiles",
+   "bytes": 128144,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-553.16f839d43130.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 554,
+   "file": "11-1121-554.b3a141b5e883.pmtiles",
+   "bytes": 207170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-554.b3a141b5e883.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 555,
+   "file": "11-1121-555.a4afa4000e74.pmtiles",
+   "bytes": 194089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-555.a4afa4000e74.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 556,
+   "file": "11-1121-556.cd1c10e520e0.pmtiles",
+   "bytes": 216724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-556.cd1c10e520e0.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 557,
+   "file": "11-1121-557.e4d42130a7e1.pmtiles",
+   "bytes": 94157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-557.e4d42130a7e1.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 558,
+   "file": "11-1121-558.6b9d0ae2c73c.pmtiles",
+   "bytes": 81590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-558.6b9d0ae2c73c.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 559,
+   "file": "11-1121-559.72aeda48c2e0.pmtiles",
+   "bytes": 87273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-559.72aeda48c2e0.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 560,
+   "file": "11-1121-560.ce723a384667.pmtiles",
+   "bytes": 74393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-560.ce723a384667.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 561,
+   "file": "11-1121-561.c1b6cd9242e0.pmtiles",
+   "bytes": 42966,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-561.c1b6cd9242e0.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 562,
+   "file": "11-1121-562.0fe42c889480.pmtiles",
+   "bytes": 65379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-562.0fe42c889480.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 563,
+   "file": "11-1121-563.a308f8ec734c.pmtiles",
+   "bytes": 95961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-563.a308f8ec734c.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 564,
+   "file": "11-1121-564.ad9bc1ae048b.pmtiles",
+   "bytes": 448896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-564.ad9bc1ae048b.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 565,
+   "file": "11-1121-565.b5790226106b.pmtiles",
+   "bytes": 508034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-565.b5790226106b.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 566,
+   "file": "11-1121-566.2e2ae80f369d.pmtiles",
+   "bytes": 501300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-566.2e2ae80f369d.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 567,
+   "file": "11-1121-567.ac40e573c4e1.pmtiles",
+   "bytes": 443148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-567.ac40e573c4e1.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 568,
+   "file": "11-1121-568.301134382cd8.pmtiles",
+   "bytes": 254726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-568.301134382cd8.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 569,
+   "file": "11-1121-569.90186340aafd.pmtiles",
+   "bytes": 234917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-569.90186340aafd.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 570,
+   "file": "11-1121-570.24a0cb5f1dc3.pmtiles",
+   "bytes": 64356,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1121-570.24a0cb5f1dc3.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 546,
+   "file": "11-1122-546.cb253278c442.pmtiles",
+   "bytes": 31834,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-546.cb253278c442.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 547,
+   "file": "11-1122-547.aa655129d462.pmtiles",
+   "bytes": 41281,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-547.aa655129d462.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 548,
+   "file": "11-1122-548.fb6add9c8798.pmtiles",
+   "bytes": 42799,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-548.fb6add9c8798.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 549,
+   "file": "11-1122-549.a31478496620.pmtiles",
+   "bytes": 29483,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-549.a31478496620.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 550,
+   "file": "11-1122-550.953ed2751c17.pmtiles",
+   "bytes": 34693,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-550.953ed2751c17.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 551,
+   "file": "11-1122-551.19d92a03329b.pmtiles",
+   "bytes": 39535,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-551.19d92a03329b.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 552,
+   "file": "11-1122-552.37ac90ddc532.pmtiles",
+   "bytes": 54056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-552.37ac90ddc532.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 553,
+   "file": "11-1122-553.304f850ff33f.pmtiles",
+   "bytes": 101287,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-553.304f850ff33f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 554,
+   "file": "11-1122-554.68a6c77e3837.pmtiles",
+   "bytes": 208659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-554.68a6c77e3837.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 555,
+   "file": "11-1122-555.48cbc6831608.pmtiles",
+   "bytes": 175573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-555.48cbc6831608.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 556,
+   "file": "11-1122-556.d90e9ad7f26f.pmtiles",
+   "bytes": 270562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-556.d90e9ad7f26f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 557,
+   "file": "11-1122-557.0d3ad9eaf5c5.pmtiles",
+   "bytes": 103217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-557.0d3ad9eaf5c5.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 558,
+   "file": "11-1122-558.55cf3319bbe0.pmtiles",
+   "bytes": 80140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-558.55cf3319bbe0.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 559,
+   "file": "11-1122-559.a75cb65995fc.pmtiles",
+   "bytes": 80456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-559.a75cb65995fc.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 560,
+   "file": "11-1122-560.20e83b0794dc.pmtiles",
+   "bytes": 93272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-560.20e83b0794dc.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 561,
+   "file": "11-1122-561.8ca4908712aa.pmtiles",
+   "bytes": 94514,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-561.8ca4908712aa.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 562,
+   "file": "11-1122-562.04215bb97905.pmtiles",
+   "bytes": 55098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-562.04215bb97905.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 563,
+   "file": "11-1122-563.7a7dceeea530.pmtiles",
+   "bytes": 140601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-563.7a7dceeea530.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 564,
+   "file": "11-1122-564.68c0137b20ac.pmtiles",
+   "bytes": 347117,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-564.68c0137b20ac.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 565,
+   "file": "11-1122-565.df89cf932337.pmtiles",
+   "bytes": 947069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-565.df89cf932337.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 566,
+   "file": "11-1122-566.054ac10f6cdf.pmtiles",
+   "bytes": 1551036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-566.054ac10f6cdf.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 567,
+   "file": "11-1122-567.c84a12559733.pmtiles",
+   "bytes": 663491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-567.c84a12559733.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 568,
+   "file": "11-1122-568.13075d9e84cb.pmtiles",
+   "bytes": 517353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-568.13075d9e84cb.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 569,
+   "file": "11-1122-569.5dfaaf12ce4e.pmtiles",
+   "bytes": 257659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-569.5dfaaf12ce4e.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 570,
+   "file": "11-1122-570.0436b91ae6f1.pmtiles",
+   "bytes": 90319,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1122-570.0436b91ae6f1.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 546,
+   "file": "11-1123-546.e9f4a3d9d8e9.pmtiles",
+   "bytes": 23698,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-546.e9f4a3d9d8e9.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 547,
+   "file": "11-1123-547.75c8ba41cb29.pmtiles",
+   "bytes": 54182,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-547.75c8ba41cb29.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 548,
+   "file": "11-1123-548.2a215151543b.pmtiles",
+   "bytes": 37716,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-548.2a215151543b.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 549,
+   "file": "11-1123-549.ea08efe6cac0.pmtiles",
+   "bytes": 57381,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-549.ea08efe6cac0.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 550,
+   "file": "11-1123-550.d74d9297fe1c.pmtiles",
+   "bytes": 42271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-550.d74d9297fe1c.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 551,
+   "file": "11-1123-551.7b622286b0fa.pmtiles",
+   "bytes": 35035,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-551.7b622286b0fa.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 552,
+   "file": "11-1123-552.edec2712bb8b.pmtiles",
+   "bytes": 60112,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-552.edec2712bb8b.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 553,
+   "file": "11-1123-553.206a803698a3.pmtiles",
+   "bytes": 190956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-553.206a803698a3.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 554,
+   "file": "11-1123-554.bfdb7a44dc36.pmtiles",
+   "bytes": 205039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-554.bfdb7a44dc36.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 555,
+   "file": "11-1123-555.6b826216c18a.pmtiles",
+   "bytes": 158388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-555.6b826216c18a.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 556,
+   "file": "11-1123-556.649325442b0c.pmtiles",
+   "bytes": 141597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-556.649325442b0c.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 557,
+   "file": "11-1123-557.d3f3ec09010b.pmtiles",
+   "bytes": 82712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-557.d3f3ec09010b.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 558,
+   "file": "11-1123-558.dd0b29c0d03b.pmtiles",
+   "bytes": 115626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-558.dd0b29c0d03b.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 559,
+   "file": "11-1123-559.68fe40842b69.pmtiles",
+   "bytes": 84782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-559.68fe40842b69.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 560,
+   "file": "11-1123-560.95f8d61d9417.pmtiles",
+   "bytes": 94779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-560.95f8d61d9417.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 561,
+   "file": "11-1123-561.726a6c9a8dd6.pmtiles",
+   "bytes": 101528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-561.726a6c9a8dd6.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 562,
+   "file": "11-1123-562.23b073e50a52.pmtiles",
+   "bytes": 114569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-562.23b073e50a52.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 563,
+   "file": "11-1123-563.3792fe429cf2.pmtiles",
+   "bytes": 80171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-563.3792fe429cf2.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 564,
+   "file": "11-1123-564.943dcb6ed0c1.pmtiles",
+   "bytes": 386098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-564.943dcb6ed0c1.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 565,
+   "file": "11-1123-565.4f37992ed218.pmtiles",
+   "bytes": 571670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-565.4f37992ed218.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 566,
+   "file": "11-1123-566.0677a6d959a4.pmtiles",
+   "bytes": 523526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-566.0677a6d959a4.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 567,
+   "file": "11-1123-567.9211af13acf0.pmtiles",
+   "bytes": 265886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-567.9211af13acf0.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 568,
+   "file": "11-1123-568.685dfd9e2dca.pmtiles",
+   "bytes": 347615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-568.685dfd9e2dca.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 569,
+   "file": "11-1123-569.9501cc161336.pmtiles",
+   "bytes": 223482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-569.9501cc161336.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 570,
+   "file": "11-1123-570.1816761a0115.pmtiles",
+   "bytes": 49647,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1123-570.1816761a0115.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 546,
+   "file": "11-1124-546.2718503fa23b.pmtiles",
+   "bytes": 22149,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-546.2718503fa23b.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 547,
+   "file": "11-1124-547.68730577f33b.pmtiles",
+   "bytes": 43997,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-547.68730577f33b.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 548,
+   "file": "11-1124-548.30c5c9794056.pmtiles",
+   "bytes": 52740,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-548.30c5c9794056.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 549,
+   "file": "11-1124-549.2b4d14347476.pmtiles",
+   "bytes": 50030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-549.2b4d14347476.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 550,
+   "file": "11-1124-550.aec1a4d52565.pmtiles",
+   "bytes": 52377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-550.aec1a4d52565.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 551,
+   "file": "11-1124-551.f3f26623e965.pmtiles",
+   "bytes": 76638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-551.f3f26623e965.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 552,
+   "file": "11-1124-552.ecbeb9448115.pmtiles",
+   "bytes": 147194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-552.ecbeb9448115.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 553,
+   "file": "11-1124-553.7921aed768ee.pmtiles",
+   "bytes": 191643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-553.7921aed768ee.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 554,
+   "file": "11-1124-554.91a49de91503.pmtiles",
+   "bytes": 240524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-554.91a49de91503.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 555,
+   "file": "11-1124-555.af8222152524.pmtiles",
+   "bytes": 152082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-555.af8222152524.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 556,
+   "file": "11-1124-556.b7be0680d3ce.pmtiles",
+   "bytes": 134904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-556.b7be0680d3ce.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 557,
+   "file": "11-1124-557.f69846b3cc26.pmtiles",
+   "bytes": 140415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-557.f69846b3cc26.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 558,
+   "file": "11-1124-558.2fa19ce09cce.pmtiles",
+   "bytes": 224052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-558.2fa19ce09cce.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 559,
+   "file": "11-1124-559.86028cfefc97.pmtiles",
+   "bytes": 201731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-559.86028cfefc97.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 560,
+   "file": "11-1124-560.8db6ff7d88cd.pmtiles",
+   "bytes": 104044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-560.8db6ff7d88cd.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 561,
+   "file": "11-1124-561.356792e449a1.pmtiles",
+   "bytes": 92556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-561.356792e449a1.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 562,
+   "file": "11-1124-562.64830e1e1217.pmtiles",
+   "bytes": 100148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-562.64830e1e1217.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 563,
+   "file": "11-1124-563.483f5780ea1d.pmtiles",
+   "bytes": 243859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-563.483f5780ea1d.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 564,
+   "file": "11-1124-564.affa1f166ec4.pmtiles",
+   "bytes": 396694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-564.affa1f166ec4.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 565,
+   "file": "11-1124-565.b0023ddf5c38.pmtiles",
+   "bytes": 229380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-565.b0023ddf5c38.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 566,
+   "file": "11-1124-566.f5140288afcd.pmtiles",
+   "bytes": 142007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-566.f5140288afcd.pmtiles"
+  },
+  {
+   "x": 1124,
+   "y": 568,
+   "file": "11-1124-568.4bc7707c4ac2.pmtiles",
+   "bytes": 152828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1124-568.4bc7707c4ac2.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 546,
+   "file": "11-1125-546.27e7014e88d0.pmtiles",
+   "bytes": 31397,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-546.27e7014e88d0.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 547,
+   "file": "11-1125-547.1a492428d8c5.pmtiles",
+   "bytes": 31261,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-547.1a492428d8c5.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 548,
+   "file": "11-1125-548.fb7d39ba57c9.pmtiles",
+   "bytes": 35669,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-548.fb7d39ba57c9.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 549,
+   "file": "11-1125-549.18fd2ea838c1.pmtiles",
+   "bytes": 41307,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-549.18fd2ea838c1.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 550,
+   "file": "11-1125-550.31e64c7c6b3e.pmtiles",
+   "bytes": 56527,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-550.31e64c7c6b3e.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 551,
+   "file": "11-1125-551.ed21ec74b791.pmtiles",
+   "bytes": 62401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-551.ed21ec74b791.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 552,
+   "file": "11-1125-552.c72479563a0a.pmtiles",
+   "bytes": 95057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-552.c72479563a0a.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 553,
+   "file": "11-1125-553.cd5b3e3cb602.pmtiles",
+   "bytes": 177132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-553.cd5b3e3cb602.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 554,
+   "file": "11-1125-554.6e5da0b0f963.pmtiles",
+   "bytes": 238750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-554.6e5da0b0f963.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 555,
+   "file": "11-1125-555.570768cca587.pmtiles",
+   "bytes": 165946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-555.570768cca587.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 556,
+   "file": "11-1125-556.fd679e2ecbc9.pmtiles",
+   "bytes": 139515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-556.fd679e2ecbc9.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 557,
+   "file": "11-1125-557.a1c47b45fb20.pmtiles",
+   "bytes": 133020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-557.a1c47b45fb20.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 558,
+   "file": "11-1125-558.1feb9ad2922c.pmtiles",
+   "bytes": 225274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-558.1feb9ad2922c.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 559,
+   "file": "11-1125-559.c2de01df0ad6.pmtiles",
+   "bytes": 312207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-559.c2de01df0ad6.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 560,
+   "file": "11-1125-560.bdda7f0c9fca.pmtiles",
+   "bytes": 236337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-560.bdda7f0c9fca.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 561,
+   "file": "11-1125-561.40e009a93079.pmtiles",
+   "bytes": 184578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-561.40e009a93079.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 562,
+   "file": "11-1125-562.cc756f822c73.pmtiles",
+   "bytes": 179829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-562.cc756f822c73.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 563,
+   "file": "11-1125-563.7fddb1e10bd8.pmtiles",
+   "bytes": 438424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-563.7fddb1e10bd8.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 564,
+   "file": "11-1125-564.312aa575adda.pmtiles",
+   "bytes": 370637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-564.312aa575adda.pmtiles"
+  },
+  {
+   "x": 1125,
+   "y": 565,
+   "file": "11-1125-565.65fec7d38513.pmtiles",
+   "bytes": 43017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1125-565.65fec7d38513.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 546,
+   "file": "11-1126-546.ea4401536d6d.pmtiles",
+   "bytes": 73511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-546.ea4401536d6d.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 547,
+   "file": "11-1126-547.c32032dff3f0.pmtiles",
+   "bytes": 37173,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-547.c32032dff3f0.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 548,
+   "file": "11-1126-548.b4b0716e34f7.pmtiles",
+   "bytes": 43774,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-548.b4b0716e34f7.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 549,
+   "file": "11-1126-549.5b4b38d95864.pmtiles",
+   "bytes": 39527,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-549.5b4b38d95864.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 550,
+   "file": "11-1126-550.85da85d929b8.pmtiles",
+   "bytes": 31689,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-550.85da85d929b8.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 551,
+   "file": "11-1126-551.9e4c11e37db8.pmtiles",
+   "bytes": 42557,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-551.9e4c11e37db8.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 552,
+   "file": "11-1126-552.d842bc67aa76.pmtiles",
+   "bytes": 91541,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-552.d842bc67aa76.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 553,
+   "file": "11-1126-553.46638c29eb6b.pmtiles",
+   "bytes": 175777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-553.46638c29eb6b.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 554,
+   "file": "11-1126-554.52aa17c190c9.pmtiles",
+   "bytes": 127859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-554.52aa17c190c9.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 555,
+   "file": "11-1126-555.3c2f6635fcd6.pmtiles",
+   "bytes": 168265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-555.3c2f6635fcd6.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 556,
+   "file": "11-1126-556.b2514de2f8e1.pmtiles",
+   "bytes": 117380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-556.b2514de2f8e1.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 557,
+   "file": "11-1126-557.134cdde411cb.pmtiles",
+   "bytes": 97314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-557.134cdde411cb.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 558,
+   "file": "11-1126-558.23f7cd08b5e0.pmtiles",
+   "bytes": 130704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-558.23f7cd08b5e0.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 559,
+   "file": "11-1126-559.0b625d7a778d.pmtiles",
+   "bytes": 174525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-559.0b625d7a778d.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 560,
+   "file": "11-1126-560.068b2b5ca526.pmtiles",
+   "bytes": 268824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-560.068b2b5ca526.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 561,
+   "file": "11-1126-561.fd8945e797a8.pmtiles",
+   "bytes": 165177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-561.fd8945e797a8.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 562,
+   "file": "11-1126-562.6ae43fd6201c.pmtiles",
+   "bytes": 118429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-562.6ae43fd6201c.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 563,
+   "file": "11-1126-563.4e6d39b9977d.pmtiles",
+   "bytes": 423782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-563.4e6d39b9977d.pmtiles"
+  },
+  {
+   "x": 1126,
+   "y": 564,
+   "file": "11-1126-564.89e2172f959c.pmtiles",
+   "bytes": 64980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1126-564.89e2172f959c.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 546,
+   "file": "11-1127-546.6c106e64d827.pmtiles",
+   "bytes": 24633,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-546.6c106e64d827.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 547,
+   "file": "11-1127-547.99067e622384.pmtiles",
+   "bytes": 30433,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-547.99067e622384.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 548,
+   "file": "11-1127-548.abcf3c5bafee.pmtiles",
+   "bytes": 36801,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-548.abcf3c5bafee.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 549,
+   "file": "11-1127-549.b24ac52a5a5a.pmtiles",
+   "bytes": 48094,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-549.b24ac52a5a5a.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 550,
+   "file": "11-1127-550.ffcdb503140a.pmtiles",
+   "bytes": 40181,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-550.ffcdb503140a.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 551,
+   "file": "11-1127-551.0f39a891a50b.pmtiles",
+   "bytes": 31151,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-551.0f39a891a50b.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 552,
+   "file": "11-1127-552.dd62fc8e66a6.pmtiles",
+   "bytes": 50180,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-552.dd62fc8e66a6.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 553,
+   "file": "11-1127-553.17a2c3107192.pmtiles",
+   "bytes": 181182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-553.17a2c3107192.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 554,
+   "file": "11-1127-554.73689eded069.pmtiles",
+   "bytes": 143552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-554.73689eded069.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 555,
+   "file": "11-1127-555.f42af02a3981.pmtiles",
+   "bytes": 163478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-555.f42af02a3981.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 556,
+   "file": "11-1127-556.cee30a7ac19c.pmtiles",
+   "bytes": 137464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-556.cee30a7ac19c.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 557,
+   "file": "11-1127-557.a0149e8cd583.pmtiles",
+   "bytes": 164720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-557.a0149e8cd583.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 558,
+   "file": "11-1127-558.0fe6f1eedd8f.pmtiles",
+   "bytes": 204674,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-558.0fe6f1eedd8f.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 559,
+   "file": "11-1127-559.1e1f15c3f60e.pmtiles",
+   "bytes": 185998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-559.1e1f15c3f60e.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 560,
+   "file": "11-1127-560.b3029514d4e3.pmtiles",
+   "bytes": 153906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-560.b3029514d4e3.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 561,
+   "file": "11-1127-561.3dc423dae447.pmtiles",
+   "bytes": 117839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-561.3dc423dae447.pmtiles"
+  },
+  {
+   "x": 1127,
+   "y": 562,
+   "file": "11-1127-562.ce018407bfba.pmtiles",
+   "bytes": 42001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1127-562.ce018407bfba.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 546,
+   "file": "11-1128-546.33bec9125e0c.pmtiles",
+   "bytes": 40842,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-546.33bec9125e0c.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 547,
+   "file": "11-1128-547.0d8e9a7cff75.pmtiles",
+   "bytes": 46864,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-547.0d8e9a7cff75.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 548,
+   "file": "11-1128-548.d5c67374718e.pmtiles",
+   "bytes": 48418,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-548.d5c67374718e.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 549,
+   "file": "11-1128-549.ebbce849e68d.pmtiles",
+   "bytes": 40837,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-549.ebbce849e68d.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 550,
+   "file": "11-1128-550.07d00350c143.pmtiles",
+   "bytes": 50257,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-550.07d00350c143.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 551,
+   "file": "11-1128-551.0b1e7f053c02.pmtiles",
+   "bytes": 38371,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-551.0b1e7f053c02.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 552,
+   "file": "11-1128-552.ec6fe9f08a0c.pmtiles",
+   "bytes": 74609,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-552.ec6fe9f08a0c.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 553,
+   "file": "11-1128-553.efcc3295ed01.pmtiles",
+   "bytes": 214733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-553.efcc3295ed01.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 554,
+   "file": "11-1128-554.973d86601b74.pmtiles",
+   "bytes": 133582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-554.973d86601b74.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 555,
+   "file": "11-1128-555.537ac430d050.pmtiles",
+   "bytes": 201668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-555.537ac430d050.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 556,
+   "file": "11-1128-556.744fae042bf8.pmtiles",
+   "bytes": 165634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-556.744fae042bf8.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 557,
+   "file": "11-1128-557.8e0e200d8dc7.pmtiles",
+   "bytes": 155523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-557.8e0e200d8dc7.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 558,
+   "file": "11-1128-558.da9e2040a2e3.pmtiles",
+   "bytes": 194066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-558.da9e2040a2e3.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 559,
+   "file": "11-1128-559.c3a9e88b709c.pmtiles",
+   "bytes": 203449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-559.c3a9e88b709c.pmtiles"
+  },
+  {
+   "x": 1128,
+   "y": 560,
+   "file": "11-1128-560.074458df1748.pmtiles",
+   "bytes": 172441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1128-560.074458df1748.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 546,
+   "file": "11-1129-546.7d2903f17f2c.pmtiles",
+   "bytes": 33067,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-546.7d2903f17f2c.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 547,
+   "file": "11-1129-547.c6de7bfbb5bc.pmtiles",
+   "bytes": 57004,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-547.c6de7bfbb5bc.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 548,
+   "file": "11-1129-548.f3c807c10374.pmtiles",
+   "bytes": 36044,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-548.f3c807c10374.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 549,
+   "file": "11-1129-549.89688c92ca30.pmtiles",
+   "bytes": 56055,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-549.89688c92ca30.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 550,
+   "file": "11-1129-550.56d8ac9197c2.pmtiles",
+   "bytes": 70937,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-550.56d8ac9197c2.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 551,
+   "file": "11-1129-551.f0d8360ed019.pmtiles",
+   "bytes": 67868,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-551.f0d8360ed019.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 552,
+   "file": "11-1129-552.e12d9dea3778.pmtiles",
+   "bytes": 148928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-552.e12d9dea3778.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 553,
+   "file": "11-1129-553.e4226ea7548f.pmtiles",
+   "bytes": 166588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-553.e4226ea7548f.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 554,
+   "file": "11-1129-554.7f048a68f84b.pmtiles",
+   "bytes": 246169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-554.7f048a68f84b.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 555,
+   "file": "11-1129-555.ac6da6396a95.pmtiles",
+   "bytes": 304675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-555.ac6da6396a95.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 556,
+   "file": "11-1129-556.7363d35c763d.pmtiles",
+   "bytes": 265290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-556.7363d35c763d.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 557,
+   "file": "11-1129-557.56ae58ba36a2.pmtiles",
+   "bytes": 143553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-557.56ae58ba36a2.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 558,
+   "file": "11-1129-558.dfd3f9ccfe6c.pmtiles",
+   "bytes": 71867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-558.dfd3f9ccfe6c.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 559,
+   "file": "11-1129-559.588e5d930315.pmtiles",
+   "bytes": 82214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-559.588e5d930315.pmtiles"
+  },
+  {
+   "x": 1129,
+   "y": 560,
+   "file": "11-1129-560.952373b17e35.pmtiles",
+   "bytes": 22493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1129-560.952373b17e35.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 545,
+   "file": "11-1130-545.586b9f9ad0a2.pmtiles",
+   "bytes": 24016,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-545.586b9f9ad0a2.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 546,
+   "file": "11-1130-546.822bc1709ac3.pmtiles",
+   "bytes": 73088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-546.822bc1709ac3.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 547,
+   "file": "11-1130-547.6440950a19b8.pmtiles",
+   "bytes": 30654,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-547.6440950a19b8.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 548,
+   "file": "11-1130-548.b5e369b82ad3.pmtiles",
+   "bytes": 38901,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-548.b5e369b82ad3.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 549,
+   "file": "11-1130-549.a9c0735fac68.pmtiles",
+   "bytes": 55580,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-549.a9c0735fac68.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 550,
+   "file": "11-1130-550.6a09c087a126.pmtiles",
+   "bytes": 72795,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-550.6a09c087a126.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 551,
+   "file": "11-1130-551.f56f3c898536.pmtiles",
+   "bytes": 45627,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-551.f56f3c898536.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 552,
+   "file": "11-1130-552.6d1c0cb806ad.pmtiles",
+   "bytes": 71345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-552.6d1c0cb806ad.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 553,
+   "file": "11-1130-553.a4efc5063de3.pmtiles",
+   "bytes": 93034,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-553.a4efc5063de3.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 554,
+   "file": "11-1130-554.10ed8f6f14c1.pmtiles",
+   "bytes": 211684,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-554.10ed8f6f14c1.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 555,
+   "file": "11-1130-555.4aadaf583a1c.pmtiles",
+   "bytes": 563018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-555.4aadaf583a1c.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 556,
+   "file": "11-1130-556.73422c598a3f.pmtiles",
+   "bytes": 151961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-556.73422c598a3f.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 557,
+   "file": "11-1130-557.35cd554c8ee5.pmtiles",
+   "bytes": 58560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-557.35cd554c8ee5.pmtiles"
+  },
+  {
+   "x": 1130,
+   "y": 558,
+   "file": "11-1130-558.a2a95d6041ce.pmtiles",
+   "bytes": 89867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1130-558.a2a95d6041ce.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 546,
+   "file": "11-1131-546.54e8add98ff7.pmtiles",
+   "bytes": 50268,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-546.54e8add98ff7.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 547,
+   "file": "11-1131-547.9a91d5f916df.pmtiles",
+   "bytes": 63323,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-547.9a91d5f916df.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 548,
+   "file": "11-1131-548.9d9177400f8a.pmtiles",
+   "bytes": 52628,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-548.9d9177400f8a.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 549,
+   "file": "11-1131-549.0eac21b7eb94.pmtiles",
+   "bytes": 54064,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-549.0eac21b7eb94.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 550,
+   "file": "11-1131-550.ce21646d2ebc.pmtiles",
+   "bytes": 62770,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-550.ce21646d2ebc.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 551,
+   "file": "11-1131-551.b3eb5eb2b6c7.pmtiles",
+   "bytes": 50527,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-551.b3eb5eb2b6c7.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 552,
+   "file": "11-1131-552.a7369e457c1d.pmtiles",
+   "bytes": 64379,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-552.a7369e457c1d.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 553,
+   "file": "11-1131-553.65ee84794447.pmtiles",
+   "bytes": 42086,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-553.65ee84794447.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 554,
+   "file": "11-1131-554.87eca73a99dd.pmtiles",
+   "bytes": 140552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-554.87eca73a99dd.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 555,
+   "file": "11-1131-555.dc7d810cc4a7.pmtiles",
+   "bytes": 208470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-555.dc7d810cc4a7.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 556,
+   "file": "11-1131-556.e24ce93fb380.pmtiles",
+   "bytes": 100453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-556.e24ce93fb380.pmtiles"
+  },
+  {
+   "x": 1131,
+   "y": 557,
+   "file": "11-1131-557.dc547d4748b1.pmtiles",
+   "bytes": 17518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1131-557.dc547d4748b1.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 546,
+   "file": "11-1132-546.feb6c4c6f5d6.pmtiles",
+   "bytes": 77868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-546.feb6c4c6f5d6.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 547,
+   "file": "11-1132-547.da04dfd4ecb7.pmtiles",
+   "bytes": 59307,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-547.da04dfd4ecb7.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 548,
+   "file": "11-1132-548.9237ec8668b0.pmtiles",
+   "bytes": 45073,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-548.9237ec8668b0.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 549,
+   "file": "11-1132-549.abdc401cd105.pmtiles",
+   "bytes": 57943,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-549.abdc401cd105.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 550,
+   "file": "11-1132-550.277170e32737.pmtiles",
+   "bytes": 46928,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-550.277170e32737.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 551,
+   "file": "11-1132-551.ce2c8a6de98b.pmtiles",
+   "bytes": 50597,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-551.ce2c8a6de98b.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 552,
+   "file": "11-1132-552.5e4eecf8bdc5.pmtiles",
+   "bytes": 56388,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-552.5e4eecf8bdc5.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 553,
+   "file": "11-1132-553.b93b30022e92.pmtiles",
+   "bytes": 82544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-553.b93b30022e92.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 554,
+   "file": "11-1132-554.de85a008a618.pmtiles",
+   "bytes": 160864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-554.de85a008a618.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 555,
+   "file": "11-1132-555.89290a9c0625.pmtiles",
+   "bytes": 108790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-555.89290a9c0625.pmtiles"
+  },
+  {
+   "x": 1132,
+   "y": 556,
+   "file": "11-1132-556.76c0f8802ad7.pmtiles",
+   "bytes": 62521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1132-556.76c0f8802ad7.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 545,
+   "file": "11-1133-545.2e9907c9b7d9.pmtiles",
+   "bytes": 24426,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-545.2e9907c9b7d9.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 546,
+   "file": "11-1133-546.78d4d308dd82.pmtiles",
+   "bytes": 62240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-546.78d4d308dd82.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 547,
+   "file": "11-1133-547.aa80c403c096.pmtiles",
+   "bytes": 92263,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-547.aa80c403c096.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 548,
+   "file": "11-1133-548.ecab2f8493ff.pmtiles",
+   "bytes": 55580,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-548.ecab2f8493ff.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 549,
+   "file": "11-1133-549.b8a1e89a6024.pmtiles",
+   "bytes": 79468,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-549.b8a1e89a6024.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 550,
+   "file": "11-1133-550.6c6f2aab2c2b.pmtiles",
+   "bytes": 52879,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-550.6c6f2aab2c2b.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 551,
+   "file": "11-1133-551.fa18362015c1.pmtiles",
+   "bytes": 52144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-551.fa18362015c1.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 552,
+   "file": "11-1133-552.ba525c4377a2.pmtiles",
+   "bytes": 77039,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-552.ba525c4377a2.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 553,
+   "file": "11-1133-553.91fe4d7cee2e.pmtiles",
+   "bytes": 103422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-553.91fe4d7cee2e.pmtiles"
+  },
+  {
+   "x": 1133,
+   "y": 554,
+   "file": "11-1133-554.ab58c8d90cc0.pmtiles",
+   "bytes": 99755,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1133-554.ab58c8d90cc0.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 546,
+   "file": "11-1134-546.343da3795fdc.pmtiles",
+   "bytes": 39681,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-546.343da3795fdc.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 547,
+   "file": "11-1134-547.77b12167c1be.pmtiles",
+   "bytes": 44958,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-547.77b12167c1be.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 548,
+   "file": "11-1134-548.2b340599bd5e.pmtiles",
+   "bytes": 62637,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-548.2b340599bd5e.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 549,
+   "file": "11-1134-549.8da2c4fb6814.pmtiles",
+   "bytes": 65119,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-549.8da2c4fb6814.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 550,
+   "file": "11-1134-550.daba1564f7e8.pmtiles",
+   "bytes": 54192,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-550.daba1564f7e8.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 551,
+   "file": "11-1134-551.e5ca211c2de9.pmtiles",
+   "bytes": 179277,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-551.e5ca211c2de9.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 552,
+   "file": "11-1134-552.96854c3930d4.pmtiles",
+   "bytes": 141181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-552.96854c3930d4.pmtiles"
+  },
+  {
+   "x": 1134,
+   "y": 553,
+   "file": "11-1134-553.3a5e12125df8.pmtiles",
+   "bytes": 81579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1134-553.3a5e12125df8.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 545,
+   "file": "11-1135-545.7b199a667ec9.pmtiles",
+   "bytes": 22902,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-545.7b199a667ec9.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 546,
+   "file": "11-1135-546.b4c6e69bbc7f.pmtiles",
+   "bytes": 60375,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-546.b4c6e69bbc7f.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 547,
+   "file": "11-1135-547.e5cf16fbc21a.pmtiles",
+   "bytes": 64743,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-547.e5cf16fbc21a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 548,
+   "file": "11-1135-548.5b07135e5dfd.pmtiles",
+   "bytes": 44043,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-548.5b07135e5dfd.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 549,
+   "file": "11-1135-549.691ab8f6bdee.pmtiles",
+   "bytes": 55695,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-549.691ab8f6bdee.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 550,
+   "file": "11-1135-550.b557343a693a.pmtiles",
+   "bytes": 45516,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-550.b557343a693a.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 551,
+   "file": "11-1135-551.e6f545b0c9be.pmtiles",
+   "bytes": 113286,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-551.e6f545b0c9be.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 552,
+   "file": "11-1135-552.6601e416f927.pmtiles",
+   "bytes": 70749,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-552.6601e416f927.pmtiles"
+  },
+  {
+   "x": 1135,
+   "y": 553,
+   "file": "11-1135-553.a9003ef359b7.pmtiles",
+   "bytes": 34175,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-se-vasternorrland-2026-10-03/11-1135-553.a9003ef359b7.pmtiles"
+  }
+ ]
+}
