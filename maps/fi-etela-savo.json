@@ -1,0 +1,2853 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "fi-etela-savo",
+ "source": "fi.pmtiles",
+ "builtAt": "2026-10-05T16:51:17.432Z",
+ "publishedAt": "2026-10-05T16:53:10.118Z",
+ "host": "github",
+ "releases": [
+  "maps-fi-etela-savo-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  26.22074,
+  61.1513,
+  29.69682,
+  62.53002
+ ],
+ "overview": {
+  "file": "overview.e1445f819622.pmtiles",
+  "bytes": 7683819,
+  "tiles": 156,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/overview.e1445f819622.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1173,
+   "y": 564,
+   "file": "11-1173-564.e2c5b2862beb.pmtiles",
+   "bytes": 58805,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-564.e2c5b2862beb.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 565,
+   "file": "11-1173-565.7b95db883ebf.pmtiles",
+   "bytes": 113638,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-565.7b95db883ebf.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 566,
+   "file": "11-1173-566.517d1a25d753.pmtiles",
+   "bytes": 95362,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-566.517d1a25d753.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 567,
+   "file": "11-1173-567.d14bfd3b27ab.pmtiles",
+   "bytes": 156677,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-567.d14bfd3b27ab.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 568,
+   "file": "11-1173-568.52251e9b7518.pmtiles",
+   "bytes": 166869,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-568.52251e9b7518.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 569,
+   "file": "11-1173-569.e60470b84a1e.pmtiles",
+   "bytes": 112503,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-569.e60470b84a1e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 570,
+   "file": "11-1173-570.7997919cc79c.pmtiles",
+   "bytes": 66129,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-570.7997919cc79c.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 571,
+   "file": "11-1173-571.d8194189bbd6.pmtiles",
+   "bytes": 88365,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-571.d8194189bbd6.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 572,
+   "file": "11-1173-572.949401f68f71.pmtiles",
+   "bytes": 92843,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-572.949401f68f71.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 573,
+   "file": "11-1173-573.cd852221920f.pmtiles",
+   "bytes": 107989,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-573.cd852221920f.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 574,
+   "file": "11-1173-574.19174562e3a0.pmtiles",
+   "bytes": 114920,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-574.19174562e3a0.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 575,
+   "file": "11-1173-575.3c7fee63222d.pmtiles",
+   "bytes": 142595,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-575.3c7fee63222d.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 576,
+   "file": "11-1173-576.6af577a34020.pmtiles",
+   "bytes": 118463,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-576.6af577a34020.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 577,
+   "file": "11-1173-577.e5a19e21f12a.pmtiles",
+   "bytes": 132383,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-577.e5a19e21f12a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 578,
+   "file": "11-1173-578.f8ba08a6412d.pmtiles",
+   "bytes": 152243,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-578.f8ba08a6412d.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 579,
+   "file": "11-1173-579.ee28fa62d718.pmtiles",
+   "bytes": 209347,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-579.ee28fa62d718.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 580,
+   "file": "11-1173-580.c0e20931040d.pmtiles",
+   "bytes": 205394,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-580.c0e20931040d.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 581,
+   "file": "11-1173-581.297d2944f75e.pmtiles",
+   "bytes": 125417,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1173-581.297d2944f75e.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 564,
+   "file": "11-1174-564.90ea8d48d124.pmtiles",
+   "bytes": 46925,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-564.90ea8d48d124.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 565,
+   "file": "11-1174-565.438e5b6e33cb.pmtiles",
+   "bytes": 144008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-565.438e5b6e33cb.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 566,
+   "file": "11-1174-566.1dbb84dfaa5c.pmtiles",
+   "bytes": 193784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-566.1dbb84dfaa5c.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 567,
+   "file": "11-1174-567.cd1e4817f89f.pmtiles",
+   "bytes": 211104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-567.cd1e4817f89f.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 568,
+   "file": "11-1174-568.edb90004beb1.pmtiles",
+   "bytes": 114818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-568.edb90004beb1.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 569,
+   "file": "11-1174-569.cc4d62921229.pmtiles",
+   "bytes": 98116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-569.cc4d62921229.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 570,
+   "file": "11-1174-570.84fb0541ca0b.pmtiles",
+   "bytes": 122460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-570.84fb0541ca0b.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 571,
+   "file": "11-1174-571.e1c6a899d1f9.pmtiles",
+   "bytes": 171412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-571.e1c6a899d1f9.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 572,
+   "file": "11-1174-572.5e14c6cd665f.pmtiles",
+   "bytes": 162729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-572.5e14c6cd665f.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 573,
+   "file": "11-1174-573.5242bf234d69.pmtiles",
+   "bytes": 148472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-573.5242bf234d69.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 574,
+   "file": "11-1174-574.465ad4677ba7.pmtiles",
+   "bytes": 193037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-574.465ad4677ba7.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 575,
+   "file": "11-1174-575.a8c4402e6527.pmtiles",
+   "bytes": 167301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-575.a8c4402e6527.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 576,
+   "file": "11-1174-576.debb7e62461a.pmtiles",
+   "bytes": 152013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-576.debb7e62461a.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 577,
+   "file": "11-1174-577.fe7a04ced336.pmtiles",
+   "bytes": 215941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-577.fe7a04ced336.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 578,
+   "file": "11-1174-578.a753ac66984c.pmtiles",
+   "bytes": 218352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-578.a753ac66984c.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 579,
+   "file": "11-1174-579.177d4af4f764.pmtiles",
+   "bytes": 200407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-579.177d4af4f764.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 580,
+   "file": "11-1174-580.bcc60d1ab96a.pmtiles",
+   "bytes": 213020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-580.bcc60d1ab96a.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 581,
+   "file": "11-1174-581.022db461bbec.pmtiles",
+   "bytes": 149375,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1174-581.022db461bbec.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 564,
+   "file": "11-1175-564.8e507cff96bc.pmtiles",
+   "bytes": 61056,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-564.8e507cff96bc.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 565,
+   "file": "11-1175-565.3ebfa69ca0c9.pmtiles",
+   "bytes": 135230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-565.3ebfa69ca0c9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 566,
+   "file": "11-1175-566.9ca945edcec1.pmtiles",
+   "bytes": 155664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-566.9ca945edcec1.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 567,
+   "file": "11-1175-567.c17af8b75589.pmtiles",
+   "bytes": 130745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-567.c17af8b75589.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 568,
+   "file": "11-1175-568.17403bb167c8.pmtiles",
+   "bytes": 139444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-568.17403bb167c8.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 569,
+   "file": "11-1175-569.691199b26e79.pmtiles",
+   "bytes": 98093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-569.691199b26e79.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 570,
+   "file": "11-1175-570.244a3637ddda.pmtiles",
+   "bytes": 132746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-570.244a3637ddda.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 571,
+   "file": "11-1175-571.5d786e045767.pmtiles",
+   "bytes": 302420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-571.5d786e045767.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 572,
+   "file": "11-1175-572.f798a24bbc63.pmtiles",
+   "bytes": 160128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-572.f798a24bbc63.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 573,
+   "file": "11-1175-573.bd0af2c01682.pmtiles",
+   "bytes": 109907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-573.bd0af2c01682.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 574,
+   "file": "11-1175-574.6cd6b829bdd4.pmtiles",
+   "bytes": 164935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-574.6cd6b829bdd4.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 575,
+   "file": "11-1175-575.f40240503fa0.pmtiles",
+   "bytes": 187545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-575.f40240503fa0.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 576,
+   "file": "11-1175-576.0ba86922c050.pmtiles",
+   "bytes": 188960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-576.0ba86922c050.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 577,
+   "file": "11-1175-577.a9ec931dbfe6.pmtiles",
+   "bytes": 198298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-577.a9ec931dbfe6.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 578,
+   "file": "11-1175-578.4b7fbe3ed862.pmtiles",
+   "bytes": 245695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-578.4b7fbe3ed862.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 579,
+   "file": "11-1175-579.a96736cbc561.pmtiles",
+   "bytes": 226697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-579.a96736cbc561.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 580,
+   "file": "11-1175-580.74dfc49714fc.pmtiles",
+   "bytes": 212774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-580.74dfc49714fc.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 581,
+   "file": "11-1175-581.689f48465a8e.pmtiles",
+   "bytes": 154544,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1175-581.689f48465a8e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 564,
+   "file": "11-1176-564.162ae8775db5.pmtiles",
+   "bytes": 71269,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-564.162ae8775db5.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 565,
+   "file": "11-1176-565.9f1137e34b8f.pmtiles",
+   "bytes": 173097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-565.9f1137e34b8f.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 566,
+   "file": "11-1176-566.50232d3c55f4.pmtiles",
+   "bytes": 132859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-566.50232d3c55f4.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 567,
+   "file": "11-1176-567.3f53a1a03629.pmtiles",
+   "bytes": 175051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-567.3f53a1a03629.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 568,
+   "file": "11-1176-568.6aefe40616a6.pmtiles",
+   "bytes": 113483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-568.6aefe40616a6.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 569,
+   "file": "11-1176-569.36b7c223c1d7.pmtiles",
+   "bytes": 147649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-569.36b7c223c1d7.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 570,
+   "file": "11-1176-570.b23a65dcf682.pmtiles",
+   "bytes": 143989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-570.b23a65dcf682.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 571,
+   "file": "11-1176-571.c45ec7e94ef3.pmtiles",
+   "bytes": 183219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-571.c45ec7e94ef3.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 572,
+   "file": "11-1176-572.ac37181dbe33.pmtiles",
+   "bytes": 139672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-572.ac37181dbe33.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 573,
+   "file": "11-1176-573.4509beda117e.pmtiles",
+   "bytes": 134016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-573.4509beda117e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 574,
+   "file": "11-1176-574.4b03c09f1a5e.pmtiles",
+   "bytes": 149022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-574.4b03c09f1a5e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 575,
+   "file": "11-1176-575.d7586ccff05d.pmtiles",
+   "bytes": 226835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-575.d7586ccff05d.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 576,
+   "file": "11-1176-576.5cab803e1c46.pmtiles",
+   "bytes": 191894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-576.5cab803e1c46.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 577,
+   "file": "11-1176-577.5f2d1b063b18.pmtiles",
+   "bytes": 234594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-577.5f2d1b063b18.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 578,
+   "file": "11-1176-578.7a8861b4d0bc.pmtiles",
+   "bytes": 377709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-578.7a8861b4d0bc.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 579,
+   "file": "11-1176-579.3462e1f72250.pmtiles",
+   "bytes": 258934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-579.3462e1f72250.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 580,
+   "file": "11-1176-580.2dd23fe3fe62.pmtiles",
+   "bytes": 344976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-580.2dd23fe3fe62.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 581,
+   "file": "11-1176-581.7b0001256ad1.pmtiles",
+   "bytes": 208374,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1176-581.7b0001256ad1.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 564,
+   "file": "11-1177-564.229c9115628b.pmtiles",
+   "bytes": 57637,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-564.229c9115628b.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 565,
+   "file": "11-1177-565.08f564e7aa7d.pmtiles",
+   "bytes": 121885,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-565.08f564e7aa7d.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 566,
+   "file": "11-1177-566.eb416823012f.pmtiles",
+   "bytes": 96032,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-566.eb416823012f.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 567,
+   "file": "11-1177-567.193b2b2b03b6.pmtiles",
+   "bytes": 253044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-567.193b2b2b03b6.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 568,
+   "file": "11-1177-568.2a2f6a2ff066.pmtiles",
+   "bytes": 175627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-568.2a2f6a2ff066.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 569,
+   "file": "11-1177-569.165f34435374.pmtiles",
+   "bytes": 138424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-569.165f34435374.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 570,
+   "file": "11-1177-570.f5e418a26e3f.pmtiles",
+   "bytes": 180178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-570.f5e418a26e3f.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 571,
+   "file": "11-1177-571.22f8ac6de29b.pmtiles",
+   "bytes": 140227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-571.22f8ac6de29b.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 572,
+   "file": "11-1177-572.805fe7cd32c8.pmtiles",
+   "bytes": 181080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-572.805fe7cd32c8.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 573,
+   "file": "11-1177-573.d29d53dff1c2.pmtiles",
+   "bytes": 206355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-573.d29d53dff1c2.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 574,
+   "file": "11-1177-574.63b18e2e25f2.pmtiles",
+   "bytes": 184723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-574.63b18e2e25f2.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 575,
+   "file": "11-1177-575.ef7766d85d65.pmtiles",
+   "bytes": 212630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-575.ef7766d85d65.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 576,
+   "file": "11-1177-576.d75bc988bd7a.pmtiles",
+   "bytes": 200103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-576.d75bc988bd7a.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 577,
+   "file": "11-1177-577.2c260aec01ce.pmtiles",
+   "bytes": 178521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-577.2c260aec01ce.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 578,
+   "file": "11-1177-578.1ce56ecd5404.pmtiles",
+   "bytes": 243309,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-578.1ce56ecd5404.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 579,
+   "file": "11-1177-579.73144270f5a2.pmtiles",
+   "bytes": 193744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-579.73144270f5a2.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 580,
+   "file": "11-1177-580.8c011b7314ae.pmtiles",
+   "bytes": 207483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-580.8c011b7314ae.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 581,
+   "file": "11-1177-581.cc6ab510392a.pmtiles",
+   "bytes": 133515,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1177-581.cc6ab510392a.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 564,
+   "file": "11-1178-564.7f135bebb2da.pmtiles",
+   "bytes": 70706,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-564.7f135bebb2da.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 565,
+   "file": "11-1178-565.abddc633dbd7.pmtiles",
+   "bytes": 169871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-565.abddc633dbd7.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 566,
+   "file": "11-1178-566.ab550a20575b.pmtiles",
+   "bytes": 172860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-566.ab550a20575b.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 567,
+   "file": "11-1178-567.0936172f15b1.pmtiles",
+   "bytes": 496655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-567.0936172f15b1.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 568,
+   "file": "11-1178-568.07d8caec9a5b.pmtiles",
+   "bytes": 177637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-568.07d8caec9a5b.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 569,
+   "file": "11-1178-569.26537784473b.pmtiles",
+   "bytes": 140631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-569.26537784473b.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 570,
+   "file": "11-1178-570.aa49b804c124.pmtiles",
+   "bytes": 187714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-570.aa49b804c124.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 571,
+   "file": "11-1178-571.5879da688578.pmtiles",
+   "bytes": 181296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-571.5879da688578.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 572,
+   "file": "11-1178-572.058ac986a763.pmtiles",
+   "bytes": 264098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-572.058ac986a763.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 573,
+   "file": "11-1178-573.4b716f6e6103.pmtiles",
+   "bytes": 178223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-573.4b716f6e6103.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 574,
+   "file": "11-1178-574.bb047d3c5d2b.pmtiles",
+   "bytes": 394300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-574.bb047d3c5d2b.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 575,
+   "file": "11-1178-575.a089e70bf79f.pmtiles",
+   "bytes": 481181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-575.a089e70bf79f.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 576,
+   "file": "11-1178-576.a4fab4e654be.pmtiles",
+   "bytes": 179793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-576.a4fab4e654be.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 577,
+   "file": "11-1178-577.b22f02c4c1ea.pmtiles",
+   "bytes": 205399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-577.b22f02c4c1ea.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 578,
+   "file": "11-1178-578.19a511821edb.pmtiles",
+   "bytes": 213680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-578.19a511821edb.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 579,
+   "file": "11-1178-579.b59c0d4f5dcb.pmtiles",
+   "bytes": 215080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-579.b59c0d4f5dcb.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 580,
+   "file": "11-1178-580.ca3150406b98.pmtiles",
+   "bytes": 192341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-580.ca3150406b98.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 581,
+   "file": "11-1178-581.8ae972de8050.pmtiles",
+   "bytes": 128384,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1178-581.8ae972de8050.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 564,
+   "file": "11-1179-564.e55dcc2b13d5.pmtiles",
+   "bytes": 59398,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-564.e55dcc2b13d5.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 565,
+   "file": "11-1179-565.094e33f4baf4.pmtiles",
+   "bytes": 157473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-565.094e33f4baf4.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 566,
+   "file": "11-1179-566.3c9051841043.pmtiles",
+   "bytes": 125112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-566.3c9051841043.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 567,
+   "file": "11-1179-567.e4e4add38564.pmtiles",
+   "bytes": 187693,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-567.e4e4add38564.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 568,
+   "file": "11-1179-568.50e8050f31bd.pmtiles",
+   "bytes": 143831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-568.50e8050f31bd.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 569,
+   "file": "11-1179-569.7d8ea4335dac.pmtiles",
+   "bytes": 167804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-569.7d8ea4335dac.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 570,
+   "file": "11-1179-570.a9f15dc2afb9.pmtiles",
+   "bytes": 131310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-570.a9f15dc2afb9.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 571,
+   "file": "11-1179-571.0048918ac0f5.pmtiles",
+   "bytes": 132418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-571.0048918ac0f5.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 572,
+   "file": "11-1179-572.c19d67cbe2fc.pmtiles",
+   "bytes": 161532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-572.c19d67cbe2fc.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 573,
+   "file": "11-1179-573.82efb504cd44.pmtiles",
+   "bytes": 217148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-573.82efb504cd44.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 574,
+   "file": "11-1179-574.c2b450f487be.pmtiles",
+   "bytes": 561295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-574.c2b450f487be.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 575,
+   "file": "11-1179-575.4b1385d13021.pmtiles",
+   "bytes": 534133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-575.4b1385d13021.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 576,
+   "file": "11-1179-576.195fdfbc0df8.pmtiles",
+   "bytes": 237911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-576.195fdfbc0df8.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 577,
+   "file": "11-1179-577.0bc1761937f7.pmtiles",
+   "bytes": 306529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-577.0bc1761937f7.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 578,
+   "file": "11-1179-578.eef995065d41.pmtiles",
+   "bytes": 220881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-578.eef995065d41.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 579,
+   "file": "11-1179-579.b7db13c75143.pmtiles",
+   "bytes": 185399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-579.b7db13c75143.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 580,
+   "file": "11-1179-580.da48cdfad83f.pmtiles",
+   "bytes": 180903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-580.da48cdfad83f.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 581,
+   "file": "11-1179-581.06cc85108df7.pmtiles",
+   "bytes": 127213,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1179-581.06cc85108df7.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 564,
+   "file": "11-1180-564.98253055558c.pmtiles",
+   "bytes": 79665,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-564.98253055558c.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 565,
+   "file": "11-1180-565.9a3f2ebe932a.pmtiles",
+   "bytes": 183041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-565.9a3f2ebe932a.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 566,
+   "file": "11-1180-566.8b39daf44b6c.pmtiles",
+   "bytes": 198557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-566.8b39daf44b6c.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 567,
+   "file": "11-1180-567.2d79a15759b5.pmtiles",
+   "bytes": 173112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-567.2d79a15759b5.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 568,
+   "file": "11-1180-568.16f708cfb101.pmtiles",
+   "bytes": 177712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-568.16f708cfb101.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 569,
+   "file": "11-1180-569.d1a5f12c5b39.pmtiles",
+   "bytes": 189448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-569.d1a5f12c5b39.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 570,
+   "file": "11-1180-570.dccd6bd1e1b3.pmtiles",
+   "bytes": 135109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-570.dccd6bd1e1b3.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 571,
+   "file": "11-1180-571.44a1e2e3dd31.pmtiles",
+   "bytes": 144618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-571.44a1e2e3dd31.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 572,
+   "file": "11-1180-572.663fb56c7feb.pmtiles",
+   "bytes": 113116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-572.663fb56c7feb.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 573,
+   "file": "11-1180-573.757b6623f62b.pmtiles",
+   "bytes": 178433,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-573.757b6623f62b.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 574,
+   "file": "11-1180-574.c1af7dfb4435.pmtiles",
+   "bytes": 234985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-574.c1af7dfb4435.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 575,
+   "file": "11-1180-575.e61fd71e1f2a.pmtiles",
+   "bytes": 200228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-575.e61fd71e1f2a.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 576,
+   "file": "11-1180-576.ff26f411a67f.pmtiles",
+   "bytes": 214205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-576.ff26f411a67f.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 577,
+   "file": "11-1180-577.361ca6983f49.pmtiles",
+   "bytes": 240981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-577.361ca6983f49.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 578,
+   "file": "11-1180-578.127efc512217.pmtiles",
+   "bytes": 197176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-578.127efc512217.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 579,
+   "file": "11-1180-579.9845ba1f140f.pmtiles",
+   "bytes": 198727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-579.9845ba1f140f.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 580,
+   "file": "11-1180-580.ef836fb2c6d2.pmtiles",
+   "bytes": 202187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-580.ef836fb2c6d2.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 581,
+   "file": "11-1180-581.b1e5b2eb3bbc.pmtiles",
+   "bytes": 127646,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1180-581.b1e5b2eb3bbc.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 564,
+   "file": "11-1181-564.688009776af6.pmtiles",
+   "bytes": 73329,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-564.688009776af6.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 565,
+   "file": "11-1181-565.e5a93d141d1e.pmtiles",
+   "bytes": 275823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-565.e5a93d141d1e.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 566,
+   "file": "11-1181-566.5c92407cb357.pmtiles",
+   "bytes": 144069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-566.5c92407cb357.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 567,
+   "file": "11-1181-567.70feb933b56c.pmtiles",
+   "bytes": 138327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-567.70feb933b56c.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 568,
+   "file": "11-1181-568.2a7a399a69f3.pmtiles",
+   "bytes": 196102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-568.2a7a399a69f3.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 569,
+   "file": "11-1181-569.768f35426042.pmtiles",
+   "bytes": 195160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-569.768f35426042.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 570,
+   "file": "11-1181-570.6f3412c8d98a.pmtiles",
+   "bytes": 142191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-570.6f3412c8d98a.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 571,
+   "file": "11-1181-571.268fa043c39e.pmtiles",
+   "bytes": 122229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-571.268fa043c39e.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 572,
+   "file": "11-1181-572.4f981b7b343d.pmtiles",
+   "bytes": 175160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-572.4f981b7b343d.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 573,
+   "file": "11-1181-573.6dd4c5c86fdb.pmtiles",
+   "bytes": 192601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-573.6dd4c5c86fdb.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 574,
+   "file": "11-1181-574.0b7e56f21f8a.pmtiles",
+   "bytes": 214701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-574.0b7e56f21f8a.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 575,
+   "file": "11-1181-575.b8611af6acc3.pmtiles",
+   "bytes": 204450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-575.b8611af6acc3.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 576,
+   "file": "11-1181-576.c6c366e5ccaa.pmtiles",
+   "bytes": 259742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-576.c6c366e5ccaa.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 577,
+   "file": "11-1181-577.410616c8709a.pmtiles",
+   "bytes": 216457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-577.410616c8709a.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 578,
+   "file": "11-1181-578.71985a2c4726.pmtiles",
+   "bytes": 199144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-578.71985a2c4726.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 579,
+   "file": "11-1181-579.674c0bd2e42b.pmtiles",
+   "bytes": 245617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-579.674c0bd2e42b.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 580,
+   "file": "11-1181-580.0d423a55e536.pmtiles",
+   "bytes": 327725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-580.0d423a55e536.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 581,
+   "file": "11-1181-581.fa095024d593.pmtiles",
+   "bytes": 133441,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1181-581.fa095024d593.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 564,
+   "file": "11-1182-564.3e9c45002978.pmtiles",
+   "bytes": 69408,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-564.3e9c45002978.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 565,
+   "file": "11-1182-565.ef2a2e9e63af.pmtiles",
+   "bytes": 272059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-565.ef2a2e9e63af.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 566,
+   "file": "11-1182-566.b49463d33a2b.pmtiles",
+   "bytes": 174723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-566.b49463d33a2b.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 567,
+   "file": "11-1182-567.186e3947b599.pmtiles",
+   "bytes": 679194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-567.186e3947b599.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 568,
+   "file": "11-1182-568.7d35313eb21f.pmtiles",
+   "bytes": 235840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-568.7d35313eb21f.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 569,
+   "file": "11-1182-569.a67b7758e407.pmtiles",
+   "bytes": 294974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-569.a67b7758e407.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 570,
+   "file": "11-1182-570.c0eebb990ba4.pmtiles",
+   "bytes": 151974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-570.c0eebb990ba4.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 571,
+   "file": "11-1182-571.6edfacb8704a.pmtiles",
+   "bytes": 114367,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-571.6edfacb8704a.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 572,
+   "file": "11-1182-572.2e9c9325c4c4.pmtiles",
+   "bytes": 340426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-572.2e9c9325c4c4.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 573,
+   "file": "11-1182-573.3875e9e24edb.pmtiles",
+   "bytes": 176591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-573.3875e9e24edb.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 574,
+   "file": "11-1182-574.0b673bde3ba2.pmtiles",
+   "bytes": 177883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-574.0b673bde3ba2.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 575,
+   "file": "11-1182-575.d1d2e9ebf2b3.pmtiles",
+   "bytes": 141292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-575.d1d2e9ebf2b3.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 576,
+   "file": "11-1182-576.bd487bbc4eff.pmtiles",
+   "bytes": 214229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-576.bd487bbc4eff.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 577,
+   "file": "11-1182-577.fecf717a8d1b.pmtiles",
+   "bytes": 187496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-577.fecf717a8d1b.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 578,
+   "file": "11-1182-578.e622971fc387.pmtiles",
+   "bytes": 169369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-578.e622971fc387.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 579,
+   "file": "11-1182-579.4ab106e7822d.pmtiles",
+   "bytes": 175642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-579.4ab106e7822d.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 580,
+   "file": "11-1182-580.1e93217d2e0a.pmtiles",
+   "bytes": 211132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-580.1e93217d2e0a.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 581,
+   "file": "11-1182-581.cc9d610f9696.pmtiles",
+   "bytes": 160112,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1182-581.cc9d610f9696.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 564,
+   "file": "11-1183-564.51e1e663fd01.pmtiles",
+   "bytes": 35121,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-564.51e1e663fd01.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 565,
+   "file": "11-1183-565.c5c94bfe9363.pmtiles",
+   "bytes": 111798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-565.c5c94bfe9363.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 566,
+   "file": "11-1183-566.bebb06081eae.pmtiles",
+   "bytes": 115097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-566.bebb06081eae.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 567,
+   "file": "11-1183-567.3bb4e8de0dd0.pmtiles",
+   "bytes": 213321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-567.3bb4e8de0dd0.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 568,
+   "file": "11-1183-568.28045e4829f8.pmtiles",
+   "bytes": 187821,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-568.28045e4829f8.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 569,
+   "file": "11-1183-569.95403147863f.pmtiles",
+   "bytes": 182954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-569.95403147863f.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 570,
+   "file": "11-1183-570.3545c560923f.pmtiles",
+   "bytes": 176943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-570.3545c560923f.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 571,
+   "file": "11-1183-571.d91f883b7ea4.pmtiles",
+   "bytes": 133861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-571.d91f883b7ea4.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 572,
+   "file": "11-1183-572.c10a59f0928d.pmtiles",
+   "bytes": 185184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-572.c10a59f0928d.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 573,
+   "file": "11-1183-573.bf9aec6eb217.pmtiles",
+   "bytes": 171886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-573.bf9aec6eb217.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 574,
+   "file": "11-1183-574.544dfd3d55b4.pmtiles",
+   "bytes": 174833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-574.544dfd3d55b4.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 575,
+   "file": "11-1183-575.94715da1cf58.pmtiles",
+   "bytes": 174039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-575.94715da1cf58.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 576,
+   "file": "11-1183-576.91445fa1c608.pmtiles",
+   "bytes": 239063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-576.91445fa1c608.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 577,
+   "file": "11-1183-577.9186f5bf9001.pmtiles",
+   "bytes": 151823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-577.9186f5bf9001.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 578,
+   "file": "11-1183-578.e35e00e15707.pmtiles",
+   "bytes": 178911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-578.e35e00e15707.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 579,
+   "file": "11-1183-579.32070a251727.pmtiles",
+   "bytes": 88061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-579.32070a251727.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 580,
+   "file": "11-1183-580.4e194abd3920.pmtiles",
+   "bytes": 240372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-580.4e194abd3920.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 581,
+   "file": "11-1183-581.10e5215cac53.pmtiles",
+   "bytes": 316955,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1183-581.10e5215cac53.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 564,
+   "file": "11-1184-564.8129e8c4338a.pmtiles",
+   "bytes": 46773,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-564.8129e8c4338a.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 565,
+   "file": "11-1184-565.251f2e3bc135.pmtiles",
+   "bytes": 158063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-565.251f2e3bc135.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 566,
+   "file": "11-1184-566.99ad349a571b.pmtiles",
+   "bytes": 115042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-566.99ad349a571b.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 567,
+   "file": "11-1184-567.93bce0e30b5d.pmtiles",
+   "bytes": 171912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-567.93bce0e30b5d.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 568,
+   "file": "11-1184-568.e43ca0ff0e92.pmtiles",
+   "bytes": 145197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-568.e43ca0ff0e92.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 569,
+   "file": "11-1184-569.0cc245fabf76.pmtiles",
+   "bytes": 181685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-569.0cc245fabf76.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 570,
+   "file": "11-1184-570.7a37de79d713.pmtiles",
+   "bytes": 184564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-570.7a37de79d713.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 571,
+   "file": "11-1184-571.9c1f385a1870.pmtiles",
+   "bytes": 180937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-571.9c1f385a1870.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 572,
+   "file": "11-1184-572.15758b2436dd.pmtiles",
+   "bytes": 143606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-572.15758b2436dd.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 573,
+   "file": "11-1184-573.8a931144faa9.pmtiles",
+   "bytes": 178220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-573.8a931144faa9.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 574,
+   "file": "11-1184-574.424205cfc6b0.pmtiles",
+   "bytes": 179593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-574.424205cfc6b0.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 575,
+   "file": "11-1184-575.15816a0877e8.pmtiles",
+   "bytes": 193334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-575.15816a0877e8.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 576,
+   "file": "11-1184-576.1a63257a0c19.pmtiles",
+   "bytes": 250606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-576.1a63257a0c19.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 577,
+   "file": "11-1184-577.7831330ab65f.pmtiles",
+   "bytes": 284194,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-577.7831330ab65f.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 578,
+   "file": "11-1184-578.27b584edb763.pmtiles",
+   "bytes": 187444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-578.27b584edb763.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 579,
+   "file": "11-1184-579.70bdd7a732ef.pmtiles",
+   "bytes": 128708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-579.70bdd7a732ef.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 580,
+   "file": "11-1184-580.f1b1c334b026.pmtiles",
+   "bytes": 227766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-580.f1b1c334b026.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 581,
+   "file": "11-1184-581.c43a75e67bcb.pmtiles",
+   "bytes": 226722,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1184-581.c43a75e67bcb.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 564,
+   "file": "11-1185-564.ff93037569f8.pmtiles",
+   "bytes": 39970,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-564.ff93037569f8.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 565,
+   "file": "11-1185-565.aa14f145a948.pmtiles",
+   "bytes": 141537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-565.aa14f145a948.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 566,
+   "file": "11-1185-566.faa3e979824e.pmtiles",
+   "bytes": 120957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-566.faa3e979824e.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 567,
+   "file": "11-1185-567.167f5d5d1833.pmtiles",
+   "bytes": 107327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-567.167f5d5d1833.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 568,
+   "file": "11-1185-568.ea483922bdaf.pmtiles",
+   "bytes": 133274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-568.ea483922bdaf.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 569,
+   "file": "11-1185-569.74f5d4b49ccc.pmtiles",
+   "bytes": 260740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-569.74f5d4b49ccc.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 570,
+   "file": "11-1185-570.4bfb8487381a.pmtiles",
+   "bytes": 250414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-570.4bfb8487381a.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 571,
+   "file": "11-1185-571.71458bab4497.pmtiles",
+   "bytes": 195795,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-571.71458bab4497.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 572,
+   "file": "11-1185-572.4da9c0530052.pmtiles",
+   "bytes": 179132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-572.4da9c0530052.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 573,
+   "file": "11-1185-573.2eedc2f2838e.pmtiles",
+   "bytes": 256362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-573.2eedc2f2838e.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 574,
+   "file": "11-1185-574.ea5458e47caa.pmtiles",
+   "bytes": 215749,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-574.ea5458e47caa.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 575,
+   "file": "11-1185-575.ac3ad2743cb1.pmtiles",
+   "bytes": 175093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-575.ac3ad2743cb1.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 576,
+   "file": "11-1185-576.4ad9999ade4c.pmtiles",
+   "bytes": 189827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-576.4ad9999ade4c.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 577,
+   "file": "11-1185-577.06c53c280d37.pmtiles",
+   "bytes": 209450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-577.06c53c280d37.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 578,
+   "file": "11-1185-578.d5d4939aeac2.pmtiles",
+   "bytes": 223104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-578.d5d4939aeac2.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 579,
+   "file": "11-1185-579.4365119f32cc.pmtiles",
+   "bytes": 137863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-579.4365119f32cc.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 580,
+   "file": "11-1185-580.315f8b37c87f.pmtiles",
+   "bytes": 88762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-580.315f8b37c87f.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 581,
+   "file": "11-1185-581.c16c4e6e5ceb.pmtiles",
+   "bytes": 117100,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1185-581.c16c4e6e5ceb.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 564,
+   "file": "11-1186-564.c78842d2a093.pmtiles",
+   "bytes": 73584,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-564.c78842d2a093.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 565,
+   "file": "11-1186-565.5695acba6099.pmtiles",
+   "bytes": 161140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-565.5695acba6099.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 566,
+   "file": "11-1186-566.9ac2203a3b0b.pmtiles",
+   "bytes": 166960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-566.9ac2203a3b0b.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 567,
+   "file": "11-1186-567.f657f6c0f38c.pmtiles",
+   "bytes": 107615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-567.f657f6c0f38c.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 568,
+   "file": "11-1186-568.c4474bcde7c0.pmtiles",
+   "bytes": 191946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-568.c4474bcde7c0.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 569,
+   "file": "11-1186-569.0e52931c7330.pmtiles",
+   "bytes": 246837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-569.0e52931c7330.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 570,
+   "file": "11-1186-570.fbaf654cd2ff.pmtiles",
+   "bytes": 127799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-570.fbaf654cd2ff.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 571,
+   "file": "11-1186-571.82e87f65e77c.pmtiles",
+   "bytes": 194838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-571.82e87f65e77c.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 572,
+   "file": "11-1186-572.dad66a4de683.pmtiles",
+   "bytes": 235773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-572.dad66a4de683.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 573,
+   "file": "11-1186-573.66d8dcc5f70e.pmtiles",
+   "bytes": 207903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-573.66d8dcc5f70e.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 574,
+   "file": "11-1186-574.b6ad7a148835.pmtiles",
+   "bytes": 179969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-574.b6ad7a148835.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 575,
+   "file": "11-1186-575.b648a45c59ea.pmtiles",
+   "bytes": 222150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-575.b648a45c59ea.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 576,
+   "file": "11-1186-576.8329305e6ab3.pmtiles",
+   "bytes": 172548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-576.8329305e6ab3.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 577,
+   "file": "11-1186-577.f357259cd5b0.pmtiles",
+   "bytes": 201792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-577.f357259cd5b0.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 578,
+   "file": "11-1186-578.5c9ebd467487.pmtiles",
+   "bytes": 184186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-578.5c9ebd467487.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 579,
+   "file": "11-1186-579.7412de13b1c5.pmtiles",
+   "bytes": 206462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-579.7412de13b1c5.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 580,
+   "file": "11-1186-580.e309d1e75e9a.pmtiles",
+   "bytes": 147258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-580.e309d1e75e9a.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 581,
+   "file": "11-1186-581.97965f50474b.pmtiles",
+   "bytes": 181511,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1186-581.97965f50474b.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 564,
+   "file": "11-1187-564.cd4a27e3a3ba.pmtiles",
+   "bytes": 55297,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-564.cd4a27e3a3ba.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 565,
+   "file": "11-1187-565.7ac035bb21a9.pmtiles",
+   "bytes": 129851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-565.7ac035bb21a9.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 566,
+   "file": "11-1187-566.1a1e522acb2d.pmtiles",
+   "bytes": 194319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-566.1a1e522acb2d.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 567,
+   "file": "11-1187-567.43abfec664a3.pmtiles",
+   "bytes": 175496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-567.43abfec664a3.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 568,
+   "file": "11-1187-568.54cfce9a672d.pmtiles",
+   "bytes": 179913,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-568.54cfce9a672d.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 569,
+   "file": "11-1187-569.f664129afa04.pmtiles",
+   "bytes": 198408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-569.f664129afa04.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 570,
+   "file": "11-1187-570.785518ba9857.pmtiles",
+   "bytes": 211772,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-570.785518ba9857.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 571,
+   "file": "11-1187-571.7a9cfced914c.pmtiles",
+   "bytes": 161681,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-571.7a9cfced914c.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 572,
+   "file": "11-1187-572.f7f1cf9f8137.pmtiles",
+   "bytes": 332515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-572.f7f1cf9f8137.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 573,
+   "file": "11-1187-573.982fc81d29df.pmtiles",
+   "bytes": 275218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-573.982fc81d29df.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 574,
+   "file": "11-1187-574.9407e1a1173d.pmtiles",
+   "bytes": 209563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-574.9407e1a1173d.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 575,
+   "file": "11-1187-575.e28965758e02.pmtiles",
+   "bytes": 228524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-575.e28965758e02.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 576,
+   "file": "11-1187-576.a5b26844e30e.pmtiles",
+   "bytes": 147865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-576.a5b26844e30e.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 577,
+   "file": "11-1187-577.a8093cdb96b7.pmtiles",
+   "bytes": 169976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-577.a8093cdb96b7.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 578,
+   "file": "11-1187-578.5024c035d418.pmtiles",
+   "bytes": 173120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-578.5024c035d418.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 579,
+   "file": "11-1187-579.2b82fcc6904b.pmtiles",
+   "bytes": 350210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-579.2b82fcc6904b.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 580,
+   "file": "11-1187-580.3339f55e4cf3.pmtiles",
+   "bytes": 595635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-580.3339f55e4cf3.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 581,
+   "file": "11-1187-581.2f594d0fd442.pmtiles",
+   "bytes": 449847,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1187-581.2f594d0fd442.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 564,
+   "file": "11-1188-564.e684c3b8d790.pmtiles",
+   "bytes": 39918,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-564.e684c3b8d790.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 565,
+   "file": "11-1188-565.02e292b2b9f0.pmtiles",
+   "bytes": 98576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-565.02e292b2b9f0.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 566,
+   "file": "11-1188-566.777f2df1e2a8.pmtiles",
+   "bytes": 172768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-566.777f2df1e2a8.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 567,
+   "file": "11-1188-567.26d2062a4780.pmtiles",
+   "bytes": 136961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-567.26d2062a4780.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 568,
+   "file": "11-1188-568.75cc3a189ae2.pmtiles",
+   "bytes": 204033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-568.75cc3a189ae2.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 569,
+   "file": "11-1188-569.9ad9d5d5dc5e.pmtiles",
+   "bytes": 184869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-569.9ad9d5d5dc5e.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 570,
+   "file": "11-1188-570.f5f25fe13eec.pmtiles",
+   "bytes": 286660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-570.f5f25fe13eec.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 571,
+   "file": "11-1188-571.558169a0c549.pmtiles",
+   "bytes": 219192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-571.558169a0c549.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 572,
+   "file": "11-1188-572.5adc54e65ca4.pmtiles",
+   "bytes": 493347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-572.5adc54e65ca4.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 573,
+   "file": "11-1188-573.2e7bc4006fd7.pmtiles",
+   "bytes": 245827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-573.2e7bc4006fd7.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 574,
+   "file": "11-1188-574.8ca2c1e476ad.pmtiles",
+   "bytes": 226620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-574.8ca2c1e476ad.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 575,
+   "file": "11-1188-575.d42f9cc5f9d9.pmtiles",
+   "bytes": 191872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-575.d42f9cc5f9d9.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 576,
+   "file": "11-1188-576.611c6a9f6b5f.pmtiles",
+   "bytes": 148188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-576.611c6a9f6b5f.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 577,
+   "file": "11-1188-577.ecedfa8712e1.pmtiles",
+   "bytes": 164974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-577.ecedfa8712e1.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 578,
+   "file": "11-1188-578.8ddc6d9bcbe0.pmtiles",
+   "bytes": 409061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-578.8ddc6d9bcbe0.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 579,
+   "file": "11-1188-579.ba1ffe0a8705.pmtiles",
+   "bytes": 466761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-579.ba1ffe0a8705.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 580,
+   "file": "11-1188-580.77d4e494e86d.pmtiles",
+   "bytes": 533830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-580.77d4e494e86d.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 581,
+   "file": "11-1188-581.634334bec09a.pmtiles",
+   "bytes": 143219,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1188-581.634334bec09a.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 564,
+   "file": "11-1189-564.a683639ab654.pmtiles",
+   "bytes": 52647,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-564.a683639ab654.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 565,
+   "file": "11-1189-565.5ee3eb19c79e.pmtiles",
+   "bytes": 144680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-565.5ee3eb19c79e.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 566,
+   "file": "11-1189-566.879c26aaa28c.pmtiles",
+   "bytes": 181833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-566.879c26aaa28c.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 567,
+   "file": "11-1189-567.dd9ee3032198.pmtiles",
+   "bytes": 167974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-567.dd9ee3032198.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 568,
+   "file": "11-1189-568.7e29af59bab3.pmtiles",
+   "bytes": 155119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-568.7e29af59bab3.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 569,
+   "file": "11-1189-569.355ca5526221.pmtiles",
+   "bytes": 138076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-569.355ca5526221.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 570,
+   "file": "11-1189-570.6ee7b63ae410.pmtiles",
+   "bytes": 193599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-570.6ee7b63ae410.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 571,
+   "file": "11-1189-571.a4a9836f6d9c.pmtiles",
+   "bytes": 155003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-571.a4a9836f6d9c.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 572,
+   "file": "11-1189-572.ed3147465849.pmtiles",
+   "bytes": 243949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-572.ed3147465849.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 573,
+   "file": "11-1189-573.ef6ef3df9e08.pmtiles",
+   "bytes": 210777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-573.ef6ef3df9e08.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 574,
+   "file": "11-1189-574.c7b7fbe86381.pmtiles",
+   "bytes": 216875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-574.c7b7fbe86381.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 575,
+   "file": "11-1189-575.7a9da1fbceec.pmtiles",
+   "bytes": 275043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-575.7a9da1fbceec.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 576,
+   "file": "11-1189-576.44eb17334f27.pmtiles",
+   "bytes": 327153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-576.44eb17334f27.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 577,
+   "file": "11-1189-577.2135e6e63510.pmtiles",
+   "bytes": 328906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-577.2135e6e63510.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 578,
+   "file": "11-1189-578.c7e4378781f6.pmtiles",
+   "bytes": 373471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-578.c7e4378781f6.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 579,
+   "file": "11-1189-579.ab51a6b7b093.pmtiles",
+   "bytes": 419817,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-579.ab51a6b7b093.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 580,
+   "file": "11-1189-580.8e9836333d66.pmtiles",
+   "bytes": 276327,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-580.8e9836333d66.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 581,
+   "file": "11-1189-581.8356f1fbab75.pmtiles",
+   "bytes": 26783,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1189-581.8356f1fbab75.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 564,
+   "file": "11-1190-564.70e494b6f2af.pmtiles",
+   "bytes": 68520,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-564.70e494b6f2af.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 565,
+   "file": "11-1190-565.5f538f830ae1.pmtiles",
+   "bytes": 194480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-565.5f538f830ae1.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 566,
+   "file": "11-1190-566.534527558e1b.pmtiles",
+   "bytes": 118446,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-566.534527558e1b.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 567,
+   "file": "11-1190-567.082b01c9e799.pmtiles",
+   "bytes": 150813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-567.082b01c9e799.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 568,
+   "file": "11-1190-568.2a04c09f0d65.pmtiles",
+   "bytes": 193894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-568.2a04c09f0d65.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 569,
+   "file": "11-1190-569.150c8b8e1446.pmtiles",
+   "bytes": 236901,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-569.150c8b8e1446.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 570,
+   "file": "11-1190-570.a8a939dd0ceb.pmtiles",
+   "bytes": 159160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-570.a8a939dd0ceb.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 571,
+   "file": "11-1190-571.92b8103c006a.pmtiles",
+   "bytes": 162143,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-571.92b8103c006a.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 572,
+   "file": "11-1190-572.c773fcc4bf93.pmtiles",
+   "bytes": 251491,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-572.c773fcc4bf93.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 573,
+   "file": "11-1190-573.677aac9caea5.pmtiles",
+   "bytes": 306647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-573.677aac9caea5.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 574,
+   "file": "11-1190-574.3408efcf7850.pmtiles",
+   "bytes": 187941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-574.3408efcf7850.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 575,
+   "file": "11-1190-575.7eeeb30f1307.pmtiles",
+   "bytes": 191940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-575.7eeeb30f1307.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 576,
+   "file": "11-1190-576.a97182cf223b.pmtiles",
+   "bytes": 404918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-576.a97182cf223b.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 577,
+   "file": "11-1190-577.62399fb41b86.pmtiles",
+   "bytes": 442411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-577.62399fb41b86.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 578,
+   "file": "11-1190-578.4efa6b86d8d0.pmtiles",
+   "bytes": 384339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-578.4efa6b86d8d0.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 579,
+   "file": "11-1190-579.a3479892649e.pmtiles",
+   "bytes": 275735,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-579.a3479892649e.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 580,
+   "file": "11-1190-580.e5a8ede6b118.pmtiles",
+   "bytes": 27941,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1190-580.e5a8ede6b118.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 564,
+   "file": "11-1191-564.da4297334b3c.pmtiles",
+   "bytes": 153262,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-564.da4297334b3c.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 565,
+   "file": "11-1191-565.04352d9c37bf.pmtiles",
+   "bytes": 284695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-565.04352d9c37bf.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 566,
+   "file": "11-1191-566.2cd242685059.pmtiles",
+   "bytes": 163669,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-566.2cd242685059.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 567,
+   "file": "11-1191-567.c46c3589d742.pmtiles",
+   "bytes": 261242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-567.c46c3589d742.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 568,
+   "file": "11-1191-568.54cdd672a71f.pmtiles",
+   "bytes": 79636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-568.54cdd672a71f.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 569,
+   "file": "11-1191-569.a48035a9da7a.pmtiles",
+   "bytes": 69810,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-569.a48035a9da7a.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 570,
+   "file": "11-1191-570.7a189b08c704.pmtiles",
+   "bytes": 191777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-570.7a189b08c704.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 571,
+   "file": "11-1191-571.522eabe52e79.pmtiles",
+   "bytes": 129184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-571.522eabe52e79.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 572,
+   "file": "11-1191-572.341e9d32b2f1.pmtiles",
+   "bytes": 98052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-572.341e9d32b2f1.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 573,
+   "file": "11-1191-573.84d180f45cb8.pmtiles",
+   "bytes": 92564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-573.84d180f45cb8.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 574,
+   "file": "11-1191-574.336bb690772c.pmtiles",
+   "bytes": 288844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-574.336bb690772c.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 575,
+   "file": "11-1191-575.18b2484fc1d1.pmtiles",
+   "bytes": 258385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-575.18b2484fc1d1.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 576,
+   "file": "11-1191-576.a7a7001533d5.pmtiles",
+   "bytes": 383178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-576.a7a7001533d5.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 577,
+   "file": "11-1191-577.a20da09144ac.pmtiles",
+   "bytes": 280468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-577.a20da09144ac.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 578,
+   "file": "11-1191-578.4494e4443228.pmtiles",
+   "bytes": 190820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1191-578.4494e4443228.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 564,
+   "file": "11-1192-564.11c193c7b92d.pmtiles",
+   "bytes": 55119,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-564.11c193c7b92d.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 565,
+   "file": "11-1192-565.ad94d492ae9c.pmtiles",
+   "bytes": 229187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-565.ad94d492ae9c.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 566,
+   "file": "11-1192-566.fb4aa53ba4f2.pmtiles",
+   "bytes": 228472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-566.fb4aa53ba4f2.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 567,
+   "file": "11-1192-567.558da59052ae.pmtiles",
+   "bytes": 240861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-567.558da59052ae.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 568,
+   "file": "11-1192-568.02808477d515.pmtiles",
+   "bytes": 217964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-568.02808477d515.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 569,
+   "file": "11-1192-569.946f1e01510c.pmtiles",
+   "bytes": 172368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-569.946f1e01510c.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 570,
+   "file": "11-1192-570.eebcd9d3f6b3.pmtiles",
+   "bytes": 139026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-570.eebcd9d3f6b3.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 571,
+   "file": "11-1192-571.8e4da3decb67.pmtiles",
+   "bytes": 74596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-571.8e4da3decb67.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 572,
+   "file": "11-1192-572.292b6b7e2b94.pmtiles",
+   "bytes": 98505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-572.292b6b7e2b94.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 573,
+   "file": "11-1192-573.0f9820e60cd1.pmtiles",
+   "bytes": 175045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-573.0f9820e60cd1.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 574,
+   "file": "11-1192-574.70524b6be86b.pmtiles",
+   "bytes": 172649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-574.70524b6be86b.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 575,
+   "file": "11-1192-575.270a8414b8e1.pmtiles",
+   "bytes": 244893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-575.270a8414b8e1.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 576,
+   "file": "11-1192-576.8c66c40240a2.pmtiles",
+   "bytes": 202231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-576.8c66c40240a2.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 577,
+   "file": "11-1192-577.20b17ae5efa3.pmtiles",
+   "bytes": 95601,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-577.20b17ae5efa3.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 578,
+   "file": "11-1192-578.b019598579f2.pmtiles",
+   "bytes": 27329,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-fi-etela-savo-2026-10-03/11-1192-578.b019598579f2.pmtiles"
+  }
+ ]
+}
