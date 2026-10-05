@@ -1,0 +1,549 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hr-primorsko-goranska",
+ "source": "hr.pmtiles",
+ "builtAt": "2026-10-05T22:47:49.661Z",
+ "publishedAt": "2026-10-05T22:48:08.531Z",
+ "host": "github",
+ "releases": [
+  "maps-hr-primorsko-goranska-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.10719,
+  44.44068,
+  15.23525,
+  45.67294
+ ],
+ "overview": {
+  "file": "overview.7ac4aa2672b6.pmtiles",
+  "bytes": 1529069,
+  "tiles": 44,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/overview.7ac4aa2672b6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1104,
+   "y": 732,
+   "file": "11-1104-732.dd2e8c90a84b.pmtiles",
+   "bytes": 96409,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-732.dd2e8c90a84b.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 733,
+   "file": "11-1104-733.eeca90d71863.pmtiles",
+   "bytes": 322667,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-733.eeca90d71863.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 734,
+   "file": "11-1104-734.20026f7eb4be.pmtiles",
+   "bytes": 885517,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-734.20026f7eb4be.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 735,
+   "file": "11-1104-735.1fb7a8991159.pmtiles",
+   "bytes": 867534,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-735.1fb7a8991159.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 736,
+   "file": "11-1104-736.88c6b1016336.pmtiles",
+   "bytes": 387191,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-736.88c6b1016336.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 737,
+   "file": "11-1104-737.a91713c8c458.pmtiles",
+   "bytes": 21422,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-737.a91713c8c458.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 739,
+   "file": "11-1104-739.f3fc56809675.pmtiles",
+   "bytes": 20088,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1104-739.f3fc56809675.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 732,
+   "file": "11-1105-732.46b482bc45f4.pmtiles",
+   "bytes": 179923,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-732.46b482bc45f4.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 733,
+   "file": "11-1105-733.c2e5cfeee2e5.pmtiles",
+   "bytes": 1211474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-733.c2e5cfeee2e5.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 734,
+   "file": "11-1105-734.df2668b55883.pmtiles",
+   "bytes": 532804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-734.df2668b55883.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 735,
+   "file": "11-1105-735.2a8f03abe364.pmtiles",
+   "bytes": 155707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-735.2a8f03abe364.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 736,
+   "file": "11-1105-736.aabe558c3bd7.pmtiles",
+   "bytes": 114600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-736.aabe558c3bd7.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 737,
+   "file": "11-1105-737.5eef5ca78f11.pmtiles",
+   "bytes": 189258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-737.5eef5ca78f11.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 738,
+   "file": "11-1105-738.66b48685dd9d.pmtiles",
+   "bytes": 127823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-738.66b48685dd9d.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 739,
+   "file": "11-1105-739.441863519084.pmtiles",
+   "bytes": 252308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-739.441863519084.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 740,
+   "file": "11-1105-740.d244bffd0f71.pmtiles",
+   "bytes": 147549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1105-740.d244bffd0f71.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 731,
+   "file": "11-1106-731.9ac8c95f74cc.pmtiles",
+   "bytes": 100374,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-731.9ac8c95f74cc.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 732,
+   "file": "11-1106-732.58303317c048.pmtiles",
+   "bytes": 124828,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-732.58303317c048.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 733,
+   "file": "11-1106-733.327f43fde519.pmtiles",
+   "bytes": 767088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-733.327f43fde519.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 734,
+   "file": "11-1106-734.9d1d9eb7f978.pmtiles",
+   "bytes": 961242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-734.9d1d9eb7f978.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 735,
+   "file": "11-1106-735.a11a20feec5f.pmtiles",
+   "bytes": 510082,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-735.a11a20feec5f.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 736,
+   "file": "11-1106-736.e328bbeecf4c.pmtiles",
+   "bytes": 432984,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-736.e328bbeecf4c.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 737,
+   "file": "11-1106-737.e3dfc896ad1b.pmtiles",
+   "bytes": 115354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-737.e3dfc896ad1b.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 738,
+   "file": "11-1106-738.8dae4494729d.pmtiles",
+   "bytes": 77145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-738.8dae4494729d.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 739,
+   "file": "11-1106-739.5289241ca2db.pmtiles",
+   "bytes": 150818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-739.5289241ca2db.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 740,
+   "file": "11-1106-740.08383a839d20.pmtiles",
+   "bytes": 279880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-740.08383a839d20.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 741,
+   "file": "11-1106-741.1fb12fc539cd.pmtiles",
+   "bytes": 39592,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1106-741.1fb12fc539cd.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 731,
+   "file": "11-1107-731.2fc957e2aaee.pmtiles",
+   "bytes": 208376,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-731.2fc957e2aaee.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 732,
+   "file": "11-1107-732.e168d775e2da.pmtiles",
+   "bytes": 320210,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-732.e168d775e2da.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 733,
+   "file": "11-1107-733.40be5ff5974d.pmtiles",
+   "bytes": 307761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-733.40be5ff5974d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 734,
+   "file": "11-1107-734.b9443a807580.pmtiles",
+   "bytes": 773846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-734.b9443a807580.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 735,
+   "file": "11-1107-735.81693e364b97.pmtiles",
+   "bytes": 727341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-735.81693e364b97.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 736,
+   "file": "11-1107-736.d2259c867f21.pmtiles",
+   "bytes": 456935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-736.d2259c867f21.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 737,
+   "file": "11-1107-737.bcf26fdc50cb.pmtiles",
+   "bytes": 158763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-737.bcf26fdc50cb.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 738,
+   "file": "11-1107-738.8360efa5a55f.pmtiles",
+   "bytes": 578545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-738.8360efa5a55f.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 739,
+   "file": "11-1107-739.32b250201d9f.pmtiles",
+   "bytes": 57268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1107-739.32b250201d9f.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 732,
+   "file": "11-1108-732.6c4d3d746f8d.pmtiles",
+   "bytes": 319732,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-732.6c4d3d746f8d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 733,
+   "file": "11-1108-733.97ee84e6d727.pmtiles",
+   "bytes": 405272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-733.97ee84e6d727.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 734,
+   "file": "11-1108-734.4ac83b1850b8.pmtiles",
+   "bytes": 226462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-734.4ac83b1850b8.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 735,
+   "file": "11-1108-735.0fe6b203485e.pmtiles",
+   "bytes": 620325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-735.0fe6b203485e.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 736,
+   "file": "11-1108-736.b9b10ddd3680.pmtiles",
+   "bytes": 391714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-736.b9b10ddd3680.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 737,
+   "file": "11-1108-737.3c8aefa073f7.pmtiles",
+   "bytes": 212080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-737.3c8aefa073f7.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 738,
+   "file": "11-1108-738.ca484cfe7df6.pmtiles",
+   "bytes": 526662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-738.ca484cfe7df6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 739,
+   "file": "11-1108-739.39c7f92b39ff.pmtiles",
+   "bytes": 399727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-739.39c7f92b39ff.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 740,
+   "file": "11-1108-740.dc1808e09238.pmtiles",
+   "bytes": 253101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1108-740.dc1808e09238.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 732,
+   "file": "11-1109-732.e0f9e3c417a6.pmtiles",
+   "bytes": 212107,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-732.e0f9e3c417a6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 733,
+   "file": "11-1109-733.0083b66f3386.pmtiles",
+   "bytes": 395247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-733.0083b66f3386.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 734,
+   "file": "11-1109-734.8c51cde9f4d3.pmtiles",
+   "bytes": 157359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-734.8c51cde9f4d3.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 735,
+   "file": "11-1109-735.a5500882d929.pmtiles",
+   "bytes": 196723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-735.a5500882d929.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 736,
+   "file": "11-1109-736.43713983eeca.pmtiles",
+   "bytes": 396955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-736.43713983eeca.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 737,
+   "file": "11-1109-737.ed23db3e2415.pmtiles",
+   "bytes": 337854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-737.ed23db3e2415.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 738,
+   "file": "11-1109-738.995d243406ba.pmtiles",
+   "bytes": 548405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-738.995d243406ba.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 739,
+   "file": "11-1109-739.47ea57481206.pmtiles",
+   "bytes": 407708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-739.47ea57481206.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 740,
+   "file": "11-1109-740.891ef8693e53.pmtiles",
+   "bytes": 358576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-740.891ef8693e53.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 741,
+   "file": "11-1109-741.aacab09efdbd.pmtiles",
+   "bytes": 171960,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1109-741.aacab09efdbd.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 732,
+   "file": "11-1110-732.5733118652d9.pmtiles",
+   "bytes": 28714,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-732.5733118652d9.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 733,
+   "file": "11-1110-733.7b4114ef0fc1.pmtiles",
+   "bytes": 328327,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-733.7b4114ef0fc1.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 734,
+   "file": "11-1110-734.f4eae6f2b50f.pmtiles",
+   "bytes": 520970,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-734.f4eae6f2b50f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 735,
+   "file": "11-1110-735.d90df1fa8232.pmtiles",
+   "bytes": 225457,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-735.d90df1fa8232.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 736,
+   "file": "11-1110-736.d119bf05596f.pmtiles",
+   "bytes": 325740,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-736.d119bf05596f.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 737,
+   "file": "11-1110-737.9b75ce1f3040.pmtiles",
+   "bytes": 410073,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-737.9b75ce1f3040.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 738,
+   "file": "11-1110-738.0d21806307f7.pmtiles",
+   "bytes": 271089,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-738.0d21806307f7.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 739,
+   "file": "11-1110-739.29468efcf521.pmtiles",
+   "bytes": 310980,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-739.29468efcf521.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 740,
+   "file": "11-1110-740.05175533c604.pmtiles",
+   "bytes": 308873,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-740.05175533c604.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 741,
+   "file": "11-1110-741.796164f62759.pmtiles",
+   "bytes": 75423,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-primorsko-goranska-2026-10-03/11-1110-741.796164f62759.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hr-karlovacka",
+ "source": "hr.pmtiles",
+ "builtAt": "2026-10-05T22:46:08.006Z",
+ "publishedAt": "2026-10-05T22:46:22.209Z",
+ "host": "github",
+ "releases": [
+  "maps-hr-karlovacka-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.96118,
+  44.87968,
+  15.92505,
+  45.76255
+ ],
+ "overview": {
+  "file": "overview.e4a980cc1719.pmtiles",
+  "bytes": 1727599,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/overview.e4a980cc1719.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1109,
+   "y": 732,
+   "file": "11-1109-732.e0f9e3c417a6.pmtiles",
+   "bytes": 212107,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-732.e0f9e3c417a6.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 733,
+   "file": "11-1109-733.0083b66f3386.pmtiles",
+   "bytes": 395247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-733.0083b66f3386.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 734,
+   "file": "11-1109-734.8c51cde9f4d3.pmtiles",
+   "bytes": 157359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-734.8c51cde9f4d3.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 735,
+   "file": "11-1109-735.a5500882d929.pmtiles",
+   "bytes": 196723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-735.a5500882d929.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 736,
+   "file": "11-1109-736.43713983eeca.pmtiles",
+   "bytes": 396955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-736.43713983eeca.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 737,
+   "file": "11-1109-737.b9a9220ca444.pmtiles",
+   "bytes": 280162,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1109-737.b9a9220ca444.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 730,
+   "file": "11-1110-730.21edb3cfd586.pmtiles",
+   "bytes": 40574,
+   "tiles": 17,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-730.21edb3cfd586.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 731,
+   "file": "11-1110-731.4ea45c520d3c.pmtiles",
+   "bytes": 64367,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-731.4ea45c520d3c.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 732,
+   "file": "11-1110-732.1bdddaf127d9.pmtiles",
+   "bytes": 56191,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-732.1bdddaf127d9.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 733,
+   "file": "11-1110-733.9c966d58de13.pmtiles",
+   "bytes": 414458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-733.9c966d58de13.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 734,
+   "file": "11-1110-734.f36e2c59f317.pmtiles",
+   "bytes": 701585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-734.f36e2c59f317.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 735,
+   "file": "11-1110-735.cca344b3fbca.pmtiles",
+   "bytes": 509887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-735.cca344b3fbca.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 736,
+   "file": "11-1110-736.dea89d95c0fc.pmtiles",
+   "bytes": 366703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-736.dea89d95c0fc.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 737,
+   "file": "11-1110-737.699904a8fb45.pmtiles",
+   "bytes": 359126,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1110-737.699904a8fb45.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 730,
+   "file": "11-1111-730.83ffd282c13e.pmtiles",
+   "bytes": 401663,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-730.83ffd282c13e.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 731,
+   "file": "11-1111-731.be6cb6e9e150.pmtiles",
+   "bytes": 812892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-731.be6cb6e9e150.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 732,
+   "file": "11-1111-732.d987882ac70a.pmtiles",
+   "bytes": 572199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-732.d987882ac70a.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 733,
+   "file": "11-1111-733.e05befa3ab62.pmtiles",
+   "bytes": 578808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-733.e05befa3ab62.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 734,
+   "file": "11-1111-734.07133f943e54.pmtiles",
+   "bytes": 488188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-734.07133f943e54.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 735,
+   "file": "11-1111-735.52248622413f.pmtiles",
+   "bytes": 587977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-735.52248622413f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 736,
+   "file": "11-1111-736.7798ae6e41a8.pmtiles",
+   "bytes": 242879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-736.7798ae6e41a8.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 737,
+   "file": "11-1111-737.94f5ec0b95cc.pmtiles",
+   "bytes": 195104,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1111-737.94f5ec0b95cc.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 730,
+   "file": "11-1112-730.277c87400979.pmtiles",
+   "bytes": 398424,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-730.277c87400979.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 731,
+   "file": "11-1112-731.1f7e1aa5606a.pmtiles",
+   "bytes": 1067319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-731.1f7e1aa5606a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 732,
+   "file": "11-1112-732.c884467e7a0e.pmtiles",
+   "bytes": 1165570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-732.c884467e7a0e.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 733,
+   "file": "11-1112-733.a090a7a5f541.pmtiles",
+   "bytes": 807563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-733.a090a7a5f541.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 734,
+   "file": "11-1112-734.33f0bae73e5c.pmtiles",
+   "bytes": 532718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-734.33f0bae73e5c.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 735,
+   "file": "11-1112-735.c6be82d42842.pmtiles",
+   "bytes": 566139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-735.c6be82d42842.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 736,
+   "file": "11-1112-736.19db468329d5.pmtiles",
+   "bytes": 226476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-736.19db468329d5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 737,
+   "file": "11-1112-737.ad1dd6b996e2.pmtiles",
+   "bytes": 247309,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1112-737.ad1dd6b996e2.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 730,
+   "file": "11-1113-730.3452689ff85f.pmtiles",
+   "bytes": 662579,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-730.3452689ff85f.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 731,
+   "file": "11-1113-731.7a3eddd3e499.pmtiles",
+   "bytes": 763171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-731.7a3eddd3e499.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 732,
+   "file": "11-1113-732.ee10576e305b.pmtiles",
+   "bytes": 831963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-732.ee10576e305b.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 733,
+   "file": "11-1113-733.bfc46f2ce3f7.pmtiles",
+   "bytes": 573683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-733.bfc46f2ce3f7.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 734,
+   "file": "11-1113-734.01f57b614335.pmtiles",
+   "bytes": 487027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-734.01f57b614335.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 735,
+   "file": "11-1113-735.2475e503adf1.pmtiles",
+   "bytes": 490601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-735.2475e503adf1.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 736,
+   "file": "11-1113-736.58e2b18e4376.pmtiles",
+   "bytes": 386699,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-736.58e2b18e4376.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 737,
+   "file": "11-1113-737.f87344d8195d.pmtiles",
+   "bytes": 193906,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1113-737.f87344d8195d.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 730,
+   "file": "11-1114-730.1c213ac729b3.pmtiles",
+   "bytes": 593190,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-730.1c213ac729b3.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 731,
+   "file": "11-1114-731.4c67aaecccb8.pmtiles",
+   "bytes": 892052,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-731.4c67aaecccb8.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 732,
+   "file": "11-1114-732.0bffd671fafd.pmtiles",
+   "bytes": 905861,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-732.0bffd671fafd.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 733,
+   "file": "11-1114-733.2170bb119c37.pmtiles",
+   "bytes": 504096,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-733.2170bb119c37.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 734,
+   "file": "11-1114-734.05c64f41f0a4.pmtiles",
+   "bytes": 344074,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-734.05c64f41f0a4.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 735,
+   "file": "11-1114-735.2edc6be91be2.pmtiles",
+   "bytes": 54780,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-karlovacka-2026-10-03/11-1114-735.2edc6be91be2.pmtiles"
+  }
+ ]
+}

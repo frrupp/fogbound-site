@@ -1,0 +1,373 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hr-zagrebacka",
+ "source": "hr.pmtiles",
+ "builtAt": "2026-10-05T22:45:53.491Z",
+ "publishedAt": "2026-10-05T22:46:07.871Z",
+ "host": "github",
+ "releases": [
+  "maps-hr-zagrebacka-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  15.32788,
+  45.46714,
+  16.71414,
+  46.07165
+ ],
+ "overview": {
+  "file": "overview.cfbe7e5254e7.pmtiles",
+  "bytes": 1748205,
+  "tiles": 31,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/overview.cfbe7e5254e7.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1111,
+   "y": 730,
+   "file": "11-1111-730.5d515fbfbeac.pmtiles",
+   "bytes": 489374,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1111-730.5d515fbfbeac.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 731,
+   "file": "11-1111-731.f5b4c88c681f.pmtiles",
+   "bytes": 727595,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1111-731.f5b4c88c681f.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 732,
+   "file": "11-1111-732.0d03ee814022.pmtiles",
+   "bytes": 528589,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1111-732.0d03ee814022.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 728,
+   "file": "11-1112-728.d97247c95ce0.pmtiles",
+   "bytes": 21348,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1112-728.d97247c95ce0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 729,
+   "file": "11-1112-729.90e1f0db68d0.pmtiles",
+   "bytes": 135139,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1112-729.90e1f0db68d0.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 730,
+   "file": "11-1112-730.26f879a23baf.pmtiles",
+   "bytes": 682977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1112-730.26f879a23baf.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 731,
+   "file": "11-1112-731.1f7e1aa5606a.pmtiles",
+   "bytes": 1067319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1112-731.1f7e1aa5606a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 732,
+   "file": "11-1112-732.c884467e7a0e.pmtiles",
+   "bytes": 1165570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1112-732.c884467e7a0e.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 728,
+   "file": "11-1113-728.198143678347.pmtiles",
+   "bytes": 699616,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1113-728.198143678347.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 729,
+   "file": "11-1113-729.e94ac5672778.pmtiles",
+   "bytes": 1334503,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1113-729.e94ac5672778.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 730,
+   "file": "11-1113-730.540b90dcd011.pmtiles",
+   "bytes": 1771820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1113-730.540b90dcd011.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 731,
+   "file": "11-1113-731.7a3eddd3e499.pmtiles",
+   "bytes": 763171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1113-731.7a3eddd3e499.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 732,
+   "file": "11-1113-732.ee10576e305b.pmtiles",
+   "bytes": 831963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1113-732.ee10576e305b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 728,
+   "file": "11-1114-728.012895116a51.pmtiles",
+   "bytes": 1106171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1114-728.012895116a51.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 729,
+   "file": "11-1114-729.5bd7a5b093bd.pmtiles",
+   "bytes": 1100636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1114-729.5bd7a5b093bd.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 730,
+   "file": "11-1114-730.45ec5975280b.pmtiles",
+   "bytes": 4301286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1114-730.45ec5975280b.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 731,
+   "file": "11-1114-731.7f67870ba9fa.pmtiles",
+   "bytes": 1300739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1114-731.7f67870ba9fa.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 732,
+   "file": "11-1114-732.9f4169f40df4.pmtiles",
+   "bytes": 1351457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1114-732.9f4169f40df4.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 728,
+   "file": "11-1115-728.921526b78bd5.pmtiles",
+   "bytes": 791688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1115-728.921526b78bd5.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 729,
+   "file": "11-1115-729.413efc9d8182.pmtiles",
+   "bytes": 1398016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1115-729.413efc9d8182.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 730,
+   "file": "11-1115-730.d8fd290aa310.pmtiles",
+   "bytes": 2885513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1115-730.d8fd290aa310.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 731,
+   "file": "11-1115-731.a2f55676faf0.pmtiles",
+   "bytes": 1383855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1115-731.a2f55676faf0.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 732,
+   "file": "11-1115-732.84dc5d43b7d2.pmtiles",
+   "bytes": 846360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1115-732.84dc5d43b7d2.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 728,
+   "file": "11-1116-728.f93cb94135e9.pmtiles",
+   "bytes": 668404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1116-728.f93cb94135e9.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 729,
+   "file": "11-1116-729.596f62fd8811.pmtiles",
+   "bytes": 682713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1116-729.596f62fd8811.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 730,
+   "file": "11-1116-730.f03b0fd5b0d8.pmtiles",
+   "bytes": 776849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1116-730.f03b0fd5b0d8.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 731,
+   "file": "11-1116-731.a1dd9957955a.pmtiles",
+   "bytes": 775627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1116-731.a1dd9957955a.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 732,
+   "file": "11-1116-732.88dab5e67ac0.pmtiles",
+   "bytes": 737119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1116-732.88dab5e67ac0.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 728,
+   "file": "11-1117-728.6caec67f9fcf.pmtiles",
+   "bytes": 372564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1117-728.6caec67f9fcf.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 729,
+   "file": "11-1117-729.9f12cc0b865d.pmtiles",
+   "bytes": 459476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1117-729.9f12cc0b865d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 730,
+   "file": "11-1117-730.cc0e73970d69.pmtiles",
+   "bytes": 627498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1117-730.cc0e73970d69.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 731,
+   "file": "11-1117-731.e3e45a8a5127.pmtiles",
+   "bytes": 503176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1117-731.e3e45a8a5127.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 732,
+   "file": "11-1117-732.4f6e655a0f65.pmtiles",
+   "bytes": 775335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1117-732.4f6e655a0f65.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 728,
+   "file": "11-1118-728.27f03d4d0e5c.pmtiles",
+   "bytes": 548713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1118-728.27f03d4d0e5c.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 729,
+   "file": "11-1118-729.f96897929e31.pmtiles",
+   "bytes": 421037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1118-729.f96897929e31.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 730,
+   "file": "11-1118-730.4e0d12c5eabe.pmtiles",
+   "bytes": 480441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1118-730.4e0d12c5eabe.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 731,
+   "file": "11-1118-731.d0ba6190f621.pmtiles",
+   "bytes": 363484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1118-731.d0ba6190f621.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 732,
+   "file": "11-1118-732.f15a2955952c.pmtiles",
+   "bytes": 493243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1118-732.f15a2955952c.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 728,
+   "file": "11-1119-728.d27275e577e7.pmtiles",
+   "bytes": 128485,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1119-728.d27275e577e7.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 729,
+   "file": "11-1119-729.5477a109c65b.pmtiles",
+   "bytes": 150912,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1119-729.5477a109c65b.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 730,
+   "file": "11-1119-730.2b7317eb0cbd.pmtiles",
+   "bytes": 111221,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1119-730.2b7317eb0cbd.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 731,
+   "file": "11-1119-731.efd20d30c7ee.pmtiles",
+   "bytes": 58139,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1119-731.efd20d30c7ee.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 732,
+   "file": "11-1119-732.219d8ef651b6.pmtiles",
+   "bytes": 93987,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-zagrebacka-2026-10-03/11-1119-732.219d8ef651b6.pmtiles"
+  }
+ ]
+}

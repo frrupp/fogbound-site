@@ -1,0 +1,565 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hr-licko-senjska",
+ "source": "hr.pmtiles",
+ "builtAt": "2026-10-05T22:47:29.617Z",
+ "publishedAt": "2026-10-05T22:47:49.522Z",
+ "host": "github",
+ "releases": [
+  "maps-hr-licko-senjska-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.68287,
+  44.27123,
+  16.14116,
+  45.12303
+ ],
+ "overview": {
+  "file": "overview.847b8fdea640.pmtiles",
+  "bytes": 2085002,
+  "tiles": 48,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/overview.847b8fdea640.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1107,
+   "y": 735,
+   "file": "11-1107-735.8c9fd4336749.pmtiles",
+   "bytes": 56235,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-735.8c9fd4336749.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 736,
+   "file": "11-1107-736.ecf052d79926.pmtiles",
+   "bytes": 179965,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-736.ecf052d79926.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 737,
+   "file": "11-1107-737.70935170942d.pmtiles",
+   "bytes": 145530,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-737.70935170942d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 738,
+   "file": "11-1107-738.d9d746742ca8.pmtiles",
+   "bytes": 552922,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-738.d9d746742ca8.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 739,
+   "file": "11-1107-739.6fd92e5cb98d.pmtiles",
+   "bytes": 55204,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-739.6fd92e5cb98d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 741,
+   "file": "11-1107-741.a5025510e38d.pmtiles",
+   "bytes": 77907,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-741.a5025510e38d.pmtiles"
+  },
+  {
+   "x": 1107,
+   "y": 742,
+   "file": "11-1107-742.7020329eb92d.pmtiles",
+   "bytes": 57624,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1107-742.7020329eb92d.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 735,
+   "file": "11-1108-735.4c0b483217c1.pmtiles",
+   "bytes": 304459,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-735.4c0b483217c1.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 736,
+   "file": "11-1108-736.b9b10ddd3680.pmtiles",
+   "bytes": 391714,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-736.b9b10ddd3680.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 737,
+   "file": "11-1108-737.3c8aefa073f7.pmtiles",
+   "bytes": 212080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-737.3c8aefa073f7.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 738,
+   "file": "11-1108-738.ca484cfe7df6.pmtiles",
+   "bytes": 526662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-738.ca484cfe7df6.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 739,
+   "file": "11-1108-739.39c7f92b39ff.pmtiles",
+   "bytes": 399727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-739.39c7f92b39ff.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 740,
+   "file": "11-1108-740.dc1808e09238.pmtiles",
+   "bytes": 253101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-740.dc1808e09238.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 741,
+   "file": "11-1108-741.1138ec133837.pmtiles",
+   "bytes": 71116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-741.1138ec133837.pmtiles"
+  },
+  {
+   "x": 1108,
+   "y": 742,
+   "file": "11-1108-742.ebf2c39f4c72.pmtiles",
+   "bytes": 50685,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1108-742.ebf2c39f4c72.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 735,
+   "file": "11-1109-735.0b4a70f1de9f.pmtiles",
+   "bytes": 85971,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-735.0b4a70f1de9f.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 736,
+   "file": "11-1109-736.43713983eeca.pmtiles",
+   "bytes": 396955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-736.43713983eeca.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 737,
+   "file": "11-1109-737.ed23db3e2415.pmtiles",
+   "bytes": 337854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-737.ed23db3e2415.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 738,
+   "file": "11-1109-738.995d243406ba.pmtiles",
+   "bytes": 548405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-738.995d243406ba.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 739,
+   "file": "11-1109-739.47ea57481206.pmtiles",
+   "bytes": 407708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-739.47ea57481206.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 740,
+   "file": "11-1109-740.891ef8693e53.pmtiles",
+   "bytes": 358576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-740.891ef8693e53.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 741,
+   "file": "11-1109-741.b24a8bbf08ec.pmtiles",
+   "bytes": 290302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-741.b24a8bbf08ec.pmtiles"
+  },
+  {
+   "x": 1109,
+   "y": 742,
+   "file": "11-1109-742.35b05b8d0fbb.pmtiles",
+   "bytes": 434639,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1109-742.35b05b8d0fbb.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 735,
+   "file": "11-1110-735.b938f4dc06b7.pmtiles",
+   "bytes": 166847,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-735.b938f4dc06b7.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 736,
+   "file": "11-1110-736.dea89d95c0fc.pmtiles",
+   "bytes": 366703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-736.dea89d95c0fc.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 737,
+   "file": "11-1110-737.33a00411cd79.pmtiles",
+   "bytes": 501987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-737.33a00411cd79.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 738,
+   "file": "11-1110-738.f979c25cf575.pmtiles",
+   "bytes": 357715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-738.f979c25cf575.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 739,
+   "file": "11-1110-739.65b4d7f15d8d.pmtiles",
+   "bytes": 414746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-739.65b4d7f15d8d.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 740,
+   "file": "11-1110-740.36feb51857d5.pmtiles",
+   "bytes": 374545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-740.36feb51857d5.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 741,
+   "file": "11-1110-741.0d42c6779b05.pmtiles",
+   "bytes": 294511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-741.0d42c6779b05.pmtiles"
+  },
+  {
+   "x": 1110,
+   "y": 742,
+   "file": "11-1110-742.a4e7307131a7.pmtiles",
+   "bytes": 365510,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1110-742.a4e7307131a7.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 735,
+   "file": "11-1111-735.e3ceda1f82b4.pmtiles",
+   "bytes": 233089,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-735.e3ceda1f82b4.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 736,
+   "file": "11-1111-736.7798ae6e41a8.pmtiles",
+   "bytes": 242879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-736.7798ae6e41a8.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 737,
+   "file": "11-1111-737.6c96f3b4a2a9.pmtiles",
+   "bytes": 271612,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-737.6c96f3b4a2a9.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 738,
+   "file": "11-1111-738.c39b21d3afa9.pmtiles",
+   "bytes": 553634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-738.c39b21d3afa9.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 739,
+   "file": "11-1111-739.10b7d75260c6.pmtiles",
+   "bytes": 646124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-739.10b7d75260c6.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 740,
+   "file": "11-1111-740.2e2f0115e554.pmtiles",
+   "bytes": 553779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-740.2e2f0115e554.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 741,
+   "file": "11-1111-741.d9d0ccfa253b.pmtiles",
+   "bytes": 444871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-741.d9d0ccfa253b.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 742,
+   "file": "11-1111-742.c20b14b76f24.pmtiles",
+   "bytes": 338243,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1111-742.c20b14b76f24.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 735,
+   "file": "11-1112-735.ad3037a51da2.pmtiles",
+   "bytes": 319893,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-735.ad3037a51da2.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 736,
+   "file": "11-1112-736.19db468329d5.pmtiles",
+   "bytes": 226476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-736.19db468329d5.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 737,
+   "file": "11-1112-737.adbca106fee4.pmtiles",
+   "bytes": 310671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-737.adbca106fee4.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 738,
+   "file": "11-1112-738.31d30f15d5fe.pmtiles",
+   "bytes": 297092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-738.31d30f15d5fe.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 739,
+   "file": "11-1112-739.d8293c39bde8.pmtiles",
+   "bytes": 384741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-739.d8293c39bde8.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 740,
+   "file": "11-1112-740.7cd966784b66.pmtiles",
+   "bytes": 234702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-740.7cd966784b66.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 741,
+   "file": "11-1112-741.fb40c13de80d.pmtiles",
+   "bytes": 332555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-741.fb40c13de80d.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 742,
+   "file": "11-1112-742.f8c8f603274d.pmtiles",
+   "bytes": 419297,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1112-742.f8c8f603274d.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 735,
+   "file": "11-1113-735.677a17f6b6c9.pmtiles",
+   "bytes": 178513,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-735.677a17f6b6c9.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 736,
+   "file": "11-1113-736.58e2b18e4376.pmtiles",
+   "bytes": 386699,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-736.58e2b18e4376.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 737,
+   "file": "11-1113-737.a413a4ae3062.pmtiles",
+   "bytes": 242853,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-737.a413a4ae3062.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 738,
+   "file": "11-1113-738.66dbb4eb116f.pmtiles",
+   "bytes": 279771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-738.66dbb4eb116f.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 739,
+   "file": "11-1113-739.a21e4bc9e5e5.pmtiles",
+   "bytes": 238888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-739.a21e4bc9e5e5.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 740,
+   "file": "11-1113-740.a713663796d3.pmtiles",
+   "bytes": 225482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-740.a713663796d3.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 741,
+   "file": "11-1113-741.2429551540af.pmtiles",
+   "bytes": 273210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-741.2429551540af.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 742,
+   "file": "11-1113-742.abff4140ce1d.pmtiles",
+   "bytes": 288267,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1113-742.abff4140ce1d.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 735,
+   "file": "11-1114-735.bf1a09759f66.pmtiles",
+   "bytes": 26711,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-735.bf1a09759f66.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 738,
+   "file": "11-1114-738.9b8a8891bd9c.pmtiles",
+   "bytes": 68824,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-738.9b8a8891bd9c.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 739,
+   "file": "11-1114-739.7476b2982f12.pmtiles",
+   "bytes": 174819,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-739.7476b2982f12.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 740,
+   "file": "11-1114-740.5a6feb0ddd34.pmtiles",
+   "bytes": 239814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-740.5a6feb0ddd34.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 741,
+   "file": "11-1114-741.da2773b69687.pmtiles",
+   "bytes": 224630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-741.da2773b69687.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 742,
+   "file": "11-1114-742.5604878113d1.pmtiles",
+   "bytes": 233731,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1114-742.5604878113d1.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 735,
+   "file": "11-1115-735.d0e513cf42da.pmtiles",
+   "bytes": 112392,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-735.d0e513cf42da.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 736,
+   "file": "11-1115-736.9acb00c34da3.pmtiles",
+   "bytes": 33946,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-736.9acb00c34da3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 739,
+   "file": "11-1115-739.0fd183e73b1e.pmtiles",
+   "bytes": 90031,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-739.0fd183e73b1e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 740,
+   "file": "11-1115-740.64aa8c40c401.pmtiles",
+   "bytes": 177575,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-740.64aa8c40c401.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 741,
+   "file": "11-1115-741.a477e6e24152.pmtiles",
+   "bytes": 222119,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-741.a477e6e24152.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 742,
+   "file": "11-1115-742.b237bd08cfd9.pmtiles",
+   "bytes": 181843,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-licko-senjska-2026-10-03/11-1115-742.b237bd08cfd9.pmtiles"
+  }
+ ]
+}

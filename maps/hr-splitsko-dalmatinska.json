@@ -1,0 +1,757 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "hr-splitsko-dalmatinska",
+ "source": "hr.pmtiles",
+ "builtAt": "2026-10-05T23:49:23.235Z",
+ "publishedAt": "2026-10-05T23:49:48.822Z",
+ "host": "github",
+ "releases": [
+  "maps-hr-splitsko-dalmatinska-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  15.45862,
+  42.37783,
+  17.45085,
+  43.97399
+ ],
+ "overview": {
+  "file": "overview.5b62e696242e.pmtiles",
+  "bytes": 1693054,
+  "tiles": 83,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/overview.5b62e696242e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1111,
+   "y": 744,
+   "file": "11-1111-744.621e98329d04.pmtiles",
+   "bytes": 62223,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1111-744.621e98329d04.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 745,
+   "file": "11-1111-745.f4f5d2417b42.pmtiles",
+   "bytes": 143928,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1111-745.f4f5d2417b42.pmtiles"
+  },
+  {
+   "x": 1111,
+   "y": 746,
+   "file": "11-1111-746.5524fd759da9.pmtiles",
+   "bytes": 28622,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1111-746.5524fd759da9.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 744,
+   "file": "11-1112-744.bb2a211e49ca.pmtiles",
+   "bytes": 102445,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1112-744.bb2a211e49ca.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 745,
+   "file": "11-1112-745.a5a8104ccd0a.pmtiles",
+   "bytes": 453119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1112-745.a5a8104ccd0a.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 746,
+   "file": "11-1112-746.dfdd15e4c819.pmtiles",
+   "bytes": 284641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1112-746.dfdd15e4c819.pmtiles"
+  },
+  {
+   "x": 1112,
+   "y": 747,
+   "file": "11-1112-747.4806de5d8009.pmtiles",
+   "bytes": 40023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1112-747.4806de5d8009.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 744,
+   "file": "11-1113-744.662d58fc32c9.pmtiles",
+   "bytes": 85961,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1113-744.662d58fc32c9.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 745,
+   "file": "11-1113-745.070eb88bb6da.pmtiles",
+   "bytes": 448607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1113-745.070eb88bb6da.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 746,
+   "file": "11-1113-746.fda926f46083.pmtiles",
+   "bytes": 867993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1113-746.fda926f46083.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 747,
+   "file": "11-1113-747.e1396a8c1a21.pmtiles",
+   "bytes": 105583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1113-747.e1396a8c1a21.pmtiles"
+  },
+  {
+   "x": 1113,
+   "y": 752,
+   "file": "11-1113-752.3046fa3d1a90.pmtiles",
+   "bytes": 31517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1113-752.3046fa3d1a90.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 744,
+   "file": "11-1114-744.cb3bc6de0b23.pmtiles",
+   "bytes": 105033,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1114-744.cb3bc6de0b23.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 745,
+   "file": "11-1114-745.5935df03cba3.pmtiles",
+   "bytes": 386442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1114-745.5935df03cba3.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 746,
+   "file": "11-1114-746.e2527eec2495.pmtiles",
+   "bytes": 1013069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1114-746.e2527eec2495.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 747,
+   "file": "11-1114-747.9c7214e23156.pmtiles",
+   "bytes": 585513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1114-747.9c7214e23156.pmtiles"
+  },
+  {
+   "x": 1114,
+   "y": 748,
+   "file": "11-1114-748.4a9a8618dba6.pmtiles",
+   "bytes": 231340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1114-748.4a9a8618dba6.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 744,
+   "file": "11-1115-744.1c39d12981c3.pmtiles",
+   "bytes": 137191,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-744.1c39d12981c3.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 745,
+   "file": "11-1115-745.b14fe8e1cf0a.pmtiles",
+   "bytes": 519876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-745.b14fe8e1cf0a.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 746,
+   "file": "11-1115-746.3f3fe0b223bb.pmtiles",
+   "bytes": 421633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-746.3f3fe0b223bb.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 747,
+   "file": "11-1115-747.012126326968.pmtiles",
+   "bytes": 465574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-747.012126326968.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 748,
+   "file": "11-1115-748.579f5b8b4cde.pmtiles",
+   "bytes": 656827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-748.579f5b8b4cde.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 749,
+   "file": "11-1115-749.7efaeb4b4e2e.pmtiles",
+   "bytes": 76497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-749.7efaeb4b4e2e.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 751,
+   "file": "11-1115-751.d2c9388b66c9.pmtiles",
+   "bytes": 19313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-751.d2c9388b66c9.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 752,
+   "file": "11-1115-752.72ec91a422af.pmtiles",
+   "bytes": 180782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-752.72ec91a422af.pmtiles"
+  },
+  {
+   "x": 1115,
+   "y": 753,
+   "file": "11-1115-753.dec25c2634a9.pmtiles",
+   "bytes": 20008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1115-753.dec25c2634a9.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 744,
+   "file": "11-1116-744.0dcc4e1f0938.pmtiles",
+   "bytes": 130078,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-744.0dcc4e1f0938.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 745,
+   "file": "11-1116-745.59807a6cfbeb.pmtiles",
+   "bytes": 462727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-745.59807a6cfbeb.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 746,
+   "file": "11-1116-746.b0d3a955a48f.pmtiles",
+   "bytes": 472578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-746.b0d3a955a48f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 747,
+   "file": "11-1116-747.99da405586d8.pmtiles",
+   "bytes": 451767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-747.99da405586d8.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 748,
+   "file": "11-1116-748.ea247342a559.pmtiles",
+   "bytes": 902853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-748.ea247342a559.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 749,
+   "file": "11-1116-749.05e7e7494bbd.pmtiles",
+   "bytes": 247060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-749.05e7e7494bbd.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 751,
+   "file": "11-1116-751.5d040fc83a3e.pmtiles",
+   "bytes": 44768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-751.5d040fc83a3e.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 752,
+   "file": "11-1116-752.5d92aca869a7.pmtiles",
+   "bytes": 160808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1116-752.5d92aca869a7.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 744,
+   "file": "11-1117-744.d51a5aeb75ab.pmtiles",
+   "bytes": 108906,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-744.d51a5aeb75ab.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 745,
+   "file": "11-1117-745.56d597af058d.pmtiles",
+   "bytes": 431708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-745.56d597af058d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 746,
+   "file": "11-1117-746.7013d952c571.pmtiles",
+   "bytes": 321026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-746.7013d952c571.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 747,
+   "file": "11-1117-747.b2f6dd1d7b9e.pmtiles",
+   "bytes": 558310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-747.b2f6dd1d7b9e.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 748,
+   "file": "11-1117-748.a327249b7ef9.pmtiles",
+   "bytes": 1748485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-748.a327249b7ef9.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 749,
+   "file": "11-1117-749.e3c0dc94db42.pmtiles",
+   "bytes": 363973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-749.e3c0dc94db42.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 750,
+   "file": "11-1117-750.b5290ea4a769.pmtiles",
+   "bytes": 183409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-750.b5290ea4a769.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 751,
+   "file": "11-1117-751.94ef05f22169.pmtiles",
+   "bytes": 249342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-751.94ef05f22169.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 754,
+   "file": "11-1117-754.a17004b3e5c3.pmtiles",
+   "bytes": 28171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1117-754.a17004b3e5c3.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 744,
+   "file": "11-1118-744.b462cd4519fd.pmtiles",
+   "bytes": 27662,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-744.b462cd4519fd.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 745,
+   "file": "11-1118-745.a4983789cc80.pmtiles",
+   "bytes": 279020,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-745.a4983789cc80.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 746,
+   "file": "11-1118-746.148e9913aae9.pmtiles",
+   "bytes": 520012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-746.148e9913aae9.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 747,
+   "file": "11-1118-747.5a183086b99b.pmtiles",
+   "bytes": 861979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-747.5a183086b99b.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 748,
+   "file": "11-1118-748.f6dda63ef44b.pmtiles",
+   "bytes": 942043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-748.f6dda63ef44b.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 749,
+   "file": "11-1118-749.a56605df8485.pmtiles",
+   "bytes": 708927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-749.a56605df8485.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 750,
+   "file": "11-1118-750.53bad9292641.pmtiles",
+   "bytes": 506608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-750.53bad9292641.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 751,
+   "file": "11-1118-751.0e3c1059d576.pmtiles",
+   "bytes": 529783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-751.0e3c1059d576.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 752,
+   "file": "11-1118-752.de900046b866.pmtiles",
+   "bytes": 122252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-752.de900046b866.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 753,
+   "file": "11-1118-753.f340b881e498.pmtiles",
+   "bytes": 54074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-753.f340b881e498.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 754,
+   "file": "11-1118-754.714b251e85b9.pmtiles",
+   "bytes": 23237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1118-754.714b251e85b9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 745,
+   "file": "11-1119-745.b36e8671ed0a.pmtiles",
+   "bytes": 49259,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-745.b36e8671ed0a.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 746,
+   "file": "11-1119-746.e101ff6f8cac.pmtiles",
+   "bytes": 281719,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-746.e101ff6f8cac.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 747,
+   "file": "11-1119-747.3b31015be21d.pmtiles",
+   "bytes": 496927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-747.3b31015be21d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 748,
+   "file": "11-1119-748.918f135543df.pmtiles",
+   "bytes": 637371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-748.918f135543df.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 749,
+   "file": "11-1119-749.fdfa21e90bbc.pmtiles",
+   "bytes": 609526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-749.fdfa21e90bbc.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 750,
+   "file": "11-1119-750.28996a672f7d.pmtiles",
+   "bytes": 238558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-750.28996a672f7d.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 751,
+   "file": "11-1119-751.9ab49bee1cd8.pmtiles",
+   "bytes": 255879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-751.9ab49bee1cd8.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 752,
+   "file": "11-1119-752.d4f9eb11eda1.pmtiles",
+   "bytes": 335518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-752.d4f9eb11eda1.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 753,
+   "file": "11-1119-753.b746c6cf2729.pmtiles",
+   "bytes": 240375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-753.b746c6cf2729.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 754,
+   "file": "11-1119-754.6768a4684d87.pmtiles",
+   "bytes": 100958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1119-754.6768a4684d87.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 746,
+   "file": "11-1120-746.11d0f098f779.pmtiles",
+   "bytes": 24169,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-746.11d0f098f779.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 747,
+   "file": "11-1120-747.af502a9ee96b.pmtiles",
+   "bytes": 305991,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-747.af502a9ee96b.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 748,
+   "file": "11-1120-748.504789da8d8b.pmtiles",
+   "bytes": 596583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-748.504789da8d8b.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 749,
+   "file": "11-1120-749.54e3cf34af83.pmtiles",
+   "bytes": 599795,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-749.54e3cf34af83.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 750,
+   "file": "11-1120-750.d2196a95a3d2.pmtiles",
+   "bytes": 267083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-750.d2196a95a3d2.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 751,
+   "file": "11-1120-751.af0b68917845.pmtiles",
+   "bytes": 124222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-751.af0b68917845.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 752,
+   "file": "11-1120-752.6f9624b856aa.pmtiles",
+   "bytes": 204654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-752.6f9624b856aa.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 753,
+   "file": "11-1120-753.cafccaa6dddc.pmtiles",
+   "bytes": 189440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-753.cafccaa6dddc.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 754,
+   "file": "11-1120-754.1a4a766cecff.pmtiles",
+   "bytes": 124417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1120-754.1a4a766cecff.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 748,
+   "file": "11-1121-748.5b1b3ab7e5b9.pmtiles",
+   "bytes": 442114,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-748.5b1b3ab7e5b9.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 749,
+   "file": "11-1121-749.e45c97294dc7.pmtiles",
+   "bytes": 629236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-749.e45c97294dc7.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 750,
+   "file": "11-1121-750.01319e54ef44.pmtiles",
+   "bytes": 476709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-750.01319e54ef44.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 751,
+   "file": "11-1121-751.a385ea7038c7.pmtiles",
+   "bytes": 136033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-751.a385ea7038c7.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 752,
+   "file": "11-1121-752.e5db471d7b9e.pmtiles",
+   "bytes": 479927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-752.e5db471d7b9e.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 753,
+   "file": "11-1121-753.6c687e6688ed.pmtiles",
+   "bytes": 193832,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1121-753.6c687e6688ed.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 748,
+   "file": "11-1122-748.52527ca9e2af.pmtiles",
+   "bytes": 166814,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-748.52527ca9e2af.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 749,
+   "file": "11-1122-749.fa46770db97d.pmtiles",
+   "bytes": 283359,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-749.fa46770db97d.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 750,
+   "file": "11-1122-750.384f14b3ec87.pmtiles",
+   "bytes": 376442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-750.384f14b3ec87.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 751,
+   "file": "11-1122-751.880d58152d49.pmtiles",
+   "bytes": 316222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-751.880d58152d49.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 752,
+   "file": "11-1122-752.30480637ef96.pmtiles",
+   "bytes": 217161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-752.30480637ef96.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 753,
+   "file": "11-1122-753.9796b55142a3.pmtiles",
+   "bytes": 78908,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-753.9796b55142a3.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 754,
+   "file": "11-1122-754.b99419bf52bb.pmtiles",
+   "bytes": 95710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1122-754.b99419bf52bb.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 750,
+   "file": "11-1123-750.8a269b573ca2.pmtiles",
+   "bytes": 79899,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1123-750.8a269b573ca2.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 751,
+   "file": "11-1123-751.232a9b3c0294.pmtiles",
+   "bytes": 225908,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1123-751.232a9b3c0294.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 752,
+   "file": "11-1123-752.15eb59d59f30.pmtiles",
+   "bytes": 204266,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1123-752.15eb59d59f30.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 753,
+   "file": "11-1123-753.6f45cf2f7576.pmtiles",
+   "bytes": 116511,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1123-753.6f45cf2f7576.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 754,
+   "file": "11-1123-754.3f0985d3f224.pmtiles",
+   "bytes": 76148,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-hr-splitsko-dalmatinska-2026-10-03/11-1123-754.3f0985d3f224.pmtiles"
+  }
+ ]
+}
