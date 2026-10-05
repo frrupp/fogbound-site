@@ -1,0 +1,461 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-staffordshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:39:05.612Z",
+ "publishedAt": "2026-10-05T00:39:23.512Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-staffordshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.47079,
+  52.42324,
+  -1.58536,
+  53.22622
+ ],
+ "overview": {
+  "file": "overview.1eab279c41fc.pmtiles",
+  "bytes": 2850725,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/overview.1eab279c41fc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1009,
+   "y": 664,
+   "file": "11-1009-664.8abda40445ac.pmtiles",
+   "bytes": 124707,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-664.8abda40445ac.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 665,
+   "file": "11-1009-665.38bbdc8dff54.pmtiles",
+   "bytes": 205473,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-665.38bbdc8dff54.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 666,
+   "file": "11-1009-666.3a469827d4cc.pmtiles",
+   "bytes": 243029,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-666.3a469827d4cc.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 667,
+   "file": "11-1009-667.43f4c8f035be.pmtiles",
+   "bytes": 126366,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-667.43f4c8f035be.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 668,
+   "file": "11-1009-668.1051fbb1f1a6.pmtiles",
+   "bytes": 188598,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-668.1051fbb1f1a6.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 669,
+   "file": "11-1009-669.3e7b7cbee661.pmtiles",
+   "bytes": 224777,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-669.3e7b7cbee661.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 670,
+   "file": "11-1009-670.64d28a17a3ff.pmtiles",
+   "bytes": 451659,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-670.64d28a17a3ff.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 671,
+   "file": "11-1009-671.54f0213415fe.pmtiles",
+   "bytes": 113164,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-671.54f0213415fe.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 672,
+   "file": "11-1009-672.5de9ef5ab0a2.pmtiles",
+   "bytes": 97104,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1009-672.5de9ef5ab0a2.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 664,
+   "file": "11-1010-664.ada8c1d5a1da.pmtiles",
+   "bytes": 161240,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-664.ada8c1d5a1da.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 665,
+   "file": "11-1010-665.cbcb49c3c20b.pmtiles",
+   "bytes": 1067154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-665.cbcb49c3c20b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 666,
+   "file": "11-1010-666.343f8bf96012.pmtiles",
+   "bytes": 1154585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-666.343f8bf96012.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 667,
+   "file": "11-1010-667.7e04f9044988.pmtiles",
+   "bytes": 658525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-667.7e04f9044988.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 668,
+   "file": "11-1010-668.8cc6577fb361.pmtiles",
+   "bytes": 445081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-668.8cc6577fb361.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 669,
+   "file": "11-1010-669.a9df8a6d6b9e.pmtiles",
+   "bytes": 817672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-669.a9df8a6d6b9e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 670,
+   "file": "11-1010-670.3e5af4766e51.pmtiles",
+   "bytes": 1120282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-670.3e5af4766e51.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 671,
+   "file": "11-1010-671.8ddcc8f542cb.pmtiles",
+   "bytes": 836132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-671.8ddcc8f542cb.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 672,
+   "file": "11-1010-672.8da7b80c1859.pmtiles",
+   "bytes": 481493,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1010-672.8da7b80c1859.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 664,
+   "file": "11-1011-664.316c449582a7.pmtiles",
+   "bytes": 186534,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-664.316c449582a7.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 665,
+   "file": "11-1011-665.41530d40f7f4.pmtiles",
+   "bytes": 1110865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-665.41530d40f7f4.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 666,
+   "file": "11-1011-666.d38b2ccea85b.pmtiles",
+   "bytes": 2094371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-666.d38b2ccea85b.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 667,
+   "file": "11-1011-667.1cad6633d6e7.pmtiles",
+   "bytes": 1877009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-667.1cad6633d6e7.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 668,
+   "file": "11-1011-668.3336760bb8aa.pmtiles",
+   "bytes": 977661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-668.3336760bb8aa.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 669,
+   "file": "11-1011-669.6bb4170086c2.pmtiles",
+   "bytes": 785331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-669.6bb4170086c2.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 670,
+   "file": "11-1011-670.e69c5194a660.pmtiles",
+   "bytes": 1349756,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-670.e69c5194a660.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 671,
+   "file": "11-1011-671.74bdd593398d.pmtiles",
+   "bytes": 2183379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-671.74bdd593398d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 672,
+   "file": "11-1011-672.edfd60a2f0f0.pmtiles",
+   "bytes": 1365791,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1011-672.edfd60a2f0f0.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 664,
+   "file": "11-1012-664.2eef25eb8275.pmtiles",
+   "bytes": 107742,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-664.2eef25eb8275.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 665,
+   "file": "11-1012-665.523dbb5ad36f.pmtiles",
+   "bytes": 486168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-665.523dbb5ad36f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 666,
+   "file": "11-1012-666.a3a91d1f0987.pmtiles",
+   "bytes": 1151572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-666.a3a91d1f0987.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 667,
+   "file": "11-1012-667.833e03a6cdea.pmtiles",
+   "bytes": 728432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-667.833e03a6cdea.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 668,
+   "file": "11-1012-668.ca7eef053259.pmtiles",
+   "bytes": 562667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-668.ca7eef053259.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 669,
+   "file": "11-1012-669.5d405d6871b0.pmtiles",
+   "bytes": 1239516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-669.5d405d6871b0.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 670,
+   "file": "11-1012-670.a883dcc5af8d.pmtiles",
+   "bytes": 2550134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-670.a883dcc5af8d.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 671,
+   "file": "11-1012-671.6dc99cf1a4d1.pmtiles",
+   "bytes": 6254889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-671.6dc99cf1a4d1.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 672,
+   "file": "11-1012-672.4c7b6ebb03fb.pmtiles",
+   "bytes": 2684188,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1012-672.4c7b6ebb03fb.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 664,
+   "file": "11-1013-664.30887ed7ad9f.pmtiles",
+   "bytes": 151985,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-664.30887ed7ad9f.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 665,
+   "file": "11-1013-665.ed5eeec30825.pmtiles",
+   "bytes": 476534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-665.ed5eeec30825.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 666,
+   "file": "11-1013-666.56c246d51338.pmtiles",
+   "bytes": 551727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-666.56c246d51338.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 667,
+   "file": "11-1013-667.6e91e9011687.pmtiles",
+   "bytes": 676097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-667.6e91e9011687.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 668,
+   "file": "11-1013-668.a01535bad174.pmtiles",
+   "bytes": 615341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-668.a01535bad174.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 669,
+   "file": "11-1013-669.71ca09f451ae.pmtiles",
+   "bytes": 715384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-669.71ca09f451ae.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 670,
+   "file": "11-1013-670.f7df89ef164f.pmtiles",
+   "bytes": 1726837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-670.f7df89ef164f.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 671,
+   "file": "11-1013-671.6943d6d0533d.pmtiles",
+   "bytes": 5530099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-671.6943d6d0533d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 672,
+   "file": "11-1013-672.d599907eb64e.pmtiles",
+   "bytes": 3837121,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1013-672.d599907eb64e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 664,
+   "file": "11-1014-664.50a3a137b150.pmtiles",
+   "bytes": 185451,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-664.50a3a137b150.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 665,
+   "file": "11-1014-665.fec2a7a25866.pmtiles",
+   "bytes": 779657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-665.fec2a7a25866.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 666,
+   "file": "11-1014-666.f6c7b298c4bd.pmtiles",
+   "bytes": 675050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-666.f6c7b298c4bd.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 667,
+   "file": "11-1014-667.0e99cffcc31b.pmtiles",
+   "bytes": 551635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-667.0e99cffcc31b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 668,
+   "file": "11-1014-668.068a4b45bc73.pmtiles",
+   "bytes": 1047191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-668.068a4b45bc73.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 669,
+   "file": "11-1014-669.b17faf670881.pmtiles",
+   "bytes": 878209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-669.b17faf670881.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 670,
+   "file": "11-1014-670.12a57d5bf804.pmtiles",
+   "bytes": 1293055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-670.12a57d5bf804.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 671,
+   "file": "11-1014-671.f110a5788d04.pmtiles",
+   "bytes": 1197989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-671.f110a5788d04.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 672,
+   "file": "11-1014-672.68f0b176d5eb.pmtiles",
+   "bytes": 992697,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-staffordshire-2026-10-03/11-1014-672.68f0b176d5eb.pmtiles"
+  }
+ ]
+}

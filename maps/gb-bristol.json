@@ -1,0 +1,125 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-bristol",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:31:52.231Z",
+ "publishedAt": "2026-10-05T00:31:58.386Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-bristol-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.11782,
+  51.34163,
+  -2.51042,
+  51.54443
+ ],
+ "overview": {
+  "file": "overview.cc8e3c7c7c72.pmtiles",
+  "bytes": 1053116,
+  "tiles": 17,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/overview.cc8e3c7c7c72.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1006,
+   "y": 680,
+   "file": "11-1006-680.2fd11bb2903e.pmtiles",
+   "bytes": 535289,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1006-680.2fd11bb2903e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 681,
+   "file": "11-1006-681.7dce9af2ef74.pmtiles",
+   "bytes": 114067,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1006-681.7dce9af2ef74.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 682,
+   "file": "11-1006-682.121df7624909.pmtiles",
+   "bytes": 61167,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1006-682.121df7624909.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 680,
+   "file": "11-1007-680.63ad595f50e3.pmtiles",
+   "bytes": 180098,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1007-680.63ad595f50e3.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 681,
+   "file": "11-1007-681.e95e3647ee31.pmtiles",
+   "bytes": 548198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1007-681.e95e3647ee31.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 682,
+   "file": "11-1007-682.fa922d87e41e.pmtiles",
+   "bytes": 1652698,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1007-682.fa922d87e41e.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 680,
+   "file": "11-1008-680.8d02b2ed7bb2.pmtiles",
+   "bytes": 248820,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1008-680.8d02b2ed7bb2.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 681,
+   "file": "11-1008-681.5c38620d0883.pmtiles",
+   "bytes": 2320092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1008-681.5c38620d0883.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 682,
+   "file": "11-1008-682.248c249ac070.pmtiles",
+   "bytes": 946296,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1008-682.248c249ac070.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 680,
+   "file": "11-1009-680.d26c291cc3c7.pmtiles",
+   "bytes": 1292927,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1009-680.d26c291cc3c7.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 681,
+   "file": "11-1009-681.bb75d87bde41.pmtiles",
+   "bytes": 5941755,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1009-681.bb75d87bde41.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 682,
+   "file": "11-1009-682.4cc179b5f23e.pmtiles",
+   "bytes": 758096,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-bristol-2026-10-03/11-1009-682.4cc179b5f23e.pmtiles"
+  }
+ ]
+}

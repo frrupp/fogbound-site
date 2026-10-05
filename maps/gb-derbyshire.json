@@ -1,0 +1,461 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-derbyshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:39:38.246Z",
+ "publishedAt": "2026-10-05T00:39:55.257Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-derbyshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.0341,
+  52.69652,
+  -1.16649,
+  53.54045
+ ],
+ "overview": {
+  "file": "overview.60d528bd9223.pmtiles",
+  "bytes": 2371062,
+  "tiles": 33,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/overview.60d528bd9223.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1012,
+   "y": 661,
+   "file": "11-1012-661.fd6b91a723a1.pmtiles",
+   "bytes": 258602,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-661.fd6b91a723a1.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 662,
+   "file": "11-1012-662.5d984311a50e.pmtiles",
+   "bytes": 1057547,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-662.5d984311a50e.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 663,
+   "file": "11-1012-663.09e3afc33880.pmtiles",
+   "bytes": 1105027,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-663.09e3afc33880.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 664,
+   "file": "11-1012-664.fcd5c4072cbe.pmtiles",
+   "bytes": 416855,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-664.fcd5c4072cbe.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 665,
+   "file": "11-1012-665.4079b208b06d.pmtiles",
+   "bytes": 347630,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-665.4079b208b06d.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 666,
+   "file": "11-1012-666.b0c3af50f597.pmtiles",
+   "bytes": 861091,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-666.b0c3af50f597.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 667,
+   "file": "11-1012-667.037eec195c9c.pmtiles",
+   "bytes": 494904,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-667.037eec195c9c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 668,
+   "file": "11-1012-668.b41766fd4d86.pmtiles",
+   "bytes": 305682,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-668.b41766fd4d86.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 669,
+   "file": "11-1012-669.22c8e50614ca.pmtiles",
+   "bytes": 850724,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1012-669.22c8e50614ca.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 661,
+   "file": "11-1013-661.15f5f9ec7ea6.pmtiles",
+   "bytes": 203982,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-661.15f5f9ec7ea6.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 662,
+   "file": "11-1013-662.8e684a4b83e9.pmtiles",
+   "bytes": 241313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-662.8e684a4b83e9.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 663,
+   "file": "11-1013-663.fd4eab40bc34.pmtiles",
+   "bytes": 413231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-663.fd4eab40bc34.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 664,
+   "file": "11-1013-664.64ff93ee4a02.pmtiles",
+   "bytes": 814020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-664.64ff93ee4a02.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 665,
+   "file": "11-1013-665.ed5eeec30825.pmtiles",
+   "bytes": 476534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-665.ed5eeec30825.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 666,
+   "file": "11-1013-666.56c246d51338.pmtiles",
+   "bytes": 551727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-666.56c246d51338.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 667,
+   "file": "11-1013-667.6e91e9011687.pmtiles",
+   "bytes": 676097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-667.6e91e9011687.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 668,
+   "file": "11-1013-668.a01535bad174.pmtiles",
+   "bytes": 615341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-668.a01535bad174.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 669,
+   "file": "11-1013-669.71ca09f451ae.pmtiles",
+   "bytes": 715384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1013-669.71ca09f451ae.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 661,
+   "file": "11-1014-661.9a6b627b0912.pmtiles",
+   "bytes": 250072,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-661.9a6b627b0912.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 662,
+   "file": "11-1014-662.11ae4d652105.pmtiles",
+   "bytes": 790383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-662.11ae4d652105.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 663,
+   "file": "11-1014-663.e54ccfc883ed.pmtiles",
+   "bytes": 633725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-663.e54ccfc883ed.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 664,
+   "file": "11-1014-664.9c4b7093451a.pmtiles",
+   "bytes": 812785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-664.9c4b7093451a.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 665,
+   "file": "11-1014-665.fec2a7a25866.pmtiles",
+   "bytes": 779657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-665.fec2a7a25866.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 666,
+   "file": "11-1014-666.f6c7b298c4bd.pmtiles",
+   "bytes": 675050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-666.f6c7b298c4bd.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 667,
+   "file": "11-1014-667.0e99cffcc31b.pmtiles",
+   "bytes": 551635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-667.0e99cffcc31b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 668,
+   "file": "11-1014-668.068a4b45bc73.pmtiles",
+   "bytes": 1047191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-668.068a4b45bc73.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 669,
+   "file": "11-1014-669.b17faf670881.pmtiles",
+   "bytes": 878209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1014-669.b17faf670881.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 661,
+   "file": "11-1015-661.f5229ab5e9ad.pmtiles",
+   "bytes": 651018,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-661.f5229ab5e9ad.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 662,
+   "file": "11-1015-662.2848b9a29dcf.pmtiles",
+   "bytes": 1791357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-662.2848b9a29dcf.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 663,
+   "file": "11-1015-663.cad12c1d3ab5.pmtiles",
+   "bytes": 4629621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-663.cad12c1d3ab5.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 664,
+   "file": "11-1015-664.fc86e7fd2c48.pmtiles",
+   "bytes": 2094807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-664.fc86e7fd2c48.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 665,
+   "file": "11-1015-665.c20cdf2ca63b.pmtiles",
+   "bytes": 1152805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-665.c20cdf2ca63b.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 666,
+   "file": "11-1015-666.04a21fe7b88e.pmtiles",
+   "bytes": 1311689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-666.04a21fe7b88e.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 667,
+   "file": "11-1015-667.7fda5eb943af.pmtiles",
+   "bytes": 2353362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-667.7fda5eb943af.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 668,
+   "file": "11-1015-668.ebd9d6c30da5.pmtiles",
+   "bytes": 1767310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-668.ebd9d6c30da5.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 669,
+   "file": "11-1015-669.aa4237810de6.pmtiles",
+   "bytes": 1189626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1015-669.aa4237810de6.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 661,
+   "file": "11-1016-661.989e1d5cfa39.pmtiles",
+   "bytes": 173171,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-661.989e1d5cfa39.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 662,
+   "file": "11-1016-662.521a800b1e67.pmtiles",
+   "bytes": 1315578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-662.521a800b1e67.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 663,
+   "file": "11-1016-663.aa9bd2282fad.pmtiles",
+   "bytes": 2221727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-663.aa9bd2282fad.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 664,
+   "file": "11-1016-664.dbd6cb5e7276.pmtiles",
+   "bytes": 1242504,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-664.dbd6cb5e7276.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 665,
+   "file": "11-1016-665.471f2f6f973b.pmtiles",
+   "bytes": 1120466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-665.471f2f6f973b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 666,
+   "file": "11-1016-666.ac4f17679589.pmtiles",
+   "bytes": 1787779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-666.ac4f17679589.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 667,
+   "file": "11-1016-667.374083cc9745.pmtiles",
+   "bytes": 2721600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-667.374083cc9745.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 668,
+   "file": "11-1016-668.8194b6bd3861.pmtiles",
+   "bytes": 1802130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-668.8194b6bd3861.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 669,
+   "file": "11-1016-669.50accaa69244.pmtiles",
+   "bytes": 1122550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1016-669.50accaa69244.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 661,
+   "file": "11-1017-661.98ccbd5e5638.pmtiles",
+   "bytes": 108270,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-661.98ccbd5e5638.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 662,
+   "file": "11-1017-662.08a9000e7651.pmtiles",
+   "bytes": 389595,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-662.08a9000e7651.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 663,
+   "file": "11-1017-663.39b60f77567c.pmtiles",
+   "bytes": 404960,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-663.39b60f77567c.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 664,
+   "file": "11-1017-664.35c07618cf2f.pmtiles",
+   "bytes": 363508,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-664.35c07618cf2f.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 665,
+   "file": "11-1017-665.424bd5aa089b.pmtiles",
+   "bytes": 885524,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-665.424bd5aa089b.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 666,
+   "file": "11-1017-666.81d6c72a1e80.pmtiles",
+   "bytes": 899725,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-666.81d6c72a1e80.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 667,
+   "file": "11-1017-667.256de57e1468.pmtiles",
+   "bytes": 2339630,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-667.256de57e1468.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 668,
+   "file": "11-1017-668.59ac5d811911.pmtiles",
+   "bytes": 528445,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-668.59ac5d811911.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 669,
+   "file": "11-1017-669.1d249a60e03c.pmtiles",
+   "bytes": 759951,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-derbyshire-2026-10-03/11-1017-669.1d249a60e03c.pmtiles"
+  }
+ ]
+}

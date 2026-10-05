@@ -1,0 +1,413 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-cambridgeshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:39:55.657Z",
+ "publishedAt": "2026-10-05T00:40:11.371Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-cambridgeshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.4999,
+  52.00578,
+  0.51445,
+  52.73998
+ ],
+ "overview": {
+  "file": "overview.2475dd9b01be.pmtiles",
+  "bytes": 3032447,
+  "tiles": 49,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/overview.2475dd9b01be.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1021,
+   "y": 669,
+   "file": "11-1021-669.4d2826648d57.pmtiles",
+   "bytes": 191915,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-669.4d2826648d57.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 670,
+   "file": "11-1021-670.6d34e243d57a.pmtiles",
+   "bytes": 649726,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-670.6d34e243d57a.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 671,
+   "file": "11-1021-671.b0302822ead6.pmtiles",
+   "bytes": 529294,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-671.b0302822ead6.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 672,
+   "file": "11-1021-672.f9a677b220c6.pmtiles",
+   "bytes": 384483,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-672.f9a677b220c6.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 673,
+   "file": "11-1021-673.3dff82f3a674.pmtiles",
+   "bytes": 369960,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-673.3dff82f3a674.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 674,
+   "file": "11-1021-674.2dc61503e68e.pmtiles",
+   "bytes": 462909,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-674.2dc61503e68e.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 675,
+   "file": "11-1021-675.d617ab02c8e2.pmtiles",
+   "bytes": 1322925,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-675.d617ab02c8e2.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 676,
+   "file": "11-1021-676.6147eed00931.pmtiles",
+   "bytes": 537483,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1021-676.6147eed00931.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 669,
+   "file": "11-1022-669.47ff09fcd2b0.pmtiles",
+   "bytes": 126399,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-669.47ff09fcd2b0.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 670,
+   "file": "11-1022-670.e14b3db85f14.pmtiles",
+   "bytes": 1060676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-670.e14b3db85f14.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 671,
+   "file": "11-1022-671.964857ac924b.pmtiles",
+   "bytes": 1900047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-671.964857ac924b.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 672,
+   "file": "11-1022-672.d96af842cbd0.pmtiles",
+   "bytes": 515735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-672.d96af842cbd0.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 673,
+   "file": "11-1022-673.29ba9c46f730.pmtiles",
+   "bytes": 1016153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-673.29ba9c46f730.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 674,
+   "file": "11-1022-674.5d44efe04bad.pmtiles",
+   "bytes": 1022989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-674.5d44efe04bad.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 675,
+   "file": "11-1022-675.38d14496dc81.pmtiles",
+   "bytes": 1083215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-675.38d14496dc81.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 676,
+   "file": "11-1022-676.bcb02f588c6f.pmtiles",
+   "bytes": 693868,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1022-676.bcb02f588c6f.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 669,
+   "file": "11-1023-669.ba0cd90389a9.pmtiles",
+   "bytes": 141995,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-669.ba0cd90389a9.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 670,
+   "file": "11-1023-670.6ad20d9b6e65.pmtiles",
+   "bytes": 296257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-670.6ad20d9b6e65.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 671,
+   "file": "11-1023-671.df27ad13d73f.pmtiles",
+   "bytes": 409927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-671.df27ad13d73f.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 672,
+   "file": "11-1023-672.940bae9a51c0.pmtiles",
+   "bytes": 653292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-672.940bae9a51c0.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 673,
+   "file": "11-1023-673.7e80492b392d.pmtiles",
+   "bytes": 1334994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-673.7e80492b392d.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 674,
+   "file": "11-1023-674.9fa364adaddc.pmtiles",
+   "bytes": 1055686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-674.9fa364adaddc.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 675,
+   "file": "11-1023-675.1da66c5fb187.pmtiles",
+   "bytes": 734381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-675.1da66c5fb187.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 676,
+   "file": "11-1023-676.303c4a3d6a6d.pmtiles",
+   "bytes": 448875,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1023-676.303c4a3d6a6d.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 669,
+   "file": "11-1024-669.3fd265d56a5b.pmtiles",
+   "bytes": 206893,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-669.3fd265d56a5b.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 670,
+   "file": "11-1024-670.516e890b6a2c.pmtiles",
+   "bytes": 698039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-670.516e890b6a2c.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 671,
+   "file": "11-1024-671.1e2dc76b3136.pmtiles",
+   "bytes": 412621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-671.1e2dc76b3136.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 672,
+   "file": "11-1024-672.65268a256c2f.pmtiles",
+   "bytes": 598701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-672.65268a256c2f.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 673,
+   "file": "11-1024-673.ee8ae9ee860a.pmtiles",
+   "bytes": 960445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-673.ee8ae9ee860a.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 674,
+   "file": "11-1024-674.2d6a8e2f8ccc.pmtiles",
+   "bytes": 2944781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-674.2d6a8e2f8ccc.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 675,
+   "file": "11-1024-675.9dbf37a43fda.pmtiles",
+   "bytes": 1079777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-675.9dbf37a43fda.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 676,
+   "file": "11-1024-676.061f298f36f3.pmtiles",
+   "bytes": 338161,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1024-676.061f298f36f3.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 669,
+   "file": "11-1025-669.ef00defea823.pmtiles",
+   "bytes": 279575,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-669.ef00defea823.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 670,
+   "file": "11-1025-670.0781adee0e39.pmtiles",
+   "bytes": 496356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-670.0781adee0e39.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 671,
+   "file": "11-1025-671.e5f33f1a99d5.pmtiles",
+   "bytes": 272345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-671.e5f33f1a99d5.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 672,
+   "file": "11-1025-672.887f7f3dd54b.pmtiles",
+   "bytes": 893980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-672.887f7f3dd54b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 673,
+   "file": "11-1025-673.53ac89d1d7e1.pmtiles",
+   "bytes": 674109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-673.53ac89d1d7e1.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 674,
+   "file": "11-1025-674.27e444025b1e.pmtiles",
+   "bytes": 689521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-674.27e444025b1e.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 675,
+   "file": "11-1025-675.9caa6d0c192f.pmtiles",
+   "bytes": 829882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-675.9caa6d0c192f.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 676,
+   "file": "11-1025-676.e356ba8de918.pmtiles",
+   "bytes": 482366,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1025-676.e356ba8de918.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 669,
+   "file": "11-1026-669.71002b737101.pmtiles",
+   "bytes": 478036,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-669.71002b737101.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 670,
+   "file": "11-1026-670.b7b167b1050d.pmtiles",
+   "bytes": 652991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-670.b7b167b1050d.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 671,
+   "file": "11-1026-671.5481add884e3.pmtiles",
+   "bytes": 424432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-671.5481add884e3.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 672,
+   "file": "11-1026-672.a6bd8df52e77.pmtiles",
+   "bytes": 306371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-672.a6bd8df52e77.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 673,
+   "file": "11-1026-673.d1aca5fccf43.pmtiles",
+   "bytes": 832801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-673.d1aca5fccf43.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 674,
+   "file": "11-1026-674.ae0a8911e626.pmtiles",
+   "bytes": 783554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-674.ae0a8911e626.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 675,
+   "file": "11-1026-675.c1f27fc3e93a.pmtiles",
+   "bytes": 803884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-675.c1f27fc3e93a.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 676,
+   "file": "11-1026-676.dd487b89c93e.pmtiles",
+   "bytes": 243482,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-cambridgeshire-2026-10-03/11-1026-676.dd487b89c93e.pmtiles"
+  }
+ ]
+}

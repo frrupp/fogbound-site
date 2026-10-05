@@ -1,0 +1,245 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-east-sussex",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:35:44.668Z",
+ "publishedAt": "2026-10-05T00:35:55.291Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-east-sussex-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.24508,
+  50.73343,
+  0.86786,
+  51.14746
+ ],
+ "overview": {
+  "file": "overview.ea4f3e738646.pmtiles",
+  "bytes": 1582374,
+  "tiles": 39,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/overview.ea4f3e738646.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1022,
+   "y": 684,
+   "file": "11-1022-684.445ff12fc3a8.pmtiles",
+   "bytes": 1770962,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1022-684.445ff12fc3a8.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 685,
+   "file": "11-1022-685.4c21e785ea4a.pmtiles",
+   "bytes": 869193,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1022-685.4c21e785ea4a.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 686,
+   "file": "11-1022-686.db2193b3658a.pmtiles",
+   "bytes": 584412,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1022-686.db2193b3658a.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 687,
+   "file": "11-1022-687.d5125d08b54f.pmtiles",
+   "bytes": 662257,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1022-687.d5125d08b54f.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 684,
+   "file": "11-1023-684.0a945031a2ca.pmtiles",
+   "bytes": 1841287,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1023-684.0a945031a2ca.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 685,
+   "file": "11-1023-685.93816d00e877.pmtiles",
+   "bytes": 1545808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1023-685.93816d00e877.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 686,
+   "file": "11-1023-686.637351895e6c.pmtiles",
+   "bytes": 1654037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1023-686.637351895e6c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 687,
+   "file": "11-1023-687.afac55cef8cd.pmtiles",
+   "bytes": 2159012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1023-687.afac55cef8cd.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 684,
+   "file": "11-1024-684.5ba6addc9738.pmtiles",
+   "bytes": 699806,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1024-684.5ba6addc9738.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 685,
+   "file": "11-1024-685.3f53a365a28d.pmtiles",
+   "bytes": 1174707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1024-685.3f53a365a28d.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 686,
+   "file": "11-1024-686.b4a48444578d.pmtiles",
+   "bytes": 871703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1024-686.b4a48444578d.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 687,
+   "file": "11-1024-687.ae8f8f9ce23b.pmtiles",
+   "bytes": 874505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1024-687.ae8f8f9ce23b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 684,
+   "file": "11-1025-684.fdb2d953e478.pmtiles",
+   "bytes": 933754,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1025-684.fdb2d953e478.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 685,
+   "file": "11-1025-685.376d135186a3.pmtiles",
+   "bytes": 686964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1025-685.376d135186a3.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 686,
+   "file": "11-1025-686.1e0a4758b139.pmtiles",
+   "bytes": 719652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1025-686.1e0a4758b139.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 687,
+   "file": "11-1025-687.574bd0320425.pmtiles",
+   "bytes": 1364541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1025-687.574bd0320425.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 684,
+   "file": "11-1026-684.77af00a7a3c0.pmtiles",
+   "bytes": 747766,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1026-684.77af00a7a3c0.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 685,
+   "file": "11-1026-685.e9e496087c07.pmtiles",
+   "bytes": 585535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1026-685.e9e496087c07.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 686,
+   "file": "11-1026-686.aba3aab8f147.pmtiles",
+   "bytes": 1401498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1026-686.aba3aab8f147.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 687,
+   "file": "11-1026-687.13f16c009924.pmtiles",
+   "bytes": 550284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1026-687.13f16c009924.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 684,
+   "file": "11-1027-684.246fb970036d.pmtiles",
+   "bytes": 925583,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1027-684.246fb970036d.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 685,
+   "file": "11-1027-685.9f10acd352e7.pmtiles",
+   "bytes": 820665,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1027-685.9f10acd352e7.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 686,
+   "file": "11-1027-686.b70273cfd0a4.pmtiles",
+   "bytes": 1596623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1027-686.b70273cfd0a4.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 687,
+   "file": "11-1027-687.0b546251cb83.pmtiles",
+   "bytes": 22804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1027-687.0b546251cb83.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 684,
+   "file": "11-1028-684.a8ab18b0d642.pmtiles",
+   "bytes": 1062032,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1028-684.a8ab18b0d642.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 685,
+   "file": "11-1028-685.444c641f34b7.pmtiles",
+   "bytes": 654907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1028-685.444c641f34b7.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 686,
+   "file": "11-1028-686.6ea56fc894a9.pmtiles",
+   "bytes": 345540,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-east-sussex-2026-10-03/11-1028-686.6ea56fc894a9.pmtiles"
+  }
+ ]
+}

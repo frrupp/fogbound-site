@@ -1,0 +1,365 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-hertfordshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:35:18.109Z",
+ "publishedAt": "2026-10-05T00:35:32.421Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-hertfordshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.74577,
+  51.59958,
+  0.19561,
+  52.08054
+ ],
+ "overview": {
+  "file": "overview.4c02dfbd3d3b.pmtiles",
+  "bytes": 3816021,
+  "tiles": 44,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/overview.4c02dfbd3d3b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1019,
+   "y": 675,
+   "file": "11-1019-675.1389f0fb788f.pmtiles",
+   "bytes": 292213,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-675.1389f0fb788f.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 676,
+   "file": "11-1019-676.0c6447cb2efb.pmtiles",
+   "bytes": 800286,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-676.0c6447cb2efb.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 677,
+   "file": "11-1019-677.181454d0fdba.pmtiles",
+   "bytes": 161913,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-677.181454d0fdba.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 678,
+   "file": "11-1019-678.6739c20f6bcc.pmtiles",
+   "bytes": 346520,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-678.6739c20f6bcc.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 679,
+   "file": "11-1019-679.1c4986e8c534.pmtiles",
+   "bytes": 674311,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-679.1c4986e8c534.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 680,
+   "file": "11-1019-680.3312c721e1e7.pmtiles",
+   "bytes": 224414,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1019-680.3312c721e1e7.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 675,
+   "file": "11-1020-675.621a7b68c68b.pmtiles",
+   "bytes": 437273,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-675.621a7b68c68b.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 676,
+   "file": "11-1020-676.858522c3fd42.pmtiles",
+   "bytes": 1145882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-676.858522c3fd42.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 677,
+   "file": "11-1020-677.9c4ea8d29386.pmtiles",
+   "bytes": 1123185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-677.9c4ea8d29386.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 678,
+   "file": "11-1020-678.c81b626c5cd4.pmtiles",
+   "bytes": 1168497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-678.c81b626c5cd4.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 679,
+   "file": "11-1020-679.30f72610c655.pmtiles",
+   "bytes": 1528680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-679.30f72610c655.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 680,
+   "file": "11-1020-680.7fe85127a5e2.pmtiles",
+   "bytes": 624163,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1020-680.7fe85127a5e2.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 675,
+   "file": "11-1021-675.cd46d60a4330.pmtiles",
+   "bytes": 374636,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-675.cd46d60a4330.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 676,
+   "file": "11-1021-676.48b4965bd10c.pmtiles",
+   "bytes": 979127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-676.48b4965bd10c.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 677,
+   "file": "11-1021-677.ce21c29510e1.pmtiles",
+   "bytes": 1794891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-677.ce21c29510e1.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 678,
+   "file": "11-1021-678.e8c95d5f9ac5.pmtiles",
+   "bytes": 1578853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-678.e8c95d5f9ac5.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 679,
+   "file": "11-1021-679.dc1c72cf0da4.pmtiles",
+   "bytes": 3024994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-679.dc1c72cf0da4.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 680,
+   "file": "11-1021-680.b06f3fc304df.pmtiles",
+   "bytes": 611022,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1021-680.b06f3fc304df.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 675,
+   "file": "11-1022-675.b50089013690.pmtiles",
+   "bytes": 482098,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-675.b50089013690.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 676,
+   "file": "11-1022-676.f9ddb580f646.pmtiles",
+   "bytes": 1830063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-676.f9ddb580f646.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 677,
+   "file": "11-1022-677.4e71f0392540.pmtiles",
+   "bytes": 1588155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-677.4e71f0392540.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 678,
+   "file": "11-1022-678.458765f7ba6f.pmtiles",
+   "bytes": 2946349,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-678.458765f7ba6f.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 679,
+   "file": "11-1022-679.a724899c56ad.pmtiles",
+   "bytes": 2771736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-679.a724899c56ad.pmtiles"
+  },
+  {
+   "x": 1022,
+   "y": 680,
+   "file": "11-1022-680.b09ccb928548.pmtiles",
+   "bytes": 1127866,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1022-680.b09ccb928548.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 675,
+   "file": "11-1023-675.8bfdd8f53dbd.pmtiles",
+   "bytes": 372435,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-675.8bfdd8f53dbd.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 676,
+   "file": "11-1023-676.29a4189f9f17.pmtiles",
+   "bytes": 843001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-676.29a4189f9f17.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 677,
+   "file": "11-1023-677.b67d871db92e.pmtiles",
+   "bytes": 1249356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-677.b67d871db92e.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 678,
+   "file": "11-1023-678.fe207d72d2b0.pmtiles",
+   "bytes": 2023662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-678.fe207d72d2b0.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 679,
+   "file": "11-1023-679.089dc1ec6023.pmtiles",
+   "bytes": 3544242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-679.089dc1ec6023.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 680,
+   "file": "11-1023-680.ace02d88fbab.pmtiles",
+   "bytes": 1995942,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1023-680.ace02d88fbab.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 675,
+   "file": "11-1024-675.b73fb0e9fb7e.pmtiles",
+   "bytes": 345615,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-675.b73fb0e9fb7e.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 676,
+   "file": "11-1024-676.851d76075141.pmtiles",
+   "bytes": 664155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-676.851d76075141.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 677,
+   "file": "11-1024-677.8dac73da1f26.pmtiles",
+   "bytes": 1358557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-677.8dac73da1f26.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 678,
+   "file": "11-1024-678.30f90d0497d3.pmtiles",
+   "bytes": 1841063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-678.30f90d0497d3.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 679,
+   "file": "11-1024-679.465f23fa37db.pmtiles",
+   "bytes": 1610475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-679.465f23fa37db.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 680,
+   "file": "11-1024-680.df7f9df8d1ab.pmtiles",
+   "bytes": 827501,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1024-680.df7f9df8d1ab.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 675,
+   "file": "11-1025-675.20a0428f7f80.pmtiles",
+   "bytes": 195110,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-675.20a0428f7f80.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 676,
+   "file": "11-1025-676.6ab8b55c2c88.pmtiles",
+   "bytes": 170111,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-676.6ab8b55c2c88.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 677,
+   "file": "11-1025-677.3b902d4e5583.pmtiles",
+   "bytes": 333150,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-677.3b902d4e5583.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 678,
+   "file": "11-1025-678.303434a8c233.pmtiles",
+   "bytes": 188173,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-678.303434a8c233.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 679,
+   "file": "11-1025-679.fdaea50bdf13.pmtiles",
+   "bytes": 199616,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-679.fdaea50bdf13.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 680,
+   "file": "11-1025-680.bf5d65b1ead1.pmtiles",
+   "bytes": 174385,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hertfordshire-2026-10-03/11-1025-680.bf5d65b1ead1.pmtiles"
+  }
+ ]
+}

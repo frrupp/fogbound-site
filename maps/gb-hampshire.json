@@ -1,0 +1,469 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-hampshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:42:17.481Z",
+ "publishedAt": "2026-10-05T01:42:35.164Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-hampshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.95728,
+  50.70597,
+  -0.72934,
+  51.38392
+ ],
+ "overview": {
+  "file": "overview.022a780311f4.pmtiles",
+  "bytes": 2214748,
+  "tiles": 35,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/overview.022a780311f4.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1012,
+   "y": 682,
+   "file": "11-1012-682.0bad317c7140.pmtiles",
+   "bytes": 277844,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-682.0bad317c7140.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 683,
+   "file": "11-1012-683.c9d9ddc3661a.pmtiles",
+   "bytes": 83591,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-683.c9d9ddc3661a.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 684,
+   "file": "11-1012-684.a78aebe87473.pmtiles",
+   "bytes": 148015,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-684.a78aebe87473.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 685,
+   "file": "11-1012-685.9a1cf123161a.pmtiles",
+   "bytes": 189617,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-685.9a1cf123161a.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 686,
+   "file": "11-1012-686.53d949ba2eb2.pmtiles",
+   "bytes": 154597,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-686.53d949ba2eb2.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 687,
+   "file": "11-1012-687.b5d2c27a6f00.pmtiles",
+   "bytes": 603200,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-687.b5d2c27a6f00.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 688,
+   "file": "11-1012-688.f6806bdcc897.pmtiles",
+   "bytes": 401883,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1012-688.f6806bdcc897.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 682,
+   "file": "11-1013-682.ab712ffa8c66.pmtiles",
+   "bytes": 590229,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-682.ab712ffa8c66.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 683,
+   "file": "11-1013-683.2bab0726e216.pmtiles",
+   "bytes": 477425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-683.2bab0726e216.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 684,
+   "file": "11-1013-684.74f9ba4452c5.pmtiles",
+   "bytes": 1166453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-684.74f9ba4452c5.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 685,
+   "file": "11-1013-685.214174a498f4.pmtiles",
+   "bytes": 812311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-685.214174a498f4.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 686,
+   "file": "11-1013-686.0d8dbca7c0f9.pmtiles",
+   "bytes": 1157250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-686.0d8dbca7c0f9.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 687,
+   "file": "11-1013-687.edbee6dfc2c5.pmtiles",
+   "bytes": 2329745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-687.edbee6dfc2c5.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 688,
+   "file": "11-1013-688.1d3276731867.pmtiles",
+   "bytes": 1120109,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1013-688.1d3276731867.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 682,
+   "file": "11-1014-682.6c6ac8d86c87.pmtiles",
+   "bytes": 404190,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-682.6c6ac8d86c87.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 683,
+   "file": "11-1014-683.76bd879e573c.pmtiles",
+   "bytes": 602854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-683.76bd879e573c.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 684,
+   "file": "11-1014-684.c251af5f7e0b.pmtiles",
+   "bytes": 659325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-684.c251af5f7e0b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 685,
+   "file": "11-1014-685.5f6ace0bf645.pmtiles",
+   "bytes": 1189754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-685.5f6ace0bf645.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 686,
+   "file": "11-1014-686.8a6349c6a6ea.pmtiles",
+   "bytes": 937874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-686.8a6349c6a6ea.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 687,
+   "file": "11-1014-687.49bd74f4ef3a.pmtiles",
+   "bytes": 1302895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-687.49bd74f4ef3a.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 688,
+   "file": "11-1014-688.948a352fe4dc.pmtiles",
+   "bytes": 264095,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1014-688.948a352fe4dc.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 682,
+   "file": "11-1015-682.35196266d5db.pmtiles",
+   "bytes": 487559,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-682.35196266d5db.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 683,
+   "file": "11-1015-683.79883acae0d0.pmtiles",
+   "bytes": 1405226,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-683.79883acae0d0.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 684,
+   "file": "11-1015-684.e697b60fa2e2.pmtiles",
+   "bytes": 806651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-684.e697b60fa2e2.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 685,
+   "file": "11-1015-685.9e74143995e8.pmtiles",
+   "bytes": 1962277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-685.9e74143995e8.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 686,
+   "file": "11-1015-686.3d88f4eca8a4.pmtiles",
+   "bytes": 2757247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-686.3d88f4eca8a4.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 687,
+   "file": "11-1015-687.c29277646d4d.pmtiles",
+   "bytes": 1176711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-687.c29277646d4d.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 688,
+   "file": "11-1015-688.f166388447aa.pmtiles",
+   "bytes": 323741,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1015-688.f166388447aa.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 682,
+   "file": "11-1016-682.27b94c854c76.pmtiles",
+   "bytes": 680905,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-682.27b94c854c76.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 683,
+   "file": "11-1016-683.87c592088c36.pmtiles",
+   "bytes": 690447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-683.87c592088c36.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 684,
+   "file": "11-1016-684.39ae4e3fc143.pmtiles",
+   "bytes": 899043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-684.39ae4e3fc143.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 685,
+   "file": "11-1016-685.0a11216c6e6b.pmtiles",
+   "bytes": 2117965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-685.0a11216c6e6b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 686,
+   "file": "11-1016-686.e8377dab8317.pmtiles",
+   "bytes": 3575924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-686.e8377dab8317.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 687,
+   "file": "11-1016-687.bcac6d72ea24.pmtiles",
+   "bytes": 990487,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-687.bcac6d72ea24.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 688,
+   "file": "11-1016-688.5691660c49ff.pmtiles",
+   "bytes": 717423,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1016-688.5691660c49ff.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 682,
+   "file": "11-1017-682.f233d293c933.pmtiles",
+   "bytes": 846090,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-682.f233d293c933.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 683,
+   "file": "11-1017-683.11f6b173b1be.pmtiles",
+   "bytes": 1672128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-683.11f6b173b1be.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 684,
+   "file": "11-1017-684.3a379a77f3ac.pmtiles",
+   "bytes": 772557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-684.3a379a77f3ac.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 685,
+   "file": "11-1017-685.27aa73951eb8.pmtiles",
+   "bytes": 623942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-685.27aa73951eb8.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 686,
+   "file": "11-1017-686.2cbebc97fbf9.pmtiles",
+   "bytes": 1285853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-686.2cbebc97fbf9.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 687,
+   "file": "11-1017-687.b8f34a464568.pmtiles",
+   "bytes": 2243471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-687.b8f34a464568.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 688,
+   "file": "11-1017-688.162edacdb88b.pmtiles",
+   "bytes": 699478,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1017-688.162edacdb88b.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 682,
+   "file": "11-1018-682.75d4e3f19b11.pmtiles",
+   "bytes": 753492,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-682.75d4e3f19b11.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 683,
+   "file": "11-1018-683.3972a72b6e49.pmtiles",
+   "bytes": 909752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-683.3972a72b6e49.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 684,
+   "file": "11-1018-684.5c75a71b9a8f.pmtiles",
+   "bytes": 1046471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-684.5c75a71b9a8f.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 685,
+   "file": "11-1018-685.6409efd4f341.pmtiles",
+   "bytes": 835532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-685.6409efd4f341.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 686,
+   "file": "11-1018-686.5aa3a869be6f.pmtiles",
+   "bytes": 1652658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-686.5aa3a869be6f.pmtiles"
+  },
+  {
+   "x": 1018,
+   "y": 687,
+   "file": "11-1018-687.f2e544b2b004.pmtiles",
+   "bytes": 906019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1018-687.f2e544b2b004.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 682,
+   "file": "11-1019-682.e2b5dfd40d35.pmtiles",
+   "bytes": 1678069,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-682.e2b5dfd40d35.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 683,
+   "file": "11-1019-683.e524c7f10aba.pmtiles",
+   "bytes": 2798277,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-683.e524c7f10aba.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 684,
+   "file": "11-1019-684.2cbfc7d14a3b.pmtiles",
+   "bytes": 1084715,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-684.2cbfc7d14a3b.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 685,
+   "file": "11-1019-685.41ec90ef1e84.pmtiles",
+   "bytes": 637184,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-685.41ec90ef1e84.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 686,
+   "file": "11-1019-686.4780a1a7862d.pmtiles",
+   "bytes": 656667,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-686.4780a1a7862d.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 687,
+   "file": "11-1019-687.ee932a349acd.pmtiles",
+   "bytes": 1305377,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-687.ee932a349acd.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 688,
+   "file": "11-1019-688.2a23cd5e908a.pmtiles",
+   "bytes": 83810,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-hampshire-2026-10-03/11-1019-688.2a23cd5e908a.pmtiles"
+  }
+ ]
+}

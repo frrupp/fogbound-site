@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-rutland",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:31:41.215Z",
+ "publishedAt": "2026-10-05T00:31:46.156Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-rutland-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.82176,
+  52.52479,
+  -0.42839,
+  52.7598
+ ],
+ "overview": {
+  "file": "overview.4e8f41e057ea.pmtiles",
+  "bytes": 744014,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/overview.4e8f41e057ea.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1019,
+   "y": 669,
+   "file": "11-1019-669.03f89481de58.pmtiles",
+   "bytes": 149747,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1019-669.03f89481de58.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 670,
+   "file": "11-1019-670.4eada69d7752.pmtiles",
+   "bytes": 421345,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1019-670.4eada69d7752.pmtiles"
+  },
+  {
+   "x": 1019,
+   "y": 671,
+   "file": "11-1019-671.9a46fa760924.pmtiles",
+   "bytes": 204397,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1019-671.9a46fa760924.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 669,
+   "file": "11-1020-669.5470811184e2.pmtiles",
+   "bytes": 247297,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1020-669.5470811184e2.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 670,
+   "file": "11-1020-670.d9b0faf095d2.pmtiles",
+   "bytes": 476293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1020-670.d9b0faf095d2.pmtiles"
+  },
+  {
+   "x": 1020,
+   "y": 671,
+   "file": "11-1020-671.c3e570b84e78.pmtiles",
+   "bytes": 228315,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1020-671.c3e570b84e78.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 669,
+   "file": "11-1021-669.bb1b8f329e73.pmtiles",
+   "bytes": 185696,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1021-669.bb1b8f329e73.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 670,
+   "file": "11-1021-670.59754422294a.pmtiles",
+   "bytes": 566009,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1021-670.59754422294a.pmtiles"
+  },
+  {
+   "x": 1021,
+   "y": 671,
+   "file": "11-1021-671.14bf49721167.pmtiles",
+   "bytes": 258610,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-rutland-2026-10-03/11-1021-671.14bf49721167.pmtiles"
+  }
+ ]
+}

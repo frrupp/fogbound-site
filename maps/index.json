@@ -1,7 +1,7 @@
 {
  "format": "fogbound-maps-index",
  "version": 1,
- "builtAt": "2026-10-05T00:28:36.028Z",
+ "builtAt": "2026-10-05T01:48:14.791Z",
  "regions": {
   "at-burgenland": {
    "bytes": 48005235,
@@ -1177,6 +1177,281 @@
    "bytes": 51635881,
    "files": 36,
    "publishedAt": "2026-10-04T13:28:16.204Z"
+  },
+  "gb-antrim": {
+   "bytes": 23723403,
+   "files": 43,
+   "publishedAt": "2026-10-05T01:42:17.066Z"
+  },
+  "gb-armagh": {
+   "bytes": 9683203,
+   "files": 31,
+   "publishedAt": "2026-10-05T00:33:32.725Z"
+  },
+  "gb-bedfordshire": {
+   "bytes": 21295128,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:33:51.892Z"
+  },
+  "gb-berkshire": {
+   "bytes": 25272230,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:32:26.511Z"
+  },
+  "gb-bristol": {
+   "bytes": 15652619,
+   "files": 13,
+   "publishedAt": "2026-10-05T00:31:58.386Z"
+  },
+  "gb-buckinghamshire": {
+   "bytes": 34002336,
+   "files": 41,
+   "publishedAt": "2026-10-05T00:36:08.888Z"
+  },
+  "gb-cambridgeshire": {
+   "bytes": 36358734,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:40:11.371Z"
+  },
+  "gb-cheshire": {
+   "bytes": 63962256,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:38:03.431Z"
+  },
+  "gb-city-of-london": {
+   "bytes": 4618629,
+   "files": 3,
+   "publishedAt": "2026-10-05T00:31:40.809Z"
+  },
+  "gb-cornwall": {
+   "bytes": 28606151,
+   "files": 53,
+   "publishedAt": "2026-10-05T01:47:11.284Z"
+  },
+  "gb-county-durham": {
+   "bytes": 23188940,
+   "files": 47,
+   "publishedAt": "2026-10-05T00:37:18.374Z"
+  },
+  "gb-cumbria": {
+   "bytes": 44733383,
+   "files": 111,
+   "publishedAt": "2026-10-05T01:45:47.049Z"
+  },
+  "gb-derbyshire": {
+   "bytes": 56324168,
+   "files": 55,
+   "publishedAt": "2026-10-05T00:39:55.257Z"
+  },
+  "gb-devon": {
+   "bytes": 57238207,
+   "files": 89,
+   "publishedAt": "2026-10-05T01:46:13.068Z"
+  },
+  "gb-dorset": {
+   "bytes": 28661827,
+   "files": 46,
+   "publishedAt": "2026-10-05T00:39:37.837Z"
+  },
+  "gb-down": {
+   "bytes": 26559514,
+   "files": 44,
+   "publishedAt": "2026-10-05T00:38:17.587Z"
+  },
+  "gb-east-riding-of-yorkshire": {
+   "bytes": 27222639,
+   "files": 50,
+   "publishedAt": "2026-10-05T01:41:27.454Z"
+  },
+  "gb-east-sussex": {
+   "bytes": 28708211,
+   "files": 28,
+   "publishedAt": "2026-10-05T00:35:55.291Z"
+  },
+  "gb-essex": {
+   "bytes": 60409469,
+   "files": 57,
+   "publishedAt": "2026-10-05T01:43:09.475Z"
+  },
+  "gb-fermanagh": {
+   "bytes": 8893485,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:36:35.331Z"
+  },
+  "gb-gloucestershire": {
+   "bytes": 51394861,
+   "files": 50,
+   "publishedAt": "2026-10-05T01:41:44.954Z"
+  },
+  "gb-greater-london": {
+   "bytes": 81668681,
+   "files": 26,
+   "publishedAt": "2026-10-05T00:34:16.342Z"
+  },
+  "gb-greater-manchester": {
+   "bytes": 47586322,
+   "files": 31,
+   "publishedAt": "2026-10-05T00:34:03.940Z"
+  },
+  "gb-hampshire": {
+   "bytes": 58171152,
+   "files": 56,
+   "publishedAt": "2026-10-05T01:42:35.164Z"
+  },
+  "gb-herefordshire": {
+   "bytes": 19485660,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:35:44.277Z"
+  },
+  "gb-hertfordshire": {
+   "bytes": 49389697,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:35:32.421Z"
+  },
+  "gb-isle-of-wight": {
+   "bytes": 6995772,
+   "files": 11,
+   "publishedAt": "2026-10-05T00:31:51.814Z"
+  },
+  "gb-kent": {
+   "bytes": 48074038,
+   "files": 46,
+   "publishedAt": "2026-10-05T01:42:50.881Z"
+  },
+  "gb-lancashire": {
+   "bytes": 57992559,
+   "files": 56,
+   "publishedAt": "2026-10-05T01:42:03.422Z"
+  },
+  "gb-leicestershire": {
+   "bytes": 41007759,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:37:04.125Z"
+  },
+  "gb-lincolnshire": {
+   "bytes": 42647601,
+   "files": 91,
+   "publishedAt": "2026-10-05T01:45:17.220Z"
+  },
+  "gb-londonderry": {
+   "bytes": 10957244,
+   "files": 48,
+   "publishedAt": "2026-10-05T00:36:49.383Z"
+  },
+  "gb-merseyside": {
+   "bytes": 30089090,
+   "files": 23,
+   "publishedAt": "2026-10-05T00:33:42.217Z"
+  },
+  "gb-norfolk": {
+   "bytes": 38435668,
+   "files": 68,
+   "publishedAt": "2026-10-05T01:44:05.985Z"
+  },
+  "gb-north-yorkshire": {
+   "bytes": 100273265,
+   "files": 147,
+   "publishedAt": "2026-10-05T01:46:54.821Z"
+  },
+  "gb-northamptonshire": {
+   "bytes": 35733580,
+   "files": 50,
+   "publishedAt": "2026-10-05T00:38:34.354Z"
+  },
+  "gb-northumberland": {
+   "bytes": 45073450,
+   "files": 81,
+   "publishedAt": "2026-10-05T01:44:51.115Z"
+  },
+  "gb-nottinghamshire": {
+   "bytes": 32803062,
+   "files": 41,
+   "publishedAt": "2026-10-05T00:36:22.370Z"
+  },
+  "gb-oxfordshire": {
+   "bytes": 32205399,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:37:48.285Z"
+  },
+  "gb-rutland": {
+   "bytes": 3481723,
+   "files": 10,
+   "publishedAt": "2026-10-05T00:31:46.156Z"
+  },
+  "gb-shropshire": {
+   "bytes": 33622768,
+   "files": 50,
+   "publishedAt": "2026-10-05T00:39:05.205Z"
+  },
+  "gb-somerset": {
+   "bytes": 56036975,
+   "files": 70,
+   "publishedAt": "2026-10-05T01:44:27.639Z"
+  },
+  "gb-south-yorkshire": {
+   "bytes": 29779474,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:34:28.454Z"
+  },
+  "gb-staffordshire": {
+   "bytes": 60945830,
+   "files": 55,
+   "publishedAt": "2026-10-05T00:39:23.512Z"
+  },
+  "gb-suffolk": {
+   "bytes": 36812353,
+   "files": 62,
+   "publishedAt": "2026-10-05T01:43:46.682Z"
+  },
+  "gb-surrey": {
+   "bytes": 56463068,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:34:39.597Z"
+  },
+  "gb-tyne-and-wear": {
+   "bytes": 18032672,
+   "files": 16,
+   "publishedAt": "2026-10-05T00:32:05.534Z"
+  },
+  "gb-tyrone": {
+   "bytes": 15048232,
+   "files": 70,
+   "publishedAt": "2026-10-05T01:43:28.622Z"
+  },
+  "gb-wales": {
+   "bytes": 149578735,
+   "files": 229,
+   "publishedAt": "2026-10-05T01:48:14.631Z"
+  },
+  "gb-warwickshire": {
+   "bytes": 49995848,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:37:32.637Z"
+  },
+  "gb-west-midlands": {
+   "bytes": 42504174,
+   "files": 21,
+   "publishedAt": "2026-10-05T00:32:15.781Z"
+  },
+  "gb-west-sussex": {
+   "bytes": 33787574,
+   "files": 30,
+   "publishedAt": "2026-10-05T00:35:17.707Z"
+  },
+  "gb-west-yorkshire": {
+   "bytes": 47510410,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:34:53.931Z"
+  },
+  "gb-wiltshire": {
+   "bytes": 36660708,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:38:49.717Z"
+  },
+  "gb-worcestershire": {
+   "bytes": 30885357,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:35:06.089Z"
   },
   "gr-attica": {
    "bytes": 43753842,

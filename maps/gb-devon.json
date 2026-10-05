@@ -1,0 +1,733 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-devon",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:45:47.469Z",
+ "publishedAt": "2026-10-05T01:46:13.068Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-devon-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -4.68096,
+  50.20145,
+  -2.88664,
+  51.24684
+ ],
+ "overview": {
+  "file": "overview.31245ab3a32e.pmtiles",
+  "bytes": 1961502,
+  "tiles": 61,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/overview.31245ab3a32e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 997,
+   "y": 683,
+   "file": "11-997-683.09e205a8cad7.pmtiles",
+   "bytes": 30169,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-683.09e205a8cad7.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 684,
+   "file": "11-997-684.ff478042c0f7.pmtiles",
+   "bytes": 42972,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-684.ff478042c0f7.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 687,
+   "file": "11-997-687.7682f584f901.pmtiles",
+   "bytes": 81728,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-687.7682f584f901.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 688,
+   "file": "11-997-688.ef696b690ba9.pmtiles",
+   "bytes": 388901,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-688.ef696b690ba9.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 689,
+   "file": "11-997-689.4f515a0c61f8.pmtiles",
+   "bytes": 559806,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-689.4f515a0c61f8.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 690,
+   "file": "11-997-690.6061217a938d.pmtiles",
+   "bytes": 654599,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-690.6061217a938d.pmtiles"
+  },
+  {
+   "x": 997,
+   "y": 691,
+   "file": "11-997-691.c8494b599cb4.pmtiles",
+   "bytes": 574407,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-997-691.c8494b599cb4.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 685,
+   "file": "11-998-685.36c9db538ac9.pmtiles",
+   "bytes": 439633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-685.36c9db538ac9.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 686,
+   "file": "11-998-686.35a1cb172008.pmtiles",
+   "bytes": 343597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-686.35a1cb172008.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 687,
+   "file": "11-998-687.5dda828b191a.pmtiles",
+   "bytes": 456252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-687.5dda828b191a.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 688,
+   "file": "11-998-688.74314169cdf2.pmtiles",
+   "bytes": 307011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-688.74314169cdf2.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 689,
+   "file": "11-998-689.101832c12e3c.pmtiles",
+   "bytes": 430514,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-689.101832c12e3c.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 690,
+   "file": "11-998-690.7d14a31742ce.pmtiles",
+   "bytes": 885763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-690.7d14a31742ce.pmtiles"
+  },
+  {
+   "x": 998,
+   "y": 691,
+   "file": "11-998-691.abe20f381558.pmtiles",
+   "bytes": 498477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-998-691.abe20f381558.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 684,
+   "file": "11-999-684.db21d23a7199.pmtiles",
+   "bytes": 111547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-684.db21d23a7199.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 685,
+   "file": "11-999-685.ea5859fb2010.pmtiles",
+   "bytes": 331483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-685.ea5859fb2010.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 686,
+   "file": "11-999-686.ea322a7e32df.pmtiles",
+   "bytes": 268018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-686.ea322a7e32df.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 687,
+   "file": "11-999-687.0732321051c3.pmtiles",
+   "bytes": 340034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-687.0732321051c3.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 688,
+   "file": "11-999-688.81b1b1a3796e.pmtiles",
+   "bytes": 402619,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-688.81b1b1a3796e.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 689,
+   "file": "11-999-689.003976d14e82.pmtiles",
+   "bytes": 341108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-689.003976d14e82.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 690,
+   "file": "11-999-690.ce551d5a7ad0.pmtiles",
+   "bytes": 710894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-690.ce551d5a7ad0.pmtiles"
+  },
+  {
+   "x": 999,
+   "y": 691,
+   "file": "11-999-691.772a3c754775.pmtiles",
+   "bytes": 342748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-999-691.772a3c754775.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 683,
+   "file": "11-1000-683.b738e93a9414.pmtiles",
+   "bytes": 437097,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-683.b738e93a9414.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 684,
+   "file": "11-1000-684.4aecd839b84c.pmtiles",
+   "bytes": 917917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-684.4aecd839b84c.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 685,
+   "file": "11-1000-685.7a7f6c5a3f0a.pmtiles",
+   "bytes": 597128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-685.7a7f6c5a3f0a.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 686,
+   "file": "11-1000-686.8fdbc94c04a5.pmtiles",
+   "bytes": 351784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-686.8fdbc94c04a5.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 687,
+   "file": "11-1000-687.e51ff1b3421f.pmtiles",
+   "bytes": 302343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-687.e51ff1b3421f.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 688,
+   "file": "11-1000-688.221e0786078e.pmtiles",
+   "bytes": 344987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-688.221e0786078e.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 689,
+   "file": "11-1000-689.3a995fb026e5.pmtiles",
+   "bytes": 510236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-689.3a995fb026e5.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 690,
+   "file": "11-1000-690.452aafca652d.pmtiles",
+   "bytes": 1362581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-690.452aafca652d.pmtiles"
+  },
+  {
+   "x": 1000,
+   "y": 691,
+   "file": "11-1000-691.36829ac3c9c0.pmtiles",
+   "bytes": 2210416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1000-691.36829ac3c9c0.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 683,
+   "file": "11-1001-683.e0f65a4193fe.pmtiles",
+   "bytes": 407997,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-683.e0f65a4193fe.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 684,
+   "file": "11-1001-684.c3e0aa788228.pmtiles",
+   "bytes": 482558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-684.c3e0aa788228.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 685,
+   "file": "11-1001-685.517207c46a4b.pmtiles",
+   "bytes": 392080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-685.517207c46a4b.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 686,
+   "file": "11-1001-686.e6a70ea0641e.pmtiles",
+   "bytes": 297071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-686.e6a70ea0641e.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 687,
+   "file": "11-1001-687.2230bda9b99f.pmtiles",
+   "bytes": 423020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-687.2230bda9b99f.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 688,
+   "file": "11-1001-688.cce866548dac.pmtiles",
+   "bytes": 370414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-688.cce866548dac.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 689,
+   "file": "11-1001-689.1b843d9599b4.pmtiles",
+   "bytes": 347144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-689.1b843d9599b4.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 690,
+   "file": "11-1001-690.36889d14cc3d.pmtiles",
+   "bytes": 383734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-690.36889d14cc3d.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 691,
+   "file": "11-1001-691.1dfca5e01a74.pmtiles",
+   "bytes": 983260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-691.1dfca5e01a74.pmtiles"
+  },
+  {
+   "x": 1001,
+   "y": 692,
+   "file": "11-1001-692.cd3aa12dd966.pmtiles",
+   "bytes": 68955,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1001-692.cd3aa12dd966.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 683,
+   "file": "11-1002-683.e146a2c7d4d3.pmtiles",
+   "bytes": 399114,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-683.e146a2c7d4d3.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 684,
+   "file": "11-1002-684.7a29ed9459c7.pmtiles",
+   "bytes": 408904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-684.7a29ed9459c7.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 685,
+   "file": "11-1002-685.d108ceb26c79.pmtiles",
+   "bytes": 342090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-685.d108ceb26c79.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 686,
+   "file": "11-1002-686.d36c1398b025.pmtiles",
+   "bytes": 368132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-686.d36c1398b025.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 687,
+   "file": "11-1002-687.47f236db0e4c.pmtiles",
+   "bytes": 362341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-687.47f236db0e4c.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 688,
+   "file": "11-1002-688.eb80a8c1befe.pmtiles",
+   "bytes": 504005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-688.eb80a8c1befe.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 689,
+   "file": "11-1002-689.3bf6ca6aa01e.pmtiles",
+   "bytes": 759376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-689.3bf6ca6aa01e.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 690,
+   "file": "11-1002-690.9f4d30d7c67d.pmtiles",
+   "bytes": 978428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-690.9f4d30d7c67d.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 691,
+   "file": "11-1002-691.294327e0c549.pmtiles",
+   "bytes": 696290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-691.294327e0c549.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 692,
+   "file": "11-1002-692.6dbb4de541fe.pmtiles",
+   "bytes": 723670,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1002-692.6dbb4de541fe.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 683,
+   "file": "11-1003-683.2ad13ff351c3.pmtiles",
+   "bytes": 386087,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-683.2ad13ff351c3.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 684,
+   "file": "11-1003-684.a8614d74ac7f.pmtiles",
+   "bytes": 716705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-684.a8614d74ac7f.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 685,
+   "file": "11-1003-685.a6ef3bed0358.pmtiles",
+   "bytes": 421144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-685.a6ef3bed0358.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 686,
+   "file": "11-1003-686.acebec373862.pmtiles",
+   "bytes": 365407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-686.acebec373862.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 687,
+   "file": "11-1003-687.5cda2d5200b3.pmtiles",
+   "bytes": 726478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-687.5cda2d5200b3.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 688,
+   "file": "11-1003-688.461af256e776.pmtiles",
+   "bytes": 1343427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-688.461af256e776.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 689,
+   "file": "11-1003-689.3a7c9c2023dc.pmtiles",
+   "bytes": 1264614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-689.3a7c9c2023dc.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 690,
+   "file": "11-1003-690.86a623ae0e61.pmtiles",
+   "bytes": 2139613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-690.86a623ae0e61.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 691,
+   "file": "11-1003-691.872428cbdfc0.pmtiles",
+   "bytes": 940573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-691.872428cbdfc0.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 692,
+   "file": "11-1003-692.a72a2f722b31.pmtiles",
+   "bytes": 169566,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1003-692.a72a2f722b31.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 683,
+   "file": "11-1004-683.947f3ef8d69b.pmtiles",
+   "bytes": 283187,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-683.947f3ef8d69b.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 684,
+   "file": "11-1004-684.90e7f905941a.pmtiles",
+   "bytes": 744279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-684.90e7f905941a.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 685,
+   "file": "11-1004-685.f6434532c058.pmtiles",
+   "bytes": 460356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-685.f6434532c058.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 686,
+   "file": "11-1004-686.c804b6d75321.pmtiles",
+   "bytes": 1545259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-686.c804b6d75321.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 687,
+   "file": "11-1004-687.bdb596d0fb18.pmtiles",
+   "bytes": 1592370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-687.bdb596d0fb18.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 688,
+   "file": "11-1004-688.391e14ddadd9.pmtiles",
+   "bytes": 1816201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-688.391e14ddadd9.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 689,
+   "file": "11-1004-689.3df74a5a55f0.pmtiles",
+   "bytes": 763533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-689.3df74a5a55f0.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 690,
+   "file": "11-1004-690.63689d414354.pmtiles",
+   "bytes": 154081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-690.63689d414354.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 691,
+   "file": "11-1004-691.f4493b7034e8.pmtiles",
+   "bytes": 141660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1004-691.f4493b7034e8.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 683,
+   "file": "11-1005-683.072f5495999d.pmtiles",
+   "bytes": 120111,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-683.072f5495999d.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 684,
+   "file": "11-1005-684.baa419d6ca03.pmtiles",
+   "bytes": 1050801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-684.baa419d6ca03.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 685,
+   "file": "11-1005-685.2a78011546ff.pmtiles",
+   "bytes": 1403858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-685.2a78011546ff.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 686,
+   "file": "11-1005-686.1ba97df55d57.pmtiles",
+   "bytes": 972849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-686.1ba97df55d57.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 687,
+   "file": "11-1005-687.bb0d2a3d7926.pmtiles",
+   "bytes": 944577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-687.bb0d2a3d7926.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 688,
+   "file": "11-1005-688.c14bbae7877e.pmtiles",
+   "bytes": 694136,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1005-688.c14bbae7877e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 683,
+   "file": "11-1006-683.227ac43ecaef.pmtiles",
+   "bytes": 379288,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-683.227ac43ecaef.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 684,
+   "file": "11-1006-684.4f42b74ca58e.pmtiles",
+   "bytes": 1423887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-684.4f42b74ca58e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 685,
+   "file": "11-1006-685.eea14715eb14.pmtiles",
+   "bytes": 2424738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-685.eea14715eb14.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 686,
+   "file": "11-1006-686.b61ad3aa29ca.pmtiles",
+   "bytes": 799179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-686.b61ad3aa29ca.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 687,
+   "file": "11-1006-687.f96c731750eb.pmtiles",
+   "bytes": 761108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-687.f96c731750eb.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 688,
+   "file": "11-1006-688.9a4ae9a75239.pmtiles",
+   "bytes": 411677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1006-688.9a4ae9a75239.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 683,
+   "file": "11-1007-683.54e1b2bd962b.pmtiles",
+   "bytes": 345451,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-683.54e1b2bd962b.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 684,
+   "file": "11-1007-684.45a6efe70e5f.pmtiles",
+   "bytes": 548379,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-684.45a6efe70e5f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 685,
+   "file": "11-1007-685.3f6155c0e337.pmtiles",
+   "bytes": 479293,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-685.3f6155c0e337.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 686,
+   "file": "11-1007-686.2043343673fb.pmtiles",
+   "bytes": 631618,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-686.2043343673fb.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 687,
+   "file": "11-1007-687.d86a78ad135e.pmtiles",
+   "bytes": 443779,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-687.d86a78ad135e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 688,
+   "file": "11-1007-688.832d63317a1a.pmtiles",
+   "bytes": 192084,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-devon-2026-10-03/11-1007-688.832d63317a1a.pmtiles"
+  }
+ ]
+}

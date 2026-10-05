@@ -1,0 +1,45 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-city-of-london",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:31:37.189Z",
+ "publishedAt": "2026-10-05T00:31:40.809Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-city-of-london-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.11383,
+  51.50687,
+  -0.07277,
+  51.52331
+ ],
+ "overview": {
+  "file": "overview.4e28bdb45e43.pmtiles",
+  "bytes": 939042,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-city-of-london-2026-10-03/overview.4e28bdb45e43.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1023,
+   "y": 680,
+   "file": "11-1023-680.5819757ad9aa.pmtiles",
+   "bytes": 2402545,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-city-of-london-2026-10-03/11-1023-680.5819757ad9aa.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 681,
+   "file": "11-1023-681.54f8937106d6.pmtiles",
+   "bytes": 1277042,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-city-of-london-2026-10-03/11-1023-681.54f8937106d6.pmtiles"
+  }
+ ]
+}

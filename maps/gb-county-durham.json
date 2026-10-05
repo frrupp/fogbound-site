@@ -1,0 +1,397 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-county-durham",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:37:04.523Z",
+ "publishedAt": "2026-10-05T00:37:18.374Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-county-durham-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.35574,
+  54.45114,
+  -1.14753,
+  54.91869
+ ],
+ "overview": {
+  "file": "overview.ce0629267396.pmtiles",
+  "bytes": 1153322,
+  "tiles": 28,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/overview.ce0629267396.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1010,
+   "y": 648,
+   "file": "11-1010-648.8d6b80cd2c70.pmtiles",
+   "bytes": 143372,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-648.8d6b80cd2c70.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 649,
+   "file": "11-1010-649.8c38e2413d19.pmtiles",
+   "bytes": 155597,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-649.8c38e2413d19.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 650,
+   "file": "11-1010-650.00ec5b4a54fb.pmtiles",
+   "bytes": 65527,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-650.00ec5b4a54fb.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 651,
+   "file": "11-1010-651.67bdb8d0cf2c.pmtiles",
+   "bytes": 54271,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-651.67bdb8d0cf2c.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 652,
+   "file": "11-1010-652.2b3863ca1754.pmtiles",
+   "bytes": 175040,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-652.2b3863ca1754.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 653,
+   "file": "11-1010-653.6db48d116234.pmtiles",
+   "bytes": 86144,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1010-653.6db48d116234.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 648,
+   "file": "11-1011-648.45a82153d174.pmtiles",
+   "bytes": 274200,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-648.45a82153d174.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 649,
+   "file": "11-1011-649.1fd2e1033fa4.pmtiles",
+   "bytes": 239570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-649.1fd2e1033fa4.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 650,
+   "file": "11-1011-650.9adac9e4b9df.pmtiles",
+   "bytes": 227402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-650.9adac9e4b9df.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 651,
+   "file": "11-1011-651.ab922ff4ef4d.pmtiles",
+   "bytes": 243187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-651.ab922ff4ef4d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 652,
+   "file": "11-1011-652.dc99b0f6264e.pmtiles",
+   "bytes": 167567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-652.dc99b0f6264e.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 653,
+   "file": "11-1011-653.421f484ee67b.pmtiles",
+   "bytes": 49149,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1011-653.421f484ee67b.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 648,
+   "file": "11-1012-648.ad17d020c8b6.pmtiles",
+   "bytes": 244348,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-648.ad17d020c8b6.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 649,
+   "file": "11-1012-649.c4c12ee8a06f.pmtiles",
+   "bytes": 248410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-649.c4c12ee8a06f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 650,
+   "file": "11-1012-650.9f141ce82ae8.pmtiles",
+   "bytes": 301218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-650.9f141ce82ae8.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 651,
+   "file": "11-1012-651.bacc485536e7.pmtiles",
+   "bytes": 348673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-651.bacc485536e7.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 652,
+   "file": "11-1012-652.ebad92e8b183.pmtiles",
+   "bytes": 315855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-652.ebad92e8b183.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 653,
+   "file": "11-1012-653.e0ab473f504f.pmtiles",
+   "bytes": 48850,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1012-653.e0ab473f504f.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 648,
+   "file": "11-1013-648.80ab59965216.pmtiles",
+   "bytes": 403298,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-648.80ab59965216.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 649,
+   "file": "11-1013-649.82daaa6636d0.pmtiles",
+   "bytes": 780379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-649.82daaa6636d0.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 650,
+   "file": "11-1013-650.26531c9112d8.pmtiles",
+   "bytes": 419775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-650.26531c9112d8.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 651,
+   "file": "11-1013-651.f181ab41dc50.pmtiles",
+   "bytes": 356802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-651.f181ab41dc50.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 652,
+   "file": "11-1013-652.045b9982ff92.pmtiles",
+   "bytes": 434371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-652.045b9982ff92.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 653,
+   "file": "11-1013-653.9d39c6601665.pmtiles",
+   "bytes": 65075,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1013-653.9d39c6601665.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 648,
+   "file": "11-1014-648.b1d3601d74c8.pmtiles",
+   "bytes": 752724,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-648.b1d3601d74c8.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 649,
+   "file": "11-1014-649.cb257cebd835.pmtiles",
+   "bytes": 1518188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-649.cb257cebd835.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 650,
+   "file": "11-1014-650.3a93236a6eaf.pmtiles",
+   "bytes": 1025163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-650.3a93236a6eaf.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 651,
+   "file": "11-1014-651.fef25035162e.pmtiles",
+   "bytes": 728368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-651.fef25035162e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 652,
+   "file": "11-1014-652.b4fce07d174f.pmtiles",
+   "bytes": 406405,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-652.b4fce07d174f.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 653,
+   "file": "11-1014-653.8994c9f34928.pmtiles",
+   "bytes": 110162,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1014-653.8994c9f34928.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 648,
+   "file": "11-1015-648.d91ca9c699d4.pmtiles",
+   "bytes": 1112988,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-648.d91ca9c699d4.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 649,
+   "file": "11-1015-649.ccb4de0eb021.pmtiles",
+   "bytes": 1948142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-649.ccb4de0eb021.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 650,
+   "file": "11-1015-650.a47295838573.pmtiles",
+   "bytes": 1072095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-650.a47295838573.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 651,
+   "file": "11-1015-651.1da6ea3dbb37.pmtiles",
+   "bytes": 558062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-651.1da6ea3dbb37.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 652,
+   "file": "11-1015-652.282387161867.pmtiles",
+   "bytes": 896976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-652.282387161867.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 653,
+   "file": "11-1015-653.460c3255b49b.pmtiles",
+   "bytes": 76407,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1015-653.460c3255b49b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 648,
+   "file": "11-1016-648.22a1856f3eff.pmtiles",
+   "bytes": 484383,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-648.22a1856f3eff.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 649,
+   "file": "11-1016-649.a2042d2244c3.pmtiles",
+   "bytes": 556769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-649.a2042d2244c3.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 650,
+   "file": "11-1016-650.94d801e80052.pmtiles",
+   "bytes": 773022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-650.94d801e80052.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 651,
+   "file": "11-1016-651.2ac4123249f0.pmtiles",
+   "bytes": 1001781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-651.2ac4123249f0.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 652,
+   "file": "11-1016-652.e8a33b953469.pmtiles",
+   "bytes": 1571735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-652.e8a33b953469.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 653,
+   "file": "11-1016-653.e372b7e08083.pmtiles",
+   "bytes": 111742,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1016-653.e372b7e08083.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 650,
+   "file": "11-1017-650.9d1179780927.pmtiles",
+   "bytes": 318502,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1017-650.9d1179780927.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 651,
+   "file": "11-1017-651.0863881e94e1.pmtiles",
+   "bytes": 445032,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1017-651.0863881e94e1.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 652,
+   "file": "11-1017-652.59d3ccb795a5.pmtiles",
+   "bytes": 609037,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1017-652.59d3ccb795a5.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 653,
+   "file": "11-1017-653.712940b2d98e.pmtiles",
+   "bytes": 109855,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-county-durham-2026-10-03/11-1017-653.712940b2d98e.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-warwickshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:37:18.777Z",
+ "publishedAt": "2026-10-05T00:37:32.637Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-warwickshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -1.96201,
+  51.95539,
+  -1.17214,
+  52.68724
+ ],
+ "overview": {
+  "file": "overview.f0578efc80d1.pmtiles",
+  "bytes": 2654011,
+  "tiles": 32,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/overview.f0578efc80d1.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1012,
+   "y": 670,
+   "file": "11-1012-670.fa5a44dc95fb.pmtiles",
+   "bytes": 739992,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-670.fa5a44dc95fb.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 671,
+   "file": "11-1012-671.bc802d3d0d40.pmtiles",
+   "bytes": 1205848,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-671.bc802d3d0d40.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 672,
+   "file": "11-1012-672.beb51d10320f.pmtiles",
+   "bytes": 1301028,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-672.beb51d10320f.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 673,
+   "file": "11-1012-673.02333bade65b.pmtiles",
+   "bytes": 706697,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-673.02333bade65b.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 674,
+   "file": "11-1012-674.59cbc072b903.pmtiles",
+   "bytes": 191957,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-674.59cbc072b903.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 675,
+   "file": "11-1012-675.b4b71c3c7090.pmtiles",
+   "bytes": 438563,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-675.b4b71c3c7090.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 676,
+   "file": "11-1012-676.693b076f8ce4.pmtiles",
+   "bytes": 204291,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1012-676.693b076f8ce4.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 670,
+   "file": "11-1013-670.f7df89ef164f.pmtiles",
+   "bytes": 1726837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-670.f7df89ef164f.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 671,
+   "file": "11-1013-671.6943d6d0533d.pmtiles",
+   "bytes": 5530099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-671.6943d6d0533d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 672,
+   "file": "11-1013-672.cb3553eec88b.pmtiles",
+   "bytes": 4903278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-672.cb3553eec88b.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 673,
+   "file": "11-1013-673.24d20e122b24.pmtiles",
+   "bytes": 1435318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-673.24d20e122b24.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 674,
+   "file": "11-1013-674.6af9adc2a027.pmtiles",
+   "bytes": 950914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-674.6af9adc2a027.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 675,
+   "file": "11-1013-675.c7130723df76.pmtiles",
+   "bytes": 889962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-675.c7130723df76.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 676,
+   "file": "11-1013-676.c01b62f0d102.pmtiles",
+   "bytes": 572106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1013-676.c01b62f0d102.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 670,
+   "file": "11-1014-670.12a57d5bf804.pmtiles",
+   "bytes": 1293055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-670.12a57d5bf804.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 671,
+   "file": "11-1014-671.f110a5788d04.pmtiles",
+   "bytes": 1197989,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-671.f110a5788d04.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 672,
+   "file": "11-1014-672.f0c7dfb8e55f.pmtiles",
+   "bytes": 1586470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-672.f0c7dfb8e55f.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 673,
+   "file": "11-1014-673.918c69f2611b.pmtiles",
+   "bytes": 1207296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-673.918c69f2611b.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 674,
+   "file": "11-1014-674.dda2ee45ecc8.pmtiles",
+   "bytes": 1212152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-674.dda2ee45ecc8.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 675,
+   "file": "11-1014-675.c3ab79009044.pmtiles",
+   "bytes": 696937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-675.c3ab79009044.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 676,
+   "file": "11-1014-676.4962fd38b283.pmtiles",
+   "bytes": 590335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1014-676.4962fd38b283.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 670,
+   "file": "11-1015-670.fd288ff68316.pmtiles",
+   "bytes": 565499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-670.fd288ff68316.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 671,
+   "file": "11-1015-671.379e09ac7f25.pmtiles",
+   "bytes": 1659128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-671.379e09ac7f25.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 672,
+   "file": "11-1015-672.7b00c7a3e642.pmtiles",
+   "bytes": 3913533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-672.7b00c7a3e642.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 673,
+   "file": "11-1015-673.416f11fe9940.pmtiles",
+   "bytes": 1955475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-673.416f11fe9940.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 674,
+   "file": "11-1015-674.4b55f8250ee0.pmtiles",
+   "bytes": 851284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-674.4b55f8250ee0.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 675,
+   "file": "11-1015-675.82a7a35da85c.pmtiles",
+   "bytes": 514208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-675.82a7a35da85c.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 676,
+   "file": "11-1015-676.33a111a2ba0b.pmtiles",
+   "bytes": 510479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1015-676.33a111a2ba0b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 670,
+   "file": "11-1016-670.59c16d554bcb.pmtiles",
+   "bytes": 638252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-670.59c16d554bcb.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 671,
+   "file": "11-1016-671.ccd8953de69f.pmtiles",
+   "bytes": 1039328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-671.ccd8953de69f.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 672,
+   "file": "11-1016-672.e4470ca0de0b.pmtiles",
+   "bytes": 890892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-672.e4470ca0de0b.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 673,
+   "file": "11-1016-673.09940fd6a948.pmtiles",
+   "bytes": 1054116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-673.09940fd6a948.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 674,
+   "file": "11-1016-674.06eb9a3c30ab.pmtiles",
+   "bytes": 583650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-674.06eb9a3c30ab.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 675,
+   "file": "11-1016-675.9077cdcb6042.pmtiles",
+   "bytes": 1007466,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-675.9077cdcb6042.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 676,
+   "file": "11-1016-676.dc2493742bc6.pmtiles",
+   "bytes": 561025,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1016-676.dc2493742bc6.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 670,
+   "file": "11-1017-670.9873f5b9a629.pmtiles",
+   "bytes": 951439,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-670.9873f5b9a629.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 671,
+   "file": "11-1017-671.d15cd9a04bb1.pmtiles",
+   "bytes": 516418,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-671.d15cd9a04bb1.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 672,
+   "file": "11-1017-672.047bd525e0fb.pmtiles",
+   "bytes": 410800,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-672.047bd525e0fb.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 673,
+   "file": "11-1017-673.b0c1129d863b.pmtiles",
+   "bytes": 446647,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-673.b0c1129d863b.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 674,
+   "file": "11-1017-674.1ac94077df78.pmtiles",
+   "bytes": 307168,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-674.1ac94077df78.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 675,
+   "file": "11-1017-675.430b62836f83.pmtiles",
+   "bytes": 172262,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-675.430b62836f83.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 676,
+   "file": "11-1017-676.bd3b9ed2d3ce.pmtiles",
+   "bytes": 211644,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-warwickshire-2026-10-03/11-1017-676.bd3b9ed2d3ce.pmtiles"
+  }
+ ]
+}

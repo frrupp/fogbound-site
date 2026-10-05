@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-somerset",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:44:06.416Z",
+ "publishedAt": "2026-10-05T01:44:27.639Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-somerset-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.8398,
+  50.82084,
+  -2.24443,
+  51.50267
+ ],
+ "overview": {
+  "file": "overview.1974eb3bb749.pmtiles",
+  "bytes": 2046480,
+  "tiles": 37,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/overview.1974eb3bb749.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1002,
+   "y": 681,
+   "file": "11-1002-681.71a2ee528fa9.pmtiles",
+   "bytes": 140123,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-681.71a2ee528fa9.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 683,
+   "file": "11-1002-683.bec0c42047f5.pmtiles",
+   "bytes": 357955,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-683.bec0c42047f5.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 684,
+   "file": "11-1002-684.2d221e02dd2a.pmtiles",
+   "bytes": 373898,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-684.2d221e02dd2a.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 685,
+   "file": "11-1002-685.ec1c98f51565.pmtiles",
+   "bytes": 320715,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-685.ec1c98f51565.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 686,
+   "file": "11-1002-686.96a9e827f988.pmtiles",
+   "bytes": 335873,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-686.96a9e827f988.pmtiles"
+  },
+  {
+   "x": 1002,
+   "y": 687,
+   "file": "11-1002-687.f77b38cd980b.pmtiles",
+   "bytes": 98651,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1002-687.f77b38cd980b.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 681,
+   "file": "11-1003-681.337b19f4dba9.pmtiles",
+   "bytes": 798585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-681.337b19f4dba9.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 682,
+   "file": "11-1003-682.ee0ca99e2f63.pmtiles",
+   "bytes": 16532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-682.ee0ca99e2f63.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 683,
+   "file": "11-1003-683.436f3e250077.pmtiles",
+   "bytes": 386409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-683.436f3e250077.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 684,
+   "file": "11-1003-684.a8614d74ac7f.pmtiles",
+   "bytes": 716705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-684.a8614d74ac7f.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 685,
+   "file": "11-1003-685.a6ef3bed0358.pmtiles",
+   "bytes": 421144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-685.a6ef3bed0358.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 686,
+   "file": "11-1003-686.acebec373862.pmtiles",
+   "bytes": 365407,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-686.acebec373862.pmtiles"
+  },
+  {
+   "x": 1003,
+   "y": 687,
+   "file": "11-1003-687.0875338d5ae5.pmtiles",
+   "bytes": 161241,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1003-687.0875338d5ae5.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 681,
+   "file": "11-1004-681.fb42ab80ee36.pmtiles",
+   "bytes": 1038033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-681.fb42ab80ee36.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 682,
+   "file": "11-1004-682.9508d10a582d.pmtiles",
+   "bytes": 182478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-682.9508d10a582d.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 683,
+   "file": "11-1004-683.f018209c9b2e.pmtiles",
+   "bytes": 282944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-683.f018209c9b2e.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 684,
+   "file": "11-1004-684.90e7f905941a.pmtiles",
+   "bytes": 744279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-684.90e7f905941a.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 685,
+   "file": "11-1004-685.f6434532c058.pmtiles",
+   "bytes": 460356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-685.f6434532c058.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 686,
+   "file": "11-1004-686.c804b6d75321.pmtiles",
+   "bytes": 1545259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-686.c804b6d75321.pmtiles"
+  },
+  {
+   "x": 1004,
+   "y": 687,
+   "file": "11-1004-687.7385aa64567f.pmtiles",
+   "bytes": 279026,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1004-687.7385aa64567f.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 681,
+   "file": "11-1005-681.30ebb6cbefb6.pmtiles",
+   "bytes": 3716585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-681.30ebb6cbefb6.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 682,
+   "file": "11-1005-682.1214df52fedd.pmtiles",
+   "bytes": 274233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-682.1214df52fedd.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 683,
+   "file": "11-1005-683.5e31c79124bd.pmtiles",
+   "bytes": 119794,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-683.5e31c79124bd.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 684,
+   "file": "11-1005-684.baa419d6ca03.pmtiles",
+   "bytes": 1050801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-684.baa419d6ca03.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 685,
+   "file": "11-1005-685.2a78011546ff.pmtiles",
+   "bytes": 1403858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-685.2a78011546ff.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 686,
+   "file": "11-1005-686.1ba97df55d57.pmtiles",
+   "bytes": 972849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-686.1ba97df55d57.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 687,
+   "file": "11-1005-687.07a3a6f9bf3a.pmtiles",
+   "bytes": 243259,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1005-687.07a3a6f9bf3a.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 681,
+   "file": "11-1006-681.f4ca204d50f1.pmtiles",
+   "bytes": 725344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-681.f4ca204d50f1.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 682,
+   "file": "11-1006-682.d48a89d7c6f2.pmtiles",
+   "bytes": 126431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-682.d48a89d7c6f2.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 683,
+   "file": "11-1006-683.db60e6a2b2bb.pmtiles",
+   "bytes": 454796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-683.db60e6a2b2bb.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 684,
+   "file": "11-1006-684.4f42b74ca58e.pmtiles",
+   "bytes": 1423887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-684.4f42b74ca58e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 685,
+   "file": "11-1006-685.eea14715eb14.pmtiles",
+   "bytes": 2424738,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-685.eea14715eb14.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 686,
+   "file": "11-1006-686.b61ad3aa29ca.pmtiles",
+   "bytes": 799179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-686.b61ad3aa29ca.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 687,
+   "file": "11-1006-687.7b4dc063c7a2.pmtiles",
+   "bytes": 261628,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1006-687.7b4dc063c7a2.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 681,
+   "file": "11-1007-681.e95e3647ee31.pmtiles",
+   "bytes": 548198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-681.e95e3647ee31.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 682,
+   "file": "11-1007-682.444051143ac0.pmtiles",
+   "bytes": 2068278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-682.444051143ac0.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 683,
+   "file": "11-1007-683.03fdd380f2ef.pmtiles",
+   "bytes": 573983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-683.03fdd380f2ef.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 684,
+   "file": "11-1007-684.3c74beafeeed.pmtiles",
+   "bytes": 661000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-684.3c74beafeeed.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 685,
+   "file": "11-1007-685.4dd030d07c49.pmtiles",
+   "bytes": 690304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-685.4dd030d07c49.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 686,
+   "file": "11-1007-686.405d73e0b5e1.pmtiles",
+   "bytes": 841132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-686.405d73e0b5e1.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 687,
+   "file": "11-1007-687.535d276988b6.pmtiles",
+   "bytes": 184807,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1007-687.535d276988b6.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 681,
+   "file": "11-1008-681.5c38620d0883.pmtiles",
+   "bytes": 2320092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-681.5c38620d0883.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 682,
+   "file": "11-1008-682.400fe9b0f345.pmtiles",
+   "bytes": 1201340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-682.400fe9b0f345.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 683,
+   "file": "11-1008-683.e70d31edc8bd.pmtiles",
+   "bytes": 805361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-683.e70d31edc8bd.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 684,
+   "file": "11-1008-684.7cc3b8efa749.pmtiles",
+   "bytes": 655379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-684.7cc3b8efa749.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 685,
+   "file": "11-1008-685.1dddd1de2525.pmtiles",
+   "bytes": 663365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-685.1dddd1de2525.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 686,
+   "file": "11-1008-686.3e3a5ff8e686.pmtiles",
+   "bytes": 855269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-686.3e3a5ff8e686.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 687,
+   "file": "11-1008-687.a83a59e37fc5.pmtiles",
+   "bytes": 163959,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1008-687.a83a59e37fc5.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 681,
+   "file": "11-1009-681.1cf23811d6e3.pmtiles",
+   "bytes": 7217572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-681.1cf23811d6e3.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 682,
+   "file": "11-1009-682.9414826198ee.pmtiles",
+   "bytes": 1289958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-682.9414826198ee.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 683,
+   "file": "11-1009-683.b6815c369527.pmtiles",
+   "bytes": 854103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-683.b6815c369527.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 684,
+   "file": "11-1009-684.37d04d643b82.pmtiles",
+   "bytes": 567196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-684.37d04d643b82.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 685,
+   "file": "11-1009-685.061ce38b401e.pmtiles",
+   "bytes": 483056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-685.061ce38b401e.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 686,
+   "file": "11-1009-686.5882cb6f9fe5.pmtiles",
+   "bytes": 746396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-686.5882cb6f9fe5.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 687,
+   "file": "11-1009-687.d4ebf4c362b5.pmtiles",
+   "bytes": 151967,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1009-687.d4ebf4c362b5.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 681,
+   "file": "11-1010-681.1f7c7159b450.pmtiles",
+   "bytes": 967014,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-681.1f7c7159b450.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 682,
+   "file": "11-1010-682.39a5289497f6.pmtiles",
+   "bytes": 2007494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-682.39a5289497f6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 683,
+   "file": "11-1010-683.5d49bb71aa8b.pmtiles",
+   "bytes": 826054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-683.5d49bb71aa8b.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 684,
+   "file": "11-1010-684.eec08b26a810.pmtiles",
+   "bytes": 552279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-684.eec08b26a810.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 685,
+   "file": "11-1010-685.6aff21971391.pmtiles",
+   "bytes": 736970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-685.6aff21971391.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 686,
+   "file": "11-1010-686.3a100d775c19.pmtiles",
+   "bytes": 611339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-686.3a100d775c19.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 687,
+   "file": "11-1010-687.1ad2066e10c9.pmtiles",
+   "bytes": 138870,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1010-687.1ad2066e10c9.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 681,
+   "file": "11-1011-681.ef8667782c0a.pmtiles",
+   "bytes": 283622,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-681.ef8667782c0a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 682,
+   "file": "11-1011-682.05814f052651.pmtiles",
+   "bytes": 317268,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-682.05814f052651.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 683,
+   "file": "11-1011-683.0843a3bcaf7e.pmtiles",
+   "bytes": 210094,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-683.0843a3bcaf7e.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 684,
+   "file": "11-1011-684.d4a79ae44b9e.pmtiles",
+   "bytes": 158520,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-684.d4a79ae44b9e.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 685,
+   "file": "11-1011-685.c484e759ff70.pmtiles",
+   "bytes": 319030,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-685.c484e759ff70.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 686,
+   "file": "11-1011-686.b9960eb1bb26.pmtiles",
+   "bytes": 220292,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-686.b9960eb1bb26.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 687,
+   "file": "11-1011-687.fba6240522dc.pmtiles",
+   "bytes": 75939,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-somerset-2026-10-03/11-1011-687.fba6240522dc.pmtiles"
+  }
+ ]
+}

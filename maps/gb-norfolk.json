@@ -1,0 +1,565 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-norfolk",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:43:47.082Z",
+ "publishedAt": "2026-10-05T01:44:05.985Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-norfolk-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  0.15362,
+  52.35534,
+  1.74578,
+  52.99164
+ ],
+ "overview": {
+  "file": "overview.59d5f38055b0.pmtiles",
+  "bytes": 1681298,
+  "tiles": 43,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/overview.59d5f38055b0.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1024,
+   "y": 667,
+   "file": "11-1024-667.31bf003793c6.pmtiles",
+   "bytes": 67113,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-667.31bf003793c6.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 668,
+   "file": "11-1024-668.f5a7a5d70dd0.pmtiles",
+   "bytes": 112395,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-668.f5a7a5d70dd0.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 669,
+   "file": "11-1024-669.567d93bc909a.pmtiles",
+   "bytes": 130895,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-669.567d93bc909a.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 670,
+   "file": "11-1024-670.9a1a4f5aa138.pmtiles",
+   "bytes": 422793,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-670.9a1a4f5aa138.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 671,
+   "file": "11-1024-671.88c2520e6aac.pmtiles",
+   "bytes": 71091,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-671.88c2520e6aac.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 672,
+   "file": "11-1024-672.a6e58f6e390e.pmtiles",
+   "bytes": 137865,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-672.a6e58f6e390e.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 673,
+   "file": "11-1024-673.419bb897fee0.pmtiles",
+   "bytes": 126996,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1024-673.419bb897fee0.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 667,
+   "file": "11-1025-667.34606db70217.pmtiles",
+   "bytes": 19585,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-667.34606db70217.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 668,
+   "file": "11-1025-668.f3c2da2c636b.pmtiles",
+   "bytes": 145256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-668.f3c2da2c636b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 669,
+   "file": "11-1025-669.8ddf0e2617ae.pmtiles",
+   "bytes": 495079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-669.8ddf0e2617ae.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 670,
+   "file": "11-1025-670.0781adee0e39.pmtiles",
+   "bytes": 496356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-670.0781adee0e39.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 671,
+   "file": "11-1025-671.e5f33f1a99d5.pmtiles",
+   "bytes": 272345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-671.e5f33f1a99d5.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 672,
+   "file": "11-1025-672.887f7f3dd54b.pmtiles",
+   "bytes": 893980,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-672.887f7f3dd54b.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 673,
+   "file": "11-1025-673.48fa6d906bfd.pmtiles",
+   "bytes": 188287,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1025-673.48fa6d906bfd.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 667,
+   "file": "11-1026-667.3482de2458fc.pmtiles",
+   "bytes": 208619,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-667.3482de2458fc.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 668,
+   "file": "11-1026-668.55b93e5bf8a5.pmtiles",
+   "bytes": 421645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-668.55b93e5bf8a5.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 669,
+   "file": "11-1026-669.86e7f7577673.pmtiles",
+   "bytes": 1156212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-669.86e7f7577673.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 670,
+   "file": "11-1026-670.b7b167b1050d.pmtiles",
+   "bytes": 652991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-670.b7b167b1050d.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 671,
+   "file": "11-1026-671.5481add884e3.pmtiles",
+   "bytes": 424432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-671.5481add884e3.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 672,
+   "file": "11-1026-672.a6bd8df52e77.pmtiles",
+   "bytes": 306371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-672.a6bd8df52e77.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 673,
+   "file": "11-1026-673.32e9558c86b0.pmtiles",
+   "bytes": 278011,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1026-673.32e9558c86b0.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 667,
+   "file": "11-1027-667.0543b8d5f8fb.pmtiles",
+   "bytes": 401296,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-667.0543b8d5f8fb.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 668,
+   "file": "11-1027-668.fec09f526433.pmtiles",
+   "bytes": 291129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-668.fec09f526433.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 669,
+   "file": "11-1027-669.50cf05bc3ae7.pmtiles",
+   "bytes": 345697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-669.50cf05bc3ae7.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 670,
+   "file": "11-1027-670.14ae0e535d74.pmtiles",
+   "bytes": 488457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-670.14ae0e535d74.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 671,
+   "file": "11-1027-671.8ac237b5e683.pmtiles",
+   "bytes": 481774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-671.8ac237b5e683.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 672,
+   "file": "11-1027-672.e45584028d10.pmtiles",
+   "bytes": 811649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-672.e45584028d10.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 673,
+   "file": "11-1027-673.fb55ef932ade.pmtiles",
+   "bytes": 110670,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1027-673.fb55ef932ade.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 667,
+   "file": "11-1028-667.ff7ffb2ba166.pmtiles",
+   "bytes": 495325,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-667.ff7ffb2ba166.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 668,
+   "file": "11-1028-668.32b060b686f1.pmtiles",
+   "bytes": 530830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-668.32b060b686f1.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 669,
+   "file": "11-1028-669.c83d0db1147d.pmtiles",
+   "bytes": 395326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-669.c83d0db1147d.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 670,
+   "file": "11-1028-670.6540b743e7cb.pmtiles",
+   "bytes": 456616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-670.6540b743e7cb.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 671,
+   "file": "11-1028-671.65c3a5ad9ac5.pmtiles",
+   "bytes": 529409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-671.65c3a5ad9ac5.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 672,
+   "file": "11-1028-672.80f96f6ff39d.pmtiles",
+   "bytes": 913192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-672.80f96f6ff39d.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 673,
+   "file": "11-1028-673.75671e14a5d4.pmtiles",
+   "bytes": 117538,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1028-673.75671e14a5d4.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 667,
+   "file": "11-1029-667.ebcb09f4c5a7.pmtiles",
+   "bytes": 441424,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-667.ebcb09f4c5a7.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 668,
+   "file": "11-1029-668.30f45189fe6c.pmtiles",
+   "bytes": 421270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-668.30f45189fe6c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 669,
+   "file": "11-1029-669.02614cfc1d02.pmtiles",
+   "bytes": 567803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-669.02614cfc1d02.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 670,
+   "file": "11-1029-670.445585c9b940.pmtiles",
+   "bytes": 820093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-670.445585c9b940.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 671,
+   "file": "11-1029-671.eae32f0cffc2.pmtiles",
+   "bytes": 600400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-671.eae32f0cffc2.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 672,
+   "file": "11-1029-672.48bd4d5f4400.pmtiles",
+   "bytes": 600384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-672.48bd4d5f4400.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 673,
+   "file": "11-1029-673.06b53e49bc02.pmtiles",
+   "bytes": 186735,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1029-673.06b53e49bc02.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 667,
+   "file": "11-1030-667.246d5e250de0.pmtiles",
+   "bytes": 461621,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-667.246d5e250de0.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 668,
+   "file": "11-1030-668.fba416c9a290.pmtiles",
+   "bytes": 563078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-668.fba416c9a290.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 669,
+   "file": "11-1030-669.b38a2fc4d617.pmtiles",
+   "bytes": 706343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-669.b38a2fc4d617.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 670,
+   "file": "11-1030-670.5f71955fdf3b.pmtiles",
+   "bytes": 1280827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-670.5f71955fdf3b.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 671,
+   "file": "11-1030-671.ba72ff142143.pmtiles",
+   "bytes": 973974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-671.ba72ff142143.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 672,
+   "file": "11-1030-672.ef87c2b653d8.pmtiles",
+   "bytes": 918858,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-672.ef87c2b653d8.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 673,
+   "file": "11-1030-673.332cb9c45eaa.pmtiles",
+   "bytes": 353354,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1030-673.332cb9c45eaa.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 667,
+   "file": "11-1031-667.0ee82a8a4140.pmtiles",
+   "bytes": 315708,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-667.0ee82a8a4140.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 668,
+   "file": "11-1031-668.f377d53d5cdf.pmtiles",
+   "bytes": 764725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-668.f377d53d5cdf.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 669,
+   "file": "11-1031-669.25c70b44ccb4.pmtiles",
+   "bytes": 815891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-669.25c70b44ccb4.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 670,
+   "file": "11-1031-670.40cb59e93571.pmtiles",
+   "bytes": 3048413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-670.40cb59e93571.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 671,
+   "file": "11-1031-671.efbd01843b08.pmtiles",
+   "bytes": 947272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-671.efbd01843b08.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 672,
+   "file": "11-1031-672.371f00c2660e.pmtiles",
+   "bytes": 717856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-672.371f00c2660e.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 673,
+   "file": "11-1031-673.f2cc5b5f1c1f.pmtiles",
+   "bytes": 149633,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1031-673.f2cc5b5f1c1f.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 668,
+   "file": "11-1032-668.9346dd0794e0.pmtiles",
+   "bytes": 346510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-668.9346dd0794e0.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 669,
+   "file": "11-1032-669.9fad381a6ad9.pmtiles",
+   "bytes": 756271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-669.9fad381a6ad9.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 670,
+   "file": "11-1032-670.e84c38baa71b.pmtiles",
+   "bytes": 1085302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-670.e84c38baa71b.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 671,
+   "file": "11-1032-671.812657cf0e86.pmtiles",
+   "bytes": 865902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-671.812657cf0e86.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 672,
+   "file": "11-1032-672.e40986f8600f.pmtiles",
+   "bytes": 939502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-672.e40986f8600f.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 673,
+   "file": "11-1032-673.09ea12e5e038.pmtiles",
+   "bytes": 115300,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1032-673.09ea12e5e038.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 669,
+   "file": "11-1033-669.5ec8cbc5aaf5.pmtiles",
+   "bytes": 424479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1033-669.5ec8cbc5aaf5.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 670,
+   "file": "11-1033-670.a489984a68e4.pmtiles",
+   "bytes": 1159223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1033-670.a489984a68e4.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 671,
+   "file": "11-1033-671.821aa86f5f82.pmtiles",
+   "bytes": 1068448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1033-671.821aa86f5f82.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 672,
+   "file": "11-1033-672.b5081df09ea2.pmtiles",
+   "bytes": 842073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1033-672.b5081df09ea2.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 673,
+   "file": "11-1033-673.dce4a7444e15.pmtiles",
+   "bytes": 98473,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-norfolk-2026-10-03/11-1033-673.dce4a7444e15.pmtiles"
+  }
+ ]
+}

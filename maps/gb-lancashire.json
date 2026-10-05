@@ -1,0 +1,469 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-lancashire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:41:45.377Z",
+ "publishedAt": "2026-10-05T01:42:03.422Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-lancashire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.08455,
+  53.48276,
+  -2.04507,
+  54.23956
+ ],
+ "overview": {
+  "file": "overview.aed889a1ff5b.pmtiles",
+  "bytes": 2691011,
+  "tiles": 44,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/overview.aed889a1ff5b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1006,
+   "y": 655,
+   "file": "11-1006-655.12e2c132121f.pmtiles",
+   "bytes": 518284,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-655.12e2c132121f.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 656,
+   "file": "11-1006-656.778612ce04e1.pmtiles",
+   "bytes": 123223,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-656.778612ce04e1.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 658,
+   "file": "11-1006-658.f9ea5b1a6c3a.pmtiles",
+   "bytes": 569669,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-658.f9ea5b1a6c3a.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 659,
+   "file": "11-1006-659.2fa2a3d1913e.pmtiles",
+   "bytes": 1230393,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-659.2fa2a3d1913e.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 660,
+   "file": "11-1006-660.4739e074a00b.pmtiles",
+   "bytes": 217646,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-660.4739e074a00b.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 661,
+   "file": "11-1006-661.60b5457c61c5.pmtiles",
+   "bytes": 610523,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-661.60b5457c61c5.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 662,
+   "file": "11-1006-662.2fbd55f5312b.pmtiles",
+   "bytes": 570414,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1006-662.2fbd55f5312b.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 655,
+   "file": "11-1007-655.db30216d091e.pmtiles",
+   "bytes": 548823,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-655.db30216d091e.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 656,
+   "file": "11-1007-656.ccd7cd1bc0e2.pmtiles",
+   "bytes": 462823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-656.ccd7cd1bc0e2.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 657,
+   "file": "11-1007-657.aab293f4eda8.pmtiles",
+   "bytes": 692329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-657.aab293f4eda8.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 658,
+   "file": "11-1007-658.9ede7225ac61.pmtiles",
+   "bytes": 751947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-658.9ede7225ac61.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 659,
+   "file": "11-1007-659.d486b67c77b6.pmtiles",
+   "bytes": 727662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-659.d486b67c77b6.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 660,
+   "file": "11-1007-660.f1e98bc5b92f.pmtiles",
+   "bytes": 790807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-660.f1e98bc5b92f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 661,
+   "file": "11-1007-661.78badaabab47.pmtiles",
+   "bytes": 1222828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-661.78badaabab47.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 662,
+   "file": "11-1007-662.11510b904e1b.pmtiles",
+   "bytes": 1190137,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1007-662.11510b904e1b.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 655,
+   "file": "11-1008-655.bbb1636ec977.pmtiles",
+   "bytes": 764233,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-655.bbb1636ec977.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 656,
+   "file": "11-1008-656.c9ae6abeb644.pmtiles",
+   "bytes": 1188621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-656.c9ae6abeb644.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 657,
+   "file": "11-1008-657.ba3ec8c02b49.pmtiles",
+   "bytes": 1273380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-657.ba3ec8c02b49.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 658,
+   "file": "11-1008-658.8c1bffa7ea35.pmtiles",
+   "bytes": 733538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-658.8c1bffa7ea35.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 659,
+   "file": "11-1008-659.a50d304f280a.pmtiles",
+   "bytes": 1649669,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-659.a50d304f280a.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 660,
+   "file": "11-1008-660.1fecc982a368.pmtiles",
+   "bytes": 2184848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-660.1fecc982a368.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 661,
+   "file": "11-1008-661.8f849210cb81.pmtiles",
+   "bytes": 1588845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-661.8f849210cb81.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 662,
+   "file": "11-1008-662.c83fb0f82142.pmtiles",
+   "bytes": 1319061,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1008-662.c83fb0f82142.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 655,
+   "file": "11-1009-655.c62a7f1e27a6.pmtiles",
+   "bytes": 405853,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-655.c62a7f1e27a6.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 656,
+   "file": "11-1009-656.25097e3ba9ab.pmtiles",
+   "bytes": 513782,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-656.25097e3ba9ab.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 657,
+   "file": "11-1009-657.341eef2529ad.pmtiles",
+   "bytes": 157130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-657.341eef2529ad.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 658,
+   "file": "11-1009-658.ce11ed312169.pmtiles",
+   "bytes": 331116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-658.ce11ed312169.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 659,
+   "file": "11-1009-659.b95c18866d44.pmtiles",
+   "bytes": 900098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-659.b95c18866d44.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 660,
+   "file": "11-1009-660.2cc0da36a190.pmtiles",
+   "bytes": 1493074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-660.2cc0da36a190.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 661,
+   "file": "11-1009-661.5f57ef7afb32.pmtiles",
+   "bytes": 2224878,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-661.5f57ef7afb32.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 662,
+   "file": "11-1009-662.33333e0a36a7.pmtiles",
+   "bytes": 1977849,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1009-662.33333e0a36a7.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 655,
+   "file": "11-1010-655.b32c4fc07a44.pmtiles",
+   "bytes": 354937,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-655.b32c4fc07a44.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 656,
+   "file": "11-1010-656.136314f99ddc.pmtiles",
+   "bytes": 491348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-656.136314f99ddc.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 657,
+   "file": "11-1010-657.44a2b072bbef.pmtiles",
+   "bytes": 255958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-657.44a2b072bbef.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 658,
+   "file": "11-1010-658.ba0af9638fe6.pmtiles",
+   "bytes": 617886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-658.ba0af9638fe6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 659,
+   "file": "11-1010-659.960458ad5db6.pmtiles",
+   "bytes": 1269653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-659.960458ad5db6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 660,
+   "file": "11-1010-660.13320f172ed6.pmtiles",
+   "bytes": 1579413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-660.13320f172ed6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 661,
+   "file": "11-1010-661.528cfccc07b8.pmtiles",
+   "bytes": 3694241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-661.528cfccc07b8.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 662,
+   "file": "11-1010-662.f92bd780671a.pmtiles",
+   "bytes": 2108541,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1010-662.f92bd780671a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 655,
+   "file": "11-1011-655.112649279021.pmtiles",
+   "bytes": 301835,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-655.112649279021.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 656,
+   "file": "11-1011-656.236ddef56be3.pmtiles",
+   "bytes": 557587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-656.236ddef56be3.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 657,
+   "file": "11-1011-657.ce3160f71ffe.pmtiles",
+   "bytes": 432981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-657.ce3160f71ffe.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 658,
+   "file": "11-1011-658.40e626685ddb.pmtiles",
+   "bytes": 661622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-658.40e626685ddb.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 659,
+   "file": "11-1011-659.19c1bae3876a.pmtiles",
+   "bytes": 1202324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-659.19c1bae3876a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 660,
+   "file": "11-1011-660.51b852e8ab14.pmtiles",
+   "bytes": 1084796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-660.51b852e8ab14.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 661,
+   "file": "11-1011-661.246f5b47b408.pmtiles",
+   "bytes": 3442554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-661.246f5b47b408.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 662,
+   "file": "11-1011-662.06ebac9d7e18.pmtiles",
+   "bytes": 4598403,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1011-662.06ebac9d7e18.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 655,
+   "file": "11-1012-655.285dffae743e.pmtiles",
+   "bytes": 154678,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-655.285dffae743e.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 656,
+   "file": "11-1012-656.b5ebd1771199.pmtiles",
+   "bytes": 291459,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-656.b5ebd1771199.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 657,
+   "file": "11-1012-657.8721ed7374c2.pmtiles",
+   "bytes": 289219,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-657.8721ed7374c2.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 658,
+   "file": "11-1012-658.ebfff6801727.pmtiles",
+   "bytes": 194330,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-658.ebfff6801727.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 659,
+   "file": "11-1012-659.f10fee13068c.pmtiles",
+   "bytes": 111232,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-659.f10fee13068c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 660,
+   "file": "11-1012-660.576d19c2a913.pmtiles",
+   "bytes": 448635,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-660.576d19c2a913.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 661,
+   "file": "11-1012-661.70f2e1eed3b1.pmtiles",
+   "bytes": 1087470,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-661.70f2e1eed3b1.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 662,
+   "file": "11-1012-662.a684b35a5029.pmtiles",
+   "bytes": 1136963,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-lancashire-2026-10-03/11-1012-662.a684b35a5029.pmtiles"
+  }
+ ]
+}

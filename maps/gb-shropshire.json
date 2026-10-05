@@ -1,0 +1,421 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-shropshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:38:50.106Z",
+ "publishedAt": "2026-10-05T00:39:05.205Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-shropshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -3.23554,
+  52.30627,
+  -2.2329,
+  52.99839
+ ],
+ "overview": {
+  "file": "overview.e62c43ce965d.pmtiles",
+  "bytes": 2466370,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/overview.e62c43ce965d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1005,
+   "y": 667,
+   "file": "11-1005-667.526346c6f080.pmtiles",
+   "bytes": 265401,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-667.526346c6f080.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 668,
+   "file": "11-1005-668.6d34a2c77b67.pmtiles",
+   "bytes": 171635,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-668.6d34a2c77b67.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 669,
+   "file": "11-1005-669.3c299d8437f9.pmtiles",
+   "bytes": 230303,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-669.3c299d8437f9.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 670,
+   "file": "11-1005-670.8f1a3bbbc3be.pmtiles",
+   "bytes": 261610,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-670.8f1a3bbbc3be.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 671,
+   "file": "11-1005-671.cbebc3c28108.pmtiles",
+   "bytes": 198735,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-671.cbebc3c28108.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 672,
+   "file": "11-1005-672.7aae86a1f456.pmtiles",
+   "bytes": 176689,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-672.7aae86a1f456.pmtiles"
+  },
+  {
+   "x": 1005,
+   "y": 673,
+   "file": "11-1005-673.fd2b450398ab.pmtiles",
+   "bytes": 85264,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1005-673.fd2b450398ab.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 667,
+   "file": "11-1006-667.6eafdfb49f8f.pmtiles",
+   "bytes": 802047,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-667.6eafdfb49f8f.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 668,
+   "file": "11-1006-668.50a3650ed57d.pmtiles",
+   "bytes": 991657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-668.50a3650ed57d.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 669,
+   "file": "11-1006-669.3d11dccd2b33.pmtiles",
+   "bytes": 792301,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-669.3d11dccd2b33.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 670,
+   "file": "11-1006-670.740610bc5fe3.pmtiles",
+   "bytes": 756699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-670.740610bc5fe3.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 671,
+   "file": "11-1006-671.c7b9c5d3bb4d.pmtiles",
+   "bytes": 621831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-671.c7b9c5d3bb4d.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 672,
+   "file": "11-1006-672.9b7ed3ff8de0.pmtiles",
+   "bytes": 676994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-672.9b7ed3ff8de0.pmtiles"
+  },
+  {
+   "x": 1006,
+   "y": 673,
+   "file": "11-1006-673.397da092de11.pmtiles",
+   "bytes": 357457,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1006-673.397da092de11.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 667,
+   "file": "11-1007-667.4a5b99c8059f.pmtiles",
+   "bytes": 553191,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-667.4a5b99c8059f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 668,
+   "file": "11-1007-668.feee6330893f.pmtiles",
+   "bytes": 681205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-668.feee6330893f.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 669,
+   "file": "11-1007-669.5babcb91cafa.pmtiles",
+   "bytes": 866893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-669.5babcb91cafa.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 670,
+   "file": "11-1007-670.1b1e68c00c43.pmtiles",
+   "bytes": 851850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-670.1b1e68c00c43.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 671,
+   "file": "11-1007-671.81933ba7957a.pmtiles",
+   "bytes": 556715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-671.81933ba7957a.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 672,
+   "file": "11-1007-672.feb8b9c900bb.pmtiles",
+   "bytes": 759097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-672.feb8b9c900bb.pmtiles"
+  },
+  {
+   "x": 1007,
+   "y": 673,
+   "file": "11-1007-673.012b426cc8a7.pmtiles",
+   "bytes": 400847,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1007-673.012b426cc8a7.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 667,
+   "file": "11-1008-667.13cd14fa1ff1.pmtiles",
+   "bytes": 872456,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-667.13cd14fa1ff1.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 668,
+   "file": "11-1008-668.8b71e4fec0cd.pmtiles",
+   "bytes": 1180529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-668.8b71e4fec0cd.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 669,
+   "file": "11-1008-669.1ad411652279.pmtiles",
+   "bytes": 1722104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-669.1ad411652279.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 670,
+   "file": "11-1008-670.08553dda99ec.pmtiles",
+   "bytes": 978717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-670.08553dda99ec.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 671,
+   "file": "11-1008-671.ce84fb5f61df.pmtiles",
+   "bytes": 745100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-671.ce84fb5f61df.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 672,
+   "file": "11-1008-672.db32c91e2c6b.pmtiles",
+   "bytes": 735483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-672.db32c91e2c6b.pmtiles"
+  },
+  {
+   "x": 1008,
+   "y": 673,
+   "file": "11-1008-673.aa4cdb2e658a.pmtiles",
+   "bytes": 648115,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1008-673.aa4cdb2e658a.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 667,
+   "file": "11-1009-667.6b749d374cf8.pmtiles",
+   "bytes": 516071,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-667.6b749d374cf8.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 668,
+   "file": "11-1009-668.ce7d1fbe1245.pmtiles",
+   "bytes": 753776,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-668.ce7d1fbe1245.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 669,
+   "file": "11-1009-669.dc3693c5e471.pmtiles",
+   "bytes": 864174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-669.dc3693c5e471.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 670,
+   "file": "11-1009-670.e172c1977807.pmtiles",
+   "bytes": 1170960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-670.e172c1977807.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 671,
+   "file": "11-1009-671.869d3766458e.pmtiles",
+   "bytes": 467242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-671.869d3766458e.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 672,
+   "file": "11-1009-672.c29dd34fc3f5.pmtiles",
+   "bytes": 655563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-672.c29dd34fc3f5.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 673,
+   "file": "11-1009-673.eb8a9f4b2813.pmtiles",
+   "bytes": 731441,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1009-673.eb8a9f4b2813.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 667,
+   "file": "11-1010-667.ac792a7b1ed2.pmtiles",
+   "bytes": 575920,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-667.ac792a7b1ed2.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 668,
+   "file": "11-1010-668.8cc6577fb361.pmtiles",
+   "bytes": 445081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-668.8cc6577fb361.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 669,
+   "file": "11-1010-669.a9df8a6d6b9e.pmtiles",
+   "bytes": 817672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-669.a9df8a6d6b9e.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 670,
+   "file": "11-1010-670.3e5af4766e51.pmtiles",
+   "bytes": 1120282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-670.3e5af4766e51.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 671,
+   "file": "11-1010-671.8ddcc8f542cb.pmtiles",
+   "bytes": 836132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-671.8ddcc8f542cb.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 672,
+   "file": "11-1010-672.967673b62df6.pmtiles",
+   "bytes": 689818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-672.967673b62df6.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 673,
+   "file": "11-1010-673.09e9640f7434.pmtiles",
+   "bytes": 792230,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1010-673.09e9640f7434.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 667,
+   "file": "11-1011-667.fd4994fd9423.pmtiles",
+   "bytes": 456011,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-667.fd4994fd9423.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 668,
+   "file": "11-1011-668.03af6aa779e2.pmtiles",
+   "bytes": 239569,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-668.03af6aa779e2.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 669,
+   "file": "11-1011-669.c69ff2fa7caf.pmtiles",
+   "bytes": 305664,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-669.c69ff2fa7caf.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 670,
+   "file": "11-1011-670.511c76af4b5a.pmtiles",
+   "bytes": 297799,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-670.511c76af4b5a.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 671,
+   "file": "11-1011-671.a56931f720fc.pmtiles",
+   "bytes": 317753,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-671.a56931f720fc.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 672,
+   "file": "11-1011-672.6318c094f141.pmtiles",
+   "bytes": 598423,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-672.6318c094f141.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 673,
+   "file": "11-1011-673.6e358c923753.pmtiles",
+   "bytes": 563892,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-shropshire-2026-10-03/11-1011-673.6e358c923753.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-west-yorkshire",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T00:34:40.003Z",
+ "publishedAt": "2026-10-05T00:34:53.931Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-west-yorkshire-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.17329,
+  53.51973,
+  -1.19881,
+  53.96315
+ ],
+ "overview": {
+  "file": "overview.334c998b8ff8.pmtiles",
+  "bytes": 2289079,
+  "tiles": 32,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/overview.334c998b8ff8.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1011,
+   "y": 657,
+   "file": "11-1011-657.562fa0facaa8.pmtiles",
+   "bytes": 44822,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-657.562fa0facaa8.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 658,
+   "file": "11-1011-658.f3df8dcc2f0d.pmtiles",
+   "bytes": 355525,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-658.f3df8dcc2f0d.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 659,
+   "file": "11-1011-659.0eb07f1bb3e1.pmtiles",
+   "bytes": 167934,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-659.0eb07f1bb3e1.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 660,
+   "file": "11-1011-660.eae053ea30e9.pmtiles",
+   "bytes": 365441,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-660.eae053ea30e9.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 661,
+   "file": "11-1011-661.67e989813b96.pmtiles",
+   "bytes": 2221750,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-661.67e989813b96.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 662,
+   "file": "11-1011-662.4cc6f063a094.pmtiles",
+   "bytes": 1700087,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1011-662.4cc6f063a094.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 657,
+   "file": "11-1012-657.b77701d5b670.pmtiles",
+   "bytes": 318798,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-657.b77701d5b670.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 658,
+   "file": "11-1012-658.a3c3b5c73aaf.pmtiles",
+   "bytes": 762872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-658.a3c3b5c73aaf.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 659,
+   "file": "11-1012-659.ffe889765a00.pmtiles",
+   "bytes": 485768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-659.ffe889765a00.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 660,
+   "file": "11-1012-660.af87992de695.pmtiles",
+   "bytes": 942372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-660.af87992de695.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 661,
+   "file": "11-1012-661.b7121e8f8b3c.pmtiles",
+   "bytes": 1561632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-661.b7121e8f8b3c.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 662,
+   "file": "11-1012-662.8022a073320d.pmtiles",
+   "bytes": 791331,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1012-662.8022a073320d.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 657,
+   "file": "11-1013-657.347e9ecd38b9.pmtiles",
+   "bytes": 154810,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-657.347e9ecd38b9.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 658,
+   "file": "11-1013-658.7e18671f8ab6.pmtiles",
+   "bytes": 1566949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-658.7e18671f8ab6.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 659,
+   "file": "11-1013-659.db053673ce9c.pmtiles",
+   "bytes": 1976610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-659.db053673ce9c.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 660,
+   "file": "11-1013-660.661310e599a8.pmtiles",
+   "bytes": 2782263,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-660.661310e599a8.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 661,
+   "file": "11-1013-661.58ca0efa39e7.pmtiles",
+   "bytes": 1851445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-661.58ca0efa39e7.pmtiles"
+  },
+  {
+   "x": 1013,
+   "y": 662,
+   "file": "11-1013-662.fcd596c2fe33.pmtiles",
+   "bytes": 80208,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1013-662.fcd596c2fe33.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 657,
+   "file": "11-1014-657.e67a65345f38.pmtiles",
+   "bytes": 146031,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-657.e67a65345f38.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 658,
+   "file": "11-1014-658.6da632d1654f.pmtiles",
+   "bytes": 1838844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-658.6da632d1654f.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 659,
+   "file": "11-1014-659.fa41657afa82.pmtiles",
+   "bytes": 3490468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-659.fa41657afa82.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 660,
+   "file": "11-1014-660.0abd1679891e.pmtiles",
+   "bytes": 2170959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-660.0abd1679891e.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 661,
+   "file": "11-1014-661.6b124c458d87.pmtiles",
+   "bytes": 1406148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-661.6b124c458d87.pmtiles"
+  },
+  {
+   "x": 1014,
+   "y": 662,
+   "file": "11-1014-662.f5cb3d0e6c49.pmtiles",
+   "bytes": 418134,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1014-662.f5cb3d0e6c49.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 657,
+   "file": "11-1015-657.7139701bf377.pmtiles",
+   "bytes": 215099,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-657.7139701bf377.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 658,
+   "file": "11-1015-658.c7dd3b421be2.pmtiles",
+   "bytes": 993399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-658.c7dd3b421be2.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 659,
+   "file": "11-1015-659.c6f98089f41c.pmtiles",
+   "bytes": 4737998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-659.c6f98089f41c.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 660,
+   "file": "11-1015-660.c336a211dec9.pmtiles",
+   "bytes": 2780799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-660.c336a211dec9.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 661,
+   "file": "11-1015-661.2506afc439e6.pmtiles",
+   "bytes": 1961882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-661.2506afc439e6.pmtiles"
+  },
+  {
+   "x": 1015,
+   "y": 662,
+   "file": "11-1015-662.caf582860157.pmtiles",
+   "bytes": 561222,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1015-662.caf582860157.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 657,
+   "file": "11-1016-657.2efd0c3a2a7f.pmtiles",
+   "bytes": 111232,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-657.2efd0c3a2a7f.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 658,
+   "file": "11-1016-658.cf5b72758b15.pmtiles",
+   "bytes": 1054764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-658.cf5b72758b15.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 659,
+   "file": "11-1016-659.32f744b6c70d.pmtiles",
+   "bytes": 1189066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-659.32f744b6c70d.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 660,
+   "file": "11-1016-660.b454744c5a39.pmtiles",
+   "bytes": 1798169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-660.b454744c5a39.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 661,
+   "file": "11-1016-661.fb9cb6cd83c9.pmtiles",
+   "bytes": 890708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-661.fb9cb6cd83c9.pmtiles"
+  },
+  {
+   "x": 1016,
+   "y": 662,
+   "file": "11-1016-662.fed7a249a691.pmtiles",
+   "bytes": 371358,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1016-662.fed7a249a691.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 657,
+   "file": "11-1017-657.48e2d3c6b255.pmtiles",
+   "bytes": 80818,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-657.48e2d3c6b255.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 658,
+   "file": "11-1017-658.edd86335034a.pmtiles",
+   "bytes": 229180,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-658.edd86335034a.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 659,
+   "file": "11-1017-659.a71f19ea1d24.pmtiles",
+   "bytes": 164145,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-659.a71f19ea1d24.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 660,
+   "file": "11-1017-660.ebc082e28f6b.pmtiles",
+   "bytes": 160158,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-660.ebc082e28f6b.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 661,
+   "file": "11-1017-661.5a7f827e9bb1.pmtiles",
+   "bytes": 227132,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-661.5a7f827e9bb1.pmtiles"
+  },
+  {
+   "x": 1017,
+   "y": 662,
+   "file": "11-1017-662.b9647ec27dc0.pmtiles",
+   "bytes": 93001,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-west-yorkshire-2026-10-03/11-1017-662.b9647ec27dc0.pmtiles"
+  }
+ ]
+}

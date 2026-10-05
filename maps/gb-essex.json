@@ -1,0 +1,477 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-essex",
+ "source": "gb.pmtiles",
+ "builtAt": "2026-10-05T01:42:51.296Z",
+ "publishedAt": "2026-10-05T01:43:09.475Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-essex-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -0.01977,
+  51.44829,
+  1.29659,
+  52.09266
+ ],
+ "overview": {
+  "file": "overview.2139d6340fdf.pmtiles",
+  "bytes": 3723451,
+  "tiles": 48,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/overview.2139d6340fdf.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1023,
+   "y": 675,
+   "file": "11-1023-675.b09549c57f4c.pmtiles",
+   "bytes": 143495,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-675.b09549c57f4c.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 676,
+   "file": "11-1023-676.6154d91a01c1.pmtiles",
+   "bytes": 277510,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-676.6154d91a01c1.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 677,
+   "file": "11-1023-677.f6439d1f0498.pmtiles",
+   "bytes": 228264,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-677.f6439d1f0498.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 678,
+   "file": "11-1023-678.ea9d1ff0c9f7.pmtiles",
+   "bytes": 618764,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-678.ea9d1ff0c9f7.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 679,
+   "file": "11-1023-679.5db2014c2589.pmtiles",
+   "bytes": 644319,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-679.5db2014c2589.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 680,
+   "file": "11-1023-680.32ec9cb76939.pmtiles",
+   "bytes": 1882672,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-680.32ec9cb76939.pmtiles"
+  },
+  {
+   "x": 1023,
+   "y": 681,
+   "file": "11-1023-681.072bac845e4b.pmtiles",
+   "bytes": 1160953,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1023-681.072bac845e4b.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 675,
+   "file": "11-1024-675.b73fb0e9fb7e.pmtiles",
+   "bytes": 345615,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-675.b73fb0e9fb7e.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 676,
+   "file": "11-1024-676.851d76075141.pmtiles",
+   "bytes": 664155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-676.851d76075141.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 677,
+   "file": "11-1024-677.8dac73da1f26.pmtiles",
+   "bytes": 1358557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-677.8dac73da1f26.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 678,
+   "file": "11-1024-678.30f90d0497d3.pmtiles",
+   "bytes": 1841063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-678.30f90d0497d3.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 679,
+   "file": "11-1024-679.465f23fa37db.pmtiles",
+   "bytes": 1610475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-679.465f23fa37db.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 680,
+   "file": "11-1024-680.25b16d7730e8.pmtiles",
+   "bytes": 5302965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-680.25b16d7730e8.pmtiles"
+  },
+  {
+   "x": 1024,
+   "y": 681,
+   "file": "11-1024-681.75735adc52d3.pmtiles",
+   "bytes": 3715214,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1024-681.75735adc52d3.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 675,
+   "file": "11-1025-675.45498566e15c.pmtiles",
+   "bytes": 465902,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-675.45498566e15c.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 676,
+   "file": "11-1025-676.a0de93b92cd5.pmtiles",
+   "bytes": 810897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-676.a0de93b92cd5.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 677,
+   "file": "11-1025-677.142050a6caa4.pmtiles",
+   "bytes": 1084797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-677.142050a6caa4.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 678,
+   "file": "11-1025-678.61c72c14b0e7.pmtiles",
+   "bytes": 663063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-678.61c72c14b0e7.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 679,
+   "file": "11-1025-679.33b961a5c471.pmtiles",
+   "bytes": 989502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-679.33b961a5c471.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 680,
+   "file": "11-1025-680.01aad05209be.pmtiles",
+   "bytes": 2234882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-680.01aad05209be.pmtiles"
+  },
+  {
+   "x": 1025,
+   "y": 681,
+   "file": "11-1025-681.1e7be4b876bc.pmtiles",
+   "bytes": 2236129,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1025-681.1e7be4b876bc.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 675,
+   "file": "11-1026-675.2b415e4f9fee.pmtiles",
+   "bytes": 465754,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-675.2b415e4f9fee.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 676,
+   "file": "11-1026-676.4aef55714af8.pmtiles",
+   "bytes": 471238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-676.4aef55714af8.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 677,
+   "file": "11-1026-677.2ba8eb58f66d.pmtiles",
+   "bytes": 651806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-677.2ba8eb58f66d.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 678,
+   "file": "11-1026-678.8ba9f79cbd0e.pmtiles",
+   "bytes": 1364739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-678.8ba9f79cbd0e.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 679,
+   "file": "11-1026-679.806c7c1e3674.pmtiles",
+   "bytes": 1454213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-679.806c7c1e3674.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 680,
+   "file": "11-1026-680.b19652e8b3bf.pmtiles",
+   "bytes": 1598906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-680.b19652e8b3bf.pmtiles"
+  },
+  {
+   "x": 1026,
+   "y": 681,
+   "file": "11-1026-681.b75dc52c1d6b.pmtiles",
+   "bytes": 755395,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1026-681.b75dc52c1d6b.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 675,
+   "file": "11-1027-675.51172abe4907.pmtiles",
+   "bytes": 285014,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-675.51172abe4907.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 676,
+   "file": "11-1027-676.860904e5d380.pmtiles",
+   "bytes": 558867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-676.860904e5d380.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 677,
+   "file": "11-1027-677.e4c0f3c4c8cb.pmtiles",
+   "bytes": 941095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-677.e4c0f3c4c8cb.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 678,
+   "file": "11-1027-678.0a5d5eca350b.pmtiles",
+   "bytes": 1124840,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-678.0a5d5eca350b.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 679,
+   "file": "11-1027-679.19d65e063a39.pmtiles",
+   "bytes": 928565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-679.19d65e063a39.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 680,
+   "file": "11-1027-680.17f10919535e.pmtiles",
+   "bytes": 1484415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-680.17f10919535e.pmtiles"
+  },
+  {
+   "x": 1027,
+   "y": 681,
+   "file": "11-1027-681.41de816aa7bc.pmtiles",
+   "bytes": 371911,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1027-681.41de816aa7bc.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 675,
+   "file": "11-1028-675.c40345f4332c.pmtiles",
+   "bytes": 360561,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-675.c40345f4332c.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 676,
+   "file": "11-1028-676.7711ee0f28c8.pmtiles",
+   "bytes": 880784,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-676.7711ee0f28c8.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 677,
+   "file": "11-1028-677.9274f456bf5b.pmtiles",
+   "bytes": 985376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-677.9274f456bf5b.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 678,
+   "file": "11-1028-678.6dc9b4ea7653.pmtiles",
+   "bytes": 733119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-678.6dc9b4ea7653.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 679,
+   "file": "11-1028-679.3f79b97bdb04.pmtiles",
+   "bytes": 824109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-679.3f79b97bdb04.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 680,
+   "file": "11-1028-680.b9ee7b5a0b4d.pmtiles",
+   "bytes": 865758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-680.b9ee7b5a0b4d.pmtiles"
+  },
+  {
+   "x": 1028,
+   "y": 681,
+   "file": "11-1028-681.ab779c514fbf.pmtiles",
+   "bytes": 172283,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1028-681.ab779c514fbf.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 675,
+   "file": "11-1029-675.e5da27c3e685.pmtiles",
+   "bytes": 346814,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-675.e5da27c3e685.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 676,
+   "file": "11-1029-676.2ba03a05467f.pmtiles",
+   "bytes": 943129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-676.2ba03a05467f.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 677,
+   "file": "11-1029-677.a1fa4ffc904c.pmtiles",
+   "bytes": 1978985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-677.a1fa4ffc904c.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 678,
+   "file": "11-1029-678.72d23c1f8a04.pmtiles",
+   "bytes": 819332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-678.72d23c1f8a04.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 679,
+   "file": "11-1029-679.aeec9560798d.pmtiles",
+   "bytes": 193080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-679.aeec9560798d.pmtiles"
+  },
+  {
+   "x": 1029,
+   "y": 680,
+   "file": "11-1029-680.0f9784f3fb8a.pmtiles",
+   "bytes": 112563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1029-680.0f9784f3fb8a.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 675,
+   "file": "11-1030-675.dc0f6d397eca.pmtiles",
+   "bytes": 1209946,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1030-675.dc0f6d397eca.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 676,
+   "file": "11-1030-676.71730be2323a.pmtiles",
+   "bytes": 1486353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1030-676.71730be2323a.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 677,
+   "file": "11-1030-677.663050a29b5f.pmtiles",
+   "bytes": 1055090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1030-677.663050a29b5f.pmtiles"
+  },
+  {
+   "x": 1030,
+   "y": 678,
+   "file": "11-1030-678.0eba153ece23.pmtiles",
+   "bytes": 1111955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1030-678.0eba153ece23.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 675,
+   "file": "11-1031-675.711fb85367a1.pmtiles",
+   "bytes": 527275,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1031-675.711fb85367a1.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 676,
+   "file": "11-1031-676.dc5ae42a7712.pmtiles",
+   "bytes": 466087,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1031-676.dc5ae42a7712.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 677,
+   "file": "11-1031-677.05be67d3e584.pmtiles",
+   "bytes": 818190,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1031-677.05be67d3e584.pmtiles"
+  },
+  {
+   "x": 1031,
+   "y": 678,
+   "file": "11-1031-678.6a1dcd9ff4c3.pmtiles",
+   "bytes": 59278,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-essex-2026-10-03/11-1031-678.6a1dcd9ff4c3.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gb-tyrone",
+ "source": "ie.pmtiles",
+ "builtAt": "2026-10-05T01:43:09.699Z",
+ "publishedAt": "2026-10-05T01:43:28.622Z",
+ "host": "github",
+ "releases": [
+  "maps-gb-tyrone-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -7.92089,
+  54.32531,
+  -6.4987,
+  54.94498
+ ],
+ "overview": {
+  "file": "overview.fca00f05ae87.pmtiles",
+  "bytes": 810906,
+  "tiles": 36,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/overview.fca00f05ae87.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 978,
+   "y": 648,
+   "file": "11-978-648.5dc7b97eaddd.pmtiles",
+   "bytes": 23856,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-648.5dc7b97eaddd.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 649,
+   "file": "11-978-649.4c4ad1fa1e84.pmtiles",
+   "bytes": 34026,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-649.4c4ad1fa1e84.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 650,
+   "file": "11-978-650.a759c21531e5.pmtiles",
+   "bytes": 29623,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-650.a759c21531e5.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 651,
+   "file": "11-978-651.38877b050d44.pmtiles",
+   "bytes": 29402,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-651.38877b050d44.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 652,
+   "file": "11-978-652.3e8cf8f40874.pmtiles",
+   "bytes": 55895,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-652.3e8cf8f40874.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 653,
+   "file": "11-978-653.6b6929c87678.pmtiles",
+   "bytes": 39809,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-653.6b6929c87678.pmtiles"
+  },
+  {
+   "x": 978,
+   "y": 654,
+   "file": "11-978-654.b42bb8fb450c.pmtiles",
+   "bytes": 23287,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-978-654.b42bb8fb450c.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 648,
+   "file": "11-979-648.b748f52fe7fd.pmtiles",
+   "bytes": 251979,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-648.b748f52fe7fd.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 649,
+   "file": "11-979-649.05c7e0bdf666.pmtiles",
+   "bytes": 347497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-649.05c7e0bdf666.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 650,
+   "file": "11-979-650.81640b56ee87.pmtiles",
+   "bytes": 106448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-650.81640b56ee87.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 651,
+   "file": "11-979-651.f3538b92da08.pmtiles",
+   "bytes": 121356,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-651.f3538b92da08.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 652,
+   "file": "11-979-652.cbe8dff06327.pmtiles",
+   "bytes": 219262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-652.cbe8dff06327.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 653,
+   "file": "11-979-653.9ba0c4538ffb.pmtiles",
+   "bytes": 173006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-653.9ba0c4538ffb.pmtiles"
+  },
+  {
+   "x": 979,
+   "y": 654,
+   "file": "11-979-654.c6fa14e26e0a.pmtiles",
+   "bytes": 72201,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-979-654.c6fa14e26e0a.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 648,
+   "file": "11-980-648.5aac074779ad.pmtiles",
+   "bytes": 305504,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-648.5aac074779ad.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 649,
+   "file": "11-980-649.bcaf5a44e6b5.pmtiles",
+   "bytes": 288346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-649.bcaf5a44e6b5.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 650,
+   "file": "11-980-650.27f02dd07a69.pmtiles",
+   "bytes": 214875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-650.27f02dd07a69.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 651,
+   "file": "11-980-651.87017168b601.pmtiles",
+   "bytes": 125713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-651.87017168b601.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 652,
+   "file": "11-980-652.7e2dcb22a1f6.pmtiles",
+   "bytes": 210020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-652.7e2dcb22a1f6.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 653,
+   "file": "11-980-653.9678abcc1ec6.pmtiles",
+   "bytes": 259431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-653.9678abcc1ec6.pmtiles"
+  },
+  {
+   "x": 980,
+   "y": 654,
+   "file": "11-980-654.44000aa837af.pmtiles",
+   "bytes": 367365,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-980-654.44000aa837af.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 648,
+   "file": "11-981-648.b685df52ebcc.pmtiles",
+   "bytes": 209544,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-648.b685df52ebcc.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 649,
+   "file": "11-981-649.db428117660f.pmtiles",
+   "bytes": 543833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-649.db428117660f.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 650,
+   "file": "11-981-650.167761d91ae3.pmtiles",
+   "bytes": 316963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-650.167761d91ae3.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 651,
+   "file": "11-981-651.03d2a67cad0d.pmtiles",
+   "bytes": 112372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-651.03d2a67cad0d.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 652,
+   "file": "11-981-652.e7b7cca8cbc4.pmtiles",
+   "bytes": 124751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-652.e7b7cca8cbc4.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 653,
+   "file": "11-981-653.b5b523b00eef.pmtiles",
+   "bytes": 149463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-653.b5b523b00eef.pmtiles"
+  },
+  {
+   "x": 981,
+   "y": 654,
+   "file": "11-981-654.148ffed66c2e.pmtiles",
+   "bytes": 95938,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-981-654.148ffed66c2e.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 648,
+   "file": "11-982-648.e9e716854cea.pmtiles",
+   "bytes": 162045,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-648.e9e716854cea.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 649,
+   "file": "11-982-649.96c3744a9557.pmtiles",
+   "bytes": 153576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-649.96c3744a9557.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 650,
+   "file": "11-982-650.0c3c511c8d0c.pmtiles",
+   "bytes": 296586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-650.0c3c511c8d0c.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 651,
+   "file": "11-982-651.b637790313df.pmtiles",
+   "bytes": 466148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-651.b637790313df.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 652,
+   "file": "11-982-652.c741462e3d73.pmtiles",
+   "bytes": 158502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-652.c741462e3d73.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 653,
+   "file": "11-982-653.1061976c3284.pmtiles",
+   "bytes": 145957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-653.1061976c3284.pmtiles"
+  },
+  {
+   "x": 982,
+   "y": 654,
+   "file": "11-982-654.9e9c1ab2b726.pmtiles",
+   "bytes": 86022,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-982-654.9e9c1ab2b726.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 648,
+   "file": "11-983-648.e79352384686.pmtiles",
+   "bytes": 199285,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-648.e79352384686.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 649,
+   "file": "11-983-649.190d54ebc077.pmtiles",
+   "bytes": 104220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-649.190d54ebc077.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 650,
+   "file": "11-983-650.c8d581bf4e94.pmtiles",
+   "bytes": 175100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-650.c8d581bf4e94.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 651,
+   "file": "11-983-651.ae08c2269d8a.pmtiles",
+   "bytes": 170771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-651.ae08c2269d8a.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 652,
+   "file": "11-983-652.ae9cf432f333.pmtiles",
+   "bytes": 140422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-652.ae9cf432f333.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 653,
+   "file": "11-983-653.b5cb526eefbf.pmtiles",
+   "bytes": 204991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-653.b5cb526eefbf.pmtiles"
+  },
+  {
+   "x": 983,
+   "y": 654,
+   "file": "11-983-654.64b7b26db3ee.pmtiles",
+   "bytes": 112827,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-983-654.64b7b26db3ee.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 648,
+   "file": "11-984-648.9e0a34c1d250.pmtiles",
+   "bytes": 235788,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-648.9e0a34c1d250.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 649,
+   "file": "11-984-649.506508bf032a.pmtiles",
+   "bytes": 74151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-649.506508bf032a.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 650,
+   "file": "11-984-650.e496b295787e.pmtiles",
+   "bytes": 172924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-650.e496b295787e.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 651,
+   "file": "11-984-651.953d922c065b.pmtiles",
+   "bytes": 236289,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-651.953d922c065b.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 652,
+   "file": "11-984-652.8908a5f28021.pmtiles",
+   "bytes": 179571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-652.8908a5f28021.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 653,
+   "file": "11-984-653.f57a7f9b4075.pmtiles",
+   "bytes": 229727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-653.f57a7f9b4075.pmtiles"
+  },
+  {
+   "x": 984,
+   "y": 654,
+   "file": "11-984-654.54ca8ded39ba.pmtiles",
+   "bytes": 207020,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-984-654.54ca8ded39ba.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 648,
+   "file": "11-985-648.7d13a47ad426.pmtiles",
+   "bytes": 97601,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-648.7d13a47ad426.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 649,
+   "file": "11-985-649.4bf8771227e6.pmtiles",
+   "bytes": 348198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-649.4bf8771227e6.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 650,
+   "file": "11-985-650.1d6fdf04a5c6.pmtiles",
+   "bytes": 218994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-650.1d6fdf04a5c6.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 651,
+   "file": "11-985-651.74b4bd29e227.pmtiles",
+   "bytes": 519532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-651.74b4bd29e227.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 652,
+   "file": "11-985-652.2655a03e4fc5.pmtiles",
+   "bytes": 562509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-652.2655a03e4fc5.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 653,
+   "file": "11-985-653.260f184f0795.pmtiles",
+   "bytes": 235335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-653.260f184f0795.pmtiles"
+  },
+  {
+   "x": 985,
+   "y": 654,
+   "file": "11-985-654.7d35bc0e44b0.pmtiles",
+   "bytes": 155184,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-985-654.7d35bc0e44b0.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 648,
+   "file": "11-986-648.6f2e03f9efbe.pmtiles",
+   "bytes": 220429,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-648.6f2e03f9efbe.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 649,
+   "file": "11-986-649.60fae27e2ed1.pmtiles",
+   "bytes": 477163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-649.60fae27e2ed1.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 650,
+   "file": "11-986-650.b27de6e46269.pmtiles",
+   "bytes": 618302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-650.b27de6e46269.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 651,
+   "file": "11-986-651.f1c5e5d92568.pmtiles",
+   "bytes": 409125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-651.f1c5e5d92568.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 652,
+   "file": "11-986-652.c5a6536b0144.pmtiles",
+   "bytes": 382416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-652.c5a6536b0144.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 653,
+   "file": "11-986-653.598691f8f678.pmtiles",
+   "bytes": 361873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-653.598691f8f678.pmtiles"
+  },
+  {
+   "x": 986,
+   "y": 654,
+   "file": "11-986-654.64ebf267f592.pmtiles",
+   "bytes": 424159,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-986-654.64ebf267f592.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 648,
+   "file": "11-987-648.2b9e126f7779.pmtiles",
+   "bytes": 45934,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-648.2b9e126f7779.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 649,
+   "file": "11-987-649.ef0e9118a901.pmtiles",
+   "bytes": 99660,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-649.ef0e9118a901.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 650,
+   "file": "11-987-650.45aca5ae66ec.pmtiles",
+   "bytes": 93346,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-650.45aca5ae66ec.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 652,
+   "file": "11-987-652.e054b2696ddf.pmtiles",
+   "bytes": 42894,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-652.e054b2696ddf.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 653,
+   "file": "11-987-653.805eabb273f5.pmtiles",
+   "bytes": 116585,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-653.805eabb273f5.pmtiles"
+  },
+  {
+   "x": 987,
+   "y": 654,
+   "file": "11-987-654.2c54ac363108.pmtiles",
+   "bytes": 44400,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gb-tyrone-2026-10-03/11-987-654.2c54ac363108.pmtiles"
+  }
+ ]
+}
