@@ -1,0 +1,501 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ba-kanton-10",
+ "source": "ba.pmtiles",
+ "builtAt": "2026-10-06T03:26:18.300Z",
+ "publishedAt": "2026-10-06T03:26:37.136Z",
+ "host": "github",
+ "releases": [
+  "maps-ba-kanton-10-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  16.17238,
+  43.53826,
+  17.53506,
+  44.4975
+ ],
+ "overview": {
+  "file": "overview.7443295442cd.pmtiles",
+  "bytes": 2155134,
+  "tiles": 40,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/overview.7443295442cd.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1116,
+   "y": 740,
+   "file": "11-1116-740.a5221a79a02f.pmtiles",
+   "bytes": 105977,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1116-740.a5221a79a02f.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 741,
+   "file": "11-1116-741.e9dbca891f5d.pmtiles",
+   "bytes": 252045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1116-741.e9dbca891f5d.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 742,
+   "file": "11-1116-742.19c7fbb1e80c.pmtiles",
+   "bytes": 238596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1116-742.19c7fbb1e80c.pmtiles"
+  },
+  {
+   "x": 1116,
+   "y": 743,
+   "file": "11-1116-743.eeaac2f085dc.pmtiles",
+   "bytes": 149648,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1116-743.eeaac2f085dc.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 740,
+   "file": "11-1117-740.82fee7f5700d.pmtiles",
+   "bytes": 149915,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1117-740.82fee7f5700d.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 741,
+   "file": "11-1117-741.0b9e67bc3fc7.pmtiles",
+   "bytes": 328830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1117-741.0b9e67bc3fc7.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 742,
+   "file": "11-1117-742.1ead9a2be026.pmtiles",
+   "bytes": 274644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1117-742.1ead9a2be026.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 743,
+   "file": "11-1117-743.560ef6a3c9a8.pmtiles",
+   "bytes": 269723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1117-743.560ef6a3c9a8.pmtiles"
+  },
+  {
+   "x": 1117,
+   "y": 744,
+   "file": "11-1117-744.ce5f2827c34a.pmtiles",
+   "bytes": 113541,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1117-744.ce5f2827c34a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 740,
+   "file": "11-1118-740.1a8d36623c1a.pmtiles",
+   "bytes": 87764,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-740.1a8d36623c1a.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 741,
+   "file": "11-1118-741.23ba5d86ca18.pmtiles",
+   "bytes": 172851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-741.23ba5d86ca18.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 742,
+   "file": "11-1118-742.4f492cd290a6.pmtiles",
+   "bytes": 312739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-742.4f492cd290a6.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 743,
+   "file": "11-1118-743.23510e7cdb74.pmtiles",
+   "bytes": 346227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-743.23510e7cdb74.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 744,
+   "file": "11-1118-744.2f0eac3d55e8.pmtiles",
+   "bytes": 275087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-744.2f0eac3d55e8.pmtiles"
+  },
+  {
+   "x": 1118,
+   "y": 745,
+   "file": "11-1118-745.5ebd3e1a2139.pmtiles",
+   "bytes": 311516,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1118-745.5ebd3e1a2139.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 740,
+   "file": "11-1119-740.3258cbcc1a4b.pmtiles",
+   "bytes": 242363,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-740.3258cbcc1a4b.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 741,
+   "file": "11-1119-741.9d8951815c21.pmtiles",
+   "bytes": 524892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-741.9d8951815c21.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 742,
+   "file": "11-1119-742.ce3898ff3866.pmtiles",
+   "bytes": 347121,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-742.ce3898ff3866.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 743,
+   "file": "11-1119-743.7eb453a94ec2.pmtiles",
+   "bytes": 575432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-743.7eb453a94ec2.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 744,
+   "file": "11-1119-744.7926389f94c6.pmtiles",
+   "bytes": 466877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-744.7926389f94c6.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 745,
+   "file": "11-1119-745.338bf194bce9.pmtiles",
+   "bytes": 553388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-745.338bf194bce9.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 746,
+   "file": "11-1119-746.2279de14d651.pmtiles",
+   "bytes": 455012,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-746.2279de14d651.pmtiles"
+  },
+  {
+   "x": 1119,
+   "y": 747,
+   "file": "11-1119-747.755e2eedb00c.pmtiles",
+   "bytes": 22049,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1119-747.755e2eedb00c.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 740,
+   "file": "11-1120-740.1295bdce2a0c.pmtiles",
+   "bytes": 238090,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-740.1295bdce2a0c.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 741,
+   "file": "11-1120-741.4ca757416b43.pmtiles",
+   "bytes": 533366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-741.4ca757416b43.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 742,
+   "file": "11-1120-742.4e540e84c544.pmtiles",
+   "bytes": 559783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-742.4e540e84c544.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 743,
+   "file": "11-1120-743.0e54f241b051.pmtiles",
+   "bytes": 335286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-743.0e54f241b051.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 744,
+   "file": "11-1120-744.9b35959dfe80.pmtiles",
+   "bytes": 468249,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-744.9b35959dfe80.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 745,
+   "file": "11-1120-745.8b0c37395aea.pmtiles",
+   "bytes": 685147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-745.8b0c37395aea.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 746,
+   "file": "11-1120-746.225b464ae032.pmtiles",
+   "bytes": 1117808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-746.225b464ae032.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 747,
+   "file": "11-1120-747.c1d63811cd12.pmtiles",
+   "bytes": 371588,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-747.c1d63811cd12.pmtiles"
+  },
+  {
+   "x": 1120,
+   "y": 748,
+   "file": "11-1120-748.3dedb7d4647d.pmtiles",
+   "bytes": 57375,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1120-748.3dedb7d4647d.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 740,
+   "file": "11-1121-740.6e1b029fca74.pmtiles",
+   "bytes": 406521,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-740.6e1b029fca74.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 741,
+   "file": "11-1121-741.58a5ea5253e2.pmtiles",
+   "bytes": 794109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-741.58a5ea5253e2.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 742,
+   "file": "11-1121-742.dd0ae9595c44.pmtiles",
+   "bytes": 783223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-742.dd0ae9595c44.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 743,
+   "file": "11-1121-743.a34aff313ade.pmtiles",
+   "bytes": 291238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-743.a34aff313ade.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 744,
+   "file": "11-1121-744.061b86f27848.pmtiles",
+   "bytes": 265440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-744.061b86f27848.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 745,
+   "file": "11-1121-745.5869e9ea8ee8.pmtiles",
+   "bytes": 647846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-745.5869e9ea8ee8.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 746,
+   "file": "11-1121-746.db960ace8083.pmtiles",
+   "bytes": 929812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-746.db960ace8083.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 747,
+   "file": "11-1121-747.c3ad283a6c3a.pmtiles",
+   "bytes": 765313,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-747.c3ad283a6c3a.pmtiles"
+  },
+  {
+   "x": 1121,
+   "y": 748,
+   "file": "11-1121-748.4923f7eb878f.pmtiles",
+   "bytes": 331133,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1121-748.4923f7eb878f.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 740,
+   "file": "11-1122-740.9f22674cd5b6.pmtiles",
+   "bytes": 294523,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-740.9f22674cd5b6.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 741,
+   "file": "11-1122-741.ee590023de84.pmtiles",
+   "bytes": 665970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-741.ee590023de84.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 742,
+   "file": "11-1122-742.fc1c94a8309b.pmtiles",
+   "bytes": 414244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-742.fc1c94a8309b.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 743,
+   "file": "11-1122-743.2ffa8ddf40a1.pmtiles",
+   "bytes": 314893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-743.2ffa8ddf40a1.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 744,
+   "file": "11-1122-744.09ca0bb2b638.pmtiles",
+   "bytes": 385684,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-744.09ca0bb2b638.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 745,
+   "file": "11-1122-745.adf99369f4f7.pmtiles",
+   "bytes": 333636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-745.adf99369f4f7.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 746,
+   "file": "11-1122-746.8507342b659e.pmtiles",
+   "bytes": 391310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-746.8507342b659e.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 747,
+   "file": "11-1122-747.4f84f2557c49.pmtiles",
+   "bytes": 395236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-747.4f84f2557c49.pmtiles"
+  },
+  {
+   "x": 1122,
+   "y": 748,
+   "file": "11-1122-748.a7385d548573.pmtiles",
+   "bytes": 217647,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1122-748.a7385d548573.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 740,
+   "file": "11-1123-740.97a054274772.pmtiles",
+   "bytes": 244167,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-740.97a054274772.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 741,
+   "file": "11-1123-741.cccc40284620.pmtiles",
+   "bytes": 450255,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-741.cccc40284620.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 742,
+   "file": "11-1123-742.32d550006e79.pmtiles",
+   "bytes": 359526,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-742.32d550006e79.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 743,
+   "file": "11-1123-743.ed1b7ee23ce0.pmtiles",
+   "bytes": 441320,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-743.ed1b7ee23ce0.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 744,
+   "file": "11-1123-744.c447cbd3312f.pmtiles",
+   "bytes": 579978,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-744.c447cbd3312f.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 745,
+   "file": "11-1123-745.abb68a9154bc.pmtiles",
+   "bytes": 322242,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-745.abb68a9154bc.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 746,
+   "file": "11-1123-746.68ffde26cc62.pmtiles",
+   "bytes": 376729,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-746.68ffde26cc62.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 747,
+   "file": "11-1123-747.4bc7b59c4816.pmtiles",
+   "bytes": 425339,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-747.4bc7b59c4816.pmtiles"
+  },
+  {
+   "x": 1123,
+   "y": 748,
+   "file": "11-1123-748.c4cbea3b1df6.pmtiles",
+   "bytes": 165714,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ba-kanton-10-2026-10-03/11-1123-748.c4cbea3b1df6.pmtiles"
+  }
+ ]
+}
