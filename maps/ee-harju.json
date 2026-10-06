@@ -1,0 +1,853 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ee-harju",
+ "source": "ee.pmtiles",
+ "builtAt": "2026-10-06T04:39:53.430Z",
+ "publishedAt": "2026-10-06T04:40:20.441Z",
+ "host": "github",
+ "releases": [
+  "maps-ee-harju-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  23.73002,
+  58.99166,
+  25.9551,
+  59.7002
+ ],
+ "overview": {
+  "file": "overview.7af9d8770a09.pmtiles",
+  "bytes": 1930394,
+  "tiles": 62,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/overview.7af9d8770a09.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1158,
+   "y": 603,
+   "file": "11-1158-603.ec8da390a97c.pmtiles",
+   "bytes": 38559,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1158-603.ec8da390a97c.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 604,
+   "file": "11-1158-604.006473bbecfc.pmtiles",
+   "bytes": 24252,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1158-604.006473bbecfc.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 605,
+   "file": "11-1158-605.900c234fe703.pmtiles",
+   "bytes": 63555,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1158-605.900c234fe703.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 606,
+   "file": "11-1158-606.bb72b4a4bbaa.pmtiles",
+   "bytes": 46116,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1158-606.bb72b4a4bbaa.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 602,
+   "file": "11-1159-602.712886342efc.pmtiles",
+   "bytes": 77216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1159-602.712886342efc.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 603,
+   "file": "11-1159-603.3642242535e7.pmtiles",
+   "bytes": 124412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1159-603.3642242535e7.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 604,
+   "file": "11-1159-604.c8070c6199c1.pmtiles",
+   "bytes": 109531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1159-604.c8070c6199c1.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 605,
+   "file": "11-1159-605.02e1a4ed3a3c.pmtiles",
+   "bytes": 133697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1159-605.02e1a4ed3a3c.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 606,
+   "file": "11-1159-606.ae4eb8751c51.pmtiles",
+   "bytes": 55063,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1159-606.ae4eb8751c51.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 601,
+   "file": "11-1160-601.d6316aa5e466.pmtiles",
+   "bytes": 116104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-601.d6316aa5e466.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 602,
+   "file": "11-1160-602.25240ebbf49e.pmtiles",
+   "bytes": 214523,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-602.25240ebbf49e.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 603,
+   "file": "11-1160-603.a4d2400d85fc.pmtiles",
+   "bytes": 153589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-603.a4d2400d85fc.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 604,
+   "file": "11-1160-604.7b179c64e27e.pmtiles",
+   "bytes": 83740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-604.7b179c64e27e.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 605,
+   "file": "11-1160-605.e49cacdff437.pmtiles",
+   "bytes": 148836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-605.e49cacdff437.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 606,
+   "file": "11-1160-606.781895b79af7.pmtiles",
+   "bytes": 46963,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1160-606.781895b79af7.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 601,
+   "file": "11-1161-601.abba88e73600.pmtiles",
+   "bytes": 207712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-601.abba88e73600.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 602,
+   "file": "11-1161-602.e637120fb1ae.pmtiles",
+   "bytes": 332371,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-602.e637120fb1ae.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 603,
+   "file": "11-1161-603.30d7f6df1451.pmtiles",
+   "bytes": 251035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-603.30d7f6df1451.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 604,
+   "file": "11-1161-604.351defb11181.pmtiles",
+   "bytes": 148140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-604.351defb11181.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 605,
+   "file": "11-1161-605.007819701d11.pmtiles",
+   "bytes": 164571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-605.007819701d11.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 606,
+   "file": "11-1161-606.b3554710c812.pmtiles",
+   "bytes": 40021,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1161-606.b3554710c812.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 600,
+   "file": "11-1162-600.a6f010713b20.pmtiles",
+   "bytes": 121864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-600.a6f010713b20.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 601,
+   "file": "11-1162-601.3d5cbc02bec3.pmtiles",
+   "bytes": 446702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-601.3d5cbc02bec3.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 602,
+   "file": "11-1162-602.bb20ce413707.pmtiles",
+   "bytes": 499049,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-602.bb20ce413707.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 603,
+   "file": "11-1162-603.cae5e57570ce.pmtiles",
+   "bytes": 384805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-603.cae5e57570ce.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 604,
+   "file": "11-1162-604.4548ce16cddd.pmtiles",
+   "bytes": 210345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-604.4548ce16cddd.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 605,
+   "file": "11-1162-605.a116ac2658d3.pmtiles",
+   "bytes": 167470,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-605.a116ac2658d3.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 606,
+   "file": "11-1162-606.8e2c319be9f2.pmtiles",
+   "bytes": 47253,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1162-606.8e2c319be9f2.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 599,
+   "file": "11-1163-599.3ecad866faff.pmtiles",
+   "bytes": 79256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-599.3ecad866faff.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 600,
+   "file": "11-1163-600.60df93981057.pmtiles",
+   "bytes": 145825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-600.60df93981057.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 601,
+   "file": "11-1163-601.ec6a4907d206.pmtiles",
+   "bytes": 659224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-601.ec6a4907d206.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 602,
+   "file": "11-1163-602.8cace8b841ba.pmtiles",
+   "bytes": 577865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-602.8cace8b841ba.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 603,
+   "file": "11-1163-603.c0098d74352f.pmtiles",
+   "bytes": 264442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-603.c0098d74352f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 604,
+   "file": "11-1163-604.113ace831ee6.pmtiles",
+   "bytes": 242799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-604.113ace831ee6.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 605,
+   "file": "11-1163-605.504c7686b27b.pmtiles",
+   "bytes": 189092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-605.504c7686b27b.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 606,
+   "file": "11-1163-606.ad25860df7c0.pmtiles",
+   "bytes": 48259,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1163-606.ad25860df7c0.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 599,
+   "file": "11-1164-599.264d013257c7.pmtiles",
+   "bytes": 55628,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-599.264d013257c7.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 600,
+   "file": "11-1164-600.87820c045fa0.pmtiles",
+   "bytes": 472254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-600.87820c045fa0.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 601,
+   "file": "11-1164-601.e3fb0c7eaded.pmtiles",
+   "bytes": 3372377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-601.e3fb0c7eaded.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 602,
+   "file": "11-1164-602.27a6f216b985.pmtiles",
+   "bytes": 632936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-602.27a6f216b985.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 603,
+   "file": "11-1164-603.40f7df0ac82d.pmtiles",
+   "bytes": 493996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-603.40f7df0ac82d.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 604,
+   "file": "11-1164-604.b15c1d6b38c4.pmtiles",
+   "bytes": 324421,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-604.b15c1d6b38c4.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 605,
+   "file": "11-1164-605.1cbcacd43310.pmtiles",
+   "bytes": 244607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-605.1cbcacd43310.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 606,
+   "file": "11-1164-606.5deeaa1f3bfc.pmtiles",
+   "bytes": 74165,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1164-606.5deeaa1f3bfc.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 599,
+   "file": "11-1165-599.c36234f03c4f.pmtiles",
+   "bytes": 157860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-599.c36234f03c4f.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 600,
+   "file": "11-1165-600.d05cd439886b.pmtiles",
+   "bytes": 1488976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-600.d05cd439886b.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 601,
+   "file": "11-1165-601.4b9908773e49.pmtiles",
+   "bytes": 1503949,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-601.4b9908773e49.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 602,
+   "file": "11-1165-602.a09e060ce582.pmtiles",
+   "bytes": 427804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-602.a09e060ce582.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 603,
+   "file": "11-1165-603.fb3b3e3cb8e6.pmtiles",
+   "bytes": 211708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-603.fb3b3e3cb8e6.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 604,
+   "file": "11-1165-604.03017b26f10d.pmtiles",
+   "bytes": 255204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-604.03017b26f10d.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 605,
+   "file": "11-1165-605.7158cbbf9640.pmtiles",
+   "bytes": 411227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-605.7158cbbf9640.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 606,
+   "file": "11-1165-606.be204c23570e.pmtiles",
+   "bytes": 109578,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1165-606.be204c23570e.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 598,
+   "file": "11-1166-598.350dcbf3290a.pmtiles",
+   "bytes": 52849,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-598.350dcbf3290a.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 599,
+   "file": "11-1166-599.5f5e956f9412.pmtiles",
+   "bytes": 55232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-599.5f5e956f9412.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 600,
+   "file": "11-1166-600.968bffe45e6a.pmtiles",
+   "bytes": 439905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-600.968bffe45e6a.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 601,
+   "file": "11-1166-601.e3618e7db501.pmtiles",
+   "bytes": 386834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-601.e3618e7db501.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 602,
+   "file": "11-1166-602.47162cbbb81e.pmtiles",
+   "bytes": 233744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-602.47162cbbb81e.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 603,
+   "file": "11-1166-603.c187d44b3216.pmtiles",
+   "bytes": 320548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-603.c187d44b3216.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 604,
+   "file": "11-1166-604.99571d31ae64.pmtiles",
+   "bytes": 161025,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-604.99571d31ae64.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 605,
+   "file": "11-1166-605.6095d375b51c.pmtiles",
+   "bytes": 208978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-605.6095d375b51c.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 606,
+   "file": "11-1166-606.2adaa9f810c2.pmtiles",
+   "bytes": 48819,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1166-606.2adaa9f810c2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 599,
+   "file": "11-1167-599.28882388ca0e.pmtiles",
+   "bytes": 39127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-599.28882388ca0e.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 600,
+   "file": "11-1167-600.08afbd1913e2.pmtiles",
+   "bytes": 280569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-600.08afbd1913e2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 601,
+   "file": "11-1167-601.d815a25d50eb.pmtiles",
+   "bytes": 333127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-601.d815a25d50eb.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 602,
+   "file": "11-1167-602.3fed7536c611.pmtiles",
+   "bytes": 207251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-602.3fed7536c611.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 603,
+   "file": "11-1167-603.799b837a9244.pmtiles",
+   "bytes": 248607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-603.799b837a9244.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 604,
+   "file": "11-1167-604.e0f2cf5d94e2.pmtiles",
+   "bytes": 285489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-604.e0f2cf5d94e2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 605,
+   "file": "11-1167-605.fe0e61b3c66a.pmtiles",
+   "bytes": 163696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-605.fe0e61b3c66a.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 606,
+   "file": "11-1167-606.43b3224ca072.pmtiles",
+   "bytes": 35711,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1167-606.43b3224ca072.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 600,
+   "file": "11-1168-600.48d46aac7e73.pmtiles",
+   "bytes": 276351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-600.48d46aac7e73.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 601,
+   "file": "11-1168-601.9092e3d17d6e.pmtiles",
+   "bytes": 224661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-601.9092e3d17d6e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 602,
+   "file": "11-1168-602.2b28c8e0d39a.pmtiles",
+   "bytes": 282458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-602.2b28c8e0d39a.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 603,
+   "file": "11-1168-603.058821813aed.pmtiles",
+   "bytes": 195130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-603.058821813aed.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 604,
+   "file": "11-1168-604.aa42b8481494.pmtiles",
+   "bytes": 189998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-604.aa42b8481494.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 605,
+   "file": "11-1168-605.ca6754f8801f.pmtiles",
+   "bytes": 120044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-605.ca6754f8801f.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 606,
+   "file": "11-1168-606.a54ee56b3489.pmtiles",
+   "bytes": 27743,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1168-606.a54ee56b3489.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 598,
+   "file": "11-1169-598.5978828d8956.pmtiles",
+   "bytes": 30025,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-598.5978828d8956.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 599,
+   "file": "11-1169-599.5ca169a79851.pmtiles",
+   "bytes": 183384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-599.5ca169a79851.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 600,
+   "file": "11-1169-600.e49b33401454.pmtiles",
+   "bytes": 259627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-600.e49b33401454.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 601,
+   "file": "11-1169-601.a6a0bd771edb.pmtiles",
+   "bytes": 192719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-601.a6a0bd771edb.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 602,
+   "file": "11-1169-602.4354ed9f439d.pmtiles",
+   "bytes": 167445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-602.4354ed9f439d.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 603,
+   "file": "11-1169-603.a74d00c1e28d.pmtiles",
+   "bytes": 146882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-603.a74d00c1e28d.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 604,
+   "file": "11-1169-604.bc831897fd44.pmtiles",
+   "bytes": 172388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-604.bc831897fd44.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 605,
+   "file": "11-1169-605.6147666bfeca.pmtiles",
+   "bytes": 196252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-605.6147666bfeca.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 606,
+   "file": "11-1169-606.2ae81d858e41.pmtiles",
+   "bytes": 62770,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1169-606.2ae81d858e41.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 598,
+   "file": "11-1170-598.f6bad338aa6d.pmtiles",
+   "bytes": 88159,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-598.f6bad338aa6d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 599,
+   "file": "11-1170-599.00c24b7ef40b.pmtiles",
+   "bytes": 261509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-599.00c24b7ef40b.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 600,
+   "file": "11-1170-600.5b73c0ba38d3.pmtiles",
+   "bytes": 231422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-600.5b73c0ba38d3.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 601,
+   "file": "11-1170-601.e5bdf59c66c8.pmtiles",
+   "bytes": 218047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-601.e5bdf59c66c8.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 602,
+   "file": "11-1170-602.136586df31f3.pmtiles",
+   "bytes": 167602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-602.136586df31f3.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 603,
+   "file": "11-1170-603.67a9e508f3f2.pmtiles",
+   "bytes": 221258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-603.67a9e508f3f2.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 604,
+   "file": "11-1170-604.59bdc5d2e336.pmtiles",
+   "bytes": 238680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-604.59bdc5d2e336.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 605,
+   "file": "11-1170-605.753aa57963cf.pmtiles",
+   "bytes": 172820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-605.753aa57963cf.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 606,
+   "file": "11-1170-606.49ee6bbca2b3.pmtiles",
+   "bytes": 48872,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1170-606.49ee6bbca2b3.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 598,
+   "file": "11-1171-598.36f533f9c08b.pmtiles",
+   "bytes": 18682,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-598.36f533f9c08b.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 599,
+   "file": "11-1171-599.18fa9697366a.pmtiles",
+   "bytes": 167569,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-599.18fa9697366a.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 600,
+   "file": "11-1171-600.86055edc251c.pmtiles",
+   "bytes": 171849,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-600.86055edc251c.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 601,
+   "file": "11-1171-601.9acd55e54d9c.pmtiles",
+   "bytes": 123119,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-601.9acd55e54d9c.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 602,
+   "file": "11-1171-602.63c1dbec4918.pmtiles",
+   "bytes": 154517,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-602.63c1dbec4918.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 603,
+   "file": "11-1171-603.f05a9aa88086.pmtiles",
+   "bytes": 259534,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-603.f05a9aa88086.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 604,
+   "file": "11-1171-604.ec5e242c8909.pmtiles",
+   "bytes": 123345,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-604.ec5e242c8909.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 605,
+   "file": "11-1171-605.023130ba68a2.pmtiles",
+   "bytes": 204332,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-605.023130ba68a2.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 606,
+   "file": "11-1171-606.1dfa562b181b.pmtiles",
+   "bytes": 38391,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-harju-2026-10-03/11-1171-606.1dfa562b181b.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,669 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ee-laane-viru",
+ "source": "ee.pmtiles",
+ "builtAt": "2026-10-06T04:39:16.646Z",
+ "publishedAt": "2026-10-06T04:39:38.270Z",
+ "host": "github",
+ "releases": [
+  "maps-ee-laane-viru-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.53639,
+  58.87693,
+  26.96111,
+  59.82202
+ ],
+ "overview": {
+  "file": "overview.e53806d72499.pmtiles",
+  "bytes": 1256164,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/overview.e53806d72499.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1169,
+   "y": 599,
+   "file": "11-1169-599.ca6071c1ad56.pmtiles",
+   "bytes": 147144,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-599.ca6071c1ad56.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 600,
+   "file": "11-1169-600.e9fc019525cd.pmtiles",
+   "bytes": 208369,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-600.e9fc019525cd.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 601,
+   "file": "11-1169-601.6125fe735efe.pmtiles",
+   "bytes": 153637,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-601.6125fe735efe.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 602,
+   "file": "11-1169-602.2b5d35b9ca48.pmtiles",
+   "bytes": 151860,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-602.2b5d35b9ca48.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 603,
+   "file": "11-1169-603.b1fcd6858f46.pmtiles",
+   "bytes": 120085,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-603.b1fcd6858f46.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 604,
+   "file": "11-1169-604.eadf4317d13b.pmtiles",
+   "bytes": 148839,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-604.eadf4317d13b.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 605,
+   "file": "11-1169-605.3112cad661fe.pmtiles",
+   "bytes": 158073,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-605.3112cad661fe.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 606,
+   "file": "11-1169-606.dd984d69239a.pmtiles",
+   "bytes": 245852,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-606.dd984d69239a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 607,
+   "file": "11-1169-607.7ad872d9ab27.pmtiles",
+   "bytes": 310564,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1169-607.7ad872d9ab27.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 598,
+   "file": "11-1170-598.823d835ed868.pmtiles",
+   "bytes": 88875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-598.823d835ed868.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 599,
+   "file": "11-1170-599.00c24b7ef40b.pmtiles",
+   "bytes": 261509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-599.00c24b7ef40b.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 600,
+   "file": "11-1170-600.5b73c0ba38d3.pmtiles",
+   "bytes": 231422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-600.5b73c0ba38d3.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 601,
+   "file": "11-1170-601.e5bdf59c66c8.pmtiles",
+   "bytes": 218047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-601.e5bdf59c66c8.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 602,
+   "file": "11-1170-602.136586df31f3.pmtiles",
+   "bytes": 167602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-602.136586df31f3.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 603,
+   "file": "11-1170-603.67a9e508f3f2.pmtiles",
+   "bytes": 221258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-603.67a9e508f3f2.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 604,
+   "file": "11-1170-604.59bdc5d2e336.pmtiles",
+   "bytes": 238680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-604.59bdc5d2e336.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 605,
+   "file": "11-1170-605.753aa57963cf.pmtiles",
+   "bytes": 172820,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-605.753aa57963cf.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 606,
+   "file": "11-1170-606.7d5faf7da3b7.pmtiles",
+   "bytes": 186596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-606.7d5faf7da3b7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 607,
+   "file": "11-1170-607.416c6a8b978c.pmtiles",
+   "bytes": 188244,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1170-607.416c6a8b978c.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 598,
+   "file": "11-1171-598.04edfd720672.pmtiles",
+   "bytes": 24551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-598.04edfd720672.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 599,
+   "file": "11-1171-599.52dc250af228.pmtiles",
+   "bytes": 223872,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-599.52dc250af228.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 600,
+   "file": "11-1171-600.b2737228e259.pmtiles",
+   "bytes": 213694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-600.b2737228e259.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 601,
+   "file": "11-1171-601.7850c0e45515.pmtiles",
+   "bytes": 162761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-601.7850c0e45515.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 602,
+   "file": "11-1171-602.3c6cc9b81165.pmtiles",
+   "bytes": 196905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-602.3c6cc9b81165.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 603,
+   "file": "11-1171-603.72c50958d0c8.pmtiles",
+   "bytes": 318986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-603.72c50958d0c8.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 604,
+   "file": "11-1171-604.d38bb654f4a0.pmtiles",
+   "bytes": 153657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-604.d38bb654f4a0.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 605,
+   "file": "11-1171-605.387de7753c49.pmtiles",
+   "bytes": 235498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-605.387de7753c49.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 606,
+   "file": "11-1171-606.d065ef18dfc7.pmtiles",
+   "bytes": 184710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-606.d065ef18dfc7.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 607,
+   "file": "11-1171-607.a7e3742de041.pmtiles",
+   "bytes": 59995,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1171-607.a7e3742de041.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 599,
+   "file": "11-1172-599.e2886d665112.pmtiles",
+   "bytes": 193707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-599.e2886d665112.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 600,
+   "file": "11-1172-600.be62a34ed9d2.pmtiles",
+   "bytes": 166165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-600.be62a34ed9d2.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 601,
+   "file": "11-1172-601.01d9c29c6d6e.pmtiles",
+   "bytes": 211154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-601.01d9c29c6d6e.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 602,
+   "file": "11-1172-602.01fc75d4b986.pmtiles",
+   "bytes": 274515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-602.01fc75d4b986.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 603,
+   "file": "11-1172-603.f88011501e72.pmtiles",
+   "bytes": 208747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-603.f88011501e72.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 604,
+   "file": "11-1172-604.70367db24f10.pmtiles",
+   "bytes": 219293,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-604.70367db24f10.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 605,
+   "file": "11-1172-605.2566d6263383.pmtiles",
+   "bytes": 153461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-605.2566d6263383.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 606,
+   "file": "11-1172-606.64878b990333.pmtiles",
+   "bytes": 210905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-606.64878b990333.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 607,
+   "file": "11-1172-607.d375d76b6157.pmtiles",
+   "bytes": 94327,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1172-607.d375d76b6157.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 599,
+   "file": "11-1173-599.912b76d29420.pmtiles",
+   "bytes": 102212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-599.912b76d29420.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 600,
+   "file": "11-1173-600.fc99eb0d3d25.pmtiles",
+   "bytes": 185565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-600.fc99eb0d3d25.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 601,
+   "file": "11-1173-601.f11a3565583d.pmtiles",
+   "bytes": 303882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-601.f11a3565583d.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 602,
+   "file": "11-1173-602.020fb188a2dd.pmtiles",
+   "bytes": 405157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-602.020fb188a2dd.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 603,
+   "file": "11-1173-603.4cb894adb3c2.pmtiles",
+   "bytes": 203996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-603.4cb894adb3c2.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 604,
+   "file": "11-1173-604.2ff21c23ecf4.pmtiles",
+   "bytes": 244728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-604.2ff21c23ecf4.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 605,
+   "file": "11-1173-605.fe65300a0ba8.pmtiles",
+   "bytes": 181734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-605.fe65300a0ba8.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 606,
+   "file": "11-1173-606.149dc3ec5333.pmtiles",
+   "bytes": 203459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-606.149dc3ec5333.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 607,
+   "file": "11-1173-607.d6390ad483c9.pmtiles",
+   "bytes": 95171,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1173-607.d6390ad483c9.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 599,
+   "file": "11-1174-599.031c62f2d78a.pmtiles",
+   "bytes": 39967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-599.031c62f2d78a.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 600,
+   "file": "11-1174-600.de58f12f3757.pmtiles",
+   "bytes": 249562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-600.de58f12f3757.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 601,
+   "file": "11-1174-601.5f1da5fefcbd.pmtiles",
+   "bytes": 288745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-601.5f1da5fefcbd.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 602,
+   "file": "11-1174-602.df881b075a12.pmtiles",
+   "bytes": 375152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-602.df881b075a12.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 603,
+   "file": "11-1174-603.f43409bf9668.pmtiles",
+   "bytes": 159956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-603.f43409bf9668.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 604,
+   "file": "11-1174-604.5cd341e953c5.pmtiles",
+   "bytes": 122468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-604.5cd341e953c5.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 605,
+   "file": "11-1174-605.58755302af51.pmtiles",
+   "bytes": 148490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-605.58755302af51.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 606,
+   "file": "11-1174-606.b7312b615450.pmtiles",
+   "bytes": 124657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-606.b7312b615450.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 607,
+   "file": "11-1174-607.bf76f73f8c3c.pmtiles",
+   "bytes": 49410,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1174-607.bf76f73f8c3c.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 599,
+   "file": "11-1175-599.05a702779222.pmtiles",
+   "bytes": 29197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-599.05a702779222.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 600,
+   "file": "11-1175-600.b30d79b8fee2.pmtiles",
+   "bytes": 179075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-600.b30d79b8fee2.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 601,
+   "file": "11-1175-601.d6aea3bb9a1d.pmtiles",
+   "bytes": 176297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-601.d6aea3bb9a1d.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 602,
+   "file": "11-1175-602.297212782d1b.pmtiles",
+   "bytes": 189392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-602.297212782d1b.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 603,
+   "file": "11-1175-603.ad95f0f3c187.pmtiles",
+   "bytes": 152691,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-603.ad95f0f3c187.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 604,
+   "file": "11-1175-604.70356f4aba20.pmtiles",
+   "bytes": 168866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-604.70356f4aba20.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 605,
+   "file": "11-1175-605.814a6b602d5f.pmtiles",
+   "bytes": 136087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-605.814a6b602d5f.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 606,
+   "file": "11-1175-606.b2b5011e48f3.pmtiles",
+   "bytes": 71705,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-606.b2b5011e48f3.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 607,
+   "file": "11-1175-607.2501356e66ec.pmtiles",
+   "bytes": 77503,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1175-607.2501356e66ec.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 600,
+   "file": "11-1176-600.94a8c447b034.pmtiles",
+   "bytes": 146232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-600.94a8c447b034.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 601,
+   "file": "11-1176-601.80c9dcb271e2.pmtiles",
+   "bytes": 171798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-601.80c9dcb271e2.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 602,
+   "file": "11-1176-602.a6f709562ff4.pmtiles",
+   "bytes": 133196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-602.a6f709562ff4.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 603,
+   "file": "11-1176-603.1de181f56f7a.pmtiles",
+   "bytes": 189105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-603.1de181f56f7a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 604,
+   "file": "11-1176-604.75f5c056d911.pmtiles",
+   "bytes": 89378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-604.75f5c056d911.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 605,
+   "file": "11-1176-605.5bc3f25cbf4a.pmtiles",
+   "bytes": 71389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-605.5bc3f25cbf4a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 606,
+   "file": "11-1176-606.f506c9e6ca3f.pmtiles",
+   "bytes": 195855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-606.f506c9e6ca3f.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 607,
+   "file": "11-1176-607.e3eda3605bcd.pmtiles",
+   "bytes": 53311,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1176-607.e3eda3605bcd.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 601,
+   "file": "11-1177-601.e5e9bc8cb271.pmtiles",
+   "bytes": 126629,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-601.e5e9bc8cb271.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 602,
+   "file": "11-1177-602.4a667fbb37e8.pmtiles",
+   "bytes": 104358,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-602.4a667fbb37e8.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 603,
+   "file": "11-1177-603.7d7f20a8836a.pmtiles",
+   "bytes": 34585,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-603.7d7f20a8836a.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 604,
+   "file": "11-1177-604.bd07a299df22.pmtiles",
+   "bytes": 45389,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-604.bd07a299df22.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 605,
+   "file": "11-1177-605.530709e664db.pmtiles",
+   "bytes": 62529,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-605.530709e664db.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 606,
+   "file": "11-1177-606.a0a663065c51.pmtiles",
+   "bytes": 77545,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-606.a0a663065c51.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 607,
+   "file": "11-1177-607.5c2cc1aad450.pmtiles",
+   "bytes": 39860,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-laane-viru-2026-10-03/11-1177-607.5c2cc1aad450.pmtiles"
+  }
+ ]
+}

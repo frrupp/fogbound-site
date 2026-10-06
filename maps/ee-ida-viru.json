@@ -1,0 +1,445 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ee-ida-viru",
+ "source": "ee.pmtiles",
+ "builtAt": "2026-10-06T04:37:53.063Z",
+ "publishedAt": "2026-10-06T04:38:07.683Z",
+ "host": "github",
+ "releases": [
+  "maps-ee-ida-viru-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  26.70233,
+  58.97231,
+  28.20904,
+  59.4701
+ ],
+ "overview": {
+  "file": "overview.466b7354edd6.pmtiles",
+  "bytes": 933414,
+  "tiles": 43,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/overview.466b7354edd6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1175,
+   "y": 600,
+   "file": "11-1175-600.5e9582d585b8.pmtiles",
+   "bytes": 38102,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-600.5e9582d585b8.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 601,
+   "file": "11-1175-601.7d007c6b8d22.pmtiles",
+   "bytes": 47119,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-601.7d007c6b8d22.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 602,
+   "file": "11-1175-602.89544009b632.pmtiles",
+   "bytes": 40910,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-602.89544009b632.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 603,
+   "file": "11-1175-603.a21a66fb4278.pmtiles",
+   "bytes": 35709,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-603.a21a66fb4278.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 604,
+   "file": "11-1175-604.9ade1f769024.pmtiles",
+   "bytes": 33532,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-604.9ade1f769024.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 605,
+   "file": "11-1175-605.ef3944bca670.pmtiles",
+   "bytes": 37132,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1175-605.ef3944bca670.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 600,
+   "file": "11-1176-600.d07b3cc844a1.pmtiles",
+   "bytes": 111806,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-600.d07b3cc844a1.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 601,
+   "file": "11-1176-601.80c9dcb271e2.pmtiles",
+   "bytes": 171798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-601.80c9dcb271e2.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 602,
+   "file": "11-1176-602.a6f709562ff4.pmtiles",
+   "bytes": 133196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-602.a6f709562ff4.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 603,
+   "file": "11-1176-603.1de181f56f7a.pmtiles",
+   "bytes": 189105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-603.1de181f56f7a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 604,
+   "file": "11-1176-604.75f5c056d911.pmtiles",
+   "bytes": 89378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-604.75f5c056d911.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 605,
+   "file": "11-1176-605.5bc3f25cbf4a.pmtiles",
+   "bytes": 71389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-605.5bc3f25cbf4a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 606,
+   "file": "11-1176-606.02868ae13348.pmtiles",
+   "bytes": 114969,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1176-606.02868ae13348.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 601,
+   "file": "11-1177-601.62667e30435b.pmtiles",
+   "bytes": 312186,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-601.62667e30435b.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 602,
+   "file": "11-1177-602.78887deac56b.pmtiles",
+   "bytes": 230130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-602.78887deac56b.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 603,
+   "file": "11-1177-603.e191b6aed90e.pmtiles",
+   "bytes": 74766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-603.e191b6aed90e.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 604,
+   "file": "11-1177-604.b1476c0ffedd.pmtiles",
+   "bytes": 100603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-604.b1476c0ffedd.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 605,
+   "file": "11-1177-605.c5bd60554e4d.pmtiles",
+   "bytes": 134924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-605.c5bd60554e4d.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 606,
+   "file": "11-1177-606.f82d78098fa4.pmtiles",
+   "bytes": 71234,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1177-606.f82d78098fa4.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 601,
+   "file": "11-1178-601.c41a5647e23f.pmtiles",
+   "bytes": 203723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-601.c41a5647e23f.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 602,
+   "file": "11-1178-602.d8b2f09815a2.pmtiles",
+   "bytes": 179640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-602.d8b2f09815a2.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 603,
+   "file": "11-1178-603.7e9cf8120418.pmtiles",
+   "bytes": 116081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-603.7e9cf8120418.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 604,
+   "file": "11-1178-604.f56961463e9d.pmtiles",
+   "bytes": 250281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-604.f56961463e9d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 605,
+   "file": "11-1178-605.82d35224510d.pmtiles",
+   "bytes": 149458,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-605.82d35224510d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 606,
+   "file": "11-1178-606.3b9b8aba5d8f.pmtiles",
+   "bytes": 62455,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1178-606.3b9b8aba5d8f.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 601,
+   "file": "11-1179-601.a1482c87a263.pmtiles",
+   "bytes": 421866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1179-601.a1482c87a263.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 602,
+   "file": "11-1179-602.95c7cae4d3d7.pmtiles",
+   "bytes": 285199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1179-602.95c7cae4d3d7.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 603,
+   "file": "11-1179-603.916c9ea7e991.pmtiles",
+   "bytes": 150123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1179-603.916c9ea7e991.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 604,
+   "file": "11-1179-604.41c15b8617c8.pmtiles",
+   "bytes": 167128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1179-604.41c15b8617c8.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 605,
+   "file": "11-1179-605.45193cdee47b.pmtiles",
+   "bytes": 161679,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1179-605.45193cdee47b.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 601,
+   "file": "11-1180-601.9acca4b30bf5.pmtiles",
+   "bytes": 267096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1180-601.9acca4b30bf5.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 602,
+   "file": "11-1180-602.a3e4ad398a1f.pmtiles",
+   "bytes": 206333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1180-602.a3e4ad398a1f.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 603,
+   "file": "11-1180-603.a33c5c28d279.pmtiles",
+   "bytes": 174180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1180-603.a33c5c28d279.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 604,
+   "file": "11-1180-604.d21fe152adae.pmtiles",
+   "bytes": 84842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1180-604.d21fe152adae.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 605,
+   "file": "11-1180-605.a44e1e8008f6.pmtiles",
+   "bytes": 117215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1180-605.a44e1e8008f6.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 601,
+   "file": "11-1181-601.e265aa05974f.pmtiles",
+   "bytes": 220380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-601.e265aa05974f.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 602,
+   "file": "11-1181-602.a27047a1c730.pmtiles",
+   "bytes": 93111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-602.a27047a1c730.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 603,
+   "file": "11-1181-603.85b4ea5e5d44.pmtiles",
+   "bytes": 57502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-603.85b4ea5e5d44.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 604,
+   "file": "11-1181-604.c0451c3c7e07.pmtiles",
+   "bytes": 73162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-604.c0451c3c7e07.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 605,
+   "file": "11-1181-605.aa5217d53a53.pmtiles",
+   "bytes": 141392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-605.aa5217d53a53.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 606,
+   "file": "11-1181-606.1f71c29dd8ab.pmtiles",
+   "bytes": 23234,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1181-606.1f71c29dd8ab.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 601,
+   "file": "11-1182-601.ad9c61828325.pmtiles",
+   "bytes": 168308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1182-601.ad9c61828325.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 602,
+   "file": "11-1182-602.0ac9f7cfcb64.pmtiles",
+   "bytes": 115489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1182-602.0ac9f7cfcb64.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 603,
+   "file": "11-1182-603.2b097f761adc.pmtiles",
+   "bytes": 94113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1182-603.2b097f761adc.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 604,
+   "file": "11-1182-604.f017b70c23ce.pmtiles",
+   "bytes": 84834,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1182-604.f017b70c23ce.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 605,
+   "file": "11-1182-605.dd731893314c.pmtiles",
+   "bytes": 35886,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1182-605.dd731893314c.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 600,
+   "file": "11-1183-600.ef8a7ba8f545.pmtiles",
+   "bytes": 108807,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1183-600.ef8a7ba8f545.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 601,
+   "file": "11-1183-601.3905be0553fe.pmtiles",
+   "bytes": 342686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1183-601.3905be0553fe.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 602,
+   "file": "11-1183-602.67a44663abc0.pmtiles",
+   "bytes": 164221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1183-602.67a44663abc0.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 603,
+   "file": "11-1183-603.caaa36faed76.pmtiles",
+   "bytes": 50613,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1183-603.caaa36faed76.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 601,
+   "file": "11-1184-601.322f9a4726be.pmtiles",
+   "bytes": 501755,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1184-601.322f9a4726be.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 602,
+   "file": "11-1184-602.a98b6a1e430b.pmtiles",
+   "bytes": 100853,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-ida-viru-2026-10-03/11-1184-602.a98b6a1e430b.pmtiles"
+  }
+ ]
+}

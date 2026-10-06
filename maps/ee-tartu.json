@@ -1,0 +1,621 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ee-tartu",
+ "source": "ee.pmtiles",
+ "builtAt": "2026-10-06T04:38:56.270Z",
+ "publishedAt": "2026-10-06T04:39:16.512Z",
+ "host": "github",
+ "releases": [
+  "maps-ee-tartu-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  26.05202,
+  58.02768,
+  27.53427,
+  58.77028
+ ],
+ "overview": {
+  "file": "overview.a2e4c1e4c1b5.pmtiles",
+  "bytes": 1806580,
+  "tiles": 46,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/overview.a2e4c1e4c1b5.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1172,
+   "y": 608,
+   "file": "11-1172-608.9b352a2b6dcd.pmtiles",
+   "bytes": 111707,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-608.9b352a2b6dcd.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 609,
+   "file": "11-1172-609.59e0fbddf79b.pmtiles",
+   "bytes": 172233,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-609.59e0fbddf79b.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 610,
+   "file": "11-1172-610.06d0ade313ae.pmtiles",
+   "bytes": 129033,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-610.06d0ade313ae.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 611,
+   "file": "11-1172-611.f3f14bcb5cb5.pmtiles",
+   "bytes": 152560,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-611.f3f14bcb5cb5.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 612,
+   "file": "11-1172-612.1dff37dab3f6.pmtiles",
+   "bytes": 129880,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-612.1dff37dab3f6.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 613,
+   "file": "11-1172-613.f7b1d7cb989d.pmtiles",
+   "bytes": 82204,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-613.f7b1d7cb989d.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 614,
+   "file": "11-1172-614.14789a98e5d0.pmtiles",
+   "bytes": 134833,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-614.14789a98e5d0.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 615,
+   "file": "11-1172-615.6416bfbc7129.pmtiles",
+   "bytes": 192131,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-615.6416bfbc7129.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 616,
+   "file": "11-1172-616.aae925d35614.pmtiles",
+   "bytes": 127403,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1172-616.aae925d35614.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 608,
+   "file": "11-1173-608.20fb1cc4d6c1.pmtiles",
+   "bytes": 151300,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-608.20fb1cc4d6c1.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 609,
+   "file": "11-1173-609.a3958001b459.pmtiles",
+   "bytes": 156160,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-609.a3958001b459.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 610,
+   "file": "11-1173-610.abd6d37ca11b.pmtiles",
+   "bytes": 233486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-610.abd6d37ca11b.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 611,
+   "file": "11-1173-611.58f4ac4311b1.pmtiles",
+   "bytes": 159207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-611.58f4ac4311b1.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 612,
+   "file": "11-1173-612.d5794da79007.pmtiles",
+   "bytes": 158278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-612.d5794da79007.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 613,
+   "file": "11-1173-613.a2a5468c5bfb.pmtiles",
+   "bytes": 242725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-613.a2a5468c5bfb.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 614,
+   "file": "11-1173-614.6c9da2eb8929.pmtiles",
+   "bytes": 308567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-614.6c9da2eb8929.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 615,
+   "file": "11-1173-615.ac8db234fff9.pmtiles",
+   "bytes": 287766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-615.ac8db234fff9.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 616,
+   "file": "11-1173-616.6e469a6f23e7.pmtiles",
+   "bytes": 217031,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1173-616.6e469a6f23e7.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 608,
+   "file": "11-1174-608.37c67c305c14.pmtiles",
+   "bytes": 246313,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-608.37c67c305c14.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 609,
+   "file": "11-1174-609.e89e65d5c0f5.pmtiles",
+   "bytes": 188380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-609.e89e65d5c0f5.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 610,
+   "file": "11-1174-610.0708805612f1.pmtiles",
+   "bytes": 126911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-610.0708805612f1.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 611,
+   "file": "11-1174-611.d6fcc8980df0.pmtiles",
+   "bytes": 148396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-611.d6fcc8980df0.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 612,
+   "file": "11-1174-612.8fa50d96151f.pmtiles",
+   "bytes": 218804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-612.8fa50d96151f.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 613,
+   "file": "11-1174-613.a065f0021edf.pmtiles",
+   "bytes": 352326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-613.a065f0021edf.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 614,
+   "file": "11-1174-614.29785883f9a4.pmtiles",
+   "bytes": 543096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-614.29785883f9a4.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 615,
+   "file": "11-1174-615.f44aaddb396b.pmtiles",
+   "bytes": 306559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-615.f44aaddb396b.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 616,
+   "file": "11-1174-616.4e75baef4cb9.pmtiles",
+   "bytes": 353411,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1174-616.4e75baef4cb9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 608,
+   "file": "11-1175-608.eecd126a2d94.pmtiles",
+   "bytes": 140883,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-608.eecd126a2d94.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 609,
+   "file": "11-1175-609.5589f9dea714.pmtiles",
+   "bytes": 308771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-609.5589f9dea714.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 610,
+   "file": "11-1175-610.aa67a4bfb76a.pmtiles",
+   "bytes": 534956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-610.aa67a4bfb76a.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 611,
+   "file": "11-1175-611.792503075523.pmtiles",
+   "bytes": 359315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-611.792503075523.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 612,
+   "file": "11-1175-612.9f7d5191f663.pmtiles",
+   "bytes": 932058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-612.9f7d5191f663.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 613,
+   "file": "11-1175-613.c49c58e27e00.pmtiles",
+   "bytes": 643124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-613.c49c58e27e00.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 614,
+   "file": "11-1175-614.019c569be86f.pmtiles",
+   "bytes": 389467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-614.019c569be86f.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 615,
+   "file": "11-1175-615.65ad15589d88.pmtiles",
+   "bytes": 374479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-615.65ad15589d88.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 616,
+   "file": "11-1175-616.e1d367e367e8.pmtiles",
+   "bytes": 224554,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1175-616.e1d367e367e8.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 608,
+   "file": "11-1176-608.b8dd7e56533a.pmtiles",
+   "bytes": 144086,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-608.b8dd7e56533a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 609,
+   "file": "11-1176-609.dbbe7ec9192e.pmtiles",
+   "bytes": 278996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-609.dbbe7ec9192e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 610,
+   "file": "11-1176-610.268d6a9a8abb.pmtiles",
+   "bytes": 217454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-610.268d6a9a8abb.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 611,
+   "file": "11-1176-611.8298f567dbe5.pmtiles",
+   "bytes": 279519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-611.8298f567dbe5.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 612,
+   "file": "11-1176-612.7da537ee9c09.pmtiles",
+   "bytes": 1065992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-612.7da537ee9c09.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 613,
+   "file": "11-1176-613.f161a168fe0a.pmtiles",
+   "bytes": 590611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-613.f161a168fe0a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 614,
+   "file": "11-1176-614.77ee3be40302.pmtiles",
+   "bytes": 296981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-614.77ee3be40302.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 615,
+   "file": "11-1176-615.cffd9828b7f7.pmtiles",
+   "bytes": 285636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-615.cffd9828b7f7.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 616,
+   "file": "11-1176-616.0c1b15c19597.pmtiles",
+   "bytes": 225582,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1176-616.0c1b15c19597.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 608,
+   "file": "11-1177-608.8b594e74bb77.pmtiles",
+   "bytes": 129247,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-608.8b594e74bb77.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 609,
+   "file": "11-1177-609.1ae9e7d5ecad.pmtiles",
+   "bytes": 216104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-609.1ae9e7d5ecad.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 610,
+   "file": "11-1177-610.d728d2f50a9e.pmtiles",
+   "bytes": 156139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-610.d728d2f50a9e.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 611,
+   "file": "11-1177-611.4bb3d3560b25.pmtiles",
+   "bytes": 202088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-611.4bb3d3560b25.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 612,
+   "file": "11-1177-612.b4c027673eb0.pmtiles",
+   "bytes": 262071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-612.b4c027673eb0.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 613,
+   "file": "11-1177-613.787df80521a7.pmtiles",
+   "bytes": 322582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-613.787df80521a7.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 614,
+   "file": "11-1177-614.ed7266d8994f.pmtiles",
+   "bytes": 256937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-614.ed7266d8994f.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 615,
+   "file": "11-1177-615.7af19c09046a.pmtiles",
+   "bytes": 340627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-615.7af19c09046a.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 616,
+   "file": "11-1177-616.3225b788a4fa.pmtiles",
+   "bytes": 299000,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1177-616.3225b788a4fa.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 608,
+   "file": "11-1178-608.2ba8ec6e86a7.pmtiles",
+   "bytes": 27455,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-608.2ba8ec6e86a7.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 609,
+   "file": "11-1178-609.69467c2608ed.pmtiles",
+   "bytes": 161393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-609.69467c2608ed.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 610,
+   "file": "11-1178-610.0823689d48c5.pmtiles",
+   "bytes": 244493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-610.0823689d48c5.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 611,
+   "file": "11-1178-611.33f2b37ad72c.pmtiles",
+   "bytes": 209572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-611.33f2b37ad72c.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 612,
+   "file": "11-1178-612.15c6c16cce0d.pmtiles",
+   "bytes": 153050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-612.15c6c16cce0d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 613,
+   "file": "11-1178-613.1b51856fd3c9.pmtiles",
+   "bytes": 174193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-613.1b51856fd3c9.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 614,
+   "file": "11-1178-614.bd5e57600b1a.pmtiles",
+   "bytes": 222701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-614.bd5e57600b1a.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 615,
+   "file": "11-1178-615.19380ced6c42.pmtiles",
+   "bytes": 285329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-615.19380ced6c42.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 616,
+   "file": "11-1178-616.89346c33d004.pmtiles",
+   "bytes": 236106,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1178-616.89346c33d004.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 611,
+   "file": "11-1179-611.7a9098069170.pmtiles",
+   "bytes": 16247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-611.7a9098069170.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 612,
+   "file": "11-1179-612.704513c80240.pmtiles",
+   "bytes": 98553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-612.704513c80240.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 613,
+   "file": "11-1179-613.d6bb5d04dba6.pmtiles",
+   "bytes": 156090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-613.d6bb5d04dba6.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 614,
+   "file": "11-1179-614.f3e43484f15e.pmtiles",
+   "bytes": 182536,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-614.f3e43484f15e.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 615,
+   "file": "11-1179-615.651b3c53afc1.pmtiles",
+   "bytes": 199661,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-615.651b3c53afc1.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 616,
+   "file": "11-1179-616.80e14b62059c.pmtiles",
+   "bytes": 203138,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1179-616.80e14b62059c.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 612,
+   "file": "11-1180-612.2974d2a34f47.pmtiles",
+   "bytes": 66931,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1180-612.2974d2a34f47.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 613,
+   "file": "11-1180-613.679747a64d4c.pmtiles",
+   "bytes": 41642,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1180-613.679747a64d4c.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 614,
+   "file": "11-1180-614.9eede41e1af3.pmtiles",
+   "bytes": 135151,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1180-614.9eede41e1af3.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 615,
+   "file": "11-1180-615.3b2685c4413a.pmtiles",
+   "bytes": 249665,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1180-615.3b2685c4413a.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 616,
+   "file": "11-1180-616.79d29c08d473.pmtiles",
+   "bytes": 142581,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ee-tartu-2026-10-03/11-1180-616.79d29c08d473.pmtiles"
+  }
+ ]
+}
