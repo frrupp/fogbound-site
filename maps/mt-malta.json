@@ -1,0 +1,85 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "mt-malta",
+ "source": "mt.pmtiles",
+ "builtAt": "2026-10-06T07:00:29.670Z",
+ "publishedAt": "2026-10-06T07:00:34.121Z",
+ "host": "github",
+ "releases": [
+  "maps-mt-malta-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  14.18347,
+  35.78634,
+  14.57649,
+  36.08215
+ ],
+ "overview": {
+  "file": "overview.d6a126e3281b.pmtiles",
+  "bytes": 142487,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/overview.d6a126e3281b.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1104,
+   "y": 803,
+   "file": "11-1104-803.d2afab27f38e.pmtiles",
+   "bytes": 351434,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1104-803.d2afab27f38e.pmtiles"
+  },
+  {
+   "x": 1104,
+   "y": 804,
+   "file": "11-1104-804.5634ce5fad91.pmtiles",
+   "bytes": 49749,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1104-804.5634ce5fad91.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 803,
+   "file": "11-1105-803.ed001095245a.pmtiles",
+   "bytes": 463051,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1105-803.ed001095245a.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 804,
+   "file": "11-1105-804.a97df19f14a5.pmtiles",
+   "bytes": 915029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1105-804.a97df19f14a5.pmtiles"
+  },
+  {
+   "x": 1105,
+   "y": 805,
+   "file": "11-1105-805.729ad9b1fb71.pmtiles",
+   "bytes": 290639,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1105-805.729ad9b1fb71.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 804,
+   "file": "11-1106-804.ec2a0d93fb19.pmtiles",
+   "bytes": 1575619,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1106-804.ec2a0d93fb19.pmtiles"
+  },
+  {
+   "x": 1106,
+   "y": 805,
+   "file": "11-1106-805.80b81ef331bc.pmtiles",
+   "bytes": 1837985,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mt-malta-2026-10-03/11-1106-805.80b81ef331bc.pmtiles"
+  }
+ ]
+}
