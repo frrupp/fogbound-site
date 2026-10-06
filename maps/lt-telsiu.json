@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "lt-telsiu",
+ "source": "lt.pmtiles",
+ "builtAt": "2026-10-06T05:46:15.749Z",
+ "publishedAt": "2026-10-06T05:46:34.974Z",
+ "host": "github",
+ "releases": [
+  "maps-lt-telsiu-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  21.51201,
+  55.59695,
+  22.73773,
+  56.43235
+ ],
+ "overview": {
+  "file": "overview.0020171b45c4.pmtiles",
+  "bytes": 1816933,
+  "tiles": 53,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/overview.0020171b45c4.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1146,
+   "y": 634,
+   "file": "11-1146-634.9dc0a8be9813.pmtiles",
+   "bytes": 248328,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-634.9dc0a8be9813.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 635,
+   "file": "11-1146-635.b05d343b29eb.pmtiles",
+   "bytes": 272791,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-635.b05d343b29eb.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 636,
+   "file": "11-1146-636.6c1cf63f4538.pmtiles",
+   "bytes": 230505,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-636.6c1cf63f4538.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 637,
+   "file": "11-1146-637.a5794b9cf160.pmtiles",
+   "bytes": 258584,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-637.a5794b9cf160.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 638,
+   "file": "11-1146-638.d2b2dc14985e.pmtiles",
+   "bytes": 227538,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-638.d2b2dc14985e.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 639,
+   "file": "11-1146-639.63ba6a6b0e91.pmtiles",
+   "bytes": 118207,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-639.63ba6a6b0e91.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 640,
+   "file": "11-1146-640.d52006c527a2.pmtiles",
+   "bytes": 192939,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-640.d52006c527a2.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 641,
+   "file": "11-1146-641.ded33f8f064f.pmtiles",
+   "bytes": 228640,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1146-641.ded33f8f064f.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 634,
+   "file": "11-1147-634.bbeff0431f9c.pmtiles",
+   "bytes": 284205,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-634.bbeff0431f9c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 635,
+   "file": "11-1147-635.5b528ac69fbb.pmtiles",
+   "bytes": 287374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-635.5b528ac69fbb.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 636,
+   "file": "11-1147-636.a42d93adba2f.pmtiles",
+   "bytes": 282375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-636.a42d93adba2f.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 637,
+   "file": "11-1147-637.1ba5a39b4b3b.pmtiles",
+   "bytes": 352731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-637.1ba5a39b4b3b.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 638,
+   "file": "11-1147-638.4e5c8df6dc65.pmtiles",
+   "bytes": 442172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-638.4e5c8df6dc65.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 639,
+   "file": "11-1147-639.2aceb242ae80.pmtiles",
+   "bytes": 278796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-639.2aceb242ae80.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 640,
+   "file": "11-1147-640.244c515a1b67.pmtiles",
+   "bytes": 266162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-640.244c515a1b67.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 641,
+   "file": "11-1147-641.9638a7ce9006.pmtiles",
+   "bytes": 201767,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1147-641.9638a7ce9006.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 633,
+   "file": "11-1148-633.13a3350dbf10.pmtiles",
+   "bytes": 48496,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-633.13a3350dbf10.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 634,
+   "file": "11-1148-634.e587beab753e.pmtiles",
+   "bytes": 312882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-634.e587beab753e.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 635,
+   "file": "11-1148-635.3051ddd5c38e.pmtiles",
+   "bytes": 247609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-635.3051ddd5c38e.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 636,
+   "file": "11-1148-636.385078bea66d.pmtiles",
+   "bytes": 433653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-636.385078bea66d.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 637,
+   "file": "11-1148-637.d1b2dc5194a9.pmtiles",
+   "bytes": 559518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-637.d1b2dc5194a9.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 638,
+   "file": "11-1148-638.d832609f6e71.pmtiles",
+   "bytes": 718237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-638.d832609f6e71.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 639,
+   "file": "11-1148-639.6d37b4cc58c6.pmtiles",
+   "bytes": 246581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-639.6d37b4cc58c6.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 640,
+   "file": "11-1148-640.a6b1cd99b794.pmtiles",
+   "bytes": 325590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-640.a6b1cd99b794.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 641,
+   "file": "11-1148-641.b7cf8814cd21.pmtiles",
+   "bytes": 203456,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1148-641.b7cf8814cd21.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 633,
+   "file": "11-1149-633.012c8fa6669c.pmtiles",
+   "bytes": 148008,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-633.012c8fa6669c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 634,
+   "file": "11-1149-634.bff924638834.pmtiles",
+   "bytes": 247334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-634.bff924638834.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 635,
+   "file": "11-1149-635.3e1fc65bc47b.pmtiles",
+   "bytes": 282996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-635.3e1fc65bc47b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 636,
+   "file": "11-1149-636.fef723b136de.pmtiles",
+   "bytes": 390749,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-636.fef723b136de.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 637,
+   "file": "11-1149-637.feac408e1881.pmtiles",
+   "bytes": 385800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-637.feac408e1881.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 638,
+   "file": "11-1149-638.cefcfbe80690.pmtiles",
+   "bytes": 329214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-638.cefcfbe80690.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 639,
+   "file": "11-1149-639.48901884578c.pmtiles",
+   "bytes": 231703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-639.48901884578c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 640,
+   "file": "11-1149-640.a60feee21477.pmtiles",
+   "bytes": 188093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-640.a60feee21477.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 641,
+   "file": "11-1149-641.4558449f01ba.pmtiles",
+   "bytes": 195300,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1149-641.4558449f01ba.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 633,
+   "file": "11-1150-633.7c8a1fad6363.pmtiles",
+   "bytes": 188638,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-633.7c8a1fad6363.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 634,
+   "file": "11-1150-634.d7bf4fa3ca40.pmtiles",
+   "bytes": 417105,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-634.d7bf4fa3ca40.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 635,
+   "file": "11-1150-635.7f1e65f984d8.pmtiles",
+   "bytes": 288471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-635.7f1e65f984d8.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 636,
+   "file": "11-1150-636.ac6f8a510285.pmtiles",
+   "bytes": 244321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-636.ac6f8a510285.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 637,
+   "file": "11-1150-637.7fa881dbeb1c.pmtiles",
+   "bytes": 588529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-637.7fa881dbeb1c.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 638,
+   "file": "11-1150-638.65bd3df50f75.pmtiles",
+   "bytes": 541786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-638.65bd3df50f75.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 639,
+   "file": "11-1150-639.018e4d950cdc.pmtiles",
+   "bytes": 287068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-639.018e4d950cdc.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 640,
+   "file": "11-1150-640.9f376cb65ca9.pmtiles",
+   "bytes": 300352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-640.9f376cb65ca9.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 641,
+   "file": "11-1150-641.28c288cd4426.pmtiles",
+   "bytes": 409495,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1150-641.28c288cd4426.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 633,
+   "file": "11-1151-633.00965ac7d632.pmtiles",
+   "bytes": 110407,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-633.00965ac7d632.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 634,
+   "file": "11-1151-634.d05f40def8dd.pmtiles",
+   "bytes": 488651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-634.d05f40def8dd.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 635,
+   "file": "11-1151-635.6f0af8514992.pmtiles",
+   "bytes": 229507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-635.6f0af8514992.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 636,
+   "file": "11-1151-636.1718013eadd5.pmtiles",
+   "bytes": 186646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-636.1718013eadd5.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 637,
+   "file": "11-1151-637.a157b1114f96.pmtiles",
+   "bytes": 246487,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-637.a157b1114f96.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 638,
+   "file": "11-1151-638.3e5b3470fb4f.pmtiles",
+   "bytes": 371422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-638.3e5b3470fb4f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 639,
+   "file": "11-1151-639.b91751379e41.pmtiles",
+   "bytes": 395881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-639.b91751379e41.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 640,
+   "file": "11-1151-640.ee2057748a5a.pmtiles",
+   "bytes": 383232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-640.ee2057748a5a.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 641,
+   "file": "11-1151-641.cc360876c70f.pmtiles",
+   "bytes": 309795,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1151-641.cc360876c70f.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 633,
+   "file": "11-1152-633.3f3deee25c09.pmtiles",
+   "bytes": 87959,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-633.3f3deee25c09.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 634,
+   "file": "11-1152-634.1213f9603507.pmtiles",
+   "bytes": 129806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-634.1213f9603507.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 635,
+   "file": "11-1152-635.ccc863c5b867.pmtiles",
+   "bytes": 339360,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-635.ccc863c5b867.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 636,
+   "file": "11-1152-636.9e362741dcf3.pmtiles",
+   "bytes": 214257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-636.9e362741dcf3.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 637,
+   "file": "11-1152-637.82db83f05be1.pmtiles",
+   "bytes": 289588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-637.82db83f05be1.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 638,
+   "file": "11-1152-638.d7b797360649.pmtiles",
+   "bytes": 283871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-638.d7b797360649.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 639,
+   "file": "11-1152-639.8d0a156c3040.pmtiles",
+   "bytes": 350058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-639.8d0a156c3040.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 640,
+   "file": "11-1152-640.ae632c1e3c10.pmtiles",
+   "bytes": 365166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-640.ae632c1e3c10.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 641,
+   "file": "11-1152-641.48ca9ab03ee7.pmtiles",
+   "bytes": 391614,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1152-641.48ca9ab03ee7.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 634,
+   "file": "11-1153-634.ec422edf55e2.pmtiles",
+   "bytes": 79210,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-634.ec422edf55e2.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 635,
+   "file": "11-1153-635.1bbf490db428.pmtiles",
+   "bytes": 185635,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-635.1bbf490db428.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 636,
+   "file": "11-1153-636.8f703aa61a77.pmtiles",
+   "bytes": 71502,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-636.8f703aa61a77.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 637,
+   "file": "11-1153-637.3ef6c4bbab95.pmtiles",
+   "bytes": 91882,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-637.3ef6c4bbab95.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 638,
+   "file": "11-1153-638.da7e10789df3.pmtiles",
+   "bytes": 50364,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-638.da7e10789df3.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 639,
+   "file": "11-1153-639.5fb683ef783c.pmtiles",
+   "bytes": 82163,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-639.5fb683ef783c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 640,
+   "file": "11-1153-640.b05be02f1a7a.pmtiles",
+   "bytes": 118831,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-640.b05be02f1a7a.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 641,
+   "file": "11-1153-641.8ea2e1699bf8.pmtiles",
+   "bytes": 186507,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-telsiu-2026-10-03/11-1153-641.8ea2e1699bf8.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,1357 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "lt-vilniaus",
+ "source": "lt.pmtiles",
+ "builtAt": "2026-10-06T05:50:21.161Z",
+ "publishedAt": "2026-10-06T05:51:05.414Z",
+ "host": "github",
+ "releases": [
+  "maps-lt-vilniaus-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  24.38666,
+  54.12765,
+  26.75936,
+  55.51778
+ ],
+ "overview": {
+  "file": "overview.9a7fe67aa7cb.pmtiles",
+  "bytes": 4063869,
+  "tiles": 99,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/overview.9a7fe67aa7cb.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1162,
+   "y": 642,
+   "file": "11-1162-642.0755039c0cb7.pmtiles",
+   "bytes": 74328,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-642.0755039c0cb7.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 643,
+   "file": "11-1162-643.11c4fc41ebba.pmtiles",
+   "bytes": 118446,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-643.11c4fc41ebba.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 644,
+   "file": "11-1162-644.5d734cf9979e.pmtiles",
+   "bytes": 140630,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-644.5d734cf9979e.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 645,
+   "file": "11-1162-645.e177e7d3c7c2.pmtiles",
+   "bytes": 172435,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-645.e177e7d3c7c2.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 646,
+   "file": "11-1162-646.b74a9b08f3af.pmtiles",
+   "bytes": 221411,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-646.b74a9b08f3af.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 647,
+   "file": "11-1162-647.d9f568b0aa9e.pmtiles",
+   "bytes": 153458,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-647.d9f568b0aa9e.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 648,
+   "file": "11-1162-648.8a5b2146a629.pmtiles",
+   "bytes": 132549,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-648.8a5b2146a629.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 649,
+   "file": "11-1162-649.46c728b2e679.pmtiles",
+   "bytes": 283107,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-649.46c728b2e679.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 650,
+   "file": "11-1162-650.778afda29390.pmtiles",
+   "bytes": 216310,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-650.778afda29390.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 651,
+   "file": "11-1162-651.d468f1e7fb85.pmtiles",
+   "bytes": 277832,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-651.d468f1e7fb85.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 652,
+   "file": "11-1162-652.46ba9a2f6be9.pmtiles",
+   "bytes": 303304,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-652.46ba9a2f6be9.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 653,
+   "file": "11-1162-653.07487a10f749.pmtiles",
+   "bytes": 247125,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-653.07487a10f749.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 654,
+   "file": "11-1162-654.32ad7364d914.pmtiles",
+   "bytes": 232521,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-654.32ad7364d914.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 655,
+   "file": "11-1162-655.ff10788cc785.pmtiles",
+   "bytes": 143590,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-655.ff10788cc785.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 656,
+   "file": "11-1162-656.0f1c535a785f.pmtiles",
+   "bytes": 66536,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1162-656.0f1c535a785f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 642,
+   "file": "11-1163-642.30b519bf27e7.pmtiles",
+   "bytes": 184164,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-642.30b519bf27e7.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 643,
+   "file": "11-1163-643.c40b0301d074.pmtiles",
+   "bytes": 176171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-643.c40b0301d074.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 644,
+   "file": "11-1163-644.107e723a0a86.pmtiles",
+   "bytes": 305805,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-644.107e723a0a86.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 645,
+   "file": "11-1163-645.04bf4428d2ad.pmtiles",
+   "bytes": 318109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-645.04bf4428d2ad.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 646,
+   "file": "11-1163-646.1ba092a734bc.pmtiles",
+   "bytes": 507717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-646.1ba092a734bc.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 647,
+   "file": "11-1163-647.7b8a1da3154f.pmtiles",
+   "bytes": 325561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-647.7b8a1da3154f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 648,
+   "file": "11-1163-648.97b325de0c17.pmtiles",
+   "bytes": 423367,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-648.97b325de0c17.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 649,
+   "file": "11-1163-649.2f3a0386368e.pmtiles",
+   "bytes": 797796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-649.2f3a0386368e.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 650,
+   "file": "11-1163-650.3f1fe3663eba.pmtiles",
+   "bytes": 503092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-650.3f1fe3663eba.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 651,
+   "file": "11-1163-651.4b81fe964bc8.pmtiles",
+   "bytes": 684498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-651.4b81fe964bc8.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 652,
+   "file": "11-1163-652.a695b2f6be05.pmtiles",
+   "bytes": 554340,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-652.a695b2f6be05.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 653,
+   "file": "11-1163-653.d22a95a2093f.pmtiles",
+   "bytes": 319931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-653.d22a95a2093f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 654,
+   "file": "11-1163-654.b5e14cab48a3.pmtiles",
+   "bytes": 299644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-654.b5e14cab48a3.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 655,
+   "file": "11-1163-655.9fd0bbb39b74.pmtiles",
+   "bytes": 339427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-655.9fd0bbb39b74.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 656,
+   "file": "11-1163-656.e530103aca6e.pmtiles",
+   "bytes": 73279,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1163-656.e530103aca6e.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 642,
+   "file": "11-1164-642.20b7c9c24703.pmtiles",
+   "bytes": 157871,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-642.20b7c9c24703.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 643,
+   "file": "11-1164-643.defaf00e1af8.pmtiles",
+   "bytes": 260967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-643.defaf00e1af8.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 644,
+   "file": "11-1164-644.820a3c2e260f.pmtiles",
+   "bytes": 278764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-644.820a3c2e260f.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 645,
+   "file": "11-1164-645.7be78bf161ff.pmtiles",
+   "bytes": 750456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-645.7be78bf161ff.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 646,
+   "file": "11-1164-646.61478e6f030c.pmtiles",
+   "bytes": 461621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-646.61478e6f030c.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 647,
+   "file": "11-1164-647.72c047b63bf3.pmtiles",
+   "bytes": 434887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-647.72c047b63bf3.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 648,
+   "file": "11-1164-648.c677cfe59675.pmtiles",
+   "bytes": 473635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-648.c677cfe59675.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 649,
+   "file": "11-1164-649.508243c87996.pmtiles",
+   "bytes": 537415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-649.508243c87996.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 650,
+   "file": "11-1164-650.8165d8087f4a.pmtiles",
+   "bytes": 635692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-650.8165d8087f4a.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 651,
+   "file": "11-1164-651.df38ae546415.pmtiles",
+   "bytes": 662510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-651.df38ae546415.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 652,
+   "file": "11-1164-652.65e1c82e513c.pmtiles",
+   "bytes": 432526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-652.65e1c82e513c.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 653,
+   "file": "11-1164-653.fe474a457bec.pmtiles",
+   "bytes": 283074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-653.fe474a457bec.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 654,
+   "file": "11-1164-654.5e7b81718219.pmtiles",
+   "bytes": 341507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-654.5e7b81718219.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 655,
+   "file": "11-1164-655.b389d0982f71.pmtiles",
+   "bytes": 199941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-655.b389d0982f71.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 656,
+   "file": "11-1164-656.6151cd07c747.pmtiles",
+   "bytes": 117109,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1164-656.6151cd07c747.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 642,
+   "file": "11-1165-642.59a33b067b10.pmtiles",
+   "bytes": 119657,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-642.59a33b067b10.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 643,
+   "file": "11-1165-643.7bd5663a6321.pmtiles",
+   "bytes": 348737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-643.7bd5663a6321.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 644,
+   "file": "11-1165-644.4df5c1de4c55.pmtiles",
+   "bytes": 463161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-644.4df5c1de4c55.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 645,
+   "file": "11-1165-645.56cf35dde68f.pmtiles",
+   "bytes": 547211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-645.56cf35dde68f.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 646,
+   "file": "11-1165-646.d1fc6683b0b4.pmtiles",
+   "bytes": 319826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-646.d1fc6683b0b4.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 647,
+   "file": "11-1165-647.4da60028a9a1.pmtiles",
+   "bytes": 602524,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-647.4da60028a9a1.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 648,
+   "file": "11-1165-648.2cf5ba1c30da.pmtiles",
+   "bytes": 572113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-648.2cf5ba1c30da.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 649,
+   "file": "11-1165-649.f782b5ad80f9.pmtiles",
+   "bytes": 562994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-649.f782b5ad80f9.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 650,
+   "file": "11-1165-650.8e1b348ff6a3.pmtiles",
+   "bytes": 791731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-650.8e1b348ff6a3.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 651,
+   "file": "11-1165-651.8e43f0c6bec8.pmtiles",
+   "bytes": 856933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-651.8e43f0c6bec8.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 652,
+   "file": "11-1165-652.8c07ab2c66fd.pmtiles",
+   "bytes": 324121,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-652.8c07ab2c66fd.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 653,
+   "file": "11-1165-653.718fdb7dd684.pmtiles",
+   "bytes": 200050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-653.718fdb7dd684.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 654,
+   "file": "11-1165-654.c071adcd434f.pmtiles",
+   "bytes": 364161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-654.c071adcd434f.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 655,
+   "file": "11-1165-655.c3428dd1bc4b.pmtiles",
+   "bytes": 295848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-655.c3428dd1bc4b.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 656,
+   "file": "11-1165-656.28435523dc16.pmtiles",
+   "bytes": 74663,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1165-656.28435523dc16.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 642,
+   "file": "11-1166-642.3ec31f2afaf2.pmtiles",
+   "bytes": 365383,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-642.3ec31f2afaf2.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 643,
+   "file": "11-1166-643.31f455110bfe.pmtiles",
+   "bytes": 500885,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-643.31f455110bfe.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 644,
+   "file": "11-1166-644.fef073c3fede.pmtiles",
+   "bytes": 433479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-644.fef073c3fede.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 645,
+   "file": "11-1166-645.4736a033dfde.pmtiles",
+   "bytes": 560774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-645.4736a033dfde.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 646,
+   "file": "11-1166-646.3552358fdf44.pmtiles",
+   "bytes": 495499,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-646.3552358fdf44.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 647,
+   "file": "11-1166-647.a13adb1fa70a.pmtiles",
+   "bytes": 493328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-647.a13adb1fa70a.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 648,
+   "file": "11-1166-648.8023a000a9b5.pmtiles",
+   "bytes": 504557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-648.8023a000a9b5.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 649,
+   "file": "11-1166-649.1499e61858e2.pmtiles",
+   "bytes": 733722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-649.1499e61858e2.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 650,
+   "file": "11-1166-650.5f2337be67de.pmtiles",
+   "bytes": 1036001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-650.5f2337be67de.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 651,
+   "file": "11-1166-651.2b2fb3866ce5.pmtiles",
+   "bytes": 1026614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-651.2b2fb3866ce5.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 652,
+   "file": "11-1166-652.41c2c7534c68.pmtiles",
+   "bytes": 286356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-652.41c2c7534c68.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 653,
+   "file": "11-1166-653.6ae1ca92635b.pmtiles",
+   "bytes": 188753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-653.6ae1ca92635b.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 654,
+   "file": "11-1166-654.a3fb66e78dbf.pmtiles",
+   "bytes": 215092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-654.a3fb66e78dbf.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 655,
+   "file": "11-1166-655.11a34b7a80c0.pmtiles",
+   "bytes": 301733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-655.11a34b7a80c0.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 656,
+   "file": "11-1166-656.2b2d4b40756d.pmtiles",
+   "bytes": 60054,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1166-656.2b2d4b40756d.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 642,
+   "file": "11-1167-642.ee15349cb793.pmtiles",
+   "bytes": 283189,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-642.ee15349cb793.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 643,
+   "file": "11-1167-643.567fbe8e80cd.pmtiles",
+   "bytes": 508385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-643.567fbe8e80cd.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 644,
+   "file": "11-1167-644.41e4e5103ace.pmtiles",
+   "bytes": 568846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-644.41e4e5103ace.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 645,
+   "file": "11-1167-645.0ab9b65f5b8a.pmtiles",
+   "bytes": 504306,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-645.0ab9b65f5b8a.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 646,
+   "file": "11-1167-646.7665d3656757.pmtiles",
+   "bytes": 603686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-646.7665d3656757.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 647,
+   "file": "11-1167-647.b5c2a5efb77c.pmtiles",
+   "bytes": 404548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-647.b5c2a5efb77c.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 648,
+   "file": "11-1167-648.cfd50d2982eb.pmtiles",
+   "bytes": 666959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-648.cfd50d2982eb.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 649,
+   "file": "11-1167-649.d6c7eaa6e568.pmtiles",
+   "bytes": 956291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-649.d6c7eaa6e568.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 650,
+   "file": "11-1167-650.eaa1f43fb513.pmtiles",
+   "bytes": 3335843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-650.eaa1f43fb513.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 651,
+   "file": "11-1167-651.c56f08ab78ae.pmtiles",
+   "bytes": 1634664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-651.c56f08ab78ae.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 652,
+   "file": "11-1167-652.890e78f6bfeb.pmtiles",
+   "bytes": 505099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-652.890e78f6bfeb.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 653,
+   "file": "11-1167-653.44e76bef1b5f.pmtiles",
+   "bytes": 306134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-653.44e76bef1b5f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 654,
+   "file": "11-1167-654.aa3d7a531c4b.pmtiles",
+   "bytes": 238133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-654.aa3d7a531c4b.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 655,
+   "file": "11-1167-655.125f0ad30bef.pmtiles",
+   "bytes": 140271,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1167-655.125f0ad30bef.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 642,
+   "file": "11-1168-642.2cb77a26ccaf.pmtiles",
+   "bytes": 288592,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-642.2cb77a26ccaf.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 643,
+   "file": "11-1168-643.023d69932a76.pmtiles",
+   "bytes": 584997,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-643.023d69932a76.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 644,
+   "file": "11-1168-644.f38482791ff3.pmtiles",
+   "bytes": 555515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-644.f38482791ff3.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 645,
+   "file": "11-1168-645.301546f268db.pmtiles",
+   "bytes": 802689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-645.301546f268db.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 646,
+   "file": "11-1168-646.ec59528b3156.pmtiles",
+   "bytes": 668339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-646.ec59528b3156.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 647,
+   "file": "11-1168-647.8b5bd0009fea.pmtiles",
+   "bytes": 708333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-647.8b5bd0009fea.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 648,
+   "file": "11-1168-648.f22f4578a6c7.pmtiles",
+   "bytes": 578410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-648.f22f4578a6c7.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 649,
+   "file": "11-1168-649.5ca174fa6350.pmtiles",
+   "bytes": 844094,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-649.5ca174fa6350.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 650,
+   "file": "11-1168-650.ca2b42607e01.pmtiles",
+   "bytes": 1658460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-650.ca2b42607e01.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 651,
+   "file": "11-1168-651.1d6bc493bd55.pmtiles",
+   "bytes": 1045118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-651.1d6bc493bd55.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 652,
+   "file": "11-1168-652.d76dcf3d26c5.pmtiles",
+   "bytes": 475151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-652.d76dcf3d26c5.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 653,
+   "file": "11-1168-653.a1172d460a63.pmtiles",
+   "bytes": 469773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-653.a1172d460a63.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 654,
+   "file": "11-1168-654.eda8b142b1bd.pmtiles",
+   "bytes": 399561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-654.eda8b142b1bd.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 655,
+   "file": "11-1168-655.218c4fcd516c.pmtiles",
+   "bytes": 35182,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1168-655.218c4fcd516c.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 642,
+   "file": "11-1169-642.880bc84ed1b5.pmtiles",
+   "bytes": 666685,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-642.880bc84ed1b5.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 643,
+   "file": "11-1169-643.808bb4e71838.pmtiles",
+   "bytes": 681671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-643.808bb4e71838.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 644,
+   "file": "11-1169-644.a0044ffe6a0f.pmtiles",
+   "bytes": 531209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-644.a0044ffe6a0f.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 645,
+   "file": "11-1169-645.193963992447.pmtiles",
+   "bytes": 607607,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-645.193963992447.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 646,
+   "file": "11-1169-646.032669003126.pmtiles",
+   "bytes": 596891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-646.032669003126.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 647,
+   "file": "11-1169-647.6cbef5cf62cd.pmtiles",
+   "bytes": 516777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-647.6cbef5cf62cd.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 648,
+   "file": "11-1169-648.1fc704547ab5.pmtiles",
+   "bytes": 416947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-648.1fc704547ab5.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 649,
+   "file": "11-1169-649.586c26448bff.pmtiles",
+   "bytes": 455970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-649.586c26448bff.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 650,
+   "file": "11-1169-650.94b64e10c833.pmtiles",
+   "bytes": 417242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-650.94b64e10c833.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 651,
+   "file": "11-1169-651.276931b6c370.pmtiles",
+   "bytes": 488954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-651.276931b6c370.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 652,
+   "file": "11-1169-652.ca8e92a3a29c.pmtiles",
+   "bytes": 408850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-652.ca8e92a3a29c.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 653,
+   "file": "11-1169-653.0ced7847f13b.pmtiles",
+   "bytes": 321462,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-653.0ced7847f13b.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 654,
+   "file": "11-1169-654.01b7edeb67df.pmtiles",
+   "bytes": 209251,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-654.01b7edeb67df.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 655,
+   "file": "11-1169-655.63b6bbddf627.pmtiles",
+   "bytes": 239594,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-655.63b6bbddf627.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 656,
+   "file": "11-1169-656.fe1a7641b7c0.pmtiles",
+   "bytes": 67683,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1169-656.fe1a7641b7c0.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 642,
+   "file": "11-1170-642.f16ee34ce97d.pmtiles",
+   "bytes": 312960,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-642.f16ee34ce97d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 643,
+   "file": "11-1170-643.4fa0d2b9e6e8.pmtiles",
+   "bytes": 558174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-643.4fa0d2b9e6e8.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 644,
+   "file": "11-1170-644.04c843f2624f.pmtiles",
+   "bytes": 456274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-644.04c843f2624f.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 645,
+   "file": "11-1170-645.ebe6d3ea7555.pmtiles",
+   "bytes": 397437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-645.ebe6d3ea7555.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 646,
+   "file": "11-1170-646.2abdb8d7b75e.pmtiles",
+   "bytes": 359791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-646.2abdb8d7b75e.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 647,
+   "file": "11-1170-647.787e7ca180cd.pmtiles",
+   "bytes": 370118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-647.787e7ca180cd.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 648,
+   "file": "11-1170-648.4da473bf0c7e.pmtiles",
+   "bytes": 371228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-648.4da473bf0c7e.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 649,
+   "file": "11-1170-649.b5815ab9d928.pmtiles",
+   "bytes": 310437,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-649.b5815ab9d928.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 650,
+   "file": "11-1170-650.5da2fda6c000.pmtiles",
+   "bytes": 180852,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-650.5da2fda6c000.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 651,
+   "file": "11-1170-651.ad39d5179c62.pmtiles",
+   "bytes": 251737,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-651.ad39d5179c62.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 652,
+   "file": "11-1170-652.35b84b803157.pmtiles",
+   "bytes": 109281,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-652.35b84b803157.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 653,
+   "file": "11-1170-653.d8ca4da86d73.pmtiles",
+   "bytes": 21788,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-653.d8ca4da86d73.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 654,
+   "file": "11-1170-654.fec01120f031.pmtiles",
+   "bytes": 46790,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-654.fec01120f031.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 655,
+   "file": "11-1170-655.08fbcd8efba7.pmtiles",
+   "bytes": 190002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-655.08fbcd8efba7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 656,
+   "file": "11-1170-656.081237f175bc.pmtiles",
+   "bytes": 39783,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1170-656.081237f175bc.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 642,
+   "file": "11-1171-642.dbce2c9916ef.pmtiles",
+   "bytes": 190316,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-642.dbce2c9916ef.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 643,
+   "file": "11-1171-643.d02583a50a65.pmtiles",
+   "bytes": 479008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-643.d02583a50a65.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 644,
+   "file": "11-1171-644.e7d32dcdeb9b.pmtiles",
+   "bytes": 618578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-644.e7d32dcdeb9b.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 645,
+   "file": "11-1171-645.f69c13b6f6e9.pmtiles",
+   "bytes": 377869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-645.f69c13b6f6e9.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 646,
+   "file": "11-1171-646.96d66dcf1904.pmtiles",
+   "bytes": 367662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-646.96d66dcf1904.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 647,
+   "file": "11-1171-647.e382c3d2262a.pmtiles",
+   "bytes": 214565,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-647.e382c3d2262a.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 648,
+   "file": "11-1171-648.fea9d38f5a84.pmtiles",
+   "bytes": 153161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-648.fea9d38f5a84.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 649,
+   "file": "11-1171-649.d9e9839015ce.pmtiles",
+   "bytes": 34177,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1171-649.d9e9839015ce.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 642,
+   "file": "11-1172-642.122bc795ab17.pmtiles",
+   "bytes": 217428,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-642.122bc795ab17.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 643,
+   "file": "11-1172-643.8db7b6e6de64.pmtiles",
+   "bytes": 289947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-643.8db7b6e6de64.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 644,
+   "file": "11-1172-644.b778c37b0902.pmtiles",
+   "bytes": 639508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-644.b778c37b0902.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 645,
+   "file": "11-1172-645.dad506666174.pmtiles",
+   "bytes": 381926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-645.dad506666174.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 646,
+   "file": "11-1172-646.652f6d5b2a49.pmtiles",
+   "bytes": 458525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-646.652f6d5b2a49.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 647,
+   "file": "11-1172-647.d23b8c8bd356.pmtiles",
+   "bytes": 259807,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-647.d23b8c8bd356.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 648,
+   "file": "11-1172-648.d6a14eb531de.pmtiles",
+   "bytes": 47985,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1172-648.d6a14eb531de.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 642,
+   "file": "11-1173-642.908bd0bcc147.pmtiles",
+   "bytes": 221746,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-642.908bd0bcc147.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 643,
+   "file": "11-1173-643.1db722ca8a66.pmtiles",
+   "bytes": 344873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-643.1db722ca8a66.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 644,
+   "file": "11-1173-644.ab1e2e6ed64a.pmtiles",
+   "bytes": 462200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-644.ab1e2e6ed64a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 645,
+   "file": "11-1173-645.59e1dfa1ecd2.pmtiles",
+   "bytes": 521586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-645.59e1dfa1ecd2.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 646,
+   "file": "11-1173-646.89c1d1be1a35.pmtiles",
+   "bytes": 292759,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-646.89c1d1be1a35.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 647,
+   "file": "11-1173-647.2888d79f1a68.pmtiles",
+   "bytes": 92085,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1173-647.2888d79f1a68.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 642,
+   "file": "11-1174-642.bd32c804b2a5.pmtiles",
+   "bytes": 258408,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1174-642.bd32c804b2a5.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 643,
+   "file": "11-1174-643.b112f885429c.pmtiles",
+   "bytes": 358256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1174-643.b112f885429c.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 644,
+   "file": "11-1174-644.78202a4df7d2.pmtiles",
+   "bytes": 373289,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1174-644.78202a4df7d2.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 645,
+   "file": "11-1174-645.f954478c91ca.pmtiles",
+   "bytes": 319798,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1174-645.f954478c91ca.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 646,
+   "file": "11-1174-646.e5c6de515f39.pmtiles",
+   "bytes": 111394,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1174-646.e5c6de515f39.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 642,
+   "file": "11-1175-642.9e9306f3a926.pmtiles",
+   "bytes": 48081,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1175-642.9e9306f3a926.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 643,
+   "file": "11-1175-643.a66d8186f315.pmtiles",
+   "bytes": 78401,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1175-643.a66d8186f315.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 644,
+   "file": "11-1175-644.d3cafa4a43f7.pmtiles",
+   "bytes": 217586,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1175-644.d3cafa4a43f7.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 645,
+   "file": "11-1175-645.670b3e14cab9.pmtiles",
+   "bytes": 201157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1175-645.670b3e14cab9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 646,
+   "file": "11-1175-646.8b27318845c2.pmtiles",
+   "bytes": 98571,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1175-646.8b27318845c2.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 644,
+   "file": "11-1176-644.581ff32d16a0.pmtiles",
+   "bytes": 52148,
+   "tiles": 17,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1176-644.581ff32d16a0.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 645,
+   "file": "11-1176-645.2fa91f24794c.pmtiles",
+   "bytes": 27025,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-vilniaus-2026-10-03/11-1176-645.2fa91f24794c.pmtiles"
+  }
+ ]
+}

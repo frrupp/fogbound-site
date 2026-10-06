@@ -1,0 +1,725 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "lt-taurages",
+ "source": "lt.pmtiles",
+ "builtAt": "2026-10-06T05:47:16.128Z",
+ "publishedAt": "2026-10-06T05:47:39.576Z",
+ "host": "github",
+ "releases": [
+  "maps-lt-taurages-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  21.64997,
+  55.02403,
+  23.50441,
+  55.68879
+ ],
+ "overview": {
+  "file": "overview.54a2f53216e7.pmtiles",
+  "bytes": 1820762,
+  "tiles": 46,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/overview.54a2f53216e7.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1147,
+   "y": 640,
+   "file": "11-1147-640.1ae2dba08680.pmtiles",
+   "bytes": 85019,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-640.1ae2dba08680.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 641,
+   "file": "11-1147-641.172361a28c0d.pmtiles",
+   "bytes": 199915,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-641.172361a28c0d.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 642,
+   "file": "11-1147-642.8fb6fe19ba5c.pmtiles",
+   "bytes": 256831,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-642.8fb6fe19ba5c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 643,
+   "file": "11-1147-643.49c122fff1ba.pmtiles",
+   "bytes": 253714,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-643.49c122fff1ba.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 644,
+   "file": "11-1147-644.9449c3c938a2.pmtiles",
+   "bytes": 283064,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-644.9449c3c938a2.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 645,
+   "file": "11-1147-645.562486ec48c0.pmtiles",
+   "bytes": 241520,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-645.562486ec48c0.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 646,
+   "file": "11-1147-646.686807be3e94.pmtiles",
+   "bytes": 89230,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1147-646.686807be3e94.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 640,
+   "file": "11-1148-640.e1e493ee14e2.pmtiles",
+   "bytes": 55496,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-640.e1e493ee14e2.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 641,
+   "file": "11-1148-641.85dc9d63b30b.pmtiles",
+   "bytes": 229166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-641.85dc9d63b30b.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 642,
+   "file": "11-1148-642.bcb7bf739e07.pmtiles",
+   "bytes": 223265,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-642.bcb7bf739e07.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 643,
+   "file": "11-1148-643.d34e77d873ef.pmtiles",
+   "bytes": 173836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-643.d34e77d873ef.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 644,
+   "file": "11-1148-644.aed69694f5bd.pmtiles",
+   "bytes": 229022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-644.aed69694f5bd.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 645,
+   "file": "11-1148-645.9f61779951d5.pmtiles",
+   "bytes": 230174,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-645.9f61779951d5.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 646,
+   "file": "11-1148-646.def376cf9e17.pmtiles",
+   "bytes": 353647,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-646.def376cf9e17.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 647,
+   "file": "11-1148-647.f389ff272c4d.pmtiles",
+   "bytes": 22771,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1148-647.f389ff272c4d.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 640,
+   "file": "11-1149-640.e6c7da076ff5.pmtiles",
+   "bytes": 59386,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-640.e6c7da076ff5.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 641,
+   "file": "11-1149-641.8200e8477812.pmtiles",
+   "bytes": 216330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-641.8200e8477812.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 642,
+   "file": "11-1149-642.becd8fe26d05.pmtiles",
+   "bytes": 396322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-642.becd8fe26d05.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 643,
+   "file": "11-1149-643.785b70bd035b.pmtiles",
+   "bytes": 336511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-643.785b70bd035b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 644,
+   "file": "11-1149-644.631054b3b628.pmtiles",
+   "bytes": 264211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-644.631054b3b628.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 645,
+   "file": "11-1149-645.d739e9ec366b.pmtiles",
+   "bytes": 269800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-645.d739e9ec366b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 646,
+   "file": "11-1149-646.b3d0294fabf1.pmtiles",
+   "bytes": 292307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-646.b3d0294fabf1.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 647,
+   "file": "11-1149-647.f1ad43cc4feb.pmtiles",
+   "bytes": 154979,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1149-647.f1ad43cc4feb.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 640,
+   "file": "11-1150-640.35ef5e033cad.pmtiles",
+   "bytes": 73239,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-640.35ef5e033cad.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 641,
+   "file": "11-1150-641.9283c74f50c7.pmtiles",
+   "bytes": 434064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-641.9283c74f50c7.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 642,
+   "file": "11-1150-642.13ae70a3abd6.pmtiles",
+   "bytes": 610986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-642.13ae70a3abd6.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 643,
+   "file": "11-1150-643.9d080f6decb9.pmtiles",
+   "bytes": 313298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-643.9d080f6decb9.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 644,
+   "file": "11-1150-644.ff0b94af72b7.pmtiles",
+   "bytes": 383114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-644.ff0b94af72b7.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 645,
+   "file": "11-1150-645.e7ec33fc5dd1.pmtiles",
+   "bytes": 938576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-645.e7ec33fc5dd1.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 646,
+   "file": "11-1150-646.b0f2763463a8.pmtiles",
+   "bytes": 214804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-646.b0f2763463a8.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 647,
+   "file": "11-1150-647.3896c0b4ff34.pmtiles",
+   "bytes": 71262,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1150-647.3896c0b4ff34.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 640,
+   "file": "11-1151-640.55cedb2b1f43.pmtiles",
+   "bytes": 88534,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-640.55cedb2b1f43.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 641,
+   "file": "11-1151-641.5ceeba77da8f.pmtiles",
+   "bytes": 340778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-641.5ceeba77da8f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 642,
+   "file": "11-1151-642.fa5fd95b1eeb.pmtiles",
+   "bytes": 492914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-642.fa5fd95b1eeb.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 643,
+   "file": "11-1151-643.ead2c5ce359e.pmtiles",
+   "bytes": 293404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-643.ead2c5ce359e.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 644,
+   "file": "11-1151-644.b4830fb34440.pmtiles",
+   "bytes": 299901,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-644.b4830fb34440.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 645,
+   "file": "11-1151-645.5414972a2e11.pmtiles",
+   "bytes": 373788,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-645.5414972a2e11.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 646,
+   "file": "11-1151-646.9cccffca7bc2.pmtiles",
+   "bytes": 119266,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-646.9cccffca7bc2.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 647,
+   "file": "11-1151-647.5b0c8862366a.pmtiles",
+   "bytes": 118576,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1151-647.5b0c8862366a.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 640,
+   "file": "11-1152-640.5fba3460748a.pmtiles",
+   "bytes": 117769,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-640.5fba3460748a.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 641,
+   "file": "11-1152-641.0971a8ad95a0.pmtiles",
+   "bytes": 423198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-641.0971a8ad95a0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 642,
+   "file": "11-1152-642.adb1815578bf.pmtiles",
+   "bytes": 337432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-642.adb1815578bf.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 643,
+   "file": "11-1152-643.b390d7ea22ae.pmtiles",
+   "bytes": 537753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-643.b390d7ea22ae.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 644,
+   "file": "11-1152-644.c5811c6bef51.pmtiles",
+   "bytes": 304728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-644.c5811c6bef51.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 645,
+   "file": "11-1152-645.c5c3b6ac8b39.pmtiles",
+   "bytes": 237413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-645.c5c3b6ac8b39.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 646,
+   "file": "11-1152-646.e427470eae2c.pmtiles",
+   "bytes": 174570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-646.e427470eae2c.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 647,
+   "file": "11-1152-647.8a256d1dc7aa.pmtiles",
+   "bytes": 233850,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1152-647.8a256d1dc7aa.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 640,
+   "file": "11-1153-640.73b476851877.pmtiles",
+   "bytes": 104029,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-640.73b476851877.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 641,
+   "file": "11-1153-641.e8868ce7b9ff.pmtiles",
+   "bytes": 375030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-641.e8868ce7b9ff.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 642,
+   "file": "11-1153-642.9c4f8e4fe09e.pmtiles",
+   "bytes": 436539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-642.9c4f8e4fe09e.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 643,
+   "file": "11-1153-643.1638f4de8d8c.pmtiles",
+   "bytes": 419700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-643.1638f4de8d8c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 644,
+   "file": "11-1153-644.0b2492c71170.pmtiles",
+   "bytes": 261440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-644.0b2492c71170.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 645,
+   "file": "11-1153-645.3a6431b278aa.pmtiles",
+   "bytes": 233799,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-645.3a6431b278aa.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 646,
+   "file": "11-1153-646.b8289f4111bb.pmtiles",
+   "bytes": 493827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-646.b8289f4111bb.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 647,
+   "file": "11-1153-647.dfe3c194d31d.pmtiles",
+   "bytes": 313509,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1153-647.dfe3c194d31d.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 640,
+   "file": "11-1154-640.cc2656cad61d.pmtiles",
+   "bytes": 114104,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-640.cc2656cad61d.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 641,
+   "file": "11-1154-641.31e2768705bb.pmtiles",
+   "bytes": 599023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-641.31e2768705bb.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 642,
+   "file": "11-1154-642.f7f2c0461659.pmtiles",
+   "bytes": 313700,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-642.f7f2c0461659.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 643,
+   "file": "11-1154-643.8627c8e49a45.pmtiles",
+   "bytes": 377585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-643.8627c8e49a45.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 644,
+   "file": "11-1154-644.77969059b07d.pmtiles",
+   "bytes": 246518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-644.77969059b07d.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 645,
+   "file": "11-1154-645.3706f48d9276.pmtiles",
+   "bytes": 212487,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-645.3706f48d9276.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 646,
+   "file": "11-1154-646.dad873cca1d8.pmtiles",
+   "bytes": 382085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-646.dad873cca1d8.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 647,
+   "file": "11-1154-647.4cba1559ac9a.pmtiles",
+   "bytes": 285790,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1154-647.4cba1559ac9a.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 640,
+   "file": "11-1155-640.35eb370a1389.pmtiles",
+   "bytes": 85023,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-640.35eb370a1389.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 641,
+   "file": "11-1155-641.9c59be097c07.pmtiles",
+   "bytes": 386195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-641.9c59be097c07.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 642,
+   "file": "11-1155-642.3b33dde8c75f.pmtiles",
+   "bytes": 313515,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-642.3b33dde8c75f.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 643,
+   "file": "11-1155-643.f960018e6c58.pmtiles",
+   "bytes": 360100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-643.f960018e6c58.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 644,
+   "file": "11-1155-644.2b2b89e36dc6.pmtiles",
+   "bytes": 428940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-644.2b2b89e36dc6.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 645,
+   "file": "11-1155-645.1291d651ac22.pmtiles",
+   "bytes": 183450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-645.1291d651ac22.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 646,
+   "file": "11-1155-646.5bb19ea6e96c.pmtiles",
+   "bytes": 323352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-646.5bb19ea6e96c.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 647,
+   "file": "11-1155-647.62829bce80dc.pmtiles",
+   "bytes": 197273,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1155-647.62829bce80dc.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 640,
+   "file": "11-1156-640.82a7e6c8a292.pmtiles",
+   "bytes": 55713,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-640.82a7e6c8a292.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 641,
+   "file": "11-1156-641.ae7c117419f5.pmtiles",
+   "bytes": 260932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-641.ae7c117419f5.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 642,
+   "file": "11-1156-642.3a643707c9e8.pmtiles",
+   "bytes": 280863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-642.3a643707c9e8.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 643,
+   "file": "11-1156-643.73a68b3c6ecc.pmtiles",
+   "bytes": 299115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-643.73a68b3c6ecc.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 644,
+   "file": "11-1156-644.8feeb4b4dcda.pmtiles",
+   "bytes": 427145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-644.8feeb4b4dcda.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 645,
+   "file": "11-1156-645.63bc1cfd582c.pmtiles",
+   "bytes": 208979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-645.63bc1cfd582c.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 646,
+   "file": "11-1156-646.aed2f4f49964.pmtiles",
+   "bytes": 289843,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-646.aed2f4f49964.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 647,
+   "file": "11-1156-647.eebb6023ee11.pmtiles",
+   "bytes": 302428,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1156-647.eebb6023ee11.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 640,
+   "file": "11-1157-640.9fce65baf9d4.pmtiles",
+   "bytes": 85793,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-640.9fce65baf9d4.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 641,
+   "file": "11-1157-641.84e96b17accb.pmtiles",
+   "bytes": 248800,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-641.84e96b17accb.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 642,
+   "file": "11-1157-642.5ab9f70b2770.pmtiles",
+   "bytes": 210612,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-642.5ab9f70b2770.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 643,
+   "file": "11-1157-643.d2ef9625d1d4.pmtiles",
+   "bytes": 119963,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-643.d2ef9625d1d4.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 644,
+   "file": "11-1157-644.0d76743a21dc.pmtiles",
+   "bytes": 230076,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-644.0d76743a21dc.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 645,
+   "file": "11-1157-645.02241ca01059.pmtiles",
+   "bytes": 371979,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-645.02241ca01059.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 646,
+   "file": "11-1157-646.fab8ec6429a7.pmtiles",
+   "bytes": 330382,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-646.fab8ec6429a7.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 647,
+   "file": "11-1157-647.156f4d2b3009.pmtiles",
+   "bytes": 322687,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lt-taurages-2026-10-03/11-1157-647.156f4d2b3009.pmtiles"
+  }
+ ]
+}
