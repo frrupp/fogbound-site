@@ -1,0 +1,397 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "rs-srednjobanatski",
+ "source": "rs.pmtiles",
+ "builtAt": "2026-10-06T02:20:08.317Z",
+ "publishedAt": "2026-10-06T03:21:22.329Z",
+ "host": "github",
+ "releases": [
+  "maps-rs-srednjobanatski-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  20.02903,
+  45.07441,
+  21.01654,
+  45.79731
+ ],
+ "overview": {
+  "file": "overview.025f7525f3e6.pmtiles",
+  "bytes": 1591061,
+  "tiles": 34,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/overview.025f7525f3e6.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1137,
+   "y": 730,
+   "file": "11-1137-730.9b693665b2c4.pmtiles",
+   "bytes": 22889,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-730.9b693665b2c4.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 731,
+   "file": "11-1137-731.da8f562a482e.pmtiles",
+   "bytes": 78957,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-731.da8f562a482e.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 732,
+   "file": "11-1137-732.457ad6451420.pmtiles",
+   "bytes": 101071,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-732.457ad6451420.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 733,
+   "file": "11-1137-733.c884a8f84f7b.pmtiles",
+   "bytes": 39304,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-733.c884a8f84f7b.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 734,
+   "file": "11-1137-734.c83a74c5bbc7.pmtiles",
+   "bytes": 128497,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-734.c83a74c5bbc7.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 735,
+   "file": "11-1137-735.5494faff1165.pmtiles",
+   "bytes": 147592,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-735.5494faff1165.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 736,
+   "file": "11-1137-736.d3ceadfab079.pmtiles",
+   "bytes": 35936,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1137-736.d3ceadfab079.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 730,
+   "file": "11-1138-730.0e9ce18775dc.pmtiles",
+   "bytes": 217321,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-730.0e9ce18775dc.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 731,
+   "file": "11-1138-731.af3d745daba1.pmtiles",
+   "bytes": 415702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-731.af3d745daba1.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 732,
+   "file": "11-1138-732.67821e6f3be8.pmtiles",
+   "bytes": 257766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-732.67821e6f3be8.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 733,
+   "file": "11-1138-733.9f422deddf33.pmtiles",
+   "bytes": 289939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-733.9f422deddf33.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 734,
+   "file": "11-1138-734.4086ac96f888.pmtiles",
+   "bytes": 356320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-734.4086ac96f888.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 735,
+   "file": "11-1138-735.6c9bf18e12aa.pmtiles",
+   "bytes": 429544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-735.6c9bf18e12aa.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 736,
+   "file": "11-1138-736.f281f4380f40.pmtiles",
+   "bytes": 103090,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1138-736.f281f4380f40.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 730,
+   "file": "11-1139-730.7a44358f70ca.pmtiles",
+   "bytes": 241861,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-730.7a44358f70ca.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 731,
+   "file": "11-1139-731.f771c945a55c.pmtiles",
+   "bytes": 194769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-731.f771c945a55c.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 732,
+   "file": "11-1139-732.9a066611a373.pmtiles",
+   "bytes": 226419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-732.9a066611a373.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 733,
+   "file": "11-1139-733.367e22adc49a.pmtiles",
+   "bytes": 577855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-733.367e22adc49a.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 734,
+   "file": "11-1139-734.52d46228f997.pmtiles",
+   "bytes": 241560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-734.52d46228f997.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 735,
+   "file": "11-1139-735.d905165dcbe9.pmtiles",
+   "bytes": 403183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-735.d905165dcbe9.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 736,
+   "file": "11-1139-736.3147935d8e31.pmtiles",
+   "bytes": 69143,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1139-736.3147935d8e31.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 730,
+   "file": "11-1140-730.ed4f8db60578.pmtiles",
+   "bytes": 136005,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-730.ed4f8db60578.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 731,
+   "file": "11-1140-731.8838fb49cc27.pmtiles",
+   "bytes": 190582,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-731.8838fb49cc27.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 732,
+   "file": "11-1140-732.40f3feaf155b.pmtiles",
+   "bytes": 204450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-732.40f3feaf155b.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 733,
+   "file": "11-1140-733.41c1e99fc689.pmtiles",
+   "bytes": 657824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-733.41c1e99fc689.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 734,
+   "file": "11-1140-734.6f67819cc22b.pmtiles",
+   "bytes": 309480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-734.6f67819cc22b.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 735,
+   "file": "11-1140-735.6116ca969b79.pmtiles",
+   "bytes": 241739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-735.6116ca969b79.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 736,
+   "file": "11-1140-736.e52a9b9432d6.pmtiles",
+   "bytes": 61569,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1140-736.e52a9b9432d6.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 730,
+   "file": "11-1141-730.5ffdf76f1ec7.pmtiles",
+   "bytes": 200273,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-730.5ffdf76f1ec7.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 731,
+   "file": "11-1141-731.6a62787dd56e.pmtiles",
+   "bytes": 148013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-731.6a62787dd56e.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 732,
+   "file": "11-1141-732.c6f5a1ea98fc.pmtiles",
+   "bytes": 198903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-732.c6f5a1ea98fc.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 733,
+   "file": "11-1141-733.61e4b4cc7bcd.pmtiles",
+   "bytes": 249625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-733.61e4b4cc7bcd.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 734,
+   "file": "11-1141-734.5306654090a7.pmtiles",
+   "bytes": 239326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-734.5306654090a7.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 735,
+   "file": "11-1141-735.5a773c8f9bce.pmtiles",
+   "bytes": 165711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-735.5a773c8f9bce.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 736,
+   "file": "11-1141-736.fe1705289b04.pmtiles",
+   "bytes": 35865,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1141-736.fe1705289b04.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 730,
+   "file": "11-1142-730.5652681288ae.pmtiles",
+   "bytes": 47606,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-730.5652681288ae.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 731,
+   "file": "11-1142-731.053bc1e4fdb7.pmtiles",
+   "bytes": 58777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-731.053bc1e4fdb7.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 732,
+   "file": "11-1142-732.3d3606a113c3.pmtiles",
+   "bytes": 89189,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-732.3d3606a113c3.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 733,
+   "file": "11-1142-733.21c059779757.pmtiles",
+   "bytes": 373296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-733.21c059779757.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 734,
+   "file": "11-1142-734.086e6b97aeea.pmtiles",
+   "bytes": 254786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-734.086e6b97aeea.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 735,
+   "file": "11-1142-735.8cc4dba7f35a.pmtiles",
+   "bytes": 145486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-735.8cc4dba7f35a.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 736,
+   "file": "11-1142-736.5eb16a5eaa34.pmtiles",
+   "bytes": 28836,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1142-736.5eb16a5eaa34.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 733,
+   "file": "11-1143-733.897ce6f68d8e.pmtiles",
+   "bytes": 64854,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1143-733.897ce6f68d8e.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 734,
+   "file": "11-1143-734.b63809e33bf0.pmtiles",
+   "bytes": 147948,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1143-734.b63809e33bf0.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 735,
+   "file": "11-1143-735.dfb97d98eb1c.pmtiles",
+   "bytes": 145843,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1143-735.dfb97d98eb1c.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 736,
+   "file": "11-1143-736.72a6a5a1fbf7.pmtiles",
+   "bytes": 78460,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-srednjobanatski-2026-10-03/11-1143-736.72a6a5a1fbf7.pmtiles"
+  }
+ ]
+}

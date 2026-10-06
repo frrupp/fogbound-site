@@ -1,0 +1,405 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "rs-beograd",
+ "source": "rs.pmtiles",
+ "builtAt": "2026-10-06T03:21:36.593Z",
+ "publishedAt": "2026-10-06T03:21:51.131Z",
+ "host": "github",
+ "releases": [
+  "maps-rs-beograd-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  19.97533,
+  44.26281,
+  20.8538,
+  45.0969
+ ],
+ "overview": {
+  "file": "overview.57c5b38212dc.pmtiles",
+  "bytes": 2082795,
+  "tiles": 38,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/overview.57c5b38212dc.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1137,
+   "y": 735,
+   "file": "11-1137-735.33c793ee149b.pmtiles",
+   "bytes": 98549,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-735.33c793ee149b.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 736,
+   "file": "11-1137-736.d61187bb1dba.pmtiles",
+   "bytes": 144333,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-736.d61187bb1dba.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 737,
+   "file": "11-1137-737.c4b5a0fd6f2b.pmtiles",
+   "bytes": 187463,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-737.c4b5a0fd6f2b.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 738,
+   "file": "11-1137-738.0f2c5d21c38c.pmtiles",
+   "bytes": 139650,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-738.0f2c5d21c38c.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 739,
+   "file": "11-1137-739.f0351f219b65.pmtiles",
+   "bytes": 178005,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-739.f0351f219b65.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 740,
+   "file": "11-1137-740.277b2dd38c6b.pmtiles",
+   "bytes": 137783,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-740.277b2dd38c6b.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 741,
+   "file": "11-1137-741.4ac55e3e2de2.pmtiles",
+   "bytes": 108759,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-741.4ac55e3e2de2.pmtiles"
+  },
+  {
+   "x": 1137,
+   "y": 742,
+   "file": "11-1137-742.2a50bb769de1.pmtiles",
+   "bytes": 150055,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1137-742.2a50bb769de1.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 735,
+   "file": "11-1138-735.0ee41688037f.pmtiles",
+   "bytes": 70246,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-735.0ee41688037f.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 736,
+   "file": "11-1138-736.89f3cbe58b7b.pmtiles",
+   "bytes": 858734,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-736.89f3cbe58b7b.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 737,
+   "file": "11-1138-737.c274e4845013.pmtiles",
+   "bytes": 614483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-737.c274e4845013.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 738,
+   "file": "11-1138-738.7a94ab8b84b2.pmtiles",
+   "bytes": 492214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-738.7a94ab8b84b2.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 739,
+   "file": "11-1138-739.7151aca6b523.pmtiles",
+   "bytes": 713503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-739.7151aca6b523.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 740,
+   "file": "11-1138-740.a1f6e8d43124.pmtiles",
+   "bytes": 352511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-740.a1f6e8d43124.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 741,
+   "file": "11-1138-741.1cb12c7407fe.pmtiles",
+   "bytes": 414725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-741.1cb12c7407fe.pmtiles"
+  },
+  {
+   "x": 1138,
+   "y": 742,
+   "file": "11-1138-742.13522d7bcd4a.pmtiles",
+   "bytes": 239828,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1138-742.13522d7bcd4a.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 735,
+   "file": "11-1139-735.7b3247f6fed0.pmtiles",
+   "bytes": 70750,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-735.7b3247f6fed0.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 736,
+   "file": "11-1139-736.a546f2ae4b55.pmtiles",
+   "bytes": 406687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-736.a546f2ae4b55.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 737,
+   "file": "11-1139-737.4e9ef031f7c8.pmtiles",
+   "bytes": 1156033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-737.4e9ef031f7c8.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 738,
+   "file": "11-1139-738.350caa875704.pmtiles",
+   "bytes": 1545010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-738.350caa875704.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 739,
+   "file": "11-1139-739.cf9c78dfb2bd.pmtiles",
+   "bytes": 795342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-739.cf9c78dfb2bd.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 740,
+   "file": "11-1139-740.87aadc427942.pmtiles",
+   "bytes": 962177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-740.87aadc427942.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 741,
+   "file": "11-1139-741.ff9fccb0ee65.pmtiles",
+   "bytes": 506042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-741.ff9fccb0ee65.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 742,
+   "file": "11-1139-742.35959e269376.pmtiles",
+   "bytes": 268389,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1139-742.35959e269376.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 735,
+   "file": "11-1140-735.afa54ac9d850.pmtiles",
+   "bytes": 69013,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-735.afa54ac9d850.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 736,
+   "file": "11-1140-736.4bbfda4f5dae.pmtiles",
+   "bytes": 214696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-736.4bbfda4f5dae.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 737,
+   "file": "11-1140-737.4a62e5d212b5.pmtiles",
+   "bytes": 1073484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-737.4a62e5d212b5.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 738,
+   "file": "11-1140-738.64c5fbdd1b06.pmtiles",
+   "bytes": 5516861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-738.64c5fbdd1b06.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 739,
+   "file": "11-1140-739.78fd76f24df4.pmtiles",
+   "bytes": 1206946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-739.78fd76f24df4.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 740,
+   "file": "11-1140-740.f5816b7946a0.pmtiles",
+   "bytes": 968365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-740.f5816b7946a0.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 741,
+   "file": "11-1140-741.e128ea90f854.pmtiles",
+   "bytes": 424003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-741.e128ea90f854.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 742,
+   "file": "11-1140-742.5a31a738c905.pmtiles",
+   "bytes": 495354,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1140-742.5a31a738c905.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 735,
+   "file": "11-1141-735.aa97a2080ac3.pmtiles",
+   "bytes": 43806,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-735.aa97a2080ac3.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 736,
+   "file": "11-1141-736.08f670b08007.pmtiles",
+   "bytes": 134302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-736.08f670b08007.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 737,
+   "file": "11-1141-737.ed828600e9ba.pmtiles",
+   "bytes": 1038950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-737.ed828600e9ba.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 738,
+   "file": "11-1141-738.95210d6e9c35.pmtiles",
+   "bytes": 867941,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-738.95210d6e9c35.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 739,
+   "file": "11-1141-739.81370148dd90.pmtiles",
+   "bytes": 700635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-739.81370148dd90.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 740,
+   "file": "11-1141-740.b81429b33350.pmtiles",
+   "bytes": 757084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-740.b81429b33350.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 741,
+   "file": "11-1141-741.ac4f5c553507.pmtiles",
+   "bytes": 830783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-741.ac4f5c553507.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 742,
+   "file": "11-1141-742.3e4603630505.pmtiles",
+   "bytes": 341921,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1141-742.3e4603630505.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 736,
+   "file": "11-1142-736.cd172f5af386.pmtiles",
+   "bytes": 178619,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-736.cd172f5af386.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 737,
+   "file": "11-1142-737.251e82b400df.pmtiles",
+   "bytes": 126443,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-737.251e82b400df.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 738,
+   "file": "11-1142-738.20c4820d0f42.pmtiles",
+   "bytes": 198314,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-738.20c4820d0f42.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 739,
+   "file": "11-1142-739.19d475513250.pmtiles",
+   "bytes": 300606,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-739.19d475513250.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 740,
+   "file": "11-1142-740.89c5d15c03eb.pmtiles",
+   "bytes": 328039,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-740.89c5d15c03eb.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 741,
+   "file": "11-1142-741.0daeb354ea1e.pmtiles",
+   "bytes": 266325,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-741.0daeb354ea1e.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 742,
+   "file": "11-1142-742.2c90616291bc.pmtiles",
+   "bytes": 109394,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-rs-beograd-2026-10-03/11-1142-742.2c90616291bc.pmtiles"
+  }
+ ]
+}
