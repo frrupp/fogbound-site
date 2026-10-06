@@ -1,0 +1,517 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "bg-haskovo",
+ "source": "bg.pmtiles",
+ "builtAt": "2026-10-06T02:15:57.682Z",
+ "publishedAt": "2026-10-06T02:16:14.977Z",
+ "host": "github",
+ "releases": [
+  "maps-bg-haskovo-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.21375,
+  41.31805,
+  26.58434,
+  42.20813
+ ],
+ "overview": {
+  "file": "overview.39a7e84551ad.pmtiles",
+  "bytes": 1506228,
+  "tiles": 42,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/overview.39a7e84551ad.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1167,
+   "y": 758,
+   "file": "11-1167-758.59bc3cfc5076.pmtiles",
+   "bytes": 109060,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-758.59bc3cfc5076.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 759,
+   "file": "11-1167-759.753b1c6f51c3.pmtiles",
+   "bytes": 273355,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-759.753b1c6f51c3.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 760,
+   "file": "11-1167-760.1ab1e922d995.pmtiles",
+   "bytes": 194768,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-760.1ab1e922d995.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 761,
+   "file": "11-1167-761.ecbcfa57882f.pmtiles",
+   "bytes": 291682,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-761.ecbcfa57882f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 762,
+   "file": "11-1167-762.14aed135487c.pmtiles",
+   "bytes": 350928,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-762.14aed135487c.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 763,
+   "file": "11-1167-763.e862a5b23d0f.pmtiles",
+   "bytes": 246262,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-763.e862a5b23d0f.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 764,
+   "file": "11-1167-764.8c802ae0674e.pmtiles",
+   "bytes": 300817,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-764.8c802ae0674e.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 765,
+   "file": "11-1167-765.76996dc9e46f.pmtiles",
+   "bytes": 140745,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1167-765.76996dc9e46f.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 758,
+   "file": "11-1168-758.a83f98f1ac0e.pmtiles",
+   "bytes": 184853,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-758.a83f98f1ac0e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 759,
+   "file": "11-1168-759.636c3c5b87f8.pmtiles",
+   "bytes": 208445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-759.636c3c5b87f8.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 760,
+   "file": "11-1168-760.6d3965202631.pmtiles",
+   "bytes": 380833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-760.6d3965202631.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 761,
+   "file": "11-1168-761.fb330e5a5d16.pmtiles",
+   "bytes": 475693,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-761.fb330e5a5d16.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 762,
+   "file": "11-1168-762.8e71cefad759.pmtiles",
+   "bytes": 609414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-762.8e71cefad759.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 763,
+   "file": "11-1168-763.595e6c68c482.pmtiles",
+   "bytes": 556737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-763.595e6c68c482.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 764,
+   "file": "11-1168-764.457a5da63c3a.pmtiles",
+   "bytes": 353725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-764.457a5da63c3a.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 765,
+   "file": "11-1168-765.0dafcc8e6dc5.pmtiles",
+   "bytes": 168763,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1168-765.0dafcc8e6dc5.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 758,
+   "file": "11-1169-758.0ac92e33a5a9.pmtiles",
+   "bytes": 73127,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-758.0ac92e33a5a9.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 759,
+   "file": "11-1169-759.c0252ebafeb7.pmtiles",
+   "bytes": 369683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-759.c0252ebafeb7.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 760,
+   "file": "11-1169-760.f17ecc908dbe.pmtiles",
+   "bytes": 857706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-760.f17ecc908dbe.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 761,
+   "file": "11-1169-761.131e3196c812.pmtiles",
+   "bytes": 493789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-761.131e3196c812.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 762,
+   "file": "11-1169-762.6ddfb1c967d7.pmtiles",
+   "bytes": 369021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-762.6ddfb1c967d7.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 763,
+   "file": "11-1169-763.5f03e55b6473.pmtiles",
+   "bytes": 424786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-763.5f03e55b6473.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 764,
+   "file": "11-1169-764.371ac10efe5b.pmtiles",
+   "bytes": 445112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-764.371ac10efe5b.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 765,
+   "file": "11-1169-765.74924ee94092.pmtiles",
+   "bytes": 168832,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1169-765.74924ee94092.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 758,
+   "file": "11-1170-758.74cc37988d67.pmtiles",
+   "bytes": 64577,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-758.74cc37988d67.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 759,
+   "file": "11-1170-759.9a869e5a313d.pmtiles",
+   "bytes": 105780,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-759.9a869e5a313d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 760,
+   "file": "11-1170-760.abed905a5ebb.pmtiles",
+   "bytes": 204001,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-760.abed905a5ebb.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 761,
+   "file": "11-1170-761.4e6b5a6117d2.pmtiles",
+   "bytes": 145608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-761.4e6b5a6117d2.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 762,
+   "file": "11-1170-762.83e1fd62252f.pmtiles",
+   "bytes": 250007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-762.83e1fd62252f.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 763,
+   "file": "11-1170-763.c72eb8d49309.pmtiles",
+   "bytes": 255338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-763.c72eb8d49309.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 764,
+   "file": "11-1170-764.953eff01e6e6.pmtiles",
+   "bytes": 283870,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-764.953eff01e6e6.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 765,
+   "file": "11-1170-765.ff54a153e0e8.pmtiles",
+   "bytes": 101230,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1170-765.ff54a153e0e8.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 758,
+   "file": "11-1171-758.28f03fcc07a5.pmtiles",
+   "bytes": 65855,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-758.28f03fcc07a5.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 759,
+   "file": "11-1171-759.f14ebba700a3.pmtiles",
+   "bytes": 175147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-759.f14ebba700a3.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 760,
+   "file": "11-1171-760.2b602bb45742.pmtiles",
+   "bytes": 284684,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-760.2b602bb45742.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 761,
+   "file": "11-1171-761.32279461efc1.pmtiles",
+   "bytes": 169950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-761.32279461efc1.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 762,
+   "file": "11-1171-762.7cd4d81746cb.pmtiles",
+   "bytes": 223282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-762.7cd4d81746cb.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 763,
+   "file": "11-1171-763.db5781599d3b.pmtiles",
+   "bytes": 185325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-763.db5781599d3b.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 764,
+   "file": "11-1171-764.a12f09c23c93.pmtiles",
+   "bytes": 231736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-764.a12f09c23c93.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 765,
+   "file": "11-1171-765.92180e2f0d47.pmtiles",
+   "bytes": 63081,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1171-765.92180e2f0d47.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 758,
+   "file": "11-1172-758.a0492c51add0.pmtiles",
+   "bytes": 45155,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-758.a0492c51add0.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 759,
+   "file": "11-1172-759.bb1c7b83d4f5.pmtiles",
+   "bytes": 112082,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-759.bb1c7b83d4f5.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 760,
+   "file": "11-1172-760.48dcdb5ee649.pmtiles",
+   "bytes": 125048,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-760.48dcdb5ee649.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 761,
+   "file": "11-1172-761.19206b829bcf.pmtiles",
+   "bytes": 215477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-761.19206b829bcf.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 762,
+   "file": "11-1172-762.708ee3570c20.pmtiles",
+   "bytes": 173105,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-762.708ee3570c20.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 763,
+   "file": "11-1172-763.48f1580e8fed.pmtiles",
+   "bytes": 194816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-763.48f1580e8fed.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 764,
+   "file": "11-1172-764.f4c2a6b592dc.pmtiles",
+   "bytes": 242181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-764.f4c2a6b592dc.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 765,
+   "file": "11-1172-765.d6aad995c80c.pmtiles",
+   "bytes": 64893,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1172-765.d6aad995c80c.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 758,
+   "file": "11-1173-758.e0432b29586b.pmtiles",
+   "bytes": 41178,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1173-758.e0432b29586b.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 759,
+   "file": "11-1173-759.3151b57c2579.pmtiles",
+   "bytes": 155801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1173-759.3151b57c2579.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 760,
+   "file": "11-1173-760.b916ba692284.pmtiles",
+   "bytes": 134539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1173-760.b916ba692284.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 761,
+   "file": "11-1173-761.2a9c4674ea0c.pmtiles",
+   "bytes": 209923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1173-761.2a9c4674ea0c.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 762,
+   "file": "11-1173-762.d339ee5c5930.pmtiles",
+   "bytes": 227558,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1173-762.d339ee5c5930.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 758,
+   "file": "11-1174-758.5f59ebadcc5a.pmtiles",
+   "bytes": 42027,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1174-758.5f59ebadcc5a.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 759,
+   "file": "11-1174-759.12fed49d080b.pmtiles",
+   "bytes": 149667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1174-759.12fed49d080b.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 760,
+   "file": "11-1174-760.2af5a6b3e828.pmtiles",
+   "bytes": 152850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1174-760.2af5a6b3e828.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 761,
+   "file": "11-1174-761.572b5277d9ee.pmtiles",
+   "bytes": 135672,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1174-761.572b5277d9ee.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 758,
+   "file": "11-1175-758.68b80c82e16a.pmtiles",
+   "bytes": 75779,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1175-758.68b80c82e16a.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 759,
+   "file": "11-1175-759.897e31af68d3.pmtiles",
+   "bytes": 39180,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1175-759.897e31af68d3.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 760,
+   "file": "11-1175-760.e9f1f46d7ffa.pmtiles",
+   "bytes": 58150,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1175-760.e9f1f46d7ffa.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 761,
+   "file": "11-1175-761.bdfd28182383.pmtiles",
+   "bytes": 33749,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-bg-haskovo-2026-10-03/11-1175-761.bdfd28182383.pmtiles"
+  }
+ ]
+}
