@@ -1,0 +1,501 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "cy-cyprus",
+ "source": "cy.pmtiles",
+ "builtAt": "2026-10-06T07:01:10.973Z",
+ "publishedAt": "2026-10-06T07:01:28.969Z",
+ "host": "github",
+ "releases": [
+  "maps-cy-cyprus-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  32.26921,
+  34.63234,
+  34.60779,
+  35.71184
+ ],
+ "overview": {
+  "file": "overview.50a724d31597.pmtiles",
+  "bytes": 1206887,
+  "tiles": 64,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/overview.50a724d31597.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1207,
+   "y": 810,
+   "file": "11-1207-810.82543eec67a9.pmtiles",
+   "bytes": 54327,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1207-810.82543eec67a9.pmtiles"
+  },
+  {
+   "x": 1207,
+   "y": 811,
+   "file": "11-1207-811.141f5915716f.pmtiles",
+   "bytes": 147088,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1207-811.141f5915716f.pmtiles"
+  },
+  {
+   "x": 1207,
+   "y": 812,
+   "file": "11-1207-812.8ece4e0bc040.pmtiles",
+   "bytes": 34942,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1207-812.8ece4e0bc040.pmtiles"
+  },
+  {
+   "x": 1208,
+   "y": 810,
+   "file": "11-1208-810.970ed3a9a8b1.pmtiles",
+   "bytes": 305020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1208-810.970ed3a9a8b1.pmtiles"
+  },
+  {
+   "x": 1208,
+   "y": 811,
+   "file": "11-1208-811.978808bd8170.pmtiles",
+   "bytes": 655356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1208-811.978808bd8170.pmtiles"
+  },
+  {
+   "x": 1208,
+   "y": 812,
+   "file": "11-1208-812.ac2d494c4d0b.pmtiles",
+   "bytes": 1536815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1208-812.ac2d494c4d0b.pmtiles"
+  },
+  {
+   "x": 1208,
+   "y": 813,
+   "file": "11-1208-813.07230f17618e.pmtiles",
+   "bytes": 120632,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1208-813.07230f17618e.pmtiles"
+  },
+  {
+   "x": 1209,
+   "y": 809,
+   "file": "11-1209-809.c4385ddf6189.pmtiles",
+   "bytes": 90047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1209-809.c4385ddf6189.pmtiles"
+  },
+  {
+   "x": 1209,
+   "y": 810,
+   "file": "11-1209-810.63bee26dd163.pmtiles",
+   "bytes": 263516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1209-810.63bee26dd163.pmtiles"
+  },
+  {
+   "x": 1209,
+   "y": 811,
+   "file": "11-1209-811.4dd68935cf81.pmtiles",
+   "bytes": 393579,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1209-811.4dd68935cf81.pmtiles"
+  },
+  {
+   "x": 1209,
+   "y": 812,
+   "file": "11-1209-812.76ff29602598.pmtiles",
+   "bytes": 418755,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1209-812.76ff29602598.pmtiles"
+  },
+  {
+   "x": 1209,
+   "y": 813,
+   "file": "11-1209-813.1ebfeb068d15.pmtiles",
+   "bytes": 423212,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1209-813.1ebfeb068d15.pmtiles"
+  },
+  {
+   "x": 1210,
+   "y": 809,
+   "file": "11-1210-809.71503fd52d0b.pmtiles",
+   "bytes": 31527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1210-809.71503fd52d0b.pmtiles"
+  },
+  {
+   "x": 1210,
+   "y": 810,
+   "file": "11-1210-810.589ae3f5437b.pmtiles",
+   "bytes": 665846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1210-810.589ae3f5437b.pmtiles"
+  },
+  {
+   "x": 1210,
+   "y": 811,
+   "file": "11-1210-811.518d5aaf8dca.pmtiles",
+   "bytes": 481877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1210-811.518d5aaf8dca.pmtiles"
+  },
+  {
+   "x": 1210,
+   "y": 812,
+   "file": "11-1210-812.9514638237c5.pmtiles",
+   "bytes": 486187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1210-812.9514638237c5.pmtiles"
+  },
+  {
+   "x": 1210,
+   "y": 813,
+   "file": "11-1210-813.0332f2680a29.pmtiles",
+   "bytes": 382826,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1210-813.0332f2680a29.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 808,
+   "file": "11-1211-808.b921dc091e3f.pmtiles",
+   "bytes": 153215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-808.b921dc091e3f.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 809,
+   "file": "11-1211-809.f7db4eca8cea.pmtiles",
+   "bytes": 725751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-809.f7db4eca8cea.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 810,
+   "file": "11-1211-810.475bb62ceb02.pmtiles",
+   "bytes": 1009706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-810.475bb62ceb02.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 811,
+   "file": "11-1211-811.9476afcbe52b.pmtiles",
+   "bytes": 656589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-811.9476afcbe52b.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 812,
+   "file": "11-1211-812.d1776e4243c0.pmtiles",
+   "bytes": 609111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-812.d1776e4243c0.pmtiles"
+  },
+  {
+   "x": 1211,
+   "y": 813,
+   "file": "11-1211-813.a2c7f8655aa2.pmtiles",
+   "bytes": 1639870,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1211-813.a2c7f8655aa2.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 808,
+   "file": "11-1212-808.854a6b15df9c.pmtiles",
+   "bytes": 237159,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-808.854a6b15df9c.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 809,
+   "file": "11-1212-809.fea36d6b64b0.pmtiles",
+   "bytes": 563954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-809.fea36d6b64b0.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 810,
+   "file": "11-1212-810.80e6a6b03369.pmtiles",
+   "bytes": 914122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-810.80e6a6b03369.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 811,
+   "file": "11-1212-811.d67764ab6a6e.pmtiles",
+   "bytes": 420531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-811.d67764ab6a6e.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 812,
+   "file": "11-1212-812.c4d6f48c2a93.pmtiles",
+   "bytes": 512710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-812.c4d6f48c2a93.pmtiles"
+  },
+  {
+   "x": 1212,
+   "y": 813,
+   "file": "11-1212-813.7746a62c07ba.pmtiles",
+   "bytes": 1018889,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1212-813.7746a62c07ba.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 808,
+   "file": "11-1213-808.a056318a0ed8.pmtiles",
+   "bytes": 465879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-808.a056318a0ed8.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 809,
+   "file": "11-1213-809.a429749a01da.pmtiles",
+   "bytes": 1740983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-809.a429749a01da.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 810,
+   "file": "11-1213-810.48c1817f734e.pmtiles",
+   "bytes": 2720516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-810.48c1817f734e.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 811,
+   "file": "11-1213-811.139ee80e499c.pmtiles",
+   "bytes": 584810,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-811.139ee80e499c.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 812,
+   "file": "11-1213-812.7a1b11a78300.pmtiles",
+   "bytes": 652244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-812.7a1b11a78300.pmtiles"
+  },
+  {
+   "x": 1213,
+   "y": 813,
+   "file": "11-1213-813.51d2407298f3.pmtiles",
+   "bytes": 167426,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1213-813.51d2407298f3.pmtiles"
+  },
+  {
+   "x": 1214,
+   "y": 808,
+   "file": "11-1214-808.1549a367ae41.pmtiles",
+   "bytes": 111206,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1214-808.1549a367ae41.pmtiles"
+  },
+  {
+   "x": 1214,
+   "y": 809,
+   "file": "11-1214-809.e37db527d3f7.pmtiles",
+   "bytes": 386097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1214-809.e37db527d3f7.pmtiles"
+  },
+  {
+   "x": 1214,
+   "y": 810,
+   "file": "11-1214-810.103eb1257d2e.pmtiles",
+   "bytes": 515187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1214-810.103eb1257d2e.pmtiles"
+  },
+  {
+   "x": 1214,
+   "y": 811,
+   "file": "11-1214-811.f529db8fdbea.pmtiles",
+   "bytes": 688099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1214-811.f529db8fdbea.pmtiles"
+  },
+  {
+   "x": 1214,
+   "y": 812,
+   "file": "11-1214-812.8e3ba783f6a5.pmtiles",
+   "bytes": 525305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1214-812.8e3ba783f6a5.pmtiles"
+  },
+  {
+   "x": 1215,
+   "y": 808,
+   "file": "11-1215-808.b3fda0c9cc04.pmtiles",
+   "bytes": 140482,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1215-808.b3fda0c9cc04.pmtiles"
+  },
+  {
+   "x": 1215,
+   "y": 809,
+   "file": "11-1215-809.799e2f74be32.pmtiles",
+   "bytes": 202529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1215-809.799e2f74be32.pmtiles"
+  },
+  {
+   "x": 1215,
+   "y": 810,
+   "file": "11-1215-810.3e9388ce88ed.pmtiles",
+   "bytes": 210642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1215-810.3e9388ce88ed.pmtiles"
+  },
+  {
+   "x": 1215,
+   "y": 811,
+   "file": "11-1215-811.7fe6354de094.pmtiles",
+   "bytes": 1256031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1215-811.7fe6354de094.pmtiles"
+  },
+  {
+   "x": 1215,
+   "y": 812,
+   "file": "11-1215-812.c4ae5e7f9980.pmtiles",
+   "bytes": 241585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1215-812.c4ae5e7f9980.pmtiles"
+  },
+  {
+   "x": 1216,
+   "y": 808,
+   "file": "11-1216-808.6a43481d9448.pmtiles",
+   "bytes": 191589,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1216-808.6a43481d9448.pmtiles"
+  },
+  {
+   "x": 1216,
+   "y": 809,
+   "file": "11-1216-809.bc65473b4773.pmtiles",
+   "bytes": 342983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1216-809.bc65473b4773.pmtiles"
+  },
+  {
+   "x": 1216,
+   "y": 810,
+   "file": "11-1216-810.6aabf05dbf36.pmtiles",
+   "bytes": 585455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1216-810.6aabf05dbf36.pmtiles"
+  },
+  {
+   "x": 1216,
+   "y": 811,
+   "file": "11-1216-811.0e3c794aad8d.pmtiles",
+   "bytes": 367601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1216-811.0e3c794aad8d.pmtiles"
+  },
+  {
+   "x": 1217,
+   "y": 807,
+   "file": "11-1217-807.fd008f2bc39a.pmtiles",
+   "bytes": 33704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1217-807.fd008f2bc39a.pmtiles"
+  },
+  {
+   "x": 1217,
+   "y": 808,
+   "file": "11-1217-808.133d4d0d8def.pmtiles",
+   "bytes": 254275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1217-808.133d4d0d8def.pmtiles"
+  },
+  {
+   "x": 1217,
+   "y": 809,
+   "file": "11-1217-809.6ddfebb64749.pmtiles",
+   "bytes": 42871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1217-809.6ddfebb64749.pmtiles"
+  },
+  {
+   "x": 1217,
+   "y": 810,
+   "file": "11-1217-810.4014f02d3079.pmtiles",
+   "bytes": 591009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1217-810.4014f02d3079.pmtiles"
+  },
+  {
+   "x": 1217,
+   "y": 811,
+   "file": "11-1217-811.9c9aeaeae338.pmtiles",
+   "bytes": 612182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1217-811.9c9aeaeae338.pmtiles"
+  },
+  {
+   "x": 1218,
+   "y": 807,
+   "file": "11-1218-807.7d712d3916f9.pmtiles",
+   "bytes": 435207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1218-807.7d712d3916f9.pmtiles"
+  },
+  {
+   "x": 1218,
+   "y": 808,
+   "file": "11-1218-808.81b125b03a2d.pmtiles",
+   "bytes": 91273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1218-808.81b125b03a2d.pmtiles"
+  },
+  {
+   "x": 1219,
+   "y": 806,
+   "file": "11-1219-806.1a536dd4bfa6.pmtiles",
+   "bytes": 110179,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1219-806.1a536dd4bfa6.pmtiles"
+  },
+  {
+   "x": 1219,
+   "y": 807,
+   "file": "11-1219-807.d2da1f6e828f.pmtiles",
+   "bytes": 263118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1219-807.d2da1f6e828f.pmtiles"
+  },
+  {
+   "x": 1220,
+   "y": 806,
+   "file": "11-1220-806.c9d0358a533c.pmtiles",
+   "bytes": 159443,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-cy-cyprus-2026-10-03/11-1220-806.c9d0358a533c.pmtiles"
+  }
+ ]
+}
