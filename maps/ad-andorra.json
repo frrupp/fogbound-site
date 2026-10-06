@@ -1,0 +1,69 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ad-andorra",
+ "source": "ad.pmtiles",
+ "builtAt": "2026-10-06T07:02:02.611Z",
+ "publishedAt": "2026-10-06T07:02:06.759Z",
+ "host": "github",
+ "releases": [
+  "maps-ad-andorra-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  1.4078,
+  42.42882,
+  1.78665,
+  42.6559
+ ],
+ "overview": {
+  "file": "overview.42856d325d15.pmtiles",
+  "bytes": 122053,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/overview.42856d325d15.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1032,
+   "y": 755,
+   "file": "11-1032-755.9a9315c6e459.pmtiles",
+   "bytes": 523057,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/11-1032-755.9a9315c6e459.pmtiles"
+  },
+  {
+   "x": 1032,
+   "y": 756,
+   "file": "11-1032-756.7c218fdc5d1f.pmtiles",
+   "bytes": 1151363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/11-1032-756.7c218fdc5d1f.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 755,
+   "file": "11-1033-755.3a0ef8aed5de.pmtiles",
+   "bytes": 495632,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/11-1033-755.3a0ef8aed5de.pmtiles"
+  },
+  {
+   "x": 1033,
+   "y": 756,
+   "file": "11-1033-756.f9c285e29067.pmtiles",
+   "bytes": 424405,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/11-1033-756.f9c285e29067.pmtiles"
+  },
+  {
+   "x": 1034,
+   "y": 755,
+   "file": "11-1034-755.316027b6e4d4.pmtiles",
+   "bytes": 28553,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ad-andorra-2026-10-03/11-1034-755.316027b6e4d4.pmtiles"
+  }
+ ]
+}
