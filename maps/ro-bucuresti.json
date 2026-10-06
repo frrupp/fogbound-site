@@ -1,0 +1,101 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-bucuresti",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:52:21.774Z",
+ "publishedAt": "2026-10-05T23:52:29.143Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-bucuresti-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.96667,
+  44.33425,
+  26.22558,
+  44.5414
+ ],
+ "overview": {
+  "file": "overview.11079ca0c586.pmtiles",
+  "bytes": 670766,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/overview.11079ca0c586.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1171,
+   "y": 740,
+   "file": "11-1171-740.027c047bf8ce.pmtiles",
+   "bytes": 394211,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1171-740.027c047bf8ce.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 741,
+   "file": "11-1171-741.29874e8a9a81.pmtiles",
+   "bytes": 874520,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1171-741.29874e8a9a81.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 742,
+   "file": "11-1171-742.bd40c8d77b0c.pmtiles",
+   "bytes": 63662,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1171-742.bd40c8d77b0c.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 740,
+   "file": "11-1172-740.55ce77e38d9e.pmtiles",
+   "bytes": 2016303,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1172-740.55ce77e38d9e.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 741,
+   "file": "11-1172-741.f6df27e1aeb3.pmtiles",
+   "bytes": 5366000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1172-741.f6df27e1aeb3.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 742,
+   "file": "11-1172-742.f717f9b5ed5e.pmtiles",
+   "bytes": 179797,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1172-742.f717f9b5ed5e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 740,
+   "file": "11-1173-740.9d7c4291e630.pmtiles",
+   "bytes": 206161,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1173-740.9d7c4291e630.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 741,
+   "file": "11-1173-741.058da6e45aff.pmtiles",
+   "bytes": 592043,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1173-741.058da6e45aff.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 742,
+   "file": "11-1173-742.f74b5ce36fee.pmtiles",
+   "bytes": 31814,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-bucuresti-2026-10-03/11-1173-742.f74b5ce36fee.pmtiles"
+  }
+ ]
+}

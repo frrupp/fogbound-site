@@ -1,0 +1,709 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-caras-severin",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:02:56.366Z",
+ "publishedAt": "2026-10-06T01:03:21.264Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-caras-severin-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  21.35307,
+  44.58531,
+  22.71282,
+  45.66889
+ ],
+ "overview": {
+  "file": "overview.490e3d89c499.pmtiles",
+  "bytes": 3674856,
+  "tiles": 62,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/overview.490e3d89c499.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1145,
+   "y": 731,
+   "file": "11-1145-731.d82137e8c0b5.pmtiles",
+   "bytes": 113559,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-731.d82137e8c0b5.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 732,
+   "file": "11-1145-732.ebc3649cc3f3.pmtiles",
+   "bytes": 92840,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-732.ebc3649cc3f3.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 733,
+   "file": "11-1145-733.930fb1b123a6.pmtiles",
+   "bytes": 130329,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-733.930fb1b123a6.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 734,
+   "file": "11-1145-734.23479d8fbcc3.pmtiles",
+   "bytes": 109565,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-734.23479d8fbcc3.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 735,
+   "file": "11-1145-735.69292852e9a6.pmtiles",
+   "bytes": 72144,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-735.69292852e9a6.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 736,
+   "file": "11-1145-736.0054bb28c024.pmtiles",
+   "bytes": 145125,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-736.0054bb28c024.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 737,
+   "file": "11-1145-737.c15af9b7347f.pmtiles",
+   "bytes": 170365,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-737.c15af9b7347f.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 738,
+   "file": "11-1145-738.7a4dabbc125a.pmtiles",
+   "bytes": 153300,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1145-738.7a4dabbc125a.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 731,
+   "file": "11-1146-731.14220244fce4.pmtiles",
+   "bytes": 188609,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-731.14220244fce4.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 732,
+   "file": "11-1146-732.1b19a6c341f1.pmtiles",
+   "bytes": 144064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-732.1b19a6c341f1.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 733,
+   "file": "11-1146-733.53d0e222adee.pmtiles",
+   "bytes": 171555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-733.53d0e222adee.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 734,
+   "file": "11-1146-734.df73b8fd0dbe.pmtiles",
+   "bytes": 230867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-734.df73b8fd0dbe.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 735,
+   "file": "11-1146-735.1df375babf0b.pmtiles",
+   "bytes": 267955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-735.1df375babf0b.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 736,
+   "file": "11-1146-736.b357862bc567.pmtiles",
+   "bytes": 165183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-736.b357862bc567.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 737,
+   "file": "11-1146-737.a712b04434a3.pmtiles",
+   "bytes": 327319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-737.a712b04434a3.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 738,
+   "file": "11-1146-738.e1f4bed4ae24.pmtiles",
+   "bytes": 366215,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-738.e1f4bed4ae24.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 739,
+   "file": "11-1146-739.dcabf361c790.pmtiles",
+   "bytes": 66919,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1146-739.dcabf361c790.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 731,
+   "file": "11-1147-731.30e9d3e034f4.pmtiles",
+   "bytes": 142425,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-731.30e9d3e034f4.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 732,
+   "file": "11-1147-732.b3d667c4bf09.pmtiles",
+   "bytes": 229578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-732.b3d667c4bf09.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 733,
+   "file": "11-1147-733.462d0548a140.pmtiles",
+   "bytes": 230895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-733.462d0548a140.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 734,
+   "file": "11-1147-734.07a9a6e3f29c.pmtiles",
+   "bytes": 224310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-734.07a9a6e3f29c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 735,
+   "file": "11-1147-735.06cdcc3a6497.pmtiles",
+   "bytes": 220431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-735.06cdcc3a6497.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 736,
+   "file": "11-1147-736.00cc168a4218.pmtiles",
+   "bytes": 236671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-736.00cc168a4218.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 737,
+   "file": "11-1147-737.a521725d8c0f.pmtiles",
+   "bytes": 220833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-737.a521725d8c0f.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 738,
+   "file": "11-1147-738.f08063c918a6.pmtiles",
+   "bytes": 249541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-738.f08063c918a6.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 739,
+   "file": "11-1147-739.4f0c8567f8dd.pmtiles",
+   "bytes": 270367,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1147-739.4f0c8567f8dd.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 731,
+   "file": "11-1148-731.f3e71c4e4bd4.pmtiles",
+   "bytes": 214941,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-731.f3e71c4e4bd4.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 732,
+   "file": "11-1148-732.38ccd8c1eaa1.pmtiles",
+   "bytes": 271494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-732.38ccd8c1eaa1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 733,
+   "file": "11-1148-733.b6587479ff40.pmtiles",
+   "bytes": 235372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-733.b6587479ff40.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 734,
+   "file": "11-1148-734.a54019eb726c.pmtiles",
+   "bytes": 510620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-734.a54019eb726c.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 735,
+   "file": "11-1148-735.632f6a764e03.pmtiles",
+   "bytes": 230867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-735.632f6a764e03.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 736,
+   "file": "11-1148-736.47ef63f8532e.pmtiles",
+   "bytes": 156435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-736.47ef63f8532e.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 737,
+   "file": "11-1148-737.b78fbdc05fe0.pmtiles",
+   "bytes": 160276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-737.b78fbdc05fe0.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 738,
+   "file": "11-1148-738.44f6d66813aa.pmtiles",
+   "bytes": 263875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-738.44f6d66813aa.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 739,
+   "file": "11-1148-739.df5cd67f2c23.pmtiles",
+   "bytes": 186851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1148-739.df5cd67f2c23.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 731,
+   "file": "11-1149-731.30243eedfc3c.pmtiles",
+   "bytes": 180972,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-731.30243eedfc3c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 732,
+   "file": "11-1149-732.6521aa4a66b8.pmtiles",
+   "bytes": 251167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-732.6521aa4a66b8.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 733,
+   "file": "11-1149-733.f2d79ef0fe7f.pmtiles",
+   "bytes": 232818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-733.f2d79ef0fe7f.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 734,
+   "file": "11-1149-734.ce8bdbc3715b.pmtiles",
+   "bytes": 188972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-734.ce8bdbc3715b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 735,
+   "file": "11-1149-735.333d8fa8af25.pmtiles",
+   "bytes": 129145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-735.333d8fa8af25.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 736,
+   "file": "11-1149-736.50e5a6c01a00.pmtiles",
+   "bytes": 102250,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-736.50e5a6c01a00.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 737,
+   "file": "11-1149-737.89f2c1c51fbc.pmtiles",
+   "bytes": 188671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-737.89f2c1c51fbc.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 738,
+   "file": "11-1149-738.a8c0915a669c.pmtiles",
+   "bytes": 99569,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-738.a8c0915a669c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 739,
+   "file": "11-1149-739.6c053ec1f524.pmtiles",
+   "bytes": 117543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-739.6c053ec1f524.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 740,
+   "file": "11-1149-740.ebd1df3ce3dc.pmtiles",
+   "bytes": 47566,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1149-740.ebd1df3ce3dc.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 731,
+   "file": "11-1150-731.1249b0759c64.pmtiles",
+   "bytes": 88206,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-731.1249b0759c64.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 732,
+   "file": "11-1150-732.c8cea2bb2f71.pmtiles",
+   "bytes": 196310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-732.c8cea2bb2f71.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 733,
+   "file": "11-1150-733.488c8eca7474.pmtiles",
+   "bytes": 402485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-733.488c8eca7474.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 734,
+   "file": "11-1150-734.a4bb79a1f425.pmtiles",
+   "bytes": 223809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-734.a4bb79a1f425.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 735,
+   "file": "11-1150-735.a37bf803a863.pmtiles",
+   "bytes": 171039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-735.a37bf803a863.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 736,
+   "file": "11-1150-736.f3e96dce5671.pmtiles",
+   "bytes": 220153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-736.f3e96dce5671.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 737,
+   "file": "11-1150-737.9152982f0473.pmtiles",
+   "bytes": 106724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-737.9152982f0473.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 738,
+   "file": "11-1150-738.1ed633517739.pmtiles",
+   "bytes": 51519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-738.1ed633517739.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 739,
+   "file": "11-1150-739.22dcde864d66.pmtiles",
+   "bytes": 151147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-739.22dcde864d66.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 740,
+   "file": "11-1150-740.3a084a3b8514.pmtiles",
+   "bytes": 49824,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1150-740.3a084a3b8514.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 731,
+   "file": "11-1151-731.6d22e36bcfb6.pmtiles",
+   "bytes": 91761,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-731.6d22e36bcfb6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 732,
+   "file": "11-1151-732.d31e518ad585.pmtiles",
+   "bytes": 216728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-732.d31e518ad585.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 733,
+   "file": "11-1151-733.ec933b86552f.pmtiles",
+   "bytes": 145678,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-733.ec933b86552f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 734,
+   "file": "11-1151-734.08335a2fd4af.pmtiles",
+   "bytes": 184761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-734.08335a2fd4af.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 735,
+   "file": "11-1151-735.14a44f9c16c7.pmtiles",
+   "bytes": 201164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-735.14a44f9c16c7.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 736,
+   "file": "11-1151-736.a27bdfd03a8e.pmtiles",
+   "bytes": 248139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-736.a27bdfd03a8e.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 737,
+   "file": "11-1151-737.7267f3866bb6.pmtiles",
+   "bytes": 251449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-737.7267f3866bb6.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 738,
+   "file": "11-1151-738.2decc66450f0.pmtiles",
+   "bytes": 390653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-738.2decc66450f0.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 739,
+   "file": "11-1151-739.d447ee9d827c.pmtiles",
+   "bytes": 219566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-739.d447ee9d827c.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 740,
+   "file": "11-1151-740.8a4e9efdfbc3.pmtiles",
+   "bytes": 22432,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1151-740.8a4e9efdfbc3.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 731,
+   "file": "11-1152-731.c2cd444f6fc1.pmtiles",
+   "bytes": 228426,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-731.c2cd444f6fc1.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 732,
+   "file": "11-1152-732.a17cb9c15265.pmtiles",
+   "bytes": 199722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-732.a17cb9c15265.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 733,
+   "file": "11-1152-733.3750134309d0.pmtiles",
+   "bytes": 164366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-733.3750134309d0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 734,
+   "file": "11-1152-734.5f8b9324309c.pmtiles",
+   "bytes": 128693,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-734.5f8b9324309c.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 735,
+   "file": "11-1152-735.1d2dda242fc8.pmtiles",
+   "bytes": 127353,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-735.1d2dda242fc8.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 736,
+   "file": "11-1152-736.804d0b521ba0.pmtiles",
+   "bytes": 246177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-736.804d0b521ba0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 737,
+   "file": "11-1152-737.e729d1172aa5.pmtiles",
+   "bytes": 344932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-737.e729d1172aa5.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 738,
+   "file": "11-1152-738.e2b44651cc53.pmtiles",
+   "bytes": 283985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-738.e2b44651cc53.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 739,
+   "file": "11-1152-739.8fa148b7bf40.pmtiles",
+   "bytes": 472546,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-739.8fa148b7bf40.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 740,
+   "file": "11-1152-740.c24d7b965e54.pmtiles",
+   "bytes": 25736,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1152-740.c24d7b965e54.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 731,
+   "file": "11-1153-731.38b2d315f565.pmtiles",
+   "bytes": 93524,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-731.38b2d315f565.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 732,
+   "file": "11-1153-732.149c4506635f.pmtiles",
+   "bytes": 83802,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-732.149c4506635f.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 733,
+   "file": "11-1153-733.1a870d4deed5.pmtiles",
+   "bytes": 63829,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-733.1a870d4deed5.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 734,
+   "file": "11-1153-734.aef775a9e714.pmtiles",
+   "bytes": 52210,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-734.aef775a9e714.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 735,
+   "file": "11-1153-735.7b7305e4db23.pmtiles",
+   "bytes": 65323,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-735.7b7305e4db23.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 736,
+   "file": "11-1153-736.c68196e49d66.pmtiles",
+   "bytes": 112068,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-736.c68196e49d66.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 737,
+   "file": "11-1153-737.3207ddf1ff68.pmtiles",
+   "bytes": 123228,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-737.3207ddf1ff68.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 738,
+   "file": "11-1153-738.80943873e6a0.pmtiles",
+   "bytes": 111579,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-738.80943873e6a0.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 739,
+   "file": "11-1153-739.2beca6ff37db.pmtiles",
+   "bytes": 179117,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-739.2beca6ff37db.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 740,
+   "file": "11-1153-740.12a7506d8ca6.pmtiles",
+   "bytes": 37352,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-caras-severin-2026-10-03/11-1153-740.12a7506d8ca6.pmtiles"
+  }
+ ]
+}

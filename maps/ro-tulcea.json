@@ -1,0 +1,573 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-tulcea",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:03:21.427Z",
+ "publishedAt": "2026-10-06T01:03:40.026Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-tulcea-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  27.99484,
+  44.61588,
+  29.76841,
+  45.46738
+ ],
+ "overview": {
+  "file": "overview.87486e97acc4.pmtiles",
+  "bytes": 1596966,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/overview.87486e97acc4.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1183,
+   "y": 732,
+   "file": "11-1183-732.b04148b8aa8f.pmtiles",
+   "bytes": 82290,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-732.b04148b8aa8f.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 733,
+   "file": "11-1183-733.fa604aa03c34.pmtiles",
+   "bytes": 694587,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-733.fa604aa03c34.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 734,
+   "file": "11-1183-734.f40895ed1f02.pmtiles",
+   "bytes": 134053,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-734.f40895ed1f02.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 735,
+   "file": "11-1183-735.51371dd28c2e.pmtiles",
+   "bytes": 64181,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-735.51371dd28c2e.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 736,
+   "file": "11-1183-736.b6c164e78b81.pmtiles",
+   "bytes": 36294,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-736.b6c164e78b81.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 737,
+   "file": "11-1183-737.d32134b4d426.pmtiles",
+   "bytes": 59958,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-737.d32134b4d426.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 738,
+   "file": "11-1183-738.a1077a7f7834.pmtiles",
+   "bytes": 101229,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-738.a1077a7f7834.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 739,
+   "file": "11-1183-739.23d5262735d2.pmtiles",
+   "bytes": 107177,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1183-739.23d5262735d2.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 732,
+   "file": "11-1184-732.3e38c45c2e42.pmtiles",
+   "bytes": 65783,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-732.3e38c45c2e42.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 733,
+   "file": "11-1184-733.ecd759fdd826.pmtiles",
+   "bytes": 169586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-733.ecd759fdd826.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 734,
+   "file": "11-1184-734.5c1f10160d37.pmtiles",
+   "bytes": 489307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-734.5c1f10160d37.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 735,
+   "file": "11-1184-735.87dec888ba9c.pmtiles",
+   "bytes": 491373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-735.87dec888ba9c.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 736,
+   "file": "11-1184-736.917f1c5671ec.pmtiles",
+   "bytes": 166653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-736.917f1c5671ec.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 737,
+   "file": "11-1184-737.714198f17db4.pmtiles",
+   "bytes": 155472,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-737.714198f17db4.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 738,
+   "file": "11-1184-738.68ff36d2e495.pmtiles",
+   "bytes": 99945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-738.68ff36d2e495.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 739,
+   "file": "11-1184-739.988253f17705.pmtiles",
+   "bytes": 92795,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1184-739.988253f17705.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 733,
+   "file": "11-1185-733.a0f6594c1cad.pmtiles",
+   "bytes": 25667,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-733.a0f6594c1cad.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 734,
+   "file": "11-1185-734.d234473481c6.pmtiles",
+   "bytes": 234779,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-734.d234473481c6.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 735,
+   "file": "11-1185-735.0f9663c71de3.pmtiles",
+   "bytes": 189454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-735.0f9663c71de3.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 736,
+   "file": "11-1185-736.e20a5050d3b5.pmtiles",
+   "bytes": 219418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-736.e20a5050d3b5.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 737,
+   "file": "11-1185-737.709d0558637a.pmtiles",
+   "bytes": 140550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-737.709d0558637a.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 738,
+   "file": "11-1185-738.01dd3475e8d1.pmtiles",
+   "bytes": 112584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-738.01dd3475e8d1.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 739,
+   "file": "11-1185-739.4b8cc361d9b1.pmtiles",
+   "bytes": 92521,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1185-739.4b8cc361d9b1.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 734,
+   "file": "11-1186-734.b1fa43ee84a3.pmtiles",
+   "bytes": 113774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-734.b1fa43ee84a3.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 735,
+   "file": "11-1186-735.6d20393e0870.pmtiles",
+   "bytes": 195634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-735.6d20393e0870.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 736,
+   "file": "11-1186-736.753705c5c0d7.pmtiles",
+   "bytes": 168339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-736.753705c5c0d7.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 737,
+   "file": "11-1186-737.1ab2fb0e0383.pmtiles",
+   "bytes": 167570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-737.1ab2fb0e0383.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 738,
+   "file": "11-1186-738.9ba20234c506.pmtiles",
+   "bytes": 176597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-738.9ba20234c506.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 739,
+   "file": "11-1186-739.1d71c62d42c1.pmtiles",
+   "bytes": 130925,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1186-739.1d71c62d42c1.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 733,
+   "file": "11-1187-733.b43576510579.pmtiles",
+   "bytes": 22885,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-733.b43576510579.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 734,
+   "file": "11-1187-734.bb19c71d515f.pmtiles",
+   "bytes": 142631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-734.bb19c71d515f.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 735,
+   "file": "11-1187-735.3f86f15f3b5f.pmtiles",
+   "bytes": 382936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-735.3f86f15f3b5f.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 736,
+   "file": "11-1187-736.cae2584013f7.pmtiles",
+   "bytes": 121550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-736.cae2584013f7.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 737,
+   "file": "11-1187-737.54e2c483dffe.pmtiles",
+   "bytes": 207185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-737.54e2c483dffe.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 738,
+   "file": "11-1187-738.47f520010782.pmtiles",
+   "bytes": 150543,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-738.47f520010782.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 739,
+   "file": "11-1187-739.540f2f53be23.pmtiles",
+   "bytes": 155948,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1187-739.540f2f53be23.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 734,
+   "file": "11-1188-734.02cfa02e424c.pmtiles",
+   "bytes": 180549,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-734.02cfa02e424c.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 735,
+   "file": "11-1188-735.3583d7cf993c.pmtiles",
+   "bytes": 218011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-735.3583d7cf993c.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 736,
+   "file": "11-1188-736.14f75fd6c4ec.pmtiles",
+   "bytes": 126969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-736.14f75fd6c4ec.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 737,
+   "file": "11-1188-737.1a7ce0f4dd9a.pmtiles",
+   "bytes": 101068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-737.1a7ce0f4dd9a.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 738,
+   "file": "11-1188-738.8e97573b3f83.pmtiles",
+   "bytes": 148208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-738.8e97573b3f83.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 739,
+   "file": "11-1188-739.861fa290d421.pmtiles",
+   "bytes": 96330,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1188-739.861fa290d421.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 733,
+   "file": "11-1189-733.aec1b9bdff7e.pmtiles",
+   "bytes": 78096,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-733.aec1b9bdff7e.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 734,
+   "file": "11-1189-734.7fa4321d9650.pmtiles",
+   "bytes": 116272,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-734.7fa4321d9650.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 735,
+   "file": "11-1189-735.11ff01cac3a9.pmtiles",
+   "bytes": 196512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-735.11ff01cac3a9.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 736,
+   "file": "11-1189-736.247134b61880.pmtiles",
+   "bytes": 185139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-736.247134b61880.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 737,
+   "file": "11-1189-737.d30b7c9d233a.pmtiles",
+   "bytes": 69213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-737.d30b7c9d233a.pmtiles"
+  },
+  {
+   "x": 1189,
+   "y": 738,
+   "file": "11-1189-738.85d82619c990.pmtiles",
+   "bytes": 57227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1189-738.85d82619c990.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 733,
+   "file": "11-1190-733.31f6a9f16012.pmtiles",
+   "bytes": 153295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-733.31f6a9f16012.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 734,
+   "file": "11-1190-734.a192cf925d99.pmtiles",
+   "bytes": 133305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-734.a192cf925d99.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 735,
+   "file": "11-1190-735.d17c5f5d774f.pmtiles",
+   "bytes": 140286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-735.d17c5f5d774f.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 736,
+   "file": "11-1190-736.9734b742ce24.pmtiles",
+   "bytes": 174329,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-736.9734b742ce24.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 737,
+   "file": "11-1190-737.c385329971aa.pmtiles",
+   "bytes": 52785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-737.c385329971aa.pmtiles"
+  },
+  {
+   "x": 1190,
+   "y": 738,
+   "file": "11-1190-738.fe35ea7dcc16.pmtiles",
+   "bytes": 29529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1190-738.fe35ea7dcc16.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 733,
+   "file": "11-1191-733.28ebb6524ec3.pmtiles",
+   "bytes": 128268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-733.28ebb6524ec3.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 734,
+   "file": "11-1191-734.049a8a4bb949.pmtiles",
+   "bytes": 129316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-734.049a8a4bb949.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 735,
+   "file": "11-1191-735.07a926115723.pmtiles",
+   "bytes": 149822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-735.07a926115723.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 736,
+   "file": "11-1191-736.4af0c56dba0b.pmtiles",
+   "bytes": 98385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-736.4af0c56dba0b.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 737,
+   "file": "11-1191-737.7804f3ad95a9.pmtiles",
+   "bytes": 51815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-737.7804f3ad95a9.pmtiles"
+  },
+  {
+   "x": 1191,
+   "y": 738,
+   "file": "11-1191-738.daec1e9e258d.pmtiles",
+   "bytes": 33101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1191-738.daec1e9e258d.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 733,
+   "file": "11-1192-733.b8405c6d04d1.pmtiles",
+   "bytes": 93860,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-733.b8405c6d04d1.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 734,
+   "file": "11-1192-734.d9a292a092d1.pmtiles",
+   "bytes": 129825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-734.d9a292a092d1.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 735,
+   "file": "11-1192-735.5481d381e2f6.pmtiles",
+   "bytes": 136464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-735.5481d381e2f6.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 736,
+   "file": "11-1192-736.1341f10c5102.pmtiles",
+   "bytes": 56172,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-736.1341f10c5102.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 737,
+   "file": "11-1192-737.0428ba36e9a3.pmtiles",
+   "bytes": 99887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-737.0428ba36e9a3.pmtiles"
+  },
+  {
+   "x": 1192,
+   "y": 738,
+   "file": "11-1192-738.50bd090f4208.pmtiles",
+   "bytes": 18836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1192-738.50bd090f4208.pmtiles"
+  },
+  {
+   "x": 1193,
+   "y": 734,
+   "file": "11-1193-734.f234948e3166.pmtiles",
+   "bytes": 30012,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1193-734.f234948e3166.pmtiles"
+  },
+  {
+   "x": 1193,
+   "y": 735,
+   "file": "11-1193-735.1675fcce9df0.pmtiles",
+   "bytes": 23532,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-tulcea-2026-10-03/11-1193-735.1675fcce9df0.pmtiles"
+  }
+ ]
+}

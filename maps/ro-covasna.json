@@ -1,0 +1,421 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-covasna",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:52:38.560Z",
+ "publishedAt": "2026-10-05T23:52:53.482Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-covasna-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.45054,
+  45.51631,
+  26.44601,
+  46.27704
+ ],
+ "overview": {
+  "file": "overview.7b8f9e12c9b9.pmtiles",
+  "bytes": 2327350,
+  "tiles": 32,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/overview.7b8f9e12c9b9.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1168,
+   "y": 726,
+   "file": "11-1168-726.e5d6c8f20152.pmtiles",
+   "bytes": 119230,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-726.e5d6c8f20152.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 727,
+   "file": "11-1168-727.e407840cdd15.pmtiles",
+   "bytes": 76888,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-727.e407840cdd15.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 728,
+   "file": "11-1168-728.5b1f4c6e498e.pmtiles",
+   "bytes": 63567,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-728.5b1f4c6e498e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 729,
+   "file": "11-1168-729.7c6f261b4e6b.pmtiles",
+   "bytes": 37733,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-729.7c6f261b4e6b.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 730,
+   "file": "11-1168-730.b020c8c284a8.pmtiles",
+   "bytes": 83163,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-730.b020c8c284a8.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 731,
+   "file": "11-1168-731.d123509abb7c.pmtiles",
+   "bytes": 310194,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-731.d123509abb7c.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 732,
+   "file": "11-1168-732.10a6d84efdb0.pmtiles",
+   "bytes": 120891,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1168-732.10a6d84efdb0.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 726,
+   "file": "11-1169-726.028ebf4438de.pmtiles",
+   "bytes": 173325,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-726.028ebf4438de.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 727,
+   "file": "11-1169-727.d24a5560cce6.pmtiles",
+   "bytes": 264124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-727.d24a5560cce6.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 728,
+   "file": "11-1169-728.30cc1cea8dde.pmtiles",
+   "bytes": 297593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-728.30cc1cea8dde.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 729,
+   "file": "11-1169-729.2bd6b59967b4.pmtiles",
+   "bytes": 224003,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-729.2bd6b59967b4.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 730,
+   "file": "11-1169-730.3b5b2ad7c6c4.pmtiles",
+   "bytes": 380252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-730.3b5b2ad7c6c4.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 731,
+   "file": "11-1169-731.39a73bd4280b.pmtiles",
+   "bytes": 1854557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-731.39a73bd4280b.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 732,
+   "file": "11-1169-732.50e4b3f6a805.pmtiles",
+   "bytes": 260132,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1169-732.50e4b3f6a805.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 726,
+   "file": "11-1170-726.b58ee2faa511.pmtiles",
+   "bytes": 169628,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-726.b58ee2faa511.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 727,
+   "file": "11-1170-727.a7ab2a028674.pmtiles",
+   "bytes": 253325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-727.a7ab2a028674.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 728,
+   "file": "11-1170-728.0646b4fc08a8.pmtiles",
+   "bytes": 276169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-728.0646b4fc08a8.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 729,
+   "file": "11-1170-729.26dd4c64e4e5.pmtiles",
+   "bytes": 526249,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-729.26dd4c64e4e5.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 730,
+   "file": "11-1170-730.60a7a281415a.pmtiles",
+   "bytes": 458046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-730.60a7a281415a.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 731,
+   "file": "11-1170-731.d0bfb8133c2a.pmtiles",
+   "bytes": 342136,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-731.d0bfb8133c2a.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 732,
+   "file": "11-1170-732.1020aa0b0191.pmtiles",
+   "bytes": 145632,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1170-732.1020aa0b0191.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 726,
+   "file": "11-1171-726.d4d2858370b1.pmtiles",
+   "bytes": 362558,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-726.d4d2858370b1.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 727,
+   "file": "11-1171-727.3af4a86ec4df.pmtiles",
+   "bytes": 388277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-727.3af4a86ec4df.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 728,
+   "file": "11-1171-728.9c5918447e66.pmtiles",
+   "bytes": 264598,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-728.9c5918447e66.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 729,
+   "file": "11-1171-729.ae3f329219ed.pmtiles",
+   "bytes": 299335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-729.ae3f329219ed.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 730,
+   "file": "11-1171-730.c285d0f1dc8a.pmtiles",
+   "bytes": 292157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-730.c285d0f1dc8a.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 731,
+   "file": "11-1171-731.ccce2d16a368.pmtiles",
+   "bytes": 258167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-731.ccce2d16a368.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 732,
+   "file": "11-1171-732.9912333a365d.pmtiles",
+   "bytes": 158970,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1171-732.9912333a365d.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 726,
+   "file": "11-1172-726.73ffacbaf0a4.pmtiles",
+   "bytes": 241528,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-726.73ffacbaf0a4.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 727,
+   "file": "11-1172-727.83e832d87817.pmtiles",
+   "bytes": 214626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-727.83e832d87817.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 728,
+   "file": "11-1172-728.96b798e12347.pmtiles",
+   "bytes": 377176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-728.96b798e12347.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 729,
+   "file": "11-1172-729.1505280e9d45.pmtiles",
+   "bytes": 274281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-729.1505280e9d45.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 730,
+   "file": "11-1172-730.734dbc0868bd.pmtiles",
+   "bytes": 199588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-730.734dbc0868bd.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 731,
+   "file": "11-1172-731.1a0f6e434d43.pmtiles",
+   "bytes": 254494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-731.1a0f6e434d43.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 732,
+   "file": "11-1172-732.36af25c2a03d.pmtiles",
+   "bytes": 105318,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1172-732.36af25c2a03d.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 726,
+   "file": "11-1173-726.af9bcec079c0.pmtiles",
+   "bytes": 123075,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-726.af9bcec079c0.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 727,
+   "file": "11-1173-727.46a4c246217a.pmtiles",
+   "bytes": 193696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-727.46a4c246217a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 728,
+   "file": "11-1173-728.fabd676621a6.pmtiles",
+   "bytes": 282325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-728.fabd676621a6.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 729,
+   "file": "11-1173-729.4ff467871a67.pmtiles",
+   "bytes": 204869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-729.4ff467871a67.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 730,
+   "file": "11-1173-730.c2df88f2b912.pmtiles",
+   "bytes": 190978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-730.c2df88f2b912.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 731,
+   "file": "11-1173-731.1a19c97659cc.pmtiles",
+   "bytes": 127155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-731.1a19c97659cc.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 732,
+   "file": "11-1173-732.53f108a64eaa.pmtiles",
+   "bytes": 113905,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1173-732.53f108a64eaa.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 726,
+   "file": "11-1174-726.c6865c3a460a.pmtiles",
+   "bytes": 92670,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-726.c6865c3a460a.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 727,
+   "file": "11-1174-727.8c9e87961d09.pmtiles",
+   "bytes": 71479,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-727.8c9e87961d09.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 728,
+   "file": "11-1174-728.34ebb2a5d1c2.pmtiles",
+   "bytes": 73015,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-728.34ebb2a5d1c2.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 729,
+   "file": "11-1174-729.0ab9c5862741.pmtiles",
+   "bytes": 58946,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-729.0ab9c5862741.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 730,
+   "file": "11-1174-730.9d2c671d61d7.pmtiles",
+   "bytes": 76058,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-730.9d2c671d61d7.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 731,
+   "file": "11-1174-731.6378a1b76558.pmtiles",
+   "bytes": 77901,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-731.6378a1b76558.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 732,
+   "file": "11-1174-732.d9c106f6cbdb.pmtiles",
+   "bytes": 87425,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-covasna-2026-10-03/11-1174-732.d9c106f6cbdb.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,533 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-ialomita",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:54:09.734Z",
+ "publishedAt": "2026-10-05T23:54:27.004Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-ialomita-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  26.30185,
+  44.33414,
+  28.10882,
+  44.857
+ ],
+ "overview": {
+  "file": "overview.8eb8bbf093ea.pmtiles",
+  "bytes": 1491424,
+  "tiles": 40,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/overview.8eb8bbf093ea.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1173,
+   "y": 737,
+   "file": "11-1173-737.1d1830a79072.pmtiles",
+   "bytes": 37171,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-737.1d1830a79072.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 738,
+   "file": "11-1173-738.f36d9312f4a7.pmtiles",
+   "bytes": 106150,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-738.f36d9312f4a7.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 739,
+   "file": "11-1173-739.34b69f5f0a6e.pmtiles",
+   "bytes": 105000,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-739.34b69f5f0a6e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 740,
+   "file": "11-1173-740.3de95dd3d0ba.pmtiles",
+   "bytes": 139130,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-740.3de95dd3d0ba.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 741,
+   "file": "11-1173-741.ea9aac5be700.pmtiles",
+   "bytes": 254675,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-741.ea9aac5be700.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 742,
+   "file": "11-1173-742.d27c52f52e20.pmtiles",
+   "bytes": 33466,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1173-742.d27c52f52e20.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 737,
+   "file": "11-1174-737.0fa59e3241bd.pmtiles",
+   "bytes": 48486,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-737.0fa59e3241bd.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 738,
+   "file": "11-1174-738.3a0a1d0675bf.pmtiles",
+   "bytes": 287744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-738.3a0a1d0675bf.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 739,
+   "file": "11-1174-739.a5db6810c986.pmtiles",
+   "bytes": 212317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-739.a5db6810c986.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 740,
+   "file": "11-1174-740.670647a3ff1d.pmtiles",
+   "bytes": 231601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-740.670647a3ff1d.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 741,
+   "file": "11-1174-741.2c4e08ac0ecf.pmtiles",
+   "bytes": 137986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-741.2c4e08ac0ecf.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 742,
+   "file": "11-1174-742.2cad69e501f9.pmtiles",
+   "bytes": 56962,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1174-742.2cad69e501f9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 737,
+   "file": "11-1175-737.6793aa266ad2.pmtiles",
+   "bytes": 52946,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1175-737.6793aa266ad2.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 738,
+   "file": "11-1175-738.92aa6a6e1b27.pmtiles",
+   "bytes": 154551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1175-738.92aa6a6e1b27.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 739,
+   "file": "11-1175-739.c456b6142b30.pmtiles",
+   "bytes": 249703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1175-739.c456b6142b30.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 740,
+   "file": "11-1175-740.262d08ada5bd.pmtiles",
+   "bytes": 123296,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1175-740.262d08ada5bd.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 741,
+   "file": "11-1175-741.6275bda47072.pmtiles",
+   "bytes": 205987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1175-741.6275bda47072.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 737,
+   "file": "11-1176-737.3cd50ab3218f.pmtiles",
+   "bytes": 36419,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-737.3cd50ab3218f.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 738,
+   "file": "11-1176-738.18169574376e.pmtiles",
+   "bytes": 98613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-738.18169574376e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 739,
+   "file": "11-1176-739.17e887ba43a1.pmtiles",
+   "bytes": 169634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-739.17e887ba43a1.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 740,
+   "file": "11-1176-740.410f41ad127a.pmtiles",
+   "bytes": 103990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-740.410f41ad127a.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 741,
+   "file": "11-1176-741.fc5c4df19016.pmtiles",
+   "bytes": 165101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-741.fc5c4df19016.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 742,
+   "file": "11-1176-742.798c5035f3e0.pmtiles",
+   "bytes": 41722,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1176-742.798c5035f3e0.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 737,
+   "file": "11-1177-737.7f4c4ece8a52.pmtiles",
+   "bytes": 30636,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-737.7f4c4ece8a52.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 738,
+   "file": "11-1177-738.787679d70bf9.pmtiles",
+   "bytes": 70404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-738.787679d70bf9.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 739,
+   "file": "11-1177-739.f4e9cd67bcec.pmtiles",
+   "bytes": 118268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-739.f4e9cd67bcec.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 740,
+   "file": "11-1177-740.9fb56b00d86e.pmtiles",
+   "bytes": 73628,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-740.9fb56b00d86e.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 741,
+   "file": "11-1177-741.3cc505ddfb8b.pmtiles",
+   "bytes": 135102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-741.3cc505ddfb8b.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 742,
+   "file": "11-1177-742.0545011d4bf2.pmtiles",
+   "bytes": 22349,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1177-742.0545011d4bf2.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 737,
+   "file": "11-1178-737.d626ae713873.pmtiles",
+   "bytes": 28856,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-737.d626ae713873.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 738,
+   "file": "11-1178-738.06fabbb11b8c.pmtiles",
+   "bytes": 94876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-738.06fabbb11b8c.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 739,
+   "file": "11-1178-739.dcf1bc0f417a.pmtiles",
+   "bytes": 86535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-739.dcf1bc0f417a.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 740,
+   "file": "11-1178-740.ea2bff0a760d.pmtiles",
+   "bytes": 133311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-740.ea2bff0a760d.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 741,
+   "file": "11-1178-741.dcab522c415c.pmtiles",
+   "bytes": 98425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-741.dcab522c415c.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 742,
+   "file": "11-1178-742.0f18625ef971.pmtiles",
+   "bytes": 24732,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1178-742.0f18625ef971.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 737,
+   "file": "11-1179-737.6acfb7ec9d37.pmtiles",
+   "bytes": 37124,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1179-737.6acfb7ec9d37.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 738,
+   "file": "11-1179-738.4f9d91fcc1ea.pmtiles",
+   "bytes": 144526,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1179-738.4f9d91fcc1ea.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 739,
+   "file": "11-1179-739.dc6113a6d534.pmtiles",
+   "bytes": 87269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1179-739.dc6113a6d534.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 740,
+   "file": "11-1179-740.e65356745de4.pmtiles",
+   "bytes": 251689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1179-740.e65356745de4.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 741,
+   "file": "11-1179-741.235772327f06.pmtiles",
+   "bytes": 85475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1179-741.235772327f06.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 737,
+   "file": "11-1180-737.1e59e10bb025.pmtiles",
+   "bytes": 47664,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1180-737.1e59e10bb025.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 738,
+   "file": "11-1180-738.d08ed288c09e.pmtiles",
+   "bytes": 105538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1180-738.d08ed288c09e.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 739,
+   "file": "11-1180-739.89ca71d6f4f0.pmtiles",
+   "bytes": 118087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1180-739.89ca71d6f4f0.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 740,
+   "file": "11-1180-740.4b4e1abc6035.pmtiles",
+   "bytes": 84374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1180-740.4b4e1abc6035.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 741,
+   "file": "11-1180-741.66c48ffeb5ab.pmtiles",
+   "bytes": 71460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1180-741.66c48ffeb5ab.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 737,
+   "file": "11-1181-737.8013de80be0e.pmtiles",
+   "bytes": 30883,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-737.8013de80be0e.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 738,
+   "file": "11-1181-738.fb9b83b4eff2.pmtiles",
+   "bytes": 79861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-738.fb9b83b4eff2.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 739,
+   "file": "11-1181-739.f02ef4c7eca9.pmtiles",
+   "bytes": 178659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-739.f02ef4c7eca9.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 740,
+   "file": "11-1181-740.bd604512d7b5.pmtiles",
+   "bytes": 49474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-740.bd604512d7b5.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 741,
+   "file": "11-1181-741.f6fe0b039d67.pmtiles",
+   "bytes": 79151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-741.f6fe0b039d67.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 742,
+   "file": "11-1181-742.58fc3e0ba6ce.pmtiles",
+   "bytes": 39424,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1181-742.58fc3e0ba6ce.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 737,
+   "file": "11-1182-737.9c3899a99888.pmtiles",
+   "bytes": 54342,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-737.9c3899a99888.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 738,
+   "file": "11-1182-738.20039d947650.pmtiles",
+   "bytes": 135514,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-738.20039d947650.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 739,
+   "file": "11-1182-739.ba8b008d76e6.pmtiles",
+   "bytes": 137587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-739.ba8b008d76e6.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 740,
+   "file": "11-1182-740.e68b27885702.pmtiles",
+   "bytes": 95816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-740.e68b27885702.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 741,
+   "file": "11-1182-741.a562e4208f67.pmtiles",
+   "bytes": 213632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-741.a562e4208f67.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 742,
+   "file": "11-1182-742.0a5ecb477c5f.pmtiles",
+   "bytes": 22081,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1182-742.0a5ecb477c5f.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 737,
+   "file": "11-1183-737.f88015c23bb3.pmtiles",
+   "bytes": 46524,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-737.f88015c23bb3.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 738,
+   "file": "11-1183-738.7e63b0666005.pmtiles",
+   "bytes": 127763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-738.7e63b0666005.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 739,
+   "file": "11-1183-739.aaafe7686730.pmtiles",
+   "bytes": 156606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-739.aaafe7686730.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 740,
+   "file": "11-1183-740.f843fe3466ed.pmtiles",
+   "bytes": 97987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-740.f843fe3466ed.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 741,
+   "file": "11-1183-741.f0499fb0764c.pmtiles",
+   "bytes": 131874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-741.f0499fb0764c.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 742,
+   "file": "11-1183-742.9ab6585adec5.pmtiles",
+   "bytes": 79662,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-ialomita-2026-10-03/11-1183-742.9ab6585adec5.pmtiles"
+  }
+ ]
+}

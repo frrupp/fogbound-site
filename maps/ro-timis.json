@@ -1,0 +1,861 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-timis",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:06:28.816Z",
+ "publishedAt": "2026-10-06T01:06:56.216Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-timis-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  20.262,
+  45.19309,
+  22.55136,
+  46.18993
+ ],
+ "overview": {
+  "file": "overview.cfc7c4f0418d.pmtiles",
+  "bytes": 4080261,
+  "tiles": 72,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/overview.cfc7c4f0418d.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1139,
+   "y": 727,
+   "file": "11-1139-727.58c85dc7e269.pmtiles",
+   "bytes": 92776,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1139-727.58c85dc7e269.pmtiles"
+  },
+  {
+   "x": 1139,
+   "y": 728,
+   "file": "11-1139-728.d1c04bb38675.pmtiles",
+   "bytes": 50571,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1139-728.d1c04bb38675.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 727,
+   "file": "11-1140-727.23c577d9f000.pmtiles",
+   "bytes": 114662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1140-727.23c577d9f000.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 728,
+   "file": "11-1140-728.ff2f08b6054e.pmtiles",
+   "bytes": 123060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1140-728.ff2f08b6054e.pmtiles"
+  },
+  {
+   "x": 1140,
+   "y": 729,
+   "file": "11-1140-729.fc577edb4a15.pmtiles",
+   "bytes": 103580,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1140-729.fc577edb4a15.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 727,
+   "file": "11-1141-727.cadd25ca6dcf.pmtiles",
+   "bytes": 376450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1141-727.cadd25ca6dcf.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 728,
+   "file": "11-1141-728.7c0851c96ece.pmtiles",
+   "bytes": 236970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1141-728.7c0851c96ece.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 729,
+   "file": "11-1141-729.4d054df926d4.pmtiles",
+   "bytes": 129845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1141-729.4d054df926d4.pmtiles"
+  },
+  {
+   "x": 1141,
+   "y": 730,
+   "file": "11-1141-730.043bb8da3b2c.pmtiles",
+   "bytes": 487516,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1141-730.043bb8da3b2c.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 727,
+   "file": "11-1142-727.7781f46e0e20.pmtiles",
+   "bytes": 151590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-727.7781f46e0e20.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 728,
+   "file": "11-1142-728.03e24f31db5d.pmtiles",
+   "bytes": 129156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-728.03e24f31db5d.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 729,
+   "file": "11-1142-729.fbed3e81477c.pmtiles",
+   "bytes": 102867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-729.fbed3e81477c.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 730,
+   "file": "11-1142-730.cfb1fe920fbe.pmtiles",
+   "bytes": 126736,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-730.cfb1fe920fbe.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 731,
+   "file": "11-1142-731.5f4b48a3b9bd.pmtiles",
+   "bytes": 131207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-731.5f4b48a3b9bd.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 732,
+   "file": "11-1142-732.7652d5b8d6d6.pmtiles",
+   "bytes": 141576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-732.7652d5b8d6d6.pmtiles"
+  },
+  {
+   "x": 1142,
+   "y": 733,
+   "file": "11-1142-733.17b012ccf3f9.pmtiles",
+   "bytes": 131300,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1142-733.17b012ccf3f9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 727,
+   "file": "11-1143-727.e5f8678c068d.pmtiles",
+   "bytes": 195596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-727.e5f8678c068d.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 728,
+   "file": "11-1143-728.c1ecb680d68e.pmtiles",
+   "bytes": 115609,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-728.c1ecb680d68e.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 729,
+   "file": "11-1143-729.23e014934ff9.pmtiles",
+   "bytes": 149917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-729.23e014934ff9.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 730,
+   "file": "11-1143-730.bd6b1b4e5cf0.pmtiles",
+   "bytes": 138225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-730.bd6b1b4e5cf0.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 731,
+   "file": "11-1143-731.f62149afc3f5.pmtiles",
+   "bytes": 158150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-731.f62149afc3f5.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 732,
+   "file": "11-1143-732.efcabd5bce78.pmtiles",
+   "bytes": 146335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-732.efcabd5bce78.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 733,
+   "file": "11-1143-733.12e1a612ca90.pmtiles",
+   "bytes": 150850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-733.12e1a612ca90.pmtiles"
+  },
+  {
+   "x": 1143,
+   "y": 734,
+   "file": "11-1143-734.c180fdc1cad9.pmtiles",
+   "bytes": 56083,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1143-734.c180fdc1cad9.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 727,
+   "file": "11-1144-727.f55235aa916e.pmtiles",
+   "bytes": 184803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-727.f55235aa916e.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 728,
+   "file": "11-1144-728.11b99a7fd17c.pmtiles",
+   "bytes": 130560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-728.11b99a7fd17c.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 729,
+   "file": "11-1144-729.b9396f1282a3.pmtiles",
+   "bytes": 220104,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-729.b9396f1282a3.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 730,
+   "file": "11-1144-730.fa6cb1a83f42.pmtiles",
+   "bytes": 2138115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-730.fa6cb1a83f42.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 731,
+   "file": "11-1144-731.82f4e43b14e2.pmtiles",
+   "bytes": 336114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-731.82f4e43b14e2.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 732,
+   "file": "11-1144-732.7f3269f24b13.pmtiles",
+   "bytes": 196703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-732.7f3269f24b13.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 733,
+   "file": "11-1144-733.72154306a1df.pmtiles",
+   "bytes": 178345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-733.72154306a1df.pmtiles"
+  },
+  {
+   "x": 1144,
+   "y": 734,
+   "file": "11-1144-734.5c270a30104f.pmtiles",
+   "bytes": 155660,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1144-734.5c270a30104f.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 727,
+   "file": "11-1145-727.b0a85712fb8a.pmtiles",
+   "bytes": 796914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-727.b0a85712fb8a.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 728,
+   "file": "11-1145-728.cfb2ef712663.pmtiles",
+   "bytes": 162766,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-728.cfb2ef712663.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 729,
+   "file": "11-1145-729.89aa4fff1efe.pmtiles",
+   "bytes": 261106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-729.89aa4fff1efe.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 730,
+   "file": "11-1145-730.586b599ce35c.pmtiles",
+   "bytes": 592034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-730.586b599ce35c.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 731,
+   "file": "11-1145-731.e0ae6f059b9e.pmtiles",
+   "bytes": 194283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-731.e0ae6f059b9e.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 732,
+   "file": "11-1145-732.8d572e219877.pmtiles",
+   "bytes": 125286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-732.8d572e219877.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 733,
+   "file": "11-1145-733.28060a5b7809.pmtiles",
+   "bytes": 172711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-733.28060a5b7809.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 734,
+   "file": "11-1145-734.6cb188342fd4.pmtiles",
+   "bytes": 150573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-734.6cb188342fd4.pmtiles"
+  },
+  {
+   "x": 1145,
+   "y": 735,
+   "file": "11-1145-735.d1e59fdbdba8.pmtiles",
+   "bytes": 45775,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1145-735.d1e59fdbdba8.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 727,
+   "file": "11-1146-727.74bef9e9860e.pmtiles",
+   "bytes": 243781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-727.74bef9e9860e.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 728,
+   "file": "11-1146-728.7a363754aa71.pmtiles",
+   "bytes": 203774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-728.7a363754aa71.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 729,
+   "file": "11-1146-729.876f66bfe7ae.pmtiles",
+   "bytes": 216344,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-729.876f66bfe7ae.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 730,
+   "file": "11-1146-730.649c9363950f.pmtiles",
+   "bytes": 226720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-730.649c9363950f.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 731,
+   "file": "11-1146-731.540b51f1d27e.pmtiles",
+   "bytes": 212972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-731.540b51f1d27e.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 732,
+   "file": "11-1146-732.1b19a6c341f1.pmtiles",
+   "bytes": 144064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-732.1b19a6c341f1.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 733,
+   "file": "11-1146-733.53d0e222adee.pmtiles",
+   "bytes": 171555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-733.53d0e222adee.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 734,
+   "file": "11-1146-734.df73b8fd0dbe.pmtiles",
+   "bytes": 230867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-734.df73b8fd0dbe.pmtiles"
+  },
+  {
+   "x": 1146,
+   "y": 735,
+   "file": "11-1146-735.7ad238c360e5.pmtiles",
+   "bytes": 95000,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1146-735.7ad238c360e5.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 727,
+   "file": "11-1147-727.905b30754b4b.pmtiles",
+   "bytes": 197778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-727.905b30754b4b.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 728,
+   "file": "11-1147-728.0c5f5cb78ad0.pmtiles",
+   "bytes": 144742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-728.0c5f5cb78ad0.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 729,
+   "file": "11-1147-729.7e9eb53f0798.pmtiles",
+   "bytes": 187256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-729.7e9eb53f0798.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 730,
+   "file": "11-1147-730.29927ae95592.pmtiles",
+   "bytes": 201019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-730.29927ae95592.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 731,
+   "file": "11-1147-731.d2c214025043.pmtiles",
+   "bytes": 173364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-731.d2c214025043.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 732,
+   "file": "11-1147-732.b3d667c4bf09.pmtiles",
+   "bytes": 229578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-732.b3d667c4bf09.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 733,
+   "file": "11-1147-733.462d0548a140.pmtiles",
+   "bytes": 230895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-733.462d0548a140.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 734,
+   "file": "11-1147-734.07a9a6e3f29c.pmtiles",
+   "bytes": 224310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-734.07a9a6e3f29c.pmtiles"
+  },
+  {
+   "x": 1147,
+   "y": 735,
+   "file": "11-1147-735.2a5ce89364c7.pmtiles",
+   "bytes": 93541,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1147-735.2a5ce89364c7.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 727,
+   "file": "11-1148-727.435e392f98c0.pmtiles",
+   "bytes": 171888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-727.435e392f98c0.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 728,
+   "file": "11-1148-728.049d63f00c37.pmtiles",
+   "bytes": 174170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-728.049d63f00c37.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 729,
+   "file": "11-1148-729.e7bf3c5de573.pmtiles",
+   "bytes": 253190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-729.e7bf3c5de573.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 730,
+   "file": "11-1148-730.d998583a2b1b.pmtiles",
+   "bytes": 230944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-730.d998583a2b1b.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 731,
+   "file": "11-1148-731.5b19f3eab7fb.pmtiles",
+   "bytes": 354175,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-731.5b19f3eab7fb.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 732,
+   "file": "11-1148-732.38ccd8c1eaa1.pmtiles",
+   "bytes": 271494,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-732.38ccd8c1eaa1.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 733,
+   "file": "11-1148-733.b6587479ff40.pmtiles",
+   "bytes": 235372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-733.b6587479ff40.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 734,
+   "file": "11-1148-734.a54019eb726c.pmtiles",
+   "bytes": 510620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-734.a54019eb726c.pmtiles"
+  },
+  {
+   "x": 1148,
+   "y": 735,
+   "file": "11-1148-735.f0c935557c69.pmtiles",
+   "bytes": 107035,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1148-735.f0c935557c69.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 727,
+   "file": "11-1149-727.d1effa9c2102.pmtiles",
+   "bytes": 161520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-727.d1effa9c2102.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 728,
+   "file": "11-1149-728.1e4df7b656eb.pmtiles",
+   "bytes": 176144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-728.1e4df7b656eb.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 729,
+   "file": "11-1149-729.3aaebd47ebfa.pmtiles",
+   "bytes": 223657,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-729.3aaebd47ebfa.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 730,
+   "file": "11-1149-730.ac26dec3743c.pmtiles",
+   "bytes": 249744,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-730.ac26dec3743c.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 731,
+   "file": "11-1149-731.bb052773a03f.pmtiles",
+   "bytes": 215997,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-731.bb052773a03f.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 732,
+   "file": "11-1149-732.6521aa4a66b8.pmtiles",
+   "bytes": 251167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-732.6521aa4a66b8.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 733,
+   "file": "11-1149-733.f2d79ef0fe7f.pmtiles",
+   "bytes": 232818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-733.f2d79ef0fe7f.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 734,
+   "file": "11-1149-734.ce8bdbc3715b.pmtiles",
+   "bytes": 188972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-734.ce8bdbc3715b.pmtiles"
+  },
+  {
+   "x": 1149,
+   "y": 735,
+   "file": "11-1149-735.91e927a6f73d.pmtiles",
+   "bytes": 61357,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1149-735.91e927a6f73d.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 727,
+   "file": "11-1150-727.ea48480d5d59.pmtiles",
+   "bytes": 138124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-727.ea48480d5d59.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 728,
+   "file": "11-1150-728.adbddd04d0ee.pmtiles",
+   "bytes": 231709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-728.adbddd04d0ee.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 729,
+   "file": "11-1150-729.4b0056a35d57.pmtiles",
+   "bytes": 206282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-729.4b0056a35d57.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 730,
+   "file": "11-1150-730.7cc1c631f67a.pmtiles",
+   "bytes": 242900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-730.7cc1c631f67a.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 731,
+   "file": "11-1150-731.0d6fd799a0c6.pmtiles",
+   "bytes": 108398,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-731.0d6fd799a0c6.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 732,
+   "file": "11-1150-732.c8cea2bb2f71.pmtiles",
+   "bytes": 196310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-732.c8cea2bb2f71.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 733,
+   "file": "11-1150-733.488c8eca7474.pmtiles",
+   "bytes": 402485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-733.488c8eca7474.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 734,
+   "file": "11-1150-734.a4bb79a1f425.pmtiles",
+   "bytes": 223809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-734.a4bb79a1f425.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 735,
+   "file": "11-1150-735.fe197a21a183.pmtiles",
+   "bytes": 67675,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1150-735.fe197a21a183.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 727,
+   "file": "11-1151-727.80a20d5e3b14.pmtiles",
+   "bytes": 196981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-727.80a20d5e3b14.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 728,
+   "file": "11-1151-728.a20cd4142bfb.pmtiles",
+   "bytes": 226573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-728.a20cd4142bfb.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 729,
+   "file": "11-1151-729.351a140e532e.pmtiles",
+   "bytes": 265346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-729.351a140e532e.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 730,
+   "file": "11-1151-730.194f60f475d3.pmtiles",
+   "bytes": 159465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-730.194f60f475d3.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 731,
+   "file": "11-1151-731.96a04bed357f.pmtiles",
+   "bytes": 107786,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-731.96a04bed357f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 732,
+   "file": "11-1151-732.d31e518ad585.pmtiles",
+   "bytes": 216728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-732.d31e518ad585.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 733,
+   "file": "11-1151-733.ec933b86552f.pmtiles",
+   "bytes": 145678,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-733.ec933b86552f.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 734,
+   "file": "11-1151-734.08335a2fd4af.pmtiles",
+   "bytes": 184761,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-734.08335a2fd4af.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 735,
+   "file": "11-1151-735.7c08d762468c.pmtiles",
+   "bytes": 65704,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1151-735.7c08d762468c.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 727,
+   "file": "11-1152-727.3b2e0d104b4b.pmtiles",
+   "bytes": 140722,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-727.3b2e0d104b4b.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 728,
+   "file": "11-1152-728.0a1989abf6fe.pmtiles",
+   "bytes": 158002,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-728.0a1989abf6fe.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 729,
+   "file": "11-1152-729.cadff9bc975b.pmtiles",
+   "bytes": 155799,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-729.cadff9bc975b.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 730,
+   "file": "11-1152-730.e5bf3c69edcd.pmtiles",
+   "bytes": 89629,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-730.e5bf3c69edcd.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 731,
+   "file": "11-1152-731.b702444e7030.pmtiles",
+   "bytes": 141914,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-731.b702444e7030.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 732,
+   "file": "11-1152-732.8e2e9004db70.pmtiles",
+   "bytes": 113388,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-732.8e2e9004db70.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 733,
+   "file": "11-1152-733.e3a928a859fe.pmtiles",
+   "bytes": 92068,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-733.e3a928a859fe.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 734,
+   "file": "11-1152-734.de7eb2d8bda0.pmtiles",
+   "bytes": 63788,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-734.de7eb2d8bda0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 735,
+   "file": "11-1152-735.35cd1e4b2808.pmtiles",
+   "bytes": 34017,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-timis-2026-10-03/11-1152-735.35cd1e4b2808.pmtiles"
+  }
+ ]
+}

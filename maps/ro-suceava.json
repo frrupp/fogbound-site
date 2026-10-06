@@ -1,0 +1,717 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-suceava",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:04:52.353Z",
+ "publishedAt": "2026-10-06T01:05:15.356Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-suceava-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  24.9471,
+  47.07734,
+  26.70473,
+  47.98802
+ ],
+ "overview": {
+  "file": "overview.d499b7547323.pmtiles",
+  "bytes": 2567762,
+  "tiles": 41,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/overview.d499b7547323.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1165,
+   "y": 714,
+   "file": "11-1165-714.dda50d77d814.pmtiles",
+   "bytes": 56620,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-714.dda50d77d814.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 715,
+   "file": "11-1165-715.bd1462ca3cf5.pmtiles",
+   "bytes": 57724,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-715.bd1462ca3cf5.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 716,
+   "file": "11-1165-716.15aac5929162.pmtiles",
+   "bytes": 70771,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-716.15aac5929162.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 717,
+   "file": "11-1165-717.d72282031d5c.pmtiles",
+   "bytes": 90290,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-717.d72282031d5c.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 718,
+   "file": "11-1165-718.37d26c1b451c.pmtiles",
+   "bytes": 97600,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-718.37d26c1b451c.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 719,
+   "file": "11-1165-719.ac74bfcf3d6f.pmtiles",
+   "bytes": 37971,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1165-719.ac74bfcf3d6f.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 712,
+   "file": "11-1166-712.2cc71dcb0361.pmtiles",
+   "bytes": 46242,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-712.2cc71dcb0361.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 713,
+   "file": "11-1166-713.abb928d77c74.pmtiles",
+   "bytes": 125337,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-713.abb928d77c74.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 714,
+   "file": "11-1166-714.e3df7fe69a96.pmtiles",
+   "bytes": 179649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-714.e3df7fe69a96.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 715,
+   "file": "11-1166-715.58d737c3d50b.pmtiles",
+   "bytes": 171554,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-715.58d737c3d50b.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 716,
+   "file": "11-1166-716.b98267e41017.pmtiles",
+   "bytes": 137634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-716.b98267e41017.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 717,
+   "file": "11-1166-717.a9c7d2234951.pmtiles",
+   "bytes": 231979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-717.a9c7d2234951.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 718,
+   "file": "11-1166-718.68a3001ad8e4.pmtiles",
+   "bytes": 187802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-718.68a3001ad8e4.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 719,
+   "file": "11-1166-719.26c7fed3ec6b.pmtiles",
+   "bytes": 132445,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1166-719.26c7fed3ec6b.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 712,
+   "file": "11-1167-712.2b7947a5f8c9.pmtiles",
+   "bytes": 128463,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-712.2b7947a5f8c9.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 713,
+   "file": "11-1167-713.547ddd61096d.pmtiles",
+   "bytes": 274718,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-713.547ddd61096d.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 714,
+   "file": "11-1167-714.d38ea3191817.pmtiles",
+   "bytes": 217454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-714.d38ea3191817.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 715,
+   "file": "11-1167-715.ca05a71c67fd.pmtiles",
+   "bytes": 188514,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-715.ca05a71c67fd.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 716,
+   "file": "11-1167-716.6c10f000f45e.pmtiles",
+   "bytes": 176703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-716.6c10f000f45e.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 717,
+   "file": "11-1167-717.1c0c63d77395.pmtiles",
+   "bytes": 322710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-717.1c0c63d77395.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 718,
+   "file": "11-1167-718.7fab952237eb.pmtiles",
+   "bytes": 192509,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-718.7fab952237eb.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 719,
+   "file": "11-1167-719.ade64cbfed46.pmtiles",
+   "bytes": 139243,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1167-719.ade64cbfed46.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 712,
+   "file": "11-1168-712.c489ed2ab434.pmtiles",
+   "bytes": 130759,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-712.c489ed2ab434.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 713,
+   "file": "11-1168-713.00e837fefbe9.pmtiles",
+   "bytes": 166767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-713.00e837fefbe9.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 714,
+   "file": "11-1168-714.2174a985b333.pmtiles",
+   "bytes": 87018,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-714.2174a985b333.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 715,
+   "file": "11-1168-715.795fdfba0b2f.pmtiles",
+   "bytes": 239792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-715.795fdfba0b2f.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 716,
+   "file": "11-1168-716.9fef388cacc6.pmtiles",
+   "bytes": 195703,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-716.9fef388cacc6.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 717,
+   "file": "11-1168-717.5c45bc915ea5.pmtiles",
+   "bytes": 382382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-717.5c45bc915ea5.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 718,
+   "file": "11-1168-718.ad31f376c9c2.pmtiles",
+   "bytes": 258208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-718.ad31f376c9c2.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 719,
+   "file": "11-1168-719.a9ff57e51d66.pmtiles",
+   "bytes": 155752,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1168-719.a9ff57e51d66.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 712,
+   "file": "11-1169-712.8cffee56db94.pmtiles",
+   "bytes": 231421,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-712.8cffee56db94.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 713,
+   "file": "11-1169-713.50467e5ae022.pmtiles",
+   "bytes": 147883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-713.50467e5ae022.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 714,
+   "file": "11-1169-714.74f9c398b31b.pmtiles",
+   "bytes": 268175,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-714.74f9c398b31b.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 715,
+   "file": "11-1169-715.b8e68f54d12d.pmtiles",
+   "bytes": 402256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-715.b8e68f54d12d.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 716,
+   "file": "11-1169-716.a582546e69fa.pmtiles",
+   "bytes": 325454,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-716.a582546e69fa.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 717,
+   "file": "11-1169-717.0d026f916f4a.pmtiles",
+   "bytes": 181544,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-717.0d026f916f4a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 718,
+   "file": "11-1169-718.01cdeb33a472.pmtiles",
+   "bytes": 128390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-718.01cdeb33a472.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 719,
+   "file": "11-1169-719.0764d3680ad7.pmtiles",
+   "bytes": 112619,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1169-719.0764d3680ad7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 712,
+   "file": "11-1170-712.f18d652f1851.pmtiles",
+   "bytes": 231602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-712.f18d652f1851.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 713,
+   "file": "11-1170-713.f824afec39b0.pmtiles",
+   "bytes": 367256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-713.f824afec39b0.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 714,
+   "file": "11-1170-714.32a5f1d5c8d8.pmtiles",
+   "bytes": 179028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-714.32a5f1d5c8d8.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 715,
+   "file": "11-1170-715.03a8a936e8fb.pmtiles",
+   "bytes": 291164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-715.03a8a936e8fb.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 716,
+   "file": "11-1170-716.d8030051a753.pmtiles",
+   "bytes": 236230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-716.d8030051a753.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 717,
+   "file": "11-1170-717.c0f223891217.pmtiles",
+   "bytes": 187465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-717.c0f223891217.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 718,
+   "file": "11-1170-718.080ef52fa1f7.pmtiles",
+   "bytes": 270255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-718.080ef52fa1f7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 719,
+   "file": "11-1170-719.092e8650510d.pmtiles",
+   "bytes": 140606,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1170-719.092e8650510d.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 712,
+   "file": "11-1171-712.f5ca14187f1e.pmtiles",
+   "bytes": 210520,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-712.f5ca14187f1e.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 713,
+   "file": "11-1171-713.0426b026298e.pmtiles",
+   "bytes": 347715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-713.0426b026298e.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 714,
+   "file": "11-1171-714.c66e96c12cd9.pmtiles",
+   "bytes": 321402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-714.c66e96c12cd9.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 715,
+   "file": "11-1171-715.cbee294740a1.pmtiles",
+   "bytes": 491641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-715.cbee294740a1.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 716,
+   "file": "11-1171-716.da97dc014020.pmtiles",
+   "bytes": 249690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-716.da97dc014020.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 717,
+   "file": "11-1171-717.618c1372d6f5.pmtiles",
+   "bytes": 148261,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-717.618c1372d6f5.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 718,
+   "file": "11-1171-718.ea85c0893cab.pmtiles",
+   "bytes": 198655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-718.ea85c0893cab.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 719,
+   "file": "11-1171-719.5104e75925cf.pmtiles",
+   "bytes": 256102,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1171-719.5104e75925cf.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 712,
+   "file": "11-1172-712.28f9ae765335.pmtiles",
+   "bytes": 267670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-712.28f9ae765335.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 713,
+   "file": "11-1172-713.b596b7e055ca.pmtiles",
+   "bytes": 182185,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-713.b596b7e055ca.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 714,
+   "file": "11-1172-714.3dd5d13625d1.pmtiles",
+   "bytes": 251892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-714.3dd5d13625d1.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 715,
+   "file": "11-1172-715.176ccd25eb42.pmtiles",
+   "bytes": 281187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-715.176ccd25eb42.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 716,
+   "file": "11-1172-716.37e3976e6cca.pmtiles",
+   "bytes": 225236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-716.37e3976e6cca.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 717,
+   "file": "11-1172-717.2dcd7ed75c74.pmtiles",
+   "bytes": 145564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-717.2dcd7ed75c74.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 718,
+   "file": "11-1172-718.a632b9fe6293.pmtiles",
+   "bytes": 211471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-718.a632b9fe6293.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 719,
+   "file": "11-1172-719.356f3672c519.pmtiles",
+   "bytes": 132895,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1172-719.356f3672c519.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 712,
+   "file": "11-1173-712.66a87e78875c.pmtiles",
+   "bytes": 193955,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-712.66a87e78875c.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 713,
+   "file": "11-1173-713.b3921e53b8ca.pmtiles",
+   "bytes": 204403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-713.b3921e53b8ca.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 714,
+   "file": "11-1173-714.f27bbe938810.pmtiles",
+   "bytes": 728813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-714.f27bbe938810.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 715,
+   "file": "11-1173-715.53b72d17d561.pmtiles",
+   "bytes": 358722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-715.53b72d17d561.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 716,
+   "file": "11-1173-716.221866d78066.pmtiles",
+   "bytes": 286006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-716.221866d78066.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 717,
+   "file": "11-1173-717.cf22c57a2abb.pmtiles",
+   "bytes": 213617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-717.cf22c57a2abb.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 718,
+   "file": "11-1173-718.64878a03256a.pmtiles",
+   "bytes": 398802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-718.64878a03256a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 719,
+   "file": "11-1173-719.0b0add9ef5fb.pmtiles",
+   "bytes": 268833,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1173-719.0b0add9ef5fb.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 712,
+   "file": "11-1174-712.be7421cdc2e9.pmtiles",
+   "bytes": 236541,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-712.be7421cdc2e9.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 713,
+   "file": "11-1174-713.6e0aad97e887.pmtiles",
+   "bytes": 205320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-713.6e0aad97e887.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 714,
+   "file": "11-1174-714.dffc7c91d5f5.pmtiles",
+   "bytes": 362760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-714.dffc7c91d5f5.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 715,
+   "file": "11-1174-715.42af8df6de4b.pmtiles",
+   "bytes": 262642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-715.42af8df6de4b.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 716,
+   "file": "11-1174-716.b22518bcdc74.pmtiles",
+   "bytes": 225682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-716.b22518bcdc74.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 717,
+   "file": "11-1174-717.05a9387008d5.pmtiles",
+   "bytes": 210205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-717.05a9387008d5.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 718,
+   "file": "11-1174-718.ed4e023866dc.pmtiles",
+   "bytes": 281488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-718.ed4e023866dc.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 719,
+   "file": "11-1174-719.e2a2fb0b7eec.pmtiles",
+   "bytes": 189797,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1174-719.e2a2fb0b7eec.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 712,
+   "file": "11-1175-712.4357007f9ba7.pmtiles",
+   "bytes": 174770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-712.4357007f9ba7.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 713,
+   "file": "11-1175-713.3172d5b70e26.pmtiles",
+   "bytes": 256337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-713.3172d5b70e26.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 714,
+   "file": "11-1175-714.29d723c607b7.pmtiles",
+   "bytes": 499260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-714.29d723c607b7.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 715,
+   "file": "11-1175-715.1ac566c9e543.pmtiles",
+   "bytes": 162337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-715.1ac566c9e543.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 716,
+   "file": "11-1175-716.27d83eadcae9.pmtiles",
+   "bytes": 175385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-716.27d83eadcae9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 717,
+   "file": "11-1175-717.94eb5cac38a3.pmtiles",
+   "bytes": 214168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-717.94eb5cac38a3.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 718,
+   "file": "11-1175-718.f2f29e0cddae.pmtiles",
+   "bytes": 287474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-718.f2f29e0cddae.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 719,
+   "file": "11-1175-719.26dfe0111bb4.pmtiles",
+   "bytes": 150190,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-suceava-2026-10-03/11-1175-719.26dfe0111bb4.pmtiles"
+  }
+ ]
+}

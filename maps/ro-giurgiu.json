@@ -1,0 +1,405 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-giurgiu",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:53:39.083Z",
+ "publishedAt": "2026-10-05T23:53:53.714Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-giurgiu-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.42554,
+  43.68649,
+  26.42854,
+  44.55354
+ ],
+ "overview": {
+  "file": "overview.5bbb4f9cfcc3.pmtiles",
+  "bytes": 1028147,
+  "tiles": 30,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/overview.5bbb4f9cfcc3.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1168,
+   "y": 740,
+   "file": "11-1168-740.0615d53350db.pmtiles",
+   "bytes": 58135,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-740.0615d53350db.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 741,
+   "file": "11-1168-741.33e0eeb157b7.pmtiles",
+   "bytes": 67722,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-741.33e0eeb157b7.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 742,
+   "file": "11-1168-742.f05a6e5840cd.pmtiles",
+   "bytes": 68433,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-742.f05a6e5840cd.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 743,
+   "file": "11-1168-743.5ec40df3fefc.pmtiles",
+   "bytes": 37506,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-743.5ec40df3fefc.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 744,
+   "file": "11-1168-744.6821d48aa49d.pmtiles",
+   "bytes": 73028,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-744.6821d48aa49d.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 745,
+   "file": "11-1168-745.a89aa764dba4.pmtiles",
+   "bytes": 105995,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-745.a89aa764dba4.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 746,
+   "file": "11-1168-746.2a6cd3445da4.pmtiles",
+   "bytes": 73031,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-746.2a6cd3445da4.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 747,
+   "file": "11-1168-747.c500949e5d61.pmtiles",
+   "bytes": 22114,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1168-747.c500949e5d61.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 740,
+   "file": "11-1169-740.14f0dfe2210a.pmtiles",
+   "bytes": 194168,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-740.14f0dfe2210a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 741,
+   "file": "11-1169-741.79e0ad0a4324.pmtiles",
+   "bytes": 164227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-741.79e0ad0a4324.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 742,
+   "file": "11-1169-742.f40f372548d9.pmtiles",
+   "bytes": 205745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-742.f40f372548d9.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 743,
+   "file": "11-1169-743.db63dcf02a25.pmtiles",
+   "bytes": 212310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-743.db63dcf02a25.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 744,
+   "file": "11-1169-744.e266d9d0f398.pmtiles",
+   "bytes": 137120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-744.e266d9d0f398.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 745,
+   "file": "11-1169-745.5eefe4bc3e9a.pmtiles",
+   "bytes": 47322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-745.5eefe4bc3e9a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 746,
+   "file": "11-1169-746.10bc633163ce.pmtiles",
+   "bytes": 128218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-746.10bc633163ce.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 747,
+   "file": "11-1169-747.0259ee350482.pmtiles",
+   "bytes": 68724,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1169-747.0259ee350482.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 740,
+   "file": "11-1170-740.e4ae0885a01d.pmtiles",
+   "bytes": 184492,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-740.e4ae0885a01d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 741,
+   "file": "11-1170-741.17deb8a2ce32.pmtiles",
+   "bytes": 262563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-741.17deb8a2ce32.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 742,
+   "file": "11-1170-742.f7f7c4046077.pmtiles",
+   "bytes": 193364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-742.f7f7c4046077.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 743,
+   "file": "11-1170-743.a6889d45419a.pmtiles",
+   "bytes": 228042,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-743.a6889d45419a.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 744,
+   "file": "11-1170-744.1c8b32b53c3d.pmtiles",
+   "bytes": 146474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-744.1c8b32b53c3d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 745,
+   "file": "11-1170-745.1023c1ddd5a3.pmtiles",
+   "bytes": 133950,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-745.1023c1ddd5a3.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 746,
+   "file": "11-1170-746.7ed05584cc0e.pmtiles",
+   "bytes": 137038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-746.7ed05584cc0e.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 747,
+   "file": "11-1170-747.e6b928ef0154.pmtiles",
+   "bytes": 26778,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1170-747.e6b928ef0154.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 740,
+   "file": "11-1171-740.4b8625a527e3.pmtiles",
+   "bytes": 571891,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-740.4b8625a527e3.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 741,
+   "file": "11-1171-741.c33aa5ed2c59.pmtiles",
+   "bytes": 1200381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-741.c33aa5ed2c59.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 742,
+   "file": "11-1171-742.854ae53635dc.pmtiles",
+   "bytes": 293171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-742.854ae53635dc.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 743,
+   "file": "11-1171-743.707c7ba18732.pmtiles",
+   "bytes": 179696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-743.707c7ba18732.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 744,
+   "file": "11-1171-744.b99ddc757a71.pmtiles",
+   "bytes": 114358,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-744.b99ddc757a71.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 745,
+   "file": "11-1171-745.2a3af888456d.pmtiles",
+   "bytes": 667383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-745.2a3af888456d.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 746,
+   "file": "11-1171-746.635e8f00f7d3.pmtiles",
+   "bytes": 57896,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1171-746.635e8f00f7d3.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 740,
+   "file": "11-1172-740.c3bbac6ecf3b.pmtiles",
+   "bytes": 2148582,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-740.c3bbac6ecf3b.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 741,
+   "file": "11-1172-741.f6df27e1aeb3.pmtiles",
+   "bytes": 5366000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-741.f6df27e1aeb3.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 742,
+   "file": "11-1172-742.fad72f4b29d3.pmtiles",
+   "bytes": 568630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-742.fad72f4b29d3.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 743,
+   "file": "11-1172-743.9678563d593b.pmtiles",
+   "bytes": 263247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-743.9678563d593b.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 744,
+   "file": "11-1172-744.a2e0308e4482.pmtiles",
+   "bytes": 155999,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-744.a2e0308e4482.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 745,
+   "file": "11-1172-745.1e8b59cd54cf.pmtiles",
+   "bytes": 59897,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1172-745.1e8b59cd54cf.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 740,
+   "file": "11-1173-740.4590fcd33023.pmtiles",
+   "bytes": 389863,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1173-740.4590fcd33023.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 741,
+   "file": "11-1173-741.d26ffc723edc.pmtiles",
+   "bytes": 1024432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1173-741.d26ffc723edc.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 742,
+   "file": "11-1173-742.26c14e00b53e.pmtiles",
+   "bytes": 216286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1173-742.26c14e00b53e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 743,
+   "file": "11-1173-743.b7166d3ad38e.pmtiles",
+   "bytes": 216187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1173-743.b7166d3ad38e.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 744,
+   "file": "11-1173-744.ff627a82c4e4.pmtiles",
+   "bytes": 84382,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1173-744.ff627a82c4e4.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 740,
+   "file": "11-1174-740.d86eb26d1568.pmtiles",
+   "bytes": 84506,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1174-740.d86eb26d1568.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 741,
+   "file": "11-1174-741.b5b9d1c35b28.pmtiles",
+   "bytes": 71864,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1174-741.b5b9d1c35b28.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 742,
+   "file": "11-1174-742.5e2d888b00d2.pmtiles",
+   "bytes": 112918,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1174-742.5e2d888b00d2.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 743,
+   "file": "11-1174-743.6fbfb2852220.pmtiles",
+   "bytes": 84663,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1174-743.6fbfb2852220.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 744,
+   "file": "11-1174-744.6b807bdf09b9.pmtiles",
+   "bytes": 33112,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-giurgiu-2026-10-03/11-1174-744.6b807bdf09b9.pmtiles"
+  }
+ ]
+}

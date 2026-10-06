@@ -1,0 +1,741 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-dolj",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:02:08.495Z",
+ "publishedAt": "2026-10-06T01:02:32.603Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-dolj-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  22.84143,
+  43.69994,
+  24.2639,
+  44.72967
+ ],
+ "overview": {
+  "file": "overview.8bb1e87b95d7.pmtiles",
+  "bytes": 2665338,
+  "tiles": 51,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/overview.8bb1e87b95d7.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1153,
+   "y": 738,
+   "file": "11-1153-738.263111cc5455.pmtiles",
+   "bytes": 50000,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-738.263111cc5455.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 739,
+   "file": "11-1153-739.81f5fbda8685.pmtiles",
+   "bytes": 110522,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-739.81f5fbda8685.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 740,
+   "file": "11-1153-740.879f98261260.pmtiles",
+   "bytes": 73643,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-740.879f98261260.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 741,
+   "file": "11-1153-741.04011526cc12.pmtiles",
+   "bytes": 50446,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-741.04011526cc12.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 742,
+   "file": "11-1153-742.e23346b943ca.pmtiles",
+   "bytes": 24725,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-742.e23346b943ca.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 743,
+   "file": "11-1153-743.6b88c42563a0.pmtiles",
+   "bytes": 44724,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-743.6b88c42563a0.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 745,
+   "file": "11-1153-745.3300b6674009.pmtiles",
+   "bytes": 46137,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1153-745.3300b6674009.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 738,
+   "file": "11-1154-738.cd37d4746ca0.pmtiles",
+   "bytes": 106471,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-738.cd37d4746ca0.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 739,
+   "file": "11-1154-739.c539c257962f.pmtiles",
+   "bytes": 331602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-739.c539c257962f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 740,
+   "file": "11-1154-740.c789c4c6a0ac.pmtiles",
+   "bytes": 300613,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-740.c789c4c6a0ac.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 741,
+   "file": "11-1154-741.81080b5a0503.pmtiles",
+   "bytes": 194719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-741.81080b5a0503.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 742,
+   "file": "11-1154-742.c6f53c0c097f.pmtiles",
+   "bytes": 139928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-742.c6f53c0c097f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 743,
+   "file": "11-1154-743.0e271896f166.pmtiles",
+   "bytes": 179697,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-743.0e271896f166.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 744,
+   "file": "11-1154-744.a987cad7d2ad.pmtiles",
+   "bytes": 243746,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-744.a987cad7d2ad.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 745,
+   "file": "11-1154-745.604dca59e465.pmtiles",
+   "bytes": 147696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-745.604dca59e465.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 746,
+   "file": "11-1154-746.c1fec3209f13.pmtiles",
+   "bytes": 44736,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1154-746.c1fec3209f13.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 738,
+   "file": "11-1155-738.c7ca41c0c6dd.pmtiles",
+   "bytes": 117508,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-738.c7ca41c0c6dd.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 739,
+   "file": "11-1155-739.e498866ecda8.pmtiles",
+   "bytes": 348397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-739.e498866ecda8.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 740,
+   "file": "11-1155-740.de0c2e25d36f.pmtiles",
+   "bytes": 274935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-740.de0c2e25d36f.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 741,
+   "file": "11-1155-741.d08e7116d0e1.pmtiles",
+   "bytes": 190548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-741.d08e7116d0e1.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 742,
+   "file": "11-1155-742.715180e2434b.pmtiles",
+   "bytes": 126645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-742.715180e2434b.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 743,
+   "file": "11-1155-743.47b79438bb66.pmtiles",
+   "bytes": 136449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-743.47b79438bb66.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 744,
+   "file": "11-1155-744.9137545a1f72.pmtiles",
+   "bytes": 125098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-744.9137545a1f72.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 745,
+   "file": "11-1155-745.3e930053e3ec.pmtiles",
+   "bytes": 173388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-745.3e930053e3ec.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 746,
+   "file": "11-1155-746.7efa57b56080.pmtiles",
+   "bytes": 53758,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1155-746.7efa57b56080.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 738,
+   "file": "11-1156-738.880822720030.pmtiles",
+   "bytes": 97301,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-738.880822720030.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 739,
+   "file": "11-1156-739.25a247069370.pmtiles",
+   "bytes": 322907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-739.25a247069370.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 740,
+   "file": "11-1156-740.9f06a01423de.pmtiles",
+   "bytes": 275372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-740.9f06a01423de.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 741,
+   "file": "11-1156-741.1d2056dbbd03.pmtiles",
+   "bytes": 197027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-741.1d2056dbbd03.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 742,
+   "file": "11-1156-742.e6f7d07bb675.pmtiles",
+   "bytes": 151971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-742.e6f7d07bb675.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 743,
+   "file": "11-1156-743.4bb2244ae785.pmtiles",
+   "bytes": 122126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-743.4bb2244ae785.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 744,
+   "file": "11-1156-744.d18e8981cb23.pmtiles",
+   "bytes": 112119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-744.d18e8981cb23.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 745,
+   "file": "11-1156-745.28c97b95e032.pmtiles",
+   "bytes": 109477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-745.28c97b95e032.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 746,
+   "file": "11-1156-746.8b6ff23ca2f7.pmtiles",
+   "bytes": 21619,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1156-746.8b6ff23ca2f7.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 738,
+   "file": "11-1157-738.93d16e069153.pmtiles",
+   "bytes": 102089,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-738.93d16e069153.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 739,
+   "file": "11-1157-739.072cb3f19e60.pmtiles",
+   "bytes": 287199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-739.072cb3f19e60.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 740,
+   "file": "11-1157-740.9d29a4377f09.pmtiles",
+   "bytes": 300318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-740.9d29a4377f09.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 741,
+   "file": "11-1157-741.14b21158fd07.pmtiles",
+   "bytes": 226111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-741.14b21158fd07.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 742,
+   "file": "11-1157-742.aa2d2a9d558f.pmtiles",
+   "bytes": 171762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-742.aa2d2a9d558f.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 743,
+   "file": "11-1157-743.5e135920a124.pmtiles",
+   "bytes": 107889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-743.5e135920a124.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 744,
+   "file": "11-1157-744.9769e2cc42fc.pmtiles",
+   "bytes": 135600,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-744.9769e2cc42fc.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 745,
+   "file": "11-1157-745.225e4c7303ec.pmtiles",
+   "bytes": 148152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-745.225e4c7303ec.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 746,
+   "file": "11-1157-746.9549bf825f3a.pmtiles",
+   "bytes": 33240,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1157-746.9549bf825f3a.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 738,
+   "file": "11-1158-738.fb1412f1d0a3.pmtiles",
+   "bytes": 107151,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-738.fb1412f1d0a3.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 739,
+   "file": "11-1158-739.6e5d400c5743.pmtiles",
+   "bytes": 303689,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-739.6e5d400c5743.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 740,
+   "file": "11-1158-740.ca89dd763088.pmtiles",
+   "bytes": 277857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-740.ca89dd763088.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 741,
+   "file": "11-1158-741.b87e90ddcc0e.pmtiles",
+   "bytes": 284485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-741.b87e90ddcc0e.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 742,
+   "file": "11-1158-742.af409ce1000f.pmtiles",
+   "bytes": 215947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-742.af409ce1000f.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 743,
+   "file": "11-1158-743.98a84a85c2ba.pmtiles",
+   "bytes": 167205,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-743.98a84a85c2ba.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 744,
+   "file": "11-1158-744.a1fa3f502b10.pmtiles",
+   "bytes": 128746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-744.a1fa3f502b10.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 745,
+   "file": "11-1158-745.4170fb47ecba.pmtiles",
+   "bytes": 179728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-745.4170fb47ecba.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 746,
+   "file": "11-1158-746.03c34a0798a9.pmtiles",
+   "bytes": 63298,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1158-746.03c34a0798a9.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 738,
+   "file": "11-1159-738.59c25b4ea84f.pmtiles",
+   "bytes": 119480,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-738.59c25b4ea84f.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 739,
+   "file": "11-1159-739.a2edad5475ce.pmtiles",
+   "bytes": 311152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-739.a2edad5475ce.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 740,
+   "file": "11-1159-740.246b393ea693.pmtiles",
+   "bytes": 273130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-740.246b393ea693.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 741,
+   "file": "11-1159-741.931526e2b598.pmtiles",
+   "bytes": 360420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-741.931526e2b598.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 742,
+   "file": "11-1159-742.745c452fab99.pmtiles",
+   "bytes": 1310103,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-742.745c452fab99.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 743,
+   "file": "11-1159-743.76c034f04bf8.pmtiles",
+   "bytes": 241551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-743.76c034f04bf8.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 744,
+   "file": "11-1159-744.13c8ec3ff8c8.pmtiles",
+   "bytes": 126706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-744.13c8ec3ff8c8.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 745,
+   "file": "11-1159-745.160886ad1c8f.pmtiles",
+   "bytes": 117641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-745.160886ad1c8f.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 746,
+   "file": "11-1159-746.658e85359b3a.pmtiles",
+   "bytes": 95359,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1159-746.658e85359b3a.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 738,
+   "file": "11-1160-738.e7aa27ddbe7b.pmtiles",
+   "bytes": 110970,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-738.e7aa27ddbe7b.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 739,
+   "file": "11-1160-739.39a6c47d6078.pmtiles",
+   "bytes": 300370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-739.39a6c47d6078.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 740,
+   "file": "11-1160-740.d31377405841.pmtiles",
+   "bytes": 328628,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-740.d31377405841.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 741,
+   "file": "11-1160-741.0e617c59b0da.pmtiles",
+   "bytes": 357102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-741.0e617c59b0da.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 742,
+   "file": "11-1160-742.aa8f87e70ace.pmtiles",
+   "bytes": 210567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-742.aa8f87e70ace.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 743,
+   "file": "11-1160-743.eed1ec8fc7e4.pmtiles",
+   "bytes": 157325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-743.eed1ec8fc7e4.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 744,
+   "file": "11-1160-744.795fc9e14b80.pmtiles",
+   "bytes": 180813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-744.795fc9e14b80.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 745,
+   "file": "11-1160-745.9bf8c98614fd.pmtiles",
+   "bytes": 115803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-745.9bf8c98614fd.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 746,
+   "file": "11-1160-746.844970b2b173.pmtiles",
+   "bytes": 155291,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1160-746.844970b2b173.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 738,
+   "file": "11-1161-738.e438aa6419b7.pmtiles",
+   "bytes": 103992,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-738.e438aa6419b7.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 739,
+   "file": "11-1161-739.679d1d3beb5b.pmtiles",
+   "bytes": 336488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-739.679d1d3beb5b.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 740,
+   "file": "11-1161-740.7a33aac8e8e6.pmtiles",
+   "bytes": 262931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-740.7a33aac8e8e6.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 741,
+   "file": "11-1161-741.9b0218087d76.pmtiles",
+   "bytes": 308028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-741.9b0218087d76.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 742,
+   "file": "11-1161-742.38f87dad1ee9.pmtiles",
+   "bytes": 300402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-742.38f87dad1ee9.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 743,
+   "file": "11-1161-743.738b6567ee1a.pmtiles",
+   "bytes": 161654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-743.738b6567ee1a.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 744,
+   "file": "11-1161-744.ba536b700c06.pmtiles",
+   "bytes": 124271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-744.ba536b700c06.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 745,
+   "file": "11-1161-745.207f2421ac79.pmtiles",
+   "bytes": 111866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-745.207f2421ac79.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 746,
+   "file": "11-1161-746.705abcefe293.pmtiles",
+   "bytes": 213481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-746.705abcefe293.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 747,
+   "file": "11-1161-747.8db268161ae0.pmtiles",
+   "bytes": 31142,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1161-747.8db268161ae0.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 738,
+   "file": "11-1162-738.ddcd605e7514.pmtiles",
+   "bytes": 48565,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-738.ddcd605e7514.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 739,
+   "file": "11-1162-739.9512bd8bcb61.pmtiles",
+   "bytes": 161169,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-739.9512bd8bcb61.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 740,
+   "file": "11-1162-740.193948380e6f.pmtiles",
+   "bytes": 103299,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-740.193948380e6f.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 741,
+   "file": "11-1162-741.43cd88882287.pmtiles",
+   "bytes": 120036,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-741.43cd88882287.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 742,
+   "file": "11-1162-742.c416cfab9b5a.pmtiles",
+   "bytes": 78921,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-742.c416cfab9b5a.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 743,
+   "file": "11-1162-743.f97b3560c74a.pmtiles",
+   "bytes": 65596,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-743.f97b3560c74a.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 744,
+   "file": "11-1162-744.b455f02e3642.pmtiles",
+   "bytes": 39771,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-744.b455f02e3642.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 745,
+   "file": "11-1162-745.f3ff6b654ac2.pmtiles",
+   "bytes": 43201,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-745.f3ff6b654ac2.pmtiles"
+  },
+  {
+   "x": 1162,
+   "y": 746,
+   "file": "11-1162-746.b7b1833247e8.pmtiles",
+   "bytes": 40884,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-dolj-2026-10-03/11-1162-746.b7b1833247e8.pmtiles"
+  }
+ ]
+}

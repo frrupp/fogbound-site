@@ -1,0 +1,629 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-constanta",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:06:08.726Z",
+ "publishedAt": "2026-10-06T01:06:28.639Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-constanta-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  27.27345,
+  43.73373,
+  28.99444,
+  44.80198
+ ],
+ "overview": {
+  "file": "overview.6cd84f4d6fba.pmtiles",
+  "bytes": 1279347,
+  "tiles": 56,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/overview.6cd84f4d6fba.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1179,
+   "y": 738,
+   "file": "11-1179-738.5628d6a9e20a.pmtiles",
+   "bytes": 93885,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-738.5628d6a9e20a.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 739,
+   "file": "11-1179-739.79b16cc1e948.pmtiles",
+   "bytes": 85486,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-739.79b16cc1e948.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 740,
+   "file": "11-1179-740.45154c7d3d77.pmtiles",
+   "bytes": 240768,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-740.45154c7d3d77.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 741,
+   "file": "11-1179-741.a1468a2c2fa7.pmtiles",
+   "bytes": 83609,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-741.a1468a2c2fa7.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 742,
+   "file": "11-1179-742.9c8839ea3dfd.pmtiles",
+   "bytes": 90961,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-742.9c8839ea3dfd.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 743,
+   "file": "11-1179-743.1ea248965136.pmtiles",
+   "bytes": 294387,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-743.1ea248965136.pmtiles"
+  },
+  {
+   "x": 1179,
+   "y": 744,
+   "file": "11-1179-744.7d9d4901e4ee.pmtiles",
+   "bytes": 69493,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1179-744.7d9d4901e4ee.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 738,
+   "file": "11-1180-738.91136a677477.pmtiles",
+   "bytes": 77645,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-738.91136a677477.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 739,
+   "file": "11-1180-739.89ca71d6f4f0.pmtiles",
+   "bytes": 118087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-739.89ca71d6f4f0.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 740,
+   "file": "11-1180-740.4b4e1abc6035.pmtiles",
+   "bytes": 84374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-740.4b4e1abc6035.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 741,
+   "file": "11-1180-741.66c48ffeb5ab.pmtiles",
+   "bytes": 71460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-741.66c48ffeb5ab.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 742,
+   "file": "11-1180-742.944ce9a3dec2.pmtiles",
+   "bytes": 72459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-742.944ce9a3dec2.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 743,
+   "file": "11-1180-743.f76d754fa813.pmtiles",
+   "bytes": 195136,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-743.f76d754fa813.pmtiles"
+  },
+  {
+   "x": 1180,
+   "y": 744,
+   "file": "11-1180-744.65c63dcbf6c7.pmtiles",
+   "bytes": 128324,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1180-744.65c63dcbf6c7.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 738,
+   "file": "11-1181-738.1cebbc728fe7.pmtiles",
+   "bytes": 56124,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-738.1cebbc728fe7.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 739,
+   "file": "11-1181-739.f02ef4c7eca9.pmtiles",
+   "bytes": 178659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-739.f02ef4c7eca9.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 740,
+   "file": "11-1181-740.bd604512d7b5.pmtiles",
+   "bytes": 49474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-740.bd604512d7b5.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 741,
+   "file": "11-1181-741.f6fe0b039d67.pmtiles",
+   "bytes": 79151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-741.f6fe0b039d67.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 742,
+   "file": "11-1181-742.0e5f84f4a142.pmtiles",
+   "bytes": 111983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-742.0e5f84f4a142.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 743,
+   "file": "11-1181-743.782c051f94d0.pmtiles",
+   "bytes": 187693,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-743.782c051f94d0.pmtiles"
+  },
+  {
+   "x": 1181,
+   "y": 744,
+   "file": "11-1181-744.b56066fa0fa9.pmtiles",
+   "bytes": 161541,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1181-744.b56066fa0fa9.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 738,
+   "file": "11-1182-738.acce7fe20356.pmtiles",
+   "bytes": 102137,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-738.acce7fe20356.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 739,
+   "file": "11-1182-739.ba8b008d76e6.pmtiles",
+   "bytes": 137587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-739.ba8b008d76e6.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 740,
+   "file": "11-1182-740.e68b27885702.pmtiles",
+   "bytes": 95816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-740.e68b27885702.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 741,
+   "file": "11-1182-741.a562e4208f67.pmtiles",
+   "bytes": 213632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-741.a562e4208f67.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 742,
+   "file": "11-1182-742.4e26f437f80d.pmtiles",
+   "bytes": 113988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-742.4e26f437f80d.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 743,
+   "file": "11-1182-743.cdd48a59b8f8.pmtiles",
+   "bytes": 230567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-743.cdd48a59b8f8.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 744,
+   "file": "11-1182-744.8ae0049fccfe.pmtiles",
+   "bytes": 211529,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-744.8ae0049fccfe.pmtiles"
+  },
+  {
+   "x": 1182,
+   "y": 745,
+   "file": "11-1182-745.31dd0f244e98.pmtiles",
+   "bytes": 22307,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1182-745.31dd0f244e98.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 738,
+   "file": "11-1183-738.9cc999eaa83f.pmtiles",
+   "bytes": 98740,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-738.9cc999eaa83f.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 739,
+   "file": "11-1183-739.aaafe7686730.pmtiles",
+   "bytes": 156606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-739.aaafe7686730.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 740,
+   "file": "11-1183-740.f843fe3466ed.pmtiles",
+   "bytes": 97987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-740.f843fe3466ed.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 741,
+   "file": "11-1183-741.f0499fb0764c.pmtiles",
+   "bytes": 131874,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-741.f0499fb0764c.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 742,
+   "file": "11-1183-742.22a828cc6491.pmtiles",
+   "bytes": 227896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-742.22a828cc6491.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 743,
+   "file": "11-1183-743.315467abf496.pmtiles",
+   "bytes": 161278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-743.315467abf496.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 744,
+   "file": "11-1183-744.222ec5e317dd.pmtiles",
+   "bytes": 124525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-744.222ec5e317dd.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 745,
+   "file": "11-1183-745.a49217bebc97.pmtiles",
+   "bytes": 117567,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-745.a49217bebc97.pmtiles"
+  },
+  {
+   "x": 1183,
+   "y": 746,
+   "file": "11-1183-746.ff72be3ed72e.pmtiles",
+   "bytes": 24654,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1183-746.ff72be3ed72e.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 738,
+   "file": "11-1184-738.bb736ce2faea.pmtiles",
+   "bytes": 84496,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-738.bb736ce2faea.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 739,
+   "file": "11-1184-739.d8362a434c80.pmtiles",
+   "bytes": 98767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-739.d8362a434c80.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 740,
+   "file": "11-1184-740.ff4be2128682.pmtiles",
+   "bytes": 106093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-740.ff4be2128682.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 741,
+   "file": "11-1184-741.af93c2284779.pmtiles",
+   "bytes": 88896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-741.af93c2284779.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 742,
+   "file": "11-1184-742.0ccecd0eb293.pmtiles",
+   "bytes": 274141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-742.0ccecd0eb293.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 743,
+   "file": "11-1184-743.56a08fdf7f59.pmtiles",
+   "bytes": 87147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-743.56a08fdf7f59.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 744,
+   "file": "11-1184-744.0f144dce0261.pmtiles",
+   "bytes": 143165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-744.0f144dce0261.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 745,
+   "file": "11-1184-745.6bb74d047398.pmtiles",
+   "bytes": 75385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-745.6bb74d047398.pmtiles"
+  },
+  {
+   "x": 1184,
+   "y": 746,
+   "file": "11-1184-746.dcd6cd4ed660.pmtiles",
+   "bytes": 86902,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1184-746.dcd6cd4ed660.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 738,
+   "file": "11-1185-738.6dead9334542.pmtiles",
+   "bytes": 83662,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-738.6dead9334542.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 739,
+   "file": "11-1185-739.947c020e721e.pmtiles",
+   "bytes": 103783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-739.947c020e721e.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 740,
+   "file": "11-1185-740.0d8e36d712f4.pmtiles",
+   "bytes": 137120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-740.0d8e36d712f4.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 741,
+   "file": "11-1185-741.0c4ae6ad1293.pmtiles",
+   "bytes": 146252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-741.0c4ae6ad1293.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 742,
+   "file": "11-1185-742.530589103a70.pmtiles",
+   "bytes": 141428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-742.530589103a70.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 743,
+   "file": "11-1185-743.90d10b21e922.pmtiles",
+   "bytes": 226319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-743.90d10b21e922.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 744,
+   "file": "11-1185-744.55d42313f068.pmtiles",
+   "bytes": 104385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-744.55d42313f068.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 745,
+   "file": "11-1185-745.6d28f651e2c6.pmtiles",
+   "bytes": 76636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-745.6d28f651e2c6.pmtiles"
+  },
+  {
+   "x": 1185,
+   "y": 746,
+   "file": "11-1185-746.858f29e36586.pmtiles",
+   "bytes": 127260,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1185-746.858f29e36586.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 738,
+   "file": "11-1186-738.eea990eaf2ab.pmtiles",
+   "bytes": 150822,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-738.eea990eaf2ab.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 739,
+   "file": "11-1186-739.848953d64242.pmtiles",
+   "bytes": 139075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-739.848953d64242.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 740,
+   "file": "11-1186-740.828e12eac780.pmtiles",
+   "bytes": 171764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-740.828e12eac780.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 741,
+   "file": "11-1186-741.0468f2a31b2b.pmtiles",
+   "bytes": 150906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-741.0468f2a31b2b.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 742,
+   "file": "11-1186-742.fb8d4768b4aa.pmtiles",
+   "bytes": 661488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-742.fb8d4768b4aa.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 743,
+   "file": "11-1186-743.0cc6c0fd94d8.pmtiles",
+   "bytes": 1567821,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-743.0cc6c0fd94d8.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 744,
+   "file": "11-1186-744.1d75d776c35c.pmtiles",
+   "bytes": 449904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-744.1d75d776c35c.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 745,
+   "file": "11-1186-745.12b534f49e05.pmtiles",
+   "bytes": 300848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-745.12b534f49e05.pmtiles"
+  },
+  {
+   "x": 1186,
+   "y": 746,
+   "file": "11-1186-746.3b4a94a90c32.pmtiles",
+   "bytes": 327833,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1186-746.3b4a94a90c32.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 738,
+   "file": "11-1187-738.a58bb6ddc19b.pmtiles",
+   "bytes": 130763,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-738.a58bb6ddc19b.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 739,
+   "file": "11-1187-739.60f3d6a3d37f.pmtiles",
+   "bytes": 163778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-739.60f3d6a3d37f.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 740,
+   "file": "11-1187-740.98a17807d57c.pmtiles",
+   "bytes": 139169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-740.98a17807d57c.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 741,
+   "file": "11-1187-741.f8252817d164.pmtiles",
+   "bytes": 152081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-741.f8252817d164.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 742,
+   "file": "11-1187-742.13e9baaed41a.pmtiles",
+   "bytes": 18059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-742.13e9baaed41a.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 743,
+   "file": "11-1187-743.68904e09578e.pmtiles",
+   "bytes": 172030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-743.68904e09578e.pmtiles"
+  },
+  {
+   "x": 1187,
+   "y": 744,
+   "file": "11-1187-744.531b082c601e.pmtiles",
+   "bytes": 49477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1187-744.531b082c601e.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 738,
+   "file": "11-1188-738.22c997e5f192.pmtiles",
+   "bytes": 134713,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1188-738.22c997e5f192.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 739,
+   "file": "11-1188-739.75893a6cef05.pmtiles",
+   "bytes": 97831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1188-739.75893a6cef05.pmtiles"
+  },
+  {
+   "x": 1188,
+   "y": 740,
+   "file": "11-1188-740.64fec47f2259.pmtiles",
+   "bytes": 43462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-constanta-2026-10-03/11-1188-740.64fec47f2259.pmtiles"
+  }
+ ]
+}

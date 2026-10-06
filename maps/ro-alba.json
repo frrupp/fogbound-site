@@ -1,0 +1,909 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-alba",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:05:38.725Z",
+ "publishedAt": "2026-10-06T01:06:08.559Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-alba-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  22.6638,
+  45.45544,
+  24.25165,
+  46.57628
+ ],
+ "overview": {
+  "file": "overview.d00f5a49cb7c.pmtiles",
+  "bytes": 5247180,
+  "tiles": 54,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/overview.d00f5a49cb7c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1152,
+   "y": 723,
+   "file": "11-1152-723.14968277b226.pmtiles",
+   "bytes": 43899,
+   "tiles": 5,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-723.14968277b226.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 724,
+   "file": "11-1152-724.8631c2ead926.pmtiles",
+   "bytes": 94938,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-724.8631c2ead926.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 725,
+   "file": "11-1152-725.7f3763127461.pmtiles",
+   "bytes": 74571,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-725.7f3763127461.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 726,
+   "file": "11-1152-726.1dafaeac91e0.pmtiles",
+   "bytes": 111807,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-726.1dafaeac91e0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 727,
+   "file": "11-1152-727.ae227808012c.pmtiles",
+   "bytes": 93172,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-727.ae227808012c.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 728,
+   "file": "11-1152-728.0531de655385.pmtiles",
+   "bytes": 119763,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-728.0531de655385.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 729,
+   "file": "11-1152-729.d402329a6e88.pmtiles",
+   "bytes": 110369,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-729.d402329a6e88.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 730,
+   "file": "11-1152-730.ae6ed443d911.pmtiles",
+   "bytes": 85656,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-730.ae6ed443d911.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 731,
+   "file": "11-1152-731.a694c018533a.pmtiles",
+   "bytes": 85918,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-731.a694c018533a.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 732,
+   "file": "11-1152-732.a4f0a693f1dd.pmtiles",
+   "bytes": 60878,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-732.a4f0a693f1dd.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 733,
+   "file": "11-1152-733.31dc9319107b.pmtiles",
+   "bytes": 28859,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1152-733.31dc9319107b.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 723,
+   "file": "11-1153-723.0af0db0e860c.pmtiles",
+   "bytes": 104909,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-723.0af0db0e860c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 724,
+   "file": "11-1153-724.60a5d1fba927.pmtiles",
+   "bytes": 434987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-724.60a5d1fba927.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 725,
+   "file": "11-1153-725.75609a7f69f3.pmtiles",
+   "bytes": 291937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-725.75609a7f69f3.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 726,
+   "file": "11-1153-726.046bb83d254d.pmtiles",
+   "bytes": 298197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-726.046bb83d254d.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 727,
+   "file": "11-1153-727.5c0c4fc56c19.pmtiles",
+   "bytes": 501602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-727.5c0c4fc56c19.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 728,
+   "file": "11-1153-728.f5ea08eb821e.pmtiles",
+   "bytes": 338725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-728.f5ea08eb821e.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 729,
+   "file": "11-1153-729.380550ae7517.pmtiles",
+   "bytes": 316199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-729.380550ae7517.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 730,
+   "file": "11-1153-730.5e78538b2346.pmtiles",
+   "bytes": 341381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-730.5e78538b2346.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 731,
+   "file": "11-1153-731.a48b8d20d57f.pmtiles",
+   "bytes": 304637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-731.a48b8d20d57f.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 732,
+   "file": "11-1153-732.2de2d59118d4.pmtiles",
+   "bytes": 291484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-732.2de2d59118d4.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 733,
+   "file": "11-1153-733.0d8420550263.pmtiles",
+   "bytes": 57968,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1153-733.0d8420550263.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 723,
+   "file": "11-1154-723.251c85d6ad5b.pmtiles",
+   "bytes": 89653,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-723.251c85d6ad5b.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 724,
+   "file": "11-1154-724.a7b219e29ba6.pmtiles",
+   "bytes": 431563,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-724.a7b219e29ba6.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 725,
+   "file": "11-1154-725.524ee9d32283.pmtiles",
+   "bytes": 520219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-725.524ee9d32283.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 726,
+   "file": "11-1154-726.c1767c18c25f.pmtiles",
+   "bytes": 395208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-726.c1767c18c25f.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 727,
+   "file": "11-1154-727.1c64c8b01809.pmtiles",
+   "bytes": 327180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-727.1c64c8b01809.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 728,
+   "file": "11-1154-728.e0e2a592b84c.pmtiles",
+   "bytes": 395584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-728.e0e2a592b84c.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 729,
+   "file": "11-1154-729.5502966c9a78.pmtiles",
+   "bytes": 730754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-729.5502966c9a78.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 730,
+   "file": "11-1154-730.50093b498f6e.pmtiles",
+   "bytes": 699431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-730.50093b498f6e.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 731,
+   "file": "11-1154-731.d5ea998f8b78.pmtiles",
+   "bytes": 459384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-731.d5ea998f8b78.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 732,
+   "file": "11-1154-732.dc79e746c6f7.pmtiles",
+   "bytes": 358929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-732.dc79e746c6f7.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 733,
+   "file": "11-1154-733.1917a04fc2eb.pmtiles",
+   "bytes": 60453,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1154-733.1917a04fc2eb.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 723,
+   "file": "11-1155-723.42445b0b6075.pmtiles",
+   "bytes": 84813,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-723.42445b0b6075.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 724,
+   "file": "11-1155-724.991074265e21.pmtiles",
+   "bytes": 212953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-724.991074265e21.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 725,
+   "file": "11-1155-725.4e708e84ad8e.pmtiles",
+   "bytes": 472255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-725.4e708e84ad8e.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 726,
+   "file": "11-1155-726.227f4fb63821.pmtiles",
+   "bytes": 530068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-726.227f4fb63821.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 727,
+   "file": "11-1155-727.4f5c34c78f8d.pmtiles",
+   "bytes": 347007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-727.4f5c34c78f8d.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 728,
+   "file": "11-1155-728.d64d0732c157.pmtiles",
+   "bytes": 348244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-728.d64d0732c157.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 729,
+   "file": "11-1155-729.fade53f67819.pmtiles",
+   "bytes": 460857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-729.fade53f67819.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 730,
+   "file": "11-1155-730.2bee722625d0.pmtiles",
+   "bytes": 420883,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-730.2bee722625d0.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 731,
+   "file": "11-1155-731.5e50fc9f9bcd.pmtiles",
+   "bytes": 315142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-731.5e50fc9f9bcd.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 732,
+   "file": "11-1155-732.6c1e322261c0.pmtiles",
+   "bytes": 395616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-732.6c1e322261c0.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 733,
+   "file": "11-1155-733.12766c0c5e7b.pmtiles",
+   "bytes": 83425,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1155-733.12766c0c5e7b.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 723,
+   "file": "11-1156-723.0ca3c5ccd650.pmtiles",
+   "bytes": 74697,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-723.0ca3c5ccd650.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 724,
+   "file": "11-1156-724.12febe10e83d.pmtiles",
+   "bytes": 223039,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-724.12febe10e83d.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 725,
+   "file": "11-1156-725.6136915ddb63.pmtiles",
+   "bytes": 314748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-725.6136915ddb63.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 726,
+   "file": "11-1156-726.671bc2dcc60a.pmtiles",
+   "bytes": 344085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-726.671bc2dcc60a.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 727,
+   "file": "11-1156-727.15e56eac6b19.pmtiles",
+   "bytes": 376516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-727.15e56eac6b19.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 728,
+   "file": "11-1156-728.a9619929b199.pmtiles",
+   "bytes": 285895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-728.a9619929b199.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 729,
+   "file": "11-1156-729.e18191e9897f.pmtiles",
+   "bytes": 454540,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-729.e18191e9897f.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 730,
+   "file": "11-1156-730.ca89a50b3a52.pmtiles",
+   "bytes": 286824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-730.ca89a50b3a52.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 731,
+   "file": "11-1156-731.e52d3ac8512c.pmtiles",
+   "bytes": 204728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-731.e52d3ac8512c.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 732,
+   "file": "11-1156-732.2f0d525ee66e.pmtiles",
+   "bytes": 197236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-732.2f0d525ee66e.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 733,
+   "file": "11-1156-733.71c27fd19581.pmtiles",
+   "bytes": 160655,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1156-733.71c27fd19581.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 723,
+   "file": "11-1157-723.e6debc790347.pmtiles",
+   "bytes": 95318,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-723.e6debc790347.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 724,
+   "file": "11-1157-724.b603782f892c.pmtiles",
+   "bytes": 318217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-724.b603782f892c.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 725,
+   "file": "11-1157-725.f0d487391f6e.pmtiles",
+   "bytes": 350418,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-725.f0d487391f6e.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 726,
+   "file": "11-1157-726.f62b56380f6a.pmtiles",
+   "bytes": 376882,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-726.f62b56380f6a.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 727,
+   "file": "11-1157-727.adcc8ff89e6e.pmtiles",
+   "bytes": 400016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-727.adcc8ff89e6e.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 728,
+   "file": "11-1157-728.1c09c677950c.pmtiles",
+   "bytes": 403210,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-728.1c09c677950c.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 729,
+   "file": "11-1157-729.a1df15bb4c75.pmtiles",
+   "bytes": 299034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-729.a1df15bb4c75.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 730,
+   "file": "11-1157-730.a433d9cb3dc3.pmtiles",
+   "bytes": 235156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-730.a433d9cb3dc3.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 731,
+   "file": "11-1157-731.208cfaeabd56.pmtiles",
+   "bytes": 143823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-731.208cfaeabd56.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 732,
+   "file": "11-1157-732.f07929d4f962.pmtiles",
+   "bytes": 191946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-732.f07929d4f962.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 733,
+   "file": "11-1157-733.ef2194640c59.pmtiles",
+   "bytes": 163399,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1157-733.ef2194640c59.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 723,
+   "file": "11-1158-723.2d0739be1339.pmtiles",
+   "bytes": 122193,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-723.2d0739be1339.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 724,
+   "file": "11-1158-724.d24d83966595.pmtiles",
+   "bytes": 320680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-724.d24d83966595.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 725,
+   "file": "11-1158-725.75a364cd22e1.pmtiles",
+   "bytes": 308528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-725.75a364cd22e1.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 726,
+   "file": "11-1158-726.907dc04f78d5.pmtiles",
+   "bytes": 437444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-726.907dc04f78d5.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 727,
+   "file": "11-1158-727.256aeb567d7c.pmtiles",
+   "bytes": 519091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-727.256aeb567d7c.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 728,
+   "file": "11-1158-728.a27765b20717.pmtiles",
+   "bytes": 612191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-728.a27765b20717.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 729,
+   "file": "11-1158-729.7d1417fb52ae.pmtiles",
+   "bytes": 381232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-729.7d1417fb52ae.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 730,
+   "file": "11-1158-730.60cb81540992.pmtiles",
+   "bytes": 343825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-730.60cb81540992.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 731,
+   "file": "11-1158-731.6b43d2c8cf6d.pmtiles",
+   "bytes": 150857,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-731.6b43d2c8cf6d.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 732,
+   "file": "11-1158-732.b5e2b9fd2522.pmtiles",
+   "bytes": 167611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-732.b5e2b9fd2522.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 733,
+   "file": "11-1158-733.917132c878c9.pmtiles",
+   "bytes": 84513,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1158-733.917132c878c9.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 723,
+   "file": "11-1159-723.546823e691be.pmtiles",
+   "bytes": 329383,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-723.546823e691be.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 724,
+   "file": "11-1159-724.e8263be3a5e0.pmtiles",
+   "bytes": 497842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-724.e8263be3a5e0.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 725,
+   "file": "11-1159-725.db2072ea1bc2.pmtiles",
+   "bytes": 325608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-725.db2072ea1bc2.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 726,
+   "file": "11-1159-726.d05e40ac16ee.pmtiles",
+   "bytes": 266516,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-726.d05e40ac16ee.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 727,
+   "file": "11-1159-727.7d0905400251.pmtiles",
+   "bytes": 222441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-727.7d0905400251.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 728,
+   "file": "11-1159-728.a2b26cd600bd.pmtiles",
+   "bytes": 246593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-728.a2b26cd600bd.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 729,
+   "file": "11-1159-729.68f37d9498ef.pmtiles",
+   "bytes": 338618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-729.68f37d9498ef.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 730,
+   "file": "11-1159-730.055c79205c27.pmtiles",
+   "bytes": 364597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-730.055c79205c27.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 731,
+   "file": "11-1159-731.56a6756f43a6.pmtiles",
+   "bytes": 156720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-731.56a6756f43a6.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 732,
+   "file": "11-1159-732.b2da37ca9f64.pmtiles",
+   "bytes": 179927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-732.b2da37ca9f64.pmtiles"
+  },
+  {
+   "x": 1159,
+   "y": 733,
+   "file": "11-1159-733.b129f349895e.pmtiles",
+   "bytes": 72678,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1159-733.b129f349895e.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 723,
+   "file": "11-1160-723.3d833df58f44.pmtiles",
+   "bytes": 108720,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-723.3d833df58f44.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 724,
+   "file": "11-1160-724.11e346862742.pmtiles",
+   "bytes": 299748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-724.11e346862742.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 725,
+   "file": "11-1160-725.85f7f6a59a29.pmtiles",
+   "bytes": 272267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-725.85f7f6a59a29.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 726,
+   "file": "11-1160-726.1bb8af6d6b41.pmtiles",
+   "bytes": 240114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-726.1bb8af6d6b41.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 727,
+   "file": "11-1160-727.498a42f93e9c.pmtiles",
+   "bytes": 318695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-727.498a42f93e9c.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 728,
+   "file": "11-1160-728.e08184cc5038.pmtiles",
+   "bytes": 210291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-728.e08184cc5038.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 729,
+   "file": "11-1160-729.c45eeeab3be4.pmtiles",
+   "bytes": 282075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-729.c45eeeab3be4.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 730,
+   "file": "11-1160-730.eb9801348007.pmtiles",
+   "bytes": 380698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-730.eb9801348007.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 731,
+   "file": "11-1160-731.988edd69b786.pmtiles",
+   "bytes": 243137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-731.988edd69b786.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 732,
+   "file": "11-1160-732.9622e32dd0da.pmtiles",
+   "bytes": 162402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-732.9622e32dd0da.pmtiles"
+  },
+  {
+   "x": 1160,
+   "y": 733,
+   "file": "11-1160-733.86115402e225.pmtiles",
+   "bytes": 71201,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1160-733.86115402e225.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 723,
+   "file": "11-1161-723.0759cd0425c0.pmtiles",
+   "bytes": 111965,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-723.0759cd0425c0.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 724,
+   "file": "11-1161-724.150ca6fe4908.pmtiles",
+   "bytes": 439059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-724.150ca6fe4908.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 725,
+   "file": "11-1161-725.4a0871833321.pmtiles",
+   "bytes": 260455,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-725.4a0871833321.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 726,
+   "file": "11-1161-726.baca7a5c22c3.pmtiles",
+   "bytes": 242936,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-726.baca7a5c22c3.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 727,
+   "file": "11-1161-727.ab79a93f94df.pmtiles",
+   "bytes": 238122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-727.ab79a93f94df.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 728,
+   "file": "11-1161-728.a4c18a3edf82.pmtiles",
+   "bytes": 292585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-728.a4c18a3edf82.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 729,
+   "file": "11-1161-729.5e6f6ac17f49.pmtiles",
+   "bytes": 261793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-729.5e6f6ac17f49.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 730,
+   "file": "11-1161-730.ff53c71b740d.pmtiles",
+   "bytes": 1461070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-730.ff53c71b740d.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 731,
+   "file": "11-1161-731.a685d2a821ff.pmtiles",
+   "bytes": 322009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-731.a685d2a821ff.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 732,
+   "file": "11-1161-732.127e708155f2.pmtiles",
+   "bytes": 168961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-732.127e708155f2.pmtiles"
+  },
+  {
+   "x": 1161,
+   "y": 733,
+   "file": "11-1161-733.789d080cc906.pmtiles",
+   "bytes": 46730,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-alba-2026-10-03/11-1161-733.789d080cc906.pmtiles"
+  }
+ ]
+}

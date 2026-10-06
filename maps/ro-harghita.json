@@ -1,0 +1,749 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-harghita",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-06T01:03:40.200Z",
+ "publishedAt": "2026-10-06T01:04:03.983Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-harghita-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  24.85369,
+  46.1041,
+  26.29309,
+  47.18385
+ ],
+ "overview": {
+  "file": "overview.ebcc89568c7c.pmtiles",
+  "bytes": 4417982,
+  "tiles": 49,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/overview.ebcc89568c7c.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1165,
+   "y": 718,
+   "file": "11-1165-718.48d42b31af31.pmtiles",
+   "bytes": 114898,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-718.48d42b31af31.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 719,
+   "file": "11-1165-719.48b42fb52a14.pmtiles",
+   "bytes": 101193,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-719.48b42fb52a14.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 720,
+   "file": "11-1165-720.1fdc6e7b8c37.pmtiles",
+   "bytes": 227589,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-720.1fdc6e7b8c37.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 721,
+   "file": "11-1165-721.2be9173f2d55.pmtiles",
+   "bytes": 236830,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-721.2be9173f2d55.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 722,
+   "file": "11-1165-722.5327260b1675.pmtiles",
+   "bytes": 286563,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-722.5327260b1675.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 723,
+   "file": "11-1165-723.d840e75b6f95.pmtiles",
+   "bytes": 234974,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-723.d840e75b6f95.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 724,
+   "file": "11-1165-724.bd93fb5e9f49.pmtiles",
+   "bytes": 229663,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-724.bd93fb5e9f49.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 725,
+   "file": "11-1165-725.e77e18b8ad3b.pmtiles",
+   "bytes": 208279,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-725.e77e18b8ad3b.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 726,
+   "file": "11-1165-726.98af658d93fb.pmtiles",
+   "bytes": 249096,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-726.98af658d93fb.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 727,
+   "file": "11-1165-727.6785870d9023.pmtiles",
+   "bytes": 184502,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1165-727.6785870d9023.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 718,
+   "file": "11-1166-718.7c47f4b6a386.pmtiles",
+   "bytes": 53380,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-718.7c47f4b6a386.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 719,
+   "file": "11-1166-719.55a2af541a05.pmtiles",
+   "bytes": 158350,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-719.55a2af541a05.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 720,
+   "file": "11-1166-720.5aa8c74d32ec.pmtiles",
+   "bytes": 267643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-720.5aa8c74d32ec.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 721,
+   "file": "11-1166-721.c845ac418d6b.pmtiles",
+   "bytes": 145677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-721.c845ac418d6b.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 722,
+   "file": "11-1166-722.6605bdeb7647.pmtiles",
+   "bytes": 211376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-722.6605bdeb7647.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 723,
+   "file": "11-1166-723.d3cfd0d06e6a.pmtiles",
+   "bytes": 403602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-723.d3cfd0d06e6a.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 724,
+   "file": "11-1166-724.89c039f1b989.pmtiles",
+   "bytes": 349162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-724.89c039f1b989.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 725,
+   "file": "11-1166-725.1467c70a2cc0.pmtiles",
+   "bytes": 316863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-725.1467c70a2cc0.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 726,
+   "file": "11-1166-726.1f9fc62a910d.pmtiles",
+   "bytes": 319252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-726.1f9fc62a910d.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 727,
+   "file": "11-1166-727.83f5b8fe1a79.pmtiles",
+   "bytes": 266716,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1166-727.83f5b8fe1a79.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 718,
+   "file": "11-1167-718.46c2728be713.pmtiles",
+   "bytes": 63634,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-718.46c2728be713.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 719,
+   "file": "11-1167-719.30f27d90f8c2.pmtiles",
+   "bytes": 166445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-719.30f27d90f8c2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 720,
+   "file": "11-1167-720.5e02b2d5b191.pmtiles",
+   "bytes": 232266,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-720.5e02b2d5b191.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 721,
+   "file": "11-1167-721.ffcad8972ba3.pmtiles",
+   "bytes": 123890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-721.ffcad8972ba3.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 722,
+   "file": "11-1167-722.0fe441baa4d9.pmtiles",
+   "bytes": 148363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-722.0fe441baa4d9.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 723,
+   "file": "11-1167-723.f2f299314ce6.pmtiles",
+   "bytes": 208804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-723.f2f299314ce6.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 724,
+   "file": "11-1167-724.976049c2b081.pmtiles",
+   "bytes": 299665,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-724.976049c2b081.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 725,
+   "file": "11-1167-725.b8380de3f0eb.pmtiles",
+   "bytes": 404974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-725.b8380de3f0eb.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 726,
+   "file": "11-1167-726.520949ea5c5a.pmtiles",
+   "bytes": 551775,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-726.520949ea5c5a.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 727,
+   "file": "11-1167-727.c98fa034d40a.pmtiles",
+   "bytes": 179037,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1167-727.c98fa034d40a.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 718,
+   "file": "11-1168-718.b4666f015c52.pmtiles",
+   "bytes": 90693,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-718.b4666f015c52.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 719,
+   "file": "11-1168-719.d9b2ee0e70de.pmtiles",
+   "bytes": 192595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-719.d9b2ee0e70de.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 720,
+   "file": "11-1168-720.c4ee97a50df1.pmtiles",
+   "bytes": 315149,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-720.c4ee97a50df1.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 721,
+   "file": "11-1168-721.cbffc2caceb7.pmtiles",
+   "bytes": 381629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-721.cbffc2caceb7.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 722,
+   "file": "11-1168-722.f6fd6d68ce93.pmtiles",
+   "bytes": 224653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-722.f6fd6d68ce93.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 723,
+   "file": "11-1168-723.9d331a943b33.pmtiles",
+   "bytes": 195399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-723.9d331a943b33.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 724,
+   "file": "11-1168-724.b465ba5fe428.pmtiles",
+   "bytes": 291540,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-724.b465ba5fe428.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 725,
+   "file": "11-1168-725.dbb06551677e.pmtiles",
+   "bytes": 401060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-725.dbb06551677e.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 726,
+   "file": "11-1168-726.e6e91bbccfb9.pmtiles",
+   "bytes": 344809,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-726.e6e91bbccfb9.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 727,
+   "file": "11-1168-727.20153e8d582c.pmtiles",
+   "bytes": 229673,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1168-727.20153e8d582c.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 718,
+   "file": "11-1169-718.bb3b30fb177c.pmtiles",
+   "bytes": 60493,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-718.bb3b30fb177c.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 719,
+   "file": "11-1169-719.b8bac2e6f11c.pmtiles",
+   "bytes": 148970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-719.b8bac2e6f11c.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 720,
+   "file": "11-1169-720.f5e2aaef9720.pmtiles",
+   "bytes": 301996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-720.f5e2aaef9720.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 721,
+   "file": "11-1169-721.d6c2242b32ef.pmtiles",
+   "bytes": 299123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-721.d6c2242b32ef.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 722,
+   "file": "11-1169-722.37e718824d30.pmtiles",
+   "bytes": 517723,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-722.37e718824d30.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 723,
+   "file": "11-1169-723.dd3fc6ca0586.pmtiles",
+   "bytes": 284682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-723.dd3fc6ca0586.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 724,
+   "file": "11-1169-724.dcf55acf4d8f.pmtiles",
+   "bytes": 173460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-724.dcf55acf4d8f.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 725,
+   "file": "11-1169-725.8ee187567760.pmtiles",
+   "bytes": 366295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-725.8ee187567760.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 726,
+   "file": "11-1169-726.8c6d362c2963.pmtiles",
+   "bytes": 222212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-726.8c6d362c2963.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 727,
+   "file": "11-1169-727.55557705d804.pmtiles",
+   "bytes": 194463,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1169-727.55557705d804.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 718,
+   "file": "11-1170-718.89abf558c491.pmtiles",
+   "bytes": 95169,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-718.89abf558c491.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 719,
+   "file": "11-1170-719.0f4a1bb7a307.pmtiles",
+   "bytes": 162020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-719.0f4a1bb7a307.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 720,
+   "file": "11-1170-720.f907d1370ccb.pmtiles",
+   "bytes": 246464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-720.f907d1370ccb.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 721,
+   "file": "11-1170-721.365e52b544a9.pmtiles",
+   "bytes": 242884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-721.365e52b544a9.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 722,
+   "file": "11-1170-722.78efe80e85ef.pmtiles",
+   "bytes": 336028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-722.78efe80e85ef.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 723,
+   "file": "11-1170-723.479a0736911f.pmtiles",
+   "bytes": 437867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-723.479a0736911f.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 724,
+   "file": "11-1170-724.8ac113879dc1.pmtiles",
+   "bytes": 461993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-724.8ac113879dc1.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 725,
+   "file": "11-1170-725.4d702a7c050a.pmtiles",
+   "bytes": 784956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-725.4d702a7c050a.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 726,
+   "file": "11-1170-726.d010fa696fb0.pmtiles",
+   "bytes": 225319,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-726.d010fa696fb0.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 727,
+   "file": "11-1170-727.97b16b4f3f11.pmtiles",
+   "bytes": 185850,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1170-727.97b16b4f3f11.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 718,
+   "file": "11-1171-718.fa4f37eeb44c.pmtiles",
+   "bytes": 73231,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-718.fa4f37eeb44c.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 719,
+   "file": "11-1171-719.c1253d282d44.pmtiles",
+   "bytes": 344490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-719.c1253d282d44.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 720,
+   "file": "11-1171-720.23e6bb0adb03.pmtiles",
+   "bytes": 299408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-720.23e6bb0adb03.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 721,
+   "file": "11-1171-721.8591f6404f39.pmtiles",
+   "bytes": 323951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-721.8591f6404f39.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 722,
+   "file": "11-1171-722.478d6f27dd3f.pmtiles",
+   "bytes": 270316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-722.478d6f27dd3f.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 723,
+   "file": "11-1171-723.fc4751ed71c3.pmtiles",
+   "bytes": 410107,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-723.fc4751ed71c3.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 724,
+   "file": "11-1171-724.776c2c9e807f.pmtiles",
+   "bytes": 463545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-724.776c2c9e807f.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 725,
+   "file": "11-1171-725.94e2ef9285c5.pmtiles",
+   "bytes": 398333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-725.94e2ef9285c5.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 726,
+   "file": "11-1171-726.0202b97ca909.pmtiles",
+   "bytes": 476728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-726.0202b97ca909.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 727,
+   "file": "11-1171-727.ba2f18aa2661.pmtiles",
+   "bytes": 325406,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1171-727.ba2f18aa2661.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 718,
+   "file": "11-1172-718.2c5c770e3d54.pmtiles",
+   "bytes": 56076,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-718.2c5c770e3d54.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 719,
+   "file": "11-1172-719.9716ddccf71e.pmtiles",
+   "bytes": 193385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-719.9716ddccf71e.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 720,
+   "file": "11-1172-720.18d4505f27e7.pmtiles",
+   "bytes": 252803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-720.18d4505f27e7.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 721,
+   "file": "11-1172-721.bbb9b146ac02.pmtiles",
+   "bytes": 233270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-721.bbb9b146ac02.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 722,
+   "file": "11-1172-722.3984a007fb0a.pmtiles",
+   "bytes": 136372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-722.3984a007fb0a.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 723,
+   "file": "11-1172-723.270d32d20aa0.pmtiles",
+   "bytes": 284269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-723.270d32d20aa0.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 724,
+   "file": "11-1172-724.9de0c5c1deb2.pmtiles",
+   "bytes": 320479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-724.9de0c5c1deb2.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 725,
+   "file": "11-1172-725.1f51345cac7a.pmtiles",
+   "bytes": 228404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-725.1f51345cac7a.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 726,
+   "file": "11-1172-726.ddafb31819ad.pmtiles",
+   "bytes": 296092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-726.ddafb31819ad.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 727,
+   "file": "11-1172-727.3203b074093f.pmtiles",
+   "bytes": 167055,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1172-727.3203b074093f.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 718,
+   "file": "11-1173-718.e92d6cac5227.pmtiles",
+   "bytes": 105755,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-718.e92d6cac5227.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 719,
+   "file": "11-1173-719.b99f42113587.pmtiles",
+   "bytes": 208117,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-719.b99f42113587.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 720,
+   "file": "11-1173-720.72388dafe920.pmtiles",
+   "bytes": 273552,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-720.72388dafe920.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 721,
+   "file": "11-1173-721.64de68dcef6f.pmtiles",
+   "bytes": 137383,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-721.64de68dcef6f.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 722,
+   "file": "11-1173-722.087ee67ca818.pmtiles",
+   "bytes": 103764,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-722.087ee67ca818.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 723,
+   "file": "11-1173-723.51bedce329c7.pmtiles",
+   "bytes": 102269,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-723.51bedce329c7.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 724,
+   "file": "11-1173-724.1d1a59111503.pmtiles",
+   "bytes": 240809,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-724.1d1a59111503.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 725,
+   "file": "11-1173-725.917be22bb9ab.pmtiles",
+   "bytes": 97366,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-725.917be22bb9ab.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 726,
+   "file": "11-1173-726.b9c599075fc3.pmtiles",
+   "bytes": 112068,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-726.b9c599075fc3.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 727,
+   "file": "11-1173-727.74d82447f2ae.pmtiles",
+   "bytes": 121160,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-harghita-2026-10-03/11-1173-727.74d82447f2ae.pmtiles"
+  }
+ ]
+}

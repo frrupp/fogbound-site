@@ -1,0 +1,589 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-neamt",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:57:23.090Z",
+ "publishedAt": "2026-10-05T23:57:42.681Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-neamt-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  25.65959,
+  46.64171,
+  27.24365,
+  47.34032
+ ],
+ "overview": {
+  "file": "overview.0d0ef39f7910.pmtiles",
+  "bytes": 3060908,
+  "tiles": 43,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/overview.0d0ef39f7910.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1169,
+   "y": 717,
+   "file": "11-1169-717.891fd9d86c0a.pmtiles",
+   "bytes": 56567,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-717.891fd9d86c0a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 718,
+   "file": "11-1169-718.d9d11e2038f7.pmtiles",
+   "bytes": 47823,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-718.d9d11e2038f7.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 719,
+   "file": "11-1169-719.bd0ea6995bb5.pmtiles",
+   "bytes": 44855,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-719.bd0ea6995bb5.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 720,
+   "file": "11-1169-720.929420492f2a.pmtiles",
+   "bytes": 77220,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-720.929420492f2a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 721,
+   "file": "11-1169-721.1cd81495f99a.pmtiles",
+   "bytes": 60204,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-721.1cd81495f99a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 722,
+   "file": "11-1169-722.0d623c5a491f.pmtiles",
+   "bytes": 78749,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-722.0d623c5a491f.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 723,
+   "file": "11-1169-723.9211bb909d78.pmtiles",
+   "bytes": 59862,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1169-723.9211bb909d78.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 717,
+   "file": "11-1170-717.2a80627eecac.pmtiles",
+   "bytes": 138904,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-717.2a80627eecac.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 718,
+   "file": "11-1170-718.080ef52fa1f7.pmtiles",
+   "bytes": 270255,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-718.080ef52fa1f7.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 719,
+   "file": "11-1170-719.0f4a1bb7a307.pmtiles",
+   "bytes": 162020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-719.0f4a1bb7a307.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 720,
+   "file": "11-1170-720.f907d1370ccb.pmtiles",
+   "bytes": 246464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-720.f907d1370ccb.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 721,
+   "file": "11-1170-721.365e52b544a9.pmtiles",
+   "bytes": 242884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-721.365e52b544a9.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 722,
+   "file": "11-1170-722.78efe80e85ef.pmtiles",
+   "bytes": 336028,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-722.78efe80e85ef.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 723,
+   "file": "11-1170-723.a1dce927f969.pmtiles",
+   "bytes": 175760,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1170-723.a1dce927f969.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 717,
+   "file": "11-1171-717.41acbf44d03c.pmtiles",
+   "bytes": 107197,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-717.41acbf44d03c.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 718,
+   "file": "11-1171-718.ea85c0893cab.pmtiles",
+   "bytes": 198655,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-718.ea85c0893cab.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 719,
+   "file": "11-1171-719.c1253d282d44.pmtiles",
+   "bytes": 344490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-719.c1253d282d44.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 720,
+   "file": "11-1171-720.23e6bb0adb03.pmtiles",
+   "bytes": 299408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-720.23e6bb0adb03.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 721,
+   "file": "11-1171-721.8591f6404f39.pmtiles",
+   "bytes": 323951,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-721.8591f6404f39.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 722,
+   "file": "11-1171-722.478d6f27dd3f.pmtiles",
+   "bytes": 270316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-722.478d6f27dd3f.pmtiles"
+  },
+  {
+   "x": 1171,
+   "y": 723,
+   "file": "11-1171-723.b40f069c3f9b.pmtiles",
+   "bytes": 180456,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1171-723.b40f069c3f9b.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 717,
+   "file": "11-1172-717.981d447c463c.pmtiles",
+   "bytes": 103022,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-717.981d447c463c.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 718,
+   "file": "11-1172-718.a632b9fe6293.pmtiles",
+   "bytes": 211471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-718.a632b9fe6293.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 719,
+   "file": "11-1172-719.9716ddccf71e.pmtiles",
+   "bytes": 193385,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-719.9716ddccf71e.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 720,
+   "file": "11-1172-720.18d4505f27e7.pmtiles",
+   "bytes": 252803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-720.18d4505f27e7.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 721,
+   "file": "11-1172-721.bbb9b146ac02.pmtiles",
+   "bytes": 233270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-721.bbb9b146ac02.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 722,
+   "file": "11-1172-722.3984a007fb0a.pmtiles",
+   "bytes": 136372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-722.3984a007fb0a.pmtiles"
+  },
+  {
+   "x": 1172,
+   "y": 723,
+   "file": "11-1172-723.e5fc2b2c6406.pmtiles",
+   "bytes": 112880,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1172-723.e5fc2b2c6406.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 717,
+   "file": "11-1173-717.255727e691de.pmtiles",
+   "bytes": 156191,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-717.255727e691de.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 718,
+   "file": "11-1173-718.64878a03256a.pmtiles",
+   "bytes": 398802,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-718.64878a03256a.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 719,
+   "file": "11-1173-719.ab60376a1db3.pmtiles",
+   "bytes": 309281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-719.ab60376a1db3.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 720,
+   "file": "11-1173-720.e9317034d665.pmtiles",
+   "bytes": 555970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-720.e9317034d665.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 721,
+   "file": "11-1173-721.531b531d1797.pmtiles",
+   "bytes": 181746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-721.531b531d1797.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 722,
+   "file": "11-1173-722.24da2dc9ef16.pmtiles",
+   "bytes": 129306,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-722.24da2dc9ef16.pmtiles"
+  },
+  {
+   "x": 1173,
+   "y": 723,
+   "file": "11-1173-723.81e325d6d5f2.pmtiles",
+   "bytes": 62673,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1173-723.81e325d6d5f2.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 717,
+   "file": "11-1174-717.eac7e963414d.pmtiles",
+   "bytes": 164449,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-717.eac7e963414d.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 718,
+   "file": "11-1174-718.ed4e023866dc.pmtiles",
+   "bytes": 281488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-718.ed4e023866dc.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 719,
+   "file": "11-1174-719.c2e7442702c7.pmtiles",
+   "bytes": 235674,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-719.c2e7442702c7.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 720,
+   "file": "11-1174-720.12ff1cf11a3d.pmtiles",
+   "bytes": 513324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-720.12ff1cf11a3d.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 721,
+   "file": "11-1174-721.436e3ec7d738.pmtiles",
+   "bytes": 434024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-721.436e3ec7d738.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 722,
+   "file": "11-1174-722.d3d9c67a4938.pmtiles",
+   "bytes": 199198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-722.d3d9c67a4938.pmtiles"
+  },
+  {
+   "x": 1174,
+   "y": 723,
+   "file": "11-1174-723.b8b0651360a5.pmtiles",
+   "bytes": 108928,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1174-723.b8b0651360a5.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 717,
+   "file": "11-1175-717.13ceedb090f9.pmtiles",
+   "bytes": 169312,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-717.13ceedb090f9.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 718,
+   "file": "11-1175-718.f2f29e0cddae.pmtiles",
+   "bytes": 287474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-718.f2f29e0cddae.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 719,
+   "file": "11-1175-719.d462c66996f2.pmtiles",
+   "bytes": 181887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-719.d462c66996f2.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 720,
+   "file": "11-1175-720.882209998361.pmtiles",
+   "bytes": 201912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-720.882209998361.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 721,
+   "file": "11-1175-721.de7193754017.pmtiles",
+   "bytes": 184599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-721.de7193754017.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 722,
+   "file": "11-1175-722.fea2a03d8f5e.pmtiles",
+   "bytes": 335144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-722.fea2a03d8f5e.pmtiles"
+  },
+  {
+   "x": 1175,
+   "y": 723,
+   "file": "11-1175-723.baf6274fb8eb.pmtiles",
+   "bytes": 104769,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1175-723.baf6274fb8eb.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 717,
+   "file": "11-1176-717.e960fb290f15.pmtiles",
+   "bytes": 161182,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-717.e960fb290f15.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 718,
+   "file": "11-1176-718.755964466b1c.pmtiles",
+   "bytes": 253646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-718.755964466b1c.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 719,
+   "file": "11-1176-719.2ec1a26e87a2.pmtiles",
+   "bytes": 264834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-719.2ec1a26e87a2.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 720,
+   "file": "11-1176-720.36c4a3d8ff00.pmtiles",
+   "bytes": 236339,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-720.36c4a3d8ff00.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 721,
+   "file": "11-1176-721.f9fe3da5366e.pmtiles",
+   "bytes": 183098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-721.f9fe3da5366e.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 722,
+   "file": "11-1176-722.94ae466fbaac.pmtiles",
+   "bytes": 240931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-722.94ae466fbaac.pmtiles"
+  },
+  {
+   "x": 1176,
+   "y": 723,
+   "file": "11-1176-723.a9a237a579e2.pmtiles",
+   "bytes": 189380,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1176-723.a9a237a579e2.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 717,
+   "file": "11-1177-717.7de97be76876.pmtiles",
+   "bytes": 175131,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-717.7de97be76876.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 718,
+   "file": "11-1177-718.6cdef0d24443.pmtiles",
+   "bytes": 352780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-718.6cdef0d24443.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 719,
+   "file": "11-1177-719.33ab6c03beed.pmtiles",
+   "bytes": 220437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-719.33ab6c03beed.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 720,
+   "file": "11-1177-720.24f193335f61.pmtiles",
+   "bytes": 342411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-720.24f193335f61.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 721,
+   "file": "11-1177-721.4872b576aba6.pmtiles",
+   "bytes": 251601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-721.4872b576aba6.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 722,
+   "file": "11-1177-722.1c70da780623.pmtiles",
+   "bytes": 227724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-722.1c70da780623.pmtiles"
+  },
+  {
+   "x": 1177,
+   "y": 723,
+   "file": "11-1177-723.afafffab9c22.pmtiles",
+   "bytes": 141642,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1177-723.afafffab9c22.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 717,
+   "file": "11-1178-717.b6d64c24c60c.pmtiles",
+   "bytes": 164767,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-717.b6d64c24c60c.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 718,
+   "file": "11-1178-718.c806fa7f44f0.pmtiles",
+   "bytes": 244905,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-718.c806fa7f44f0.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 719,
+   "file": "11-1178-719.07dfd2753fac.pmtiles",
+   "bytes": 221372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-719.07dfd2753fac.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 720,
+   "file": "11-1178-720.4e91bb396625.pmtiles",
+   "bytes": 233918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-720.4e91bb396625.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 721,
+   "file": "11-1178-721.c11843b07ece.pmtiles",
+   "bytes": 306307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-721.c11843b07ece.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 722,
+   "file": "11-1178-722.be69a708147f.pmtiles",
+   "bytes": 305198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-722.be69a708147f.pmtiles"
+  },
+  {
+   "x": 1178,
+   "y": 723,
+   "file": "11-1178-723.ed2cbc576ead.pmtiles",
+   "bytes": 145508,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-neamt-2026-10-03/11-1178-723.ed2cbc576ead.pmtiles"
+  }
+ ]
+}

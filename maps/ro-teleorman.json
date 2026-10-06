@@ -1,0 +1,533 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-teleorman",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:55:19.681Z",
+ "publishedAt": "2026-10-05T23:55:37.836Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-teleorman-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  24.59372,
+  43.61881,
+  25.71382,
+  44.51813
+ ],
+ "overview": {
+  "file": "overview.0ef7f0a2c9cf.pmtiles",
+  "bytes": 1671496,
+  "tiles": 39,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/overview.0ef7f0a2c9cf.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1163,
+   "y": 740,
+   "file": "11-1163-740.5fafbaadbf14.pmtiles",
+   "bytes": 46235,
+   "tiles": 8,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-740.5fafbaadbf14.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 741,
+   "file": "11-1163-741.33f4f25b304e.pmtiles",
+   "bytes": 40579,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-741.33f4f25b304e.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 742,
+   "file": "11-1163-742.c62c97ac9d12.pmtiles",
+   "bytes": 37941,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-742.c62c97ac9d12.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 743,
+   "file": "11-1163-743.dab8c1b9e43f.pmtiles",
+   "bytes": 53929,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-743.dab8c1b9e43f.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 744,
+   "file": "11-1163-744.78e80f5662c4.pmtiles",
+   "bytes": 56881,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-744.78e80f5662c4.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 745,
+   "file": "11-1163-745.6f51609e2c68.pmtiles",
+   "bytes": 36788,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-745.6f51609e2c68.pmtiles"
+  },
+  {
+   "x": 1163,
+   "y": 746,
+   "file": "11-1163-746.18108c99971f.pmtiles",
+   "bytes": 37251,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1163-746.18108c99971f.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 740,
+   "file": "11-1164-740.2a9cd47fa239.pmtiles",
+   "bytes": 132423,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-740.2a9cd47fa239.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 741,
+   "file": "11-1164-741.92fe5db510c2.pmtiles",
+   "bytes": 208719,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-741.92fe5db510c2.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 742,
+   "file": "11-1164-742.3bee043bd824.pmtiles",
+   "bytes": 163963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-742.3bee043bd824.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 743,
+   "file": "11-1164-743.aa3d2d88aa56.pmtiles",
+   "bytes": 175162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-743.aa3d2d88aa56.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 744,
+   "file": "11-1164-744.019825156027.pmtiles",
+   "bytes": 151063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-744.019825156027.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 745,
+   "file": "11-1164-745.46cc70ac768a.pmtiles",
+   "bytes": 176384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-745.46cc70ac768a.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 746,
+   "file": "11-1164-746.1ffd9d611043.pmtiles",
+   "bytes": 225007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-746.1ffd9d611043.pmtiles"
+  },
+  {
+   "x": 1164,
+   "y": 747,
+   "file": "11-1164-747.e5c578ff2b07.pmtiles",
+   "bytes": 41098,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1164-747.e5c578ff2b07.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 740,
+   "file": "11-1165-740.04695dcb3aa2.pmtiles",
+   "bytes": 74651,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-740.04695dcb3aa2.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 741,
+   "file": "11-1165-741.ae2d00812684.pmtiles",
+   "bytes": 151596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-741.ae2d00812684.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 742,
+   "file": "11-1165-742.b0792b2e8add.pmtiles",
+   "bytes": 164017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-742.b0792b2e8add.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 743,
+   "file": "11-1165-743.6b7342685a5e.pmtiles",
+   "bytes": 165368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-743.6b7342685a5e.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 744,
+   "file": "11-1165-744.9e87c0a53715.pmtiles",
+   "bytes": 126533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-744.9e87c0a53715.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 745,
+   "file": "11-1165-745.83d797290729.pmtiles",
+   "bytes": 102553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-745.83d797290729.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 746,
+   "file": "11-1165-746.727c84bd413a.pmtiles",
+   "bytes": 229774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-746.727c84bd413a.pmtiles"
+  },
+  {
+   "x": 1165,
+   "y": 747,
+   "file": "11-1165-747.fdd0086ad809.pmtiles",
+   "bytes": 68387,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1165-747.fdd0086ad809.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 740,
+   "file": "11-1166-740.7f2362002bc9.pmtiles",
+   "bytes": 89370,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-740.7f2362002bc9.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 741,
+   "file": "11-1166-741.55eee2035fac.pmtiles",
+   "bytes": 164463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-741.55eee2035fac.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 742,
+   "file": "11-1166-742.3d4c3e4ff98a.pmtiles",
+   "bytes": 176487,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-742.3d4c3e4ff98a.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 743,
+   "file": "11-1166-743.067787a104f5.pmtiles",
+   "bytes": 251813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-743.067787a104f5.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 744,
+   "file": "11-1166-744.05296599025d.pmtiles",
+   "bytes": 171855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-744.05296599025d.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 745,
+   "file": "11-1166-745.7923266fcd50.pmtiles",
+   "bytes": 185238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-745.7923266fcd50.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 746,
+   "file": "11-1166-746.85014104b9ea.pmtiles",
+   "bytes": 112131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-746.85014104b9ea.pmtiles"
+  },
+  {
+   "x": 1166,
+   "y": 747,
+   "file": "11-1166-747.4bd2b517f785.pmtiles",
+   "bytes": 58381,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1166-747.4bd2b517f785.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 740,
+   "file": "11-1167-740.d1b894945649.pmtiles",
+   "bytes": 92177,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-740.d1b894945649.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 741,
+   "file": "11-1167-741.0395e111be45.pmtiles",
+   "bytes": 139181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-741.0395e111be45.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 742,
+   "file": "11-1167-742.319b95c8e16b.pmtiles",
+   "bytes": 179623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-742.319b95c8e16b.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 743,
+   "file": "11-1167-743.8b671bc03d04.pmtiles",
+   "bytes": 177888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-743.8b671bc03d04.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 744,
+   "file": "11-1167-744.61dbbcdc0e98.pmtiles",
+   "bytes": 186401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-744.61dbbcdc0e98.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 745,
+   "file": "11-1167-745.4cb86e789ed2.pmtiles",
+   "bytes": 72595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-745.4cb86e789ed2.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 746,
+   "file": "11-1167-746.875de223f81a.pmtiles",
+   "bytes": 152300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-746.875de223f81a.pmtiles"
+  },
+  {
+   "x": 1167,
+   "y": 747,
+   "file": "11-1167-747.e87dd92b8812.pmtiles",
+   "bytes": 110538,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1167-747.e87dd92b8812.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 740,
+   "file": "11-1168-740.015dca0a6179.pmtiles",
+   "bytes": 60714,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-740.015dca0a6179.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 741,
+   "file": "11-1168-741.545640d04237.pmtiles",
+   "bytes": 180087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-741.545640d04237.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 742,
+   "file": "11-1168-742.51f58d217863.pmtiles",
+   "bytes": 160129,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-742.51f58d217863.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 743,
+   "file": "11-1168-743.e8cac525405c.pmtiles",
+   "bytes": 138893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-743.e8cac525405c.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 744,
+   "file": "11-1168-744.79c1dab2d656.pmtiles",
+   "bytes": 255144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-744.79c1dab2d656.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 745,
+   "file": "11-1168-745.8429503ba273.pmtiles",
+   "bytes": 221273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-745.8429503ba273.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 746,
+   "file": "11-1168-746.d736e0c0b9eb.pmtiles",
+   "bytes": 109886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-746.d736e0c0b9eb.pmtiles"
+  },
+  {
+   "x": 1168,
+   "y": 747,
+   "file": "11-1168-747.00322150afd7.pmtiles",
+   "bytes": 196205,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1168-747.00322150afd7.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 740,
+   "file": "11-1169-740.f1955758897f.pmtiles",
+   "bytes": 122642,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-740.f1955758897f.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 741,
+   "file": "11-1169-741.79e0ad0a4324.pmtiles",
+   "bytes": 164227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-741.79e0ad0a4324.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 742,
+   "file": "11-1169-742.f40f372548d9.pmtiles",
+   "bytes": 205745,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-742.f40f372548d9.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 743,
+   "file": "11-1169-743.db63dcf02a25.pmtiles",
+   "bytes": 212310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-743.db63dcf02a25.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 744,
+   "file": "11-1169-744.e266d9d0f398.pmtiles",
+   "bytes": 137120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-744.e266d9d0f398.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 745,
+   "file": "11-1169-745.5eefe4bc3e9a.pmtiles",
+   "bytes": 47322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-745.5eefe4bc3e9a.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 746,
+   "file": "11-1169-746.10bc633163ce.pmtiles",
+   "bytes": 128218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-746.10bc633163ce.pmtiles"
+  },
+  {
+   "x": 1169,
+   "y": 747,
+   "file": "11-1169-747.f3f6c7dc9188.pmtiles",
+   "bytes": 130751,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1169-747.f3f6c7dc9188.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 740,
+   "file": "11-1170-740.166f794582dc.pmtiles",
+   "bytes": 70349,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-740.166f794582dc.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 741,
+   "file": "11-1170-741.f3c4ab07a172.pmtiles",
+   "bytes": 100137,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-741.f3c4ab07a172.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 742,
+   "file": "11-1170-742.4971c4a39c1b.pmtiles",
+   "bytes": 94986,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-742.4971c4a39c1b.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 743,
+   "file": "11-1170-743.1606954e732e.pmtiles",
+   "bytes": 99646,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-743.1606954e732e.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 744,
+   "file": "11-1170-744.0c092dfe6763.pmtiles",
+   "bytes": 55145,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-744.0c092dfe6763.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 745,
+   "file": "11-1170-745.e2a2f21d925d.pmtiles",
+   "bytes": 60301,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-745.e2a2f21d925d.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 746,
+   "file": "11-1170-746.efceb406d9ea.pmtiles",
+   "bytes": 48263,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-746.efceb406d9ea.pmtiles"
+  },
+  {
+   "x": 1170,
+   "y": 747,
+   "file": "11-1170-747.67a6df7b537a.pmtiles",
+   "bytes": 24967,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-teleorman-2026-10-03/11-1170-747.67a6df7b537a.pmtiles"
+  }
+ ]
+}

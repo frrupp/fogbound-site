@@ -1,0 +1,501 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "ro-satu-mare",
+ "source": "ro.pmtiles",
+ "builtAt": "2026-10-05T23:58:03.496Z",
+ "publishedAt": "2026-10-05T23:58:20.006Z",
+ "host": "github",
+ "releases": [
+  "maps-ro-satu-mare-2026-10-03"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  22.18082,
+  47.3332,
+  23.63985,
+  48.11998
+ ],
+ "overview": {
+  "file": "overview.1fe17f1d9723.pmtiles",
+  "bytes": 2066464,
+  "tiles": 45,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/overview.1fe17f1d9723.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1150,
+   "y": 714,
+   "file": "11-1150-714.6097296a5ddf.pmtiles",
+   "bytes": 123482,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1150-714.6097296a5ddf.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 715,
+   "file": "11-1150-715.505e65aa0903.pmtiles",
+   "bytes": 179132,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1150-715.505e65aa0903.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 716,
+   "file": "11-1150-716.9f4733b183b6.pmtiles",
+   "bytes": 147738,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1150-716.9f4733b183b6.pmtiles"
+  },
+  {
+   "x": 1150,
+   "y": 717,
+   "file": "11-1150-717.b5762369ca81.pmtiles",
+   "bytes": 144084,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1150-717.b5762369ca81.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 712,
+   "file": "11-1151-712.8de3e44e3548.pmtiles",
+   "bytes": 22452,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-712.8de3e44e3548.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 713,
+   "file": "11-1151-713.490e32eed994.pmtiles",
+   "bytes": 94625,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-713.490e32eed994.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 714,
+   "file": "11-1151-714.c80335c95ffd.pmtiles",
+   "bytes": 297963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-714.c80335c95ffd.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 715,
+   "file": "11-1151-715.edcb36e62084.pmtiles",
+   "bytes": 137675,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-715.edcb36e62084.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 716,
+   "file": "11-1151-716.2d285b4b7de4.pmtiles",
+   "bytes": 187977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-716.2d285b4b7de4.pmtiles"
+  },
+  {
+   "x": 1151,
+   "y": 717,
+   "file": "11-1151-717.267ca213c4c0.pmtiles",
+   "bytes": 196306,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1151-717.267ca213c4c0.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 712,
+   "file": "11-1152-712.20b7ce66cb03.pmtiles",
+   "bytes": 42708,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-712.20b7ce66cb03.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 713,
+   "file": "11-1152-713.8313d75f9f47.pmtiles",
+   "bytes": 81958,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-713.8313d75f9f47.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 714,
+   "file": "11-1152-714.8920647a698f.pmtiles",
+   "bytes": 128137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-714.8920647a698f.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 715,
+   "file": "11-1152-715.84b8513fc0cc.pmtiles",
+   "bytes": 135415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-715.84b8513fc0cc.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 716,
+   "file": "11-1152-716.1dbdb67cad9c.pmtiles",
+   "bytes": 244928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-716.1dbdb67cad9c.pmtiles"
+  },
+  {
+   "x": 1152,
+   "y": 717,
+   "file": "11-1152-717.459c9e78d3a7.pmtiles",
+   "bytes": 157631,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1152-717.459c9e78d3a7.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 712,
+   "file": "11-1153-712.75fe5bcaebe9.pmtiles",
+   "bytes": 173800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-712.75fe5bcaebe9.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 713,
+   "file": "11-1153-713.81c3a199256c.pmtiles",
+   "bytes": 273451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-713.81c3a199256c.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 714,
+   "file": "11-1153-714.0c6723f0c735.pmtiles",
+   "bytes": 130548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-714.0c6723f0c735.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 715,
+   "file": "11-1153-715.555acbee1b74.pmtiles",
+   "bytes": 139404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-715.555acbee1b74.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 716,
+   "file": "11-1153-716.4cf32c892144.pmtiles",
+   "bytes": 168399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-716.4cf32c892144.pmtiles"
+  },
+  {
+   "x": 1153,
+   "y": 717,
+   "file": "11-1153-717.d8251bbfac5b.pmtiles",
+   "bytes": 166939,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1153-717.d8251bbfac5b.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 711,
+   "file": "11-1154-711.aff4555bbc9a.pmtiles",
+   "bytes": 280642,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-711.aff4555bbc9a.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 712,
+   "file": "11-1154-712.1e3b0a0082c2.pmtiles",
+   "bytes": 264758,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-712.1e3b0a0082c2.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 713,
+   "file": "11-1154-713.e9aa8764eda3.pmtiles",
+   "bytes": 672601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-713.e9aa8764eda3.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 714,
+   "file": "11-1154-714.b27bbfebcfb0.pmtiles",
+   "bytes": 231464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-714.b27bbfebcfb0.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 715,
+   "file": "11-1154-715.3b97e9f82722.pmtiles",
+   "bytes": 257298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-715.3b97e9f82722.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 716,
+   "file": "11-1154-716.437cbb586f6e.pmtiles",
+   "bytes": 198228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-716.437cbb586f6e.pmtiles"
+  },
+  {
+   "x": 1154,
+   "y": 717,
+   "file": "11-1154-717.5e87c72dbadd.pmtiles",
+   "bytes": 163596,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1154-717.5e87c72dbadd.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 710,
+   "file": "11-1155-710.31f43f2dc1af.pmtiles",
+   "bytes": 118701,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-710.31f43f2dc1af.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 711,
+   "file": "11-1155-711.b7105b5fa1c9.pmtiles",
+   "bytes": 470702,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-711.b7105b5fa1c9.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 712,
+   "file": "11-1155-712.a5dee90296b2.pmtiles",
+   "bytes": 149428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-712.a5dee90296b2.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 713,
+   "file": "11-1155-713.04cdcbe67452.pmtiles",
+   "bytes": 176880,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-713.04cdcbe67452.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 714,
+   "file": "11-1155-714.2d337568a7d5.pmtiles",
+   "bytes": 168380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-714.2d337568a7d5.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 715,
+   "file": "11-1155-715.01f7b1c1d1f7.pmtiles",
+   "bytes": 148440,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-715.01f7b1c1d1f7.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 716,
+   "file": "11-1155-716.4ba879a4399e.pmtiles",
+   "bytes": 243432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-716.4ba879a4399e.pmtiles"
+  },
+  {
+   "x": 1155,
+   "y": 717,
+   "file": "11-1155-717.3e124984ca2d.pmtiles",
+   "bytes": 187312,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1155-717.3e124984ca2d.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 710,
+   "file": "11-1156-710.0487503695be.pmtiles",
+   "bytes": 135906,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-710.0487503695be.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 711,
+   "file": "11-1156-711.faaaa32c9950.pmtiles",
+   "bytes": 225443,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-711.faaaa32c9950.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 712,
+   "file": "11-1156-712.4a6453f8a1cf.pmtiles",
+   "bytes": 192521,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-712.4a6453f8a1cf.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 713,
+   "file": "11-1156-713.baf61d3f88fa.pmtiles",
+   "bytes": 160400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-713.baf61d3f88fa.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 714,
+   "file": "11-1156-714.382c81bc3e28.pmtiles",
+   "bytes": 231581,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-714.382c81bc3e28.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 715,
+   "file": "11-1156-715.66d21e3a3571.pmtiles",
+   "bytes": 220830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-715.66d21e3a3571.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 716,
+   "file": "11-1156-716.a203d51054b9.pmtiles",
+   "bytes": 217423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-716.a203d51054b9.pmtiles"
+  },
+  {
+   "x": 1156,
+   "y": 717,
+   "file": "11-1156-717.3ba94a81ca38.pmtiles",
+   "bytes": 184838,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1156-717.3ba94a81ca38.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 711,
+   "file": "11-1157-711.32cf12bf0a3c.pmtiles",
+   "bytes": 79963,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-711.32cf12bf0a3c.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 712,
+   "file": "11-1157-712.ef572d3fdf16.pmtiles",
+   "bytes": 182755,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-712.ef572d3fdf16.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 713,
+   "file": "11-1157-713.df4a62efcded.pmtiles",
+   "bytes": 167814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-713.df4a62efcded.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 714,
+   "file": "11-1157-714.60723db9ed31.pmtiles",
+   "bytes": 331179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-714.60723db9ed31.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 715,
+   "file": "11-1157-715.e725954cca8e.pmtiles",
+   "bytes": 235696,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-715.e725954cca8e.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 716,
+   "file": "11-1157-716.6062d8640e78.pmtiles",
+   "bytes": 269073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-716.6062d8640e78.pmtiles"
+  },
+  {
+   "x": 1157,
+   "y": 717,
+   "file": "11-1157-717.05df467de71d.pmtiles",
+   "bytes": 234836,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1157-717.05df467de71d.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 711,
+   "file": "11-1158-711.02c64d685251.pmtiles",
+   "bytes": 118653,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-711.02c64d685251.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 712,
+   "file": "11-1158-712.770b25f2ee4a.pmtiles",
+   "bytes": 68355,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-712.770b25f2ee4a.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 713,
+   "file": "11-1158-713.39aeb041d8bf.pmtiles",
+   "bytes": 61930,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-713.39aeb041d8bf.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 714,
+   "file": "11-1158-714.0ae5af05b94b.pmtiles",
+   "bytes": 404712,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-714.0ae5af05b94b.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 715,
+   "file": "11-1158-715.ae21b1e9c2f3.pmtiles",
+   "bytes": 178271,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-715.ae21b1e9c2f3.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 716,
+   "file": "11-1158-716.55543b8854f4.pmtiles",
+   "bytes": 168634,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-716.55543b8854f4.pmtiles"
+  },
+  {
+   "x": 1158,
+   "y": 717,
+   "file": "11-1158-717.78aeb8cf904e.pmtiles",
+   "bytes": 156643,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-ro-satu-mare-2026-10-03/11-1158-717.78aeb8cf904e.pmtiles"
+  }
+ ]
+}
