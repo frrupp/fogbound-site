@@ -1,0 +1,197 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-lima-metropolitana",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T20:00:37.081Z",
+ "publishedAt": "2026-10-09T20:00:46.324Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-lima-metropolitana-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -77.1992,
+  -12.51993,
+  -76.62082,
+  -11.57244
+ ],
+ "overview": {
+  "file": "overview.9604aa60232a.pmtiles",
+  "bytes": 477491,
+  "tiles": 22,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/overview.9604aa60232a.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 584,
+   "y": 1090,
+   "file": "11-584-1090.517e366d9f0e.pmtiles",
+   "bytes": 98694,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-584-1090.517e366d9f0e.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1091,
+   "file": "11-584-1091.513b0b991f08.pmtiles",
+   "bytes": 124757,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-584-1091.513b0b991f08.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1093,
+   "file": "11-584-1093.08cd1e22dfb5.pmtiles",
+   "bytes": 34667,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-584-1093.08cd1e22dfb5.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1090,
+   "file": "11-585-1090.59e8a8ba5dd3.pmtiles",
+   "bytes": 40391,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-585-1090.59e8a8ba5dd3.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1091,
+   "file": "11-585-1091.cfc9f3eb1026.pmtiles",
+   "bytes": 1029270,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-585-1091.cfc9f3eb1026.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1092,
+   "file": "11-585-1092.59cc8ac161ca.pmtiles",
+   "bytes": 4261715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-585-1092.59cc8ac161ca.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1093,
+   "file": "11-585-1093.9a3157d95f61.pmtiles",
+   "bytes": 4968910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-585-1093.9a3157d95f61.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1094,
+   "file": "11-585-1094.a25c89aec181.pmtiles",
+   "bytes": 42334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-585-1094.a25c89aec181.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1090,
+   "file": "11-586-1090.73080d2132a0.pmtiles",
+   "bytes": 68892,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-586-1090.73080d2132a0.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1091,
+   "file": "11-586-1091.a63e19926715.pmtiles",
+   "bytes": 151877,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-586-1091.a63e19926715.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1092,
+   "file": "11-586-1092.6b529d0784ec.pmtiles",
+   "bytes": 1527889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-586-1092.6b529d0784ec.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1093,
+   "file": "11-586-1093.ed74c6e29379.pmtiles",
+   "bytes": 3589138,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-586-1093.ed74c6e29379.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1094,
+   "file": "11-586-1094.bfbdacc2cefc.pmtiles",
+   "bytes": 1154251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-586-1094.bfbdacc2cefc.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1090,
+   "file": "11-587-1090.f94fd0d2295f.pmtiles",
+   "bytes": 88413,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1090.f94fd0d2295f.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1091,
+   "file": "11-587-1091.450a52cd8c8a.pmtiles",
+   "bytes": 94790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1091.450a52cd8c8a.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1092,
+   "file": "11-587-1092.8a0b7a70d922.pmtiles",
+   "bytes": 691478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1092.8a0b7a70d922.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1093,
+   "file": "11-587-1093.d3b6519f6c0d.pmtiles",
+   "bytes": 183333,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1093.d3b6519f6c0d.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1094,
+   "file": "11-587-1094.01b5b10b686c.pmtiles",
+   "bytes": 211528,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1094.01b5b10b686c.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 1095,
+   "file": "11-587-1095.c3b904434244.pmtiles",
+   "bytes": 317901,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-587-1095.c3b904434244.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 1091,
+   "file": "11-588-1091.c4e426cdff96.pmtiles",
+   "bytes": 63278,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-588-1091.c4e426cdff96.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 1092,
+   "file": "11-588-1092.0ece43e407bd.pmtiles",
+   "bytes": 41511,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lima-metropolitana-2026-10-09/11-588-1092.0ece43e407bd.pmtiles"
+  }
+ ]
+}

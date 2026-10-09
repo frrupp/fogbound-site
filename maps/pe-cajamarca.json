@@ -1,0 +1,1549 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-cajamarca",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T21:07:02.528Z",
+ "publishedAt": "2026-10-09T21:07:53.647Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-cajamarca-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -79.45845,
+  -7.76346,
+  -77.7413,
+  -4.62395
+ ],
+ "overview": {
+  "file": "overview.218be113320f.pmtiles",
+  "bytes": 1350675,
+  "tiles": 105,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/overview.218be113320f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 571,
+   "y": 1050,
+   "file": "11-571-1050.b18a11b470f2.pmtiles",
+   "bytes": 46480,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1050.b18a11b470f2.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1051,
+   "file": "11-571-1051.948f7babeea7.pmtiles",
+   "bytes": 28828,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1051.948f7babeea7.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1052,
+   "file": "11-571-1052.1f963070072d.pmtiles",
+   "bytes": 38752,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1052.1f963070072d.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1053,
+   "file": "11-571-1053.08429d8ec975.pmtiles",
+   "bytes": 104694,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1053.08429d8ec975.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1054,
+   "file": "11-571-1054.cdd43b3fd34b.pmtiles",
+   "bytes": 84035,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1054.cdd43b3fd34b.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1055,
+   "file": "11-571-1055.0e3b814e4d2f.pmtiles",
+   "bytes": 50401,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1055.0e3b814e4d2f.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1056,
+   "file": "11-571-1056.7be3b231261c.pmtiles",
+   "bytes": 37386,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1056.7be3b231261c.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1057,
+   "file": "11-571-1057.01b39d0b2482.pmtiles",
+   "bytes": 32173,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1057.01b39d0b2482.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1058,
+   "file": "11-571-1058.33df0e2d2cfc.pmtiles",
+   "bytes": 34889,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1058.33df0e2d2cfc.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1059,
+   "file": "11-571-1059.9015dd5c9d31.pmtiles",
+   "bytes": 35657,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1059.9015dd5c9d31.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1062,
+   "file": "11-571-1062.66680863b17a.pmtiles",
+   "bytes": 23744,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1062.66680863b17a.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1064,
+   "file": "11-571-1064.f02a10640045.pmtiles",
+   "bytes": 45602,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1064.f02a10640045.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1065,
+   "file": "11-571-1065.3a8e1db6ccb9.pmtiles",
+   "bytes": 135337,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1065.3a8e1db6ccb9.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1066,
+   "file": "11-571-1066.d956e5ef8dcc.pmtiles",
+   "bytes": 54427,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-571-1066.d956e5ef8dcc.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1050,
+   "file": "11-572-1050.72affd6a604a.pmtiles",
+   "bytes": 60584,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1050.72affd6a604a.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1051,
+   "file": "11-572-1051.0d5f0795fe11.pmtiles",
+   "bytes": 79618,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1051.0d5f0795fe11.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1052,
+   "file": "11-572-1052.a0f9f7e70f9c.pmtiles",
+   "bytes": 98968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1052.a0f9f7e70f9c.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1053,
+   "file": "11-572-1053.e8faf2c531a3.pmtiles",
+   "bytes": 213432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1053.e8faf2c531a3.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1054,
+   "file": "11-572-1054.3bfafff0992a.pmtiles",
+   "bytes": 183861,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1054.3bfafff0992a.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1055,
+   "file": "11-572-1055.d85ac9251c5a.pmtiles",
+   "bytes": 130917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1055.d85ac9251c5a.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1056,
+   "file": "11-572-1056.1b1a7f657f44.pmtiles",
+   "bytes": 142416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1056.1b1a7f657f44.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1057,
+   "file": "11-572-1057.b6eda2138a0a.pmtiles",
+   "bytes": 89146,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1057.b6eda2138a0a.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1058,
+   "file": "11-572-1058.ac1f52d69cfc.pmtiles",
+   "bytes": 106198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1058.ac1f52d69cfc.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1059,
+   "file": "11-572-1059.329343044bc5.pmtiles",
+   "bytes": 166502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1059.329343044bc5.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1060,
+   "file": "11-572-1060.6f7e9a91f74c.pmtiles",
+   "bytes": 87435,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1060.6f7e9a91f74c.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1061,
+   "file": "11-572-1061.11fc84aca7a7.pmtiles",
+   "bytes": 123216,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1061.11fc84aca7a7.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1062,
+   "file": "11-572-1062.bf6170d10a39.pmtiles",
+   "bytes": 63638,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1062.bf6170d10a39.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1063,
+   "file": "11-572-1063.68d05a3fcd55.pmtiles",
+   "bytes": 61153,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1063.68d05a3fcd55.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1064,
+   "file": "11-572-1064.b3785f44aa11.pmtiles",
+   "bytes": 108603,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1064.b3785f44aa11.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1065,
+   "file": "11-572-1065.d540d052ac72.pmtiles",
+   "bytes": 297742,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1065.d540d052ac72.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1066,
+   "file": "11-572-1066.16994f62eaa2.pmtiles",
+   "bytes": 64442,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1066.16994f62eaa2.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1067,
+   "file": "11-572-1067.1c6d381ef96b.pmtiles",
+   "bytes": 92047,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1067.1c6d381ef96b.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1068,
+   "file": "11-572-1068.3e2f881eec06.pmtiles",
+   "bytes": 111416,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-572-1068.3e2f881eec06.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1052,
+   "file": "11-573-1052.6c2c33d43e91.pmtiles",
+   "bytes": 140371,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1052.6c2c33d43e91.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1053,
+   "file": "11-573-1053.a7df6b8eb29f.pmtiles",
+   "bytes": 100864,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1053.a7df6b8eb29f.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1054,
+   "file": "11-573-1054.651e56f8b0cc.pmtiles",
+   "bytes": 157803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1054.651e56f8b0cc.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1055,
+   "file": "11-573-1055.01d5a9b57034.pmtiles",
+   "bytes": 92121,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1055.01d5a9b57034.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1056,
+   "file": "11-573-1056.9f5f962dcae7.pmtiles",
+   "bytes": 102387,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1056.9f5f962dcae7.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1057,
+   "file": "11-573-1057.4b17a01e236b.pmtiles",
+   "bytes": 94836,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1057.4b17a01e236b.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1058,
+   "file": "11-573-1058.ee0a100a78da.pmtiles",
+   "bytes": 163287,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1058.ee0a100a78da.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1059,
+   "file": "11-573-1059.738a499b69a1.pmtiles",
+   "bytes": 112943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1059.738a499b69a1.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1060,
+   "file": "11-573-1060.b2bc158a5e1d.pmtiles",
+   "bytes": 93842,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1060.b2bc158a5e1d.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1061,
+   "file": "11-573-1061.c342b8a1c1e3.pmtiles",
+   "bytes": 111738,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1061.c342b8a1c1e3.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1062,
+   "file": "11-573-1062.99ce56ddd602.pmtiles",
+   "bytes": 97953,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1062.99ce56ddd602.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1063,
+   "file": "11-573-1063.81e33c7d0221.pmtiles",
+   "bytes": 141771,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1063.81e33c7d0221.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1064,
+   "file": "11-573-1064.7497e5274805.pmtiles",
+   "bytes": 84538,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1064.7497e5274805.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1065,
+   "file": "11-573-1065.526ca17c9ce9.pmtiles",
+   "bytes": 64281,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1065.526ca17c9ce9.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1067,
+   "file": "11-573-1067.ebe5ca5d5e17.pmtiles",
+   "bytes": 41922,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1067.ebe5ca5d5e17.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1068,
+   "file": "11-573-1068.e443d1d9dd83.pmtiles",
+   "bytes": 113261,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-573-1068.e443d1d9dd83.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1051,
+   "file": "11-574-1051.ffab75328231.pmtiles",
+   "bytes": 24566,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1051.ffab75328231.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1052,
+   "file": "11-574-1052.ef8f57d13174.pmtiles",
+   "bytes": 198617,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1052.ef8f57d13174.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1053,
+   "file": "11-574-1053.0fdee86683f4.pmtiles",
+   "bytes": 369101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1053.0fdee86683f4.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1054,
+   "file": "11-574-1054.9424d2491e5c.pmtiles",
+   "bytes": 277811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1054.9424d2491e5c.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1055,
+   "file": "11-574-1055.6776e38d4980.pmtiles",
+   "bytes": 221948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1055.6776e38d4980.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1056,
+   "file": "11-574-1056.4cdeb644817f.pmtiles",
+   "bytes": 195073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1056.4cdeb644817f.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1057,
+   "file": "11-574-1057.1ca180561234.pmtiles",
+   "bytes": 190119,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1057.1ca180561234.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1058,
+   "file": "11-574-1058.d6a1dc984b15.pmtiles",
+   "bytes": 138280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1058.d6a1dc984b15.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1059,
+   "file": "11-574-1059.6e4ff79af638.pmtiles",
+   "bytes": 172033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1059.6e4ff79af638.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1060,
+   "file": "11-574-1060.f935f69b0cea.pmtiles",
+   "bytes": 176333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1060.f935f69b0cea.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1061,
+   "file": "11-574-1061.329e30a8f34b.pmtiles",
+   "bytes": 114106,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1061.329e30a8f34b.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1062,
+   "file": "11-574-1062.6e4adc1a9705.pmtiles",
+   "bytes": 186066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1062.6e4adc1a9705.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1063,
+   "file": "11-574-1063.b42a09612e40.pmtiles",
+   "bytes": 125701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1063.b42a09612e40.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1064,
+   "file": "11-574-1064.eee53248b7da.pmtiles",
+   "bytes": 149168,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1064.eee53248b7da.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1065,
+   "file": "11-574-1065.b7ef194329d3.pmtiles",
+   "bytes": 105555,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1065.b7ef194329d3.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1066,
+   "file": "11-574-1066.5c2deaed5bff.pmtiles",
+   "bytes": 45841,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1066.5c2deaed5bff.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1067,
+   "file": "11-574-1067.cf8dcb0c62fc.pmtiles",
+   "bytes": 41985,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1067.cf8dcb0c62fc.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1068,
+   "file": "11-574-1068.d83e7cb309d6.pmtiles",
+   "bytes": 42444,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-574-1068.d83e7cb309d6.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1052,
+   "file": "11-575-1052.5459a57d4b9e.pmtiles",
+   "bytes": 152720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1052.5459a57d4b9e.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1053,
+   "file": "11-575-1053.be0ea0f18cd4.pmtiles",
+   "bytes": 238686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1053.be0ea0f18cd4.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1054,
+   "file": "11-575-1054.2ee913b10ca5.pmtiles",
+   "bytes": 248122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1054.2ee913b10ca5.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1055,
+   "file": "11-575-1055.939d33bc0500.pmtiles",
+   "bytes": 183754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1055.939d33bc0500.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1056,
+   "file": "11-575-1056.d7b470855de0.pmtiles",
+   "bytes": 579170,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1056.d7b470855de0.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1057,
+   "file": "11-575-1057.3168479abb91.pmtiles",
+   "bytes": 163427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1057.3168479abb91.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1058,
+   "file": "11-575-1058.c9512f85386f.pmtiles",
+   "bytes": 182664,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1058.c9512f85386f.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1059,
+   "file": "11-575-1059.e0a7fd70afe8.pmtiles",
+   "bytes": 227182,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1059.e0a7fd70afe8.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1060,
+   "file": "11-575-1060.6b01b7e147f6.pmtiles",
+   "bytes": 313127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1060.6b01b7e147f6.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1061,
+   "file": "11-575-1061.ca351d2fc04c.pmtiles",
+   "bytes": 239124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1061.ca351d2fc04c.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1062,
+   "file": "11-575-1062.2c53ae8f74c7.pmtiles",
+   "bytes": 198564,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1062.2c53ae8f74c7.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1063,
+   "file": "11-575-1063.2f4e9140f062.pmtiles",
+   "bytes": 190448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1063.2f4e9140f062.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1064,
+   "file": "11-575-1064.2f4bfd0faf2c.pmtiles",
+   "bytes": 193020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1064.2f4bfd0faf2c.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1065,
+   "file": "11-575-1065.74ad7cdac7e1.pmtiles",
+   "bytes": 163304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1065.74ad7cdac7e1.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1066,
+   "file": "11-575-1066.af9fb8f0e4c7.pmtiles",
+   "bytes": 160813,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1066.af9fb8f0e4c7.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1067,
+   "file": "11-575-1067.52b7b9fa2cff.pmtiles",
+   "bytes": 43619,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1067.52b7b9fa2cff.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1068,
+   "file": "11-575-1068.2a8e39c6196a.pmtiles",
+   "bytes": 38877,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-575-1068.2a8e39c6196a.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1050,
+   "file": "11-576-1050.92d6ae08132c.pmtiles",
+   "bytes": 22847,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1050.92d6ae08132c.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1052,
+   "file": "11-576-1052.64822591a82a.pmtiles",
+   "bytes": 30341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1052.64822591a82a.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1053,
+   "file": "11-576-1053.620960a5490d.pmtiles",
+   "bytes": 45797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1053.620960a5490d.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1054,
+   "file": "11-576-1054.e3d33b0606e3.pmtiles",
+   "bytes": 205827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1054.e3d33b0606e3.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1055,
+   "file": "11-576-1055.0583b9614b75.pmtiles",
+   "bytes": 74364,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1055.0583b9614b75.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1056,
+   "file": "11-576-1056.98776ab4bbdb.pmtiles",
+   "bytes": 111114,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1056.98776ab4bbdb.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1057,
+   "file": "11-576-1057.71483ef4c37b.pmtiles",
+   "bytes": 137603,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1057.71483ef4c37b.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1058,
+   "file": "11-576-1058.f2c9b8bd1c4b.pmtiles",
+   "bytes": 144142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1058.f2c9b8bd1c4b.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1059,
+   "file": "11-576-1059.6a7191903428.pmtiles",
+   "bytes": 301934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1059.6a7191903428.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1060,
+   "file": "11-576-1060.be29d5d57186.pmtiles",
+   "bytes": 272889,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1060.be29d5d57186.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1061,
+   "file": "11-576-1061.ab1f7e7193e6.pmtiles",
+   "bytes": 291374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1061.ab1f7e7193e6.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1062,
+   "file": "11-576-1062.5b79e266723b.pmtiles",
+   "bytes": 175259,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1062.5b79e266723b.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1063,
+   "file": "11-576-1063.d3d490022a42.pmtiles",
+   "bytes": 173673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1063.d3d490022a42.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1064,
+   "file": "11-576-1064.d317d2268676.pmtiles",
+   "bytes": 204729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1064.d317d2268676.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1065,
+   "file": "11-576-1065.bbcf86c6aa0b.pmtiles",
+   "bytes": 157698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1065.bbcf86c6aa0b.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1066,
+   "file": "11-576-1066.3a0d18e92f2f.pmtiles",
+   "bytes": 84869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1066.3a0d18e92f2f.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1067,
+   "file": "11-576-1067.fff27759c6f9.pmtiles",
+   "bytes": 106842,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1067.fff27759c6f9.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1068,
+   "file": "11-576-1068.16228fc1ca06.pmtiles",
+   "bytes": 55470,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-576-1068.16228fc1ca06.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1051,
+   "file": "11-577-1051.7d0daa32a6a3.pmtiles",
+   "bytes": 24232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1051.7d0daa32a6a3.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1053,
+   "file": "11-577-1053.86624bd8b833.pmtiles",
+   "bytes": 30425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1053.86624bd8b833.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1054,
+   "file": "11-577-1054.bb684c8d6fbd.pmtiles",
+   "bytes": 180795,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1054.bb684c8d6fbd.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1055,
+   "file": "11-577-1055.6d1477753daa.pmtiles",
+   "bytes": 217000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1055.6d1477753daa.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1056,
+   "file": "11-577-1056.d42eb31d242a.pmtiles",
+   "bytes": 264667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1056.d42eb31d242a.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1057,
+   "file": "11-577-1057.4e72e6ff4e8c.pmtiles",
+   "bytes": 168474,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1057.4e72e6ff4e8c.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1058,
+   "file": "11-577-1058.7a4d4e8074bd.pmtiles",
+   "bytes": 202584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1058.7a4d4e8074bd.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1059,
+   "file": "11-577-1059.980982b7e295.pmtiles",
+   "bytes": 117939,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1059.980982b7e295.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1060,
+   "file": "11-577-1060.bb8b62bca913.pmtiles",
+   "bytes": 155845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1060.bb8b62bca913.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1061,
+   "file": "11-577-1061.84b34d954d2e.pmtiles",
+   "bytes": 221646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1061.84b34d954d2e.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1062,
+   "file": "11-577-1062.79c0a845b059.pmtiles",
+   "bytes": 305343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1062.79c0a845b059.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1063,
+   "file": "11-577-1063.ff6e4cb4542b.pmtiles",
+   "bytes": 177412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1063.ff6e4cb4542b.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1064,
+   "file": "11-577-1064.6fb718a7619c.pmtiles",
+   "bytes": 569218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1064.6fb718a7619c.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1065,
+   "file": "11-577-1065.bda95b6dd8d0.pmtiles",
+   "bytes": 249815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1065.bda95b6dd8d0.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1066,
+   "file": "11-577-1066.18095ed7748d.pmtiles",
+   "bytes": 133286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1066.18095ed7748d.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1067,
+   "file": "11-577-1067.a18a56c8d259.pmtiles",
+   "bytes": 175767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1067.a18a56c8d259.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1068,
+   "file": "11-577-1068.9ded2b7791ce.pmtiles",
+   "bytes": 87293,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-577-1068.9ded2b7791ce.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1051,
+   "file": "11-578-1051.3256fe192d62.pmtiles",
+   "bytes": 43650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1051.3256fe192d62.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1052,
+   "file": "11-578-1052.41ff4ee57222.pmtiles",
+   "bytes": 72193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1052.41ff4ee57222.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1053,
+   "file": "11-578-1053.7b33a8347991.pmtiles",
+   "bytes": 110991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1053.7b33a8347991.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1054,
+   "file": "11-578-1054.fa2cf2ad62f6.pmtiles",
+   "bytes": 47133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1054.fa2cf2ad62f6.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1055,
+   "file": "11-578-1055.e80d51b28b37.pmtiles",
+   "bytes": 50452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1055.e80d51b28b37.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1056,
+   "file": "11-578-1056.97629a6ebf73.pmtiles",
+   "bytes": 224616,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1056.97629a6ebf73.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1057,
+   "file": "11-578-1057.4610060b51a9.pmtiles",
+   "bytes": 224588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1057.4610060b51a9.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1058,
+   "file": "11-578-1058.cb6d4ad06a3f.pmtiles",
+   "bytes": 66247,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1058.cb6d4ad06a3f.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1059,
+   "file": "11-578-1059.ba0dabf7b78c.pmtiles",
+   "bytes": 166634,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1059.ba0dabf7b78c.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1060,
+   "file": "11-578-1060.fb93f0a6c9ce.pmtiles",
+   "bytes": 88400,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1060.fb93f0a6c9ce.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1061,
+   "file": "11-578-1061.3436e7094c5b.pmtiles",
+   "bytes": 174706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1061.3436e7094c5b.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1062,
+   "file": "11-578-1062.e304850933e2.pmtiles",
+   "bytes": 207249,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1062.e304850933e2.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1063,
+   "file": "11-578-1063.cb74f480d668.pmtiles",
+   "bytes": 232787,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1063.cb74f480d668.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1064,
+   "file": "11-578-1064.fa3365832417.pmtiles",
+   "bytes": 239534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1064.fa3365832417.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1065,
+   "file": "11-578-1065.a2c336fb6e75.pmtiles",
+   "bytes": 229804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1065.a2c336fb6e75.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1066,
+   "file": "11-578-1066.65f0be150fb1.pmtiles",
+   "bytes": 144038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1066.65f0be150fb1.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1067,
+   "file": "11-578-1067.ed2f2f7e7d6e.pmtiles",
+   "bytes": 152973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1067.ed2f2f7e7d6e.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1068,
+   "file": "11-578-1068.f5a17c974493.pmtiles",
+   "bytes": 76832,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-578-1068.f5a17c974493.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1050,
+   "file": "11-579-1050.1b1b1f974161.pmtiles",
+   "bytes": 72140,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1050.1b1b1f974161.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1051,
+   "file": "11-579-1051.eadb44b92de2.pmtiles",
+   "bytes": 69389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1051.eadb44b92de2.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1052,
+   "file": "11-579-1052.20ac5b97aae0.pmtiles",
+   "bytes": 50016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1052.20ac5b97aae0.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1053,
+   "file": "11-579-1053.520ce0e7b759.pmtiles",
+   "bytes": 37396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1053.520ce0e7b759.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1054,
+   "file": "11-579-1054.7f0f30dde0a0.pmtiles",
+   "bytes": 25658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1054.7f0f30dde0a0.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1055,
+   "file": "11-579-1055.8f85123d8b15.pmtiles",
+   "bytes": 32066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1055.8f85123d8b15.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1056,
+   "file": "11-579-1056.4ef594f8fc3c.pmtiles",
+   "bytes": 54271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1056.4ef594f8fc3c.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1057,
+   "file": "11-579-1057.e1ea555ecfba.pmtiles",
+   "bytes": 138387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1057.e1ea555ecfba.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1058,
+   "file": "11-579-1058.b2d3de6b17dd.pmtiles",
+   "bytes": 84303,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1058.b2d3de6b17dd.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1059,
+   "file": "11-579-1059.ad7e7f73c7ff.pmtiles",
+   "bytes": 107989,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1059.ad7e7f73c7ff.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1060,
+   "file": "11-579-1060.7277e19fed24.pmtiles",
+   "bytes": 152455,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1060.7277e19fed24.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1061,
+   "file": "11-579-1061.13c8c91eb46b.pmtiles",
+   "bytes": 89916,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1061.13c8c91eb46b.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1062,
+   "file": "11-579-1062.d2f2f7a90060.pmtiles",
+   "bytes": 90500,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1062.d2f2f7a90060.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1063,
+   "file": "11-579-1063.3eebce2235be.pmtiles",
+   "bytes": 258785,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1063.3eebce2235be.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1064,
+   "file": "11-579-1064.f0ffb5d5ffb5.pmtiles",
+   "bytes": 203508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1064.f0ffb5d5ffb5.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1065,
+   "file": "11-579-1065.21b9642aca86.pmtiles",
+   "bytes": 230944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1065.21b9642aca86.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1066,
+   "file": "11-579-1066.0271f25f46cc.pmtiles",
+   "bytes": 169902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1066.0271f25f46cc.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1067,
+   "file": "11-579-1067.f76916597759.pmtiles",
+   "bytes": 232006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1067.f76916597759.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1068,
+   "file": "11-579-1068.e7c1e75f18ce.pmtiles",
+   "bytes": 91620,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-579-1068.e7c1e75f18ce.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1050,
+   "file": "11-580-1050.42a7846e89db.pmtiles",
+   "bytes": 95647,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1050.42a7846e89db.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1051,
+   "file": "11-580-1051.834bd5745933.pmtiles",
+   "bytes": 104559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1051.834bd5745933.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1052,
+   "file": "11-580-1052.dc3276d5a40c.pmtiles",
+   "bytes": 51341,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1052.dc3276d5a40c.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1053,
+   "file": "11-580-1053.fc4ebd538173.pmtiles",
+   "bytes": 35551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1053.fc4ebd538173.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1054,
+   "file": "11-580-1054.70d05340fd80.pmtiles",
+   "bytes": 20461,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1054.70d05340fd80.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1055,
+   "file": "11-580-1055.3c1c6e02321b.pmtiles",
+   "bytes": 34964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1055.3c1c6e02321b.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1056,
+   "file": "11-580-1056.99d5791e596c.pmtiles",
+   "bytes": 109332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1056.99d5791e596c.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1057,
+   "file": "11-580-1057.a9c62958c54b.pmtiles",
+   "bytes": 170447,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1057.a9c62958c54b.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1058,
+   "file": "11-580-1058.a06714f43525.pmtiles",
+   "bytes": 173949,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1058.a06714f43525.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1059,
+   "file": "11-580-1059.0de567e9e9c6.pmtiles",
+   "bytes": 372803,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1059.0de567e9e9c6.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1060,
+   "file": "11-580-1060.351e9dea4e02.pmtiles",
+   "bytes": 213708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1060.351e9dea4e02.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1061,
+   "file": "11-580-1061.5c8bc06e5943.pmtiles",
+   "bytes": 121643,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1061.5c8bc06e5943.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1062,
+   "file": "11-580-1062.3e87b2299b2d.pmtiles",
+   "bytes": 100046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1062.3e87b2299b2d.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1063,
+   "file": "11-580-1063.b86d6266ecca.pmtiles",
+   "bytes": 129416,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1063.b86d6266ecca.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1064,
+   "file": "11-580-1064.adf3b26dca82.pmtiles",
+   "bytes": 97525,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1064.adf3b26dca82.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1065,
+   "file": "11-580-1065.049704d0efdc.pmtiles",
+   "bytes": 154416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1065.049704d0efdc.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1066,
+   "file": "11-580-1066.54007bbecd06.pmtiles",
+   "bytes": 123628,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1066.54007bbecd06.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1067,
+   "file": "11-580-1067.ca660da7baeb.pmtiles",
+   "bytes": 180096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1067.ca660da7baeb.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1068,
+   "file": "11-580-1068.354a69243312.pmtiles",
+   "bytes": 115170,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-580-1068.354a69243312.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1050,
+   "file": "11-581-1050.e7f61804b625.pmtiles",
+   "bytes": 37411,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1050.e7f61804b625.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1055,
+   "file": "11-581-1055.ba9a106a7762.pmtiles",
+   "bytes": 33066,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1055.ba9a106a7762.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1056,
+   "file": "11-581-1056.b5b41b17a084.pmtiles",
+   "bytes": 68153,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1056.b5b41b17a084.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1057,
+   "file": "11-581-1057.859b74280820.pmtiles",
+   "bytes": 58658,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1057.859b74280820.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1058,
+   "file": "11-581-1058.baf56fd9ab4f.pmtiles",
+   "bytes": 38483,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1058.baf56fd9ab4f.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1059,
+   "file": "11-581-1059.488c855e5709.pmtiles",
+   "bytes": 225804,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1059.488c855e5709.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1060,
+   "file": "11-581-1060.cfe03952142f.pmtiles",
+   "bytes": 97232,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1060.cfe03952142f.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1061,
+   "file": "11-581-1061.d4968c86239b.pmtiles",
+   "bytes": 291655,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1061.d4968c86239b.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1062,
+   "file": "11-581-1062.c4b873d6fd5e.pmtiles",
+   "bytes": 98388,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1062.c4b873d6fd5e.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1063,
+   "file": "11-581-1063.12f84b3dda0a.pmtiles",
+   "bytes": 76090,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1063.12f84b3dda0a.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1064,
+   "file": "11-581-1064.fb9befa1cfa4.pmtiles",
+   "bytes": 100590,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1064.fb9befa1cfa4.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1065,
+   "file": "11-581-1065.417449027378.pmtiles",
+   "bytes": 51173,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1065.417449027378.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1066,
+   "file": "11-581-1066.17fd752ac7b2.pmtiles",
+   "bytes": 64019,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1066.17fd752ac7b2.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1067,
+   "file": "11-581-1067.45697d97a257.pmtiles",
+   "bytes": 138338,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1067.45697d97a257.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1068,
+   "file": "11-581-1068.f45ab8e17bc1.pmtiles",
+   "bytes": 101481,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-cajamarca-2026-10-09/11-581-1068.f45ab8e17bc1.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,549 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-lambayeque",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T20:00:54.695Z",
+ "publishedAt": "2026-10-09T20:01:13.721Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-lambayeque-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -80.62713,
+  -7.17752,
+  -79.12085,
+  -5.48039
+ ],
+ "overview": {
+  "file": "overview.d5790a6e6323.pmtiles",
+  "bytes": 635648,
+  "tiles": 58,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/overview.d5790a6e6323.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 565,
+   "y": 1055,
+   "file": "11-565-1055.22970e7004ed.pmtiles",
+   "bytes": 65864,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-565-1055.22970e7004ed.pmtiles"
+  },
+  {
+   "x": 565,
+   "y": 1056,
+   "file": "11-565-1056.34b0dbeba363.pmtiles",
+   "bytes": 28310,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-565-1056.34b0dbeba363.pmtiles"
+  },
+  {
+   "x": 565,
+   "y": 1058,
+   "file": "11-565-1058.90b3d1a4b1d8.pmtiles",
+   "bytes": 30580,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-565-1058.90b3d1a4b1d8.pmtiles"
+  },
+  {
+   "x": 566,
+   "y": 1059,
+   "file": "11-566-1059.4a3bea1976ba.pmtiles",
+   "bytes": 25847,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-566-1059.4a3bea1976ba.pmtiles"
+  },
+  {
+   "x": 567,
+   "y": 1055,
+   "file": "11-567-1055.381b3a0d8d2f.pmtiles",
+   "bytes": 22357,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-567-1055.381b3a0d8d2f.pmtiles"
+  },
+  {
+   "x": 567,
+   "y": 1057,
+   "file": "11-567-1057.243de457ada0.pmtiles",
+   "bytes": 33693,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-567-1057.243de457ada0.pmtiles"
+  },
+  {
+   "x": 567,
+   "y": 1059,
+   "file": "11-567-1059.6b3621ed2d59.pmtiles",
+   "bytes": 25571,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-567-1059.6b3621ed2d59.pmtiles"
+  },
+  {
+   "x": 567,
+   "y": 1060,
+   "file": "11-567-1060.d544f2f9b8ec.pmtiles",
+   "bytes": 24405,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-567-1060.d544f2f9b8ec.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1055,
+   "file": "11-568-1055.c870040156ac.pmtiles",
+   "bytes": 42320,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1055.c870040156ac.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1056,
+   "file": "11-568-1056.06154f160bc5.pmtiles",
+   "bytes": 41991,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1056.06154f160bc5.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1057,
+   "file": "11-568-1057.d2e513de9428.pmtiles",
+   "bytes": 56451,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1057.d2e513de9428.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1058,
+   "file": "11-568-1058.9949da6f43e4.pmtiles",
+   "bytes": 120457,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1058.9949da6f43e4.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1059,
+   "file": "11-568-1059.ce1566b7938c.pmtiles",
+   "bytes": 66797,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1059.ce1566b7938c.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1060,
+   "file": "11-568-1060.57e70d415638.pmtiles",
+   "bytes": 36388,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1060.57e70d415638.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1061,
+   "file": "11-568-1061.ff98c7576224.pmtiles",
+   "bytes": 112646,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1061.ff98c7576224.pmtiles"
+  },
+  {
+   "x": 568,
+   "y": 1062,
+   "file": "11-568-1062.16a4a4ccdc62.pmtiles",
+   "bytes": 18389,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-568-1062.16a4a4ccdc62.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1055,
+   "file": "11-569-1055.4e55267484c7.pmtiles",
+   "bytes": 36914,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1055.4e55267484c7.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1056,
+   "file": "11-569-1056.1c2073f11742.pmtiles",
+   "bytes": 88518,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1056.1c2073f11742.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1057,
+   "file": "11-569-1057.84af0e625cbb.pmtiles",
+   "bytes": 113609,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1057.84af0e625cbb.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1058,
+   "file": "11-569-1058.903daaec4fe9.pmtiles",
+   "bytes": 101219,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1058.903daaec4fe9.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1059,
+   "file": "11-569-1059.48aba8a6fd57.pmtiles",
+   "bytes": 51050,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1059.48aba8a6fd57.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1060,
+   "file": "11-569-1060.c675d66fc9ef.pmtiles",
+   "bytes": 250225,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1060.c675d66fc9ef.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1061,
+   "file": "11-569-1061.32c26b4044e7.pmtiles",
+   "bytes": 418996,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1061.32c26b4044e7.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1062,
+   "file": "11-569-1062.3eba27c045ba.pmtiles",
+   "bytes": 1257215,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1062.3eba27c045ba.pmtiles"
+  },
+  {
+   "x": 569,
+   "y": 1063,
+   "file": "11-569-1063.ced508266fd9.pmtiles",
+   "bytes": 358731,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-569-1063.ced508266fd9.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1055,
+   "file": "11-570-1055.32964368d529.pmtiles",
+   "bytes": 65217,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1055.32964368d529.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1056,
+   "file": "11-570-1056.274c3433be05.pmtiles",
+   "bytes": 78669,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1056.274c3433be05.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1057,
+   "file": "11-570-1057.4eb2594367de.pmtiles",
+   "bytes": 109150,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1057.4eb2594367de.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1058,
+   "file": "11-570-1058.aad4bda5c8f7.pmtiles",
+   "bytes": 181237,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1058.aad4bda5c8f7.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1059,
+   "file": "11-570-1059.275a488ab513.pmtiles",
+   "bytes": 175159,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1059.275a488ab513.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1060,
+   "file": "11-570-1060.05367cb47039.pmtiles",
+   "bytes": 121626,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1060.05367cb47039.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1061,
+   "file": "11-570-1061.a1caae235fbe.pmtiles",
+   "bytes": 163620,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1061.a1caae235fbe.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1062,
+   "file": "11-570-1062.e9914aa419cc.pmtiles",
+   "bytes": 381163,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1062.e9914aa419cc.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1063,
+   "file": "11-570-1063.04385106b7af.pmtiles",
+   "bytes": 99802,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1063.04385106b7af.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1064,
+   "file": "11-570-1064.c0dfa25ace70.pmtiles",
+   "bytes": 97538,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-570-1064.c0dfa25ace70.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1055,
+   "file": "11-571-1055.2bf66c2542d2.pmtiles",
+   "bytes": 184949,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1055.2bf66c2542d2.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1056,
+   "file": "11-571-1056.0c79f938deab.pmtiles",
+   "bytes": 155650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1056.0c79f938deab.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1057,
+   "file": "11-571-1057.ded1acde860e.pmtiles",
+   "bytes": 112116,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1057.ded1acde860e.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1058,
+   "file": "11-571-1058.33a6f9843b2e.pmtiles",
+   "bytes": 117225,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1058.33a6f9843b2e.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1059,
+   "file": "11-571-1059.76e209c596ed.pmtiles",
+   "bytes": 110566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1059.76e209c596ed.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1060,
+   "file": "11-571-1060.44093c66bdc0.pmtiles",
+   "bytes": 60694,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1060.44093c66bdc0.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1061,
+   "file": "11-571-1061.fdef88fe67f0.pmtiles",
+   "bytes": 38915,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1061.fdef88fe67f0.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1062,
+   "file": "11-571-1062.55d58770cfa4.pmtiles",
+   "bytes": 100874,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1062.55d58770cfa4.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1063,
+   "file": "11-571-1063.c0329645599f.pmtiles",
+   "bytes": 168766,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1063.c0329645599f.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1064,
+   "file": "11-571-1064.7817bce5389f.pmtiles",
+   "bytes": 205845,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-571-1064.7817bce5389f.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1055,
+   "file": "11-572-1055.35ac0c823b25.pmtiles",
+   "bytes": 121703,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1055.35ac0c823b25.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1056,
+   "file": "11-572-1056.1b1a7f657f44.pmtiles",
+   "bytes": 142416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1056.1b1a7f657f44.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1057,
+   "file": "11-572-1057.b6eda2138a0a.pmtiles",
+   "bytes": 89146,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1057.b6eda2138a0a.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1058,
+   "file": "11-572-1058.ac1f52d69cfc.pmtiles",
+   "bytes": 106198,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1058.ac1f52d69cfc.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1059,
+   "file": "11-572-1059.329343044bc5.pmtiles",
+   "bytes": 166502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1059.329343044bc5.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1060,
+   "file": "11-572-1060.6f7e9a91f74c.pmtiles",
+   "bytes": 87435,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1060.6f7e9a91f74c.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1061,
+   "file": "11-572-1061.11fc84aca7a7.pmtiles",
+   "bytes": 123216,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1061.11fc84aca7a7.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1062,
+   "file": "11-572-1062.bf6170d10a39.pmtiles",
+   "bytes": 63638,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1062.bf6170d10a39.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1063,
+   "file": "11-572-1063.68d05a3fcd55.pmtiles",
+   "bytes": 61153,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1063.68d05a3fcd55.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1064,
+   "file": "11-572-1064.b3785f44aa11.pmtiles",
+   "bytes": 108603,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-572-1064.b3785f44aa11.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1055,
+   "file": "11-573-1055.e87a25e3d4d6.pmtiles",
+   "bytes": 84609,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1055.e87a25e3d4d6.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1056,
+   "file": "11-573-1056.9f5f962dcae7.pmtiles",
+   "bytes": 102387,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1056.9f5f962dcae7.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1057,
+   "file": "11-573-1057.4b17a01e236b.pmtiles",
+   "bytes": 94836,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1057.4b17a01e236b.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1058,
+   "file": "11-573-1058.ee0a100a78da.pmtiles",
+   "bytes": 163287,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1058.ee0a100a78da.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1059,
+   "file": "11-573-1059.738a499b69a1.pmtiles",
+   "bytes": 112943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1059.738a499b69a1.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1060,
+   "file": "11-573-1060.b2bc158a5e1d.pmtiles",
+   "bytes": 93842,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1060.b2bc158a5e1d.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1061,
+   "file": "11-573-1061.c342b8a1c1e3.pmtiles",
+   "bytes": 111738,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1061.c342b8a1c1e3.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1062,
+   "file": "11-573-1062.99ce56ddd602.pmtiles",
+   "bytes": 97953,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1062.99ce56ddd602.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1063,
+   "file": "11-573-1063.81e33c7d0221.pmtiles",
+   "bytes": 141771,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1063.81e33c7d0221.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1064,
+   "file": "11-573-1064.7497e5274805.pmtiles",
+   "bytes": 84538,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-lambayeque-2026-10-09/11-573-1064.7497e5274805.pmtiles"
+  }
+ ]
+}

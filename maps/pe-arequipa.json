@@ -1,0 +1,2213 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-arequipa",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T22:16:54.164Z",
+ "publishedAt": "2026-10-09T22:18:07.846Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-arequipa-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -75.07199,
+  -17.28501,
+  -70.80408,
+  -14.63274
+ ],
+ "overview": {
+  "file": "overview.f3a519d64a21.pmtiles",
+  "bytes": 1204324,
+  "tiles": 158,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/overview.f3a519d64a21.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 596,
+   "y": 1108,
+   "file": "11-596-1108.bb1c791707a9.pmtiles",
+   "bytes": 49336,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-596-1108.bb1c791707a9.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 1109,
+   "file": "11-596-1109.9a7b8c35f492.pmtiles",
+   "bytes": 29749,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-596-1109.9a7b8c35f492.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1108,
+   "file": "11-597-1108.f10f67933e5c.pmtiles",
+   "bytes": 75701,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1108.f10f67933e5c.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1109,
+   "file": "11-597-1109.008576bde924.pmtiles",
+   "bytes": 261064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1109.008576bde924.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1110,
+   "file": "11-597-1110.80559e5dd6c3.pmtiles",
+   "bytes": 65758,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1110.80559e5dd6c3.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1111,
+   "file": "11-597-1111.d040294232f2.pmtiles",
+   "bytes": 31747,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1111.d040294232f2.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1112,
+   "file": "11-597-1112.1ca7a98de70d.pmtiles",
+   "bytes": 37835,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1112.1ca7a98de70d.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 1113,
+   "file": "11-597-1113.9850c142e2ef.pmtiles",
+   "bytes": 25663,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-597-1113.9850c142e2ef.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1108,
+   "file": "11-598-1108.c7c1cff4f5b1.pmtiles",
+   "bytes": 76835,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1108.c7c1cff4f5b1.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1109,
+   "file": "11-598-1109.7698c94c098c.pmtiles",
+   "bytes": 82382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1109.7698c94c098c.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1110,
+   "file": "11-598-1110.34c9516b94b4.pmtiles",
+   "bytes": 64638,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1110.34c9516b94b4.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1111,
+   "file": "11-598-1111.731dfed8dc93.pmtiles",
+   "bytes": 37323,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1111.731dfed8dc93.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1112,
+   "file": "11-598-1112.7e6c277c9170.pmtiles",
+   "bytes": 45534,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1112.7e6c277c9170.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 1113,
+   "file": "11-598-1113.c33b6a5ba698.pmtiles",
+   "bytes": 73703,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-598-1113.c33b6a5ba698.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1108,
+   "file": "11-599-1108.dba3095d6f5a.pmtiles",
+   "bytes": 50176,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1108.dba3095d6f5a.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1109,
+   "file": "11-599-1109.11b8509c4a6d.pmtiles",
+   "bytes": 81320,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1109.11b8509c4a6d.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1110,
+   "file": "11-599-1110.7492986fbeb4.pmtiles",
+   "bytes": 55219,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1110.7492986fbeb4.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1111,
+   "file": "11-599-1111.8c0974c40305.pmtiles",
+   "bytes": 79499,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1111.8c0974c40305.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1112,
+   "file": "11-599-1112.17287547bb71.pmtiles",
+   "bytes": 106879,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1112.17287547bb71.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1113,
+   "file": "11-599-1113.c4a2f8177612.pmtiles",
+   "bytes": 75165,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1113.c4a2f8177612.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 1114,
+   "file": "11-599-1114.26e4e9261ba6.pmtiles",
+   "bytes": 36802,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-599-1114.26e4e9261ba6.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1108,
+   "file": "11-600-1108.6b146dc5ef80.pmtiles",
+   "bytes": 66189,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1108.6b146dc5ef80.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1109,
+   "file": "11-600-1109.72eb5d18fddb.pmtiles",
+   "bytes": 59807,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1109.72eb5d18fddb.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1110,
+   "file": "11-600-1110.0965443b5840.pmtiles",
+   "bytes": 89879,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1110.0965443b5840.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1111,
+   "file": "11-600-1111.63c8f1a949d7.pmtiles",
+   "bytes": 49366,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1111.63c8f1a949d7.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1112,
+   "file": "11-600-1112.89de8560506f.pmtiles",
+   "bytes": 63558,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1112.89de8560506f.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1113,
+   "file": "11-600-1113.6e9d81785ac7.pmtiles",
+   "bytes": 65880,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1113.6e9d81785ac7.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1114,
+   "file": "11-600-1114.d3e89979b75b.pmtiles",
+   "bytes": 69492,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1114.d3e89979b75b.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 1115,
+   "file": "11-600-1115.92d89c965ca3.pmtiles",
+   "bytes": 31209,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-600-1115.92d89c965ca3.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1108,
+   "file": "11-601-1108.3437faa8e3db.pmtiles",
+   "bytes": 134124,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1108.3437faa8e3db.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1109,
+   "file": "11-601-1109.612784e28d33.pmtiles",
+   "bytes": 68648,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1109.612784e28d33.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1110,
+   "file": "11-601-1110.40ffb989d963.pmtiles",
+   "bytes": 60384,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1110.40ffb989d963.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1111,
+   "file": "11-601-1111.6751279985e9.pmtiles",
+   "bytes": 54065,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1111.6751279985e9.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1112,
+   "file": "11-601-1112.1bd240581364.pmtiles",
+   "bytes": 83293,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1112.1bd240581364.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1113,
+   "file": "11-601-1113.7928cb04b4bb.pmtiles",
+   "bytes": 28422,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1113.7928cb04b4bb.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1114,
+   "file": "11-601-1114.27625a4d542f.pmtiles",
+   "bytes": 52462,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1114.27625a4d542f.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 1115,
+   "file": "11-601-1115.044f2af34376.pmtiles",
+   "bytes": 151978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-601-1115.044f2af34376.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1108,
+   "file": "11-602-1108.0cf23a4d499a.pmtiles",
+   "bytes": 210302,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1108.0cf23a4d499a.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1109,
+   "file": "11-602-1109.ecbd84fd6c14.pmtiles",
+   "bytes": 107085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1109.ecbd84fd6c14.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1110,
+   "file": "11-602-1110.beed4a2206b3.pmtiles",
+   "bytes": 95708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1110.beed4a2206b3.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1111,
+   "file": "11-602-1111.990bc8c32a69.pmtiles",
+   "bytes": 74324,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1111.990bc8c32a69.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1112,
+   "file": "11-602-1112.88f2271a4731.pmtiles",
+   "bytes": 61865,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1112.88f2271a4731.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1113,
+   "file": "11-602-1113.edd6e28835be.pmtiles",
+   "bytes": 96808,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1113.edd6e28835be.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1114,
+   "file": "11-602-1114.03149d9dc2c8.pmtiles",
+   "bytes": 74889,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1114.03149d9dc2c8.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 1115,
+   "file": "11-602-1115.a9957c8579ed.pmtiles",
+   "bytes": 54524,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-602-1115.a9957c8579ed.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1108,
+   "file": "11-603-1108.d4f998d6a5fd.pmtiles",
+   "bytes": 67452,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1108.d4f998d6a5fd.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1109,
+   "file": "11-603-1109.5ca239becbbc.pmtiles",
+   "bytes": 112501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1109.5ca239becbbc.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1110,
+   "file": "11-603-1110.abfcfb0ea15f.pmtiles",
+   "bytes": 171487,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1110.abfcfb0ea15f.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1111,
+   "file": "11-603-1111.fe16ac7c9eca.pmtiles",
+   "bytes": 109227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1111.fe16ac7c9eca.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1112,
+   "file": "11-603-1112.80d895bba110.pmtiles",
+   "bytes": 78699,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1112.80d895bba110.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1113,
+   "file": "11-603-1113.d898c2fa0533.pmtiles",
+   "bytes": 71533,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1113.d898c2fa0533.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1114,
+   "file": "11-603-1114.51aeda1819a7.pmtiles",
+   "bytes": 81721,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1114.51aeda1819a7.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1115,
+   "file": "11-603-1115.1ffd78a94bf2.pmtiles",
+   "bytes": 41600,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1115.1ffd78a94bf2.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 1116,
+   "file": "11-603-1116.38a0fdcc1abf.pmtiles",
+   "bytes": 23244,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-603-1116.38a0fdcc1abf.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1108,
+   "file": "11-604-1108.5761591244a0.pmtiles",
+   "bytes": 81020,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1108.5761591244a0.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1109,
+   "file": "11-604-1109.dcec3afc3a66.pmtiles",
+   "bytes": 75195,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1109.dcec3afc3a66.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1110,
+   "file": "11-604-1110.eb62cf38be73.pmtiles",
+   "bytes": 205779,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1110.eb62cf38be73.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1111,
+   "file": "11-604-1111.b7b9b076f6c2.pmtiles",
+   "bytes": 120581,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1111.b7b9b076f6c2.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1112,
+   "file": "11-604-1112.1265b3ead2db.pmtiles",
+   "bytes": 58728,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1112.1265b3ead2db.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1113,
+   "file": "11-604-1113.459bf128bbfc.pmtiles",
+   "bytes": 68518,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1113.459bf128bbfc.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1114,
+   "file": "11-604-1114.6ac690fbdf93.pmtiles",
+   "bytes": 57611,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1114.6ac690fbdf93.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 1117,
+   "file": "11-604-1117.e606eca1c060.pmtiles",
+   "bytes": 32319,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-604-1117.e606eca1c060.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1108,
+   "file": "11-605-1108.946f6717fe58.pmtiles",
+   "bytes": 90989,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1108.946f6717fe58.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1109,
+   "file": "11-605-1109.1056c307b271.pmtiles",
+   "bytes": 92834,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1109.1056c307b271.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1110,
+   "file": "11-605-1110.6bc601343420.pmtiles",
+   "bytes": 47899,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1110.6bc601343420.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1111,
+   "file": "11-605-1111.4cf09397c345.pmtiles",
+   "bytes": 111463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1111.4cf09397c345.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1112,
+   "file": "11-605-1112.ebe53084ea33.pmtiles",
+   "bytes": 74675,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1112.ebe53084ea33.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1113,
+   "file": "11-605-1113.ae457d866bd3.pmtiles",
+   "bytes": 58510,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1113.ae457d866bd3.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1114,
+   "file": "11-605-1114.6ec47c571328.pmtiles",
+   "bytes": 25341,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1114.6ec47c571328.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1115,
+   "file": "11-605-1115.bdbbeea20c63.pmtiles",
+   "bytes": 38312,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1115.bdbbeea20c63.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 1117,
+   "file": "11-605-1117.6f58a131435a.pmtiles",
+   "bytes": 48491,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-605-1117.6f58a131435a.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1108,
+   "file": "11-606-1108.c8f4211b1c2d.pmtiles",
+   "bytes": 51154,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1108.c8f4211b1c2d.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1109,
+   "file": "11-606-1109.417ca59ddfa4.pmtiles",
+   "bytes": 109328,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1109.417ca59ddfa4.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1110,
+   "file": "11-606-1110.3ac1f3e2ca4e.pmtiles",
+   "bytes": 92009,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1110.3ac1f3e2ca4e.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1111,
+   "file": "11-606-1111.a9f19a6b4337.pmtiles",
+   "bytes": 135716,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1111.a9f19a6b4337.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1112,
+   "file": "11-606-1112.8d9b4a4473ed.pmtiles",
+   "bytes": 78885,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1112.8d9b4a4473ed.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1114,
+   "file": "11-606-1114.d08c87dfeb9d.pmtiles",
+   "bytes": 63523,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1114.d08c87dfeb9d.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 1115,
+   "file": "11-606-1115.57d7828d2788.pmtiles",
+   "bytes": 43475,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-606-1115.57d7828d2788.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1108,
+   "file": "11-607-1108.d58308cddc9e.pmtiles",
+   "bytes": 78232,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1108.d58308cddc9e.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1109,
+   "file": "11-607-1109.e563d8a10a8e.pmtiles",
+   "bytes": 57053,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1109.e563d8a10a8e.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1110,
+   "file": "11-607-1110.3f28cba832a3.pmtiles",
+   "bytes": 46666,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1110.3f28cba832a3.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1111,
+   "file": "11-607-1111.55766c6c5128.pmtiles",
+   "bytes": 126489,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1111.55766c6c5128.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1112,
+   "file": "11-607-1112.13b854a10eea.pmtiles",
+   "bytes": 92492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1112.13b854a10eea.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1113,
+   "file": "11-607-1113.89157faa1ba9.pmtiles",
+   "bytes": 28610,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1113.89157faa1ba9.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1115,
+   "file": "11-607-1115.db9f467bc19f.pmtiles",
+   "bytes": 70107,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1115.db9f467bc19f.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1116,
+   "file": "11-607-1116.2e884c75c915.pmtiles",
+   "bytes": 52520,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1116.2e884c75c915.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1117,
+   "file": "11-607-1117.7c872a343329.pmtiles",
+   "bytes": 27177,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1117.7c872a343329.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 1118,
+   "file": "11-607-1118.68837b321b59.pmtiles",
+   "bytes": 74055,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-607-1118.68837b321b59.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1108,
+   "file": "11-608-1108.61915ae3c3db.pmtiles",
+   "bytes": 63070,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1108.61915ae3c3db.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1109,
+   "file": "11-608-1109.2eeeca25e639.pmtiles",
+   "bytes": 52808,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1109.2eeeca25e639.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1110,
+   "file": "11-608-1110.7ae64099cf49.pmtiles",
+   "bytes": 56576,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1110.7ae64099cf49.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1111,
+   "file": "11-608-1111.e7aceddea1a3.pmtiles",
+   "bytes": 124447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1111.e7aceddea1a3.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1112,
+   "file": "11-608-1112.fdf0235c403d.pmtiles",
+   "bytes": 99541,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1112.fdf0235c403d.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1113,
+   "file": "11-608-1113.3e98897af001.pmtiles",
+   "bytes": 64647,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1113.3e98897af001.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1114,
+   "file": "11-608-1114.a3fe59e41e40.pmtiles",
+   "bytes": 47313,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1114.a3fe59e41e40.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1115,
+   "file": "11-608-1115.47bf388000cc.pmtiles",
+   "bytes": 77979,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1115.47bf388000cc.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1118,
+   "file": "11-608-1118.49a36ca0d11c.pmtiles",
+   "bytes": 49573,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1118.49a36ca0d11c.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 1119,
+   "file": "11-608-1119.4a9050b82ae4.pmtiles",
+   "bytes": 22499,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-608-1119.4a9050b82ae4.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1108,
+   "file": "11-609-1108.5a56b5a08795.pmtiles",
+   "bytes": 72555,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1108.5a56b5a08795.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1109,
+   "file": "11-609-1109.48dcf34f9e77.pmtiles",
+   "bytes": 58275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1109.48dcf34f9e77.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1110,
+   "file": "11-609-1110.9ec3b09d5eda.pmtiles",
+   "bytes": 73396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1110.9ec3b09d5eda.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1111,
+   "file": "11-609-1111.6cdadb6e0345.pmtiles",
+   "bytes": 220711,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1111.6cdadb6e0345.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1112,
+   "file": "11-609-1112.b179631f7197.pmtiles",
+   "bytes": 58109,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1112.b179631f7197.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1113,
+   "file": "11-609-1113.70ecbeb05c4d.pmtiles",
+   "bytes": 78800,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1113.70ecbeb05c4d.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1114,
+   "file": "11-609-1114.9fc58396edc7.pmtiles",
+   "bytes": 111313,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1114.9fc58396edc7.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1115,
+   "file": "11-609-1115.e42934281893.pmtiles",
+   "bytes": 57575,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1115.e42934281893.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 1119,
+   "file": "11-609-1119.72c832eb221b.pmtiles",
+   "bytes": 57654,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-609-1119.72c832eb221b.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1108,
+   "file": "11-610-1108.37891d9b94b5.pmtiles",
+   "bytes": 78451,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1108.37891d9b94b5.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1109,
+   "file": "11-610-1109.e2c6994f763c.pmtiles",
+   "bytes": 96354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1109.e2c6994f763c.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1110,
+   "file": "11-610-1110.b934936f8423.pmtiles",
+   "bytes": 92204,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1110.b934936f8423.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1111,
+   "file": "11-610-1111.e13094f827fe.pmtiles",
+   "bytes": 49105,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1111.e13094f827fe.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1112,
+   "file": "11-610-1112.c003bf20e5e1.pmtiles",
+   "bytes": 54422,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1112.c003bf20e5e1.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1113,
+   "file": "11-610-1113.8c552ac3bcd8.pmtiles",
+   "bytes": 46752,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1113.8c552ac3bcd8.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1114,
+   "file": "11-610-1114.c3a657d4ca5e.pmtiles",
+   "bytes": 95654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1114.c3a657d4ca5e.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1115,
+   "file": "11-610-1115.b5b4887cc26b.pmtiles",
+   "bytes": 94295,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1115.b5b4887cc26b.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1116,
+   "file": "11-610-1116.dcf16a0efb18.pmtiles",
+   "bytes": 28892,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1116.dcf16a0efb18.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1119,
+   "file": "11-610-1119.73d1829bba1f.pmtiles",
+   "bytes": 200078,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1119.73d1829bba1f.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 1120,
+   "file": "11-610-1120.10109d0206e5.pmtiles",
+   "bytes": 58971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-610-1120.10109d0206e5.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1108,
+   "file": "11-611-1108.d6d6e123b4d8.pmtiles",
+   "bytes": 98727,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1108.d6d6e123b4d8.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1109,
+   "file": "11-611-1109.3401842a5d7c.pmtiles",
+   "bytes": 67985,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1109.3401842a5d7c.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1110,
+   "file": "11-611-1110.f356f53225d6.pmtiles",
+   "bytes": 72615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1110.f356f53225d6.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1111,
+   "file": "11-611-1111.1a72979c56c8.pmtiles",
+   "bytes": 52891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1111.1a72979c56c8.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1112,
+   "file": "11-611-1112.eef0d75eeef5.pmtiles",
+   "bytes": 51256,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1112.eef0d75eeef5.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1113,
+   "file": "11-611-1113.7f94af0c8a6d.pmtiles",
+   "bytes": 70732,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1113.7f94af0c8a6d.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1114,
+   "file": "11-611-1114.8cd0d78c1248.pmtiles",
+   "bytes": 190325,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1114.8cd0d78c1248.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1115,
+   "file": "11-611-1115.03cc64772174.pmtiles",
+   "bytes": 58597,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1115.03cc64772174.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1116,
+   "file": "11-611-1116.c29e288ace90.pmtiles",
+   "bytes": 101487,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1116.c29e288ace90.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1117,
+   "file": "11-611-1117.3255c7734218.pmtiles",
+   "bytes": 93802,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1117.3255c7734218.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1118,
+   "file": "11-611-1118.f7a768170356.pmtiles",
+   "bytes": 46525,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1118.f7a768170356.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1119,
+   "file": "11-611-1119.4b8bd1c3732c.pmtiles",
+   "bytes": 33445,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1119.4b8bd1c3732c.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 1120,
+   "file": "11-611-1120.b1e88cdac968.pmtiles",
+   "bytes": 39429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-611-1120.b1e88cdac968.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1108,
+   "file": "11-612-1108.2e6e70c3cb18.pmtiles",
+   "bytes": 56482,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1108.2e6e70c3cb18.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1109,
+   "file": "11-612-1109.da2272c84748.pmtiles",
+   "bytes": 78561,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1109.da2272c84748.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1110,
+   "file": "11-612-1110.ec70da133eaf.pmtiles",
+   "bytes": 91606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1110.ec70da133eaf.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1111,
+   "file": "11-612-1111.69ea80b0ef2e.pmtiles",
+   "bytes": 119983,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1111.69ea80b0ef2e.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1112,
+   "file": "11-612-1112.29f71c98c5b2.pmtiles",
+   "bytes": 96432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1112.29f71c98c5b2.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1113,
+   "file": "11-612-1113.cbe690562080.pmtiles",
+   "bytes": 121478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1113.cbe690562080.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1114,
+   "file": "11-612-1114.6610f0df0e9d.pmtiles",
+   "bytes": 57809,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1114.6610f0df0e9d.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1115,
+   "file": "11-612-1115.15f7eecaa0e4.pmtiles",
+   "bytes": 22919,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1115.15f7eecaa0e4.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1117,
+   "file": "11-612-1117.cc1813b28641.pmtiles",
+   "bytes": 27952,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1117.cc1813b28641.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1118,
+   "file": "11-612-1118.6c984bb0f660.pmtiles",
+   "bytes": 79420,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1118.6c984bb0f660.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1119,
+   "file": "11-612-1119.2eda2580b1bd.pmtiles",
+   "bytes": 36128,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1119.2eda2580b1bd.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1120,
+   "file": "11-612-1120.3f83989dec2f.pmtiles",
+   "bytes": 57764,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1120.3f83989dec2f.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 1121,
+   "file": "11-612-1121.1e706c23b202.pmtiles",
+   "bytes": 26237,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-612-1121.1e706c23b202.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1108,
+   "file": "11-613-1108.a9e7df1f52b0.pmtiles",
+   "bytes": 106888,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1108.a9e7df1f52b0.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1109,
+   "file": "11-613-1109.c02d35b95780.pmtiles",
+   "bytes": 67890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1109.c02d35b95780.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1110,
+   "file": "11-613-1110.16633274f647.pmtiles",
+   "bytes": 77842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1110.16633274f647.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1111,
+   "file": "11-613-1111.532f4ed1088e.pmtiles",
+   "bytes": 59384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1111.532f4ed1088e.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1112,
+   "file": "11-613-1112.2b306408f0ff.pmtiles",
+   "bytes": 81232,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1112.2b306408f0ff.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1113,
+   "file": "11-613-1113.83946883b33a.pmtiles",
+   "bytes": 69617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1113.83946883b33a.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1114,
+   "file": "11-613-1114.6a34060c3dea.pmtiles",
+   "bytes": 93040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1114.6a34060c3dea.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1115,
+   "file": "11-613-1115.fe27848ee761.pmtiles",
+   "bytes": 49202,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1115.fe27848ee761.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1116,
+   "file": "11-613-1116.006b6ec09ca3.pmtiles",
+   "bytes": 41765,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1116.006b6ec09ca3.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1117,
+   "file": "11-613-1117.dee79422dba9.pmtiles",
+   "bytes": 71819,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1117.dee79422dba9.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1118,
+   "file": "11-613-1118.1f7244b99f8a.pmtiles",
+   "bytes": 262422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1118.1f7244b99f8a.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1119,
+   "file": "11-613-1119.b5f512db2e73.pmtiles",
+   "bytes": 55073,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1119.b5f512db2e73.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1120,
+   "file": "11-613-1120.cb07f3696584.pmtiles",
+   "bytes": 22626,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1120.cb07f3696584.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1121,
+   "file": "11-613-1121.f0f9ba345c35.pmtiles",
+   "bytes": 40277,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1121.f0f9ba345c35.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 1122,
+   "file": "11-613-1122.d65ee2f25d05.pmtiles",
+   "bytes": 59066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-613-1122.d65ee2f25d05.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1108,
+   "file": "11-614-1108.658bbe95180c.pmtiles",
+   "bytes": 175088,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1108.658bbe95180c.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1109,
+   "file": "11-614-1109.357ecfaf166d.pmtiles",
+   "bytes": 80768,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1109.357ecfaf166d.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1110,
+   "file": "11-614-1110.5e37f9d92622.pmtiles",
+   "bytes": 67171,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1110.5e37f9d92622.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1111,
+   "file": "11-614-1111.2c38dfdba84e.pmtiles",
+   "bytes": 74617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1111.2c38dfdba84e.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1112,
+   "file": "11-614-1112.081e234452f0.pmtiles",
+   "bytes": 69850,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1112.081e234452f0.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1113,
+   "file": "11-614-1113.548fc22766ed.pmtiles",
+   "bytes": 145771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1113.548fc22766ed.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1114,
+   "file": "11-614-1114.f9a281b29f2e.pmtiles",
+   "bytes": 71435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1114.f9a281b29f2e.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1115,
+   "file": "11-614-1115.c1a358c450dc.pmtiles",
+   "bytes": 66292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1115.c1a358c450dc.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1116,
+   "file": "11-614-1116.c2571ecef52b.pmtiles",
+   "bytes": 98200,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1116.c2571ecef52b.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1117,
+   "file": "11-614-1117.26c443039768.pmtiles",
+   "bytes": 50502,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1117.26c443039768.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1118,
+   "file": "11-614-1118.e0dde7a79034.pmtiles",
+   "bytes": 78554,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1118.e0dde7a79034.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1119,
+   "file": "11-614-1119.eca7d4c7fe7f.pmtiles",
+   "bytes": 152478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1119.eca7d4c7fe7f.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1120,
+   "file": "11-614-1120.625994cb8e58.pmtiles",
+   "bytes": 81239,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1120.625994cb8e58.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1121,
+   "file": "11-614-1121.b692314e0f36.pmtiles",
+   "bytes": 48145,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1121.b692314e0f36.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 1122,
+   "file": "11-614-1122.8c455eaf5e38.pmtiles",
+   "bytes": 197476,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-614-1122.8c455eaf5e38.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1108,
+   "file": "11-615-1108.47e4290df223.pmtiles",
+   "bytes": 84630,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1108.47e4290df223.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1109,
+   "file": "11-615-1109.c501257b5d61.pmtiles",
+   "bytes": 120818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1109.c501257b5d61.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1110,
+   "file": "11-615-1110.c95f19c1ea0a.pmtiles",
+   "bytes": 99315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1110.c95f19c1ea0a.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1111,
+   "file": "11-615-1111.e056982c0f15.pmtiles",
+   "bytes": 112716,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1111.e056982c0f15.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1112,
+   "file": "11-615-1112.46b26e75d8fc.pmtiles",
+   "bytes": 81206,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1112.46b26e75d8fc.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1113,
+   "file": "11-615-1113.4e0079547f29.pmtiles",
+   "bytes": 125534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1113.4e0079547f29.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1114,
+   "file": "11-615-1114.f410253c64e5.pmtiles",
+   "bytes": 96026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1114.f410253c64e5.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1115,
+   "file": "11-615-1115.4b0010bb75d8.pmtiles",
+   "bytes": 76288,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1115.4b0010bb75d8.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1116,
+   "file": "11-615-1116.9ef0ade50520.pmtiles",
+   "bytes": 65870,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1116.9ef0ade50520.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1117,
+   "file": "11-615-1117.31a9b9dc3aa2.pmtiles",
+   "bytes": 63636,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1117.31a9b9dc3aa2.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1118,
+   "file": "11-615-1118.2a7fdca3f038.pmtiles",
+   "bytes": 247988,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1118.2a7fdca3f038.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1119,
+   "file": "11-615-1119.119bfb7571bd.pmtiles",
+   "bytes": 198746,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1119.119bfb7571bd.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1120,
+   "file": "11-615-1120.3e5d3f8a5d8a.pmtiles",
+   "bytes": 81103,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1120.3e5d3f8a5d8a.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1121,
+   "file": "11-615-1121.bdf88a3a8262.pmtiles",
+   "bytes": 37435,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1121.bdf88a3a8262.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1122,
+   "file": "11-615-1122.89afa00c35a0.pmtiles",
+   "bytes": 156466,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1122.89afa00c35a0.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 1123,
+   "file": "11-615-1123.baf3c7e06a4d.pmtiles",
+   "bytes": 75894,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-615-1123.baf3c7e06a4d.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1108,
+   "file": "11-616-1108.79900329e6ff.pmtiles",
+   "bytes": 192630,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1108.79900329e6ff.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1109,
+   "file": "11-616-1109.45c20d01a0ce.pmtiles",
+   "bytes": 171695,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1109.45c20d01a0ce.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1110,
+   "file": "11-616-1110.d5958edc7029.pmtiles",
+   "bytes": 143710,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1110.d5958edc7029.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1111,
+   "file": "11-616-1111.58b17469ac5e.pmtiles",
+   "bytes": 106012,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1111.58b17469ac5e.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1112,
+   "file": "11-616-1112.a3256c89e6ec.pmtiles",
+   "bytes": 98701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1112.a3256c89e6ec.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1113,
+   "file": "11-616-1113.90307c4d74c0.pmtiles",
+   "bytes": 133450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1113.90307c4d74c0.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1114,
+   "file": "11-616-1114.4b53db1d30c2.pmtiles",
+   "bytes": 185762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1114.4b53db1d30c2.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1115,
+   "file": "11-616-1115.8f9e4ef51f43.pmtiles",
+   "bytes": 50253,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1115.8f9e4ef51f43.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1116,
+   "file": "11-616-1116.7f079517d623.pmtiles",
+   "bytes": 54613,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1116.7f079517d623.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1117,
+   "file": "11-616-1117.3ad2f0721539.pmtiles",
+   "bytes": 165577,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1117.3ad2f0721539.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1118,
+   "file": "11-616-1118.c427ffe5b618.pmtiles",
+   "bytes": 1748025,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1118.c427ffe5b618.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1119,
+   "file": "11-616-1119.0362e790fb56.pmtiles",
+   "bytes": 110523,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1119.0362e790fb56.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1122,
+   "file": "11-616-1122.a9b323a20390.pmtiles",
+   "bytes": 85893,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1122.a9b323a20390.pmtiles"
+  },
+  {
+   "x": 616,
+   "y": 1123,
+   "file": "11-616-1123.9a8ca8f5bc4c.pmtiles",
+   "bytes": 31223,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-616-1123.9a8ca8f5bc4c.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1108,
+   "file": "11-617-1108.db200f042c57.pmtiles",
+   "bytes": 232132,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1108.db200f042c57.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1109,
+   "file": "11-617-1109.26e5e6705dbb.pmtiles",
+   "bytes": 515246,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1109.26e5e6705dbb.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1110,
+   "file": "11-617-1110.0039f173df3d.pmtiles",
+   "bytes": 101890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1110.0039f173df3d.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1111,
+   "file": "11-617-1111.f8393e23f197.pmtiles",
+   "bytes": 106202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1111.f8393e23f197.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1112,
+   "file": "11-617-1112.aba508ee2441.pmtiles",
+   "bytes": 122716,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1112.aba508ee2441.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1113,
+   "file": "11-617-1113.7b3b5ba59073.pmtiles",
+   "bytes": 165968,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1113.7b3b5ba59073.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1114,
+   "file": "11-617-1114.3ad8b51a5629.pmtiles",
+   "bytes": 78800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1114.3ad8b51a5629.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1115,
+   "file": "11-617-1115.bed9b5bfff95.pmtiles",
+   "bytes": 76297,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1115.bed9b5bfff95.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1116,
+   "file": "11-617-1116.71f1b8245acd.pmtiles",
+   "bytes": 70312,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1116.71f1b8245acd.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1117,
+   "file": "11-617-1117.8937743f9499.pmtiles",
+   "bytes": 112496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1117.8937743f9499.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1118,
+   "file": "11-617-1118.2b53e83b2e5c.pmtiles",
+   "bytes": 2142909,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1118.2b53e83b2e5c.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1119,
+   "file": "11-617-1119.c1963d9936cb.pmtiles",
+   "bytes": 373343,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1119.c1963d9936cb.pmtiles"
+  },
+  {
+   "x": 617,
+   "y": 1123,
+   "file": "11-617-1123.a51562723f23.pmtiles",
+   "bytes": 36153,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-617-1123.a51562723f23.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1108,
+   "file": "11-618-1108.c65762022345.pmtiles",
+   "bytes": 207076,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1108.c65762022345.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1109,
+   "file": "11-618-1109.b25c527433ac.pmtiles",
+   "bytes": 287895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1109.b25c527433ac.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1110,
+   "file": "11-618-1110.0bd81dd0459a.pmtiles",
+   "bytes": 116548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1110.0bd81dd0459a.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1111,
+   "file": "11-618-1111.fedfdb2c1bcb.pmtiles",
+   "bytes": 100867,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1111.fedfdb2c1bcb.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1112,
+   "file": "11-618-1112.996c8a2ebb74.pmtiles",
+   "bytes": 160975,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1112.996c8a2ebb74.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1113,
+   "file": "11-618-1113.ecb5e0b98bb1.pmtiles",
+   "bytes": 159030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1113.ecb5e0b98bb1.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1114,
+   "file": "11-618-1114.616794604bc0.pmtiles",
+   "bytes": 102419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1114.616794604bc0.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1115,
+   "file": "11-618-1115.a6bbae30c370.pmtiles",
+   "bytes": 73666,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1115.a6bbae30c370.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1116,
+   "file": "11-618-1116.86fcb822b046.pmtiles",
+   "bytes": 96571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1116.86fcb822b046.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1117,
+   "file": "11-618-1117.50761092f5f8.pmtiles",
+   "bytes": 56630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1117.50761092f5f8.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1118,
+   "file": "11-618-1118.583ff1071a72.pmtiles",
+   "bytes": 69829,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1118.583ff1071a72.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1119,
+   "file": "11-618-1119.2e3934250198.pmtiles",
+   "bytes": 126648,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1119.2e3934250198.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1120,
+   "file": "11-618-1120.fa21f1b0fdd0.pmtiles",
+   "bytes": 93043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1120.fa21f1b0fdd0.pmtiles"
+  },
+  {
+   "x": 618,
+   "y": 1121,
+   "file": "11-618-1121.39ee33dafeec.pmtiles",
+   "bytes": 26302,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-618-1121.39ee33dafeec.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1108,
+   "file": "11-619-1108.0f4324fd81bf.pmtiles",
+   "bytes": 82738,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1108.0f4324fd81bf.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1109,
+   "file": "11-619-1109.0d1dd90f453c.pmtiles",
+   "bytes": 170665,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1109.0d1dd90f453c.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1110,
+   "file": "11-619-1110.b093af660110.pmtiles",
+   "bytes": 178316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1110.b093af660110.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1111,
+   "file": "11-619-1111.064e83f2c00b.pmtiles",
+   "bytes": 112300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1111.064e83f2c00b.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1112,
+   "file": "11-619-1112.07248a3b1c60.pmtiles",
+   "bytes": 122076,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1112.07248a3b1c60.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1113,
+   "file": "11-619-1113.d4b1eacaa89d.pmtiles",
+   "bytes": 122168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1113.d4b1eacaa89d.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1114,
+   "file": "11-619-1114.64f9d76c2e69.pmtiles",
+   "bytes": 112463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1114.64f9d76c2e69.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1115,
+   "file": "11-619-1115.9648c20b851a.pmtiles",
+   "bytes": 118528,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1115.9648c20b851a.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1116,
+   "file": "11-619-1116.37e0380c6dc0.pmtiles",
+   "bytes": 100981,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1116.37e0380c6dc0.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1117,
+   "file": "11-619-1117.c6eb3a1f903d.pmtiles",
+   "bytes": 95603,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1117.c6eb3a1f903d.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1118,
+   "file": "11-619-1118.dcefba2440e0.pmtiles",
+   "bytes": 98410,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1118.dcefba2440e0.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1119,
+   "file": "11-619-1119.9cbe8af8d0d4.pmtiles",
+   "bytes": 47712,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1119.9cbe8af8d0d4.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1120,
+   "file": "11-619-1120.ea5e7a571f7f.pmtiles",
+   "bytes": 81275,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1120.ea5e7a571f7f.pmtiles"
+  },
+  {
+   "x": 619,
+   "y": 1123,
+   "file": "11-619-1123.3aa30b09320f.pmtiles",
+   "bytes": 32099,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-619-1123.3aa30b09320f.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1108,
+   "file": "11-620-1108.ac4a236c6aff.pmtiles",
+   "bytes": 162982,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1108.ac4a236c6aff.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1109,
+   "file": "11-620-1109.8418c8aec953.pmtiles",
+   "bytes": 141654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1109.8418c8aec953.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1110,
+   "file": "11-620-1110.85b8ecf5a9bf.pmtiles",
+   "bytes": 120047,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1110.85b8ecf5a9bf.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1111,
+   "file": "11-620-1111.927fb7c7b6e9.pmtiles",
+   "bytes": 56142,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1111.927fb7c7b6e9.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1112,
+   "file": "11-620-1112.15761a777775.pmtiles",
+   "bytes": 46848,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1112.15761a777775.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1113,
+   "file": "11-620-1113.ee8bd672ec16.pmtiles",
+   "bytes": 54023,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1113.ee8bd672ec16.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1114,
+   "file": "11-620-1114.069a57b997a5.pmtiles",
+   "bytes": 66378,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1114.069a57b997a5.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1115,
+   "file": "11-620-1115.2901205fb1d0.pmtiles",
+   "bytes": 53473,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1115.2901205fb1d0.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1116,
+   "file": "11-620-1116.678c0b4dfdd0.pmtiles",
+   "bytes": 90731,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1116.678c0b4dfdd0.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1117,
+   "file": "11-620-1117.4ed600624978.pmtiles",
+   "bytes": 102089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1117.4ed600624978.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1118,
+   "file": "11-620-1118.88af39cefadd.pmtiles",
+   "bytes": 116271,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1118.88af39cefadd.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1119,
+   "file": "11-620-1119.7fa58e5d4cbe.pmtiles",
+   "bytes": 34950,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1119.7fa58e5d4cbe.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1120,
+   "file": "11-620-1120.0c6728104956.pmtiles",
+   "bytes": 104294,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1120.0c6728104956.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1121,
+   "file": "11-620-1121.6f0005078e21.pmtiles",
+   "bytes": 36374,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1121.6f0005078e21.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1122,
+   "file": "11-620-1122.28683d3fbee4.pmtiles",
+   "bytes": 94119,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1122.28683d3fbee4.pmtiles"
+  },
+  {
+   "x": 620,
+   "y": 1123,
+   "file": "11-620-1123.fc6e0eb34e1c.pmtiles",
+   "bytes": 420149,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-620-1123.fc6e0eb34e1c.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1108,
+   "file": "11-621-1108.246b53b28a67.pmtiles",
+   "bytes": 72311,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1108.246b53b28a67.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1109,
+   "file": "11-621-1109.5a6620bd61da.pmtiles",
+   "bytes": 57001,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1109.5a6620bd61da.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1110,
+   "file": "11-621-1110.cdc7c592385d.pmtiles",
+   "bytes": 27585,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1110.cdc7c592385d.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1114,
+   "file": "11-621-1114.996aa96c146d.pmtiles",
+   "bytes": 26048,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1114.996aa96c146d.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1115,
+   "file": "11-621-1115.58d03eb9e5d8.pmtiles",
+   "bytes": 21891,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1115.58d03eb9e5d8.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1116,
+   "file": "11-621-1116.45c41eaaddce.pmtiles",
+   "bytes": 31817,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1116.45c41eaaddce.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1117,
+   "file": "11-621-1117.91dace0be2d8.pmtiles",
+   "bytes": 33316,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1117.91dace0be2d8.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1118,
+   "file": "11-621-1118.319d50949355.pmtiles",
+   "bytes": 38729,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1118.319d50949355.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1119,
+   "file": "11-621-1119.689dea883090.pmtiles",
+   "bytes": 30362,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1119.689dea883090.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1120,
+   "file": "11-621-1120.b04fad06f46a.pmtiles",
+   "bytes": 28271,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1120.b04fad06f46a.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1122,
+   "file": "11-621-1122.eaade3ae8ac3.pmtiles",
+   "bytes": 59058,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1122.eaade3ae8ac3.pmtiles"
+  },
+  {
+   "x": 621,
+   "y": 1123,
+   "file": "11-621-1123.cc12e9ab08a0.pmtiles",
+   "bytes": 21573,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-arequipa-2026-10-09/11-621-1123.cc12e9ab08a0.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-callao",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T20:00:30.930Z",
+ "publishedAt": "2026-10-09T20:00:36.810Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-callao-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -77.2512,
+  -12.12054,
+  -77.07672,
+  -11.81783
+ ],
+ "overview": {
+  "file": "overview.b5dd86095dfb.pmtiles",
+  "bytes": 326303,
+  "tiles": 13,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/overview.b5dd86095dfb.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 584,
+   "y": 1091,
+   "file": "11-584-1091.e330bc51644c.pmtiles",
+   "bytes": 55891,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/11-584-1091.e330bc51644c.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1093,
+   "file": "11-584-1093.ec71eab62a97.pmtiles",
+   "bytes": 48173,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/11-584-1093.ec71eab62a97.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1091,
+   "file": "11-585-1091.f8b9298e7ef9.pmtiles",
+   "bytes": 672403,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/11-585-1091.f8b9298e7ef9.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1092,
+   "file": "11-585-1092.0ed1518664d5.pmtiles",
+   "bytes": 2488162,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/11-585-1092.0ed1518664d5.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1093,
+   "file": "11-585-1093.8ee5491dce72.pmtiles",
+   "bytes": 1671872,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-callao-2026-10-09/11-585-1093.8ee5491dce72.pmtiles"
+  }
+ ]
+}

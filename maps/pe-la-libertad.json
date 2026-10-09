@@ -1,0 +1,1437 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "pe-la-libertad",
+ "source": "pe.pmtiles",
+ "builtAt": "2026-10-09T21:07:53.958Z",
+ "publishedAt": "2026-10-09T21:08:40.783Z",
+ "host": "github",
+ "releases": [
+  "maps-pe-la-libertad-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -79.69093,
+  -8.97089,
+  -76.90124,
+  -6.94145
+ ],
+ "overview": {
+  "file": "overview.937b72592743.pmtiles",
+  "bytes": 1368979,
+  "tiles": 105,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/overview.937b72592743.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 570,
+   "y": 1063,
+   "file": "11-570-1063.0d3c8147858d.pmtiles",
+   "bytes": 56916,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-570-1063.0d3c8147858d.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 1064,
+   "file": "11-570-1064.d28e913173d7.pmtiles",
+   "bytes": 69039,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-570-1064.d28e913173d7.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1063,
+   "file": "11-571-1063.3727c32c1477.pmtiles",
+   "bytes": 77336,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-571-1063.3727c32c1477.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1064,
+   "file": "11-571-1064.7817bce5389f.pmtiles",
+   "bytes": 205845,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-571-1064.7817bce5389f.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1065,
+   "file": "11-571-1065.afa1a18e9624.pmtiles",
+   "bytes": 302989,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-571-1065.afa1a18e9624.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 1066,
+   "file": "11-571-1066.304891f19695.pmtiles",
+   "bytes": 230256,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-571-1066.304891f19695.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1064,
+   "file": "11-572-1064.b3785f44aa11.pmtiles",
+   "bytes": 108603,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1064.b3785f44aa11.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1065,
+   "file": "11-572-1065.d540d052ac72.pmtiles",
+   "bytes": 297742,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1065.d540d052ac72.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1066,
+   "file": "11-572-1066.16994f62eaa2.pmtiles",
+   "bytes": 64442,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1066.16994f62eaa2.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1067,
+   "file": "11-572-1067.1c6d381ef96b.pmtiles",
+   "bytes": 92047,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1067.1c6d381ef96b.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1068,
+   "file": "11-572-1068.d845811865b3.pmtiles",
+   "bytes": 148635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1068.d845811865b3.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 1069,
+   "file": "11-572-1069.8fbd077a3a92.pmtiles",
+   "bytes": 22825,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-572-1069.8fbd077a3a92.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1063,
+   "file": "11-573-1063.d114d7dfe0a2.pmtiles",
+   "bytes": 78863,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1063.d114d7dfe0a2.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1064,
+   "file": "11-573-1064.7497e5274805.pmtiles",
+   "bytes": 84538,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1064.7497e5274805.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1065,
+   "file": "11-573-1065.526ca17c9ce9.pmtiles",
+   "bytes": 64281,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1065.526ca17c9ce9.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1067,
+   "file": "11-573-1067.ebe5ca5d5e17.pmtiles",
+   "bytes": 41922,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1067.ebe5ca5d5e17.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1068,
+   "file": "11-573-1068.3aaa340066a9.pmtiles",
+   "bytes": 220596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1068.3aaa340066a9.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1069,
+   "file": "11-573-1069.73a0bb2b1791.pmtiles",
+   "bytes": 166080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1069.73a0bb2b1791.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 1070,
+   "file": "11-573-1070.54069439d22d.pmtiles",
+   "bytes": 114991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-573-1070.54069439d22d.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1063,
+   "file": "11-574-1063.7ea97f260d10.pmtiles",
+   "bytes": 67168,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1063.7ea97f260d10.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1064,
+   "file": "11-574-1064.eee53248b7da.pmtiles",
+   "bytes": 149168,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1064.eee53248b7da.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1065,
+   "file": "11-574-1065.b7ef194329d3.pmtiles",
+   "bytes": 105555,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1065.b7ef194329d3.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1066,
+   "file": "11-574-1066.5c2deaed5bff.pmtiles",
+   "bytes": 45841,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1066.5c2deaed5bff.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1067,
+   "file": "11-574-1067.cf8dcb0c62fc.pmtiles",
+   "bytes": 41985,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1067.cf8dcb0c62fc.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1068,
+   "file": "11-574-1068.5c12e4d8a89c.pmtiles",
+   "bytes": 49538,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1068.5c12e4d8a89c.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1069,
+   "file": "11-574-1069.76be93a1aa04.pmtiles",
+   "bytes": 280571,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1069.76be93a1aa04.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1070,
+   "file": "11-574-1070.1278a83b49de.pmtiles",
+   "bytes": 1566620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1070.1278a83b49de.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 1071,
+   "file": "11-574-1071.4a56932241fb.pmtiles",
+   "bytes": 19977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-574-1071.4a56932241fb.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1063,
+   "file": "11-575-1063.0913cd2fd7f5.pmtiles",
+   "bytes": 120536,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1063.0913cd2fd7f5.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1064,
+   "file": "11-575-1064.2f4bfd0faf2c.pmtiles",
+   "bytes": 193020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1064.2f4bfd0faf2c.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1065,
+   "file": "11-575-1065.74ad7cdac7e1.pmtiles",
+   "bytes": 163304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1065.74ad7cdac7e1.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1066,
+   "file": "11-575-1066.af9fb8f0e4c7.pmtiles",
+   "bytes": 160813,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1066.af9fb8f0e4c7.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1067,
+   "file": "11-575-1067.52b7b9fa2cff.pmtiles",
+   "bytes": 43619,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1067.52b7b9fa2cff.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1068,
+   "file": "11-575-1068.decc48e1631c.pmtiles",
+   "bytes": 73407,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1068.decc48e1631c.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1069,
+   "file": "11-575-1069.2404d9880b36.pmtiles",
+   "bytes": 142295,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1069.2404d9880b36.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1070,
+   "file": "11-575-1070.1c1d6a9b6b4c.pmtiles",
+   "bytes": 104787,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1070.1c1d6a9b6b4c.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1071,
+   "file": "11-575-1071.b70fd58fa320.pmtiles",
+   "bytes": 106982,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1071.b70fd58fa320.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 1072,
+   "file": "11-575-1072.2b016aa2e782.pmtiles",
+   "bytes": 163423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-575-1072.2b016aa2e782.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1063,
+   "file": "11-576-1063.8f7f0aaf7f98.pmtiles",
+   "bytes": 91947,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1063.8f7f0aaf7f98.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1064,
+   "file": "11-576-1064.d317d2268676.pmtiles",
+   "bytes": 204729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1064.d317d2268676.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1065,
+   "file": "11-576-1065.bbcf86c6aa0b.pmtiles",
+   "bytes": 157698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1065.bbcf86c6aa0b.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1066,
+   "file": "11-576-1066.3a0d18e92f2f.pmtiles",
+   "bytes": 84869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1066.3a0d18e92f2f.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1067,
+   "file": "11-576-1067.fff27759c6f9.pmtiles",
+   "bytes": 106842,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1067.fff27759c6f9.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1068,
+   "file": "11-576-1068.1320118e3e19.pmtiles",
+   "bytes": 148957,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1068.1320118e3e19.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1069,
+   "file": "11-576-1069.b0732459952c.pmtiles",
+   "bytes": 173690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1069.b0732459952c.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1070,
+   "file": "11-576-1070.cd3d97b7a694.pmtiles",
+   "bytes": 109130,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1070.cd3d97b7a694.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1071,
+   "file": "11-576-1071.fa4dff817da5.pmtiles",
+   "bytes": 66273,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1071.fa4dff817da5.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1072,
+   "file": "11-576-1072.ab6a2ee525c0.pmtiles",
+   "bytes": 244472,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1072.ab6a2ee525c0.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1073,
+   "file": "11-576-1073.1a68e28fe4e1.pmtiles",
+   "bytes": 111910,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1073.1a68e28fe4e1.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1074,
+   "file": "11-576-1074.a2ff0a0c6b35.pmtiles",
+   "bytes": 56246,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1074.a2ff0a0c6b35.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 1075,
+   "file": "11-576-1075.31cc1cd58359.pmtiles",
+   "bytes": 54446,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-576-1075.31cc1cd58359.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1063,
+   "file": "11-577-1063.232642f85126.pmtiles",
+   "bytes": 100768,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1063.232642f85126.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1064,
+   "file": "11-577-1064.6fb718a7619c.pmtiles",
+   "bytes": 569218,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1064.6fb718a7619c.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1065,
+   "file": "11-577-1065.bda95b6dd8d0.pmtiles",
+   "bytes": 249815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1065.bda95b6dd8d0.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1066,
+   "file": "11-577-1066.18095ed7748d.pmtiles",
+   "bytes": 133286,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1066.18095ed7748d.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1067,
+   "file": "11-577-1067.a18a56c8d259.pmtiles",
+   "bytes": 175767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1067.a18a56c8d259.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1068,
+   "file": "11-577-1068.cd345349dce1.pmtiles",
+   "bytes": 219726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1068.cd345349dce1.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1069,
+   "file": "11-577-1069.136a097e494a.pmtiles",
+   "bytes": 283645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1069.136a097e494a.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1070,
+   "file": "11-577-1070.1d55ee224011.pmtiles",
+   "bytes": 177131,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1070.1d55ee224011.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1071,
+   "file": "11-577-1071.d2d894a6db61.pmtiles",
+   "bytes": 68275,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1071.d2d894a6db61.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1072,
+   "file": "11-577-1072.2586c8d43970.pmtiles",
+   "bytes": 38289,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1072.2586c8d43970.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1073,
+   "file": "11-577-1073.347bdc4b1518.pmtiles",
+   "bytes": 42848,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1073.347bdc4b1518.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1074,
+   "file": "11-577-1074.bb5da174c350.pmtiles",
+   "bytes": 88066,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1074.bb5da174c350.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 1075,
+   "file": "11-577-1075.34cd0e6d4a9f.pmtiles",
+   "bytes": 57598,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-577-1075.34cd0e6d4a9f.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1063,
+   "file": "11-578-1063.1758c7caaa74.pmtiles",
+   "bytes": 120905,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1063.1758c7caaa74.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1064,
+   "file": "11-578-1064.fa3365832417.pmtiles",
+   "bytes": 239534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1064.fa3365832417.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1065,
+   "file": "11-578-1065.a2c336fb6e75.pmtiles",
+   "bytes": 229804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1065.a2c336fb6e75.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1066,
+   "file": "11-578-1066.65f0be150fb1.pmtiles",
+   "bytes": 144038,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1066.65f0be150fb1.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1067,
+   "file": "11-578-1067.ed2f2f7e7d6e.pmtiles",
+   "bytes": 152973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1067.ed2f2f7e7d6e.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1068,
+   "file": "11-578-1068.d0531ea7be13.pmtiles",
+   "bytes": 199066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1068.d0531ea7be13.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1069,
+   "file": "11-578-1069.a728b92aadc8.pmtiles",
+   "bytes": 151423,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1069.a728b92aadc8.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1070,
+   "file": "11-578-1070.eaca56c27c95.pmtiles",
+   "bytes": 142351,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1070.eaca56c27c95.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1071,
+   "file": "11-578-1071.9212b9a3426b.pmtiles",
+   "bytes": 160768,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1071.9212b9a3426b.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1072,
+   "file": "11-578-1072.0d7e5c35be5b.pmtiles",
+   "bytes": 65164,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1072.0d7e5c35be5b.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1073,
+   "file": "11-578-1073.7c960319290e.pmtiles",
+   "bytes": 37601,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1073.7c960319290e.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 1074,
+   "file": "11-578-1074.e58669870827.pmtiles",
+   "bytes": 24668,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-578-1074.e58669870827.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1063,
+   "file": "11-579-1063.5d03d55c0464.pmtiles",
+   "bytes": 113706,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1063.5d03d55c0464.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1064,
+   "file": "11-579-1064.f0ffb5d5ffb5.pmtiles",
+   "bytes": 203508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1064.f0ffb5d5ffb5.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1065,
+   "file": "11-579-1065.21b9642aca86.pmtiles",
+   "bytes": 230944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1065.21b9642aca86.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1066,
+   "file": "11-579-1066.0271f25f46cc.pmtiles",
+   "bytes": 169902,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1066.0271f25f46cc.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1067,
+   "file": "11-579-1067.f76916597759.pmtiles",
+   "bytes": 232006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1067.f76916597759.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1068,
+   "file": "11-579-1068.e66cde30f349.pmtiles",
+   "bytes": 226140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1068.e66cde30f349.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1069,
+   "file": "11-579-1069.54a4b7e4e9ff.pmtiles",
+   "bytes": 153701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1069.54a4b7e4e9ff.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1070,
+   "file": "11-579-1070.c69d73fcd84d.pmtiles",
+   "bytes": 217017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1070.c69d73fcd84d.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1071,
+   "file": "11-579-1071.a91b3a992ef7.pmtiles",
+   "bytes": 129876,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1071.a91b3a992ef7.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1072,
+   "file": "11-579-1072.c7b6623986a2.pmtiles",
+   "bytes": 83305,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1072.c7b6623986a2.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1073,
+   "file": "11-579-1073.49eabe499d7d.pmtiles",
+   "bytes": 54396,
+   "tiles": 60,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1073.49eabe499d7d.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1074,
+   "file": "11-579-1074.6c4062cff0f7.pmtiles",
+   "bytes": 74049,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1074.6c4062cff0f7.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 1075,
+   "file": "11-579-1075.943e0c8a41e0.pmtiles",
+   "bytes": 32007,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-579-1075.943e0c8a41e0.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1063,
+   "file": "11-580-1063.ba9af278e5aa.pmtiles",
+   "bytes": 78397,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1063.ba9af278e5aa.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1064,
+   "file": "11-580-1064.adf3b26dca82.pmtiles",
+   "bytes": 97525,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1064.adf3b26dca82.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1065,
+   "file": "11-580-1065.049704d0efdc.pmtiles",
+   "bytes": 154416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1065.049704d0efdc.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1066,
+   "file": "11-580-1066.54007bbecd06.pmtiles",
+   "bytes": 123628,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1066.54007bbecd06.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1067,
+   "file": "11-580-1067.ca660da7baeb.pmtiles",
+   "bytes": 180096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1067.ca660da7baeb.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1068,
+   "file": "11-580-1068.3addf6d9cf64.pmtiles",
+   "bytes": 302434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1068.3addf6d9cf64.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1069,
+   "file": "11-580-1069.36edf5f9e793.pmtiles",
+   "bytes": 150415,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1069.36edf5f9e793.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1070,
+   "file": "11-580-1070.218d7af3bcdd.pmtiles",
+   "bytes": 163992,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1070.218d7af3bcdd.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1071,
+   "file": "11-580-1071.791c3a5ffcc7.pmtiles",
+   "bytes": 149559,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1071.791c3a5ffcc7.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1072,
+   "file": "11-580-1072.49317d10e956.pmtiles",
+   "bytes": 137538,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1072.49317d10e956.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1073,
+   "file": "11-580-1073.ff5a5ce1fd43.pmtiles",
+   "bytes": 158650,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1073.ff5a5ce1fd43.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1074,
+   "file": "11-580-1074.f158042afd8b.pmtiles",
+   "bytes": 170363,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1074.f158042afd8b.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 1075,
+   "file": "11-580-1075.38621ef698c0.pmtiles",
+   "bytes": 39364,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-580-1075.38621ef698c0.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1063,
+   "file": "11-581-1063.ce1d5922e434.pmtiles",
+   "bytes": 52632,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1063.ce1d5922e434.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1064,
+   "file": "11-581-1064.de6d2426e50b.pmtiles",
+   "bytes": 125123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1064.de6d2426e50b.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1065,
+   "file": "11-581-1065.1a98871bfb45.pmtiles",
+   "bytes": 60940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1065.1a98871bfb45.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1066,
+   "file": "11-581-1066.2a9b449be631.pmtiles",
+   "bytes": 99338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1066.2a9b449be631.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1067,
+   "file": "11-581-1067.b5aa5e504dd9.pmtiles",
+   "bytes": 163740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1067.b5aa5e504dd9.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1068,
+   "file": "11-581-1068.28ddcee2110f.pmtiles",
+   "bytes": 216311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1068.28ddcee2110f.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1069,
+   "file": "11-581-1069.7b247f3c5236.pmtiles",
+   "bytes": 129685,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1069.7b247f3c5236.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1070,
+   "file": "11-581-1070.0ef20ef5a8dc.pmtiles",
+   "bytes": 111572,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1070.0ef20ef5a8dc.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1071,
+   "file": "11-581-1071.cea08cae778e.pmtiles",
+   "bytes": 92821,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1071.cea08cae778e.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1072,
+   "file": "11-581-1072.b6ec8f740ca4.pmtiles",
+   "bytes": 116061,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1072.b6ec8f740ca4.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1073,
+   "file": "11-581-1073.8e48496486b6.pmtiles",
+   "bytes": 107581,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1073.8e48496486b6.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1074,
+   "file": "11-581-1074.6c590723c5a1.pmtiles",
+   "bytes": 174539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1074.6c590723c5a1.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 1075,
+   "file": "11-581-1075.39ebdf44a030.pmtiles",
+   "bytes": 122414,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-581-1075.39ebdf44a030.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1063,
+   "file": "11-582-1063.c443221bcaec.pmtiles",
+   "bytes": 47720,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1063.c443221bcaec.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1064,
+   "file": "11-582-1064.414693b75006.pmtiles",
+   "bytes": 84555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1064.414693b75006.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1065,
+   "file": "11-582-1065.99cb33356511.pmtiles",
+   "bytes": 79239,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1065.99cb33356511.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1066,
+   "file": "11-582-1066.598654bca1ca.pmtiles",
+   "bytes": 102302,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1066.598654bca1ca.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1067,
+   "file": "11-582-1067.d6a505f9942c.pmtiles",
+   "bytes": 109283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1067.d6a505f9942c.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1068,
+   "file": "11-582-1068.3e49e16a5676.pmtiles",
+   "bytes": 160708,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1068.3e49e16a5676.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1069,
+   "file": "11-582-1069.cd6b120f431e.pmtiles",
+   "bytes": 177111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1069.cd6b120f431e.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1070,
+   "file": "11-582-1070.84a3b969303f.pmtiles",
+   "bytes": 150414,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1070.84a3b969303f.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1071,
+   "file": "11-582-1071.686b2d750443.pmtiles",
+   "bytes": 100462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1071.686b2d750443.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1072,
+   "file": "11-582-1072.18b8228d812c.pmtiles",
+   "bytes": 227048,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1072.18b8228d812c.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1073,
+   "file": "11-582-1073.c830d1925412.pmtiles",
+   "bytes": 240412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1073.c830d1925412.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1074,
+   "file": "11-582-1074.84c2afb375a8.pmtiles",
+   "bytes": 131739,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1074.84c2afb375a8.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 1075,
+   "file": "11-582-1075.a53f599fd3f0.pmtiles",
+   "bytes": 56394,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-582-1075.a53f599fd3f0.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1063,
+   "file": "11-583-1063.172b0b02e2c5.pmtiles",
+   "bytes": 19066,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1063.172b0b02e2c5.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1064,
+   "file": "11-583-1064.ce45c5c196a3.pmtiles",
+   "bytes": 43308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1064.ce45c5c196a3.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1065,
+   "file": "11-583-1065.33ee3ba91a49.pmtiles",
+   "bytes": 51617,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1065.33ee3ba91a49.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1066,
+   "file": "11-583-1066.7841502fd3c3.pmtiles",
+   "bytes": 73410,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1066.7841502fd3c3.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1067,
+   "file": "11-583-1067.d07d50d97b46.pmtiles",
+   "bytes": 91026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1067.d07d50d97b46.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1068,
+   "file": "11-583-1068.555c64624ce5.pmtiles",
+   "bytes": 59501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1068.555c64624ce5.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1069,
+   "file": "11-583-1069.d171f7cbfbc5.pmtiles",
+   "bytes": 111492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1069.d171f7cbfbc5.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1070,
+   "file": "11-583-1070.c2e15fe4b37f.pmtiles",
+   "bytes": 204299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1070.c2e15fe4b37f.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1071,
+   "file": "11-583-1071.2ceeeb19c831.pmtiles",
+   "bytes": 172290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1071.2ceeeb19c831.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1072,
+   "file": "11-583-1072.b837b628fa97.pmtiles",
+   "bytes": 140106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1072.b837b628fa97.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1073,
+   "file": "11-583-1073.bb5d76a249e8.pmtiles",
+   "bytes": 169050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1073.bb5d76a249e8.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1074,
+   "file": "11-583-1074.29afcf26c874.pmtiles",
+   "bytes": 317315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1074.29afcf26c874.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 1075,
+   "file": "11-583-1075.de37e64fae38.pmtiles",
+   "bytes": 86260,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-583-1075.de37e64fae38.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1064,
+   "file": "11-584-1064.54c5a2665e6d.pmtiles",
+   "bytes": 24111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1064.54c5a2665e6d.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1065,
+   "file": "11-584-1065.0ff7a5005a25.pmtiles",
+   "bytes": 27551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1065.0ff7a5005a25.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1066,
+   "file": "11-584-1066.297513878c21.pmtiles",
+   "bytes": 37389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1066.297513878c21.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1067,
+   "file": "11-584-1067.238cb4b651db.pmtiles",
+   "bytes": 41211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1067.238cb4b651db.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1068,
+   "file": "11-584-1068.c1febc670cd8.pmtiles",
+   "bytes": 47066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1068.c1febc670cd8.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1069,
+   "file": "11-584-1069.26387485855d.pmtiles",
+   "bytes": 66625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1069.26387485855d.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1070,
+   "file": "11-584-1070.fcd00fc29b60.pmtiles",
+   "bytes": 72881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1070.fcd00fc29b60.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1071,
+   "file": "11-584-1071.10b831b76a66.pmtiles",
+   "bytes": 190797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1071.10b831b76a66.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1072,
+   "file": "11-584-1072.3eb3e44c7236.pmtiles",
+   "bytes": 172338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1072.3eb3e44c7236.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1073,
+   "file": "11-584-1073.e4ee2b99e056.pmtiles",
+   "bytes": 109977,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1073.e4ee2b99e056.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1074,
+   "file": "11-584-1074.089f6a7693fc.pmtiles",
+   "bytes": 144067,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1074.089f6a7693fc.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 1075,
+   "file": "11-584-1075.4ffb703e663d.pmtiles",
+   "bytes": 64701,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-584-1075.4ffb703e663d.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1064,
+   "file": "11-585-1064.a709e2c47e45.pmtiles",
+   "bytes": 46849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1064.a709e2c47e45.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1065,
+   "file": "11-585-1065.3465918f5319.pmtiles",
+   "bytes": 50726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1065.3465918f5319.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1066,
+   "file": "11-585-1066.ecfb38d8d56e.pmtiles",
+   "bytes": 34605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1066.ecfb38d8d56e.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1067,
+   "file": "11-585-1067.e947065ca68f.pmtiles",
+   "bytes": 24377,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1067.e947065ca68f.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1068,
+   "file": "11-585-1068.0e5035cfeaf9.pmtiles",
+   "bytes": 31284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1068.0e5035cfeaf9.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1069,
+   "file": "11-585-1069.ff1ee98b38b6.pmtiles",
+   "bytes": 56533,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1069.ff1ee98b38b6.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1070,
+   "file": "11-585-1070.8a4a7b6cfcdc.pmtiles",
+   "bytes": 56333,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1070.8a4a7b6cfcdc.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1071,
+   "file": "11-585-1071.74d6453582f7.pmtiles",
+   "bytes": 46584,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1071.74d6453582f7.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1072,
+   "file": "11-585-1072.311d81b36dc1.pmtiles",
+   "bytes": 88913,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1072.311d81b36dc1.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1073,
+   "file": "11-585-1073.0cc81425533e.pmtiles",
+   "bytes": 154359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1073.0cc81425533e.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1074,
+   "file": "11-585-1074.617aae0b3485.pmtiles",
+   "bytes": 118890,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1074.617aae0b3485.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 1075,
+   "file": "11-585-1075.771e2016bda3.pmtiles",
+   "bytes": 42109,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-585-1075.771e2016bda3.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1063,
+   "file": "11-586-1063.faeba6c5d06a.pmtiles",
+   "bytes": 31587,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1063.faeba6c5d06a.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1064,
+   "file": "11-586-1064.1fe7c0cc0a7a.pmtiles",
+   "bytes": 53456,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1064.1fe7c0cc0a7a.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1065,
+   "file": "11-586-1065.394a92cec945.pmtiles",
+   "bytes": 68002,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1065.394a92cec945.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1066,
+   "file": "11-586-1066.9e9502b73450.pmtiles",
+   "bytes": 36761,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1066.9e9502b73450.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1069,
+   "file": "11-586-1069.9c225bde5075.pmtiles",
+   "bytes": 18730,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1069.9c225bde5075.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1070,
+   "file": "11-586-1070.faedab2ccec1.pmtiles",
+   "bytes": 43139,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1070.faedab2ccec1.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1071,
+   "file": "11-586-1071.b418051bcf08.pmtiles",
+   "bytes": 50126,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1071.b418051bcf08.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1072,
+   "file": "11-586-1072.dde7e8ff2444.pmtiles",
+   "bytes": 71014,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1072.dde7e8ff2444.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1073,
+   "file": "11-586-1073.005797e447c5.pmtiles",
+   "bytes": 61043,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1073.005797e447c5.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1074,
+   "file": "11-586-1074.d01618ba96df.pmtiles",
+   "bytes": 40870,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1074.d01618ba96df.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 1075,
+   "file": "11-586-1075.a12c0cca7b76.pmtiles",
+   "bytes": 32738,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-pe-la-libertad-2026-10-09/11-586-1075.a12c0cca7b76.pmtiles"
+  }
+ ]
+}
