@@ -1,0 +1,597 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-dong-nai",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:52:24.609Z",
+ "publishedAt": "2026-10-09T18:52:47.733Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-dong-nai-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  106.41161,
+  10.57921,
+  107.57783,
+  12.29845
+ ],
+ "overview": {
+  "file": "overview.e3ac18335928.pmtiles",
+  "bytes": 1158316,
+  "tiles": 49,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/overview.e3ac18335928.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1629,
+   "y": 955,
+   "file": "11-1629-955.dfa268e3d3b6.pmtiles",
+   "bytes": 42541,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-955.dfa268e3d3b6.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 956,
+   "file": "11-1629-956.920abb9ce55b.pmtiles",
+   "bytes": 66714,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-956.920abb9ce55b.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 957,
+   "file": "11-1629-957.758f4dc869af.pmtiles",
+   "bytes": 82630,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-957.758f4dc869af.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 958,
+   "file": "11-1629-958.08da97b7cb44.pmtiles",
+   "bytes": 116548,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-958.08da97b7cb44.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 959,
+   "file": "11-1629-959.ca2a8e0b1949.pmtiles",
+   "bytes": 172734,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-959.ca2a8e0b1949.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 960,
+   "file": "11-1629-960.cf37f6730543.pmtiles",
+   "bytes": 360185,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-960.cf37f6730543.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 961,
+   "file": "11-1629-961.66073402780f.pmtiles",
+   "bytes": 432442,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-961.66073402780f.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 962,
+   "file": "11-1629-962.fbfa3b5d8352.pmtiles",
+   "bytes": 356156,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-962.fbfa3b5d8352.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 963,
+   "file": "11-1629-963.ae6120a794c2.pmtiles",
+   "bytes": 264647,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1629-963.ae6120a794c2.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 955,
+   "file": "11-1630-955.d3a69106527c.pmtiles",
+   "bytes": 163218,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-955.d3a69106527c.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 956,
+   "file": "11-1630-956.b0927d96b92d.pmtiles",
+   "bytes": 330075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-956.b0927d96b92d.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 957,
+   "file": "11-1630-957.10cc6e016f68.pmtiles",
+   "bytes": 320592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-957.10cc6e016f68.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 958,
+   "file": "11-1630-958.dce481c181fc.pmtiles",
+   "bytes": 280851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-958.dce481c181fc.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 959,
+   "file": "11-1630-959.eba2094bd675.pmtiles",
+   "bytes": 216993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-959.eba2094bd675.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 960,
+   "file": "11-1630-960.68c24e1e6579.pmtiles",
+   "bytes": 754956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-960.68c24e1e6579.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 961,
+   "file": "11-1630-961.ae5b1f1edc89.pmtiles",
+   "bytes": 1830881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-961.ae5b1f1edc89.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 962,
+   "file": "11-1630-962.27761797a6da.pmtiles",
+   "bytes": 4447959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-962.27761797a6da.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 963,
+   "file": "11-1630-963.d6292fd126e7.pmtiles",
+   "bytes": 420416,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1630-963.d6292fd126e7.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 954,
+   "file": "11-1631-954.48d80ac4992d.pmtiles",
+   "bytes": 36886,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-954.48d80ac4992d.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 955,
+   "file": "11-1631-955.22a20db58aec.pmtiles",
+   "bytes": 279565,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-955.22a20db58aec.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 956,
+   "file": "11-1631-956.6171b7a9ea54.pmtiles",
+   "bytes": 234314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-956.6171b7a9ea54.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 957,
+   "file": "11-1631-957.34702b28c347.pmtiles",
+   "bytes": 155401,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-957.34702b28c347.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 958,
+   "file": "11-1631-958.50ca2682dd7d.pmtiles",
+   "bytes": 275029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-958.50ca2682dd7d.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 959,
+   "file": "11-1631-959.01a0cb98d7f5.pmtiles",
+   "bytes": 220363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-959.01a0cb98d7f5.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 960,
+   "file": "11-1631-960.f7c6f3f492c1.pmtiles",
+   "bytes": 532701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-960.f7c6f3f492c1.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 961,
+   "file": "11-1631-961.95d17e9d03d3.pmtiles",
+   "bytes": 2820294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-961.95d17e9d03d3.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 962,
+   "file": "11-1631-962.eaa46ad11aba.pmtiles",
+   "bytes": 2703712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-962.eaa46ad11aba.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 963,
+   "file": "11-1631-963.b6c09fc1b84c.pmtiles",
+   "bytes": 434124,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1631-963.b6c09fc1b84c.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 954,
+   "file": "11-1632-954.43399fe8518b.pmtiles",
+   "bytes": 45530,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-954.43399fe8518b.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 955,
+   "file": "11-1632-955.9166c2427a39.pmtiles",
+   "bytes": 153037,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-955.9166c2427a39.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 956,
+   "file": "11-1632-956.47913b71b8e8.pmtiles",
+   "bytes": 253394,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-956.47913b71b8e8.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 957,
+   "file": "11-1632-957.a84804677d16.pmtiles",
+   "bytes": 282054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-957.a84804677d16.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 958,
+   "file": "11-1632-958.304fde59d530.pmtiles",
+   "bytes": 166659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-958.304fde59d530.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 959,
+   "file": "11-1632-959.958aec67af38.pmtiles",
+   "bytes": 90270,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-959.958aec67af38.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 960,
+   "file": "11-1632-960.2e42a143d02f.pmtiles",
+   "bytes": 435967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-960.2e42a143d02f.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 961,
+   "file": "11-1632-961.3222c185cdef.pmtiles",
+   "bytes": 960148,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-961.3222c185cdef.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 962,
+   "file": "11-1632-962.17f7a3cc841e.pmtiles",
+   "bytes": 711834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-962.17f7a3cc841e.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 963,
+   "file": "11-1632-963.1cfae80c82ed.pmtiles",
+   "bytes": 392342,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1632-963.1cfae80c82ed.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 953,
+   "file": "11-1633-953.803c4160a46c.pmtiles",
+   "bytes": 27173,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-953.803c4160a46c.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 954,
+   "file": "11-1633-954.b9edad072525.pmtiles",
+   "bytes": 100999,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-954.b9edad072525.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 955,
+   "file": "11-1633-955.bad5c8ad67af.pmtiles",
+   "bytes": 152640,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-955.bad5c8ad67af.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 956,
+   "file": "11-1633-956.b95d43231a14.pmtiles",
+   "bytes": 235683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-956.b95d43231a14.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 957,
+   "file": "11-1633-957.91fd9099e3dd.pmtiles",
+   "bytes": 115410,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-957.91fd9099e3dd.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 958,
+   "file": "11-1633-958.d980778561e8.pmtiles",
+   "bytes": 58574,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-958.d980778561e8.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 959,
+   "file": "11-1633-959.bf4f3767857e.pmtiles",
+   "bytes": 123359,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-959.bf4f3767857e.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 960,
+   "file": "11-1633-960.781a1675c0bf.pmtiles",
+   "bytes": 368337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-960.781a1675c0bf.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 961,
+   "file": "11-1633-961.e08d13ac03ca.pmtiles",
+   "bytes": 488568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-961.e08d13ac03ca.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 962,
+   "file": "11-1633-962.616e593d5b19.pmtiles",
+   "bytes": 352076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-962.616e593d5b19.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 963,
+   "file": "11-1633-963.166ac4826876.pmtiles",
+   "bytes": 366694,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1633-963.166ac4826876.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 953,
+   "file": "11-1634-953.71a1cc719b62.pmtiles",
+   "bytes": 59846,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-953.71a1cc719b62.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 954,
+   "file": "11-1634-954.7f3dd2cd0f55.pmtiles",
+   "bytes": 37902,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-954.7f3dd2cd0f55.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 955,
+   "file": "11-1634-955.fb1995ec43f5.pmtiles",
+   "bytes": 116831,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-955.fb1995ec43f5.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 956,
+   "file": "11-1634-956.5aaed3a5c8b5.pmtiles",
+   "bytes": 111237,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-956.5aaed3a5c8b5.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 957,
+   "file": "11-1634-957.2ada9a567ecd.pmtiles",
+   "bytes": 202158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-957.2ada9a567ecd.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 958,
+   "file": "11-1634-958.503706f033c4.pmtiles",
+   "bytes": 102971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-958.503706f033c4.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 959,
+   "file": "11-1634-959.3ce0118dcf16.pmtiles",
+   "bytes": 299388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-959.3ce0118dcf16.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 960,
+   "file": "11-1634-960.f4ed365722c2.pmtiles",
+   "bytes": 303866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-960.f4ed365722c2.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 961,
+   "file": "11-1634-961.6ec519b4055b.pmtiles",
+   "bytes": 494794,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-961.6ec519b4055b.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 962,
+   "file": "11-1634-962.35aa57359d15.pmtiles",
+   "bytes": 434203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-962.35aa57359d15.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 963,
+   "file": "11-1634-963.21784b69413a.pmtiles",
+   "bytes": 290680,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1634-963.21784b69413a.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 953,
+   "file": "11-1635-953.4d0dd9c1e9b8.pmtiles",
+   "bytes": 141759,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-953.4d0dd9c1e9b8.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 954,
+   "file": "11-1635-954.047132ef98dd.pmtiles",
+   "bytes": 181979,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-954.047132ef98dd.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 955,
+   "file": "11-1635-955.ca9d8d348408.pmtiles",
+   "bytes": 244546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-955.ca9d8d348408.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 956,
+   "file": "11-1635-956.9c586ce23cd9.pmtiles",
+   "bytes": 139422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-956.9c586ce23cd9.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 957,
+   "file": "11-1635-957.2efc44fa6e61.pmtiles",
+   "bytes": 156932,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-957.2efc44fa6e61.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 958,
+   "file": "11-1635-958.5099d321693c.pmtiles",
+   "bytes": 268065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-958.5099d321693c.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 959,
+   "file": "11-1635-959.8645721c1ac4.pmtiles",
+   "bytes": 306670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-959.8645721c1ac4.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 960,
+   "file": "11-1635-960.f43a0b654f2c.pmtiles",
+   "bytes": 182448,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-960.f43a0b654f2c.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 961,
+   "file": "11-1635-961.2d89a45b73fb.pmtiles",
+   "bytes": 248686,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-961.2d89a45b73fb.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 962,
+   "file": "11-1635-962.fd4d9e1224e5.pmtiles",
+   "bytes": 184742,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-962.fd4d9e1224e5.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 963,
+   "file": "11-1635-963.83dc2bf177e7.pmtiles",
+   "bytes": 125454,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dong-nai-2026-10-09/11-1635-963.83dc2bf177e7.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-hai-phong",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:51:27.904Z",
+ "publishedAt": "2026-10-09T18:51:44.658Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-hai-phong-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  106.12423,
+  20.12375,
+  107.74126,
+  21.23699
+ ],
+ "overview": {
+  "file": "overview.09b5898a492f.pmtiles",
+  "bytes": 1187833,
+  "tiles": 46,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/overview.09b5898a492f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1627,
+   "y": 900,
+   "file": "11-1627-900.c6de6c2a7449.pmtiles",
+   "bytes": 505937,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-900.c6de6c2a7449.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 901,
+   "file": "11-1627-901.3665a02d7771.pmtiles",
+   "bytes": 348045,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-901.3665a02d7771.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 902,
+   "file": "11-1627-902.c907e9ed0922.pmtiles",
+   "bytes": 214416,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-902.c907e9ed0922.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 903,
+   "file": "11-1627-903.5669e92ff03c.pmtiles",
+   "bytes": 184805,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-903.5669e92ff03c.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 904,
+   "file": "11-1627-904.fa8fd8855877.pmtiles",
+   "bytes": 193053,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-904.fa8fd8855877.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 905,
+   "file": "11-1627-905.144df5264465.pmtiles",
+   "bytes": 252065,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-905.144df5264465.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 906,
+   "file": "11-1627-906.f527c835ac03.pmtiles",
+   "bytes": 185343,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-906.f527c835ac03.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 907,
+   "file": "11-1627-907.aac5b0e0f7ec.pmtiles",
+   "bytes": 57772,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1627-907.aac5b0e0f7ec.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 900,
+   "file": "11-1628-900.537cc7d84559.pmtiles",
+   "bytes": 598183,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-900.537cc7d84559.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 901,
+   "file": "11-1628-901.9f14c3353155.pmtiles",
+   "bytes": 737556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-901.9f14c3353155.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 902,
+   "file": "11-1628-902.196ddd2bf98e.pmtiles",
+   "bytes": 677994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-902.196ddd2bf98e.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 903,
+   "file": "11-1628-903.184278b17a64.pmtiles",
+   "bytes": 422416,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-903.184278b17a64.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 904,
+   "file": "11-1628-904.53aefbc5e3c2.pmtiles",
+   "bytes": 408856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-904.53aefbc5e3c2.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 905,
+   "file": "11-1628-905.959da3b023d1.pmtiles",
+   "bytes": 585050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-905.959da3b023d1.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 906,
+   "file": "11-1628-906.1ec7976fb788.pmtiles",
+   "bytes": 539337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-906.1ec7976fb788.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 907,
+   "file": "11-1628-907.69eb108e457f.pmtiles",
+   "bytes": 111551,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1628-907.69eb108e457f.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 900,
+   "file": "11-1629-900.c3324546b99d.pmtiles",
+   "bytes": 299444,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-900.c3324546b99d.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 901,
+   "file": "11-1629-901.0a7aa80db7f6.pmtiles",
+   "bytes": 569412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-901.0a7aa80db7f6.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 902,
+   "file": "11-1629-902.7690051f70bf.pmtiles",
+   "bytes": 540630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-902.7690051f70bf.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 903,
+   "file": "11-1629-903.9622b240eac3.pmtiles",
+   "bytes": 455153,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-903.9622b240eac3.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 904,
+   "file": "11-1629-904.117dd4ff1a53.pmtiles",
+   "bytes": 432478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-904.117dd4ff1a53.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 905,
+   "file": "11-1629-905.9cd315b5d1d4.pmtiles",
+   "bytes": 481946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-905.9cd315b5d1d4.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 906,
+   "file": "11-1629-906.f0020200479e.pmtiles",
+   "bytes": 327110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1629-906.f0020200479e.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 900,
+   "file": "11-1630-900.036ab5cf1869.pmtiles",
+   "bytes": 134392,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-900.036ab5cf1869.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 901,
+   "file": "11-1630-901.67e0d49017de.pmtiles",
+   "bytes": 547651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-901.67e0d49017de.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 902,
+   "file": "11-1630-902.ec9e8ee38099.pmtiles",
+   "bytes": 1169222,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-902.ec9e8ee38099.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 903,
+   "file": "11-1630-903.be5c95a0a09e.pmtiles",
+   "bytes": 500442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-903.be5c95a0a09e.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 904,
+   "file": "11-1630-904.0e9b992e8b0e.pmtiles",
+   "bytes": 230815,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-904.0e9b992e8b0e.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 905,
+   "file": "11-1630-905.ec8697a8fbdf.pmtiles",
+   "bytes": 196571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-905.ec8697a8fbdf.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 906,
+   "file": "11-1630-906.11f5df2ed033.pmtiles",
+   "bytes": 93241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1630-906.11f5df2ed033.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 900,
+   "file": "11-1631-900.1c593bd26a32.pmtiles",
+   "bytes": 141915,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1631-900.1c593bd26a32.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 901,
+   "file": "11-1631-901.1a5a4747182f.pmtiles",
+   "bytes": 431948,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1631-901.1a5a4747182f.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 902,
+   "file": "11-1631-902.ab5b19cd083b.pmtiles",
+   "bytes": 715390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1631-902.ab5b19cd083b.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 903,
+   "file": "11-1631-903.962110325eba.pmtiles",
+   "bytes": 274450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1631-903.962110325eba.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 900,
+   "file": "11-1632-900.8b88e8188f1c.pmtiles",
+   "bytes": 83889,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1632-900.8b88e8188f1c.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 901,
+   "file": "11-1632-901.bb3133ffe32c.pmtiles",
+   "bytes": 389923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1632-901.bb3133ffe32c.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 902,
+   "file": "11-1632-902.d1ca63b1fccd.pmtiles",
+   "bytes": 373848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1632-902.d1ca63b1fccd.pmtiles"
+  },
+  {
+   "x": 1632,
+   "y": 903,
+   "file": "11-1632-903.63b1da6eac1d.pmtiles",
+   "bytes": 163017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1632-903.63b1da6eac1d.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 900,
+   "file": "11-1633-900.773eb09422d2.pmtiles",
+   "bytes": 54770,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1633-900.773eb09422d2.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 901,
+   "file": "11-1633-901.4760df6479df.pmtiles",
+   "bytes": 319511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1633-901.4760df6479df.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 902,
+   "file": "11-1633-902.1a59c0010d9e.pmtiles",
+   "bytes": 404378,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1633-902.1a59c0010d9e.pmtiles"
+  },
+  {
+   "x": 1633,
+   "y": 903,
+   "file": "11-1633-903.f3124853ae9c.pmtiles",
+   "bytes": 212943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1633-903.f3124853ae9c.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 900,
+   "file": "11-1634-900.f385a5c9f2b2.pmtiles",
+   "bytes": 127171,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1634-900.f385a5c9f2b2.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 901,
+   "file": "11-1634-901.0b7b8ca3d684.pmtiles",
+   "bytes": 393818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1634-901.0b7b8ca3d684.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 902,
+   "file": "11-1634-902.f60c8502be7b.pmtiles",
+   "bytes": 153616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1634-902.f60c8502be7b.pmtiles"
+  },
+  {
+   "x": 1634,
+   "y": 903,
+   "file": "11-1634-903.391215cb35ae.pmtiles",
+   "bytes": 18585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1634-903.391215cb35ae.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 900,
+   "file": "11-1635-900.29a7ac60cfc5.pmtiles",
+   "bytes": 122082,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1635-900.29a7ac60cfc5.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 901,
+   "file": "11-1635-901.4720e45f8981.pmtiles",
+   "bytes": 271447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1635-901.4720e45f8981.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 902,
+   "file": "11-1635-902.acc3a3ea25b3.pmtiles",
+   "bytes": 97165,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1635-902.acc3a3ea25b3.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 903,
+   "file": "11-1635-903.e962cfea734c.pmtiles",
+   "bytes": 19442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1635-903.e962cfea734c.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 900,
+   "file": "11-1636-900.b31a3e22e169.pmtiles",
+   "bytes": 56471,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1636-900.b31a3e22e169.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 901,
+   "file": "11-1636-901.501119e959b0.pmtiles",
+   "bytes": 51469,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-hai-phong-2026-10-09/11-1636-901.501119e959b0.pmtiles"
+  }
+ ]
+}

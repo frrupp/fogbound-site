@@ -1,0 +1,581 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-dien-bien",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:54:06.787Z",
+ "publishedAt": "2026-10-09T18:54:26.973Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-dien-bien-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  102.14386,
+  20.89269,
+  103.59879,
+  22.54792
+ ],
+ "overview": {
+  "file": "overview.949c2360a483.pmtiles",
+  "bytes": 698346,
+  "tiles": 52,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/overview.949c2360a483.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1605,
+   "y": 892,
+   "file": "11-1605-892.2e17aa7f8664.pmtiles",
+   "bytes": 134329,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1605-892.2e17aa7f8664.pmtiles"
+  },
+  {
+   "x": 1605,
+   "y": 893,
+   "file": "11-1605-893.eb1cd072f7c3.pmtiles",
+   "bytes": 348671,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1605-893.eb1cd072f7c3.pmtiles"
+  },
+  {
+   "x": 1605,
+   "y": 894,
+   "file": "11-1605-894.fe5e887a6256.pmtiles",
+   "bytes": 100763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1605-894.fe5e887a6256.pmtiles"
+  },
+  {
+   "x": 1606,
+   "y": 892,
+   "file": "11-1606-892.6ec344310bb6.pmtiles",
+   "bytes": 160744,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1606-892.6ec344310bb6.pmtiles"
+  },
+  {
+   "x": 1606,
+   "y": 893,
+   "file": "11-1606-893.dbf8a497fff0.pmtiles",
+   "bytes": 493441,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1606-893.dbf8a497fff0.pmtiles"
+  },
+  {
+   "x": 1606,
+   "y": 894,
+   "file": "11-1606-894.20ebe14ac114.pmtiles",
+   "bytes": 185254,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1606-894.20ebe14ac114.pmtiles"
+  },
+  {
+   "x": 1606,
+   "y": 895,
+   "file": "11-1606-895.028d283b33a4.pmtiles",
+   "bytes": 26855,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1606-895.028d283b33a4.pmtiles"
+  },
+  {
+   "x": 1607,
+   "y": 892,
+   "file": "11-1607-892.627f10521478.pmtiles",
+   "bytes": 160247,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1607-892.627f10521478.pmtiles"
+  },
+  {
+   "x": 1607,
+   "y": 893,
+   "file": "11-1607-893.c04cf630fde2.pmtiles",
+   "bytes": 74927,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1607-893.c04cf630fde2.pmtiles"
+  },
+  {
+   "x": 1607,
+   "y": 894,
+   "file": "11-1607-894.65e24e56c8d0.pmtiles",
+   "bytes": 181649,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1607-894.65e24e56c8d0.pmtiles"
+  },
+  {
+   "x": 1607,
+   "y": 895,
+   "file": "11-1607-895.1dbcb377438f.pmtiles",
+   "bytes": 230982,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1607-895.1dbcb377438f.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 892,
+   "file": "11-1608-892.f3c902520f72.pmtiles",
+   "bytes": 166679,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-892.f3c902520f72.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 893,
+   "file": "11-1608-893.2da870672814.pmtiles",
+   "bytes": 272832,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-893.2da870672814.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 894,
+   "file": "11-1608-894.e5d512accbcb.pmtiles",
+   "bytes": 259314,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-894.e5d512accbcb.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 895,
+   "file": "11-1608-895.85b95882b303.pmtiles",
+   "bytes": 249798,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-895.85b95882b303.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 896,
+   "file": "11-1608-896.51a9740543af.pmtiles",
+   "bytes": 61425,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-896.51a9740543af.pmtiles"
+  },
+  {
+   "x": 1608,
+   "y": 897,
+   "file": "11-1608-897.21291a22b353.pmtiles",
+   "bytes": 28527,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1608-897.21291a22b353.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 892,
+   "file": "11-1609-892.be37b61cc96f.pmtiles",
+   "bytes": 174583,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-892.be37b61cc96f.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 893,
+   "file": "11-1609-893.740314d333b9.pmtiles",
+   "bytes": 326190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-893.740314d333b9.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 894,
+   "file": "11-1609-894.597e1186ff5a.pmtiles",
+   "bytes": 410179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-894.597e1186ff5a.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 895,
+   "file": "11-1609-895.cb58806ec9fc.pmtiles",
+   "bytes": 238370,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-895.cb58806ec9fc.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 896,
+   "file": "11-1609-896.7ab484a58141.pmtiles",
+   "bytes": 70346,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-896.7ab484a58141.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 897,
+   "file": "11-1609-897.dd32367dc9e3.pmtiles",
+   "bytes": 49460,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-897.dd32367dc9e3.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 898,
+   "file": "11-1609-898.c061d2d572f0.pmtiles",
+   "bytes": 23049,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-898.c061d2d572f0.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 899,
+   "file": "11-1609-899.802e1b48a1e0.pmtiles",
+   "bytes": 131180,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-899.802e1b48a1e0.pmtiles"
+  },
+  {
+   "x": 1609,
+   "y": 900,
+   "file": "11-1609-900.90d08959c77d.pmtiles",
+   "bytes": 70589,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1609-900.90d08959c77d.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 892,
+   "file": "11-1610-892.6eddd52d3b8d.pmtiles",
+   "bytes": 66223,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-892.6eddd52d3b8d.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 893,
+   "file": "11-1610-893.00a15726cdaf.pmtiles",
+   "bytes": 99958,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-893.00a15726cdaf.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 894,
+   "file": "11-1610-894.29bcda6cf885.pmtiles",
+   "bytes": 128296,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-894.29bcda6cf885.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 895,
+   "file": "11-1610-895.74e75dbdc73a.pmtiles",
+   "bytes": 161690,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-895.74e75dbdc73a.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 896,
+   "file": "11-1610-896.c9ef5ca0b076.pmtiles",
+   "bytes": 68046,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-896.c9ef5ca0b076.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 897,
+   "file": "11-1610-897.3074ff10e5cf.pmtiles",
+   "bytes": 84600,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-897.3074ff10e5cf.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 898,
+   "file": "11-1610-898.5ed90c809878.pmtiles",
+   "bytes": 150385,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-898.5ed90c809878.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 899,
+   "file": "11-1610-899.ce917c3d7828.pmtiles",
+   "bytes": 316469,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-899.ce917c3d7828.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 900,
+   "file": "11-1610-900.718b30fe7035.pmtiles",
+   "bytes": 128549,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-900.718b30fe7035.pmtiles"
+  },
+  {
+   "x": 1610,
+   "y": 901,
+   "file": "11-1610-901.db0ee0cef719.pmtiles",
+   "bytes": 57579,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1610-901.db0ee0cef719.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 892,
+   "file": "11-1611-892.650d695ddf22.pmtiles",
+   "bytes": 164957,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-892.650d695ddf22.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 893,
+   "file": "11-1611-893.c3b678e0d3f8.pmtiles",
+   "bytes": 142594,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-893.c3b678e0d3f8.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 894,
+   "file": "11-1611-894.da583ded3322.pmtiles",
+   "bytes": 98241,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-894.da583ded3322.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 895,
+   "file": "11-1611-895.f9c3b955f692.pmtiles",
+   "bytes": 95549,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-895.f9c3b955f692.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 896,
+   "file": "11-1611-896.2808522ffbc8.pmtiles",
+   "bytes": 125191,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-896.2808522ffbc8.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 897,
+   "file": "11-1611-897.e5c18a378251.pmtiles",
+   "bytes": 59443,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-897.e5c18a378251.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 898,
+   "file": "11-1611-898.91a9c8d82fa3.pmtiles",
+   "bytes": 148051,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-898.91a9c8d82fa3.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 899,
+   "file": "11-1611-899.a20319a17cf9.pmtiles",
+   "bytes": 122885,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-899.a20319a17cf9.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 900,
+   "file": "11-1611-900.796a977a833a.pmtiles",
+   "bytes": 113497,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-900.796a977a833a.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 901,
+   "file": "11-1611-901.969790fe6bdd.pmtiles",
+   "bytes": 72284,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-901.969790fe6bdd.pmtiles"
+  },
+  {
+   "x": 1611,
+   "y": 902,
+   "file": "11-1611-902.41a29805d179.pmtiles",
+   "bytes": 37568,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1611-902.41a29805d179.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 892,
+   "file": "11-1612-892.3606b2ec9a7f.pmtiles",
+   "bytes": 151164,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-892.3606b2ec9a7f.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 893,
+   "file": "11-1612-893.fc7ce5e919e0.pmtiles",
+   "bytes": 300600,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-893.fc7ce5e919e0.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 894,
+   "file": "11-1612-894.e9d6587a971e.pmtiles",
+   "bytes": 185044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-894.e9d6587a971e.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 895,
+   "file": "11-1612-895.6f0160bb1ec4.pmtiles",
+   "bytes": 122875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-895.6f0160bb1ec4.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 896,
+   "file": "11-1612-896.8cad5dc420dc.pmtiles",
+   "bytes": 61532,
+   "tiles": 66,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-896.8cad5dc420dc.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 897,
+   "file": "11-1612-897.1aa2834045a3.pmtiles",
+   "bytes": 72446,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-897.1aa2834045a3.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 898,
+   "file": "11-1612-898.c5a72a6f52d7.pmtiles",
+   "bytes": 85303,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-898.c5a72a6f52d7.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 899,
+   "file": "11-1612-899.0c8ed130d2d4.pmtiles",
+   "bytes": 45373,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-899.0c8ed130d2d4.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 900,
+   "file": "11-1612-900.a5435ad0dc7b.pmtiles",
+   "bytes": 117283,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-900.a5435ad0dc7b.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 901,
+   "file": "11-1612-901.041e34e63fce.pmtiles",
+   "bytes": 79718,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-901.041e34e63fce.pmtiles"
+  },
+  {
+   "x": 1612,
+   "y": 902,
+   "file": "11-1612-902.23629a98024d.pmtiles",
+   "bytes": 25718,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1612-902.23629a98024d.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 892,
+   "file": "11-1613-892.9ce1380a01b9.pmtiles",
+   "bytes": 27863,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-892.9ce1380a01b9.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 893,
+   "file": "11-1613-893.629267032582.pmtiles",
+   "bytes": 112139,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-893.629267032582.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 894,
+   "file": "11-1613-894.628e940c9821.pmtiles",
+   "bytes": 31019,
+   "tiles": 20,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-894.628e940c9821.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 895,
+   "file": "11-1613-895.10c6440b8868.pmtiles",
+   "bytes": 31971,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-895.10c6440b8868.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 896,
+   "file": "11-1613-896.609f494afac6.pmtiles",
+   "bytes": 62703,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-896.609f494afac6.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 897,
+   "file": "11-1613-897.b54d632d6290.pmtiles",
+   "bytes": 55541,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-897.b54d632d6290.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 898,
+   "file": "11-1613-898.3c01b626694b.pmtiles",
+   "bytes": 33524,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-898.3c01b626694b.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 899,
+   "file": "11-1613-899.a53eb4b697b4.pmtiles",
+   "bytes": 21511,
+   "tiles": 25,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-899.a53eb4b697b4.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 900,
+   "file": "11-1613-900.932c61d21ba4.pmtiles",
+   "bytes": 40368,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-900.932c61d21ba4.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 901,
+   "file": "11-1613-901.63e087516239.pmtiles",
+   "bytes": 36889,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-901.63e087516239.pmtiles"
+  },
+  {
+   "x": 1613,
+   "y": 902,
+   "file": "11-1613-902.97546b86a66c.pmtiles",
+   "bytes": 48498,
+   "tiles": 18,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dien-bien-2026-10-09/11-1613-902.97546b86a66c.pmtiles"
+  }
+ ]
+}

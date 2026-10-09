@@ -1,0 +1,773 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-thanh-hoa",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:52:47.951Z",
+ "publishedAt": "2026-10-09T18:53:14.732Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-thanh-hoa-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  104.37595,
+  19.28722,
+  106.07607,
+  20.66998
+ ],
+ "overview": {
+  "file": "overview.32ed1c5e98e7.pmtiles",
+  "bytes": 1397259,
+  "tiles": 63,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/overview.32ed1c5e98e7.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1617,
+   "y": 910,
+   "file": "11-1617-910.f27842d46f5f.pmtiles",
+   "bytes": 26116,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1617-910.f27842d46f5f.pmtiles"
+  },
+  {
+   "x": 1617,
+   "y": 911,
+   "file": "11-1617-911.dbbec6338af8.pmtiles",
+   "bytes": 26011,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1617-911.dbbec6338af8.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 903,
+   "file": "11-1618-903.420197ed120c.pmtiles",
+   "bytes": 22407,
+   "tiles": 11,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-903.420197ed120c.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 904,
+   "file": "11-1618-904.8f554be353d1.pmtiles",
+   "bytes": 70586,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-904.8f554be353d1.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 905,
+   "file": "11-1618-905.454de9b73380.pmtiles",
+   "bytes": 86197,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-905.454de9b73380.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 906,
+   "file": "11-1618-906.d827c1d68761.pmtiles",
+   "bytes": 44103,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-906.d827c1d68761.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 909,
+   "file": "11-1618-909.17960b952c4b.pmtiles",
+   "bytes": 24900,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-909.17960b952c4b.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 910,
+   "file": "11-1618-910.f8c639701fbe.pmtiles",
+   "bytes": 85281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-910.f8c639701fbe.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 911,
+   "file": "11-1618-911.7d884aa90f6f.pmtiles",
+   "bytes": 86699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-911.7d884aa90f6f.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 912,
+   "file": "11-1618-912.8afa46da4594.pmtiles",
+   "bytes": 36742,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1618-912.8afa46da4594.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 903,
+   "file": "11-1619-903.d1f6ad46981c.pmtiles",
+   "bytes": 45348,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-903.d1f6ad46981c.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 904,
+   "file": "11-1619-904.b70c2a97111b.pmtiles",
+   "bytes": 95509,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-904.b70c2a97111b.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 905,
+   "file": "11-1619-905.e6326de4dd07.pmtiles",
+   "bytes": 69495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-905.e6326de4dd07.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 906,
+   "file": "11-1619-906.2532c1f99863.pmtiles",
+   "bytes": 79211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-906.2532c1f99863.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 909,
+   "file": "11-1619-909.0dbc646bd7c0.pmtiles",
+   "bytes": 51037,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-909.0dbc646bd7c0.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 910,
+   "file": "11-1619-910.2be145b5e04c.pmtiles",
+   "bytes": 89211,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-910.2be145b5e04c.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 911,
+   "file": "11-1619-911.d1dc3006a9e5.pmtiles",
+   "bytes": 63630,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-911.d1dc3006a9e5.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 912,
+   "file": "11-1619-912.86a93783185e.pmtiles",
+   "bytes": 37668,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1619-912.86a93783185e.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 903,
+   "file": "11-1620-903.fbb0546b40de.pmtiles",
+   "bytes": 37694,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-903.fbb0546b40de.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 904,
+   "file": "11-1620-904.9ac74b5efe02.pmtiles",
+   "bytes": 112383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-904.9ac74b5efe02.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 905,
+   "file": "11-1620-905.65b42f979d6a.pmtiles",
+   "bytes": 75059,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-905.65b42f979d6a.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 906,
+   "file": "11-1620-906.55d7a9635f11.pmtiles",
+   "bytes": 83669,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-906.55d7a9635f11.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 907,
+   "file": "11-1620-907.434ef1c271e9.pmtiles",
+   "bytes": 44994,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-907.434ef1c271e9.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 908,
+   "file": "11-1620-908.e6566a7c63bd.pmtiles",
+   "bytes": 48292,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-908.e6566a7c63bd.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 909,
+   "file": "11-1620-909.6ffb74bc1de5.pmtiles",
+   "bytes": 64280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-909.6ffb74bc1de5.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 910,
+   "file": "11-1620-910.eb3137e2da77.pmtiles",
+   "bytes": 99599,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-910.eb3137e2da77.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 911,
+   "file": "11-1620-911.f5353d39d678.pmtiles",
+   "bytes": 46005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-911.f5353d39d678.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 912,
+   "file": "11-1620-912.87cbfaca8dcb.pmtiles",
+   "bytes": 24938,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1620-912.87cbfaca8dcb.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 903,
+   "file": "11-1621-903.4f5ea82e3ea2.pmtiles",
+   "bytes": 93706,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-903.4f5ea82e3ea2.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 904,
+   "file": "11-1621-904.014417869dc2.pmtiles",
+   "bytes": 132735,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-904.014417869dc2.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 905,
+   "file": "11-1621-905.fca864c0e184.pmtiles",
+   "bytes": 83167,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-905.fca864c0e184.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 906,
+   "file": "11-1621-906.2b22b310e357.pmtiles",
+   "bytes": 86885,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-906.2b22b310e357.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 907,
+   "file": "11-1621-907.c4feee4b5f16.pmtiles",
+   "bytes": 82409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-907.c4feee4b5f16.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 908,
+   "file": "11-1621-908.4bfe7ec79e6e.pmtiles",
+   "bytes": 100935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-908.4bfe7ec79e6e.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 909,
+   "file": "11-1621-909.5f2dd7c992a5.pmtiles",
+   "bytes": 87052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-909.5f2dd7c992a5.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 910,
+   "file": "11-1621-910.05fd95b327b8.pmtiles",
+   "bytes": 99438,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-910.05fd95b327b8.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 911,
+   "file": "11-1621-911.4838c6aa5c29.pmtiles",
+   "bytes": 97084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-911.4838c6aa5c29.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 912,
+   "file": "11-1621-912.af30b3d6a8d4.pmtiles",
+   "bytes": 22034,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1621-912.af30b3d6a8d4.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 903,
+   "file": "11-1622-903.50e1d201f3a8.pmtiles",
+   "bytes": 52425,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-903.50e1d201f3a8.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 904,
+   "file": "11-1622-904.d81640f78f37.pmtiles",
+   "bytes": 207090,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-904.d81640f78f37.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 905,
+   "file": "11-1622-905.ffc90226d4fa.pmtiles",
+   "bytes": 161943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-905.ffc90226d4fa.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 906,
+   "file": "11-1622-906.7a5dfc87f3c8.pmtiles",
+   "bytes": 105252,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-906.7a5dfc87f3c8.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 907,
+   "file": "11-1622-907.4e4af5f63485.pmtiles",
+   "bytes": 106026,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-907.4e4af5f63485.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 908,
+   "file": "11-1622-908.f5ea3c64a3a7.pmtiles",
+   "bytes": 96442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-908.f5ea3c64a3a7.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 909,
+   "file": "11-1622-909.8ccf7e80da60.pmtiles",
+   "bytes": 46922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-909.8ccf7e80da60.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 910,
+   "file": "11-1622-910.2b4299f18ec6.pmtiles",
+   "bytes": 59304,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-910.2b4299f18ec6.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 911,
+   "file": "11-1622-911.152391d22f7c.pmtiles",
+   "bytes": 94469,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-911.152391d22f7c.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 912,
+   "file": "11-1622-912.32b089784804.pmtiles",
+   "bytes": 46150,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1622-912.32b089784804.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 903,
+   "file": "11-1623-903.9c561242fe0b.pmtiles",
+   "bytes": 41596,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-903.9c561242fe0b.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 904,
+   "file": "11-1623-904.303ff5b4e4b3.pmtiles",
+   "bytes": 194165,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-904.303ff5b4e4b3.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 905,
+   "file": "11-1623-905.583b3d3fd273.pmtiles",
+   "bytes": 142611,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-905.583b3d3fd273.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 906,
+   "file": "11-1623-906.5cbe9eb93a3d.pmtiles",
+   "bytes": 142547,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-906.5cbe9eb93a3d.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 907,
+   "file": "11-1623-907.202dcc756e17.pmtiles",
+   "bytes": 212016,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-907.202dcc756e17.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 908,
+   "file": "11-1623-908.566448670b00.pmtiles",
+   "bytes": 240391,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-908.566448670b00.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 909,
+   "file": "11-1623-909.4403efd691c7.pmtiles",
+   "bytes": 150573,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-909.4403efd691c7.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 910,
+   "file": "11-1623-910.0df9c0d92b1d.pmtiles",
+   "bytes": 97099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-910.0df9c0d92b1d.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 911,
+   "file": "11-1623-911.9ce9094e8c40.pmtiles",
+   "bytes": 149457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-911.9ce9094e8c40.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 912,
+   "file": "11-1623-912.9dfb697aac78.pmtiles",
+   "bytes": 46459,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1623-912.9dfb697aac78.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 903,
+   "file": "11-1624-903.281951282bdb.pmtiles",
+   "bytes": 54034,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-903.281951282bdb.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 904,
+   "file": "11-1624-904.94d9a8992d58.pmtiles",
+   "bytes": 126911,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-904.94d9a8992d58.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 905,
+   "file": "11-1624-905.28f08630c28f.pmtiles",
+   "bytes": 195320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-905.28f08630c28f.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 906,
+   "file": "11-1624-906.7a3249a3075a.pmtiles",
+   "bytes": 198159,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-906.7a3249a3075a.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 907,
+   "file": "11-1624-907.325514bc1a9b.pmtiles",
+   "bytes": 308025,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-907.325514bc1a9b.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 908,
+   "file": "11-1624-908.a93e564fed61.pmtiles",
+   "bytes": 407163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-908.a93e564fed61.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 909,
+   "file": "11-1624-909.ea0510669e9d.pmtiles",
+   "bytes": 205372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-909.ea0510669e9d.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 910,
+   "file": "11-1624-910.3b49c8f3dee7.pmtiles",
+   "bytes": 276217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-910.3b49c8f3dee7.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 911,
+   "file": "11-1624-911.133833ec6758.pmtiles",
+   "bytes": 194632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-911.133833ec6758.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 912,
+   "file": "11-1624-912.0b6dc2f50c1b.pmtiles",
+   "bytes": 98108,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1624-912.0b6dc2f50c1b.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 903,
+   "file": "11-1625-903.b6bd8316dc88.pmtiles",
+   "bytes": 141802,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-903.b6bd8316dc88.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 904,
+   "file": "11-1625-904.222fe5ae03c7.pmtiles",
+   "bytes": 266642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-904.222fe5ae03c7.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 905,
+   "file": "11-1625-905.f00be2d180ea.pmtiles",
+   "bytes": 235828,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-905.f00be2d180ea.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 906,
+   "file": "11-1625-906.b5909a85578f.pmtiles",
+   "bytes": 213093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-906.b5909a85578f.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 907,
+   "file": "11-1625-907.106d4787dbef.pmtiles",
+   "bytes": 268118,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-907.106d4787dbef.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 908,
+   "file": "11-1625-908.6e31cbdca042.pmtiles",
+   "bytes": 528692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-908.6e31cbdca042.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 909,
+   "file": "11-1625-909.6ba803f00a58.pmtiles",
+   "bytes": 515646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-909.6ba803f00a58.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 910,
+   "file": "11-1625-910.dc2e7398e6ae.pmtiles",
+   "bytes": 314615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-910.dc2e7398e6ae.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 911,
+   "file": "11-1625-911.05c21de7a73e.pmtiles",
+   "bytes": 312659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-911.05c21de7a73e.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 912,
+   "file": "11-1625-912.44252ae35d37.pmtiles",
+   "bytes": 111830,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1625-912.44252ae35d37.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 903,
+   "file": "11-1626-903.ea963120f94a.pmtiles",
+   "bytes": 206269,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-903.ea963120f94a.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 904,
+   "file": "11-1626-904.5a6929116fc7.pmtiles",
+   "bytes": 552935,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-904.5a6929116fc7.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 905,
+   "file": "11-1626-905.fad50dbf950b.pmtiles",
+   "bytes": 391280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-905.fad50dbf950b.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 906,
+   "file": "11-1626-906.ff454e45b04c.pmtiles",
+   "bytes": 761583,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-906.ff454e45b04c.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 907,
+   "file": "11-1626-907.d59e68c8baed.pmtiles",
+   "bytes": 343973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-907.d59e68c8baed.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 908,
+   "file": "11-1626-908.23904b6f57aa.pmtiles",
+   "bytes": 369274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-908.23904b6f57aa.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 909,
+   "file": "11-1626-909.badc1e4c1368.pmtiles",
+   "bytes": 244925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-909.badc1e4c1368.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 910,
+   "file": "11-1626-910.8359bb02ed4b.pmtiles",
+   "bytes": 20211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-910.8359bb02ed4b.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 911,
+   "file": "11-1626-911.b59d0994fb32.pmtiles",
+   "bytes": 31063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1626-911.b59d0994fb32.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 903,
+   "file": "11-1627-903.9a4237643c77.pmtiles",
+   "bytes": 168454,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-903.9a4237643c77.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 904,
+   "file": "11-1627-904.4950e1392d21.pmtiles",
+   "bytes": 240551,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-904.4950e1392d21.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 905,
+   "file": "11-1627-905.3d67be715097.pmtiles",
+   "bytes": 187291,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-905.3d67be715097.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 906,
+   "file": "11-1627-906.ad7afcc3ac22.pmtiles",
+   "bytes": 228891,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-906.ad7afcc3ac22.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 907,
+   "file": "11-1627-907.6b43401ed350.pmtiles",
+   "bytes": 193076,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-907.6b43401ed350.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 908,
+   "file": "11-1627-908.1c705638f760.pmtiles",
+   "bytes": 27135,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-thanh-hoa-2026-10-09/11-1627-908.1c705638f760.pmtiles"
+  }
+ ]
+}

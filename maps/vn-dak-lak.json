@@ -1,0 +1,885 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-dak-lak",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:55:23.662Z",
+ "publishedAt": "2026-10-09T19:56:54.825Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-dak-lak-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  107.48422,
+  12.16053,
+  109.45904,
+  13.69533
+ ],
+ "overview": {
+  "file": "overview.948cab149841.pmtiles",
+  "bytes": 1057396,
+  "tiles": 66,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/overview.948cab149841.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1635,
+   "y": 949,
+   "file": "11-1635-949.e2cdc0cca176.pmtiles",
+   "bytes": 37478,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1635-949.e2cdc0cca176.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 950,
+   "file": "11-1635-950.8d67cdefd10a.pmtiles",
+   "bytes": 24132,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1635-950.8d67cdefd10a.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 952,
+   "file": "11-1635-952.2a186f681ee8.pmtiles",
+   "bytes": 35906,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1635-952.2a186f681ee8.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 953,
+   "file": "11-1635-953.f2782091c31d.pmtiles",
+   "bytes": 135475,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1635-953.f2782091c31d.pmtiles"
+  },
+  {
+   "x": 1635,
+   "y": 954,
+   "file": "11-1635-954.a6eb9bceeb4b.pmtiles",
+   "bytes": 73724,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1635-954.a6eb9bceeb4b.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 945,
+   "file": "11-1636-945.3504a2c4631f.pmtiles",
+   "bytes": 54741,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-945.3504a2c4631f.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 946,
+   "file": "11-1636-946.4802d856d529.pmtiles",
+   "bytes": 36064,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-946.4802d856d529.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 947,
+   "file": "11-1636-947.c5f60662756f.pmtiles",
+   "bytes": 80008,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-947.c5f60662756f.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 948,
+   "file": "11-1636-948.1a6a48c7e0f2.pmtiles",
+   "bytes": 54282,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-948.1a6a48c7e0f2.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 949,
+   "file": "11-1636-949.f226d0ce34c9.pmtiles",
+   "bytes": 48285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-949.f226d0ce34c9.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 950,
+   "file": "11-1636-950.87116b028e6d.pmtiles",
+   "bytes": 43601,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-950.87116b028e6d.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 951,
+   "file": "11-1636-951.2a6c8a468137.pmtiles",
+   "bytes": 47316,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-951.2a6c8a468137.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 952,
+   "file": "11-1636-952.682f6679b487.pmtiles",
+   "bytes": 269690,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-952.682f6679b487.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 953,
+   "file": "11-1636-953.72a8ad7aa266.pmtiles",
+   "bytes": 145730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-953.72a8ad7aa266.pmtiles"
+  },
+  {
+   "x": 1636,
+   "y": 954,
+   "file": "11-1636-954.27ca3985ffff.pmtiles",
+   "bytes": 73998,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1636-954.27ca3985ffff.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 945,
+   "file": "11-1637-945.a01d732e6f43.pmtiles",
+   "bytes": 91974,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-945.a01d732e6f43.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 946,
+   "file": "11-1637-946.aae0307aae00.pmtiles",
+   "bytes": 91894,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-946.aae0307aae00.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 947,
+   "file": "11-1637-947.1cbe3cbbd042.pmtiles",
+   "bytes": 37305,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-947.1cbe3cbbd042.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 948,
+   "file": "11-1637-948.1c336ce30496.pmtiles",
+   "bytes": 132559,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-948.1c336ce30496.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 949,
+   "file": "11-1637-949.8c3523f15625.pmtiles",
+   "bytes": 104897,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-949.8c3523f15625.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 950,
+   "file": "11-1637-950.df8d4bf46f56.pmtiles",
+   "bytes": 187204,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-950.df8d4bf46f56.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 951,
+   "file": "11-1637-951.1569665752f0.pmtiles",
+   "bytes": 304717,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-951.1569665752f0.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 952,
+   "file": "11-1637-952.8e65dc0f610d.pmtiles",
+   "bytes": 266763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-952.8e65dc0f610d.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 953,
+   "file": "11-1637-953.dc72b23e362f.pmtiles",
+   "bytes": 93759,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-953.dc72b23e362f.pmtiles"
+  },
+  {
+   "x": 1637,
+   "y": 954,
+   "file": "11-1637-954.0c86213a9c7b.pmtiles",
+   "bytes": 70193,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1637-954.0c86213a9c7b.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 945,
+   "file": "11-1638-945.fd33de83c85a.pmtiles",
+   "bytes": 208108,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-945.fd33de83c85a.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 946,
+   "file": "11-1638-946.5ef2dbdebce0.pmtiles",
+   "bytes": 126765,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-946.5ef2dbdebce0.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 947,
+   "file": "11-1638-947.7cf294c93f84.pmtiles",
+   "bytes": 55104,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-947.7cf294c93f84.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 948,
+   "file": "11-1638-948.1b04aca715c3.pmtiles",
+   "bytes": 123454,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-948.1b04aca715c3.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 949,
+   "file": "11-1638-949.a1777480f014.pmtiles",
+   "bytes": 144950,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-949.a1777480f014.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 950,
+   "file": "11-1638-950.bf485f8b7295.pmtiles",
+   "bytes": 288507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-950.bf485f8b7295.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 951,
+   "file": "11-1638-951.1f23dd06f8fd.pmtiles",
+   "bytes": 659337,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-951.1f23dd06f8fd.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 952,
+   "file": "11-1638-952.dccb5b000c85.pmtiles",
+   "bytes": 253589,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-952.dccb5b000c85.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 953,
+   "file": "11-1638-953.68bfb90e48cc.pmtiles",
+   "bytes": 169939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-953.68bfb90e48cc.pmtiles"
+  },
+  {
+   "x": 1638,
+   "y": 954,
+   "file": "11-1638-954.72e7aece3965.pmtiles",
+   "bytes": 42996,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1638-954.72e7aece3965.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 945,
+   "file": "11-1639-945.9f8265bdeae9.pmtiles",
+   "bytes": 109767,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-945.9f8265bdeae9.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 946,
+   "file": "11-1639-946.beaf95ee6829.pmtiles",
+   "bytes": 111408,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-946.beaf95ee6829.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 947,
+   "file": "11-1639-947.cdcdb212bb9e.pmtiles",
+   "bytes": 145712,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-947.cdcdb212bb9e.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 948,
+   "file": "11-1639-948.e72337b60fef.pmtiles",
+   "bytes": 272420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-948.e72337b60fef.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 949,
+   "file": "11-1639-949.67f283db7607.pmtiles",
+   "bytes": 292112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-949.67f283db7607.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 950,
+   "file": "11-1639-950.fe5c5b4a53b8.pmtiles",
+   "bytes": 255730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-950.fe5c5b4a53b8.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 951,
+   "file": "11-1639-951.8c5e36fcfa8a.pmtiles",
+   "bytes": 318750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-951.8c5e36fcfa8a.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 952,
+   "file": "11-1639-952.726e02ceba57.pmtiles",
+   "bytes": 237733,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-952.726e02ceba57.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 953,
+   "file": "11-1639-953.bc5d54f551e8.pmtiles",
+   "bytes": 118674,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-953.bc5d54f551e8.pmtiles"
+  },
+  {
+   "x": 1639,
+   "y": 954,
+   "file": "11-1639-954.0b486d6ea3ae.pmtiles",
+   "bytes": 91048,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1639-954.0b486d6ea3ae.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 945,
+   "file": "11-1640-945.ec91db364ecf.pmtiles",
+   "bytes": 78353,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-945.ec91db364ecf.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 946,
+   "file": "11-1640-946.23252d5cc6bf.pmtiles",
+   "bytes": 200360,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-946.23252d5cc6bf.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 947,
+   "file": "11-1640-947.51b32e9ac518.pmtiles",
+   "bytes": 126961,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-947.51b32e9ac518.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 948,
+   "file": "11-1640-948.85ece3883cdc.pmtiles",
+   "bytes": 183191,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-948.85ece3883cdc.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 949,
+   "file": "11-1640-949.c430b7b12fae.pmtiles",
+   "bytes": 292796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-949.c430b7b12fae.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 950,
+   "file": "11-1640-950.ab66cda46fd2.pmtiles",
+   "bytes": 355215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-950.ab66cda46fd2.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 951,
+   "file": "11-1640-951.9774c86ec522.pmtiles",
+   "bytes": 298648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-951.9774c86ec522.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 952,
+   "file": "11-1640-952.383235c83fb3.pmtiles",
+   "bytes": 134439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-952.383235c83fb3.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 953,
+   "file": "11-1640-953.18d3c6196225.pmtiles",
+   "bytes": 56614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-953.18d3c6196225.pmtiles"
+  },
+  {
+   "x": 1640,
+   "y": 954,
+   "file": "11-1640-954.cf68d07944bb.pmtiles",
+   "bytes": 47343,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1640-954.cf68d07944bb.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 945,
+   "file": "11-1641-945.16e5a8eb0ae3.pmtiles",
+   "bytes": 41513,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-945.16e5a8eb0ae3.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 946,
+   "file": "11-1641-946.c76af48d37e6.pmtiles",
+   "bytes": 48805,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-946.c76af48d37e6.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 947,
+   "file": "11-1641-947.b947472669c7.pmtiles",
+   "bytes": 111835,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-947.b947472669c7.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 948,
+   "file": "11-1641-948.b177229583a0.pmtiles",
+   "bytes": 50342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-948.b177229583a0.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 949,
+   "file": "11-1641-949.43deb02da44b.pmtiles",
+   "bytes": 77088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-949.43deb02da44b.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 950,
+   "file": "11-1641-950.5d87290278b3.pmtiles",
+   "bytes": 333230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-950.5d87290278b3.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 951,
+   "file": "11-1641-951.a60621ec9b6f.pmtiles",
+   "bytes": 219893,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-951.a60621ec9b6f.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 952,
+   "file": "11-1641-952.b446fed8c2c8.pmtiles",
+   "bytes": 110967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-952.b446fed8c2c8.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 953,
+   "file": "11-1641-953.972ec05e3b2a.pmtiles",
+   "bytes": 30320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-953.972ec05e3b2a.pmtiles"
+  },
+  {
+   "x": 1641,
+   "y": 954,
+   "file": "11-1641-954.24153bad11ef.pmtiles",
+   "bytes": 25675,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1641-954.24153bad11ef.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 945,
+   "file": "11-1642-945.0f239dbd7809.pmtiles",
+   "bytes": 30012,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-945.0f239dbd7809.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 947,
+   "file": "11-1642-947.394134e62124.pmtiles",
+   "bytes": 50211,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-947.394134e62124.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 948,
+   "file": "11-1642-948.ba39251ee443.pmtiles",
+   "bytes": 147075,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-948.ba39251ee443.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 949,
+   "file": "11-1642-949.47bebab8ef3b.pmtiles",
+   "bytes": 121967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-949.47bebab8ef3b.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 950,
+   "file": "11-1642-950.de5d8254a1c2.pmtiles",
+   "bytes": 176076,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-950.de5d8254a1c2.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 951,
+   "file": "11-1642-951.19c5ceae63fe.pmtiles",
+   "bytes": 130567,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-951.19c5ceae63fe.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 952,
+   "file": "11-1642-952.5e100a7d3142.pmtiles",
+   "bytes": 53659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-952.5e100a7d3142.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 953,
+   "file": "11-1642-953.1ece62713da0.pmtiles",
+   "bytes": 35849,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-953.1ece62713da0.pmtiles"
+  },
+  {
+   "x": 1642,
+   "y": 954,
+   "file": "11-1642-954.f89c472c21f9.pmtiles",
+   "bytes": 42453,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1642-954.f89c472c21f9.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 945,
+   "file": "11-1643-945.09cf1077eaa1.pmtiles",
+   "bytes": 38963,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-945.09cf1077eaa1.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 946,
+   "file": "11-1643-946.d51ae0fab115.pmtiles",
+   "bytes": 45052,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-946.d51ae0fab115.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 947,
+   "file": "11-1643-947.79aacdcfb0bf.pmtiles",
+   "bytes": 49207,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-947.79aacdcfb0bf.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 948,
+   "file": "11-1643-948.cb1d29ba0d43.pmtiles",
+   "bytes": 66974,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-948.cb1d29ba0d43.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 949,
+   "file": "11-1643-949.eb30fc03ff93.pmtiles",
+   "bytes": 182368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-949.eb30fc03ff93.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 950,
+   "file": "11-1643-950.2a3d41fc7ba0.pmtiles",
+   "bytes": 108462,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-950.2a3d41fc7ba0.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 951,
+   "file": "11-1643-951.d23ff6042a60.pmtiles",
+   "bytes": 70512,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-951.d23ff6042a60.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 952,
+   "file": "11-1643-952.b98272dfc143.pmtiles",
+   "bytes": 84007,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-952.b98272dfc143.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 953,
+   "file": "11-1643-953.24442d712fea.pmtiles",
+   "bytes": 164251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-953.24442d712fea.pmtiles"
+  },
+  {
+   "x": 1643,
+   "y": 954,
+   "file": "11-1643-954.83265d43cc69.pmtiles",
+   "bytes": 20371,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1643-954.83265d43cc69.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 945,
+   "file": "11-1644-945.d2000f3035e3.pmtiles",
+   "bytes": 97291,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-945.d2000f3035e3.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 946,
+   "file": "11-1644-946.8662302eaa14.pmtiles",
+   "bytes": 92046,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-946.8662302eaa14.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 947,
+   "file": "11-1644-947.8e9ecf478cc9.pmtiles",
+   "bytes": 151039,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-947.8e9ecf478cc9.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 948,
+   "file": "11-1644-948.e22e749253fc.pmtiles",
+   "bytes": 82791,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-948.e22e749253fc.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 949,
+   "file": "11-1644-949.4ebf1f5517b2.pmtiles",
+   "bytes": 132375,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-949.4ebf1f5517b2.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 950,
+   "file": "11-1644-950.c4e58a772142.pmtiles",
+   "bytes": 23067,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-950.c4e58a772142.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 951,
+   "file": "11-1644-951.71364b734cab.pmtiles",
+   "bytes": 101464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-951.71364b734cab.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 952,
+   "file": "11-1644-952.2bc07d102dee.pmtiles",
+   "bytes": 317381,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-952.2bc07d102dee.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 953,
+   "file": "11-1644-953.918023c6ee9c.pmtiles",
+   "bytes": 417215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-953.918023c6ee9c.pmtiles"
+  },
+  {
+   "x": 1644,
+   "y": 954,
+   "file": "11-1644-954.a5c77680cd51.pmtiles",
+   "bytes": 127964,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1644-954.a5c77680cd51.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 945,
+   "file": "11-1645-945.e5e0a70a61eb.pmtiles",
+   "bytes": 107706,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-945.e5e0a70a61eb.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 946,
+   "file": "11-1645-946.aac3cf9b7df4.pmtiles",
+   "bytes": 195859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-946.aac3cf9b7df4.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 947,
+   "file": "11-1645-947.59d666c841c9.pmtiles",
+   "bytes": 250644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-947.59d666c841c9.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 948,
+   "file": "11-1645-948.af7edd13d124.pmtiles",
+   "bytes": 337608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-948.af7edd13d124.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 949,
+   "file": "11-1645-949.0810192d086b.pmtiles",
+   "bytes": 396771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-949.0810192d086b.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 950,
+   "file": "11-1645-950.f8f0dec35f5f.pmtiles",
+   "bytes": 92061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-950.f8f0dec35f5f.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 951,
+   "file": "11-1645-951.1a7b22a0076d.pmtiles",
+   "bytes": 167729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-951.1a7b22a0076d.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 952,
+   "file": "11-1645-952.984c56bb121e.pmtiles",
+   "bytes": 180629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-952.984c56bb121e.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 953,
+   "file": "11-1645-953.28bd36b00f19.pmtiles",
+   "bytes": 641630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-953.28bd36b00f19.pmtiles"
+  },
+  {
+   "x": 1645,
+   "y": 954,
+   "file": "11-1645-954.41d1b413303a.pmtiles",
+   "bytes": 173360,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1645-954.41d1b413303a.pmtiles"
+  },
+  {
+   "x": 1646,
+   "y": 949,
+   "file": "11-1646-949.15ed32bcfef6.pmtiles",
+   "bytes": 153790,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1646-949.15ed32bcfef6.pmtiles"
+  },
+  {
+   "x": 1646,
+   "y": 950,
+   "file": "11-1646-950.438fe3cfaf1d.pmtiles",
+   "bytes": 85200,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1646-950.438fe3cfaf1d.pmtiles"
+  },
+  {
+   "x": 1646,
+   "y": 951,
+   "file": "11-1646-951.be3322fcccd2.pmtiles",
+   "bytes": 65368,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-dak-lak-2026-10-09/11-1646-951.be3322fcccd2.pmtiles"
+  }
+ ]
+}

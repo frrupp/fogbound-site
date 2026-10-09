@@ -1,0 +1,709 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-nghe-an",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T19:56:55.038Z",
+ "publishedAt": "2026-10-09T19:57:18.555Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-nghe-an-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  103.87456,
+  18.55212,
+  105.98973,
+  20.00235
+ ],
+ "overview": {
+  "file": "overview.545380674f2f.pmtiles",
+  "bytes": 1078623,
+  "tiles": 74,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/overview.545380674f2f.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1615,
+   "y": 911,
+   "file": "11-1615-911.0ac676cc40c3.pmtiles",
+   "bytes": 49247,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1615-911.0ac676cc40c3.pmtiles"
+  },
+  {
+   "x": 1615,
+   "y": 912,
+   "file": "11-1615-912.70ed284c8a2c.pmtiles",
+   "bytes": 37485,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1615-912.70ed284c8a2c.pmtiles"
+  },
+  {
+   "x": 1616,
+   "y": 909,
+   "file": "11-1616-909.d2c351a61700.pmtiles",
+   "bytes": 38969,
+   "tiles": 62,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1616-909.d2c351a61700.pmtiles"
+  },
+  {
+   "x": 1616,
+   "y": 910,
+   "file": "11-1616-910.2a098feec854.pmtiles",
+   "bytes": 74296,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1616-910.2a098feec854.pmtiles"
+  },
+  {
+   "x": 1616,
+   "y": 911,
+   "file": "11-1616-911.ae9b34e3c8fc.pmtiles",
+   "bytes": 102771,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1616-911.ae9b34e3c8fc.pmtiles"
+  },
+  {
+   "x": 1616,
+   "y": 912,
+   "file": "11-1616-912.54da4083451d.pmtiles",
+   "bytes": 48605,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1616-912.54da4083451d.pmtiles"
+  },
+  {
+   "x": 1617,
+   "y": 910,
+   "file": "11-1617-910.54a5dad9a1dd.pmtiles",
+   "bytes": 94340,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1617-910.54a5dad9a1dd.pmtiles"
+  },
+  {
+   "x": 1617,
+   "y": 911,
+   "file": "11-1617-911.4a23204f1c80.pmtiles",
+   "bytes": 81150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1617-911.4a23204f1c80.pmtiles"
+  },
+  {
+   "x": 1617,
+   "y": 912,
+   "file": "11-1617-912.e8de9a9fcb17.pmtiles",
+   "bytes": 66846,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1617-912.e8de9a9fcb17.pmtiles"
+  },
+  {
+   "x": 1617,
+   "y": 913,
+   "file": "11-1617-913.3afda21f5fa0.pmtiles",
+   "bytes": 21982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1617-913.3afda21f5fa0.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 909,
+   "file": "11-1618-909.17960b952c4b.pmtiles",
+   "bytes": 24900,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1618-909.17960b952c4b.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 910,
+   "file": "11-1618-910.f8c639701fbe.pmtiles",
+   "bytes": 85281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1618-910.f8c639701fbe.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 911,
+   "file": "11-1618-911.7d884aa90f6f.pmtiles",
+   "bytes": 86699,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1618-911.7d884aa90f6f.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 912,
+   "file": "11-1618-912.73a384c070a6.pmtiles",
+   "bytes": 107120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1618-912.73a384c070a6.pmtiles"
+  },
+  {
+   "x": 1618,
+   "y": 913,
+   "file": "11-1618-913.4cb2661619b3.pmtiles",
+   "bytes": 28109,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1618-913.4cb2661619b3.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 909,
+   "file": "11-1619-909.0dbc646bd7c0.pmtiles",
+   "bytes": 51037,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-909.0dbc646bd7c0.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 910,
+   "file": "11-1619-910.2be145b5e04c.pmtiles",
+   "bytes": 89211,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-910.2be145b5e04c.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 911,
+   "file": "11-1619-911.d1dc3006a9e5.pmtiles",
+   "bytes": 63630,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-911.d1dc3006a9e5.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 912,
+   "file": "11-1619-912.fda29ef2c74b.pmtiles",
+   "bytes": 112496,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-912.fda29ef2c74b.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 913,
+   "file": "11-1619-913.ad3aeb8f49a8.pmtiles",
+   "bytes": 64247,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-913.ad3aeb8f49a8.pmtiles"
+  },
+  {
+   "x": 1619,
+   "y": 914,
+   "file": "11-1619-914.6a41304ec78a.pmtiles",
+   "bytes": 40931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1619-914.6a41304ec78a.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 908,
+   "file": "11-1620-908.e6566a7c63bd.pmtiles",
+   "bytes": 48292,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-908.e6566a7c63bd.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 909,
+   "file": "11-1620-909.6ffb74bc1de5.pmtiles",
+   "bytes": 64280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-909.6ffb74bc1de5.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 910,
+   "file": "11-1620-910.eb3137e2da77.pmtiles",
+   "bytes": 99599,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-910.eb3137e2da77.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 911,
+   "file": "11-1620-911.f5353d39d678.pmtiles",
+   "bytes": 46005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-911.f5353d39d678.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 912,
+   "file": "11-1620-912.24ae71b199e8.pmtiles",
+   "bytes": 61588,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-912.24ae71b199e8.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 913,
+   "file": "11-1620-913.9bdcae6cbffa.pmtiles",
+   "bytes": 151765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-913.9bdcae6cbffa.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 914,
+   "file": "11-1620-914.c02c15a2df36.pmtiles",
+   "bytes": 58500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-914.c02c15a2df36.pmtiles"
+  },
+  {
+   "x": 1620,
+   "y": 915,
+   "file": "11-1620-915.e143e64bf217.pmtiles",
+   "bytes": 32272,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1620-915.e143e64bf217.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 907,
+   "file": "11-1621-907.913333b7c370.pmtiles",
+   "bytes": 26457,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-907.913333b7c370.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 908,
+   "file": "11-1621-908.4bfe7ec79e6e.pmtiles",
+   "bytes": 100935,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-908.4bfe7ec79e6e.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 909,
+   "file": "11-1621-909.5f2dd7c992a5.pmtiles",
+   "bytes": 87052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-909.5f2dd7c992a5.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 910,
+   "file": "11-1621-910.05fd95b327b8.pmtiles",
+   "bytes": 99438,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-910.05fd95b327b8.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 911,
+   "file": "11-1621-911.4838c6aa5c29.pmtiles",
+   "bytes": 97084,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-911.4838c6aa5c29.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 912,
+   "file": "11-1621-912.68f141149390.pmtiles",
+   "bytes": 73315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-912.68f141149390.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 913,
+   "file": "11-1621-913.8a8f8a0e6092.pmtiles",
+   "bytes": 197331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-913.8a8f8a0e6092.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 914,
+   "file": "11-1621-914.ab37daedd6e1.pmtiles",
+   "bytes": 105240,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-914.ab37daedd6e1.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 915,
+   "file": "11-1621-915.73cb988e9d36.pmtiles",
+   "bytes": 23897,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-915.73cb988e9d36.pmtiles"
+  },
+  {
+   "x": 1621,
+   "y": 916,
+   "file": "11-1621-916.7155eabaa009.pmtiles",
+   "bytes": 22844,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1621-916.7155eabaa009.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 907,
+   "file": "11-1622-907.e26963e77cae.pmtiles",
+   "bytes": 54287,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-907.e26963e77cae.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 908,
+   "file": "11-1622-908.f5ea3c64a3a7.pmtiles",
+   "bytes": 96442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-908.f5ea3c64a3a7.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 909,
+   "file": "11-1622-909.8ccf7e80da60.pmtiles",
+   "bytes": 46922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-909.8ccf7e80da60.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 910,
+   "file": "11-1622-910.2b4299f18ec6.pmtiles",
+   "bytes": 59304,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-910.2b4299f18ec6.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 911,
+   "file": "11-1622-911.152391d22f7c.pmtiles",
+   "bytes": 94469,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-911.152391d22f7c.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 912,
+   "file": "11-1622-912.b21622c134c8.pmtiles",
+   "bytes": 122756,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-912.b21622c134c8.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 913,
+   "file": "11-1622-913.65e29e7206ee.pmtiles",
+   "bytes": 268729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-913.65e29e7206ee.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 914,
+   "file": "11-1622-914.7dbba03c37ca.pmtiles",
+   "bytes": 209366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-914.7dbba03c37ca.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 915,
+   "file": "11-1622-915.bbbd8ddb58eb.pmtiles",
+   "bytes": 126352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-915.bbbd8ddb58eb.pmtiles"
+  },
+  {
+   "x": 1622,
+   "y": 916,
+   "file": "11-1622-916.cbaa0c23b4f3.pmtiles",
+   "bytes": 48747,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1622-916.cbaa0c23b4f3.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 907,
+   "file": "11-1623-907.27562c3a31a0.pmtiles",
+   "bytes": 70517,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-907.27562c3a31a0.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 908,
+   "file": "11-1623-908.566448670b00.pmtiles",
+   "bytes": 240391,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-908.566448670b00.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 909,
+   "file": "11-1623-909.4403efd691c7.pmtiles",
+   "bytes": 150573,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-909.4403efd691c7.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 910,
+   "file": "11-1623-910.0df9c0d92b1d.pmtiles",
+   "bytes": 97099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-910.0df9c0d92b1d.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 911,
+   "file": "11-1623-911.9ce9094e8c40.pmtiles",
+   "bytes": 149457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-911.9ce9094e8c40.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 912,
+   "file": "11-1623-912.8115547995c4.pmtiles",
+   "bytes": 108354,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-912.8115547995c4.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 913,
+   "file": "11-1623-913.438863d04b07.pmtiles",
+   "bytes": 166343,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-913.438863d04b07.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 914,
+   "file": "11-1623-914.b338e83881a2.pmtiles",
+   "bytes": 421101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-914.b338e83881a2.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 915,
+   "file": "11-1623-915.4b5ca8cc884e.pmtiles",
+   "bytes": 331698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-915.4b5ca8cc884e.pmtiles"
+  },
+  {
+   "x": 1623,
+   "y": 916,
+   "file": "11-1623-916.389078817cf7.pmtiles",
+   "bytes": 181739,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1623-916.389078817cf7.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 907,
+   "file": "11-1624-907.7429f06927fb.pmtiles",
+   "bytes": 104443,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-907.7429f06927fb.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 908,
+   "file": "11-1624-908.a93e564fed61.pmtiles",
+   "bytes": 407163,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-908.a93e564fed61.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 909,
+   "file": "11-1624-909.ea0510669e9d.pmtiles",
+   "bytes": 205372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-909.ea0510669e9d.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 910,
+   "file": "11-1624-910.3b49c8f3dee7.pmtiles",
+   "bytes": 276217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-910.3b49c8f3dee7.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 911,
+   "file": "11-1624-911.133833ec6758.pmtiles",
+   "bytes": 194632,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-911.133833ec6758.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 912,
+   "file": "11-1624-912.d8d9d37b3c45.pmtiles",
+   "bytes": 326427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-912.d8d9d37b3c45.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 913,
+   "file": "11-1624-913.e08d43e50e1a.pmtiles",
+   "bytes": 411530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-913.e08d43e50e1a.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 914,
+   "file": "11-1624-914.7d7e56d89ecf.pmtiles",
+   "bytes": 425910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-914.7d7e56d89ecf.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 915,
+   "file": "11-1624-915.5a2770038058.pmtiles",
+   "bytes": 497701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-915.5a2770038058.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 916,
+   "file": "11-1624-916.6ec3c1be51ce.pmtiles",
+   "bytes": 516521,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1624-916.6ec3c1be51ce.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 907,
+   "file": "11-1625-907.c05e368eba9a.pmtiles",
+   "bytes": 111828,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-907.c05e368eba9a.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 908,
+   "file": "11-1625-908.6e31cbdca042.pmtiles",
+   "bytes": 528692,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-908.6e31cbdca042.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 909,
+   "file": "11-1625-909.6ba803f00a58.pmtiles",
+   "bytes": 515646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-909.6ba803f00a58.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 910,
+   "file": "11-1625-910.dc2e7398e6ae.pmtiles",
+   "bytes": 314615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-910.dc2e7398e6ae.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 911,
+   "file": "11-1625-911.05c21de7a73e.pmtiles",
+   "bytes": 312659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-911.05c21de7a73e.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 912,
+   "file": "11-1625-912.84cf7fe35767.pmtiles",
+   "bytes": 341492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-912.84cf7fe35767.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 913,
+   "file": "11-1625-913.7c6c3c513ee0.pmtiles",
+   "bytes": 125947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-913.7c6c3c513ee0.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 914,
+   "file": "11-1625-914.9e161489bd8d.pmtiles",
+   "bytes": 113654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-914.9e161489bd8d.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 915,
+   "file": "11-1625-915.4188afa9eca7.pmtiles",
+   "bytes": 754548,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-915.4188afa9eca7.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 916,
+   "file": "11-1625-916.d148afeded80.pmtiles",
+   "bytes": 327276,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1625-916.d148afeded80.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 907,
+   "file": "11-1626-907.398302f9362d.pmtiles",
+   "bytes": 135746,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-907.398302f9362d.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 908,
+   "file": "11-1626-908.23904b6f57aa.pmtiles",
+   "bytes": 369274,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-908.23904b6f57aa.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 909,
+   "file": "11-1626-909.badc1e4c1368.pmtiles",
+   "bytes": 244925,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-909.badc1e4c1368.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 910,
+   "file": "11-1626-910.8359bb02ed4b.pmtiles",
+   "bytes": 20211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-910.8359bb02ed4b.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 911,
+   "file": "11-1626-911.b59d0994fb32.pmtiles",
+   "bytes": 31063,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-911.b59d0994fb32.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 916,
+   "file": "11-1626-916.2b7ffd50fc03.pmtiles",
+   "bytes": 45226,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-nghe-an-2026-10-09/11-1626-916.2b7ffd50fc03.pmtiles"
+  }
+ ]
+}

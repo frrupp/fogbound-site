@@ -1,0 +1,541 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "vn-tay-ninh",
+ "source": "vn.pmtiles",
+ "builtAt": "2026-10-09T18:51:07.613Z",
+ "publishedAt": "2026-10-09T18:51:27.691Z",
+ "host": "github",
+ "releases": [
+  "maps-vn-tay-ninh-2026-10-09"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  105.50037,
+  10.39483,
+  106.74724,
+  11.78285
+ ],
+ "overview": {
+  "file": "overview.abbd050894ca.pmtiles",
+  "bytes": 836287,
+  "tiles": 39,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/overview.abbd050894ca.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1624,
+   "y": 960,
+   "file": "11-1624-960.b7927b2d967a.pmtiles",
+   "bytes": 25813,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1624-960.b7927b2d967a.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 961,
+   "file": "11-1624-961.5cefecab55d0.pmtiles",
+   "bytes": 95287,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1624-961.5cefecab55d0.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 962,
+   "file": "11-1624-962.6a684eab0141.pmtiles",
+   "bytes": 137306,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1624-962.6a684eab0141.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 963,
+   "file": "11-1624-963.0ab5890e422f.pmtiles",
+   "bytes": 169002,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1624-963.0ab5890e422f.pmtiles"
+  },
+  {
+   "x": 1624,
+   "y": 964,
+   "file": "11-1624-964.16e0fe9ea760.pmtiles",
+   "bytes": 334275,
+   "tiles": 52,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1624-964.16e0fe9ea760.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 960,
+   "file": "11-1625-960.08e2f5bf6931.pmtiles",
+   "bytes": 40911,
+   "tiles": 58,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1625-960.08e2f5bf6931.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 961,
+   "file": "11-1625-961.403fa3f39192.pmtiles",
+   "bytes": 129044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1625-961.403fa3f39192.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 962,
+   "file": "11-1625-962.75f5d2d37840.pmtiles",
+   "bytes": 125095,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1625-962.75f5d2d37840.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 963,
+   "file": "11-1625-963.0e0d486899dd.pmtiles",
+   "bytes": 107097,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1625-963.0e0d486899dd.pmtiles"
+  },
+  {
+   "x": 1625,
+   "y": 964,
+   "file": "11-1625-964.4c77ccb5a323.pmtiles",
+   "bytes": 229049,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1625-964.4c77ccb5a323.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 956,
+   "file": "11-1626-956.3abb47832938.pmtiles",
+   "bytes": 25192,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-956.3abb47832938.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 957,
+   "file": "11-1626-957.d09c811224b6.pmtiles",
+   "bytes": 112814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-957.d09c811224b6.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 958,
+   "file": "11-1626-958.5767eaacbd9d.pmtiles",
+   "bytes": 137749,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-958.5767eaacbd9d.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 959,
+   "file": "11-1626-959.5cbbf18234a7.pmtiles",
+   "bytes": 88856,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-959.5cbbf18234a7.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 960,
+   "file": "11-1626-960.4421d6532876.pmtiles",
+   "bytes": 25302,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-960.4421d6532876.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 961,
+   "file": "11-1626-961.27bc1048eaee.pmtiles",
+   "bytes": 105467,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-961.27bc1048eaee.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 962,
+   "file": "11-1626-962.404987147cbb.pmtiles",
+   "bytes": 176945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-962.404987147cbb.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 963,
+   "file": "11-1626-963.3e094487c272.pmtiles",
+   "bytes": 159459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-963.3e094487c272.pmtiles"
+  },
+  {
+   "x": 1626,
+   "y": 964,
+   "file": "11-1626-964.9897a35a5ffc.pmtiles",
+   "bytes": 203426,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1626-964.9897a35a5ffc.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 956,
+   "file": "11-1627-956.1d1347ac3747.pmtiles",
+   "bytes": 57535,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-956.1d1347ac3747.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 957,
+   "file": "11-1627-957.6d5b1ca806d4.pmtiles",
+   "bytes": 155033,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-957.6d5b1ca806d4.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 958,
+   "file": "11-1627-958.4d690289c417.pmtiles",
+   "bytes": 262575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-958.4d690289c417.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 959,
+   "file": "11-1627-959.cc5068ee7aa1.pmtiles",
+   "bytes": 526552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-959.cc5068ee7aa1.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 960,
+   "file": "11-1627-960.7e4697b19f21.pmtiles",
+   "bytes": 187185,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-960.7e4697b19f21.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 961,
+   "file": "11-1627-961.febc9f03b174.pmtiles",
+   "bytes": 51289,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-961.febc9f03b174.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 962,
+   "file": "11-1627-962.ee2b8e43c95e.pmtiles",
+   "bytes": 147896,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-962.ee2b8e43c95e.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 963,
+   "file": "11-1627-963.85c5ec312de1.pmtiles",
+   "bytes": 169347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-963.85c5ec312de1.pmtiles"
+  },
+  {
+   "x": 1627,
+   "y": 964,
+   "file": "11-1627-964.91ee79491487.pmtiles",
+   "bytes": 343584,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1627-964.91ee79491487.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 956,
+   "file": "11-1628-956.211d1045a7ae.pmtiles",
+   "bytes": 47953,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-956.211d1045a7ae.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 957,
+   "file": "11-1628-957.904c36370627.pmtiles",
+   "bytes": 143501,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-957.904c36370627.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 958,
+   "file": "11-1628-958.3e7697685a62.pmtiles",
+   "bytes": 183384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-958.3e7697685a62.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 959,
+   "file": "11-1628-959.a44e245512fc.pmtiles",
+   "bytes": 272792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-959.a44e245512fc.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 960,
+   "file": "11-1628-960.121e54df70d9.pmtiles",
+   "bytes": 451797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-960.121e54df70d9.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 961,
+   "file": "11-1628-961.7e5e2ac0cb35.pmtiles",
+   "bytes": 216648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-961.7e5e2ac0cb35.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 962,
+   "file": "11-1628-962.762aa234f65d.pmtiles",
+   "bytes": 196055,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-962.762aa234f65d.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 963,
+   "file": "11-1628-963.3bbf4a87cfc3.pmtiles",
+   "bytes": 203853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-963.3bbf4a87cfc3.pmtiles"
+  },
+  {
+   "x": 1628,
+   "y": 964,
+   "file": "11-1628-964.8e1d9cbde6f3.pmtiles",
+   "bytes": 373817,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1628-964.8e1d9cbde6f3.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 956,
+   "file": "11-1629-956.448e66bccea8.pmtiles",
+   "bytes": 51371,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-956.448e66bccea8.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 957,
+   "file": "11-1629-957.0ae10d146227.pmtiles",
+   "bytes": 94142,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-957.0ae10d146227.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 958,
+   "file": "11-1629-958.d46d66024469.pmtiles",
+   "bytes": 134420,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-958.d46d66024469.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 959,
+   "file": "11-1629-959.61f2521c4aee.pmtiles",
+   "bytes": 249269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-959.61f2521c4aee.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 960,
+   "file": "11-1629-960.7b34191f9e6e.pmtiles",
+   "bytes": 502785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-960.7b34191f9e6e.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 961,
+   "file": "11-1629-961.619d18259c07.pmtiles",
+   "bytes": 509505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-961.619d18259c07.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 962,
+   "file": "11-1629-962.985b6961ddfd.pmtiles",
+   "bytes": 392898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-962.985b6961ddfd.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 963,
+   "file": "11-1629-963.b8fafe6082b9.pmtiles",
+   "bytes": 642643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-963.b8fafe6082b9.pmtiles"
+  },
+  {
+   "x": 1629,
+   "y": 964,
+   "file": "11-1629-964.f7d52b5e9f88.pmtiles",
+   "bytes": 424047,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1629-964.f7d52b5e9f88.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 956,
+   "file": "11-1630-956.1e34383305b8.pmtiles",
+   "bytes": 222518,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-956.1e34383305b8.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 957,
+   "file": "11-1630-957.10cc6e016f68.pmtiles",
+   "bytes": 320592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-957.10cc6e016f68.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 958,
+   "file": "11-1630-958.dce481c181fc.pmtiles",
+   "bytes": 280851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-958.dce481c181fc.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 959,
+   "file": "11-1630-959.eba2094bd675.pmtiles",
+   "bytes": 216993,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-959.eba2094bd675.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 960,
+   "file": "11-1630-960.68c24e1e6579.pmtiles",
+   "bytes": 754956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-960.68c24e1e6579.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 961,
+   "file": "11-1630-961.ae5b1f1edc89.pmtiles",
+   "bytes": 1830881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-961.ae5b1f1edc89.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 962,
+   "file": "11-1630-962.27761797a6da.pmtiles",
+   "bytes": 4447959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-962.27761797a6da.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 963,
+   "file": "11-1630-963.5828d777827b.pmtiles",
+   "bytes": 607726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-963.5828d777827b.pmtiles"
+  },
+  {
+   "x": 1630,
+   "y": 964,
+   "file": "11-1630-964.d2687134960b.pmtiles",
+   "bytes": 389281,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1630-964.d2687134960b.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 956,
+   "file": "11-1631-956.2bfa8bbb509f.pmtiles",
+   "bytes": 96256,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-956.2bfa8bbb509f.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 957,
+   "file": "11-1631-957.0cbb9aff7cf9.pmtiles",
+   "bytes": 70259,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-957.0cbb9aff7cf9.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 958,
+   "file": "11-1631-958.839be8168fae.pmtiles",
+   "bytes": 121291,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-958.839be8168fae.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 959,
+   "file": "11-1631-959.b7f27e792578.pmtiles",
+   "bytes": 109004,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-959.b7f27e792578.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 960,
+   "file": "11-1631-960.25749ffab8d7.pmtiles",
+   "bytes": 236085,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-960.25749ffab8d7.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 961,
+   "file": "11-1631-961.fe8c01c270f3.pmtiles",
+   "bytes": 1193814,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-961.fe8c01c270f3.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 962,
+   "file": "11-1631-962.9dc9b50b254b.pmtiles",
+   "bytes": 2012954,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-962.9dc9b50b254b.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 963,
+   "file": "11-1631-963.81cd7e4586b1.pmtiles",
+   "bytes": 297836,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-963.81cd7e4586b1.pmtiles"
+  },
+  {
+   "x": 1631,
+   "y": 964,
+   "file": "11-1631-964.49e11855bc73.pmtiles",
+   "bytes": 140280,
+   "tiles": 24,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-vn-tay-ninh-2026-10-09/11-1631-964.49e11855bc73.pmtiles"
+  }
+ ]
+}
