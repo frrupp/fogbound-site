@@ -1,0 +1,37 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "mc-monaco",
+ "source": "fr.pmtiles",
+ "builtAt": "2026-10-10T07:28:38.699Z",
+ "publishedAt": "2026-10-10T07:28:42.104Z",
+ "host": "github",
+ "releases": [
+  "maps-mc-monaco-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  7.40903,
+  43.72476,
+  7.43987,
+  43.75192
+ ],
+ "overview": {
+  "file": "overview.582a2ad41b63.pmtiles",
+  "bytes": 440220,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mc-monaco-2026-10-10/overview.582a2ad41b63.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1066,
+   "y": 746,
+   "file": "11-1066-746.59d8cfc43606.pmtiles",
+   "bytes": 556129,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-mc-monaco-2026-10-10/11-1066-746.59d8cfc43606.pmtiles"
+  }
+ ]
+}
