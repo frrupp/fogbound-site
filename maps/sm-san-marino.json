@@ -1,0 +1,61 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "sm-san-marino",
+ "source": "it.pmtiles",
+ "builtAt": "2026-10-10T07:28:44.819Z",
+ "publishedAt": "2026-10-10T07:28:48.860Z",
+ "host": "github",
+ "releases": [
+  "maps-sm-san-marino-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  12.40243,
+  43.89363,
+  12.51696,
+  43.99204
+ ],
+ "overview": {
+  "file": "overview.b7dad529ef58.pmtiles",
+  "bytes": 514462,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sm-san-marino-2026-10-10/overview.b7dad529ef58.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1094,
+   "y": 744,
+   "file": "11-1094-744.bf11b114b414.pmtiles",
+   "bytes": 205279,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sm-san-marino-2026-10-10/11-1094-744.bf11b114b414.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 745,
+   "file": "11-1094-745.bcd7895786b6.pmtiles",
+   "bytes": 785453,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sm-san-marino-2026-10-10/11-1094-745.bcd7895786b6.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 744,
+   "file": "11-1095-744.ab5c7b7ad2a9.pmtiles",
+   "bytes": 177616,
+   "tiles": 7,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sm-san-marino-2026-10-10/11-1095-744.ab5c7b7ad2a9.pmtiles"
+  },
+  {
+   "x": 1095,
+   "y": 745,
+   "file": "11-1095-745.9c204f9ff915.pmtiles",
+   "bytes": 237985,
+   "tiles": 16,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-sm-san-marino-2026-10-10/11-1095-745.9c204f9ff915.pmtiles"
+  }
+ ]
+}
