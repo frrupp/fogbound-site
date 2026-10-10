@@ -16,18 +16,23 @@
     "ee": "https://frrupp.github.io/fogbound-site/regions/outlines/ee.json",
     "es": "https://frrupp.github.io/fogbound-site/regions/outlines/es.json",
     "fi": "https://frrupp.github.io/fogbound-site/regions/outlines/fi.json",
+    "fo": "https://frrupp.github.io/fogbound-site/regions/outlines/fo.json",
     "fr": "https://frrupp.github.io/fogbound-site/regions/outlines/fr.json",
     "gb": "https://frrupp.github.io/fogbound-site/regions/outlines/gb.json",
+    "gg": "https://frrupp.github.io/fogbound-site/regions/outlines/gg.json",
     "gr": "https://frrupp.github.io/fogbound-site/regions/outlines/gr.json",
     "hr": "https://frrupp.github.io/fogbound-site/regions/outlines/hr.json",
     "hu": "https://frrupp.github.io/fogbound-site/regions/outlines/hu.json",
     "ie": "https://frrupp.github.io/fogbound-site/regions/outlines/ie.json",
+    "im": "https://frrupp.github.io/fogbound-site/regions/outlines/im.json",
     "is": "https://frrupp.github.io/fogbound-site/regions/outlines/is.json",
     "it": "https://frrupp.github.io/fogbound-site/regions/outlines/it.json",
+    "je": "https://frrupp.github.io/fogbound-site/regions/outlines/je.json",
     "li": "https://frrupp.github.io/fogbound-site/regions/outlines/li.json",
     "lt": "https://frrupp.github.io/fogbound-site/regions/outlines/lt.json",
     "lu": "https://frrupp.github.io/fogbound-site/regions/outlines/lu.json",
     "lv": "https://frrupp.github.io/fogbound-site/regions/outlines/lv.json",
+    "mc": "https://frrupp.github.io/fogbound-site/regions/outlines/mc.json",
     "md": "https://frrupp.github.io/fogbound-site/regions/outlines/md.json",
     "me": "https://frrupp.github.io/fogbound-site/regions/outlines/me.json",
     "mk": "https://frrupp.github.io/fogbound-site/regions/outlines/mk.json",
@@ -42,10 +47,28 @@
     "se": "https://frrupp.github.io/fogbound-site/regions/outlines/se.json",
     "si": "https://frrupp.github.io/fogbound-site/regions/outlines/si.json",
     "sk": "https://frrupp.github.io/fogbound-site/regions/outlines/sk.json",
+    "sm": "https://frrupp.github.io/fogbound-site/regions/outlines/sm.json",
+    "va": "https://frrupp.github.io/fogbound-site/regions/outlines/va.json",
     "vn": "https://frrupp.github.io/fogbound-site/regions/outlines/vn.json",
     "xk": "https://frrupp.github.io/fogbound-site/regions/outlines/xk.json"
   },
   "regions": [
+    {
+      "id": "va-vatican-city",
+      "name": "Vatican City",
+      "builtAt": "2026-10-10T07:00:10.970Z",
+      "bounds": [
+        12.44579,
+        41.9002,
+        12.45836,
+        41.90738
+      ],
+      "neighbourhoods": 1,
+      "features": 9,
+      "bytes": 6444,
+      "wire": 1478,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/va-vatican-city.json"
+    },
     {
       "id": "gb-city-of-london",
       "name": "City of London",
@@ -61,6 +84,22 @@
       "bytes": 45911,
       "wire": 7388,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-city-of-london.json"
+    },
+    {
+      "id": "mc-monaco",
+      "name": "Monaco",
+      "builtAt": "2026-10-10T07:00:01.260Z",
+      "bounds": [
+        7.40903,
+        43.72476,
+        7.43987,
+        43.75192
+      ],
+      "neighbourhoods": 9,
+      "features": 19,
+      "bytes": 22896,
+      "wire": 4265,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/mc-monaco.json"
     },
     {
       "id": "es-melilla",
@@ -93,6 +132,22 @@
       "bytes": 45241,
       "wire": 7129,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/es-ceuta.json"
+    },
+    {
+      "id": "sm-san-marino",
+      "name": "San Marino",
+      "builtAt": "2026-10-10T07:00:06.293Z",
+      "bounds": [
+        12.40243,
+        43.89363,
+        12.51696,
+        43.99204
+      ],
+      "neighbourhoods": 11,
+      "features": 20,
+      "bytes": 68320,
+      "wire": 13026,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/sm-san-marino.json"
     },
     {
       "id": "ch-basel-stadt",
@@ -189,6 +244,22 @@
       "bytes": 223678,
       "wire": 51270,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/ch-zug.json"
+    },
+    {
+      "id": "je-jersey",
+      "name": "Jersey",
+      "builtAt": "2026-10-10T07:01:08.390Z",
+      "bounds": [
+        -2.25451,
+        49.14787,
+        -1.91239,
+        49.29918
+      ],
+      "neighbourhoods": 56,
+      "features": 78,
+      "bytes": 263888,
+      "wire": 45015,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/je-jersey.json"
     },
     {
       "id": "pe-callao",
@@ -669,6 +740,38 @@
       "bytes": 547329,
       "wire": 127998,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/hr-grad-zagreb.json"
+    },
+    {
+      "id": "gg-guernsey",
+      "name": "Guernsey",
+      "builtAt": "2026-10-10T07:01:02.836Z",
+      "bounds": [
+        -2.67614,
+        49.40005,
+        -2.15639,
+        49.73778
+      ],
+      "neighbourhoods": 17,
+      "features": 38,
+      "bytes": 168461,
+      "wire": 37157,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gg-guernsey.json"
+    },
+    {
+      "id": "im-isle-of-man",
+      "name": "Isle of Man",
+      "builtAt": "2026-10-10T07:00:59.187Z",
+      "bounds": [
+        -4.83806,
+        54.03777,
+        -4.30784,
+        54.41799
+      ],
+      "neighbourhoods": 24,
+      "features": 131,
+      "bytes": 314652,
+      "wire": 75261,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/im-isle-of-man.json"
     },
     {
       "id": "fr-martinique",
@@ -5343,6 +5446,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/vn-ha-tinh.json"
     },
     {
+      "id": "gb-glasgow-clyde",
+      "name": "Glasgow and the Clyde",
+      "builtAt": "2026-10-10T07:07:51.486Z",
+      "bounds": [
+        -4.89895,
+        55.29077,
+        -3.39641,
+        56.08423
+      ],
+      "neighbourhoods": 486,
+      "features": 1099,
+      "bytes": 1605690,
+      "wire": 372485,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-glasgow-clyde.json"
+    },
+    {
       "id": "vn-cao-bang",
       "name": "Cao Bằng",
       "builtAt": "2026-10-09T16:42:31.578Z",
@@ -6767,6 +6886,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/sk-zilinsky.json"
     },
     {
+      "id": "fo-faroe-islands",
+      "name": "Føroyar",
+      "builtAt": "2026-10-10T07:00:50.622Z",
+      "bounds": [
+        -7.69183,
+        61.33791,
+        -6.25622,
+        62.3943
+      ],
+      "neighbourhoods": 86,
+      "features": 348,
+      "bytes": 1464113,
+      "wire": 292578,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/fo-faroe-islands.json"
+    },
+    {
       "id": "ie-mayo",
       "name": "County Mayo",
       "builtAt": "2026-09-20T19:47:54.325Z",
@@ -7567,6 +7702,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/ee-parnu.json"
     },
     {
+      "id": "gb-edinburgh-lothians-borders",
+      "name": "Edinburgh, the Lothians and the Borders",
+      "builtAt": "2026-10-10T07:06:13.981Z",
+      "bounds": [
+        -3.83126,
+        55.10834,
+        -2.03321,
+        56.07929
+      ],
+      "neighbourhoods": 1524,
+      "features": 2328,
+      "bytes": 3885498,
+      "wire": 860157,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-edinburgh-lothians-borders.json"
+    },
+    {
       "id": "hu-bacs-kiskun",
       "name": "Bács-Kiskun vármegye",
       "builtAt": "2026-09-21T19:14:39.173Z",
@@ -8045,6 +8196,22 @@
       "bytes": 4300491,
       "wire": 1057831,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/lt-utenos.json"
+    },
+    {
+      "id": "gb-aberdeen-north-east",
+      "name": "Aberdeen, Moray and the North East",
+      "builtAt": "2026-10-10T07:24:48.842Z",
+      "bounds": [
+        -3.8017,
+        56.74714,
+        -1.76443,
+        57.72671
+      ],
+      "neighbourhoods": 973,
+      "features": 1255,
+      "bytes": 3298195,
+      "wire": 751188,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-aberdeen-north-east.json"
     },
     {
       "id": "vn-dong-nai",
@@ -8831,6 +8998,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/es-toledo.json"
     },
     {
+      "id": "gb-fife-tayside-central",
+      "name": "Fife, Tayside and Central",
+      "builtAt": "2026-10-10T07:16:31.397Z",
+      "bounds": [
+        -4.8545,
+        55.89539,
+        -2.41855,
+        56.98681
+      ],
+      "neighbourhoods": 1716,
+      "features": 2259,
+      "bytes": 4195837,
+      "wire": 960382,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-fife-tayside-central.json"
+    },
+    {
       "id": "vn-quang-ngai",
       "name": "Quảng Ngãi",
       "builtAt": "2026-10-09T16:59:22.191Z",
@@ -9213,6 +9396,22 @@
       "bytes": 1843284,
       "wire": 408971,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/vn-quang-tri.json"
+    },
+    {
+      "id": "gb-ayrshire-south-west",
+      "name": "Ayrshire and the South West",
+      "builtAt": "2026-10-10T07:12:22.503Z",
+      "bounds": [
+        -5.39786,
+        54.63324,
+        -2.85733,
+        55.89261
+      ],
+      "neighbourhoods": 679,
+      "features": 2093,
+      "bytes": 4058996,
+      "wire": 936831,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-ayrshire-south-west.json"
     },
     {
       "id": "fi-satakunta",
