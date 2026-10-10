@@ -1,0 +1,77 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "gg-guernsey",
+ "source": "guernsey-jersey.pmtiles",
+ "builtAt": "2026-10-10T07:30:58.240Z",
+ "publishedAt": "2026-10-10T07:31:02.316Z",
+ "host": "github",
+ "releases": [
+  "maps-gg-guernsey-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.67614,
+  49.40005,
+  -2.15639,
+  49.73778
+ ],
+ "overview": {
+  "file": "overview.8dfd71356190.pmtiles",
+  "bytes": 82392,
+  "tiles": 14,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/overview.8dfd71356190.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1008,
+   "y": 699,
+   "file": "11-1008-699.730fc072860c.pmtiles",
+   "bytes": 94640,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1008-699.730fc072860c.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 698,
+   "file": "11-1009-698.fb980aa53f04.pmtiles",
+   "bytes": 42753,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1009-698.fb980aa53f04.pmtiles"
+  },
+  {
+   "x": 1009,
+   "y": 699,
+   "file": "11-1009-699.5bd1e29e99e9.pmtiles",
+   "bytes": 827398,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1009-699.5bd1e29e99e9.pmtiles"
+  },
+  {
+   "x": 1010,
+   "y": 699,
+   "file": "11-1010-699.958c0aa6f965.pmtiles",
+   "bytes": 127003,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1010-699.958c0aa6f965.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 696,
+   "file": "11-1011-696.c8fb4b11ed93.pmtiles",
+   "bytes": 36952,
+   "tiles": 12,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1011-696.c8fb4b11ed93.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 697,
+   "file": "11-1011-697.7ddabb0034bb.pmtiles",
+   "bytes": 95180,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-gg-guernsey-2026-10-10/11-1011-697.7ddabb0034bb.pmtiles"
+  }
+ ]
+}
