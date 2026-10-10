@@ -1,0 +1,53 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "je-jersey",
+ "source": "guernsey-jersey.pmtiles",
+ "builtAt": "2026-10-10T07:31:04.600Z",
+ "publishedAt": "2026-10-10T07:31:07.504Z",
+ "host": "github",
+ "releases": [
+  "maps-je-jersey-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -2.25451,
+  49.14787,
+  -1.91239,
+  49.29918
+ ],
+ "overview": {
+  "file": "overview.7ddc3f810227.pmtiles",
+  "bytes": 108513,
+  "tiles": 15,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-je-jersey-2026-10-10/overview.7ddc3f810227.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1011,
+   "y": 700,
+   "file": "11-1011-700.1130a54c8329.pmtiles",
+   "bytes": 21436,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-je-jersey-2026-10-10/11-1011-700.1130a54c8329.pmtiles"
+  },
+  {
+   "x": 1011,
+   "y": 701,
+   "file": "11-1011-701.85893c0706ec.pmtiles",
+   "bytes": 951664,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-je-jersey-2026-10-10/11-1011-701.85893c0706ec.pmtiles"
+  },
+  {
+   "x": 1012,
+   "y": 701,
+   "file": "11-1012-701.9310457cd44c.pmtiles",
+   "bytes": 733412,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-je-jersey-2026-10-10/11-1012-701.9310457cd44c.pmtiles"
+  }
+ ]
+}
