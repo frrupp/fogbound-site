@@ -1,0 +1,45 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "va-vatican-city",
+ "source": "it.pmtiles",
+ "builtAt": "2026-10-10T07:28:51.338Z",
+ "publishedAt": "2026-10-10T07:28:54.651Z",
+ "host": "github",
+ "releases": [
+  "maps-va-vatican-city-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  12.44579,
+  41.9002,
+  12.45836,
+  41.90738
+ ],
+ "overview": {
+  "file": "overview.0e82d2e28645.pmtiles",
+  "bytes": 533265,
+  "tiles": 11,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-va-vatican-city-2026-10-10/overview.0e82d2e28645.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1094,
+   "y": 760,
+   "file": "11-1094-760.5587943ee847.pmtiles",
+   "bytes": 432513,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-va-vatican-city-2026-10-10/11-1094-760.5587943ee847.pmtiles"
+  },
+  {
+   "x": 1094,
+   "y": 761,
+   "file": "11-1094-761.22541afbdf30.pmtiles",
+   "bytes": 396309,
+   "tiles": 4,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-va-vatican-city-2026-10-10/11-1094-761.22541afbdf30.pmtiles"
+  }
+ ]
+}
