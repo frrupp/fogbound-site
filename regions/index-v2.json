@@ -48,6 +48,7 @@
     "si": "https://frrupp.github.io/fogbound-site/regions/outlines/si.json",
     "sk": "https://frrupp.github.io/fogbound-site/regions/outlines/sk.json",
     "sm": "https://frrupp.github.io/fogbound-site/regions/outlines/sm.json",
+    "us": "https://frrupp.github.io/fogbound-site/regions/outlines/us.json",
     "va": "https://frrupp.github.io/fogbound-site/regions/outlines/va.json",
     "vn": "https://frrupp.github.io/fogbound-site/regions/outlines/vn.json",
     "xk": "https://frrupp.github.io/fogbound-site/regions/outlines/xk.json"
@@ -11492,6 +11493,22 @@
       "bytes": 12578624,
       "wire": 2900329,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/is-iceland.json"
+    },
+    {
+      "id": "us-new-york",
+      "name": "New York",
+      "builtAt": "2026-10-10T15:35:20.297Z",
+      "bounds": [
+        -79.76198,
+        40.47658,
+        -71.79097,
+        45.01586
+      ],
+      "neighbourhoods": 6335,
+      "features": 12050,
+      "bytes": 26436340,
+      "wire": 5745881,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-new-york.json"
     },
     {
       "id": "se-norrbotten",
