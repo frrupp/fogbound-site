@@ -1,0 +1,5917 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "us-new-york",
+ "source": "us-new-york.pmtiles",
+ "builtAt": "2026-10-10T15:38:40.458Z",
+ "publishedAt": "2026-10-10T15:42:09.525Z",
+ "host": "github",
+ "releases": [
+  "maps-us-new-york-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -79.76198,
+  40.47658,
+  -71.79097,
+  45.01586
+ ],
+ "overview": {
+  "file": "overview.1e133ce19d61.pmtiles",
+  "bytes": 6520877,
+  "tiles": 433,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/overview.1e133ce19d61.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 570,
+   "y": 757,
+   "file": "11-570-757.7c8e06459336.pmtiles",
+   "bytes": 22785,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-570-757.7c8e06459336.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 758,
+   "file": "11-570-758.5988dea760b2.pmtiles",
+   "bytes": 130311,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-570-758.5988dea760b2.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 759,
+   "file": "11-570-759.cdb9105b98b8.pmtiles",
+   "bytes": 152422,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-570-759.cdb9105b98b8.pmtiles"
+  },
+  {
+   "x": 570,
+   "y": 760,
+   "file": "11-570-760.b0524ab79bc8.pmtiles",
+   "bytes": 79739,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-570-760.b0524ab79bc8.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 757,
+   "file": "11-571-757.de3c3c1eb306.pmtiles",
+   "bytes": 277568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-571-757.de3c3c1eb306.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 758,
+   "file": "11-571-758.8965d59c5da4.pmtiles",
+   "bytes": 323297,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-571-758.8965d59c5da4.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 759,
+   "file": "11-571-759.592205b29291.pmtiles",
+   "bytes": 254296,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-571-759.592205b29291.pmtiles"
+  },
+  {
+   "x": 571,
+   "y": 760,
+   "file": "11-571-760.3d481560931b.pmtiles",
+   "bytes": 66606,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-571-760.3d481560931b.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 747,
+   "file": "11-572-747.a920105edb08.pmtiles",
+   "bytes": 30958,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-747.a920105edb08.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 756,
+   "file": "11-572-756.7d55aa4fee61.pmtiles",
+   "bytes": 468674,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-756.7d55aa4fee61.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 757,
+   "file": "11-572-757.e22ef531f763.pmtiles",
+   "bytes": 413903,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-757.e22ef531f763.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 758,
+   "file": "11-572-758.e6f883e7771b.pmtiles",
+   "bytes": 333422,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-758.e6f883e7771b.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 759,
+   "file": "11-572-759.f64d3d2459ab.pmtiles",
+   "bytes": 429588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-759.f64d3d2459ab.pmtiles"
+  },
+  {
+   "x": 572,
+   "y": 760,
+   "file": "11-572-760.878b2232b11e.pmtiles",
+   "bytes": 48614,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-572-760.878b2232b11e.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 755,
+   "file": "11-573-755.1b112c737856.pmtiles",
+   "bytes": 85011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-755.1b112c737856.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 756,
+   "file": "11-573-756.984e37fef169.pmtiles",
+   "bytes": 454187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-756.984e37fef169.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 757,
+   "file": "11-573-757.3014b201cebb.pmtiles",
+   "bytes": 270262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-757.3014b201cebb.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 758,
+   "file": "11-573-758.906fa8d5c329.pmtiles",
+   "bytes": 177530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-758.906fa8d5c329.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 759,
+   "file": "11-573-759.bd5579618eae.pmtiles",
+   "bytes": 668064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-759.bd5579618eae.pmtiles"
+  },
+  {
+   "x": 573,
+   "y": 760,
+   "file": "11-573-760.a8b16d51a0a7.pmtiles",
+   "bytes": 51196,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-573-760.a8b16d51a0a7.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 750,
+   "file": "11-574-750.93ae8455a8bb.pmtiles",
+   "bytes": 244791,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-750.93ae8455a8bb.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 751,
+   "file": "11-574-751.74363f0da1a7.pmtiles",
+   "bytes": 1103435,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-751.74363f0da1a7.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 752,
+   "file": "11-574-752.8dee8dd822ea.pmtiles",
+   "bytes": 429976,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-752.8dee8dd822ea.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 754,
+   "file": "11-574-754.ecd11aae77da.pmtiles",
+   "bytes": 111383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-754.ecd11aae77da.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 755,
+   "file": "11-574-755.c6017d9df478.pmtiles",
+   "bytes": 342310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-755.c6017d9df478.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 756,
+   "file": "11-574-756.e3be4d2a9c72.pmtiles",
+   "bytes": 311594,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-756.e3be4d2a9c72.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 757,
+   "file": "11-574-757.dd47d53c967d.pmtiles",
+   "bytes": 178965,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-757.dd47d53c967d.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 758,
+   "file": "11-574-758.7debf69d29d8.pmtiles",
+   "bytes": 161683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-758.7debf69d29d8.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 759,
+   "file": "11-574-759.adaff907766b.pmtiles",
+   "bytes": 169522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-759.adaff907766b.pmtiles"
+  },
+  {
+   "x": 574,
+   "y": 760,
+   "file": "11-574-760.6f5d70e8279d.pmtiles",
+   "bytes": 46503,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-574-760.6f5d70e8279d.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 749,
+   "file": "11-575-749.7e5cd80a2383.pmtiles",
+   "bytes": 14863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-749.7e5cd80a2383.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 750,
+   "file": "11-575-750.1d9e03aa5674.pmtiles",
+   "bytes": 278771,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-750.1d9e03aa5674.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 751,
+   "file": "11-575-751.f97481708af9.pmtiles",
+   "bytes": 425158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-751.f97481708af9.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 752,
+   "file": "11-575-752.2202d60ba579.pmtiles",
+   "bytes": 2379134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-752.2202d60ba579.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 753,
+   "file": "11-575-753.9eb5fe0d9f0a.pmtiles",
+   "bytes": 2179673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-753.9eb5fe0d9f0a.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 754,
+   "file": "11-575-754.860d6c47446a.pmtiles",
+   "bytes": 815024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-754.860d6c47446a.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 755,
+   "file": "11-575-755.1fbbbbd640e3.pmtiles",
+   "bytes": 257556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-755.1fbbbbd640e3.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 756,
+   "file": "11-575-756.8c03aa95bcc9.pmtiles",
+   "bytes": 174538,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-756.8c03aa95bcc9.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 757,
+   "file": "11-575-757.9b66a53563b2.pmtiles",
+   "bytes": 150241,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-757.9b66a53563b2.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 758,
+   "file": "11-575-758.1aa09abecf07.pmtiles",
+   "bytes": 173054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-758.1aa09abecf07.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 759,
+   "file": "11-575-759.1b2378f763e0.pmtiles",
+   "bytes": 164839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-759.1b2378f763e0.pmtiles"
+  },
+  {
+   "x": 575,
+   "y": 760,
+   "file": "11-575-760.bd61eddc6fad.pmtiles",
+   "bytes": 49801,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-575-760.bd61eddc6fad.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 749,
+   "file": "11-576-749.85985bfad49e.pmtiles",
+   "bytes": 102517,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-749.85985bfad49e.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 750,
+   "file": "11-576-750.d9823f23a0bb.pmtiles",
+   "bytes": 280557,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-750.d9823f23a0bb.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 751,
+   "file": "11-576-751.c5c786b2bc11.pmtiles",
+   "bytes": 603830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-751.c5c786b2bc11.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 752,
+   "file": "11-576-752.5d44f963b373.pmtiles",
+   "bytes": 941126,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-752.5d44f963b373.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 753,
+   "file": "11-576-753.c018e590e969.pmtiles",
+   "bytes": 840473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-753.c018e590e969.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 754,
+   "file": "11-576-754.46f75935f553.pmtiles",
+   "bytes": 508096,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-754.46f75935f553.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 755,
+   "file": "11-576-755.e7ee6db04c73.pmtiles",
+   "bytes": 201746,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-755.e7ee6db04c73.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 756,
+   "file": "11-576-756.4fa9fde44294.pmtiles",
+   "bytes": 240588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-756.4fa9fde44294.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 757,
+   "file": "11-576-757.a2bf191ce7b8.pmtiles",
+   "bytes": 160572,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-757.a2bf191ce7b8.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 758,
+   "file": "11-576-758.fa4f235851a4.pmtiles",
+   "bytes": 215599,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-758.fa4f235851a4.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 759,
+   "file": "11-576-759.668d2ae70186.pmtiles",
+   "bytes": 209967,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-759.668d2ae70186.pmtiles"
+  },
+  {
+   "x": 576,
+   "y": 760,
+   "file": "11-576-760.9e36286311e0.pmtiles",
+   "bytes": 58497,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-576-760.9e36286311e0.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 749,
+   "file": "11-577-749.24f18275554d.pmtiles",
+   "bytes": 217606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-749.24f18275554d.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 750,
+   "file": "11-577-750.c0a10bc72a40.pmtiles",
+   "bytes": 435130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-750.c0a10bc72a40.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 751,
+   "file": "11-577-751.e6af018c9c34.pmtiles",
+   "bytes": 281552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-751.e6af018c9c34.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 752,
+   "file": "11-577-752.488d482e1234.pmtiles",
+   "bytes": 268631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-752.488d482e1234.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 753,
+   "file": "11-577-753.9334b8b3eb6d.pmtiles",
+   "bytes": 211066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-753.9334b8b3eb6d.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 754,
+   "file": "11-577-754.4c25466d284c.pmtiles",
+   "bytes": 197596,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-754.4c25466d284c.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 755,
+   "file": "11-577-755.fced68f37734.pmtiles",
+   "bytes": 166635,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-755.fced68f37734.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 756,
+   "file": "11-577-756.8dd9fd92c7e5.pmtiles",
+   "bytes": 235822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-756.8dd9fd92c7e5.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 757,
+   "file": "11-577-757.9173913b64fa.pmtiles",
+   "bytes": 163008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-757.9173913b64fa.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 758,
+   "file": "11-577-758.680e5a208ec9.pmtiles",
+   "bytes": 124228,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-758.680e5a208ec9.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 759,
+   "file": "11-577-759.1597a558a994.pmtiles",
+   "bytes": 421485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-759.1597a558a994.pmtiles"
+  },
+  {
+   "x": 577,
+   "y": 760,
+   "file": "11-577-760.d28c85cff464.pmtiles",
+   "bytes": 65280,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-577-760.d28c85cff464.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 749,
+   "file": "11-578-749.8cd9a5912810.pmtiles",
+   "bytes": 93890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-749.8cd9a5912810.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 750,
+   "file": "11-578-750.a083f4dd5988.pmtiles",
+   "bytes": 244834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-750.a083f4dd5988.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 751,
+   "file": "11-578-751.275a22e04c0f.pmtiles",
+   "bytes": 254698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-751.275a22e04c0f.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 752,
+   "file": "11-578-752.c233fb368bc7.pmtiles",
+   "bytes": 195946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-752.c233fb368bc7.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 753,
+   "file": "11-578-753.464211dc3f43.pmtiles",
+   "bytes": 247092,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-753.464211dc3f43.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 754,
+   "file": "11-578-754.e14d6f508ff1.pmtiles",
+   "bytes": 179871,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-754.e14d6f508ff1.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 755,
+   "file": "11-578-755.4638e6ed02c9.pmtiles",
+   "bytes": 167779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-755.4638e6ed02c9.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 756,
+   "file": "11-578-756.f14228188884.pmtiles",
+   "bytes": 145973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-756.f14228188884.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 757,
+   "file": "11-578-757.7e156e9b1ead.pmtiles",
+   "bytes": 142627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-757.7e156e9b1ead.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 758,
+   "file": "11-578-758.d532f5ff2206.pmtiles",
+   "bytes": 230856,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-758.d532f5ff2206.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 759,
+   "file": "11-578-759.6cb010be3f6c.pmtiles",
+   "bytes": 189260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-759.6cb010be3f6c.pmtiles"
+  },
+  {
+   "x": 578,
+   "y": 760,
+   "file": "11-578-760.1829942a6f90.pmtiles",
+   "bytes": 63259,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-578-760.1829942a6f90.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 749,
+   "file": "11-579-749.764af8944860.pmtiles",
+   "bytes": 86848,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-749.764af8944860.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 750,
+   "file": "11-579-750.fa5b53e51d1c.pmtiles",
+   "bytes": 210834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-750.fa5b53e51d1c.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 751,
+   "file": "11-579-751.3535ecf69c4b.pmtiles",
+   "bytes": 139493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-751.3535ecf69c4b.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 752,
+   "file": "11-579-752.1ef589964979.pmtiles",
+   "bytes": 389954,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-752.1ef589964979.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 753,
+   "file": "11-579-753.e0f7df46a6ab.pmtiles",
+   "bytes": 176475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-753.e0f7df46a6ab.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 754,
+   "file": "11-579-754.ebfa60039ba1.pmtiles",
+   "bytes": 268379,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-754.ebfa60039ba1.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 755,
+   "file": "11-579-755.cadea5f002ac.pmtiles",
+   "bytes": 220115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-755.cadea5f002ac.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 756,
+   "file": "11-579-756.fb3265dd3d12.pmtiles",
+   "bytes": 170271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-756.fb3265dd3d12.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 757,
+   "file": "11-579-757.b7452cd65ad9.pmtiles",
+   "bytes": 237212,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-757.b7452cd65ad9.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 758,
+   "file": "11-579-758.c3755fada7ee.pmtiles",
+   "bytes": 259653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-758.c3755fada7ee.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 759,
+   "file": "11-579-759.a014a26e147d.pmtiles",
+   "bytes": 262078,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-759.a014a26e147d.pmtiles"
+  },
+  {
+   "x": 579,
+   "y": 760,
+   "file": "11-579-760.7dd269f554eb.pmtiles",
+   "bytes": 50821,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-579-760.7dd269f554eb.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 749,
+   "file": "11-580-749.894a89033aa8.pmtiles",
+   "bytes": 86656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-749.894a89033aa8.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 750,
+   "file": "11-580-750.88c06bf1d924.pmtiles",
+   "bytes": 278368,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-750.88c06bf1d924.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 751,
+   "file": "11-580-751.eaf6db26b4ae.pmtiles",
+   "bytes": 206940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-751.eaf6db26b4ae.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 752,
+   "file": "11-580-752.53636c07307e.pmtiles",
+   "bytes": 231086,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-752.53636c07307e.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 753,
+   "file": "11-580-753.5a3cfee1134a.pmtiles",
+   "bytes": 196397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-753.5a3cfee1134a.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 754,
+   "file": "11-580-754.078c9990222f.pmtiles",
+   "bytes": 273079,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-754.078c9990222f.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 755,
+   "file": "11-580-755.5371111d4ee3.pmtiles",
+   "bytes": 232779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-755.5371111d4ee3.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 756,
+   "file": "11-580-756.5fcabcb08857.pmtiles",
+   "bytes": 143280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-756.5fcabcb08857.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 757,
+   "file": "11-580-757.d0f2ba4ac8e2.pmtiles",
+   "bytes": 171789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-757.d0f2ba4ac8e2.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 758,
+   "file": "11-580-758.320f38c8b337.pmtiles",
+   "bytes": 397192,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-758.320f38c8b337.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 759,
+   "file": "11-580-759.0d142e4f29c8.pmtiles",
+   "bytes": 362501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-759.0d142e4f29c8.pmtiles"
+  },
+  {
+   "x": 580,
+   "y": 760,
+   "file": "11-580-760.be87452a846c.pmtiles",
+   "bytes": 58945,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-580-760.be87452a846c.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 749,
+   "file": "11-581-749.0f6e32c06a90.pmtiles",
+   "bytes": 44687,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-749.0f6e32c06a90.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 750,
+   "file": "11-581-750.c82be2213d10.pmtiles",
+   "bytes": 416397,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-750.c82be2213d10.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 751,
+   "file": "11-581-751.799f5f568fb9.pmtiles",
+   "bytes": 548345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-751.799f5f568fb9.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 752,
+   "file": "11-581-752.cf8e8edc6077.pmtiles",
+   "bytes": 319175,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-752.cf8e8edc6077.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 753,
+   "file": "11-581-753.ce2bc60eba81.pmtiles",
+   "bytes": 308127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-753.ce2bc60eba81.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 754,
+   "file": "11-581-754.7b4e8a5acb3e.pmtiles",
+   "bytes": 361639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-754.7b4e8a5acb3e.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 755,
+   "file": "11-581-755.5db8dc86d7c0.pmtiles",
+   "bytes": 208352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-755.5db8dc86d7c0.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 756,
+   "file": "11-581-756.c13154262f76.pmtiles",
+   "bytes": 177447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-756.c13154262f76.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 757,
+   "file": "11-581-757.54574459f884.pmtiles",
+   "bytes": 214995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-757.54574459f884.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 758,
+   "file": "11-581-758.633977670b91.pmtiles",
+   "bytes": 395680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-758.633977670b91.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 759,
+   "file": "11-581-759.0fe27d18fe4c.pmtiles",
+   "bytes": 155505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-759.0fe27d18fe4c.pmtiles"
+  },
+  {
+   "x": 581,
+   "y": 760,
+   "file": "11-581-760.0cc0c0fd1d05.pmtiles",
+   "bytes": 39807,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-581-760.0cc0c0fd1d05.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 744,
+   "file": "11-582-744.28e36ed45f80.pmtiles",
+   "bytes": 33194,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-744.28e36ed45f80.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 750,
+   "file": "11-582-750.6c04921eeaee.pmtiles",
+   "bytes": 701431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-750.6c04921eeaee.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 751,
+   "file": "11-582-751.bf58a7094eae.pmtiles",
+   "bytes": 2147590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-751.bf58a7094eae.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 752,
+   "file": "11-582-752.c43dbe44facf.pmtiles",
+   "bytes": 590224,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-752.c43dbe44facf.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 753,
+   "file": "11-582-753.725858acf579.pmtiles",
+   "bytes": 258061,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-753.725858acf579.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 754,
+   "file": "11-582-754.4ea7c5ed0b65.pmtiles",
+   "bytes": 262430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-754.4ea7c5ed0b65.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 755,
+   "file": "11-582-755.0d9154b407e6.pmtiles",
+   "bytes": 208113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-755.0d9154b407e6.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 756,
+   "file": "11-582-756.ac4b66c6cc90.pmtiles",
+   "bytes": 197934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-756.ac4b66c6cc90.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 757,
+   "file": "11-582-757.b69fda14bded.pmtiles",
+   "bytes": 329089,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-757.b69fda14bded.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 758,
+   "file": "11-582-758.86d7c7729b35.pmtiles",
+   "bytes": 152062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-758.86d7c7729b35.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 759,
+   "file": "11-582-759.338a2a04d8c5.pmtiles",
+   "bytes": 140320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-759.338a2a04d8c5.pmtiles"
+  },
+  {
+   "x": 582,
+   "y": 760,
+   "file": "11-582-760.cd0d1d2785fc.pmtiles",
+   "bytes": 36392,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-582-760.cd0d1d2785fc.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 750,
+   "file": "11-583-750.e3df816e6828.pmtiles",
+   "bytes": 420934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-750.e3df816e6828.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 751,
+   "file": "11-583-751.098119d05eb4.pmtiles",
+   "bytes": 1206522,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-751.098119d05eb4.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 752,
+   "file": "11-583-752.f23fbd33b611.pmtiles",
+   "bytes": 935978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-752.f23fbd33b611.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 753,
+   "file": "11-583-753.c5f9e88ffb27.pmtiles",
+   "bytes": 268680,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-753.c5f9e88ffb27.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 754,
+   "file": "11-583-754.0fc293bd5752.pmtiles",
+   "bytes": 316276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-754.0fc293bd5752.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 755,
+   "file": "11-583-755.1fb5b7960c5d.pmtiles",
+   "bytes": 262375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-755.1fb5b7960c5d.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 756,
+   "file": "11-583-756.cac7fcaedf3a.pmtiles",
+   "bytes": 175677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-756.cac7fcaedf3a.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 757,
+   "file": "11-583-757.9a53f2b85e7a.pmtiles",
+   "bytes": 212303,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-757.9a53f2b85e7a.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 758,
+   "file": "11-583-758.24ad8c41390a.pmtiles",
+   "bytes": 137201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-758.24ad8c41390a.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 759,
+   "file": "11-583-759.72177599e3ff.pmtiles",
+   "bytes": 147258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-759.72177599e3ff.pmtiles"
+  },
+  {
+   "x": 583,
+   "y": 760,
+   "file": "11-583-760.6aa5ec6a093f.pmtiles",
+   "bytes": 37563,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-583-760.6aa5ec6a093f.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 743,
+   "file": "11-584-743.06b32e127fe7.pmtiles",
+   "bytes": 33053,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-743.06b32e127fe7.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 750,
+   "file": "11-584-750.8899da7e3be3.pmtiles",
+   "bytes": 359639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-750.8899da7e3be3.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 751,
+   "file": "11-584-751.420058a4bb1e.pmtiles",
+   "bytes": 353754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-751.420058a4bb1e.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 752,
+   "file": "11-584-752.17bc8334c909.pmtiles",
+   "bytes": 423918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-752.17bc8334c909.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 753,
+   "file": "11-584-753.22d430928ff2.pmtiles",
+   "bytes": 499245,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-753.22d430928ff2.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 754,
+   "file": "11-584-754.d309bd76a841.pmtiles",
+   "bytes": 219566,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-754.d309bd76a841.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 755,
+   "file": "11-584-755.58bfc3f6017c.pmtiles",
+   "bytes": 159236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-755.58bfc3f6017c.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 756,
+   "file": "11-584-756.c31baefcc8a1.pmtiles",
+   "bytes": 182116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-756.c31baefcc8a1.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 757,
+   "file": "11-584-757.afc99fd4ad84.pmtiles",
+   "bytes": 324676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-757.afc99fd4ad84.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 758,
+   "file": "11-584-758.7192aa531616.pmtiles",
+   "bytes": 204277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-758.7192aa531616.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 759,
+   "file": "11-584-759.cbbec080a6a3.pmtiles",
+   "bytes": 208437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-759.cbbec080a6a3.pmtiles"
+  },
+  {
+   "x": 584,
+   "y": 760,
+   "file": "11-584-760.f25956fb52ca.pmtiles",
+   "bytes": 45563,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-584-760.f25956fb52ca.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 743,
+   "file": "11-585-743.37bd395df026.pmtiles",
+   "bytes": 30628,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-743.37bd395df026.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 744,
+   "file": "11-585-744.18f705e3d2ec.pmtiles",
+   "bytes": 25978,
+   "tiles": 48,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-744.18f705e3d2ec.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 750,
+   "file": "11-585-750.c9c56b2d963d.pmtiles",
+   "bytes": 181778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-750.c9c56b2d963d.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 751,
+   "file": "11-585-751.97e96c2a1fc2.pmtiles",
+   "bytes": 194593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-751.97e96c2a1fc2.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 752,
+   "file": "11-585-752.da296588d921.pmtiles",
+   "bytes": 388308,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-752.da296588d921.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 753,
+   "file": "11-585-753.c255cde800eb.pmtiles",
+   "bytes": 298864,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-753.c255cde800eb.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 754,
+   "file": "11-585-754.108cd651896c.pmtiles",
+   "bytes": 164227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-754.108cd651896c.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 755,
+   "file": "11-585-755.3efca922b94c.pmtiles",
+   "bytes": 282325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-755.3efca922b94c.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 756,
+   "file": "11-585-756.5354453c5c77.pmtiles",
+   "bytes": 198424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-756.5354453c5c77.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 757,
+   "file": "11-585-757.2c8c575826ac.pmtiles",
+   "bytes": 204083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-757.2c8c575826ac.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 758,
+   "file": "11-585-758.d18499fd6baf.pmtiles",
+   "bytes": 318630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-758.d18499fd6baf.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 759,
+   "file": "11-585-759.2ca7400cab6e.pmtiles",
+   "bytes": 732851,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-759.2ca7400cab6e.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 760,
+   "file": "11-585-760.5471315ce99d.pmtiles",
+   "bytes": 117806,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-585-760.5471315ce99d.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 743,
+   "file": "11-586-743.9139a60bcae5.pmtiles",
+   "bytes": 35898,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-743.9139a60bcae5.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 750,
+   "file": "11-586-750.7fc07f5c478f.pmtiles",
+   "bytes": 200365,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-750.7fc07f5c478f.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 751,
+   "file": "11-586-751.2e0c4b319c1a.pmtiles",
+   "bytes": 201507,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-751.2e0c4b319c1a.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 752,
+   "file": "11-586-752.505c19742f23.pmtiles",
+   "bytes": 224748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-752.505c19742f23.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 753,
+   "file": "11-586-753.f9941cbcaa14.pmtiles",
+   "bytes": 444969,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-753.f9941cbcaa14.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 754,
+   "file": "11-586-754.45cadb331360.pmtiles",
+   "bytes": 209450,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-754.45cadb331360.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 755,
+   "file": "11-586-755.105419dc206c.pmtiles",
+   "bytes": 242830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-755.105419dc206c.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 756,
+   "file": "11-586-756.d0f3bd8a70ff.pmtiles",
+   "bytes": 232064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-756.d0f3bd8a70ff.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 757,
+   "file": "11-586-757.498c802613f3.pmtiles",
+   "bytes": 325336,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-757.498c802613f3.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 758,
+   "file": "11-586-758.d1d7e2447fe7.pmtiles",
+   "bytes": 489157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-758.d1d7e2447fe7.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 759,
+   "file": "11-586-759.1e93efb2d0b0.pmtiles",
+   "bytes": 834314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-759.1e93efb2d0b0.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 760,
+   "file": "11-586-760.c8631c505f3c.pmtiles",
+   "bytes": 120436,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-586-760.c8631c505f3c.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 743,
+   "file": "11-587-743.af11703dd465.pmtiles",
+   "bytes": 27903,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-743.af11703dd465.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 749,
+   "file": "11-587-749.a58a5a602b84.pmtiles",
+   "bytes": 83386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-749.a58a5a602b84.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 750,
+   "file": "11-587-750.b7ee3c1e14a8.pmtiles",
+   "bytes": 186257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-750.b7ee3c1e14a8.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 751,
+   "file": "11-587-751.050d0d67b56a.pmtiles",
+   "bytes": 164442,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-751.050d0d67b56a.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 752,
+   "file": "11-587-752.f02e7b2eec8b.pmtiles",
+   "bytes": 381425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-752.f02e7b2eec8b.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 753,
+   "file": "11-587-753.438285722f2b.pmtiles",
+   "bytes": 332791,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-753.438285722f2b.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 754,
+   "file": "11-587-754.6376f6c49622.pmtiles",
+   "bytes": 147201,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-754.6376f6c49622.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 755,
+   "file": "11-587-755.aa57059f0026.pmtiles",
+   "bytes": 225001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-755.aa57059f0026.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 756,
+   "file": "11-587-756.736608b503ee.pmtiles",
+   "bytes": 257473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-756.736608b503ee.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 757,
+   "file": "11-587-757.264404012bd1.pmtiles",
+   "bytes": 233662,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-757.264404012bd1.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 758,
+   "file": "11-587-758.98f510729da3.pmtiles",
+   "bytes": 328393,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-758.98f510729da3.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 759,
+   "file": "11-587-759.9e5a9a38dcc0.pmtiles",
+   "bytes": 621062,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-759.9e5a9a38dcc0.pmtiles"
+  },
+  {
+   "x": 587,
+   "y": 760,
+   "file": "11-587-760.e4d35b7ddd8c.pmtiles",
+   "bytes": 143288,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-587-760.e4d35b7ddd8c.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 743,
+   "file": "11-588-743.0a5c38e02956.pmtiles",
+   "bytes": 28526,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-743.0a5c38e02956.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 748,
+   "file": "11-588-748.88fa3949c662.pmtiles",
+   "bytes": 151179,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-748.88fa3949c662.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 749,
+   "file": "11-588-749.e2ed9c8e527a.pmtiles",
+   "bytes": 338026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-749.e2ed9c8e527a.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 750,
+   "file": "11-588-750.06f6897b9932.pmtiles",
+   "bytes": 164838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-750.06f6897b9932.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 751,
+   "file": "11-588-751.3258cd9be05b.pmtiles",
+   "bytes": 189846,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-751.3258cd9be05b.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 752,
+   "file": "11-588-752.bd9daeaabe8a.pmtiles",
+   "bytes": 347702,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-752.bd9daeaabe8a.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 753,
+   "file": "11-588-753.04590a346cb8.pmtiles",
+   "bytes": 390865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-753.04590a346cb8.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 754,
+   "file": "11-588-754.cc573a326be3.pmtiles",
+   "bytes": 128298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-754.cc573a326be3.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 755,
+   "file": "11-588-755.f4a1e9ded9d9.pmtiles",
+   "bytes": 176748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-755.f4a1e9ded9d9.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 756,
+   "file": "11-588-756.4ce812f1beb8.pmtiles",
+   "bytes": 951944,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-756.4ce812f1beb8.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 757,
+   "file": "11-588-757.48413391a7df.pmtiles",
+   "bytes": 449654,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-757.48413391a7df.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 758,
+   "file": "11-588-758.ffb02197bcd0.pmtiles",
+   "bytes": 202227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-758.ffb02197bcd0.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 759,
+   "file": "11-588-759.e14eab624ec0.pmtiles",
+   "bytes": 287588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-759.e14eab624ec0.pmtiles"
+  },
+  {
+   "x": 588,
+   "y": 760,
+   "file": "11-588-760.b930bd1bc8e1.pmtiles",
+   "bytes": 252686,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-588-760.b930bd1bc8e1.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 742,
+   "file": "11-589-742.9096e3de95b1.pmtiles",
+   "bytes": 37718,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-742.9096e3de95b1.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 743,
+   "file": "11-589-743.910419d768be.pmtiles",
+   "bytes": 117463,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-743.910419d768be.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 744,
+   "file": "11-589-744.8b5a9fc00753.pmtiles",
+   "bytes": 58036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-744.8b5a9fc00753.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 745,
+   "file": "11-589-745.5676dfce9e96.pmtiles",
+   "bytes": 68093,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-745.5676dfce9e96.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 748,
+   "file": "11-589-748.6ad6e813376a.pmtiles",
+   "bytes": 145890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-748.6ad6e813376a.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 749,
+   "file": "11-589-749.8f4262229788.pmtiles",
+   "bytes": 243130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-749.8f4262229788.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 750,
+   "file": "11-589-750.e29f0bd46aab.pmtiles",
+   "bytes": 378217,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-750.e29f0bd46aab.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 751,
+   "file": "11-589-751.f471d9b542ec.pmtiles",
+   "bytes": 626037,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-751.f471d9b542ec.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 752,
+   "file": "11-589-752.7fc651bf1926.pmtiles",
+   "bytes": 540545,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-752.7fc651bf1926.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 753,
+   "file": "11-589-753.cf5be41f152d.pmtiles",
+   "bytes": 271386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-753.cf5be41f152d.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 754,
+   "file": "11-589-754.72aff7a8b6d5.pmtiles",
+   "bytes": 185424,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-754.72aff7a8b6d5.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 755,
+   "file": "11-589-755.376cc4808373.pmtiles",
+   "bytes": 301580,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-755.376cc4808373.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 756,
+   "file": "11-589-756.b06d61366069.pmtiles",
+   "bytes": 623845,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-756.b06d61366069.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 757,
+   "file": "11-589-757.15fa6fd7574c.pmtiles",
+   "bytes": 269318,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-757.15fa6fd7574c.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 758,
+   "file": "11-589-758.0f510a38ba56.pmtiles",
+   "bytes": 214383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-758.0f510a38ba56.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 759,
+   "file": "11-589-759.82cc8254c9c2.pmtiles",
+   "bytes": 277866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-759.82cc8254c9c2.pmtiles"
+  },
+  {
+   "x": 589,
+   "y": 760,
+   "file": "11-589-760.297d9ace3c00.pmtiles",
+   "bytes": 153302,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-589-760.297d9ace3c00.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 742,
+   "file": "11-590-742.375d323e3acf.pmtiles",
+   "bytes": 127161,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-742.375d323e3acf.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 743,
+   "file": "11-590-743.3585cd80f1ab.pmtiles",
+   "bytes": 135348,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-743.3585cd80f1ab.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 744,
+   "file": "11-590-744.82864b3082d9.pmtiles",
+   "bytes": 166724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-744.82864b3082d9.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 745,
+   "file": "11-590-745.b22f18c7bb69.pmtiles",
+   "bytes": 174694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-745.b22f18c7bb69.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 746,
+   "file": "11-590-746.f01df4ad2d42.pmtiles",
+   "bytes": 119642,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-746.f01df4ad2d42.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 747,
+   "file": "11-590-747.d9eb2bafcf6b.pmtiles",
+   "bytes": 154030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-747.d9eb2bafcf6b.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 748,
+   "file": "11-590-748.05408d77cbf4.pmtiles",
+   "bytes": 257134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-748.05408d77cbf4.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 749,
+   "file": "11-590-749.e5ed59d15bc9.pmtiles",
+   "bytes": 225065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-749.e5ed59d15bc9.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 750,
+   "file": "11-590-750.1c4bab2714d1.pmtiles",
+   "bytes": 416115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-750.1c4bab2714d1.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 751,
+   "file": "11-590-751.73f5c2981c44.pmtiles",
+   "bytes": 2004938,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-751.73f5c2981c44.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 752,
+   "file": "11-590-752.22d35073bfc4.pmtiles",
+   "bytes": 2016045,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-752.22d35073bfc4.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 753,
+   "file": "11-590-753.15554573af39.pmtiles",
+   "bytes": 263395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-753.15554573af39.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 754,
+   "file": "11-590-754.405024e0de9c.pmtiles",
+   "bytes": 381248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-754.405024e0de9c.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 755,
+   "file": "11-590-755.d32ff258a70a.pmtiles",
+   "bytes": 835868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-755.d32ff258a70a.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 756,
+   "file": "11-590-756.92137770b6ef.pmtiles",
+   "bytes": 264614,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-756.92137770b6ef.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 757,
+   "file": "11-590-757.47ed23549d5e.pmtiles",
+   "bytes": 166552,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-757.47ed23549d5e.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 758,
+   "file": "11-590-758.73399d467112.pmtiles",
+   "bytes": 189879,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-758.73399d467112.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 759,
+   "file": "11-590-759.75311d9c3b8b.pmtiles",
+   "bytes": 468875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-759.75311d9c3b8b.pmtiles"
+  },
+  {
+   "x": 590,
+   "y": 760,
+   "file": "11-590-760.b0ee90e9c597.pmtiles",
+   "bytes": 98564,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-590-760.b0ee90e9c597.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 741,
+   "file": "11-591-741.2db02b9ecb55.pmtiles",
+   "bytes": 91773,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-741.2db02b9ecb55.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 742,
+   "file": "11-591-742.b3eea8c1618a.pmtiles",
+   "bytes": 321449,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-742.b3eea8c1618a.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 743,
+   "file": "11-591-743.1ba5103fe212.pmtiles",
+   "bytes": 116500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-743.1ba5103fe212.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 744,
+   "file": "11-591-744.0e78f7dac366.pmtiles",
+   "bytes": 246573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-744.0e78f7dac366.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 745,
+   "file": "11-591-745.d611f7bbb2b2.pmtiles",
+   "bytes": 196065,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-745.d611f7bbb2b2.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 746,
+   "file": "11-591-746.419a3bcb4108.pmtiles",
+   "bytes": 180245,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-746.419a3bcb4108.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 747,
+   "file": "11-591-747.61b219a5c3b3.pmtiles",
+   "bytes": 167748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-747.61b219a5c3b3.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 748,
+   "file": "11-591-748.a1fd6360c9ec.pmtiles",
+   "bytes": 187060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-748.a1fd6360c9ec.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 749,
+   "file": "11-591-749.1100c9da1ee7.pmtiles",
+   "bytes": 145338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-749.1100c9da1ee7.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 750,
+   "file": "11-591-750.6bff5287afbb.pmtiles",
+   "bytes": 226390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-750.6bff5287afbb.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 751,
+   "file": "11-591-751.e3f553d140e7.pmtiles",
+   "bytes": 841630,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-751.e3f553d140e7.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 752,
+   "file": "11-591-752.3273f0db033d.pmtiles",
+   "bytes": 1349375,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-752.3273f0db033d.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 753,
+   "file": "11-591-753.5695c35e761d.pmtiles",
+   "bytes": 269481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-753.5695c35e761d.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 754,
+   "file": "11-591-754.be308167948c.pmtiles",
+   "bytes": 194130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-754.be308167948c.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 755,
+   "file": "11-591-755.27a0dcc4f090.pmtiles",
+   "bytes": 213030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-755.27a0dcc4f090.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 756,
+   "file": "11-591-756.11e2e3b36607.pmtiles",
+   "bytes": 148519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-756.11e2e3b36607.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 757,
+   "file": "11-591-757.3b203dabdba0.pmtiles",
+   "bytes": 165484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-757.3b203dabdba0.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 758,
+   "file": "11-591-758.3cbc81962b4e.pmtiles",
+   "bytes": 194345,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-758.3cbc81962b4e.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 759,
+   "file": "11-591-759.44a0733ac08d.pmtiles",
+   "bytes": 940982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-759.44a0733ac08d.pmtiles"
+  },
+  {
+   "x": 591,
+   "y": 760,
+   "file": "11-591-760.bc9c29a2d137.pmtiles",
+   "bytes": 94395,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-591-760.bc9c29a2d137.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 740,
+   "file": "11-592-740.0540c1d58fe5.pmtiles",
+   "bytes": 34191,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-740.0540c1d58fe5.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 741,
+   "file": "11-592-741.29d5486d248c.pmtiles",
+   "bytes": 243306,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-741.29d5486d248c.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 742,
+   "file": "11-592-742.d0a8ca1d956c.pmtiles",
+   "bytes": 202480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-742.d0a8ca1d956c.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 743,
+   "file": "11-592-743.953e2223ac2f.pmtiles",
+   "bytes": 138994,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-743.953e2223ac2f.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 744,
+   "file": "11-592-744.bbacd90cc332.pmtiles",
+   "bytes": 624868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-744.bbacd90cc332.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 745,
+   "file": "11-592-745.e341008dc0de.pmtiles",
+   "bytes": 189754,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-745.e341008dc0de.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 746,
+   "file": "11-592-746.5909cabcaa39.pmtiles",
+   "bytes": 98031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-746.5909cabcaa39.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 747,
+   "file": "11-592-747.383d4753c608.pmtiles",
+   "bytes": 65877,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-747.383d4753c608.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 748,
+   "file": "11-592-748.73fd21f71108.pmtiles",
+   "bytes": 151425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-748.73fd21f71108.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 749,
+   "file": "11-592-749.9772030beea0.pmtiles",
+   "bytes": 138743,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-749.9772030beea0.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 750,
+   "file": "11-592-750.8ca379838f56.pmtiles",
+   "bytes": 119304,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-750.8ca379838f56.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 751,
+   "file": "11-592-751.bb6632077624.pmtiles",
+   "bytes": 203797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-751.bb6632077624.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 752,
+   "file": "11-592-752.c9a4185ac8c5.pmtiles",
+   "bytes": 234844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-752.c9a4185ac8c5.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 753,
+   "file": "11-592-753.068e38b74543.pmtiles",
+   "bytes": 256485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-753.068e38b74543.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 754,
+   "file": "11-592-754.b112374b452c.pmtiles",
+   "bytes": 147259,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-754.b112374b452c.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 755,
+   "file": "11-592-755.6bc00ce3df03.pmtiles",
+   "bytes": 130273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-755.6bc00ce3df03.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 756,
+   "file": "11-592-756.1bf08412eb2c.pmtiles",
+   "bytes": 126779,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-756.1bf08412eb2c.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 757,
+   "file": "11-592-757.57d9ebeb7e29.pmtiles",
+   "bytes": 133058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-757.57d9ebeb7e29.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 758,
+   "file": "11-592-758.88bc2e2b53ee.pmtiles",
+   "bytes": 271633,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-758.88bc2e2b53ee.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 759,
+   "file": "11-592-759.8ea6d49cab8c.pmtiles",
+   "bytes": 867069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-759.8ea6d49cab8c.pmtiles"
+  },
+  {
+   "x": 592,
+   "y": 760,
+   "file": "11-592-760.57008c230963.pmtiles",
+   "bytes": 157256,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-592-760.57008c230963.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 739,
+   "file": "11-593-739.4ce5289ee294.pmtiles",
+   "bytes": 31426,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-739.4ce5289ee294.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 740,
+   "file": "11-593-740.d654a71832d8.pmtiles",
+   "bytes": 141736,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-740.d654a71832d8.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 741,
+   "file": "11-593-741.4ad1bdda90d0.pmtiles",
+   "bytes": 142732,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-741.4ad1bdda90d0.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 742,
+   "file": "11-593-742.c042f5219393.pmtiles",
+   "bytes": 131960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-742.c042f5219393.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 743,
+   "file": "11-593-743.9221446195ba.pmtiles",
+   "bytes": 215639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-743.9221446195ba.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 744,
+   "file": "11-593-744.046080387673.pmtiles",
+   "bytes": 268227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-744.046080387673.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 745,
+   "file": "11-593-745.776fea62011e.pmtiles",
+   "bytes": 121537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-745.776fea62011e.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 746,
+   "file": "11-593-746.48b10341b5b6.pmtiles",
+   "bytes": 91031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-746.48b10341b5b6.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 747,
+   "file": "11-593-747.309332ee3cb6.pmtiles",
+   "bytes": 46925,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-747.309332ee3cb6.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 748,
+   "file": "11-593-748.caaa6e8b4250.pmtiles",
+   "bytes": 86862,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-748.caaa6e8b4250.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 749,
+   "file": "11-593-749.0e60230c38e2.pmtiles",
+   "bytes": 131231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-749.0e60230c38e2.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 750,
+   "file": "11-593-750.f141a81ed726.pmtiles",
+   "bytes": 254156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-750.f141a81ed726.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 751,
+   "file": "11-593-751.9a3c5feadfbe.pmtiles",
+   "bytes": 387722,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-751.9a3c5feadfbe.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 752,
+   "file": "11-593-752.f43862c11ee6.pmtiles",
+   "bytes": 193914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-752.f43862c11ee6.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 753,
+   "file": "11-593-753.5bc981ba0f19.pmtiles",
+   "bytes": 202835,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-753.5bc981ba0f19.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 754,
+   "file": "11-593-754.c6faf0fbf296.pmtiles",
+   "bytes": 121411,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-754.c6faf0fbf296.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 755,
+   "file": "11-593-755.e7130162b037.pmtiles",
+   "bytes": 131452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-755.e7130162b037.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 756,
+   "file": "11-593-756.61160bf8caa8.pmtiles",
+   "bytes": 144588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-756.61160bf8caa8.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 757,
+   "file": "11-593-757.9de79934a9f6.pmtiles",
+   "bytes": 116451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-757.9de79934a9f6.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 758,
+   "file": "11-593-758.9d7a3d24a713.pmtiles",
+   "bytes": 163036,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-758.9d7a3d24a713.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 759,
+   "file": "11-593-759.0613f80d52fb.pmtiles",
+   "bytes": 348058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-759.0613f80d52fb.pmtiles"
+  },
+  {
+   "x": 593,
+   "y": 760,
+   "file": "11-593-760.79b3fda00cd0.pmtiles",
+   "bytes": 136727,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-593-760.79b3fda00cd0.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 738,
+   "file": "11-594-738.6950b45e3c7d.pmtiles",
+   "bytes": 56033,
+   "tiles": 27,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-738.6950b45e3c7d.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 739,
+   "file": "11-594-739.4c53c464db5a.pmtiles",
+   "bytes": 245201,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-739.4c53c464db5a.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 740,
+   "file": "11-594-740.5487b4c6fd9f.pmtiles",
+   "bytes": 99484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-740.5487b4c6fd9f.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 741,
+   "file": "11-594-741.7160a6446803.pmtiles",
+   "bytes": 128203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-741.7160a6446803.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 742,
+   "file": "11-594-742.23b8be7e4f12.pmtiles",
+   "bytes": 285446,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-742.23b8be7e4f12.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 743,
+   "file": "11-594-743.e0718fc501ed.pmtiles",
+   "bytes": 88438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-743.e0718fc501ed.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 744,
+   "file": "11-594-744.f6017d80d127.pmtiles",
+   "bytes": 116423,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-744.f6017d80d127.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 745,
+   "file": "11-594-745.60fa35012d2a.pmtiles",
+   "bytes": 149477,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-745.60fa35012d2a.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 746,
+   "file": "11-594-746.a12a11b43b8c.pmtiles",
+   "bytes": 214278,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-746.a12a11b43b8c.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 747,
+   "file": "11-594-747.6733f01c9021.pmtiles",
+   "bytes": 110197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-747.6733f01c9021.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 748,
+   "file": "11-594-748.4750eb8a55f6.pmtiles",
+   "bytes": 124376,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-748.4750eb8a55f6.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 749,
+   "file": "11-594-749.e79cc8c2f80b.pmtiles",
+   "bytes": 96532,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-749.e79cc8c2f80b.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 750,
+   "file": "11-594-750.53d00cc9041b.pmtiles",
+   "bytes": 425605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-750.53d00cc9041b.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 751,
+   "file": "11-594-751.def31f0caa17.pmtiles",
+   "bytes": 317519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-751.def31f0caa17.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 752,
+   "file": "11-594-752.de8aac5364ee.pmtiles",
+   "bytes": 218741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-752.de8aac5364ee.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 753,
+   "file": "11-594-753.7a352c9bdd6b.pmtiles",
+   "bytes": 328019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-753.7a352c9bdd6b.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 754,
+   "file": "11-594-754.9134e63ba9fb.pmtiles",
+   "bytes": 156372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-754.9134e63ba9fb.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 755,
+   "file": "11-594-755.8620c6bd77d2.pmtiles",
+   "bytes": 156804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-755.8620c6bd77d2.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 756,
+   "file": "11-594-756.70b1aa967bdd.pmtiles",
+   "bytes": 153636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-756.70b1aa967bdd.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 757,
+   "file": "11-594-757.3053edfeae6d.pmtiles",
+   "bytes": 147639,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-757.3053edfeae6d.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 758,
+   "file": "11-594-758.62d0fe65b63c.pmtiles",
+   "bytes": 181044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-758.62d0fe65b63c.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 759,
+   "file": "11-594-759.91fde936ec30.pmtiles",
+   "bytes": 159573,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-759.91fde936ec30.pmtiles"
+  },
+  {
+   "x": 594,
+   "y": 760,
+   "file": "11-594-760.d13e56075810.pmtiles",
+   "bytes": 54988,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-594-760.d13e56075810.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 738,
+   "file": "11-595-738.acf48bd6fa9a.pmtiles",
+   "bytes": 159874,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-738.acf48bd6fa9a.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 739,
+   "file": "11-595-739.6f25df5557d8.pmtiles",
+   "bytes": 192280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-739.6f25df5557d8.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 740,
+   "file": "11-595-740.686501b61b67.pmtiles",
+   "bytes": 126866,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-740.686501b61b67.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 741,
+   "file": "11-595-741.3679144236a8.pmtiles",
+   "bytes": 106267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-741.3679144236a8.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 742,
+   "file": "11-595-742.0e686fa119a5.pmtiles",
+   "bytes": 120956,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-742.0e686fa119a5.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 743,
+   "file": "11-595-743.f414d8971cee.pmtiles",
+   "bytes": 152176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-743.f414d8971cee.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 744,
+   "file": "11-595-744.a0a79c60cb7f.pmtiles",
+   "bytes": 85597,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-744.a0a79c60cb7f.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 745,
+   "file": "11-595-745.3d47ebabc6bc.pmtiles",
+   "bytes": 144024,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-745.3d47ebabc6bc.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 746,
+   "file": "11-595-746.53911182ae88.pmtiles",
+   "bytes": 178040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-746.53911182ae88.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 747,
+   "file": "11-595-747.2170484abbe1.pmtiles",
+   "bytes": 221937,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-747.2170484abbe1.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 748,
+   "file": "11-595-748.cfbfdf4a931a.pmtiles",
+   "bytes": 247102,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-748.cfbfdf4a931a.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 749,
+   "file": "11-595-749.0e0484dffc95.pmtiles",
+   "bytes": 115362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-749.0e0484dffc95.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 750,
+   "file": "11-595-750.05ac5b73fd12.pmtiles",
+   "bytes": 161268,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-750.05ac5b73fd12.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 751,
+   "file": "11-595-751.67e6037ea47e.pmtiles",
+   "bytes": 669486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-751.67e6037ea47e.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 752,
+   "file": "11-595-752.5182b2525224.pmtiles",
+   "bytes": 417485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-752.5182b2525224.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 753,
+   "file": "11-595-753.db57aa5a6b0b.pmtiles",
+   "bytes": 183413,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-753.db57aa5a6b0b.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 754,
+   "file": "11-595-754.279d250d6b05.pmtiles",
+   "bytes": 138998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-754.279d250d6b05.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 755,
+   "file": "11-595-755.07c26fdae0ee.pmtiles",
+   "bytes": 133425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-755.07c26fdae0ee.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 756,
+   "file": "11-595-756.422e72c1d1eb.pmtiles",
+   "bytes": 139323,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-756.422e72c1d1eb.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 757,
+   "file": "11-595-757.58a89c4f15d7.pmtiles",
+   "bytes": 197560,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-757.58a89c4f15d7.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 758,
+   "file": "11-595-758.8751311fff3e.pmtiles",
+   "bytes": 141140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-758.8751311fff3e.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 759,
+   "file": "11-595-759.bdaf8fd1f536.pmtiles",
+   "bytes": 149188,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-759.bdaf8fd1f536.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 760,
+   "file": "11-595-760.89f20f657ca9.pmtiles",
+   "bytes": 203550,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-760.89f20f657ca9.pmtiles"
+  },
+  {
+   "x": 595,
+   "y": 761,
+   "file": "11-595-761.b0e0a3e4a6f1.pmtiles",
+   "bytes": 23262,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-595-761.b0e0a3e4a6f1.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 737,
+   "file": "11-596-737.c8ecbf0d1104.pmtiles",
+   "bytes": 159464,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-737.c8ecbf0d1104.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 738,
+   "file": "11-596-738.ca9470b7c5e0.pmtiles",
+   "bytes": 120750,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-738.ca9470b7c5e0.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 739,
+   "file": "11-596-739.78cf52dee384.pmtiles",
+   "bytes": 280017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-739.78cf52dee384.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 740,
+   "file": "11-596-740.648ccf98f299.pmtiles",
+   "bytes": 170356,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-740.648ccf98f299.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 741,
+   "file": "11-596-741.f0262c071cdd.pmtiles",
+   "bytes": 131656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-741.f0262c071cdd.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 742,
+   "file": "11-596-742.7fb78b592ea1.pmtiles",
+   "bytes": 89381,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-742.7fb78b592ea1.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 743,
+   "file": "11-596-743.80ef4d767a64.pmtiles",
+   "bytes": 86399,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-743.80ef4d767a64.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 744,
+   "file": "11-596-744.a99fd0368012.pmtiles",
+   "bytes": 87291,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-744.a99fd0368012.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 745,
+   "file": "11-596-745.3ef42fd9d2c3.pmtiles",
+   "bytes": 97764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-745.3ef42fd9d2c3.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 746,
+   "file": "11-596-746.beb551bcea92.pmtiles",
+   "bytes": 66419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-746.beb551bcea92.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 747,
+   "file": "11-596-747.980f37d8eae0.pmtiles",
+   "bytes": 122595,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-747.980f37d8eae0.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 748,
+   "file": "11-596-748.da31d5f894ae.pmtiles",
+   "bytes": 123427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-748.da31d5f894ae.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 749,
+   "file": "11-596-749.0afb2341ba9f.pmtiles",
+   "bytes": 178826,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-749.0afb2341ba9f.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 750,
+   "file": "11-596-750.c64296897f98.pmtiles",
+   "bytes": 190971,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-750.c64296897f98.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 751,
+   "file": "11-596-751.e89657ed696d.pmtiles",
+   "bytes": 400408,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-751.e89657ed696d.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 752,
+   "file": "11-596-752.5dc49e4816cf.pmtiles",
+   "bytes": 246001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-752.5dc49e4816cf.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 753,
+   "file": "11-596-753.432c830d17d4.pmtiles",
+   "bytes": 172124,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-753.432c830d17d4.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 754,
+   "file": "11-596-754.bf6737b828dc.pmtiles",
+   "bytes": 129184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-754.bf6737b828dc.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 755,
+   "file": "11-596-755.818d68aed1c6.pmtiles",
+   "bytes": 129712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-755.818d68aed1c6.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 756,
+   "file": "11-596-756.63decaff2a36.pmtiles",
+   "bytes": 236134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-756.63decaff2a36.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 757,
+   "file": "11-596-757.8e5dee8d74e7.pmtiles",
+   "bytes": 148243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-757.8e5dee8d74e7.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 758,
+   "file": "11-596-758.448200829a83.pmtiles",
+   "bytes": 166234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-758.448200829a83.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 759,
+   "file": "11-596-759.f324343b62d2.pmtiles",
+   "bytes": 129264,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-759.f324343b62d2.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 760,
+   "file": "11-596-760.0326facb254e.pmtiles",
+   "bytes": 188923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-760.0326facb254e.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 761,
+   "file": "11-596-761.1dd4152630b3.pmtiles",
+   "bytes": 126930,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-761.1dd4152630b3.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 762,
+   "file": "11-596-762.4a69965e56cc.pmtiles",
+   "bytes": 37056,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-762.4a69965e56cc.pmtiles"
+  },
+  {
+   "x": 596,
+   "y": 763,
+   "file": "11-596-763.837305b9eb4f.pmtiles",
+   "bytes": 27236,
+   "tiles": 28,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-596-763.837305b9eb4f.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 736,
+   "file": "11-597-736.70799d6ca41e.pmtiles",
+   "bytes": 64830,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-736.70799d6ca41e.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 737,
+   "file": "11-597-737.91159c3111ed.pmtiles",
+   "bytes": 266330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-737.91159c3111ed.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 738,
+   "file": "11-597-738.648cc23f0371.pmtiles",
+   "bytes": 303130,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-738.648cc23f0371.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 739,
+   "file": "11-597-739.cb857ee26d9c.pmtiles",
+   "bytes": 510199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-739.cb857ee26d9c.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 740,
+   "file": "11-597-740.2cde8b0065cd.pmtiles",
+   "bytes": 168508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-740.2cde8b0065cd.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 741,
+   "file": "11-597-741.d0f52d5d1d51.pmtiles",
+   "bytes": 68052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-741.d0f52d5d1d51.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 742,
+   "file": "11-597-742.f8aae44fe52a.pmtiles",
+   "bytes": 74869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-742.f8aae44fe52a.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 743,
+   "file": "11-597-743.177a9242434b.pmtiles",
+   "bytes": 149865,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-743.177a9242434b.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 744,
+   "file": "11-597-744.caf33e000852.pmtiles",
+   "bytes": 71562,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-744.caf33e000852.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 745,
+   "file": "11-597-745.5e72ec47aa77.pmtiles",
+   "bytes": 184202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-745.5e72ec47aa77.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 746,
+   "file": "11-597-746.c44e5fd41c59.pmtiles",
+   "bytes": 218430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-746.c44e5fd41c59.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 747,
+   "file": "11-597-747.7643a08fa3ff.pmtiles",
+   "bytes": 172953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-747.7643a08fa3ff.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 748,
+   "file": "11-597-748.49c9ac118965.pmtiles",
+   "bytes": 79248,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-748.49c9ac118965.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 749,
+   "file": "11-597-749.72295379bfa0.pmtiles",
+   "bytes": 125169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-749.72295379bfa0.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 750,
+   "file": "11-597-750.98c27838a7cd.pmtiles",
+   "bytes": 136601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-750.98c27838a7cd.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 751,
+   "file": "11-597-751.95ff19516a57.pmtiles",
+   "bytes": 169490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-751.95ff19516a57.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 752,
+   "file": "11-597-752.af21c1bad1c1.pmtiles",
+   "bytes": 387894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-752.af21c1bad1c1.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 753,
+   "file": "11-597-753.fd91f7bd0ca8.pmtiles",
+   "bytes": 168927,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-753.fd91f7bd0ca8.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 754,
+   "file": "11-597-754.0749697c10ef.pmtiles",
+   "bytes": 209991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-754.0749697c10ef.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 755,
+   "file": "11-597-755.0e1e0e8e0edb.pmtiles",
+   "bytes": 166071,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-755.0e1e0e8e0edb.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 756,
+   "file": "11-597-756.d45b4b6c5de1.pmtiles",
+   "bytes": 227285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-756.d45b4b6c5de1.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 757,
+   "file": "11-597-757.6a4d68e26e30.pmtiles",
+   "bytes": 120199,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-757.6a4d68e26e30.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 758,
+   "file": "11-597-758.cae6b49fdf75.pmtiles",
+   "bytes": 145409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-758.cae6b49fdf75.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 759,
+   "file": "11-597-759.626e47011818.pmtiles",
+   "bytes": 138510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-759.626e47011818.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 760,
+   "file": "11-597-760.f5c1b6b2fdde.pmtiles",
+   "bytes": 170888,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-760.f5c1b6b2fdde.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 761,
+   "file": "11-597-761.194a9b35a3fd.pmtiles",
+   "bytes": 160021,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-761.194a9b35a3fd.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 762,
+   "file": "11-597-762.c4f162d4ce91.pmtiles",
+   "bytes": 212132,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-762.c4f162d4ce91.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 763,
+   "file": "11-597-763.5a7668ff296c.pmtiles",
+   "bytes": 164884,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-763.5a7668ff296c.pmtiles"
+  },
+  {
+   "x": 597,
+   "y": 764,
+   "file": "11-597-764.7962dff2af16.pmtiles",
+   "bytes": 78588,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-597-764.7962dff2af16.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 736,
+   "file": "11-598-736.293ff33b79a1.pmtiles",
+   "bytes": 139964,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-736.293ff33b79a1.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 737,
+   "file": "11-598-737.dc4ea88e6c75.pmtiles",
+   "bytes": 184732,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-737.dc4ea88e6c75.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 738,
+   "file": "11-598-738.c7a4c5d6db7c.pmtiles",
+   "bytes": 201649,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-738.c7a4c5d6db7c.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 739,
+   "file": "11-598-739.2c5a91d00c4e.pmtiles",
+   "bytes": 197010,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-739.2c5a91d00c4e.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 740,
+   "file": "11-598-740.bc8972df70b7.pmtiles",
+   "bytes": 109686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-740.bc8972df70b7.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 741,
+   "file": "11-598-741.c73febe4cd95.pmtiles",
+   "bytes": 91838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-741.c73febe4cd95.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 742,
+   "file": "11-598-742.2bb4d0ef3e82.pmtiles",
+   "bytes": 102050,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-742.2bb4d0ef3e82.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 743,
+   "file": "11-598-743.64620d6fca15.pmtiles",
+   "bytes": 147057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-743.64620d6fca15.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 744,
+   "file": "11-598-744.bae0df43b8db.pmtiles",
+   "bytes": 100892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-744.bae0df43b8db.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 745,
+   "file": "11-598-745.20ae38219bf3.pmtiles",
+   "bytes": 80570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-745.20ae38219bf3.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 746,
+   "file": "11-598-746.b31b50eab0ae.pmtiles",
+   "bytes": 199816,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-746.b31b50eab0ae.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 747,
+   "file": "11-598-747.17dc810d263d.pmtiles",
+   "bytes": 76116,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-747.17dc810d263d.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 748,
+   "file": "11-598-748.0439a06f8721.pmtiles",
+   "bytes": 61270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-748.0439a06f8721.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 749,
+   "file": "11-598-749.d5ce799d4785.pmtiles",
+   "bytes": 75315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-749.d5ce799d4785.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 750,
+   "file": "11-598-750.2b2eb35dd9a3.pmtiles",
+   "bytes": 64203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-750.2b2eb35dd9a3.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 751,
+   "file": "11-598-751.e7160b24dbf2.pmtiles",
+   "bytes": 189667,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-751.e7160b24dbf2.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 752,
+   "file": "11-598-752.ff1281bce903.pmtiles",
+   "bytes": 253351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-752.ff1281bce903.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 753,
+   "file": "11-598-753.2d2eedca1725.pmtiles",
+   "bytes": 143137,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-753.2d2eedca1725.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 754,
+   "file": "11-598-754.1a48e3ff7593.pmtiles",
+   "bytes": 134384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-754.1a48e3ff7593.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 755,
+   "file": "11-598-755.28e963cac534.pmtiles",
+   "bytes": 134940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-755.28e963cac534.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 756,
+   "file": "11-598-756.f124fd2862b6.pmtiles",
+   "bytes": 133811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-756.f124fd2862b6.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 757,
+   "file": "11-598-757.dd4713655ee9.pmtiles",
+   "bytes": 149178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-757.dd4713655ee9.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 758,
+   "file": "11-598-758.4f5b88081687.pmtiles",
+   "bytes": 153497,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-758.4f5b88081687.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 759,
+   "file": "11-598-759.83a079d6fa51.pmtiles",
+   "bytes": 191586,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-759.83a079d6fa51.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 760,
+   "file": "11-598-760.63156420d56c.pmtiles",
+   "bytes": 195467,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-760.63156420d56c.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 761,
+   "file": "11-598-761.924314fecfa5.pmtiles",
+   "bytes": 240939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-761.924314fecfa5.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 762,
+   "file": "11-598-762.6944130ff760.pmtiles",
+   "bytes": 259986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-762.6944130ff760.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 763,
+   "file": "11-598-763.7de7af100246.pmtiles",
+   "bytes": 228134,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-763.7de7af100246.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 764,
+   "file": "11-598-764.7e6e638a8f31.pmtiles",
+   "bytes": 201581,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-764.7e6e638a8f31.pmtiles"
+  },
+  {
+   "x": 598,
+   "y": 765,
+   "file": "11-598-765.b3fe7862e012.pmtiles",
+   "bytes": 33593,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-598-765.b3fe7862e012.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 736,
+   "file": "11-599-736.e5e65ceaed41.pmtiles",
+   "bytes": 152671,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-736.e5e65ceaed41.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 737,
+   "file": "11-599-737.7ff456af29fd.pmtiles",
+   "bytes": 111426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-737.7ff456af29fd.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 738,
+   "file": "11-599-738.2fd0b7935988.pmtiles",
+   "bytes": 116243,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-738.2fd0b7935988.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 739,
+   "file": "11-599-739.78f7ddaf720b.pmtiles",
+   "bytes": 104346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-739.78f7ddaf720b.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 740,
+   "file": "11-599-740.bd1f9a0c863e.pmtiles",
+   "bytes": 54002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-740.bd1f9a0c863e.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 741,
+   "file": "11-599-741.e12c99df8074.pmtiles",
+   "bytes": 55740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-741.e12c99df8074.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 742,
+   "file": "11-599-742.313b8add5e4d.pmtiles",
+   "bytes": 116598,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-742.313b8add5e4d.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 743,
+   "file": "11-599-743.997078b1eba3.pmtiles",
+   "bytes": 118833,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-743.997078b1eba3.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 744,
+   "file": "11-599-744.5515b63bdc95.pmtiles",
+   "bytes": 88725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-744.5515b63bdc95.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 745,
+   "file": "11-599-745.840e3b966aa0.pmtiles",
+   "bytes": 119230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-745.840e3b966aa0.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 746,
+   "file": "11-599-746.722c75757c2e.pmtiles",
+   "bytes": 105962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-746.722c75757c2e.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 747,
+   "file": "11-599-747.2db664e18174.pmtiles",
+   "bytes": 110200,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-747.2db664e18174.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 748,
+   "file": "11-599-748.b5c032bbe8e4.pmtiles",
+   "bytes": 55725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-748.b5c032bbe8e4.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 749,
+   "file": "11-599-749.8e49f43b166d.pmtiles",
+   "bytes": 94492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-749.8e49f43b166d.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 750,
+   "file": "11-599-750.fc1643bd8a99.pmtiles",
+   "bytes": 99570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-750.fc1643bd8a99.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 751,
+   "file": "11-599-751.0a84c504009c.pmtiles",
+   "bytes": 139485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-751.0a84c504009c.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 752,
+   "file": "11-599-752.e186f5e3c8d5.pmtiles",
+   "bytes": 165561,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-752.e186f5e3c8d5.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 753,
+   "file": "11-599-753.ca30b26b2981.pmtiles",
+   "bytes": 234400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-753.ca30b26b2981.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 754,
+   "file": "11-599-754.3eeb7edf099d.pmtiles",
+   "bytes": 129372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-754.3eeb7edf099d.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 755,
+   "file": "11-599-755.2b87305e136d.pmtiles",
+   "bytes": 151637,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-755.2b87305e136d.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 756,
+   "file": "11-599-756.0a0fa696c6ee.pmtiles",
+   "bytes": 136054,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-756.0a0fa696c6ee.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 757,
+   "file": "11-599-757.9aba4c0b5c94.pmtiles",
+   "bytes": 176978,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-757.9aba4c0b5c94.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 758,
+   "file": "11-599-758.e114d8f52db0.pmtiles",
+   "bytes": 203315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-758.e114d8f52db0.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 759,
+   "file": "11-599-759.f59b332c8306.pmtiles",
+   "bytes": 297417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-759.f59b332c8306.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 760,
+   "file": "11-599-760.86d7af43b3ea.pmtiles",
+   "bytes": 172178,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-760.86d7af43b3ea.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 761,
+   "file": "11-599-761.2861ba3a4306.pmtiles",
+   "bytes": 217489,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-761.2861ba3a4306.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 762,
+   "file": "11-599-762.1063adfd8b87.pmtiles",
+   "bytes": 496508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-762.1063adfd8b87.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 763,
+   "file": "11-599-763.0a74a465901a.pmtiles",
+   "bytes": 320712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-763.0a74a465901a.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 764,
+   "file": "11-599-764.b0bdebf069ef.pmtiles",
+   "bytes": 468518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-764.b0bdebf069ef.pmtiles"
+  },
+  {
+   "x": 599,
+   "y": 765,
+   "file": "11-599-765.04517b187e09.pmtiles",
+   "bytes": 313227,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-599-765.04517b187e09.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 736,
+   "file": "11-600-736.0c39052bab8e.pmtiles",
+   "bytes": 70130,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-736.0c39052bab8e.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 737,
+   "file": "11-600-737.47e3352bee8d.pmtiles",
+   "bytes": 108495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-737.47e3352bee8d.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 738,
+   "file": "11-600-738.50bcee677252.pmtiles",
+   "bytes": 119585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-738.50bcee677252.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 739,
+   "file": "11-600-739.4f1a5bc0df8b.pmtiles",
+   "bytes": 95710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-739.4f1a5bc0df8b.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 740,
+   "file": "11-600-740.adf6966961f0.pmtiles",
+   "bytes": 77355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-740.adf6966961f0.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 741,
+   "file": "11-600-741.c064b77e916c.pmtiles",
+   "bytes": 93847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-741.c064b77e916c.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 742,
+   "file": "11-600-742.f07bbbd28e3d.pmtiles",
+   "bytes": 208963,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-742.f07bbbd28e3d.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 743,
+   "file": "11-600-743.d8aeee1b810f.pmtiles",
+   "bytes": 110875,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-743.d8aeee1b810f.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 744,
+   "file": "11-600-744.4a9d728f2aeb.pmtiles",
+   "bytes": 129590,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-744.4a9d728f2aeb.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 745,
+   "file": "11-600-745.7ffe96607bb2.pmtiles",
+   "bytes": 139485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-745.7ffe96607bb2.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 746,
+   "file": "11-600-746.4f3a38ffa3b7.pmtiles",
+   "bytes": 80269,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-746.4f3a38ffa3b7.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 747,
+   "file": "11-600-747.44cb6c283698.pmtiles",
+   "bytes": 106629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-747.44cb6c283698.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 748,
+   "file": "11-600-748.bf305e464c37.pmtiles",
+   "bytes": 166087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-748.bf305e464c37.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 749,
+   "file": "11-600-749.20170d2c3b44.pmtiles",
+   "bytes": 83101,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-749.20170d2c3b44.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 750,
+   "file": "11-600-750.b2de1fdf15d8.pmtiles",
+   "bytes": 74991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-750.b2de1fdf15d8.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 751,
+   "file": "11-600-751.9965a91fef70.pmtiles",
+   "bytes": 216587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-751.9965a91fef70.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 752,
+   "file": "11-600-752.1648ed974f48.pmtiles",
+   "bytes": 403534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-752.1648ed974f48.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 753,
+   "file": "11-600-753.901cdaade2a4.pmtiles",
+   "bytes": 147627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-753.901cdaade2a4.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 754,
+   "file": "11-600-754.1be84b8aabb1.pmtiles",
+   "bytes": 163625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-754.1be84b8aabb1.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 755,
+   "file": "11-600-755.2a839c3903f4.pmtiles",
+   "bytes": 199473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-755.2a839c3903f4.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 756,
+   "file": "11-600-756.58a3ea4b080a.pmtiles",
+   "bytes": 153386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-756.58a3ea4b080a.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 757,
+   "file": "11-600-757.de91f143fe3b.pmtiles",
+   "bytes": 191972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-757.de91f143fe3b.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 758,
+   "file": "11-600-758.bb7b6b9735e2.pmtiles",
+   "bytes": 286058,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-758.bb7b6b9735e2.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 759,
+   "file": "11-600-759.8a2fccc1aa05.pmtiles",
+   "bytes": 298827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-759.8a2fccc1aa05.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 760,
+   "file": "11-600-760.af30bd54976d.pmtiles",
+   "bytes": 151801,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-760.af30bd54976d.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 761,
+   "file": "11-600-761.6c31224ed1ae.pmtiles",
+   "bytes": 186924,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-761.6c31224ed1ae.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 762,
+   "file": "11-600-762.8df4fd8e3c9e.pmtiles",
+   "bytes": 327434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-762.8df4fd8e3c9e.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 763,
+   "file": "11-600-763.0d97a685f3f8.pmtiles",
+   "bytes": 500320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-763.0d97a685f3f8.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 764,
+   "file": "11-600-764.35329a9d55c7.pmtiles",
+   "bytes": 1211546,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-764.35329a9d55c7.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 765,
+   "file": "11-600-765.1517c3d93510.pmtiles",
+   "bytes": 538320,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-765.1517c3d93510.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 766,
+   "file": "11-600-766.7d434eccdbbf.pmtiles",
+   "bytes": 184471,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-766.7d434eccdbbf.pmtiles"
+  },
+  {
+   "x": 600,
+   "y": 767,
+   "file": "11-600-767.3fe47bab0e09.pmtiles",
+   "bytes": 28349,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-600-767.3fe47bab0e09.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 736,
+   "file": "11-601-736.69f1ec1de879.pmtiles",
+   "bytes": 53888,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-736.69f1ec1de879.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 737,
+   "file": "11-601-737.df34292aeaec.pmtiles",
+   "bytes": 202206,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-737.df34292aeaec.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 738,
+   "file": "11-601-738.0dad19bb072d.pmtiles",
+   "bytes": 126348,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-738.0dad19bb072d.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 739,
+   "file": "11-601-739.235d07cf62bd.pmtiles",
+   "bytes": 95473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-739.235d07cf62bd.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 740,
+   "file": "11-601-740.84cc4b156c23.pmtiles",
+   "bytes": 84575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-740.84cc4b156c23.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 741,
+   "file": "11-601-741.03a1051a7186.pmtiles",
+   "bytes": 223030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-741.03a1051a7186.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 742,
+   "file": "11-601-742.ec08eacf3250.pmtiles",
+   "bytes": 172645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-742.ec08eacf3250.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 743,
+   "file": "11-601-743.eb789638dc7b.pmtiles",
+   "bytes": 210220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-743.eb789638dc7b.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 744,
+   "file": "11-601-744.4bda029f66d6.pmtiles",
+   "bytes": 154634,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-744.4bda029f66d6.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 745,
+   "file": "11-601-745.cfa3fe6f1002.pmtiles",
+   "bytes": 139556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-745.cfa3fe6f1002.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 746,
+   "file": "11-601-746.24b21dcc747a.pmtiles",
+   "bytes": 203503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-746.24b21dcc747a.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 747,
+   "file": "11-601-747.9c75a53e6cf2.pmtiles",
+   "bytes": 110362,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-747.9c75a53e6cf2.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 748,
+   "file": "11-601-748.58b5310da9e3.pmtiles",
+   "bytes": 101127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-748.58b5310da9e3.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 749,
+   "file": "11-601-749.e9607516b59a.pmtiles",
+   "bytes": 126193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-749.e9607516b59a.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 750,
+   "file": "11-601-750.14981f13c1c9.pmtiles",
+   "bytes": 149960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-750.14981f13c1c9.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 751,
+   "file": "11-601-751.92eb74dc3697.pmtiles",
+   "bytes": 279351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-751.92eb74dc3697.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 752,
+   "file": "11-601-752.a8f68c8579af.pmtiles",
+   "bytes": 637141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-752.a8f68c8579af.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 753,
+   "file": "11-601-753.2c7dcf6e1ca2.pmtiles",
+   "bytes": 230690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-753.2c7dcf6e1ca2.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 754,
+   "file": "11-601-754.2df7d85eb52e.pmtiles",
+   "bytes": 239459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-754.2df7d85eb52e.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 755,
+   "file": "11-601-755.821189c2f8aa.pmtiles",
+   "bytes": 181511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-755.821189c2f8aa.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 756,
+   "file": "11-601-756.95c383001355.pmtiles",
+   "bytes": 156939,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-756.95c383001355.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 757,
+   "file": "11-601-757.04343fef6f9e.pmtiles",
+   "bytes": 259627,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-757.04343fef6f9e.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 758,
+   "file": "11-601-758.89da7b7c4b61.pmtiles",
+   "bytes": 493070,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-758.89da7b7c4b61.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 759,
+   "file": "11-601-759.7118565012cb.pmtiles",
+   "bytes": 381677,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-759.7118565012cb.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 760,
+   "file": "11-601-760.0eb7377c8c18.pmtiles",
+   "bytes": 369128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-760.0eb7377c8c18.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 761,
+   "file": "11-601-761.f149c0fad23d.pmtiles",
+   "bytes": 277886,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-761.f149c0fad23d.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 762,
+   "file": "11-601-762.207c589b582a.pmtiles",
+   "bytes": 353760,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-762.207c589b582a.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 763,
+   "file": "11-601-763.c0fbc32a9c4d.pmtiles",
+   "bytes": 610917,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-763.c0fbc32a9c4d.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 764,
+   "file": "11-601-764.3e6ce89de076.pmtiles",
+   "bytes": 687334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-764.3e6ce89de076.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 765,
+   "file": "11-601-765.7d561f3da7f1.pmtiles",
+   "bytes": 753585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-765.7d561f3da7f1.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 766,
+   "file": "11-601-766.1b126e280086.pmtiles",
+   "bytes": 385918,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-766.1b126e280086.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 767,
+   "file": "11-601-767.47435f6355ee.pmtiles",
+   "bytes": 44778,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-767.47435f6355ee.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 770,
+   "file": "11-601-770.92cdb4ffa970.pmtiles",
+   "bytes": 209569,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-770.92cdb4ffa970.pmtiles"
+  },
+  {
+   "x": 601,
+   "y": 771,
+   "file": "11-601-771.8c0fd8050cfd.pmtiles",
+   "bytes": 1246765,
+   "tiles": 47,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-601-771.8c0fd8050cfd.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 736,
+   "file": "11-602-736.818605ebfde1.pmtiles",
+   "bytes": 63231,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-736.818605ebfde1.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 737,
+   "file": "11-602-737.d0c149d75243.pmtiles",
+   "bytes": 134145,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-737.d0c149d75243.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 738,
+   "file": "11-602-738.eee90d1635b0.pmtiles",
+   "bytes": 79053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-738.eee90d1635b0.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 739,
+   "file": "11-602-739.3756b74aefff.pmtiles",
+   "bytes": 91916,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-739.3756b74aefff.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 740,
+   "file": "11-602-740.11126fecbfaa.pmtiles",
+   "bytes": 134923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-740.11126fecbfaa.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 741,
+   "file": "11-602-741.0e50a97af81a.pmtiles",
+   "bytes": 142481,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-741.0e50a97af81a.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 742,
+   "file": "11-602-742.cac184041753.pmtiles",
+   "bytes": 311650,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-742.cac184041753.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 743,
+   "file": "11-602-743.2660cc83b6b7.pmtiles",
+   "bytes": 149020,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-743.2660cc83b6b7.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 744,
+   "file": "11-602-744.4a809e40689f.pmtiles",
+   "bytes": 179144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-744.4a809e40689f.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 745,
+   "file": "11-602-745.20b61021637c.pmtiles",
+   "bytes": 103814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-745.20b61021637c.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 746,
+   "file": "11-602-746.b070d86cde61.pmtiles",
+   "bytes": 198142,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-746.b070d86cde61.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 747,
+   "file": "11-602-747.12d47a969398.pmtiles",
+   "bytes": 158730,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-747.12d47a969398.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 748,
+   "file": "11-602-748.e8e77ad59f6f.pmtiles",
+   "bytes": 74778,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-748.e8e77ad59f6f.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 749,
+   "file": "11-602-749.346ba4c3a2f3.pmtiles",
+   "bytes": 88863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-749.346ba4c3a2f3.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 750,
+   "file": "11-602-750.9a64b155f6e4.pmtiles",
+   "bytes": 225352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-750.9a64b155f6e4.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 751,
+   "file": "11-602-751.df2dc1faa70d.pmtiles",
+   "bytes": 212970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-751.df2dc1faa70d.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 752,
+   "file": "11-602-752.d96d8e30f0ef.pmtiles",
+   "bytes": 293317,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-752.d96d8e30f0ef.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 753,
+   "file": "11-602-753.20ababc9fb7d.pmtiles",
+   "bytes": 337035,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-753.20ababc9fb7d.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 754,
+   "file": "11-602-754.4c7c039b1c8d.pmtiles",
+   "bytes": 360531,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-754.4c7c039b1c8d.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 755,
+   "file": "11-602-755.e7d26eadb37c.pmtiles",
+   "bytes": 248658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-755.e7d26eadb37c.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 756,
+   "file": "11-602-756.7ed58659c296.pmtiles",
+   "bytes": 211648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-756.7ed58659c296.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 757,
+   "file": "11-602-757.497a0c4a934a.pmtiles",
+   "bytes": 250823,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-757.497a0c4a934a.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 758,
+   "file": "11-602-758.2d4cf10ac983.pmtiles",
+   "bytes": 483238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-758.2d4cf10ac983.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 759,
+   "file": "11-602-759.e2d6c20ecfda.pmtiles",
+   "bytes": 454792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-759.e2d6c20ecfda.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 760,
+   "file": "11-602-760.d8197f26ddaf.pmtiles",
+   "bytes": 596419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-760.d8197f26ddaf.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 761,
+   "file": "11-602-761.434bbfe69623.pmtiles",
+   "bytes": 469751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-761.434bbfe69623.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 762,
+   "file": "11-602-762.67c3b334662c.pmtiles",
+   "bytes": 601500,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-762.67c3b334662c.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 763,
+   "file": "11-602-763.3e8104d110e2.pmtiles",
+   "bytes": 631469,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-763.3e8104d110e2.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 764,
+   "file": "11-602-764.b3815491dcff.pmtiles",
+   "bytes": 947176,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-764.b3815491dcff.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 765,
+   "file": "11-602-765.e15edc96e0eb.pmtiles",
+   "bytes": 673227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-765.e15edc96e0eb.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 766,
+   "file": "11-602-766.e8d82a723a5e.pmtiles",
+   "bytes": 844709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-766.e8d82a723a5e.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 767,
+   "file": "11-602-767.ab88d2422bd6.pmtiles",
+   "bytes": 395568,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-767.ab88d2422bd6.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 769,
+   "file": "11-602-769.d0ca7c6283b1.pmtiles",
+   "bytes": 507475,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-769.d0ca7c6283b1.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 770,
+   "file": "11-602-770.51f13b816d0b.pmtiles",
+   "bytes": 4520580,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-770.51f13b816d0b.pmtiles"
+  },
+  {
+   "x": 602,
+   "y": 771,
+   "file": "11-602-771.cae614ce3ab0.pmtiles",
+   "bytes": 1582920,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-602-771.cae614ce3ab0.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 736,
+   "file": "11-603-736.b41f8c7251df.pmtiles",
+   "bytes": 109138,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-736.b41f8c7251df.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 737,
+   "file": "11-603-737.29069262a0ee.pmtiles",
+   "bytes": 112083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-737.29069262a0ee.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 738,
+   "file": "11-603-738.10d6341d5b21.pmtiles",
+   "bytes": 110113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-738.10d6341d5b21.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 739,
+   "file": "11-603-739.4a75c3d5d77f.pmtiles",
+   "bytes": 88167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-739.4a75c3d5d77f.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 740,
+   "file": "11-603-740.1bccecb5b3b3.pmtiles",
+   "bytes": 110724,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-740.1bccecb5b3b3.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 741,
+   "file": "11-603-741.9c106d98da19.pmtiles",
+   "bytes": 135709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-741.9c106d98da19.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 742,
+   "file": "11-603-742.e2c79b48575d.pmtiles",
+   "bytes": 336876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-742.e2c79b48575d.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 743,
+   "file": "11-603-743.5dffc753e257.pmtiles",
+   "bytes": 202208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-743.5dffc753e257.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 744,
+   "file": "11-603-744.38384542296e.pmtiles",
+   "bytes": 116452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-744.38384542296e.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 745,
+   "file": "11-603-745.608ee5e41e5c.pmtiles",
+   "bytes": 103710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-745.608ee5e41e5c.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 746,
+   "file": "11-603-746.c10706491d37.pmtiles",
+   "bytes": 146457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-746.c10706491d37.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 747,
+   "file": "11-603-747.84282313d6d6.pmtiles",
+   "bytes": 198914,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-747.84282313d6d6.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 748,
+   "file": "11-603-748.92c02ba042b1.pmtiles",
+   "bytes": 133527,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-748.92c02ba042b1.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 749,
+   "file": "11-603-749.a4996c1918cc.pmtiles",
+   "bytes": 149022,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-749.a4996c1918cc.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 750,
+   "file": "11-603-750.83db5014021c.pmtiles",
+   "bytes": 222004,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-750.83db5014021c.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 751,
+   "file": "11-603-751.df028a9ad9e7.pmtiles",
+   "bytes": 258290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-751.df028a9ad9e7.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 752,
+   "file": "11-603-752.4e8f6153ec60.pmtiles",
+   "bytes": 569636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-752.4e8f6153ec60.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 753,
+   "file": "11-603-753.0713abf7e4dd.pmtiles",
+   "bytes": 1021836,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-753.0713abf7e4dd.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 754,
+   "file": "11-603-754.1dc3f8423a54.pmtiles",
+   "bytes": 1416000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-754.1dc3f8423a54.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 755,
+   "file": "11-603-755.397a52b33e16.pmtiles",
+   "bytes": 564370,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-755.397a52b33e16.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 756,
+   "file": "11-603-756.f70cb2eaa2ec.pmtiles",
+   "bytes": 200588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-756.f70cb2eaa2ec.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 757,
+   "file": "11-603-757.767708ebcb31.pmtiles",
+   "bytes": 225017,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-757.767708ebcb31.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 758,
+   "file": "11-603-758.2b3314b99c8e.pmtiles",
+   "bytes": 326947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-758.2b3314b99c8e.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 759,
+   "file": "11-603-759.09df7a9b2e36.pmtiles",
+   "bytes": 486406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-759.09df7a9b2e36.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 760,
+   "file": "11-603-760.b41dfe743e76.pmtiles",
+   "bytes": 806087,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-760.b41dfe743e76.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 761,
+   "file": "11-603-761.7c3b1dd7317f.pmtiles",
+   "bytes": 397190,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-761.7c3b1dd7317f.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 762,
+   "file": "11-603-762.8051d84eff21.pmtiles",
+   "bytes": 1118558,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-762.8051d84eff21.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 763,
+   "file": "11-603-763.a9070d160690.pmtiles",
+   "bytes": 912668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-763.a9070d160690.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 764,
+   "file": "11-603-764.0b07e5322377.pmtiles",
+   "bytes": 811503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-764.0b07e5322377.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 765,
+   "file": "11-603-765.a9ab23c5793d.pmtiles",
+   "bytes": 1243921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-765.a9ab23c5793d.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 766,
+   "file": "11-603-766.37e853b72cda.pmtiles",
+   "bytes": 1403781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-766.37e853b72cda.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 767,
+   "file": "11-603-767.77a884b32a23.pmtiles",
+   "bytes": 1538709,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-767.77a884b32a23.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 768,
+   "file": "11-603-768.729be4c9a7e6.pmtiles",
+   "bytes": 3098783,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-768.729be4c9a7e6.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 769,
+   "file": "11-603-769.371cc1092d82.pmtiles",
+   "bytes": 9239910,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-769.371cc1092d82.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 770,
+   "file": "11-603-770.2d23018bdb04.pmtiles",
+   "bytes": 8817781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-770.2d23018bdb04.pmtiles"
+  },
+  {
+   "x": 603,
+   "y": 771,
+   "file": "11-603-771.b8e7e5b7bd41.pmtiles",
+   "bytes": 513967,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-603-771.b8e7e5b7bd41.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 736,
+   "file": "11-604-736.fdb730ef30f5.pmtiles",
+   "bytes": 109864,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-736.fdb730ef30f5.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 737,
+   "file": "11-604-737.061018b4f9a2.pmtiles",
+   "bytes": 118251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-737.061018b4f9a2.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 738,
+   "file": "11-604-738.40e44494c1b3.pmtiles",
+   "bytes": 97912,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-738.40e44494c1b3.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 739,
+   "file": "11-604-739.bb4d9350a248.pmtiles",
+   "bytes": 144911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-739.bb4d9350a248.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 740,
+   "file": "11-604-740.e130b0d17b9b.pmtiles",
+   "bytes": 113656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-740.e130b0d17b9b.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 741,
+   "file": "11-604-741.561f8307e07d.pmtiles",
+   "bytes": 227644,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-741.561f8307e07d.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 742,
+   "file": "11-604-742.8d27f039d785.pmtiles",
+   "bytes": 161236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-742.8d27f039d785.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 743,
+   "file": "11-604-743.9f84780431e2.pmtiles",
+   "bytes": 173827,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-743.9f84780431e2.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 744,
+   "file": "11-604-744.e2582dba1d87.pmtiles",
+   "bytes": 109966,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-744.e2582dba1d87.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 745,
+   "file": "11-604-745.d45f909f76d4.pmtiles",
+   "bytes": 174511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-745.d45f909f76d4.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 746,
+   "file": "11-604-746.2a07e8a080f0.pmtiles",
+   "bytes": 190656,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-746.2a07e8a080f0.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 747,
+   "file": "11-604-747.35ecb45c8378.pmtiles",
+   "bytes": 213622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-747.35ecb45c8378.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 748,
+   "file": "11-604-748.3ccd51fa57e7.pmtiles",
+   "bytes": 284184,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-748.3ccd51fa57e7.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 749,
+   "file": "11-604-749.29cb3ce57485.pmtiles",
+   "bytes": 429789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-749.29cb3ce57485.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 750,
+   "file": "11-604-750.207e08901be5.pmtiles",
+   "bytes": 481128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-750.207e08901be5.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 751,
+   "file": "11-604-751.6fbd1b7cf380.pmtiles",
+   "bytes": 812727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-751.6fbd1b7cf380.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 752,
+   "file": "11-604-752.f3f180e98000.pmtiles",
+   "bytes": 582839,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-752.f3f180e98000.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 753,
+   "file": "11-604-753.61071fa3510e.pmtiles",
+   "bytes": 1113891,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-753.61071fa3510e.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 754,
+   "file": "11-604-754.197efd9ae4dd.pmtiles",
+   "bytes": 2545443,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-754.197efd9ae4dd.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 755,
+   "file": "11-604-755.1136f2ef6f0b.pmtiles",
+   "bytes": 1814403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-755.1136f2ef6f0b.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 756,
+   "file": "11-604-756.a734a1bd31f8.pmtiles",
+   "bytes": 368141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-756.a734a1bd31f8.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 757,
+   "file": "11-604-757.8d0e376bd5b0.pmtiles",
+   "bytes": 318484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-757.8d0e376bd5b0.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 758,
+   "file": "11-604-758.52f0bcee7cb1.pmtiles",
+   "bytes": 472180,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-758.52f0bcee7cb1.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 759,
+   "file": "11-604-759.f72937429797.pmtiles",
+   "bytes": 227464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-759.f72937429797.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 760,
+   "file": "11-604-760.1491bbd0ae65.pmtiles",
+   "bytes": 260977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-760.1491bbd0ae65.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 761,
+   "file": "11-604-761.48153449a526.pmtiles",
+   "bytes": 254764,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-761.48153449a526.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 762,
+   "file": "11-604-762.717cf748ca90.pmtiles",
+   "bytes": 403493,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-762.717cf748ca90.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 763,
+   "file": "11-604-763.08d1ad211f08.pmtiles",
+   "bytes": 667011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-763.08d1ad211f08.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 764,
+   "file": "11-604-764.d6e9f5f96d53.pmtiles",
+   "bytes": 589169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-764.d6e9f5f96d53.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 765,
+   "file": "11-604-765.82f280670656.pmtiles",
+   "bytes": 1738575,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-765.82f280670656.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 766,
+   "file": "11-604-766.b65c77b00d64.pmtiles",
+   "bytes": 1541197,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-766.b65c77b00d64.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 767,
+   "file": "11-604-767.6ae13cd34a73.pmtiles",
+   "bytes": 2526327,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-767.6ae13cd34a73.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 768,
+   "file": "11-604-768.482d74d33e8a.pmtiles",
+   "bytes": 2135429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-768.482d74d33e8a.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 769,
+   "file": "11-604-769.d206f68e1483.pmtiles",
+   "bytes": 5769510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-769.d206f68e1483.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 770,
+   "file": "11-604-770.aa14378280f1.pmtiles",
+   "bytes": 5738959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-770.aa14378280f1.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 771,
+   "file": "11-604-771.fd2b930dd041.pmtiles",
+   "bytes": 24197,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-604-771.fd2b930dd041.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 736,
+   "file": "11-605-736.ef0e1d24b17c.pmtiles",
+   "bytes": 142874,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-736.ef0e1d24b17c.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 737,
+   "file": "11-605-737.09d91825774d.pmtiles",
+   "bytes": 128812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-737.09d91825774d.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 738,
+   "file": "11-605-738.7df0ac2d02a9.pmtiles",
+   "bytes": 154591,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-738.7df0ac2d02a9.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 739,
+   "file": "11-605-739.7e18510fc883.pmtiles",
+   "bytes": 338991,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-739.7e18510fc883.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 740,
+   "file": "11-605-740.b8e34741212f.pmtiles",
+   "bytes": 197310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-740.b8e34741212f.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 741,
+   "file": "11-605-741.c0a25b241971.pmtiles",
+   "bytes": 114808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-741.c0a25b241971.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 742,
+   "file": "11-605-742.191a1cb08a47.pmtiles",
+   "bytes": 164682,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-742.191a1cb08a47.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 743,
+   "file": "11-605-743.870bd9f4416e.pmtiles",
+   "bytes": 144896,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-743.870bd9f4416e.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 744,
+   "file": "11-605-744.4f42e8bb307d.pmtiles",
+   "bytes": 133111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-744.4f42e8bb307d.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 745,
+   "file": "11-605-745.c9a00394e91d.pmtiles",
+   "bytes": 138140,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-745.c9a00394e91d.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 746,
+   "file": "11-605-746.ff9f98c2fdf1.pmtiles",
+   "bytes": 141128,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-746.ff9f98c2fdf1.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 747,
+   "file": "11-605-747.8e3ab0308f63.pmtiles",
+   "bytes": 199069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-747.8e3ab0308f63.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 748,
+   "file": "11-605-748.0c16020770f0.pmtiles",
+   "bytes": 187425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-748.0c16020770f0.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 749,
+   "file": "11-605-749.20c23172da2e.pmtiles",
+   "bytes": 233980,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-749.20c23172da2e.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 750,
+   "file": "11-605-750.dd043d8b668a.pmtiles",
+   "bytes": 482757,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-750.dd043d8b668a.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 751,
+   "file": "11-605-751.1f84d5b716b4.pmtiles",
+   "bytes": 305459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-751.1f84d5b716b4.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 752,
+   "file": "11-605-752.521316e7b4e7.pmtiles",
+   "bytes": 180437,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-752.521316e7b4e7.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 753,
+   "file": "11-605-753.aec2cf01f7cc.pmtiles",
+   "bytes": 214793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-753.aec2cf01f7cc.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 754,
+   "file": "11-605-754.0bcc44e9e17b.pmtiles",
+   "bytes": 333031,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-754.0bcc44e9e17b.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 755,
+   "file": "11-605-755.02e741204ee1.pmtiles",
+   "bytes": 299155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-755.02e741204ee1.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 756,
+   "file": "11-605-756.f990b1aa058f.pmtiles",
+   "bytes": 230892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-756.f990b1aa058f.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 757,
+   "file": "11-605-757.0752755ee19b.pmtiles",
+   "bytes": 291853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-757.0752755ee19b.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 758,
+   "file": "11-605-758.1df4f5a3669d.pmtiles",
+   "bytes": 243876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-758.1df4f5a3669d.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 759,
+   "file": "11-605-759.7e9798f03235.pmtiles",
+   "bytes": 266904,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-759.7e9798f03235.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 760,
+   "file": "11-605-760.37079675aee6.pmtiles",
+   "bytes": 372606,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-760.37079675aee6.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 761,
+   "file": "11-605-761.052821858e3a.pmtiles",
+   "bytes": 255056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-761.052821858e3a.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 762,
+   "file": "11-605-762.ec65bd033829.pmtiles",
+   "bytes": 236182,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-762.ec65bd033829.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 763,
+   "file": "11-605-763.82956862b09c.pmtiles",
+   "bytes": 380890,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-763.82956862b09c.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 764,
+   "file": "11-605-764.d2f702c38727.pmtiles",
+   "bytes": 469460,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-764.d2f702c38727.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 765,
+   "file": "11-605-765.d937f34c67b2.pmtiles",
+   "bytes": 756677,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-765.d937f34c67b2.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 766,
+   "file": "11-605-766.c537d2b16d77.pmtiles",
+   "bytes": 562206,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-766.c537d2b16d77.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 767,
+   "file": "11-605-767.ce9f6b4c2049.pmtiles",
+   "bytes": 38446,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-767.ce9f6b4c2049.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 768,
+   "file": "11-605-768.e2f9ceb8b30e.pmtiles",
+   "bytes": 1388110,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-768.e2f9ceb8b30e.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 769,
+   "file": "11-605-769.79379d77582b.pmtiles",
+   "bytes": 4089363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-769.79379d77582b.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 770,
+   "file": "11-605-770.3696d087efce.pmtiles",
+   "bytes": 3462982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-770.3696d087efce.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 771,
+   "file": "11-605-771.7adb48808c1f.pmtiles",
+   "bytes": 17565,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-605-771.7adb48808c1f.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 736,
+   "file": "11-606-736.050eda68a72f.pmtiles",
+   "bytes": 201504,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-736.050eda68a72f.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 737,
+   "file": "11-606-737.f937a5540732.pmtiles",
+   "bytes": 155316,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-737.f937a5540732.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 738,
+   "file": "11-606-738.63040f4c66be.pmtiles",
+   "bytes": 167149,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-738.63040f4c66be.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 739,
+   "file": "11-606-739.4605f9979325.pmtiles",
+   "bytes": 294649,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-739.4605f9979325.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 740,
+   "file": "11-606-740.3e7850406473.pmtiles",
+   "bytes": 127112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-740.3e7850406473.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 741,
+   "file": "11-606-741.2f9963bfef2e.pmtiles",
+   "bytes": 133123,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-741.2f9963bfef2e.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 742,
+   "file": "11-606-742.422cb1c0e348.pmtiles",
+   "bytes": 147298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-742.422cb1c0e348.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 743,
+   "file": "11-606-743.c0296dbb3ff9.pmtiles",
+   "bytes": 101669,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-743.c0296dbb3ff9.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 744,
+   "file": "11-606-744.c029e197813e.pmtiles",
+   "bytes": 100157,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-744.c029e197813e.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 745,
+   "file": "11-606-745.708d3d96f924.pmtiles",
+   "bytes": 207057,
+   "tiles": 55,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-745.708d3d96f924.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 746,
+   "file": "11-606-746.a0912f9bdd98.pmtiles",
+   "bytes": 139583,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-746.a0912f9bdd98.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 747,
+   "file": "11-606-747.8e51a805472a.pmtiles",
+   "bytes": 120913,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-747.8e51a805472a.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 748,
+   "file": "11-606-748.29c6ffa6556b.pmtiles",
+   "bytes": 172616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-748.29c6ffa6556b.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 749,
+   "file": "11-606-749.676dbb845bc5.pmtiles",
+   "bytes": 123266,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-749.676dbb845bc5.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 750,
+   "file": "11-606-750.74e13365a3ca.pmtiles",
+   "bytes": 146111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-750.74e13365a3ca.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 751,
+   "file": "11-606-751.fe74678c35be.pmtiles",
+   "bytes": 235940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-751.fe74678c35be.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 752,
+   "file": "11-606-752.1f7ef47611ed.pmtiles",
+   "bytes": 172464,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-752.1f7ef47611ed.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 753,
+   "file": "11-606-753.203831357a15.pmtiles",
+   "bytes": 235577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-753.203831357a15.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 754,
+   "file": "11-606-754.057680b78ba5.pmtiles",
+   "bytes": 214064,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-754.057680b78ba5.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 755,
+   "file": "11-606-755.7fea403f797b.pmtiles",
+   "bytes": 164075,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-755.7fea403f797b.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 756,
+   "file": "11-606-756.6d105f71fbe3.pmtiles",
+   "bytes": 151312,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-756.6d105f71fbe3.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 757,
+   "file": "11-606-757.1edab808f160.pmtiles",
+   "bytes": 126560,
+   "tiles": 54,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-757.1edab808f160.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 758,
+   "file": "11-606-758.8cbc3b96a721.pmtiles",
+   "bytes": 36023,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-758.8cbc3b96a721.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 760,
+   "file": "11-606-760.8025967a8fb6.pmtiles",
+   "bytes": 51094,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-760.8025967a8fb6.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 767,
+   "file": "11-606-767.840eede09d8a.pmtiles",
+   "bytes": 36584,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-767.840eede09d8a.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 768,
+   "file": "11-606-768.f643428868e5.pmtiles",
+   "bytes": 1714034,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-768.f643428868e5.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 769,
+   "file": "11-606-769.1c374b7e1332.pmtiles",
+   "bytes": 3109046,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-769.1c374b7e1332.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 770,
+   "file": "11-606-770.af5a10864325.pmtiles",
+   "bytes": 1948252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-606-770.af5a10864325.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 737,
+   "file": "11-607-737.5fc0c3839160.pmtiles",
+   "bytes": 23738,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-737.5fc0c3839160.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 738,
+   "file": "11-607-738.199438ee0d5d.pmtiles",
+   "bytes": 30247,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-738.199438ee0d5d.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 748,
+   "file": "11-607-748.9b99d7be4c31.pmtiles",
+   "bytes": 57416,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-748.9b99d7be4c31.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 749,
+   "file": "11-607-749.564f1b241678.pmtiles",
+   "bytes": 84692,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-749.564f1b241678.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 750,
+   "file": "11-607-750.e6bc8f3fe8d2.pmtiles",
+   "bytes": 46003,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-750.e6bc8f3fe8d2.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 751,
+   "file": "11-607-751.4ae8c97439e5.pmtiles",
+   "bytes": 37620,
+   "tiles": 44,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-751.4ae8c97439e5.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 752,
+   "file": "11-607-752.60c8628445bd.pmtiles",
+   "bytes": 40771,
+   "tiles": 46,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-752.60c8628445bd.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 753,
+   "file": "11-607-753.f05a67ca2988.pmtiles",
+   "bytes": 46537,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-753.f05a67ca2988.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 754,
+   "file": "11-607-754.32fd83c7a11e.pmtiles",
+   "bytes": 37119,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-754.32fd83c7a11e.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 768,
+   "file": "11-607-768.9604465b0de9.pmtiles",
+   "bytes": 1521115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-768.9604465b0de9.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 769,
+   "file": "11-607-769.a9b94ec04165.pmtiles",
+   "bytes": 3042694,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-769.a9b94ec04165.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 770,
+   "file": "11-607-770.d5555e65d790.pmtiles",
+   "bytes": 578648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-607-770.d5555e65d790.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 768,
+   "file": "11-608-768.9b206c717dd2.pmtiles",
+   "bytes": 2374942,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-608-768.9b206c717dd2.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 769,
+   "file": "11-608-769.4db2178d8efd.pmtiles",
+   "bytes": 2575085,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-608-769.4db2178d8efd.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 770,
+   "file": "11-608-770.8d0c9754beb6.pmtiles",
+   "bytes": 94651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-608-770.8d0c9754beb6.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 765,
+   "file": "11-609-765.b6fd20aa501d.pmtiles",
+   "bytes": 22582,
+   "tiles": 30,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-609-765.b6fd20aa501d.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 768,
+   "file": "11-609-768.8b6059399d55.pmtiles",
+   "bytes": 1288335,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-609-768.8b6059399d55.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 769,
+   "file": "11-609-769.1c1842a11f4b.pmtiles",
+   "bytes": 1475707,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-609-769.1c1842a11f4b.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 765,
+   "file": "11-610-765.29ea20915d2d.pmtiles",
+   "bytes": 22362,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-610-765.29ea20915d2d.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 767,
+   "file": "11-610-767.e3581790df47.pmtiles",
+   "bytes": 40389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-610-767.e3581790df47.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 768,
+   "file": "11-610-768.f96037030b28.pmtiles",
+   "bytes": 1218986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-610-768.f96037030b28.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 769,
+   "file": "11-610-769.6d675dbc0860.pmtiles",
+   "bytes": 853284,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-610-769.6d675dbc0860.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 767,
+   "file": "11-611-767.665ea28b75f8.pmtiles",
+   "bytes": 727098,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-611-767.665ea28b75f8.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 768,
+   "file": "11-611-768.e55c7c087670.pmtiles",
+   "bytes": 996281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-611-768.e55c7c087670.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 769,
+   "file": "11-611-769.5b87383008ca.pmtiles",
+   "bytes": 177311,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-611-769.5b87383008ca.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 766,
+   "file": "11-612-766.45476ec36d39.pmtiles",
+   "bytes": 245909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-612-766.45476ec36d39.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 767,
+   "file": "11-612-767.723a907c0168.pmtiles",
+   "bytes": 951488,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-612-767.723a907c0168.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 768,
+   "file": "11-612-768.e61fba6fb236.pmtiles",
+   "bytes": 1198763,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-612-768.e61fba6fb236.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 765,
+   "file": "11-613-765.71a6f035d973.pmtiles",
+   "bytes": 35454,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-613-765.71a6f035d973.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 766,
+   "file": "11-613-766.a3d3b9acc86d.pmtiles",
+   "bytes": 66570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-613-766.a3d3b9acc86d.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 767,
+   "file": "11-613-767.c0bd5e3efa11.pmtiles",
+   "bytes": 698890,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-613-767.c0bd5e3efa11.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 768,
+   "file": "11-613-768.abf6e9a48568.pmtiles",
+   "bytes": 414475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-613-768.abf6e9a48568.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 765,
+   "file": "11-614-765.77d9b9fc9a0f.pmtiles",
+   "bytes": 168866,
+   "tiles": 68,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-614-765.77d9b9fc9a0f.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 767,
+   "file": "11-614-767.63c2d4f11cc2.pmtiles",
+   "bytes": 412829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-614-767.63c2d4f11cc2.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 765,
+   "file": "11-615-765.fa4c44d5df45.pmtiles",
+   "bytes": 34189,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-615-765.fa4c44d5df45.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 767,
+   "file": "11-615-767.abf867abb1d7.pmtiles",
+   "bytes": 63926,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-new-york-2026-10-10/11-615-767.abf867abb1d7.pmtiles"
+  }
+ ]
+}
