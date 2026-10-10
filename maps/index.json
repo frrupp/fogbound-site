@@ -1,12 +1,2567 @@
 {
  "format": "fogbound-maps-index",
  "version": 1,
- "builtAt": "2026-10-10T05:35:47.245Z",
+ "builtAt": "2026-10-10T05:36:16.599Z",
  "regions": {
+  "ad-andorra": {
+   "bytes": 2745063,
+   "files": 6,
+   "publishedAt": "2026-10-06T07:02:06.759Z"
+  },
+  "al-albania": {
+   "bytes": 50808164,
+   "files": 171,
+   "publishedAt": "2026-10-06T04:33:07.585Z"
+  },
+  "at-burgenland": {
+   "bytes": 48005235,
+   "files": 65,
+   "publishedAt": "2026-10-03T20:35:21.098Z"
+  },
+  "at-kaernten": {
+   "bytes": 59844183,
+   "files": 85,
+   "publishedAt": "2026-10-03T20:35:44.083Z"
+  },
+  "at-niederoesterreich": {
+   "bytes": 185463498,
+   "files": 194,
+   "publishedAt": "2026-10-03T20:39:01.263Z"
+  },
+  "at-oberoesterreich": {
+   "bytes": 133708257,
+   "files": 145,
+   "publishedAt": "2026-10-03T20:36:51.049Z"
+  },
+  "at-salzburg": {
+   "bytes": 82672271,
+   "files": 107,
+   "publishedAt": "2026-10-03T20:36:12.808Z"
+  },
+  "at-steiermark": {
+   "bytes": 150076856,
+   "files": 164,
+   "publishedAt": "2026-10-03T20:38:09.162Z"
+  },
+  "at-tirol": {
+   "bytes": 81750549,
+   "files": 129,
+   "publishedAt": "2026-10-03T20:37:25.006Z"
+  },
+  "at-vorarlberg": {
+   "bytes": 24389338,
+   "files": 30,
+   "publishedAt": "2026-10-03T20:35:03.098Z"
+  },
+  "at-wien": {
+   "bytes": 20702843,
+   "files": 7,
+   "publishedAt": "2026-10-03T20:34:53.017Z"
+  },
+  "ba-bosansko-podrinjski": {
+   "bytes": 4774367,
+   "files": 13,
+   "publishedAt": "2026-10-06T03:24:47.703Z"
+  },
+  "ba-brcko": {
+   "bytes": 6511511,
+   "files": 11,
+   "publishedAt": "2026-10-06T03:24:58.589Z"
+  },
+  "ba-hercegovacko-neretvanski": {
+   "bytes": 31550800,
+   "files": 70,
+   "publishedAt": "2026-10-06T03:26:57.097Z"
+  },
+  "ba-kanton-10": {
+   "bytes": 25091111,
+   "files": 60,
+   "publishedAt": "2026-10-06T03:26:37.136Z"
+  },
+  "ba-posavski": {
+   "bytes": 5354590,
+   "files": 12,
+   "publishedAt": "2026-10-06T03:24:53.164Z"
+  },
+  "ba-republika-srpska": {
+   "bytes": 174485824,
+   "files": 318,
+   "publishedAt": "2026-10-06T03:28:22.764Z"
+  },
+  "ba-sarajevo": {
+   "bytes": 12579662,
+   "files": 21,
+   "publishedAt": "2026-10-06T03:25:07.409Z"
+  },
+  "ba-srednjobosanski": {
+   "bytes": 18407862,
+   "files": 43,
+   "publishedAt": "2026-10-06T03:25:28.108Z"
+  },
+  "ba-tuzlanski": {
+   "bytes": 24057993,
+   "files": 43,
+   "publishedAt": "2026-10-06T03:25:41.400Z"
+  },
+  "ba-unsko-sanski": {
+   "bytes": 24718310,
+   "files": 65,
+   "publishedAt": "2026-10-06T03:26:18.172Z"
+  },
+  "ba-zapadnohercegovacki": {
+   "bytes": 9789649,
+   "files": 17,
+   "publishedAt": "2026-10-06T03:25:14.944Z"
+  },
+  "ba-zenicko-dobojski": {
+   "bytes": 28291147,
+   "files": 65,
+   "publishedAt": "2026-10-06T03:25:59.850Z"
+  },
+  "be-antwerpen": {
+   "bytes": 59052416,
+   "files": 34,
+   "publishedAt": "2026-10-04T10:56:35.878Z"
+  },
+  "be-brabant-wallon": {
+   "bytes": 28988502,
+   "files": 19,
+   "publishedAt": "2026-10-04T09:55:10.054Z"
+  },
+  "be-bruxelles": {
+   "bytes": 15890717,
+   "files": 5,
+   "publishedAt": "2026-10-04T09:55:01.959Z"
+  },
+  "be-hainaut": {
+   "bytes": 81455590,
+   "files": 60,
+   "publishedAt": "2026-10-04T10:58:26.433Z"
+  },
+  "be-liege": {
+   "bytes": 61235469,
+   "files": 58,
+   "publishedAt": "2026-10-04T10:57:52.102Z"
+  },
+  "be-limburg": {
+   "bytes": 52412033,
+   "files": 37,
+   "publishedAt": "2026-10-04T10:56:48.489Z"
+  },
+  "be-luxembourg": {
+   "bytes": 37631821,
+   "files": 55,
+   "publishedAt": "2026-10-04T10:58:08.421Z"
+  },
+  "be-namur": {
+   "bytes": 50908358,
+   "files": 61,
+   "publishedAt": "2026-10-04T10:57:35.087Z"
+  },
+  "be-oost-vlaanderen": {
+   "bytes": 87289681,
+   "files": 48,
+   "publishedAt": "2026-10-04T10:57:04.545Z"
+  },
+  "be-vlaams-brabant": {
+   "bytes": 72860453,
+   "files": 33,
+   "publishedAt": "2026-10-04T10:56:24.080Z"
+  },
+  "be-west-vlaanderen": {
+   "bytes": 58162821,
+   "files": 43,
+   "publishedAt": "2026-10-04T10:57:17.944Z"
+  },
+  "bg-blagoevgrad": {
+   "bytes": 21940171,
+   "files": 60,
+   "publishedAt": "2026-10-06T02:15:40.130Z"
+  },
+  "bg-burgas": {
+   "bytes": 12741074,
+   "files": 70,
+   "publishedAt": "2026-10-06T02:16:33.944Z"
+  },
+  "bg-dobrich": {
+   "bytes": 10229082,
+   "files": 56,
+   "publishedAt": "2026-10-06T02:15:22.400Z"
+  },
+  "bg-gabrovo": {
+   "bytes": 12307912,
+   "files": 21,
+   "publishedAt": "2026-10-06T01:07:57.627Z"
+  },
+  "bg-haskovo": {
+   "bytes": 14992665,
+   "files": 62,
+   "publishedAt": "2026-10-06T02:16:14.977Z"
+  },
+  "bg-kardzhali": {
+   "bytes": 9936169,
+   "files": 31,
+   "publishedAt": "2026-10-06T02:11:41.559Z"
+  },
+  "bg-kyustendil": {
+   "bytes": 18918308,
+   "files": 40,
+   "publishedAt": "2026-10-06T02:13:26.708Z"
+  },
+  "bg-lovech": {
+   "bytes": 15857594,
+   "files": 49,
+   "publishedAt": "2026-10-06T02:14:19.610Z"
+  },
+  "bg-montana": {
+   "bytes": 8582975,
+   "files": 40,
+   "publishedAt": "2026-10-06T02:12:06.746Z"
+  },
+  "bg-pazardzhik": {
+   "bytes": 10557500,
+   "files": 41,
+   "publishedAt": "2026-10-06T02:13:51.455Z"
+  },
+  "bg-pernik": {
+   "bytes": 14150703,
+   "files": 31,
+   "publishedAt": "2026-10-06T01:08:07.646Z"
+  },
+  "bg-pleven": {
+   "bytes": 11742122,
+   "files": 39,
+   "publishedAt": "2026-10-06T02:13:38.633Z"
+  },
+  "bg-plovdiv": {
+   "bytes": 16952869,
+   "files": 64,
+   "publishedAt": "2026-10-06T02:15:57.544Z"
+  },
+  "bg-razgrad": {
+   "bytes": 4667644,
+   "files": 31,
+   "publishedAt": "2026-10-06T02:11:20.527Z"
+  },
+  "bg-ruse": {
+   "bytes": 7114255,
+   "files": 41,
+   "publishedAt": "2026-10-06T02:12:58.067Z"
+  },
+  "bg-shumen": {
+   "bytes": 8563494,
+   "files": 49,
+   "publishedAt": "2026-10-06T02:13:14.072Z"
+  },
+  "bg-silistra": {
+   "bytes": 5684816,
+   "files": 41,
+   "publishedAt": "2026-10-06T02:11:54.277Z"
+  },
+  "bg-sliven": {
+   "bytes": 9152733,
+   "files": 43,
+   "publishedAt": "2026-10-06T02:12:45.314Z"
+  },
+  "bg-smolyan": {
+   "bytes": 8269512,
+   "files": 46,
+   "publishedAt": "2026-10-06T02:12:33.072Z"
+  },
+  "bg-sofia-city": {
+   "bytes": 16022179,
+   "files": 21,
+   "publishedAt": "2026-10-06T01:07:49.667Z"
+  },
+  "bg-sofia": {
+   "bytes": 46054236,
+   "files": 109,
+   "publishedAt": "2026-10-06T02:17:03.455Z"
+  },
+  "bg-stara-zagora": {
+   "bytes": 12823183,
+   "files": 56,
+   "publishedAt": "2026-10-06T02:14:49.120Z"
+  },
+  "bg-targovishte": {
+   "bytes": 7533193,
+   "files": 31,
+   "publishedAt": "2026-10-06T01:10:09.346Z"
+  },
+  "bg-varna": {
+   "bytes": 13093636,
+   "files": 46,
+   "publishedAt": "2026-10-06T02:14:05.102Z"
+  },
+  "bg-veliko-tarnovo": {
+   "bytes": 21886482,
+   "files": 57,
+   "publishedAt": "2026-10-06T02:15:06.074Z"
+  },
+  "bg-vidin": {
+   "bytes": 8676043,
+   "files": 33,
+   "publishedAt": "2026-10-06T02:11:31.336Z"
+  },
+  "bg-vratsa": {
+   "bytes": 9775403,
+   "files": 48,
+   "publishedAt": "2026-10-06T02:14:33.526Z"
+  },
+  "bg-yambol": {
+   "bytes": 6286450,
+   "files": 42,
+   "publishedAt": "2026-10-06T02:12:19.349Z"
+  },
+  "ch-aargau": {
+   "bytes": 33885433,
+   "files": 31,
+   "publishedAt": "2026-10-03T20:42:24.128Z"
+  },
+  "ch-appenzell-ausserrhoden": {
+   "bytes": 9280301,
+   "files": 10,
+   "publishedAt": "2026-10-03T20:40:44.478Z"
+  },
+  "ch-appenzell-innerrhoden": {
+   "bytes": 6425626,
+   "files": 10,
+   "publishedAt": "2026-10-03T20:40:27.826Z"
+  },
+  "ch-basel-landschaft": {
+   "bytes": 14481459,
+   "files": 15,
+   "publishedAt": "2026-10-03T20:41:08.183Z"
+  },
+  "ch-basel-stadt": {
+   "bytes": 3184462,
+   "files": 3,
+   "publishedAt": "2026-10-03T20:40:18.571Z"
+  },
+  "ch-bern": {
+   "bytes": 100832994,
+   "files": 91,
+   "publishedAt": "2026-10-03T20:43:54.783Z"
+  },
+  "ch-fribourg": {
+   "bytes": 23638173,
+   "files": 21,
+   "publishedAt": "2026-10-03T20:42:31.640Z"
+  },
+  "ch-geneve": {
+   "bytes": 8303724,
+   "files": 9,
+   "publishedAt": "2026-10-03T20:40:33.065Z"
+  },
+  "ch-glarus": {
+   "bytes": 9981772,
+   "files": 16,
+   "publishedAt": "2026-10-03T20:41:01.920Z"
+  },
+  "ch-graubuenden": {
+   "bytes": 42989433,
+   "files": 86,
+   "publishedAt": "2026-10-04T06:01:25.658Z"
+  },
+  "ch-jura": {
+   "bytes": 12906916,
+   "files": 19,
+   "publishedAt": "2026-10-03T20:41:30.136Z"
+  },
+  "ch-luzern": {
+   "bytes": 26810768,
+   "files": 31,
+   "publishedAt": "2026-10-03T20:42:14.223Z"
+  },
+  "ch-neuchatel": {
+   "bytes": 10082574,
+   "files": 18,
+   "publishedAt": "2026-10-03T20:41:23.220Z"
+  },
+  "ch-nidwalden": {
+   "bytes": 6167593,
+   "files": 10,
+   "publishedAt": "2026-10-03T20:40:38.412Z"
+  },
+  "ch-obwalden": {
+   "bytes": 7602096,
+   "files": 13,
+   "publishedAt": "2026-10-03T20:40:50.571Z"
+  },
+  "ch-schaffhausen": {
+   "bytes": 7349139,
+   "files": 11,
+   "publishedAt": "2026-10-03T20:40:55.715Z"
+  },
+  "ch-schwyz": {
+   "bytes": 16554818,
+   "files": 21,
+   "publishedAt": "2026-10-03T20:41:16.077Z"
+  },
+  "ch-solothurn": {
+   "bytes": 24898659,
+   "files": 21,
+   "publishedAt": "2026-10-03T20:41:53.406Z"
+  },
+  "ch-st-gallen": {
+   "bytes": 38919108,
+   "files": 39,
+   "publishedAt": "2026-10-03T20:42:43.702Z"
+  },
+  "ch-thurgau": {
+   "bytes": 23493651,
+   "files": 20,
+   "publishedAt": "2026-10-03T20:41:37.512Z"
+  },
+  "ch-ticino": {
+   "bytes": 19394362,
+   "files": 36,
+   "publishedAt": "2026-10-03T20:42:54.206Z"
+  },
+  "ch-uri": {
+   "bytes": 9921789,
+   "files": 21,
+   "publishedAt": "2026-10-03T20:41:45.210Z"
+  },
+  "ch-valais": {
+   "bytes": 53395177,
+   "files": 67,
+   "publishedAt": "2026-10-03T20:43:28.829Z"
+  },
+  "ch-vaud": {
+   "bytes": 50675115,
+   "files": 55,
+   "publishedAt": "2026-10-03T20:43:10.288Z"
+  },
+  "ch-zuerich": {
+   "bytes": 41370695,
+   "files": 31,
+   "publishedAt": "2026-10-03T20:42:04.188Z"
+  },
+  "ch-zug": {
+   "bytes": 5334442,
+   "files": 7,
+   "publishedAt": "2026-10-03T20:40:22.742Z"
+  },
+  "cy-cyprus": {
+   "bytes": 30849956,
+   "files": 60,
+   "publishedAt": "2026-10-06T07:01:28.969Z"
+  },
+  "cz-jihocesky": {
+   "bytes": 94791429,
+   "files": 110,
+   "publishedAt": "2026-10-04T07:30:04.028Z"
+  },
+  "cz-jihomoravsky": {
+   "bytes": 98568029,
+   "files": 116,
+   "publishedAt": "2026-10-04T07:29:34.172Z"
+  },
+  "cz-karlovarsky": {
+   "bytes": 26510436,
+   "files": 42,
+   "publishedAt": "2026-10-04T06:24:58.074Z"
+  },
+  "cz-kralovehradecky": {
+   "bytes": 58695153,
+   "files": 73,
+   "publishedAt": "2026-10-04T07:27:09.363Z"
+  },
+  "cz-liberecky": {
+   "bytes": 38684925,
+   "files": 45,
+   "publishedAt": "2026-10-04T06:25:12.370Z"
+  },
+  "cz-moravskoslezsky": {
+   "bytes": 63374244,
+   "files": 72,
+   "publishedAt": "2026-10-04T07:28:16.970Z"
+  },
+  "cz-olomoucky": {
+   "bytes": 56491026,
+   "files": 72,
+   "publishedAt": "2026-10-04T07:27:55.744Z"
+  },
+  "cz-pardubicky": {
+   "bytes": 54629871,
+   "files": 64,
+   "publishedAt": "2026-10-04T06:25:47.155Z"
+  },
+  "cz-plzensky": {
+   "bytes": 61307651,
+   "files": 83,
+   "publishedAt": "2026-10-04T07:28:39.337Z"
+  },
+  "cz-praha": {
+   "bytes": 23625409,
+   "files": 17,
+   "publishedAt": "2026-10-04T06:24:45.268Z"
+  },
+  "cz-stredocesky": {
+   "bytes": 146676871,
+   "files": 131,
+   "publishedAt": "2026-10-04T07:30:41.066Z"
+  },
+  "cz-ustecky": {
+   "bytes": 72898832,
+   "files": 79,
+   "publishedAt": "2026-10-04T07:29:02.355Z"
+  },
+  "cz-vysocina": {
+   "bytes": 76607256,
+   "files": 91,
+   "publishedAt": "2026-10-04T07:27:34.657Z"
+  },
+  "cz-zlinsky": {
+   "bytes": 43189298,
+   "files": 51,
+   "publishedAt": "2026-10-04T06:25:27.757Z"
+  },
+  "de-baden-wuerttemberg": {
+   "bytes": 457358953,
+   "files": 339,
+   "publishedAt": "2026-10-03T17:06:54.513Z"
+  },
+  "de-bayern": {
+   "bytes": 748970584,
+   "files": 665,
+   "publishedAt": "2026-10-03T18:17:28.122Z"
+  },
   "de-berlin": {
    "bytes": 36957170,
    "files": 15,
    "publishedAt": "2026-10-03T12:05:25.862Z"
+  },
+  "de-brandenburg": {
+   "bytes": 290480654,
+   "files": 430,
+   "publishedAt": "2026-10-03T17:05:14.157Z"
+  },
+  "de-bremen": {
+   "bytes": 23165482,
+   "files": 29,
+   "publishedAt": "2026-10-03T15:50:34.662Z"
+  },
+  "de-hamburg": {
+   "bytes": 73575425,
+   "files": 91,
+   "publishedAt": "2026-10-03T15:51:12.577Z"
+  },
+  "de-hessen": {
+   "bytes": 373839905,
+   "files": 316,
+   "publishedAt": "2026-10-03T15:57:31.235Z"
+  },
+  "de-mecklenburg-vorpommern": {
+   "bytes": 142381365,
+   "files": 302,
+   "publishedAt": "2026-10-03T17:03:13.707Z"
+  },
+  "de-niedersachsen": {
+   "bytes": 691187420,
+   "files": 684,
+   "publishedAt": "2026-10-03T18:13:30.040Z"
+  },
+  "de-nordrhein-westfalen": {
+   "bytes": 590353282,
+   "files": 395,
+   "publishedAt": "2026-10-03T17:08:52.940Z"
+  },
+  "de-rheinland-pfalz": {
+   "bytes": 309153917,
+   "files": 240,
+   "publishedAt": "2026-10-03T15:53:21.831Z"
+  },
+  "de-saarland": {
+   "bytes": 37239133,
+   "files": 38,
+   "publishedAt": "2026-10-03T15:50:46.832Z"
+  },
+  "de-sachsen-anhalt": {
+   "bytes": 243194988,
+   "files": 337,
+   "publishedAt": "2026-10-03T15:55:48.766Z"
+  },
+  "de-sachsen": {
+   "bytes": 204220277,
+   "files": 210,
+   "publishedAt": "2026-10-03T15:54:18.303Z"
+  },
+  "de-schleswig-holstein": {
+   "bytes": 174485294,
+   "files": 278,
+   "publishedAt": "2026-10-03T17:01:53.517Z"
+  },
+  "de-thueringen": {
+   "bytes": 220117390,
+   "files": 224,
+   "publishedAt": "2026-10-03T15:52:13.715Z"
+  },
+  "dk-hovedstaden": {
+   "bytes": 63032541,
+   "files": 88,
+   "publishedAt": "2026-10-04T06:23:26.013Z"
+  },
+  "dk-midtjylland": {
+   "bytes": 111686542,
+   "files": 213,
+   "publishedAt": "2026-10-04T06:23:02.409Z"
+  },
+  "dk-nordjylland": {
+   "bytes": 54965739,
+   "files": 132,
+   "publishedAt": "2026-10-04T06:22:06.602Z"
+  },
+  "dk-sjaelland": {
+   "bytes": 78904492,
+   "files": 130,
+   "publishedAt": "2026-10-04T06:20:42.820Z"
+  },
+  "dk-syddanmark": {
+   "bytes": 92125174,
+   "files": 185,
+   "publishedAt": "2026-10-04T06:21:32.687Z"
+  },
+  "ee-harju": {
+   "bytes": 27970435,
+   "files": 104,
+   "publishedAt": "2026-10-06T04:40:20.441Z"
+  },
+  "ee-hiiu": {
+   "bytes": 3097741,
+   "files": 24,
+   "publishedAt": "2026-10-06T04:36:41.395Z"
+  },
+  "ee-ida-viru": {
+   "bytes": 8345047,
+   "files": 53,
+   "publishedAt": "2026-10-06T04:38:07.683Z"
+  },
+  "ee-jarva": {
+   "bytes": 12912709,
+   "files": 64,
+   "publishedAt": "2026-10-06T04:37:52.933Z"
+  },
+  "ee-jogeva": {
+   "bytes": 12089597,
+   "files": 63,
+   "publishedAt": "2026-10-06T04:38:24.688Z"
+  },
+  "ee-laane-viru": {
+   "bytes": 14588826,
+   "files": 81,
+   "publishedAt": "2026-10-06T04:39:38.270Z"
+  },
+  "ee-laane": {
+   "bytes": 6636050,
+   "files": 46,
+   "publishedAt": "2026-10-06T04:37:17.254Z"
+  },
+  "ee-parnu": {
+   "bytes": 15479835,
+   "files": 86,
+   "publishedAt": "2026-10-06T04:40:42.663Z"
+  },
+  "ee-polva": {
+   "bytes": 12068628,
+   "files": 37,
+   "publishedAt": "2026-10-06T04:36:53.048Z"
+  },
+  "ee-rapla": {
+   "bytes": 12457743,
+   "files": 64,
+   "publishedAt": "2026-10-06T04:37:34.666Z"
+  },
+  "ee-saare": {
+   "bytes": 8079901,
+   "files": 54,
+   "publishedAt": "2026-10-06T04:39:53.286Z"
+  },
+  "ee-tartu": {
+   "bytes": 20121026,
+   "files": 75,
+   "publishedAt": "2026-10-06T04:39:16.512Z"
+  },
+  "ee-valga": {
+   "bytes": 8716872,
+   "files": 38,
+   "publishedAt": "2026-10-06T04:37:04.534Z"
+  },
+  "ee-viljandi": {
+   "bytes": 14127553,
+   "files": 61,
+   "publishedAt": "2026-10-06T04:38:56.133Z"
+  },
+  "ee-voru": {
+   "bytes": 15886930,
+   "files": 54,
+   "publishedAt": "2026-10-06T04:38:39.837Z"
+  },
+  "es-a-coruna": {
+   "bytes": 59314604,
+   "files": 88,
+   "publishedAt": "2026-10-04T21:01:12.274Z"
+  },
+  "es-alava": {
+   "bytes": 38819943,
+   "files": 50,
+   "publishedAt": "2026-10-04T19:50:48.658Z"
+  },
+  "es-albacete": {
+   "bytes": 42683997,
+   "files": 133,
+   "publishedAt": "2026-10-04T22:10:06.260Z"
+  },
+  "es-alicante": {
+   "bytes": 42081237,
+   "files": 54,
+   "publishedAt": "2026-10-04T19:52:22.446Z"
+  },
+  "es-almeria": {
+   "bytes": 29634808,
+   "files": 82,
+   "publishedAt": "2026-10-04T22:14:38.120Z"
+  },
+  "es-asturias": {
+   "bytes": 44775719,
+   "files": 102,
+   "publishedAt": "2026-10-04T21:00:13.160Z"
+  },
+  "es-avila": {
+   "bytes": 28347276,
+   "files": 91,
+   "publishedAt": "2026-10-04T20:56:44.931Z"
+  },
+  "es-badajoz": {
+   "bytes": 26175475,
+   "files": 188,
+   "publishedAt": "2026-10-04T23:19:12.694Z"
+  },
+  "es-barcelona": {
+   "bytes": 92180705,
+   "files": 81,
+   "publishedAt": "2026-10-04T20:55:35.593Z"
+  },
+  "es-bizkaia": {
+   "bytes": 31505652,
+   "files": 30,
+   "publishedAt": "2026-10-04T19:50:32.243Z"
+  },
+  "es-burgos": {
+   "bytes": 84144839,
+   "files": 166,
+   "publishedAt": "2026-10-04T23:17:04.440Z"
+  },
+  "es-caceres": {
+   "bytes": 28577403,
+   "files": 157,
+   "publishedAt": "2026-10-04T23:18:24.575Z"
+  },
+  "es-cadiz": {
+   "bytes": 19614124,
+   "files": 62,
+   "publishedAt": "2026-10-04T19:52:39.805Z"
+  },
+  "es-cantabria": {
+   "bytes": 46078112,
+   "files": 71,
+   "publishedAt": "2026-10-04T19:52:05.129Z"
+  },
+  "es-castellon": {
+   "bytes": 23653649,
+   "files": 66,
+   "publishedAt": "2026-10-04T20:55:54.513Z"
+  },
+  "es-ceuta": {
+   "bytes": 600966,
+   "files": 3,
+   "publishedAt": "2026-10-04T19:50:10.145Z"
+  },
+  "es-ciudad-real": {
+   "bytes": 32647252,
+   "files": 150,
+   "publishedAt": "2026-10-04T22:14:15.171Z"
+  },
+  "es-cordoba": {
+   "bytes": 18825740,
+   "files": 120,
+   "publishedAt": "2026-10-04T22:04:52.754Z"
+  },
+  "es-cuenca": {
+   "bytes": 31268128,
+   "files": 157,
+   "publishedAt": "2026-10-04T22:11:26.990Z"
+  },
+  "es-gipuzkoa": {
+   "bytes": 22001668,
+   "files": 30,
+   "publishedAt": "2026-10-04T19:50:21.038Z"
+  },
+  "es-girona": {
+   "bytes": 58252719,
+   "files": 76,
+   "publishedAt": "2026-10-04T19:53:24.562Z"
+  },
+  "es-granada": {
+   "bytes": 61896158,
+   "files": 140,
+   "publishedAt": "2026-10-04T22:12:04.123Z"
+  },
+  "es-guadalajara": {
+   "bytes": 32647994,
+   "files": 131,
+   "publishedAt": "2026-10-04T21:02:47.660Z"
+  },
+  "es-huelva": {
+   "bytes": 14155739,
+   "files": 81,
+   "publishedAt": "2026-10-04T20:59:20.513Z"
+  },
+  "es-huesca": {
+   "bytes": 57936835,
+   "files": 153,
+   "publishedAt": "2026-10-04T23:17:45.186Z"
+  },
+  "es-illes-balears": {
+   "bytes": 28757973,
+   "files": 55,
+   "publishedAt": "2026-10-04T23:19:39.226Z"
+  },
+  "es-jaen": {
+   "bytes": 23834063,
+   "files": 109,
+   "publishedAt": "2026-10-04T21:00:42.613Z"
+  },
+  "es-la-rioja": {
+   "bytes": 22166603,
+   "files": 55,
+   "publishedAt": "2026-10-04T19:51:05.163Z"
+  },
+  "es-las-palmas": {
+   "bytes": 15036124,
+   "files": 34,
+   "publishedAt": "2026-10-04T23:19:23.310Z"
+  },
+  "es-leon": {
+   "bytes": 42878879,
+   "files": 165,
+   "publishedAt": "2026-10-04T22:10:47.887Z"
+  },
+  "es-lleida": {
+   "bytes": 66266368,
+   "files": 118,
+   "publishedAt": "2026-10-04T22:04:21.181Z"
+  },
+  "es-lugo": {
+   "bytes": 44845584,
+   "files": 92,
+   "publishedAt": "2026-10-04T20:56:19.669Z"
+  },
+  "es-madrid": {
+   "bytes": 69387046,
+   "files": 109,
+   "publishedAt": "2026-10-04T20:58:59.073Z"
+  },
+  "es-malaga": {
+   "bytes": 34819552,
+   "files": 70,
+   "publishedAt": "2026-10-04T20:57:05.202Z"
+  },
+  "es-melilla": {
+   "bytes": 544283,
+   "files": 2,
+   "publishedAt": "2026-10-04T19:50:06.622Z"
+  },
+  "es-murcia": {
+   "bytes": 53640920,
+   "files": 115,
+   "publishedAt": "2026-10-04T21:02:13.194Z"
+  },
+  "es-navarra": {
+   "bytes": 59289920,
+   "files": 117,
+   "publishedAt": "2026-10-04T22:06:32.796Z"
+  },
+  "es-ourense": {
+   "bytes": 29782695,
+   "files": 68,
+   "publishedAt": "2026-10-04T19:51:43.990Z"
+  },
+  "es-palencia": {
+   "bytes": 25061744,
+   "files": 78,
+   "publishedAt": "2026-10-04T19:53:46.032Z"
+  },
+  "es-pontevedra": {
+   "bytes": 42487725,
+   "files": 59,
+   "publishedAt": "2026-10-04T19:51:24.027Z"
+  },
+  "es-salamanca": {
+   "bytes": 22760797,
+   "files": 101,
+   "publishedAt": "2026-10-04T20:58:27.529Z"
+  },
+  "es-santa-cruz-de-tenerife": {
+   "bytes": 21593078,
+   "files": 36,
+   "publishedAt": "2026-10-04T22:06:01.219Z"
+  },
+  "es-segovia": {
+   "bytes": 25722251,
+   "files": 73,
+   "publishedAt": "2026-10-04T19:53:01.173Z"
+  },
+  "es-sevilla": {
+   "bytes": 27826441,
+   "files": 130,
+   "publishedAt": "2026-10-04T22:08:54.439Z"
+  },
+  "es-soria": {
+   "bytes": 21863090,
+   "files": 100,
+   "publishedAt": "2026-10-04T20:58:01.070Z"
+  },
+  "es-tarragona": {
+   "bytes": 35751734,
+   "files": 68,
+   "publishedAt": "2026-10-04T19:54:06.499Z"
+  },
+  "es-teruel": {
+   "bytes": 50770695,
+   "files": 153,
+   "publishedAt": "2026-10-04T22:15:19.032Z"
+  },
+  "es-toledo": {
+   "bytes": 41486344,
+   "files": 136,
+   "publishedAt": "2026-10-04T22:09:31.258Z"
+  },
+  "es-valencia": {
+   "bytes": 55910752,
+   "files": 105,
+   "publishedAt": "2026-10-04T21:01:41.794Z"
+  },
+  "es-valladolid": {
+   "bytes": 25342512,
+   "files": 111,
+   "publishedAt": "2026-10-04T20:57:34.657Z"
+  },
+  "es-zamora": {
+   "bytes": 17429188,
+   "files": 91,
+   "publishedAt": "2026-10-04T20:59:44.522Z"
+  },
+  "es-zaragoza": {
+   "bytes": 84730449,
+   "files": 241,
+   "publishedAt": "2026-10-04T23:21:40.077Z"
+  },
+  "fi-aland": {
+   "bytes": 20357054,
+   "files": 120,
+   "publishedAt": "2026-10-05T15:47:15.490Z"
+  },
+  "fi-etela-karjala": {
+   "bytes": 53227266,
+   "files": 208,
+   "publishedAt": "2026-10-05T16:49:23.754Z"
+  },
+  "fi-etela-pohjanmaa": {
+   "bytes": 65418867,
+   "files": 354,
+   "publishedAt": "2026-10-05T16:51:17.036Z"
+  },
+  "fi-etela-savo": {
+   "bytes": 74929038,
+   "files": 354,
+   "publishedAt": "2026-10-05T16:53:10.118Z"
+  },
+  "fi-kainuu": {
+   "bytes": 58204514,
+   "files": 491,
+   "publishedAt": "2026-10-05T18:06:30.868Z"
+  },
+  "fi-kanta-hame": {
+   "bytes": 48158188,
+   "files": 131,
+   "publishedAt": "2026-10-05T15:42:56.547Z"
+  },
+  "fi-keski-pohjanmaa": {
+   "bytes": 29379878,
+   "files": 212,
+   "publishedAt": "2026-10-05T15:45:36.785Z"
+  },
+  "fi-keski-suomi": {
+   "bytes": 70638617,
+   "files": 426,
+   "publishedAt": "2026-10-05T17:59:41.948Z"
+  },
+  "fi-kymenlaakso": {
+   "bytes": 39810654,
+   "files": 136,
+   "publishedAt": "2026-10-05T15:44:28.958Z"
+  },
+  "fi-lappi": {
+   "bytes": 147435762,
+   "files": 1912,
+   "publishedAt": "2026-10-05T21:31:04.627Z"
+  },
+  "fi-osterbotten": {
+   "bytes": 72275824,
+   "files": 382,
+   "publishedAt": "2026-10-05T19:11:40.702Z"
+  },
+  "fi-paijat-hame": {
+   "bytes": 44524293,
+   "files": 166,
+   "publishedAt": "2026-10-05T15:43:47.450Z"
+  },
+  "fi-pirkanmaa": {
+   "bytes": 97583486,
+   "files": 361,
+   "publishedAt": "2026-10-05T16:55:07.295Z"
+  },
+  "fi-pohjois-karjala": {
+   "bytes": 125569418,
+   "files": 446,
+   "publishedAt": "2026-10-05T19:09:47.157Z"
+  },
+  "fi-pohjois-pohjanmaa": {
+   "bytes": 166109287,
+   "files": 1449,
+   "publishedAt": "2026-10-05T20:20:11.300Z"
+  },
+  "fi-pohjois-savo": {
+   "bytes": 82922477,
+   "files": 477,
+   "publishedAt": "2026-10-05T18:03:57.715Z"
+  },
+  "fi-satakunta": {
+   "bytes": 55203471,
+   "files": 185,
+   "publishedAt": "2026-10-05T15:46:36.266Z"
+  },
+  "fi-uusimaa": {
+   "bytes": 120599122,
+   "files": 248,
+   "publishedAt": "2026-10-05T16:56:29.959Z"
+  },
+  "fi-varsinais-suomi": {
+   "bytes": 113905456,
+   "files": 331,
+   "publishedAt": "2026-10-05T18:01:29.517Z"
+  },
+  "fr-ain": {
+   "bytes": 106313450,
+   "files": 81,
+   "publishedAt": "2026-10-04T15:45:49.471Z"
+  },
+  "fr-aisne": {
+   "bytes": 58037357,
+   "files": 108,
+   "publishedAt": "2026-10-04T18:36:55.119Z"
+  },
+  "fr-allier": {
+   "bytes": 59836793,
+   "files": 100,
+   "publishedAt": "2026-10-04T15:54:03.526Z"
+  },
+  "fr-alpes-de-haute-provence": {
+   "bytes": 49624033,
+   "files": 82,
+   "publishedAt": "2026-10-04T15:50:39.616Z"
+  },
+  "fr-alpes-maritimes": {
+   "bytes": 35291598,
+   "files": 45,
+   "publishedAt": "2026-10-04T13:31:15.173Z"
+  },
+  "fr-ardeche": {
+   "bytes": 67381116,
+   "files": 71,
+   "publishedAt": "2026-10-04T14:37:02.289Z"
+  },
+  "fr-ardennes": {
+   "bytes": 27722382,
+   "files": 71,
+   "publishedAt": "2026-10-04T14:44:01.090Z"
+  },
+  "fr-ariege": {
+   "bytes": 34795565,
+   "files": 51,
+   "publishedAt": "2026-10-04T13:33:22.148Z"
+  },
+  "fr-aube": {
+   "bytes": 30102216,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:39:07.901Z"
+  },
+  "fr-aude": {
+   "bytes": 58093363,
+   "files": 77,
+   "publishedAt": "2026-10-04T14:42:15.275Z"
+  },
+  "fr-aveyron": {
+   "bytes": 82701866,
+   "files": 111,
+   "publishedAt": "2026-10-04T19:44:47.797Z"
+  },
+  "fr-bas-rhin": {
+   "bytes": 52910783,
+   "files": 61,
+   "publishedAt": "2026-10-04T14:41:08.063Z"
+  },
+  "fr-bouches-du-rhone": {
+   "bytes": 73538237,
+   "files": 59,
+   "publishedAt": "2026-10-04T14:39:41.979Z"
+  },
+  "fr-calvados": {
+   "bytes": 55551272,
+   "files": 66,
+   "publishedAt": "2026-10-04T13:34:36.416Z"
+  },
+  "fr-cantal": {
+   "bytes": 41598525,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:37:23.117Z"
+  },
+  "fr-charente-maritime": {
+   "bytes": 85164660,
+   "files": 113,
+   "publishedAt": "2026-10-04T19:44:15.560Z"
+  },
+  "fr-charente": {
+   "bytes": 58123714,
+   "files": 82,
+   "publishedAt": "2026-10-04T15:46:37.025Z"
+  },
+  "fr-cher": {
+   "bytes": 48240724,
+   "files": 89,
+   "publishedAt": "2026-10-04T17:45:11.201Z"
+  },
+  "fr-correze": {
+   "bytes": 46943472,
+   "files": 73,
+   "publishedAt": "2026-10-04T13:34:57.002Z"
+  },
+  "fr-corse-du-sud": {
+   "bytes": 17346068,
+   "files": 46,
+   "publishedAt": "2026-10-04T13:31:00.806Z"
+  },
+  "fr-cote-d-or": {
+   "bytes": 57349006,
+   "files": 100,
+   "publishedAt": "2026-10-04T18:38:48.859Z"
+  },
+  "fr-cotes-d-armor": {
+   "bytes": 77114638,
+   "files": 80,
+   "publishedAt": "2026-10-04T18:41:34.195Z"
+  },
+  "fr-creuse": {
+   "bytes": 46914038,
+   "files": 65,
+   "publishedAt": "2026-10-04T13:32:25.235Z"
+  },
+  "fr-deux-sevres": {
+   "bytes": 60948456,
+   "files": 81,
+   "publishedAt": "2026-10-04T14:43:41.309Z"
+  },
+  "fr-dordogne": {
+   "bytes": 79067913,
+   "files": 111,
+   "publishedAt": "2026-10-04T18:39:19.943Z"
+  },
+  "fr-doubs": {
+   "bytes": 46090395,
+   "files": 69,
+   "publishedAt": "2026-10-04T15:48:12.737Z"
+  },
+  "fr-drome": {
+   "bytes": 85988576,
+   "files": 89,
+   "publishedAt": "2026-10-04T15:49:50.573Z"
+  },
+  "fr-essonne": {
+   "bytes": 37119700,
+   "files": 26,
+   "publishedAt": "2026-10-04T13:28:04.128Z"
+  },
+  "fr-eure-et-loir": {
+   "bytes": 45465372,
+   "files": 81,
+   "publishedAt": "2026-10-04T14:40:04.647Z"
+  },
+  "fr-eure": {
+   "bytes": 56054189,
+   "files": 81,
+   "publishedAt": "2026-10-04T14:40:28.054Z"
+  },
+  "fr-finistere": {
+   "bytes": 80607466,
+   "files": 85,
+   "publishedAt": "2026-10-04T18:41:09.402Z"
+  },
+  "fr-gard": {
+   "bytes": 91418343,
+   "files": 81,
+   "publishedAt": "2026-10-04T18:35:58.071Z"
+  },
+  "fr-gers": {
+   "bytes": 58534370,
+   "files": 64,
+   "publishedAt": "2026-10-04T14:37:42.356Z"
+  },
+  "fr-gironde": {
+   "bytes": 90973878,
+   "files": 124,
+   "publishedAt": "2026-10-04T19:45:57.336Z"
+  },
+  "fr-guadeloupe": {
+   "bytes": 11612798,
+   "files": 20,
+   "publishedAt": "2026-10-04T13:28:57.262Z"
+  },
+  "fr-guyane": {
+   "bytes": 16481985,
+   "files": 235,
+   "publishedAt": "2026-10-04T19:48:02.788Z"
+  },
+  "fr-haut-rhin": {
+   "bytes": 43504154,
+   "files": 47,
+   "publishedAt": "2026-10-04T13:29:11.760Z"
+  },
+  "fr-haute-corse": {
+   "bytes": 20380105,
+   "files": 54,
+   "publishedAt": "2026-10-04T14:39:23.460Z"
+  },
+  "fr-haute-garonne": {
+   "bytes": 101796157,
+   "files": 101,
+   "publishedAt": "2026-10-04T19:43:42.346Z"
+  },
+  "fr-haute-loire": {
+   "bytes": 47441609,
+   "files": 55,
+   "publishedAt": "2026-10-04T13:31:49.176Z"
+  },
+  "fr-haute-marne": {
+   "bytes": 33365455,
+   "files": 81,
+   "publishedAt": "2026-10-04T15:48:35.140Z"
+  },
+  "fr-haute-saone": {
+   "bytes": 43221067,
+   "files": 73,
+   "publishedAt": "2026-10-04T13:35:40.078Z"
+  },
+  "fr-haute-savoie": {
+   "bytes": 56931970,
+   "files": 54,
+   "publishedAt": "2026-10-04T13:31:32.391Z"
+  },
+  "fr-haute-vienne": {
+   "bytes": 56027896,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:40:49.200Z"
+  },
+  "fr-hautes-alpes": {
+   "bytes": 52771532,
+   "files": 94,
+   "publishedAt": "2026-10-04T17:44:46.508Z"
+  },
+  "fr-hautes-pyrenees": {
+   "bytes": 49519948,
+   "files": 50,
+   "publishedAt": "2026-10-04T13:30:46.296Z"
+  },
+  "fr-hauts-de-seine": {
+   "bytes": 27747923,
+   "files": 7,
+   "publishedAt": "2026-10-04T13:25:19.738Z"
+  },
+  "fr-herault": {
+   "bytes": 70281795,
+   "files": 66,
+   "publishedAt": "2026-10-04T14:42:34.849Z"
+  },
+  "fr-ille-et-vilaine": {
+   "bytes": 91676007,
+   "files": 98,
+   "publishedAt": "2026-10-04T15:47:27.345Z"
+  },
+  "fr-indre-et-loire": {
+   "bytes": 70062606,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:43:18.170Z"
+  },
+  "fr-indre": {
+   "bytes": 46977126,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:41:29.247Z"
+  },
+  "fr-isere": {
+   "bytes": 136364161,
+   "files": 122,
+   "publishedAt": "2026-10-04T18:42:10.354Z"
+  },
+  "fr-jura": {
+   "bytes": 55799815,
+   "files": 71,
+   "publishedAt": "2026-10-04T13:33:07.123Z"
+  },
+  "fr-la-reunion": {
+   "bytes": 14672421,
+   "files": 15,
+   "publishedAt": "2026-10-04T13:27:43.881Z"
+  },
+  "fr-landes": {
+   "bytes": 53414631,
+   "files": 85,
+   "publishedAt": "2026-10-04T18:40:11.133Z"
+  },
+  "fr-loir-et-cher": {
+   "bytes": 77205897,
+   "files": 91,
+   "publishedAt": "2026-10-04T17:45:36.706Z"
+  },
+  "fr-loire-atlantique": {
+   "bytes": 103032389,
+   "files": 86,
+   "publishedAt": "2026-10-04T18:38:19.738Z"
+  },
+  "fr-loire": {
+   "bytes": 82152425,
+   "files": 73,
+   "publishedAt": "2026-10-04T13:35:19.168Z"
+  },
+  "fr-loiret": {
+   "bytes": 53152054,
+   "files": 91,
+   "publishedAt": "2026-10-04T15:47:52.382Z"
+  },
+  "fr-lot-et-garonne": {
+   "bytes": 44857788,
+   "files": 57,
+   "publishedAt": "2026-10-04T13:32:06.246Z"
+  },
+  "fr-lot": {
+   "bytes": 51407739,
+   "files": 65,
+   "publishedAt": "2026-10-04T13:33:41.105Z"
+  },
+  "fr-lozere": {
+   "bytes": 28112754,
+   "files": 57,
+   "publishedAt": "2026-10-04T13:30:30.864Z"
+  },
+  "fr-maine-et-loire": {
+   "bytes": 78950324,
+   "files": 81,
+   "publishedAt": "2026-10-04T15:46:13.116Z"
+  },
+  "fr-manche": {
+   "bytes": 57659149,
+   "files": 83,
+   "publishedAt": "2026-10-04T17:44:19.627Z"
+  },
+  "fr-marne": {
+   "bytes": 39406408,
+   "files": 91,
+   "publishedAt": "2026-10-04T15:51:03.709Z"
+  },
+  "fr-martinique": {
+   "bytes": 8068309,
+   "files": 11,
+   "publishedAt": "2026-10-04T13:27:02.593Z"
+  },
+  "fr-mayenne": {
+   "bytes": 46926318,
+   "files": 65,
+   "publishedAt": "2026-10-04T13:32:44.480Z"
+  },
+  "fr-mayotte": {
+   "bytes": 4496959,
+   "files": 6,
+   "publishedAt": "2026-10-04T13:26:09.301Z"
+  },
+  "fr-metropole-de-lyon": {
+   "bytes": 27842970,
+   "files": 13,
+   "publishedAt": "2026-10-04T13:26:16.204Z"
+  },
+  "fr-meurthe-et-moselle": {
+   "bytes": 73542959,
+   "files": 111,
+   "publishedAt": "2026-10-04T19:45:19.726Z"
+  },
+  "fr-meuse": {
+   "bytes": 30392527,
+   "files": 82,
+   "publishedAt": "2026-10-04T14:38:47.189Z"
+  },
+  "fr-morbihan": {
+   "bytes": 78048237,
+   "files": 83,
+   "publishedAt": "2026-10-04T18:36:25.288Z"
+  },
+  "fr-moselle": {
+   "bytes": 64952013,
+   "files": 90,
+   "publishedAt": "2026-10-04T18:39:46.367Z"
+  },
+  "fr-nievre": {
+   "bytes": 44763262,
+   "files": 82,
+   "publishedAt": "2026-10-04T14:44:24.367Z"
+  },
+  "fr-nord": {
+   "bytes": 107835629,
+   "files": 100,
+   "publishedAt": "2026-10-04T19:46:30.021Z"
+  },
+  "fr-oise": {
+   "bytes": 48483875,
+   "files": 71,
+   "publishedAt": "2026-10-04T13:34:01.377Z"
+  },
+  "fr-orne": {
+   "bytes": 61159408,
+   "files": 89,
+   "publishedAt": "2026-10-04T15:50:15.425Z"
+  },
+  "fr-paris": {
+   "bytes": 23482943,
+   "files": 4,
+   "publishedAt": "2026-10-04T13:25:14.129Z"
+  },
+  "fr-pas-de-calais": {
+   "bytes": 95910804,
+   "files": 99,
+   "publishedAt": "2026-10-04T18:37:25.923Z"
+  },
+  "fr-puy-de-dome": {
+   "bytes": 74992790,
+   "files": 91,
+   "publishedAt": "2026-10-04T15:54:51.388Z"
+  },
+  "fr-pyrenees-atlantiques": {
+   "bytes": 59412406,
+   "files": 77,
+   "publishedAt": "2026-10-04T15:53:35.145Z"
+  },
+  "fr-pyrenees-orientales": {
+   "bytes": 32637211,
+   "files": 45,
+   "publishedAt": "2026-10-04T13:29:57.657Z"
+  },
+  "fr-rhone": {
+   "bytes": 79063507,
+   "files": 49,
+   "publishedAt": "2026-10-04T13:29:28.153Z"
+  },
+  "fr-saone-et-loire": {
+   "bytes": 112849183,
+   "files": 109,
+   "publishedAt": "2026-10-04T18:40:43.609Z"
+  },
+  "fr-sarthe": {
+   "bytes": 66165433,
+   "files": 82,
+   "publishedAt": "2026-10-04T14:41:53.124Z"
+  },
+  "fr-savoie": {
+   "bytes": 74675549,
+   "files": 77,
+   "publishedAt": "2026-10-04T15:46:59.524Z"
+  },
+  "fr-seine-et-marne": {
+   "bytes": 81423610,
+   "files": 73,
+   "publishedAt": "2026-10-04T14:38:23.331Z"
+  },
+  "fr-seine-maritime": {
+   "bytes": 56013464,
+   "files": 83,
+   "publishedAt": "2026-10-04T15:48:58.352Z"
+  },
+  "fr-seine-saint-denis": {
+   "bytes": 34737813,
+   "files": 5,
+   "publishedAt": "2026-10-04T13:25:32.031Z"
+  },
+  "fr-somme": {
+   "bytes": 57042291,
+   "files": 95,
+   "publishedAt": "2026-10-04T15:49:25.062Z"
+  },
+  "fr-tarn-et-garonne": {
+   "bytes": 38287616,
+   "files": 49,
+   "publishedAt": "2026-10-04T13:29:43.346Z"
+  },
+  "fr-tarn": {
+   "bytes": 50489160,
+   "files": 64,
+   "publishedAt": "2026-10-04T14:38:00.857Z"
+  },
+  "fr-territoire-de-belfort": {
+   "bytes": 14405365,
+   "files": 13,
+   "publishedAt": "2026-10-04T13:26:22.984Z"
+  },
+  "fr-val-d-oise": {
+   "bytes": 43133749,
+   "files": 25,
+   "publishedAt": "2026-10-04T13:27:53.931Z"
+  },
+  "fr-val-de-marne": {
+   "bytes": 26668708,
+   "files": 7,
+   "publishedAt": "2026-10-04T13:25:25.839Z"
+  },
+  "fr-var": {
+   "bytes": 46105566,
+   "files": 52,
+   "publishedAt": "2026-10-04T13:34:16.958Z"
+  },
+  "fr-vaucluse": {
+   "bytes": 59611238,
+   "files": 50,
+   "publishedAt": "2026-10-04T13:30:13.605Z"
+  },
+  "fr-vendee": {
+   "bytes": 71093107,
+   "files": 74,
+   "publishedAt": "2026-10-04T15:54:25.511Z"
+  },
+  "fr-vienne": {
+   "bytes": 58550882,
+   "files": 89,
+   "publishedAt": "2026-10-04T15:51:29.350Z"
+  },
+  "fr-vosges": {
+   "bytes": 46769961,
+   "files": 78,
+   "publishedAt": "2026-10-04T14:42:56.473Z"
+  },
+  "fr-yonne": {
+   "bytes": 54009545,
+   "files": 91,
+   "publishedAt": "2026-10-04T18:37:52.425Z"
+  },
+  "fr-yvelines": {
+   "bytes": 51635881,
+   "files": 36,
+   "publishedAt": "2026-10-04T13:28:16.204Z"
+  },
+  "gb-antrim": {
+   "bytes": 23723403,
+   "files": 43,
+   "publishedAt": "2026-10-05T01:42:17.066Z"
+  },
+  "gb-armagh": {
+   "bytes": 9683203,
+   "files": 31,
+   "publishedAt": "2026-10-05T00:33:32.725Z"
+  },
+  "gb-bedfordshire": {
+   "bytes": 21295128,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:33:51.892Z"
+  },
+  "gb-berkshire": {
+   "bytes": 25272230,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:32:26.511Z"
+  },
+  "gb-bristol": {
+   "bytes": 15652619,
+   "files": 13,
+   "publishedAt": "2026-10-05T00:31:58.386Z"
+  },
+  "gb-buckinghamshire": {
+   "bytes": 34002336,
+   "files": 41,
+   "publishedAt": "2026-10-05T00:36:08.888Z"
+  },
+  "gb-cambridgeshire": {
+   "bytes": 36358734,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:40:11.371Z"
+  },
+  "gb-cheshire": {
+   "bytes": 63962256,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:38:03.431Z"
+  },
+  "gb-city-of-london": {
+   "bytes": 4618629,
+   "files": 3,
+   "publishedAt": "2026-10-05T00:31:40.809Z"
+  },
+  "gb-cornwall": {
+   "bytes": 28606151,
+   "files": 53,
+   "publishedAt": "2026-10-05T01:47:11.284Z"
+  },
+  "gb-county-durham": {
+   "bytes": 23188940,
+   "files": 47,
+   "publishedAt": "2026-10-05T00:37:18.374Z"
+  },
+  "gb-cumbria": {
+   "bytes": 44733383,
+   "files": 111,
+   "publishedAt": "2026-10-05T01:45:47.049Z"
+  },
+  "gb-derbyshire": {
+   "bytes": 56324168,
+   "files": 55,
+   "publishedAt": "2026-10-05T00:39:55.257Z"
+  },
+  "gb-devon": {
+   "bytes": 57238207,
+   "files": 89,
+   "publishedAt": "2026-10-05T01:46:13.068Z"
+  },
+  "gb-dorset": {
+   "bytes": 28661827,
+   "files": 46,
+   "publishedAt": "2026-10-05T00:39:37.837Z"
+  },
+  "gb-down": {
+   "bytes": 26559514,
+   "files": 44,
+   "publishedAt": "2026-10-05T00:38:17.587Z"
+  },
+  "gb-east-riding-of-yorkshire": {
+   "bytes": 27222639,
+   "files": 50,
+   "publishedAt": "2026-10-05T01:41:27.454Z"
+  },
+  "gb-east-sussex": {
+   "bytes": 28708211,
+   "files": 28,
+   "publishedAt": "2026-10-05T00:35:55.291Z"
+  },
+  "gb-essex": {
+   "bytes": 60409469,
+   "files": 57,
+   "publishedAt": "2026-10-05T01:43:09.475Z"
+  },
+  "gb-fermanagh": {
+   "bytes": 8893485,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:36:35.331Z"
+  },
+  "gb-gloucestershire": {
+   "bytes": 51394861,
+   "files": 50,
+   "publishedAt": "2026-10-05T01:41:44.954Z"
+  },
+  "gb-greater-london": {
+   "bytes": 81668681,
+   "files": 26,
+   "publishedAt": "2026-10-05T00:34:16.342Z"
+  },
+  "gb-greater-manchester": {
+   "bytes": 47586322,
+   "files": 31,
+   "publishedAt": "2026-10-05T00:34:03.940Z"
+  },
+  "gb-hampshire": {
+   "bytes": 58171152,
+   "files": 56,
+   "publishedAt": "2026-10-05T01:42:35.164Z"
+  },
+  "gb-herefordshire": {
+   "bytes": 19485660,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:35:44.277Z"
+  },
+  "gb-hertfordshire": {
+   "bytes": 49389697,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:35:32.421Z"
+  },
+  "gb-isle-of-wight": {
+   "bytes": 6995772,
+   "files": 11,
+   "publishedAt": "2026-10-05T00:31:51.814Z"
+  },
+  "gb-kent": {
+   "bytes": 48074038,
+   "files": 46,
+   "publishedAt": "2026-10-05T01:42:50.881Z"
+  },
+  "gb-lancashire": {
+   "bytes": 57992559,
+   "files": 56,
+   "publishedAt": "2026-10-05T01:42:03.422Z"
+  },
+  "gb-leicestershire": {
+   "bytes": 41007759,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:37:04.125Z"
+  },
+  "gb-lincolnshire": {
+   "bytes": 42647601,
+   "files": 91,
+   "publishedAt": "2026-10-05T01:45:17.220Z"
+  },
+  "gb-londonderry": {
+   "bytes": 10957244,
+   "files": 48,
+   "publishedAt": "2026-10-05T00:36:49.383Z"
+  },
+  "gb-merseyside": {
+   "bytes": 30089090,
+   "files": 23,
+   "publishedAt": "2026-10-05T00:33:42.217Z"
+  },
+  "gb-norfolk": {
+   "bytes": 38435668,
+   "files": 68,
+   "publishedAt": "2026-10-05T01:44:05.985Z"
+  },
+  "gb-north-yorkshire": {
+   "bytes": 100273265,
+   "files": 147,
+   "publishedAt": "2026-10-05T01:46:54.821Z"
+  },
+  "gb-northamptonshire": {
+   "bytes": 35733580,
+   "files": 50,
+   "publishedAt": "2026-10-05T00:38:34.354Z"
+  },
+  "gb-northumberland": {
+   "bytes": 45073450,
+   "files": 81,
+   "publishedAt": "2026-10-05T01:44:51.115Z"
+  },
+  "gb-nottinghamshire": {
+   "bytes": 32803062,
+   "files": 41,
+   "publishedAt": "2026-10-05T00:36:22.370Z"
+  },
+  "gb-oxfordshire": {
+   "bytes": 32205399,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:37:48.285Z"
+  },
+  "gb-rutland": {
+   "bytes": 3481723,
+   "files": 10,
+   "publishedAt": "2026-10-05T00:31:46.156Z"
+  },
+  "gb-shropshire": {
+   "bytes": 33622768,
+   "files": 50,
+   "publishedAt": "2026-10-05T00:39:05.205Z"
+  },
+  "gb-somerset": {
+   "bytes": 56036975,
+   "files": 70,
+   "publishedAt": "2026-10-05T01:44:27.639Z"
+  },
+  "gb-south-yorkshire": {
+   "bytes": 29779474,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:34:28.454Z"
+  },
+  "gb-staffordshire": {
+   "bytes": 60945830,
+   "files": 55,
+   "publishedAt": "2026-10-05T00:39:23.512Z"
+  },
+  "gb-suffolk": {
+   "bytes": 36812353,
+   "files": 62,
+   "publishedAt": "2026-10-05T01:43:46.682Z"
+  },
+  "gb-surrey": {
+   "bytes": 56463068,
+   "files": 25,
+   "publishedAt": "2026-10-05T00:34:39.597Z"
+  },
+  "gb-tyne-and-wear": {
+   "bytes": 18032672,
+   "files": 16,
+   "publishedAt": "2026-10-05T00:32:05.534Z"
+  },
+  "gb-tyrone": {
+   "bytes": 15048232,
+   "files": 70,
+   "publishedAt": "2026-10-05T01:43:28.622Z"
+  },
+  "gb-wales": {
+   "bytes": 149578735,
+   "files": 229,
+   "publishedAt": "2026-10-05T01:48:14.631Z"
+  },
+  "gb-warwickshire": {
+   "bytes": 49995848,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:37:32.637Z"
+  },
+  "gb-west-midlands": {
+   "bytes": 42504174,
+   "files": 21,
+   "publishedAt": "2026-10-05T00:32:15.781Z"
+  },
+  "gb-west-sussex": {
+   "bytes": 33787574,
+   "files": 30,
+   "publishedAt": "2026-10-05T00:35:17.707Z"
+  },
+  "gb-west-yorkshire": {
+   "bytes": 47510410,
+   "files": 43,
+   "publishedAt": "2026-10-05T00:34:53.931Z"
+  },
+  "gb-wiltshire": {
+   "bytes": 36660708,
+   "files": 49,
+   "publishedAt": "2026-10-05T00:38:49.717Z"
+  },
+  "gb-worcestershire": {
+   "bytes": 30885357,
+   "files": 36,
+   "publishedAt": "2026-10-05T00:35:06.089Z"
+  },
+  "gr-attica": {
+   "bytes": 43753842,
+   "files": 93,
+   "publishedAt": "2026-10-03T19:26:56.198Z"
+  },
+  "gr-central-greece": {
+   "bytes": 80323575,
+   "files": 208,
+   "publishedAt": "2026-10-03T19:30:20.573Z"
+  },
+  "gr-central-macedonia": {
+   "bytes": 50827477,
+   "files": 158,
+   "publishedAt": "2026-10-03T19:27:36.689Z"
+  },
+  "gr-crete": {
+   "bytes": 23382346,
+   "files": 67,
+   "publishedAt": "2026-10-03T19:26:29.865Z"
+  },
+  "gr-eastern-macedonia-and-thrace": {
+   "bytes": 23190170,
+   "files": 120,
+   "publishedAt": "2026-10-03T19:28:48.483Z"
+  },
+  "gr-epirus": {
+   "bytes": 23290888,
+   "files": 85,
+   "publishedAt": "2026-10-03T19:25:34.875Z"
+  },
+  "gr-ionian-islands": {
+   "bytes": 31805620,
+   "files": 117,
+   "publishedAt": "2026-10-03T19:30:51.462Z"
+  },
+  "gr-north-aegean": {
+   "bytes": 13177708,
+   "files": 81,
+   "publishedAt": "2026-10-03T19:31:13.008Z"
+  },
+  "gr-peloponnese": {
+   "bytes": 46860439,
+   "files": 144,
+   "publishedAt": "2026-10-03T19:29:25.648Z"
+  },
+  "gr-south-aegean": {
+   "bytes": 35598523,
+   "files": 230,
+   "publishedAt": "2026-10-03T20:33:12.215Z"
+  },
+  "gr-thessaly": {
+   "bytes": 40091803,
+   "files": 162,
+   "publishedAt": "2026-10-03T19:28:17.783Z"
+  },
+  "gr-western-greece": {
+   "bytes": 48397391,
+   "files": 139,
+   "publishedAt": "2026-10-03T19:26:11.491Z"
+  },
+  "gr-western-macedonia": {
+   "bytes": 21202232,
+   "files": 79,
+   "publishedAt": "2026-10-03T19:25:12.197Z"
+  },
+  "hr-bjelovarsko-bilogorska": {
+   "bytes": 14018305,
+   "files": 42,
+   "publishedAt": "2026-10-05T22:45:53.346Z"
+  },
+  "hr-brodsko-posavska": {
+   "bytes": 8071462,
+   "files": 31,
+   "publishedAt": "2026-10-05T22:45:14.890Z"
+  },
+  "hr-dubrovacko-neretvanska": {
+   "bytes": 9814418,
+   "files": 42,
+   "publishedAt": "2026-10-05T23:49:23.086Z"
+  },
+  "hr-grad-zagreb": {
+   "bytes": 17064226,
+   "files": 17,
+   "publishedAt": "2026-10-05T22:44:13.668Z"
+  },
+  "hr-istarska": {
+   "bytes": 19905052,
+   "files": 30,
+   "publishedAt": "2026-10-05T22:45:30.508Z"
+  },
+  "hr-karlovacka": {
+   "bytes": 22453953,
+   "files": 45,
+   "publishedAt": "2026-10-05T22:46:22.209Z"
+  },
+  "hr-koprivnicko-krizevacka": {
+   "bytes": 12019012,
+   "files": 33,
+   "publishedAt": "2026-10-05T22:44:42.151Z"
+  },
+  "hr-krapinsko-zagorska": {
+   "bytes": 10165623,
+   "files": 19,
+   "publishedAt": "2026-10-05T22:44:21.407Z"
+  },
+  "hr-licko-senjska": {
+   "bytes": 20832683,
+   "files": 68,
+   "publishedAt": "2026-10-05T22:47:49.522Z"
+  },
+  "hr-medimurska": {
+   "bytes": 5141747,
+   "files": 12,
+   "publishedAt": "2026-10-05T22:44:06.120Z"
+  },
+  "hr-osjecko-baranjska": {
+   "bytes": 11003760,
+   "files": 52,
+   "publishedAt": "2026-10-05T22:46:38.015Z"
+  },
+  "hr-pozesko-slavonska": {
+   "bytes": 8455155,
+   "files": 32,
+   "publishedAt": "2026-10-05T22:44:52.239Z"
+  },
+  "hr-primorsko-goranska": {
+   "bytes": 23533390,
+   "files": 66,
+   "publishedAt": "2026-10-05T22:48:08.531Z"
+  },
+  "hr-sibensko-kninska": {
+   "bytes": 22414462,
+   "files": 55,
+   "publishedAt": "2026-10-05T22:47:10.331Z"
+  },
+  "hr-sisacko-moslavacka": {
+   "bytes": 23112899,
+   "files": 50,
+   "publishedAt": "2026-10-05T22:46:53.575Z"
+  },
+  "hr-splitsko-dalmatinska": {
+   "bytes": 30886023,
+   "files": 92,
+   "publishedAt": "2026-10-05T23:49:48.822Z"
+  },
+  "hr-varazdinska": {
+   "bytes": 12171616,
+   "files": 25,
+   "publishedAt": "2026-10-05T22:44:31.323Z"
+  },
+  "hr-viroviticko-podravska": {
+   "bytes": 6085423,
+   "files": 29,
+   "publishedAt": "2026-10-05T22:45:02.547Z"
+  },
+  "hr-vukovarsko-srijemska": {
+   "bytes": 6059626,
+   "files": 28,
+   "publishedAt": "2026-10-05T22:45:40.280Z"
+  },
+  "hr-zadarska": {
+   "bytes": 19981879,
+   "files": 63,
+   "publishedAt": "2026-10-05T22:47:29.477Z"
+  },
+  "hr-zagrebacka": {
+   "bytes": 37661333,
+   "files": 44,
+   "publishedAt": "2026-10-05T22:46:07.871Z"
+  },
+  "hu-bacs-kiskun": {
+   "bytes": 31127669,
+   "files": 89,
+   "publishedAt": "2026-10-05T22:38:52.591Z"
+  },
+  "hu-baranya": {
+   "bytes": 19470450,
+   "files": 46,
+   "publishedAt": "2026-10-05T21:33:56.272Z"
+  },
+  "hu-bekes": {
+   "bytes": 13261667,
+   "files": 65,
+   "publishedAt": "2026-10-05T21:35:27.757Z"
+  },
+  "hu-borsod-abauj-zemplen": {
+   "bytes": 38387524,
+   "files": 96,
+   "publishedAt": "2026-10-05T22:39:19.599Z"
+  },
+  "hu-budapest": {
+   "bytes": 20266007,
+   "files": 10,
+   "publishedAt": "2026-10-05T21:32:05.175Z"
+  },
+  "hu-csongrad-csanad": {
+   "bytes": 14793733,
+   "files": 55,
+   "publishedAt": "2026-10-05T21:33:07.501Z"
+  },
+  "hu-fejer": {
+   "bytes": 27185802,
+   "files": 49,
+   "publishedAt": "2026-10-05T21:33:41.144Z"
+  },
+  "hu-gyor-moson-sopron": {
+   "bytes": 20205754,
+   "files": 65,
+   "publishedAt": "2026-10-05T21:35:07.296Z"
+  },
+  "hu-hajdu-bihar": {
+   "bytes": 20818424,
+   "files": 69,
+   "publishedAt": "2026-10-05T21:36:12.342Z"
+  },
+  "hu-heves": {
+   "bytes": 21447073,
+   "files": 57,
+   "publishedAt": "2026-10-05T21:34:29.598Z"
+  },
+  "hu-jasz-nagykun-szolnok": {
+   "bytes": 19795160,
+   "files": 82,
+   "publishedAt": "2026-10-05T21:35:51.487Z"
+  },
+  "hu-komarom-esztergom": {
+   "bytes": 19446960,
+   "files": 35,
+   "publishedAt": "2026-10-05T21:32:17.917Z"
+  },
+  "hu-nograd": {
+   "bytes": 18540356,
+   "files": 40,
+   "publishedAt": "2026-10-05T21:32:31.523Z"
+  },
+  "hu-pest": {
+   "bytes": 63052629,
+   "files": 90,
+   "publishedAt": "2026-10-05T22:38:26.824Z"
+  },
+  "hu-somogy": {
+   "bytes": 30085964,
+   "files": 76,
+   "publishedAt": "2026-10-05T21:36:58.748Z"
+  },
+  "hu-szabolcs-szatmar-bereg": {
+   "bytes": 25317303,
+   "files": 83,
+   "publishedAt": "2026-10-05T21:36:36.617Z"
+  },
+  "hu-tolna": {
+   "bytes": 18477373,
+   "files": 50,
+   "publishedAt": "2026-10-05T21:32:49.118Z"
+  },
+  "hu-vas": {
+   "bytes": 19867844,
+   "files": 48,
+   "publishedAt": "2026-10-05T21:34:45.478Z"
+  },
+  "hu-veszprem": {
+   "bytes": 23384273,
+   "files": 50,
+   "publishedAt": "2026-10-05T21:34:12.313Z"
+  },
+  "hu-zala": {
+   "bytes": 20162664,
+   "files": 53,
+   "publishedAt": "2026-10-05T21:33:24.598Z"
+  },
+  "ie-carlow": {
+   "bytes": 6011274,
+   "files": 25,
+   "publishedAt": "2026-10-05T01:48:43.242Z"
+  },
+  "ie-cavan": {
+   "bytes": 19691589,
+   "files": 49,
+   "publishedAt": "2026-10-05T02:54:39.579Z"
+  },
+  "ie-clare": {
+   "bytes": 14795398,
+   "files": 59,
+   "publishedAt": "2026-10-05T02:55:14.318Z"
+  },
+  "ie-cork": {
+   "bytes": 31953080,
+   "files": 126,
+   "publishedAt": "2026-10-05T02:57:46.620Z"
+  },
+  "ie-donegal": {
+   "bytes": 18283695,
+   "files": 94,
+   "publishedAt": "2026-10-05T02:57:13.309Z"
+  },
+  "ie-dublin": {
+   "bytes": 24838638,
+   "files": 21,
+   "publishedAt": "2026-10-05T01:48:34.168Z"
+  },
+  "ie-galway": {
+   "bytes": 24815862,
+   "files": 96,
+   "publishedAt": "2026-10-05T02:56:48.292Z"
+  },
+  "ie-kerry": {
+   "bytes": 12483156,
+   "files": 75,
+   "publishedAt": "2026-10-05T02:55:56.839Z"
+  },
+  "ie-kildare": {
+   "bytes": 13090714,
+   "files": 36,
+   "publishedAt": "2026-10-05T01:51:22.040Z"
+  },
+  "ie-kilkenny": {
+   "bytes": 12597575,
+   "files": 36,
+   "publishedAt": "2026-10-05T02:52:59.005Z"
+  },
+  "ie-laois": {
+   "bytes": 7289852,
+   "files": 30,
+   "publishedAt": "2026-10-05T01:49:02.266Z"
+  },
+  "ie-leitrim": {
+   "bytes": 11013963,
+   "files": 41,
+   "publishedAt": "2026-10-05T02:53:34.248Z"
+  },
+  "ie-limerick": {
+   "bytes": 11293789,
+   "files": 41,
+   "publishedAt": "2026-10-05T02:53:47.126Z"
+  },
+  "ie-longford": {
+   "bytes": 6998432,
+   "files": 26,
+   "publishedAt": "2026-10-05T01:48:52.336Z"
+  },
+  "ie-louth": {
+   "bytes": 7888717,
+   "files": 23,
+   "publishedAt": "2026-10-05T01:48:25.177Z"
+  },
+  "ie-mayo": {
+   "bytes": 21696760,
+   "files": 93,
+   "publishedAt": "2026-10-05T02:56:22.206Z"
+  },
+  "ie-meath": {
+   "bytes": 27521404,
+   "files": 43,
+   "publishedAt": "2026-10-05T02:54:11.999Z"
+  },
+  "ie-monaghan": {
+   "bytes": 12181529,
+   "files": 31,
+   "publishedAt": "2026-10-05T01:51:10.298Z"
+  },
+  "ie-offaly": {
+   "bytes": 13677442,
+   "files": 43,
+   "publishedAt": "2026-10-05T02:54:24.791Z"
+  },
+  "ie-roscommon": {
+   "bytes": 16035861,
+   "files": 64,
+   "publishedAt": "2026-10-05T02:54:57.180Z"
+  },
+  "ie-sligo": {
+   "bytes": 10855950,
+   "files": 37,
+   "publishedAt": "2026-10-05T02:53:21.678Z"
+  },
+  "ie-tipperary": {
+   "bytes": 17964694,
+   "files": 81,
+   "publishedAt": "2026-10-05T02:55:36.298Z"
+  },
+  "ie-waterford": {
+   "bytes": 7956944,
+   "files": 32,
+   "publishedAt": "2026-10-05T02:53:09.289Z"
+  },
+  "ie-westmeath": {
+   "bytes": 15730746,
+   "files": 43,
+   "publishedAt": "2026-10-05T02:52:47.665Z"
+  },
+  "ie-wexford": {
+   "bytes": 10392283,
+   "files": 33,
+   "publishedAt": "2026-10-05T02:53:57.891Z"
+  },
+  "ie-wicklow": {
+   "bytes": 10924467,
+   "files": 35,
+   "publishedAt": "2026-10-05T01:51:33.079Z"
+  },
+  "is-iceland": {
+   "bytes": 134518514,
+   "files": 1550,
+   "publishedAt": "2026-10-06T06:59:55.010Z"
+  },
+  "it-abruzzo": {
+   "bytes": 89667454,
+   "files": 91,
+   "publishedAt": "2026-10-04T11:05:10.548Z"
+  },
+  "it-basilicata": {
+   "bytes": 47345066,
+   "files": 95,
+   "publishedAt": "2026-10-04T11:04:44.867Z"
+  },
+  "it-calabria": {
+   "bytes": 46144185,
+   "files": 102,
+   "publishedAt": "2026-10-04T11:07:38.508Z"
+  },
+  "it-campania": {
+   "bytes": 77369584,
+   "files": 111,
+   "publishedAt": "2026-10-04T11:07:11.704Z"
+  },
+  "it-emilia-romagna": {
+   "bytes": 220735867,
+   "files": 220,
+   "publishedAt": "2026-10-04T12:11:24.524Z"
+  },
+  "it-friuli-venezia-giulia": {
+   "bytes": 71070382,
+   "files": 81,
+   "publishedAt": "2026-10-04T11:03:52.129Z"
+  },
+  "it-lazio": {
+   "bytes": 140453260,
+   "files": 177,
+   "publishedAt": "2026-10-04T12:12:15.338Z"
+  },
+  "it-liguria": {
+   "bytes": 85253893,
+   "files": 90,
+   "publishedAt": "2026-10-04T11:06:02.530Z"
+  },
+  "it-lombardia": {
+   "bytes": 313253055,
+   "files": 285,
+   "publishedAt": "2026-10-04T12:13:36.775Z"
+  },
+  "it-marche": {
+   "bytes": 72066324,
+   "files": 100,
+   "publishedAt": "2026-10-04T11:05:37.363Z"
+  },
+  "it-molise": {
+   "bytes": 27072201,
+   "files": 55,
+   "publishedAt": "2026-10-04T11:03:29.329Z"
+  },
+  "it-piemonte": {
+   "bytes": 251938008,
+   "files": 246,
+   "publishedAt": "2026-10-04T12:15:53.825Z"
+  },
+  "it-puglia": {
+   "bytes": 119913735,
+   "files": 236,
+   "publishedAt": "2026-10-04T12:16:56.391Z"
+  },
+  "it-sardegna": {
+   "bytes": 55479257,
+   "files": 147,
+   "publishedAt": "2026-10-04T11:08:16.837Z"
+  },
+  "it-sicilia": {
+   "bytes": 81365967,
+   "files": 174,
+   "publishedAt": "2026-10-04T13:18:43.243Z"
+  },
+  "it-toscana": {
+   "bytes": 197796260,
+   "files": 247,
+   "publishedAt": "2026-10-04T12:14:44.764Z"
+  },
+  "it-trentino-alto-adige": {
+   "bytes": 139932272,
+   "files": 141,
+   "publishedAt": "2026-10-04T11:06:41.353Z"
+  },
+  "it-umbria": {
+   "bytes": 62056041,
+   "files": 100,
+   "publishedAt": "2026-10-04T11:04:19.438Z"
+  },
+  "it-valle-d-aosta": {
+   "bytes": 20300043,
+   "files": 35,
+   "publishedAt": "2026-10-04T11:03:13.297Z"
+  },
+  "it-veneto": {
+   "bytes": 244414574,
+   "files": 230,
+   "publishedAt": "2026-10-04T12:10:22.058Z"
+  },
+  "li-liechtenstein": {
+   "bytes": 2062995,
+   "files": 5,
+   "publishedAt": "2026-10-04T10:59:53.001Z"
+  },
+  "lt-alytaus": {
+   "bytes": 24573516,
+   "files": 71,
+   "publishedAt": "2026-10-06T05:47:15.976Z"
+  },
+  "lt-kauno": {
+   "bytes": 66966392,
+   "files": 163,
+   "publishedAt": "2026-10-06T05:50:20.977Z"
+  },
+  "lt-klaipedos": {
+   "bytes": 23964082,
+   "files": 82,
+   "publishedAt": "2026-10-06T05:48:01.492Z"
+  },
+  "lt-marijampoles": {
+   "bytes": 25542926,
+   "files": 72,
+   "publishedAt": "2026-10-06T05:46:56.194Z"
+  },
+  "lt-panevezio": {
+   "bytes": 45935521,
+   "files": 130,
+   "publishedAt": "2026-10-06T05:49:38.045Z"
+  },
+  "lt-siauliu": {
+   "bytes": 32648309,
+   "files": 118,
+   "publishedAt": "2026-10-06T05:48:32.329Z"
+  },
+  "lt-taurages": {
+   "bytes": 25762818,
+   "files": 88,
+   "publishedAt": "2026-10-06T05:47:39.576Z"
+  },
+  "lt-telsiu": {
+   "bytes": 20790832,
+   "files": 70,
+   "publishedAt": "2026-10-06T05:46:34.974Z"
+  },
+  "lt-utenos": {
+   "bytes": 47025738,
+   "files": 116,
+   "publishedAt": "2026-10-06T05:49:03.036Z"
+  },
+  "lt-vilniaus": {
+   "bytes": 71518125,
+   "files": 167,
+   "publishedAt": "2026-10-06T05:51:05.414Z"
+  },
+  "lu-luxembourg": {
+   "bytes": 29747069,
+   "files": 32,
+   "publishedAt": "2026-10-04T10:59:15.186Z"
+  },
+  "lv-latvia": {
+   "bytes": 158008964,
+   "files": 662,
+   "publishedAt": "2026-10-06T05:45:28.256Z"
+  },
+  "md-moldova": {
+   "bytes": 76837022,
+   "files": 245,
+   "publishedAt": "2026-10-06T04:35:48.578Z"
+  },
+  "me-montenegro": {
+   "bytes": 38294953,
+   "files": 103,
+   "publishedAt": "2026-10-06T03:29:27.482Z"
+  },
+  "mk-north-macedonia": {
+   "bytes": 34663724,
+   "files": 150,
+   "publishedAt": "2026-10-06T03:30:43.362Z"
+  },
+  "mt-malta": {
+   "bytes": 5625993,
+   "files": 8,
+   "publishedAt": "2026-10-06T07:00:34.121Z"
+  },
+  "nl-drenthe": {
+   "bytes": 50478380,
+   "files": 43,
+   "publishedAt": "2026-10-04T06:16:36.577Z"
+  },
+  "nl-flevoland": {
+   "bytes": 43396398,
+   "files": 50,
+   "publishedAt": "2026-10-04T06:16:22.038Z"
+  },
+  "nl-fryslan": {
+   "bytes": 66415263,
+   "files": 74,
+   "publishedAt": "2026-10-04T06:18:42.807Z"
+  },
+  "nl-gelderland": {
+   "bytes": 166790376,
+   "files": 85,
+   "publishedAt": "2026-10-04T06:19:10.469Z"
+  },
+  "nl-groningen": {
+   "bytes": 47312844,
+   "files": 46,
+   "publishedAt": "2026-10-04T06:17:04.337Z"
+  },
+  "nl-limburg": {
+   "bytes": 61041054,
+   "files": 42,
+   "publishedAt": "2026-10-04T06:16:50.350Z"
+  },
+  "nl-noord-brabant": {
+   "bytes": 113972890,
+   "files": 65,
+   "publishedAt": "2026-10-04T06:18:21.254Z"
+  },
+  "nl-noord-holland": {
+   "bytes": 94306592,
+   "files": 53,
+   "publishedAt": "2026-10-04T06:17:39.008Z"
+  },
+  "nl-overijssel": {
+   "bytes": 90553787,
+   "files": 70,
+   "publishedAt": "2026-10-04T06:18:01.052Z"
+  },
+  "nl-utrecht": {
+   "bytes": 67603233,
+   "files": 31,
+   "publishedAt": "2026-10-04T06:15:54.900Z"
+  },
+  "nl-zeeland": {
+   "bytes": 26726153,
+   "files": 33,
+   "publishedAt": "2026-10-04T06:16:06.746Z"
+  },
+  "nl-zuid-holland": {
+   "bytes": 115274659,
+   "files": 46,
+   "publishedAt": "2026-10-04T06:17:21.700Z"
+  },
+  "no-agder": {
+   "bytes": 156738609,
+   "files": 363,
+   "publishedAt": "2026-10-05T11:02:19.116Z"
+  },
+  "no-akershus": {
+   "bytes": 84508033,
+   "files": 155,
+   "publishedAt": "2026-10-05T09:54:59.766Z"
+  },
+  "no-buskerud": {
+   "bytes": 165767971,
+   "files": 381,
+   "publishedAt": "2026-10-05T11:00:31.532Z"
+  },
+  "no-finnmark": {
+   "bytes": 225233023,
+   "files": 1498,
+   "publishedAt": "2026-10-05T14:36:33.675Z"
+  },
+  "no-innlandet": {
+   "bytes": 331036364,
+   "files": 1074,
+   "publishedAt": "2026-10-05T12:14:49.086Z"
+  },
+  "no-more-og-romsdal": {
+   "bytes": 92545454,
+   "files": 402,
+   "publishedAt": "2026-10-05T11:04:12.862Z"
+  },
+  "no-nordland": {
+   "bytes": 219913653,
+   "files": 1163,
+   "publishedAt": "2026-10-05T15:40:34.817Z"
+  },
+  "no-oslo": {
+   "bytes": 17868145,
+   "files": 17,
+   "publishedAt": "2026-10-05T09:53:23.854Z"
+  },
+  "no-ostfold": {
+   "bytes": 40469109,
+   "files": 93,
+   "publishedAt": "2026-10-05T09:54:11.682Z"
+  },
+  "no-rogaland": {
+   "bytes": 91045001,
+   "files": 232,
+   "publishedAt": "2026-10-05T09:57:37.056Z"
+  },
+  "no-telemark": {
+   "bytes": 130409879,
+   "files": 310,
+   "publishedAt": "2026-10-05T09:56:30.102Z"
+  },
+  "no-troms": {
+   "bytes": 118565656,
+   "files": 937,
+   "publishedAt": "2026-10-05T13:21:04.385Z"
+  },
+  "no-trondelag": {
+   "bytes": 290972336,
+   "files": 985,
+   "publishedAt": "2026-10-05T13:26:54.784Z"
+  },
+  "no-vestfold": {
+   "bytes": 24618021,
+   "files": 52,
+   "publishedAt": "2026-10-05T09:53:42.605Z"
+  },
+  "no-vestland": {
+   "bytes": 190751507,
+   "files": 720,
+   "publishedAt": "2026-10-05T11:07:51.390Z"
   },
   "pe-amazonas": {
    "bytes": 15080516,
@@ -137,6 +2692,671 @@
    "bytes": 26429847,
    "files": 424,
    "publishedAt": "2026-10-09T23:24:41.674Z"
+  },
+  "pl-dolnoslaskie": {
+   "bytes": 136273704,
+   "files": 234,
+   "publishedAt": "2026-10-04T09:46:18.208Z"
+  },
+  "pl-kujawsko-pomorskie": {
+   "bytes": 120605433,
+   "files": 226,
+   "publishedAt": "2026-10-04T08:38:52.579Z"
+  },
+  "pl-lodzkie": {
+   "bytes": 160099967,
+   "files": 257,
+   "publishedAt": "2026-10-04T08:40:59.444Z"
+  },
+  "pl-lubelskie": {
+   "bytes": 144853169,
+   "files": 281,
+   "publishedAt": "2026-10-04T09:47:32.768Z"
+  },
+  "pl-lubuskie": {
+   "bytes": 77393494,
+   "files": 206,
+   "publishedAt": "2026-10-04T07:36:52.515Z"
+  },
+  "pl-malopolskie": {
+   "bytes": 166460856,
+   "files": 170,
+   "publishedAt": "2026-10-04T07:35:10.768Z"
+  },
+  "pl-mazowieckie": {
+   "bytes": 374384188,
+   "files": 553,
+   "publishedAt": "2026-10-04T09:53:42.086Z"
+  },
+  "pl-opolskie": {
+   "bytes": 82845363,
+   "files": 125,
+   "publishedAt": "2026-10-04T07:33:45.737Z"
+  },
+  "pl-podkarpackie": {
+   "bytes": 137314804,
+   "files": 191,
+   "publishedAt": "2026-10-04T08:41:51.828Z"
+  },
+  "pl-podlaskie": {
+   "bytes": 114240050,
+   "files": 273,
+   "publishedAt": "2026-10-04T08:44:15.576Z"
+  },
+  "pl-pomorskie": {
+   "bytes": 109616550,
+   "files": 219,
+   "publishedAt": "2026-10-04T08:39:50.320Z"
+  },
+  "pl-slaskie": {
+   "bytes": 177842805,
+   "files": 176,
+   "publishedAt": "2026-10-04T07:35:59.295Z"
+  },
+  "pl-swietokrzyskie": {
+   "bytes": 103890521,
+   "files": 144,
+   "publishedAt": "2026-10-04T07:34:23.486Z"
+  },
+  "pl-warminsko-mazurskie": {
+   "bytes": 111719746,
+   "files": 279,
+   "publishedAt": "2026-10-04T08:43:04.501Z"
+  },
+  "pl-wielkopolskie": {
+   "bytes": 263077052,
+   "files": 501,
+   "publishedAt": "2026-10-04T09:51:06.433Z"
+  },
+  "pl-zachodniopomorskie": {
+   "bytes": 108458974,
+   "files": 283,
+   "publishedAt": "2026-10-04T09:48:47.857Z"
+  },
+  "pt-acores": {
+   "bytes": 13398749,
+   "files": 46,
+   "publishedAt": "2026-10-05T00:28:35.955Z"
+  },
+  "pt-aveiro": {
+   "bytes": 26062628,
+   "files": 29,
+   "publishedAt": "2026-10-04T23:23:32.398Z"
+  },
+  "pt-beja": {
+   "bytes": 23023011,
+   "files": 80,
+   "publishedAt": "2026-10-05T00:28:12.820Z"
+  },
+  "pt-braga": {
+   "bytes": 37848735,
+   "files": 34,
+   "publishedAt": "2026-10-04T23:23:21.348Z"
+  },
+  "pt-braganca": {
+   "bytes": 19867873,
+   "files": 54,
+   "publishedAt": "2026-10-04T23:25:01.228Z"
+  },
+  "pt-castelo-branco": {
+   "bytes": 24311307,
+   "files": 61,
+   "publishedAt": "2026-10-04T23:25:52.115Z"
+  },
+  "pt-coimbra": {
+   "bytes": 22403871,
+   "files": 41,
+   "publishedAt": "2026-10-04T23:23:45.020Z"
+  },
+  "pt-evora": {
+   "bytes": 18321737,
+   "files": 68,
+   "publishedAt": "2026-10-05T00:27:50.503Z"
+  },
+  "pt-faro": {
+   "bytes": 20046094,
+   "files": 41,
+   "publishedAt": "2026-10-04T23:24:13.087Z"
+  },
+  "pt-guarda": {
+   "bytes": 25985092,
+   "files": 57,
+   "publishedAt": "2026-10-04T23:24:45.001Z"
+  },
+  "pt-leiria": {
+   "bytes": 29908317,
+   "files": 60,
+   "publishedAt": "2026-10-04T23:25:18.354Z"
+  },
+  "pt-lisboa": {
+   "bytes": 33675145,
+   "files": 32,
+   "publishedAt": "2026-10-04T23:23:09.144Z"
+  },
+  "pt-madeira": {
+   "bytes": 7890848,
+   "files": 27,
+   "publishedAt": "2026-10-05T00:28:22.204Z"
+  },
+  "pt-portalegre": {
+   "bytes": 14890972,
+   "files": 63,
+   "publishedAt": "2026-10-04T23:26:09.317Z"
+  },
+  "pt-porto": {
+   "bytes": 35545737,
+   "files": 25,
+   "publishedAt": "2026-10-04T23:22:46.738Z"
+  },
+  "pt-santarem": {
+   "bytes": 28317925,
+   "files": 73,
+   "publishedAt": "2026-10-05T00:27:31.371Z"
+  },
+  "pt-setubal": {
+   "bytes": 32054575,
+   "files": 54,
+   "publishedAt": "2026-10-04T23:25:34.818Z"
+  },
+  "pt-viana-do-castelo": {
+   "bytes": 25640957,
+   "files": 31,
+   "publishedAt": "2026-10-04T23:22:57.835Z"
+  },
+  "pt-vila-real": {
+   "bytes": 40281953,
+   "files": 48,
+   "publishedAt": "2026-10-04T23:24:00.175Z"
+  },
+  "pt-viseu": {
+   "bytes": 33562271,
+   "files": 50,
+   "publishedAt": "2026-10-04T23:24:28.299Z"
+  },
+  "ro-alba": {
+   "bytes": 36363160,
+   "files": 111,
+   "publishedAt": "2026-10-06T01:06:08.559Z"
+  },
+  "ro-arad": {
+   "bytes": 18947745,
+   "files": 90,
+   "publishedAt": "2026-10-06T01:04:52.184Z"
+  },
+  "ro-arges": {
+   "bytes": 22480902,
+   "files": 78,
+   "publishedAt": "2026-10-05T23:58:03.353Z"
+  },
+  "ro-bacau": {
+   "bytes": 21188039,
+   "files": 81,
+   "publishedAt": "2026-10-06T01:00:23.140Z"
+  },
+  "ro-bihor": {
+   "bytes": 23474069,
+   "files": 86,
+   "publishedAt": "2026-10-06T01:05:38.546Z"
+  },
+  "ro-bistrita-nasaud": {
+   "bytes": 19322138,
+   "files": 57,
+   "publishedAt": "2026-10-05T23:55:54.576Z"
+  },
+  "ro-botosani": {
+   "bytes": 11877724,
+   "files": 54,
+   "publishedAt": "2026-10-05T23:57:04.894Z"
+  },
+  "ro-braila": {
+   "bytes": 9500491,
+   "files": 55,
+   "publishedAt": "2026-10-05T23:53:38.918Z"
+  },
+  "ro-brasov": {
+   "bytes": 22720047,
+   "files": 64,
+   "publishedAt": "2026-10-05T23:58:38.644Z"
+  },
+  "ro-bucuresti": {
+   "bytes": 10395277,
+   "files": 10,
+   "publishedAt": "2026-10-05T23:52:29.143Z"
+  },
+  "ro-buzau": {
+   "bytes": 19195125,
+   "files": 82,
+   "publishedAt": "2026-10-06T01:02:08.320Z"
+  },
+  "ro-calarasi": {
+   "bytes": 8944983,
+   "files": 64,
+   "publishedAt": "2026-10-05T23:55:02.942Z"
+  },
+  "ro-caras-severin": {
+   "bytes": 19162739,
+   "files": 86,
+   "publishedAt": "2026-10-06T01:03:21.264Z"
+  },
+  "ro-cluj": {
+   "bytes": 34178997,
+   "files": 91,
+   "publishedAt": "2026-10-06T01:04:28.895Z"
+  },
+  "ro-constanta": {
+   "bytes": 13292397,
+   "files": 76,
+   "publishedAt": "2026-10-06T01:06:28.639Z"
+  },
+  "ro-covasna": {
+   "bytes": 14228757,
+   "files": 50,
+   "publishedAt": "2026-10-05T23:52:53.482Z"
+  },
+  "ro-dambovita": {
+   "bytes": 17681560,
+   "files": 55,
+   "publishedAt": "2026-10-05T23:54:09.574Z"
+  },
+  "ro-dolj": {
+   "bytes": 18479962,
+   "files": 90,
+   "publishedAt": "2026-10-06T01:02:32.603Z"
+  },
+  "ro-galati": {
+   "bytes": 8922166,
+   "files": 48,
+   "publishedAt": "2026-10-05T23:53:07.362Z"
+  },
+  "ro-giurgiu": {
+   "bytes": 17969990,
+   "files": 48,
+   "publishedAt": "2026-10-05T23:53:53.714Z"
+  },
+  "ro-gorj": {
+   "bytes": 17906991,
+   "files": 65,
+   "publishedAt": "2026-10-05T23:56:13.142Z"
+  },
+  "ro-harghita": {
+   "bytes": 26833573,
+   "files": 91,
+   "publishedAt": "2026-10-06T01:04:03.983Z"
+  },
+  "ro-hunedoara": {
+   "bytes": 27138308,
+   "files": 81,
+   "publishedAt": "2026-10-06T01:01:02.439Z"
+  },
+  "ro-ialomita": {
+   "bytes": 8251242,
+   "files": 64,
+   "publishedAt": "2026-10-05T23:54:27.004Z"
+  },
+  "ro-iasi": {
+   "bytes": 17543229,
+   "files": 62,
+   "publishedAt": "2026-10-06T01:00:40.172Z"
+  },
+  "ro-ilfov": {
+   "bytes": 15740041,
+   "files": 26,
+   "publishedAt": "2026-10-05T23:52:38.395Z"
+  },
+  "ro-maramures": {
+   "bytes": 22854491,
+   "files": 86,
+   "publishedAt": "2026-10-06T01:02:56.194Z"
+  },
+  "ro-mehedinti": {
+   "bytes": 18093873,
+   "files": 75,
+   "publishedAt": "2026-10-06T01:01:45.823Z"
+  },
+  "ro-mures": {
+   "bytes": 28880295,
+   "files": 82,
+   "publishedAt": "2026-10-06T01:01:25.445Z"
+  },
+  "ro-neamt": {
+   "bytes": 18085441,
+   "files": 71,
+   "publishedAt": "2026-10-05T23:57:42.681Z"
+  },
+  "ro-olt": {
+   "bytes": 18362587,
+   "files": 75,
+   "publishedAt": "2026-10-05T23:58:59.128Z"
+  },
+  "ro-prahova": {
+   "bytes": 18554773,
+   "files": 65,
+   "publishedAt": "2026-10-05T23:54:45.657Z"
+  },
+  "ro-salaj": {
+   "bytes": 17636932,
+   "files": 55,
+   "publishedAt": "2026-10-05T23:53:23.121Z"
+  },
+  "ro-satu-mare": {
+   "bytes": 13400534,
+   "files": 60,
+   "publishedAt": "2026-10-05T23:58:20.006Z"
+  },
+  "ro-sibiu": {
+   "bytes": 21304775,
+   "files": 64,
+   "publishedAt": "2026-10-05T23:57:22.923Z"
+  },
+  "ro-suceava": {
+   "bytes": 21619016,
+   "files": 87,
+   "publishedAt": "2026-10-06T01:05:15.356Z"
+  },
+  "ro-teleorman": {
+   "bytes": 9682699,
+   "files": 64,
+   "publishedAt": "2026-10-05T23:55:37.836Z"
+  },
+  "ro-timis": {
+   "bytes": 25736605,
+   "files": 105,
+   "publishedAt": "2026-10-06T01:06:56.216Z"
+  },
+  "ro-tulcea": {
+   "bytes": 11195557,
+   "files": 69,
+   "publishedAt": "2026-10-06T01:03:40.026Z"
+  },
+  "ro-valcea": {
+   "bytes": 23728647,
+   "files": 61,
+   "publishedAt": "2026-10-05T23:56:49.196Z"
+  },
+  "ro-vaslui": {
+   "bytes": 14405193,
+   "files": 61,
+   "publishedAt": "2026-10-05T23:56:31.216Z"
+  },
+  "ro-vrancea": {
+   "bytes": 13710890,
+   "files": 57,
+   "publishedAt": "2026-10-05T23:55:19.517Z"
+  },
+  "rs-beograd": {
+   "bytes": 28885950,
+   "files": 48,
+   "publishedAt": "2026-10-06T03:21:51.131Z"
+  },
+  "rs-borski": {
+   "bytes": 9748388,
+   "files": 45,
+   "publishedAt": "2026-10-06T03:22:55.741Z"
+  },
+  "rs-branicevski": {
+   "bytes": 11916751,
+   "files": 49,
+   "publishedAt": "2026-10-06T03:22:05.328Z"
+  },
+  "rs-jablanicki": {
+   "bytes": 9838075,
+   "files": 39,
+   "publishedAt": "2026-10-06T02:19:30.434Z"
+  },
+  "rs-juznobacki": {
+   "bytes": 17130719,
+   "files": 53,
+   "publishedAt": "2026-10-06T03:23:10.789Z"
+  },
+  "rs-juznobanatski": {
+   "bytes": 19925743,
+   "files": 43,
+   "publishedAt": "2026-10-06T03:22:29.688Z"
+  },
+  "rs-kolubarski": {
+   "bytes": 14395228,
+   "files": 36,
+   "publishedAt": "2026-10-06T02:19:08.399Z"
+  },
+  "rs-macvanski": {
+   "bytes": 15797322,
+   "files": 40,
+   "publishedAt": "2026-10-06T03:22:17.266Z"
+  },
+  "rs-moravicki": {
+   "bytes": 17783364,
+   "files": 46,
+   "publishedAt": "2026-10-06T03:21:36.459Z"
+  },
+  "rs-nisavski": {
+   "bytes": 13764552,
+   "files": 43,
+   "publishedAt": "2026-10-06T02:20:08.190Z"
+  },
+  "rs-pcinjski": {
+   "bytes": 8127629,
+   "files": 37,
+   "publishedAt": "2026-10-06T02:19:54.773Z"
+  },
+  "rs-pirotski": {
+   "bytes": 7070654,
+   "files": 29,
+   "publishedAt": "2026-10-06T02:18:18.284Z"
+  },
+  "rs-podunavski": {
+   "bytes": 5313585,
+   "files": 19,
+   "publishedAt": "2026-10-06T02:17:59.465Z"
+  },
+  "rs-pomoravski": {
+   "bytes": 10102849,
+   "files": 31,
+   "publishedAt": "2026-10-06T02:19:18.625Z"
+  },
+  "rs-rasinski": {
+   "bytes": 11934198,
+   "files": 36,
+   "publishedAt": "2026-10-06T02:19:42.642Z"
+  },
+  "rs-raski": {
+   "bytes": 15215550,
+   "files": 50,
+   "publishedAt": "2026-10-06T03:23:38.125Z"
+  },
+  "rs-severnobacki": {
+   "bytes": 5818722,
+   "files": 25,
+   "publishedAt": "2026-10-06T02:18:08.326Z"
+  },
+  "rs-severnobanatski": {
+   "bytes": 6494207,
+   "files": 27,
+   "publishedAt": "2026-10-06T02:18:46.885Z"
+  },
+  "rs-srednjobanatski": {
+   "bytes": 10644225,
+   "files": 47,
+   "publishedAt": "2026-10-06T03:21:22.329Z"
+  },
+  "rs-sremski": {
+   "bytes": 20063683,
+   "files": 39,
+   "publishedAt": "2026-10-06T03:22:42.053Z"
+  },
+  "rs-sumadijski": {
+   "bytes": 12761791,
+   "files": 31,
+   "publishedAt": "2026-10-06T02:18:57.087Z"
+  },
+  "rs-toplicki": {
+   "bytes": 9674387,
+   "files": 30,
+   "publishedAt": "2026-10-06T02:18:28.267Z"
+  },
+  "rs-zajecarski": {
+   "bytes": 12493345,
+   "files": 41,
+   "publishedAt": "2026-10-06T03:23:23.282Z"
+  },
+  "rs-zapadnobacki": {
+   "bytes": 6140733,
+   "files": 30,
+   "publishedAt": "2026-10-06T02:18:38.056Z"
+  },
+  "rs-zlatiborski": {
+   "bytes": 27212210,
+   "files": 62,
+   "publishedAt": "2026-10-06T03:23:55.606Z"
+  },
+  "se-blekinge": {
+   "bytes": 17600662,
+   "files": 63,
+   "publishedAt": "2026-10-05T02:59:41.968Z"
+  },
+  "se-dalarna": {
+   "bytes": 155815069,
+   "files": 760,
+   "publishedAt": "2026-10-05T06:24:27.914Z"
+  },
+  "se-gavleborg": {
+   "bytes": 113299391,
+   "files": 480,
+   "publishedAt": "2026-10-05T05:15:03.436Z"
+  },
+  "se-gotland": {
+   "bytes": 9263500,
+   "files": 52,
+   "publishedAt": "2026-10-05T04:07:05.249Z"
+  },
+  "se-halland": {
+   "bytes": 36895443,
+   "files": 121,
+   "publishedAt": "2026-10-05T04:04:05.829Z"
+  },
+  "se-jamtland": {
+   "bytes": 182063527,
+   "files": 1120,
+   "publishedAt": "2026-10-05T07:31:02.462Z"
+  },
+  "se-jonkoping": {
+   "bytes": 64369488,
+   "files": 239,
+   "publishedAt": "2026-10-05T04:05:09.611Z"
+  },
+  "se-kalmar": {
+   "bytes": 53924247,
+   "files": 196,
+   "publishedAt": "2026-10-05T04:09:05.793Z"
+  },
+  "se-kronoberg": {
+   "bytes": 44291710,
+   "files": 177,
+   "publishedAt": "2026-10-05T03:01:43.697Z"
+  },
+  "se-norrbotten": {
+   "bytes": 123534132,
+   "files": 1851,
+   "publishedAt": "2026-10-05T09:51:00.699Z"
+  },
+  "se-orebro": {
+   "bytes": 50235124,
+   "files": 154,
+   "publishedAt": "2026-10-05T03:00:56.533Z"
+  },
+  "se-ostergotland": {
+   "bytes": 85372164,
+   "files": 254,
+   "publishedAt": "2026-10-05T04:08:14.340Z"
+  },
+  "se-skane": {
+   "bytes": 57735837,
+   "files": 149,
+   "publishedAt": "2026-10-05T04:05:49.414Z"
+  },
+  "se-sodermanland": {
+   "bytes": 73485717,
+   "files": 176,
+   "publishedAt": "2026-10-05T04:03:32.898Z"
+  },
+  "se-stockholm": {
+   "bytes": 86254929,
+   "files": 204,
+   "publishedAt": "2026-10-05T04:10:01.591Z"
+  },
+  "se-uppsala": {
+   "bytes": 75432145,
+   "files": 227,
+   "publishedAt": "2026-10-05T04:06:50.582Z"
+  },
+  "se-varmland": {
+   "bytes": 88057479,
+   "files": 392,
+   "publishedAt": "2026-10-05T05:12:49.535Z"
+  },
+  "se-vasterbotten": {
+   "bytes": 141388875,
+   "files": 1683,
+   "publishedAt": "2026-10-05T08:40:32.712Z"
+  },
+  "se-vasternorrland": {
+   "bytes": 84508959,
+   "files": 574,
+   "publishedAt": "2026-10-05T06:20:48.330Z"
+  },
+  "se-vastmanland": {
+   "bytes": 39238190,
+   "files": 121,
+   "publishedAt": "2026-10-05T03:00:15.284Z"
+  },
+  "se-vastra-gotaland": {
+   "bytes": 166729756,
+   "files": 455,
+   "publishedAt": "2026-10-05T05:17:10.730Z"
+  },
+  "si-slovenia": {
+   "bytes": 205438752,
+   "files": 160,
+   "publishedAt": "2026-10-05T23:51:25.636Z"
+  },
+  "sk-banskobystricky": {
+   "bytes": 51832844,
+   "files": 102,
+   "publishedAt": "2026-10-05T22:42:45.684Z"
+  },
+  "sk-bratislavsky": {
+   "bytes": 18912173,
+   "files": 26,
+   "publishedAt": "2026-10-05T22:40:22.792Z"
+  },
+  "sk-kosicky": {
+   "bytes": 40529517,
+   "files": 82,
+   "publishedAt": "2026-10-05T22:41:51.527Z"
+  },
+  "sk-nitriansky": {
+   "bytes": 39722453,
+   "files": 87,
+   "publishedAt": "2026-10-05T22:41:26.825Z"
+  },
+  "sk-presovsky": {
+   "bytes": 46017691,
+   "files": 99,
+   "publishedAt": "2026-10-05T22:43:13.487Z"
+  },
+  "sk-trenciansky": {
+   "bytes": 35337990,
+   "files": 65,
+   "publishedAt": "2026-10-05T22:41:01.937Z"
+  },
+  "sk-trnavsky": {
+   "bytes": 38389868,
+   "files": 64,
+   "publishedAt": "2026-10-05T22:40:42.359Z"
+  },
+  "sk-zilinsky": {
+   "bytes": 45269763,
+   "files": 82,
+   "publishedAt": "2026-10-05T22:42:16.084Z"
   },
   "vn-an-giang": {
    "bytes": 11882861,
@@ -307,6 +3527,11 @@
    "bytes": 10009856,
    "files": 39,
    "publishedAt": "2026-10-09T18:48:41.935Z"
+  },
+  "xk-kosovo": {
+   "bytes": 30101921,
+   "files": 79,
+   "publishedAt": "2026-10-06T04:34:05.964Z"
   }
  }
 }
