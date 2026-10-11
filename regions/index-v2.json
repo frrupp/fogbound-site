@@ -231,6 +231,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/fr-hauts-de-seine.json"
     },
     {
+      "id": "us-district-of-columbia",
+      "name": "District of Columbia",
+      "builtAt": "2026-10-11T11:48:23.237Z",
+      "bounds": [
+        -77.11979,
+        38.79163,
+        -76.90937,
+        38.99597
+      ],
+      "neighbourhoods": 118,
+      "features": 349,
+      "bytes": 307005,
+      "wire": 57472,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-district-of-columbia.json"
+    },
+    {
       "id": "ch-zug",
       "name": "Zug",
       "builtAt": "2026-09-21T19:03:18.270Z",
@@ -5189,6 +5205,22 @@
       "bytes": 2573968,
       "wire": 511849,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/nl-noord-brabant.json"
+    },
+    {
+      "id": "us-delaware",
+      "name": "Delaware",
+      "builtAt": "2026-10-11T11:48:09.570Z",
+      "bounds": [
+        -75.78902,
+        38.42792,
+        -74.98494,
+        39.83951
+      ],
+      "neighbourhoods": 1386,
+      "features": 659,
+      "bytes": 1926215,
+      "wire": 427226,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-delaware.json"
     },
     {
       "id": "fr-cantal",
@@ -11095,6 +11127,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/de-nordrhein-westfalen.json"
     },
     {
+      "id": "us-maryland",
+      "name": "Maryland",
+      "builtAt": "2026-10-11T12:30:21.262Z",
+      "bounds": [
+        -79.48731,
+        37.88653,
+        -74.9852,
+        39.72303
+      ],
+      "neighbourhoods": 7583,
+      "features": 3721,
+      "bytes": 12506560,
+      "wire": 2824734,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-maryland.json"
+    },
+    {
       "id": "no-more-og-romsdal",
       "name": "Møre og Romsdal",
       "builtAt": "2026-09-24T18:17:13.400Z",
@@ -11351,6 +11399,54 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/pe-madre-de-dios.json"
     },
     {
+      "id": "us-indiana",
+      "name": "Indiana",
+      "builtAt": "2026-10-11T11:23:32.294Z",
+      "bounds": [
+        -88.0972,
+        37.77168,
+        -84.78461,
+        41.76137
+      ],
+      "neighbourhoods": 3791,
+      "features": 4411,
+      "bytes": 13107637,
+      "wire": 2828644,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-indiana.json"
+    },
+    {
+      "id": "us-tennessee",
+      "name": "Tennessee",
+      "builtAt": "2026-10-11T15:01:50.313Z",
+      "bounds": [
+        -90.3103,
+        34.98316,
+        -81.64722,
+        36.67812
+      ],
+      "neighbourhoods": 6087,
+      "features": 2917,
+      "bytes": 18196156,
+      "wire": 4172418,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-tennessee.json"
+    },
+    {
+      "id": "us-south-carolina",
+      "name": "South Carolina",
+      "builtAt": "2026-10-11T17:07:20.882Z",
+      "bounds": [
+        -83.354,
+        32.03346,
+        -78.54135,
+        35.21549
+      ],
+      "neighbourhoods": 4973,
+      "features": 3269,
+      "bytes": 15570147,
+      "wire": 3541777,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-south-carolina.json"
+    },
+    {
       "id": "pe-cusco",
       "name": "Cusco",
       "builtAt": "2026-10-09T17:10:27.801Z",
@@ -11431,6 +11527,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-pennsylvania.json"
     },
     {
+      "id": "us-ohio",
+      "name": "Ohio",
+      "builtAt": "2026-10-11T20:40:06.329Z",
+      "bounds": [
+        -84.82034,
+        38.40314,
+        -80.51896,
+        42.32469
+      ],
+      "neighbourhoods": 5763,
+      "features": 7264,
+      "bytes": 21063796,
+      "wire": 4522370,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-ohio.json"
+    },
+    {
+      "id": "us-west-virginia",
+      "name": "West Virginia",
+      "builtAt": "2026-10-11T12:44:56.655Z",
+      "bounds": [
+        -82.64474,
+        37.20141,
+        -77.71903,
+        40.6388
+      ],
+      "neighbourhoods": 3603,
+      "features": 1164,
+      "bytes": 8654303,
+      "wire": 1940127,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-west-virginia.json"
+    },
+    {
       "id": "no-troms",
       "name": "Troms",
       "builtAt": "2026-09-24T18:42:26.681Z",
@@ -11445,6 +11573,54 @@
       "bytes": 6598023,
       "wire": 1455337,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/no-troms.json"
+    },
+    {
+      "id": "us-mississippi",
+      "name": "Mississippi",
+      "builtAt": "2026-10-11T19:31:05.559Z",
+      "bounds": [
+        -91.65501,
+        30.14368,
+        -88.09779,
+        34.99599
+      ],
+      "neighbourhoods": 3115,
+      "features": 1510,
+      "bytes": 10073816,
+      "wire": 2089707,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-mississippi.json"
+    },
+    {
+      "id": "us-arkansas",
+      "name": "Arkansas",
+      "builtAt": "2026-10-11T20:18:04.946Z",
+      "bounds": [
+        -94.61788,
+        33.00425,
+        -89.64254,
+        36.4996
+      ],
+      "neighbourhoods": 3735,
+      "features": 2002,
+      "bytes": 13719531,
+      "wire": 2993799,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-arkansas.json"
+    },
+    {
+      "id": "us-alabama",
+      "name": "Alabama",
+      "builtAt": "2026-10-11T19:13:03.223Z",
+      "bounds": [
+        -88.4731,
+        30.14339,
+        -84.88829,
+        35.00811
+      ],
+      "neighbourhoods": 5736,
+      "features": 3011,
+      "bytes": 20243691,
+      "wire": 4551435,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-alabama.json"
     },
     {
       "id": "pt-acores",
@@ -11511,6 +11687,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-maine.json"
     },
     {
+      "id": "us-kentucky",
+      "name": "Kentucky",
+      "builtAt": "2026-10-11T14:18:19.545Z",
+      "bounds": [
+        -89.57151,
+        36.49712,
+        -81.96454,
+        39.14778
+      ],
+      "neighbourhoods": 4559,
+      "features": 1814,
+      "bytes": 14857586,
+      "wire": 3408067,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-kentucky.json"
+    },
+    {
+      "id": "us-iowa",
+      "name": "Iowa",
+      "builtAt": "2026-10-11T12:20:54.557Z",
+      "bounds": [
+        -96.63972,
+        40.3756,
+        -90.14006,
+        43.50116
+      ],
+      "neighbourhoods": 2482,
+      "features": 3928,
+      "bytes": 16350691,
+      "wire": 3222993,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-iowa.json"
+    },
+    {
       "id": "no-trondelag",
       "name": "Trøndelag",
       "builtAt": "2026-09-24T18:48:05.791Z",
@@ -11525,6 +11733,38 @@
       "bytes": 15658401,
       "wire": 3493760,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/no-trondelag.json"
+    },
+    {
+      "id": "us-louisiana",
+      "name": "Louisiana",
+      "builtAt": "2026-10-11T19:53:23.883Z",
+      "bounds": [
+        -94.04319,
+        28.85431,
+        -88.75833,
+        33.01959
+      ],
+      "neighbourhoods": 3721,
+      "features": 2329,
+      "bytes": 14558123,
+      "wire": 3204173,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-louisiana.json"
+    },
+    {
+      "id": "us-kansas",
+      "name": "Kansas",
+      "builtAt": "2026-10-11T12:56:51.038Z",
+      "bounds": [
+        -102.05179,
+        36.99307,
+        -94.5882,
+        40.00323
+      ],
+      "neighbourhoods": 1665,
+      "features": 2339,
+      "bytes": 13933710,
+      "wire": 2843593,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-kansas.json"
     },
     {
       "id": "fi-pohjois-pohjanmaa",
@@ -11543,6 +11783,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/fi-pohjois-pohjanmaa.json"
     },
     {
+      "id": "us-georgia",
+      "name": "Georgia",
+      "builtAt": "2026-10-11T18:04:16.609Z",
+      "bounds": [
+        -85.60516,
+        30.35566,
+        -80.75143,
+        35.00068
+      ],
+      "neighbourhoods": 6289,
+      "features": 6973,
+      "bytes": 24514663,
+      "wire": 5565163,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-georgia.json"
+    },
+    {
       "id": "pe-ucayali",
       "name": "Ucayali",
       "builtAt": "2026-10-09T18:28:56.130Z",
@@ -11557,6 +11813,70 @@
       "bytes": 5406436,
       "wire": 1067185,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/pe-ucayali.json"
+    },
+    {
+      "id": "us-north-dakota",
+      "name": "North Dakota",
+      "builtAt": "2026-10-11T20:18:25.607Z",
+      "bounds": [
+        -104.04895,
+        45.935,
+        -96.5544,
+        49.00058
+      ],
+      "neighbourhoods": 1169,
+      "features": 1132,
+      "bytes": 14768812,
+      "wire": 2861188,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-north-dakota.json"
+    },
+    {
+      "id": "us-virginia",
+      "name": "Virginia",
+      "builtAt": "2026-10-11T13:55:27.915Z",
+      "bounds": [
+        -83.67537,
+        36.54079,
+        -75.21182,
+        39.46601
+      ],
+      "neighbourhoods": 7781,
+      "features": 5279,
+      "bytes": 21172171,
+      "wire": 4756043,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-virginia.json"
+    },
+    {
+      "id": "us-illinois",
+      "name": "Illinois",
+      "builtAt": "2026-10-11T11:09:14.104Z",
+      "bounds": [
+        -91.51305,
+        36.97013,
+        -87.01992,
+        42.50837
+      ],
+      "neighbourhoods": 4539,
+      "features": 9502,
+      "bytes": 22574974,
+      "wire": 4885765,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-illinois.json"
+    },
+    {
+      "id": "us-utah",
+      "name": "Utah",
+      "builtAt": "2026-10-11T16:06:01.436Z",
+      "bounds": [
+        -114.05285,
+        36.99781,
+        -109.04158,
+        42.00195
+      ],
+      "neighbourhoods": 1034,
+      "features": 4391,
+      "bytes": 15287233,
+      "wire": 3107248,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-utah.json"
     },
     {
       "id": "se-vasterbotten",
@@ -11575,6 +11895,134 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/se-vasterbotten.json"
     },
     {
+      "id": "us-north-carolina",
+      "name": "North Carolina",
+      "builtAt": "2026-10-11T16:14:22.282Z",
+      "bounds": [
+        -84.32183,
+        33.75288,
+        -75.40012,
+        36.58816
+      ],
+      "neighbourhoods": 5993,
+      "features": 5534,
+      "bytes": 26137655,
+      "wire": 5996808,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-north-carolina.json"
+    },
+    {
+      "id": "us-nebraska",
+      "name": "Nebraska",
+      "builtAt": "2026-10-11T15:46:56.526Z",
+      "bounds": [
+        -104.05337,
+        39.99993,
+        -95.30805,
+        43.00148
+      ],
+      "neighbourhoods": 1653,
+      "features": 3220,
+      "bytes": 14709311,
+      "wire": 3005758,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-nebraska.json"
+    },
+    {
+      "id": "us-south-dakota",
+      "name": "South Dakota",
+      "builtAt": "2026-10-11T16:54:21.362Z",
+      "bounds": [
+        -104.05776,
+        42.47989,
+        -96.43634,
+        45.94534
+      ],
+      "neighbourhoods": 1770,
+      "features": 1126,
+      "bytes": 15775070,
+      "wire": 2951655,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-south-dakota.json"
+    },
+    {
+      "id": "us-washington",
+      "name": "Washington",
+      "builtAt": "2026-10-11T16:54:22.984Z",
+      "bounds": [
+        -124.83609,
+        45.54373,
+        -116.91599,
+        49.00243
+      ],
+      "neighbourhoods": 2478,
+      "features": 9754,
+      "bytes": 21923475,
+      "wire": 4531241,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-washington.json"
+    },
+    {
+      "id": "us-wyoming",
+      "name": "Wyoming",
+      "builtAt": "2026-10-11T17:22:46.203Z",
+      "bounds": [
+        -111.05527,
+        40.99482,
+        -104.05225,
+        45.00583
+      ],
+      "neighbourhoods": 513,
+      "features": 2775,
+      "bytes": 14431685,
+      "wire": 2834683,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-wyoming.json"
+    },
+    {
+      "id": "us-colorado",
+      "name": "Colorado",
+      "builtAt": "2026-10-11T18:51:43.757Z",
+      "bounds": [
+        -109.06019,
+        36.99252,
+        -102.04158,
+        41.00338
+      ],
+      "neighbourhoods": 1782,
+      "features": 8382,
+      "bytes": 21716865,
+      "wire": 4428524,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-colorado.json"
+    },
+    {
+      "id": "us-oklahoma",
+      "name": "Oklahoma",
+      "builtAt": "2026-10-11T19:58:49.077Z",
+      "bounds": [
+        -103.00244,
+        33.61915,
+        -94.43121,
+        37.0023
+      ],
+      "neighbourhoods": 2386,
+      "features": 3910,
+      "bytes": 15540314,
+      "wire": 3285957,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-oklahoma.json"
+    },
+    {
+      "id": "us-missouri",
+      "name": "Missouri",
+      "builtAt": "2026-10-11T15:14:41.863Z",
+      "bounds": [
+        -95.77414,
+        35.99572,
+        -89.09884,
+        40.61363
+      ],
+      "neighbourhoods": 4177,
+      "features": 4930,
+      "bytes": 19407374,
+      "wire": 4193998,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-missouri.json"
+    },
+    {
       "id": "no-finnmark",
       "name": "Finnmark",
       "builtAt": "2026-09-24T18:46:55.369Z",
@@ -11591,6 +12039,54 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/no-finnmark.json"
     },
     {
+      "id": "us-wisconsin",
+      "name": "Wisconsin",
+      "builtAt": "2026-10-11T17:31:41.198Z",
+      "bounds": [
+        -92.88931,
+        42.49195,
+        -86.24955,
+        47.30972
+      ],
+      "neighbourhoods": 3560,
+      "features": 10947,
+      "bytes": 29175901,
+      "wire": 6592458,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-wisconsin.json"
+    },
+    {
+      "id": "us-arizona",
+      "name": "Arizona",
+      "builtAt": "2026-10-11T17:58:13.780Z",
+      "bounds": [
+        -114.81836,
+        31.33221,
+        -109.04487,
+        37.00387
+      ],
+      "neighbourhoods": 1735,
+      "features": 7646,
+      "bytes": 17684090,
+      "wire": 3394304,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-arizona.json"
+    },
+    {
+      "id": "us-new-mexico",
+      "name": "New Mexico",
+      "builtAt": "2026-10-11T14:50:34.706Z",
+      "bounds": [
+        -109.05022,
+        31.3322,
+        -103.00224,
+        37.00016
+      ],
+      "neighbourhoods": 1665,
+      "features": 3289,
+      "bytes": 14278895,
+      "wire": 2649532,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-new-mexico.json"
+    },
+    {
       "id": "no-nordland",
       "name": "Nordland",
       "builtAt": "2026-09-24T19:21:01.467Z",
@@ -11605,6 +12101,22 @@
       "bytes": 13504498,
       "wire": 2940063,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/no-nordland.json"
+    },
+    {
+      "id": "us-oregon",
+      "name": "Oregon",
+      "builtAt": "2026-10-11T15:34:12.345Z",
+      "bounds": [
+        -124.70354,
+        41.9926,
+        -116.46315,
+        46.2924
+      ],
+      "neighbourhoods": 1359,
+      "features": 6058,
+      "bytes": 19136183,
+      "wire": 3817902,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-oregon.json"
     },
     {
       "id": "is-iceland",
@@ -11655,6 +12167,38 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/se-norrbotten.json"
     },
     {
+      "id": "us-nevada",
+      "name": "Nevada",
+      "builtAt": "2026-10-11T14:14:44.748Z",
+      "bounds": [
+        -120.00652,
+        35.00189,
+        -114.0403,
+        42.00026
+      ],
+      "neighbourhoods": 644,
+      "features": 1494,
+      "bytes": 11650912,
+      "wire": 2090524,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-nevada.json"
+    },
+    {
+      "id": "us-idaho",
+      "name": "Idaho",
+      "builtAt": "2026-10-11T12:07:05.382Z",
+      "bounds": [
+        -117.24303,
+        41.98883,
+        -111.04356,
+        49.00084
+      ],
+      "neighbourhoods": 502,
+      "features": 2893,
+      "bytes": 14692030,
+      "wire": 2995181,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-idaho.json"
+    },
+    {
       "id": "fi-lappi",
       "name": "Lappi",
       "builtAt": "2026-09-24T19:21:03.186Z",
@@ -11669,6 +12213,70 @@
       "bytes": 17978814,
       "wire": 4001305,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/fi-lappi.json"
+    },
+    {
+      "id": "us-minnesota",
+      "name": "Minnesota",
+      "builtAt": "2026-10-11T14:37:16.343Z",
+      "bounds": [
+        -97.23926,
+        43.49943,
+        -89.49181,
+        49.38447
+      ],
+      "neighbourhoods": 3053,
+      "features": 15278,
+      "bytes": 43082368,
+      "wire": 9869741,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-minnesota.json"
+    },
+    {
+      "id": "us-florida",
+      "name": "Florida",
+      "builtAt": "2026-10-11T18:38:58.648Z",
+      "bounds": [
+        -87.6349,
+        24.39631,
+        -79.97431,
+        31.00076
+      ],
+      "neighbourhoods": 4556,
+      "features": 11023,
+      "bytes": 24972328,
+      "wire": 5293330,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-florida.json"
+    },
+    {
+      "id": "us-michigan",
+      "name": "Michigan",
+      "builtAt": "2026-10-11T13:39:32.105Z",
+      "bounds": [
+        -90.41853,
+        41.69613,
+        -82.3354,
+        48.23886
+      ],
+      "neighbourhoods": 3800,
+      "features": 14958,
+      "bytes": 36526795,
+      "wire": 8365608,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-michigan.json"
+    },
+    {
+      "id": "us-montana",
+      "name": "Montana",
+      "builtAt": "2026-10-11T19:47:51.400Z",
+      "bounds": [
+        -116.04923,
+        44.35794,
+        -104.03956,
+        49.00111
+      ],
+      "neighbourhoods": 1535,
+      "features": 3760,
+      "bytes": 23742203,
+      "wire": 4718803,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-montana.json"
     },
     {
       "id": "pe-loreto",
@@ -11701,6 +12309,38 @@
       "bytes": 29818642,
       "wire": 7221147,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/gb-highlands-islands.json"
+    },
+    {
+      "id": "us-california",
+      "name": "California",
+      "builtAt": "2026-10-11T19:08:46.746Z",
+      "bounds": [
+        -124.482,
+        32.52952,
+        -114.13078,
+        42.0095
+      ],
+      "neighbourhoods": 6465,
+      "features": 19112,
+      "bytes": 41471357,
+      "wire": 8531002,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-california.json"
+    },
+    {
+      "id": "us-texas",
+      "name": "Texas",
+      "builtAt": "2026-10-11T21:40:02.008Z",
+      "bounds": [
+        -106.64585,
+        25.83706,
+        -93.50782,
+        36.50045
+      ],
+      "neighbourhoods": 10244,
+      "features": 18019,
+      "bytes": 75307919,
+      "wire": 16705961,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-10/us-texas.json"
     },
     {
       "id": "us-hawaii",
