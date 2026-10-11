@@ -1,0 +1,717 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "us-connecticut",
+ "source": "us-connecticut.pmtiles",
+ "builtAt": "2026-10-11T08:11:05.131Z",
+ "publishedAt": "2026-10-11T08:11:29.549Z",
+ "host": "github",
+ "releases": [
+  "maps-us-connecticut-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -73.72781,
+  40.95098,
+  -71.78724,
+  42.05058
+ ],
+ "overview": {
+  "file": "overview.4a8011334a01.pmtiles",
+  "bytes": 1740744,
+  "tiles": 71,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/overview.4a8011334a01.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 604,
+   "y": 766,
+   "file": "11-604-766.037e702c03fb.pmtiles",
+   "bytes": 60163,
+   "tiles": 14,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-604-766.037e702c03fb.pmtiles"
+  },
+  {
+   "x": 604,
+   "y": 767,
+   "file": "11-604-767.09a38b12162a.pmtiles",
+   "bytes": 503012,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-604-767.09a38b12162a.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 760,
+   "file": "11-605-760.d52c41e2b433.pmtiles",
+   "bytes": 93943,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-760.d52c41e2b433.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 761,
+   "file": "11-605-761.a5893d359ab6.pmtiles",
+   "bytes": 115032,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-761.a5893d359ab6.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 762,
+   "file": "11-605-762.e24bfec91101.pmtiles",
+   "bytes": 162805,
+   "tiles": 37,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-762.e24bfec91101.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 763,
+   "file": "11-605-763.466cfca7132b.pmtiles",
+   "bytes": 262626,
+   "tiles": 45,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-763.466cfca7132b.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 764,
+   "file": "11-605-764.26a86a60d354.pmtiles",
+   "bytes": 690619,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-764.26a86a60d354.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 765,
+   "file": "11-605-765.414ecce285ca.pmtiles",
+   "bytes": 782930,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-765.414ecce285ca.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 766,
+   "file": "11-605-766.31424363c50b.pmtiles",
+   "bytes": 1160138,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-766.31424363c50b.pmtiles"
+  },
+  {
+   "x": 605,
+   "y": 767,
+   "file": "11-605-767.27924d9841a5.pmtiles",
+   "bytes": 3118747,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-605-767.27924d9841a5.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 759,
+   "file": "11-606-759.30c61c770d77.pmtiles",
+   "bytes": 90700,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-759.30c61c770d77.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 760,
+   "file": "11-606-760.9718be6f5f41.pmtiles",
+   "bytes": 569225,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-760.9718be6f5f41.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 761,
+   "file": "11-606-761.b14758dd2719.pmtiles",
+   "bytes": 413698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-761.b14758dd2719.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 762,
+   "file": "11-606-762.ec5f8aac8636.pmtiles",
+   "bytes": 556940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-762.ec5f8aac8636.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 763,
+   "file": "11-606-763.81cbb2f95035.pmtiles",
+   "bytes": 1102862,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-763.81cbb2f95035.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 764,
+   "file": "11-606-764.efb53671687d.pmtiles",
+   "bytes": 2332737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-764.efb53671687d.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 765,
+   "file": "11-606-765.d0663cef15d0.pmtiles",
+   "bytes": 1351952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-765.d0663cef15d0.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 766,
+   "file": "11-606-766.7a5f9cc9a0a0.pmtiles",
+   "bytes": 2904202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-766.7a5f9cc9a0a0.pmtiles"
+  },
+  {
+   "x": 606,
+   "y": 767,
+   "file": "11-606-767.b8faaea0c20f.pmtiles",
+   "bytes": 1130445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-606-767.b8faaea0c20f.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 759,
+   "file": "11-607-759.5113b20c1c67.pmtiles",
+   "bytes": 47254,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-759.5113b20c1c67.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 760,
+   "file": "11-607-760.ea9dd1ab37ef.pmtiles",
+   "bytes": 324570,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-760.ea9dd1ab37ef.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 761,
+   "file": "11-607-761.6cbd748d7f69.pmtiles",
+   "bytes": 472984,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-761.6cbd748d7f69.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 762,
+   "file": "11-607-762.c532fefe78c3.pmtiles",
+   "bytes": 614998,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-762.c532fefe78c3.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 763,
+   "file": "11-607-763.9b1c274d1b09.pmtiles",
+   "bytes": 769960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-763.9b1c274d1b09.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 764,
+   "file": "11-607-764.4f694f4dd9d7.pmtiles",
+   "bytes": 1210141,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-764.4f694f4dd9d7.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 765,
+   "file": "11-607-765.72a4b6f02207.pmtiles",
+   "bytes": 1443169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-765.72a4b6f02207.pmtiles"
+  },
+  {
+   "x": 607,
+   "y": 766,
+   "file": "11-607-766.67cae7f6c1a0.pmtiles",
+   "bytes": 2947164,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-607-766.67cae7f6c1a0.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 759,
+   "file": "11-608-759.32aae506a2e8.pmtiles",
+   "bytes": 35277,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-759.32aae506a2e8.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 760,
+   "file": "11-608-760.58931c16ebff.pmtiles",
+   "bytes": 532647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-760.58931c16ebff.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 761,
+   "file": "11-608-761.21b0f7877cb5.pmtiles",
+   "bytes": 834792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-761.21b0f7877cb5.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 762,
+   "file": "11-608-762.5b01f842d8c9.pmtiles",
+   "bytes": 985351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-762.5b01f842d8c9.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 763,
+   "file": "11-608-763.90005dd93830.pmtiles",
+   "bytes": 1858618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-763.90005dd93830.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 764,
+   "file": "11-608-764.5e56542cc225.pmtiles",
+   "bytes": 1326709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-764.5e56542cc225.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 765,
+   "file": "11-608-765.9129e784b40f.pmtiles",
+   "bytes": 2214751,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-765.9129e784b40f.pmtiles"
+  },
+  {
+   "x": 608,
+   "y": 766,
+   "file": "11-608-766.73d197a83813.pmtiles",
+   "bytes": 1020645,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-608-766.73d197a83813.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 759,
+   "file": "11-609-759.096ce0bc5334.pmtiles",
+   "bytes": 41153,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-759.096ce0bc5334.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 760,
+   "file": "11-609-760.93ea14cdf22c.pmtiles",
+   "bytes": 628749,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-760.93ea14cdf22c.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 761,
+   "file": "11-609-761.fad53fd681da.pmtiles",
+   "bytes": 1418053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-761.fad53fd681da.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 762,
+   "file": "11-609-762.c6ac00f11857.pmtiles",
+   "bytes": 2413737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-762.c6ac00f11857.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 763,
+   "file": "11-609-763.a03247bb93c0.pmtiles",
+   "bytes": 1780361,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-763.a03247bb93c0.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 764,
+   "file": "11-609-764.0731a5bd7e2b.pmtiles",
+   "bytes": 1795262,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-764.0731a5bd7e2b.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 765,
+   "file": "11-609-765.a81e721c35da.pmtiles",
+   "bytes": 2742080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-765.a81e721c35da.pmtiles"
+  },
+  {
+   "x": 609,
+   "y": 766,
+   "file": "11-609-766.c6fc2257e749.pmtiles",
+   "bytes": 32995,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-609-766.c6fc2257e749.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 759,
+   "file": "11-610-759.4bdbd41c333d.pmtiles",
+   "bytes": 39524,
+   "tiles": 21,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-759.4bdbd41c333d.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 760,
+   "file": "11-610-760.6d05e3d02043.pmtiles",
+   "bytes": 1108000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-760.6d05e3d02043.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 761,
+   "file": "11-610-761.257fb936ba8b.pmtiles",
+   "bytes": 2150615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-761.257fb936ba8b.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 762,
+   "file": "11-610-762.cc92b3294095.pmtiles",
+   "bytes": 3844193,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-762.cc92b3294095.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 763,
+   "file": "11-610-763.163c0eed97ba.pmtiles",
+   "bytes": 2328285,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-763.163c0eed97ba.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 764,
+   "file": "11-610-764.e0bad2e64b82.pmtiles",
+   "bytes": 797539,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-764.e0bad2e64b82.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 765,
+   "file": "11-610-765.29ae147b81e8.pmtiles",
+   "bytes": 1202868,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-765.29ae147b81e8.pmtiles"
+  },
+  {
+   "x": 610,
+   "y": 766,
+   "file": "11-610-766.fdbbbc794ed3.pmtiles",
+   "bytes": 24892,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-610-766.fdbbbc794ed3.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 759,
+   "file": "11-611-759.cfdb1859d108.pmtiles",
+   "bytes": 46127,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-759.cfdb1859d108.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 760,
+   "file": "11-611-760.20c3f7edfd12.pmtiles",
+   "bytes": 993013,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-760.20c3f7edfd12.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 761,
+   "file": "11-611-761.e5c5a6a614ed.pmtiles",
+   "bytes": 1935445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-761.e5c5a6a614ed.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 762,
+   "file": "11-611-762.26d2ac614030.pmtiles",
+   "bytes": 1928427,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-762.26d2ac614030.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 763,
+   "file": "11-611-763.0327b976d28d.pmtiles",
+   "bytes": 959099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-763.0327b976d28d.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 764,
+   "file": "11-611-764.7194a80e4f02.pmtiles",
+   "bytes": 846326,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-764.7194a80e4f02.pmtiles"
+  },
+  {
+   "x": 611,
+   "y": 765,
+   "file": "11-611-765.2eca36a03107.pmtiles",
+   "bytes": 1061041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-611-765.2eca36a03107.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 759,
+   "file": "11-612-759.8cf5ff058a0b.pmtiles",
+   "bytes": 26820,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-759.8cf5ff058a0b.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 760,
+   "file": "11-612-760.974ec8706809.pmtiles",
+   "bytes": 666876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-760.974ec8706809.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 761,
+   "file": "11-612-761.6668291cbbd0.pmtiles",
+   "bytes": 1198726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-761.6668291cbbd0.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 762,
+   "file": "11-612-762.0ee62f0bc855.pmtiles",
+   "bytes": 796555,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-762.0ee62f0bc855.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 763,
+   "file": "11-612-763.bf7cd697f055.pmtiles",
+   "bytes": 916406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-763.bf7cd697f055.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 764,
+   "file": "11-612-764.6f9f71c39659.pmtiles",
+   "bytes": 594556,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-764.6f9f71c39659.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 765,
+   "file": "11-612-765.c394d530f795.pmtiles",
+   "bytes": 934281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-765.c394d530f795.pmtiles"
+  },
+  {
+   "x": 612,
+   "y": 767,
+   "file": "11-612-767.c15757059c8c.pmtiles",
+   "bytes": 42637,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-612-767.c15757059c8c.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 759,
+   "file": "11-613-759.ac9b5c214314.pmtiles",
+   "bytes": 37838,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-759.ac9b5c214314.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 760,
+   "file": "11-613-760.fc91d8b1808c.pmtiles",
+   "bytes": 434305,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-760.fc91d8b1808c.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 761,
+   "file": "11-613-761.3a63679fa44b.pmtiles",
+   "bytes": 870168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-761.3a63679fa44b.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 762,
+   "file": "11-613-762.8c02f2c1b25e.pmtiles",
+   "bytes": 1314727,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-762.8c02f2c1b25e.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 763,
+   "file": "11-613-763.76bd7218c930.pmtiles",
+   "bytes": 1407166,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-763.76bd7218c930.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 764,
+   "file": "11-613-764.70aceb7f8a69.pmtiles",
+   "bytes": 1132030,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-764.70aceb7f8a69.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 765,
+   "file": "11-613-765.928972866d1a.pmtiles",
+   "bytes": 1214501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-765.928972866d1a.pmtiles"
+  },
+  {
+   "x": 613,
+   "y": 767,
+   "file": "11-613-767.de0dce4b93bc.pmtiles",
+   "bytes": 24600,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-613-767.de0dce4b93bc.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 760,
+   "file": "11-614-760.d216f3271702.pmtiles",
+   "bytes": 609961,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-760.d216f3271702.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 761,
+   "file": "11-614-761.4daacd8210c1.pmtiles",
+   "bytes": 755686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-761.4daacd8210c1.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 762,
+   "file": "11-614-762.b3289129b741.pmtiles",
+   "bytes": 676195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-762.b3289129b741.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 763,
+   "file": "11-614-763.ac78695837e8.pmtiles",
+   "bytes": 988641,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-763.ac78695837e8.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 764,
+   "file": "11-614-764.eb551bf981eb.pmtiles",
+   "bytes": 1021343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-764.eb551bf981eb.pmtiles"
+  },
+  {
+   "x": 614,
+   "y": 765,
+   "file": "11-614-765.550885367da7.pmtiles",
+   "bytes": 1082091,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-614-765.550885367da7.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 760,
+   "file": "11-615-760.d40c7431abb2.pmtiles",
+   "bytes": 512788,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-760.d40c7431abb2.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 761,
+   "file": "11-615-761.9a04705c0836.pmtiles",
+   "bytes": 578988,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-761.9a04705c0836.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 762,
+   "file": "11-615-762.8f38f818f9d7.pmtiles",
+   "bytes": 420746,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-762.8f38f818f9d7.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 763,
+   "file": "11-615-763.5988824e1ff7.pmtiles",
+   "bytes": 391362,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-763.5988824e1ff7.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 764,
+   "file": "11-615-764.d89d2a115bf4.pmtiles",
+   "bytes": 542718,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-764.d89d2a115bf4.pmtiles"
+  },
+  {
+   "x": 615,
+   "y": 765,
+   "file": "11-615-765.9d4831883179.pmtiles",
+   "bytes": 243791,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-connecticut-2026-10-10/11-615-765.9d4831883179.pmtiles"
+  }
+ ]
+}

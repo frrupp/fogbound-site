@@ -1,0 +1,829 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "us-hawaii",
+ "source": "us-hawaii.pmtiles",
+ "builtAt": "2026-10-11T09:26:48.943Z",
+ "publishedAt": "2026-10-11T09:27:15.001Z",
+ "host": "github",
+ "releases": [
+  "maps-us-hawaii-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -178.44359,
+  18.86546,
+  -154.75579,
+  28.51727
+ ],
+ "overview": {
+  "file": "overview.ab76cd75408e.pmtiles",
+  "bytes": 851250,
+  "tiles": 2879,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/overview.ab76cd75408e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 9,
+   "y": 855,
+   "file": "11-9-855.5d4f91357418.pmtiles",
+   "bytes": 20698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-9-855.5d4f91357418.pmtiles"
+  },
+  {
+   "x": 14,
+   "y": 856,
+   "file": "11-14-856.1131252429ba.pmtiles",
+   "bytes": 30869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-14-856.1131252429ba.pmtiles"
+  },
+  {
+   "x": 15,
+   "y": 856,
+   "file": "11-15-856.3cbaf644628f.pmtiles",
+   "bytes": 21144,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-15-856.3cbaf644628f.pmtiles"
+  },
+  {
+   "x": 23,
+   "y": 859,
+   "file": "11-23-859.aa291899814c.pmtiles",
+   "bytes": 20298,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-23-859.aa291899814c.pmtiles"
+  },
+  {
+   "x": 78,
+   "y": 884,
+   "file": "11-78-884.a3e54a936abb.pmtiles",
+   "bytes": 15970,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-78-884.a3e54a936abb.pmtiles"
+  },
+  {
+   "x": 112,
+   "y": 896,
+   "file": "11-112-896.0c2b49fdd8ea.pmtiles",
+   "bytes": 74876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-112-896.0c2b49fdd8ea.pmtiles"
+  },
+  {
+   "x": 113,
+   "y": 895,
+   "file": "11-113-895.64801d61b51b.pmtiles",
+   "bytes": 35373,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-113-895.64801d61b51b.pmtiles"
+  },
+  {
+   "x": 113,
+   "y": 896,
+   "file": "11-113-896.b61cc8f1fba1.pmtiles",
+   "bytes": 20260,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-113-896.b61cc8f1fba1.pmtiles"
+  },
+  {
+   "x": 115,
+   "y": 894,
+   "file": "11-115-894.fa086218df3a.pmtiles",
+   "bytes": 115956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-115-894.fa086218df3a.pmtiles"
+  },
+  {
+   "x": 115,
+   "y": 895,
+   "file": "11-115-895.c94995fcaa33.pmtiles",
+   "bytes": 211476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-115-895.c94995fcaa33.pmtiles"
+  },
+  {
+   "x": 115,
+   "y": 896,
+   "file": "11-115-896.6b1a96d6bbfa.pmtiles",
+   "bytes": 31621,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-115-896.6b1a96d6bbfa.pmtiles"
+  },
+  {
+   "x": 116,
+   "y": 894,
+   "file": "11-116-894.669d2c0ffd08.pmtiles",
+   "bytes": 218126,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-116-894.669d2c0ffd08.pmtiles"
+  },
+  {
+   "x": 116,
+   "y": 895,
+   "file": "11-116-895.9124c1f9beed.pmtiles",
+   "bytes": 92504,
+   "tiles": 76,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-116-895.9124c1f9beed.pmtiles"
+  },
+  {
+   "x": 116,
+   "y": 896,
+   "file": "11-116-896.2374c705aad4.pmtiles",
+   "bytes": 282425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-116-896.2374c705aad4.pmtiles"
+  },
+  {
+   "x": 117,
+   "y": 894,
+   "file": "11-117-894.9d5274836ade.pmtiles",
+   "bytes": 160976,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-117-894.9d5274836ade.pmtiles"
+  },
+  {
+   "x": 117,
+   "y": 895,
+   "file": "11-117-895.0636b9d97a6b.pmtiles",
+   "bytes": 363139,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-117-895.0636b9d97a6b.pmtiles"
+  },
+  {
+   "x": 117,
+   "y": 896,
+   "file": "11-117-896.eaaf7b51d563.pmtiles",
+   "bytes": 33780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-117-896.eaaf7b51d563.pmtiles"
+  },
+  {
+   "x": 123,
+   "y": 898,
+   "file": "11-123-898.aeb0c545d940.pmtiles",
+   "bytes": 111574,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-123-898.aeb0c545d940.pmtiles"
+  },
+  {
+   "x": 124,
+   "y": 897,
+   "file": "11-124-897.734487f32b06.pmtiles",
+   "bytes": 83151,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-124-897.734487f32b06.pmtiles"
+  },
+  {
+   "x": 124,
+   "y": 898,
+   "file": "11-124-898.6831f5ca821d.pmtiles",
+   "bytes": 405203,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-124-898.6831f5ca821d.pmtiles"
+  },
+  {
+   "x": 124,
+   "y": 899,
+   "file": "11-124-899.d7e53e66b2af.pmtiles",
+   "bytes": 911271,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-124-899.d7e53e66b2af.pmtiles"
+  },
+  {
+   "x": 125,
+   "y": 897,
+   "file": "11-125-897.e22f83c57718.pmtiles",
+   "bytes": 163106,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-125-897.e22f83c57718.pmtiles"
+  },
+  {
+   "x": 125,
+   "y": 898,
+   "file": "11-125-898.0cec209bf601.pmtiles",
+   "bytes": 301255,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-125-898.0cec209bf601.pmtiles"
+  },
+  {
+   "x": 125,
+   "y": 899,
+   "file": "11-125-899.2494c30c250f.pmtiles",
+   "bytes": 2888797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-125-899.2494c30c250f.pmtiles"
+  },
+  {
+   "x": 125,
+   "y": 900,
+   "file": "11-125-900.1474a48a5702.pmtiles",
+   "bytes": 24741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-125-900.1474a48a5702.pmtiles"
+  },
+  {
+   "x": 126,
+   "y": 898,
+   "file": "11-126-898.7d5b2552a078.pmtiles",
+   "bytes": 78814,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-126-898.7d5b2552a078.pmtiles"
+  },
+  {
+   "x": 126,
+   "y": 899,
+   "file": "11-126-899.2ce3cd3ff3c8.pmtiles",
+   "bytes": 1349636,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-126-899.2ce3cd3ff3c8.pmtiles"
+  },
+  {
+   "x": 126,
+   "y": 900,
+   "file": "11-126-900.7fcb10506279.pmtiles",
+   "bytes": 729792,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-126-900.7fcb10506279.pmtiles"
+  },
+  {
+   "x": 127,
+   "y": 899,
+   "file": "11-127-899.79c2288d09c1.pmtiles",
+   "bytes": 53483,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-127-899.79c2288d09c1.pmtiles"
+  },
+  {
+   "x": 127,
+   "y": 900,
+   "file": "11-127-900.967e95abd440.pmtiles",
+   "bytes": 18167,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-127-900.967e95abd440.pmtiles"
+  },
+  {
+   "x": 128,
+   "y": 901,
+   "file": "11-128-901.0321a7948eba.pmtiles",
+   "bytes": 12354,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-128-901.0321a7948eba.pmtiles"
+  },
+  {
+   "x": 129,
+   "y": 900,
+   "file": "11-129-900.eacf70cb4219.pmtiles",
+   "bytes": 62918,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-129-900.eacf70cb4219.pmtiles"
+  },
+  {
+   "x": 129,
+   "y": 901,
+   "file": "11-129-901.ec55062cea8d.pmtiles",
+   "bytes": 50389,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-129-901.ec55062cea8d.pmtiles"
+  },
+  {
+   "x": 130,
+   "y": 900,
+   "file": "11-130-900.f1c5764a9f5e.pmtiles",
+   "bytes": 121485,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-130-900.f1c5764a9f5e.pmtiles"
+  },
+  {
+   "x": 130,
+   "y": 901,
+   "file": "11-130-901.ffbd1f354daf.pmtiles",
+   "bytes": 105347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-130-901.ffbd1f354daf.pmtiles"
+  },
+  {
+   "x": 130,
+   "y": 902,
+   "file": "11-130-902.45236fdd9067.pmtiles",
+   "bytes": 31829,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-130-902.45236fdd9067.pmtiles"
+  },
+  {
+   "x": 131,
+   "y": 900,
+   "file": "11-131-900.e41d93693e2b.pmtiles",
+   "bytes": 30225,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-131-900.e41d93693e2b.pmtiles"
+  },
+  {
+   "x": 131,
+   "y": 901,
+   "file": "11-131-901.d667631288b4.pmtiles",
+   "bytes": 66325,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-131-901.d667631288b4.pmtiles"
+  },
+  {
+   "x": 131,
+   "y": 902,
+   "file": "11-131-902.4a7bb6d677f2.pmtiles",
+   "bytes": 101651,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-131-902.4a7bb6d677f2.pmtiles"
+  },
+  {
+   "x": 131,
+   "y": 903,
+   "file": "11-131-903.239e5b264255.pmtiles",
+   "bytes": 71972,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-131-903.239e5b264255.pmtiles"
+  },
+  {
+   "x": 132,
+   "y": 900,
+   "file": "11-132-900.4e3679abd8ac.pmtiles",
+   "bytes": 23230,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-132-900.4e3679abd8ac.pmtiles"
+  },
+  {
+   "x": 132,
+   "y": 901,
+   "file": "11-132-901.a57deb91ae15.pmtiles",
+   "bytes": 180229,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-132-901.a57deb91ae15.pmtiles"
+  },
+  {
+   "x": 132,
+   "y": 902,
+   "file": "11-132-902.e0c022494552.pmtiles",
+   "bytes": 311592,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-132-902.e0c022494552.pmtiles"
+  },
+  {
+   "x": 132,
+   "y": 904,
+   "file": "11-132-904.51ac51f0141a.pmtiles",
+   "bytes": 21338,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-132-904.51ac51f0141a.pmtiles"
+  },
+  {
+   "x": 133,
+   "y": 901,
+   "file": "11-133-901.6d7d45d09e61.pmtiles",
+   "bytes": 50453,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-133-901.6d7d45d09e61.pmtiles"
+  },
+  {
+   "x": 133,
+   "y": 902,
+   "file": "11-133-902.366973bd2c49.pmtiles",
+   "bytes": 585535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-133-902.366973bd2c49.pmtiles"
+  },
+  {
+   "x": 133,
+   "y": 903,
+   "file": "11-133-903.3e9e91798d77.pmtiles",
+   "bytes": 185834,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-133-903.3e9e91798d77.pmtiles"
+  },
+  {
+   "x": 133,
+   "y": 904,
+   "file": "11-133-904.052a074e79eb.pmtiles",
+   "bytes": 38887,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-133-904.052a074e79eb.pmtiles"
+  },
+  {
+   "x": 134,
+   "y": 902,
+   "file": "11-134-902.0ccb41069d25.pmtiles",
+   "bytes": 377223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-134-902.0ccb41069d25.pmtiles"
+  },
+  {
+   "x": 134,
+   "y": 903,
+   "file": "11-134-903.bed4730c862a.pmtiles",
+   "bytes": 316374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-134-903.bed4730c862a.pmtiles"
+  },
+  {
+   "x": 134,
+   "y": 904,
+   "file": "11-134-904.7e751f66886d.pmtiles",
+   "bytes": 58220,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-134-904.7e751f66886d.pmtiles"
+  },
+  {
+   "x": 135,
+   "y": 902,
+   "file": "11-135-902.333801ac3f15.pmtiles",
+   "bytes": 102797,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-135-902.333801ac3f15.pmtiles"
+  },
+  {
+   "x": 135,
+   "y": 903,
+   "file": "11-135-903.5bb4e69b9014.pmtiles",
+   "bytes": 85859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-135-903.5bb4e69b9014.pmtiles"
+  },
+  {
+   "x": 135,
+   "y": 904,
+   "file": "11-135-904.4242bded651b.pmtiles",
+   "bytes": 29577,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-135-904.4242bded651b.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 902,
+   "file": "11-136-902.16b17f0f7271.pmtiles",
+   "bytes": 22434,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-902.16b17f0f7271.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 903,
+   "file": "11-136-903.af71b73b506c.pmtiles",
+   "bytes": 113242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-903.af71b73b506c.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 908,
+   "file": "11-136-908.04d9e77fbb56.pmtiles",
+   "bytes": 82859,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-908.04d9e77fbb56.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 909,
+   "file": "11-136-909.b7d940d9b749.pmtiles",
+   "bytes": 337676,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-909.b7d940d9b749.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 910,
+   "file": "11-136-910.44dd56649718.pmtiles",
+   "bytes": 291710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-910.44dd56649718.pmtiles"
+  },
+  {
+   "x": 136,
+   "y": 911,
+   "file": "11-136-911.135e057febee.pmtiles",
+   "bytes": 20431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-136-911.135e057febee.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 906,
+   "file": "11-137-906.194de98eb25d.pmtiles",
+   "bytes": 139079,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-906.194de98eb25d.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 907,
+   "file": "11-137-907.b4e6fd83e37a.pmtiles",
+   "bytes": 153511,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-907.b4e6fd83e37a.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 908,
+   "file": "11-137-908.e481dd9c1bc2.pmtiles",
+   "bytes": 266672,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-908.e481dd9c1bc2.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 909,
+   "file": "11-137-909.d30535cd6528.pmtiles",
+   "bytes": 65006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-909.d30535cd6528.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 910,
+   "file": "11-137-910.21df51bb9a0a.pmtiles",
+   "bytes": 63448,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-910.21df51bb9a0a.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 911,
+   "file": "11-137-911.c2d983688caa.pmtiles",
+   "bytes": 104604,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-911.c2d983688caa.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 912,
+   "file": "11-137-912.208acb09e121.pmtiles",
+   "bytes": 90087,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-912.208acb09e121.pmtiles"
+  },
+  {
+   "x": 137,
+   "y": 913,
+   "file": "11-137-913.0a421d8c19b8.pmtiles",
+   "bytes": 100725,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-137-913.0a421d8c19b8.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 906,
+   "file": "11-138-906.634b31f1c89e.pmtiles",
+   "bytes": 38066,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-906.634b31f1c89e.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 907,
+   "file": "11-138-907.626127201456.pmtiles",
+   "bytes": 220439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-907.626127201456.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 908,
+   "file": "11-138-908.e3e07f104f50.pmtiles",
+   "bytes": 62044,
+   "tiles": 74,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-908.e3e07f104f50.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 909,
+   "file": "11-138-909.3472e9f2d1e3.pmtiles",
+   "bytes": 78152,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-909.3472e9f2d1e3.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 910,
+   "file": "11-138-910.1d89695ce507.pmtiles",
+   "bytes": 57602,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-910.1d89695ce507.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 911,
+   "file": "11-138-911.a6c5b7f8f1d4.pmtiles",
+   "bytes": 20683,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-911.a6c5b7f8f1d4.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 912,
+   "file": "11-138-912.9ffda2c22b0b.pmtiles",
+   "bytes": 51623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-912.9ffda2c22b0b.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 913,
+   "file": "11-138-913.55f0748f75bd.pmtiles",
+   "bytes": 129953,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-913.55f0748f75bd.pmtiles"
+  },
+  {
+   "x": 138,
+   "y": 914,
+   "file": "11-138-914.3d32a08e7e40.pmtiles",
+   "bytes": 40163,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-138-914.3d32a08e7e40.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 907,
+   "file": "11-139-907.73b0d315e1c9.pmtiles",
+   "bytes": 215503,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-907.73b0d315e1c9.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 908,
+   "file": "11-139-908.2e013cc99bae.pmtiles",
+   "bytes": 56957,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-908.2e013cc99bae.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 909,
+   "file": "11-139-909.37312e6a76be.pmtiles",
+   "bytes": 123768,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-909.37312e6a76be.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 910,
+   "file": "11-139-910.5301aa176a03.pmtiles",
+   "bytes": 48646,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-910.5301aa176a03.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 911,
+   "file": "11-139-911.8bcf8ac8cca2.pmtiles",
+   "bytes": 43812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-911.8bcf8ac8cca2.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 912,
+   "file": "11-139-912.fde8a88b3363.pmtiles",
+   "bytes": 123406,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-912.fde8a88b3363.pmtiles"
+  },
+  {
+   "x": 139,
+   "y": 913,
+   "file": "11-139-913.d621b417f778.pmtiles",
+   "bytes": 30040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-139-913.d621b417f778.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 907,
+   "file": "11-140-907.c9452921c785.pmtiles",
+   "bytes": 97484,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-907.c9452921c785.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 908,
+   "file": "11-140-908.46834d7142ce.pmtiles",
+   "bytes": 72636,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-908.46834d7142ce.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 909,
+   "file": "11-140-909.f01ba3ca91f8.pmtiles",
+   "bytes": 90618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-909.f01ba3ca91f8.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 910,
+   "file": "11-140-910.2d59193147ea.pmtiles",
+   "bytes": 92759,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-910.2d59193147ea.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 911,
+   "file": "11-140-911.5dcea95d4ad7.pmtiles",
+   "bytes": 218307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-911.5dcea95d4ad7.pmtiles"
+  },
+  {
+   "x": 140,
+   "y": 912,
+   "file": "11-140-912.3c1f6ab711e8.pmtiles",
+   "bytes": 50777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-140-912.3c1f6ab711e8.pmtiles"
+  },
+  {
+   "x": 141,
+   "y": 908,
+   "file": "11-141-908.e1213dea51c0.pmtiles",
+   "bytes": 101812,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-141-908.e1213dea51c0.pmtiles"
+  },
+  {
+   "x": 141,
+   "y": 909,
+   "file": "11-141-909.0158ce159467.pmtiles",
+   "bytes": 831546,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-141-909.0158ce159467.pmtiles"
+  },
+  {
+   "x": 141,
+   "y": 910,
+   "file": "11-141-910.87b5505da79c.pmtiles",
+   "bytes": 315306,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-141-910.87b5505da79c.pmtiles"
+  },
+  {
+   "x": 141,
+   "y": 911,
+   "file": "11-141-911.bee1f0c73182.pmtiles",
+   "bytes": 113741,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-141-911.bee1f0c73182.pmtiles"
+  },
+  {
+   "x": 141,
+   "y": 912,
+   "file": "11-141-912.8d634dc3ff45.pmtiles",
+   "bytes": 32496,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-141-912.8d634dc3ff45.pmtiles"
+  },
+  {
+   "x": 142,
+   "y": 909,
+   "file": "11-142-909.a59b768fc708.pmtiles",
+   "bytes": 65501,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-142-909.a59b768fc708.pmtiles"
+  },
+  {
+   "x": 142,
+   "y": 910,
+   "file": "11-142-910.bc0745a651f2.pmtiles",
+   "bytes": 443737,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-142-910.bc0745a651f2.pmtiles"
+  },
+  {
+   "x": 142,
+   "y": 911,
+   "file": "11-142-911.e3c35d55cc7e.pmtiles",
+   "bytes": 175456,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-142-911.e3c35d55cc7e.pmtiles"
+  },
+  {
+   "x": 143,
+   "y": 910,
+   "file": "11-143-910.8fa0ba7c9fd8.pmtiles",
+   "bytes": 51554,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-143-910.8fa0ba7c9fd8.pmtiles"
+  },
+  {
+   "x": 143,
+   "y": 911,
+   "file": "11-143-911.1a4a667eb6c4.pmtiles",
+   "bytes": 25408,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-hawaii-2026-10-10/11-143-911.1a4a667eb6c4.pmtiles"
+  }
+ ]
+}
