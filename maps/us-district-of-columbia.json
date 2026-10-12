@@ -1,0 +1,61 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "us-district-of-columbia",
+ "source": "us-district-of-columbia.pmtiles",
+ "builtAt": "2026-10-11T22:00:12.435Z",
+ "publishedAt": "2026-10-11T22:00:16.475Z",
+ "host": "github",
+ "releases": [
+  "maps-us-district-of-columbia-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -77.11979,
+  38.79163,
+  -76.90937,
+  38.99597
+ ],
+ "overview": {
+  "file": "overview.8106a84ec4a1.pmtiles",
+  "bytes": 123841,
+  "tiles": 17,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-district-of-columbia-2026-10-10/overview.8106a84ec4a1.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 585,
+   "y": 782,
+   "file": "11-585-782.f7ad7a0409ec.pmtiles",
+   "bytes": 577763,
+   "tiles": 26,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-district-of-columbia-2026-10-10/11-585-782.f7ad7a0409ec.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 783,
+   "file": "11-585-783.6c560a5ef9e4.pmtiles",
+   "bytes": 4170348,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-district-of-columbia-2026-10-10/11-585-783.6c560a5ef9e4.pmtiles"
+  },
+  {
+   "x": 585,
+   "y": 784,
+   "file": "11-585-784.87ae094d9864.pmtiles",
+   "bytes": 71116,
+   "tiles": 13,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-district-of-columbia-2026-10-10/11-585-784.87ae094d9864.pmtiles"
+  },
+  {
+   "x": 586,
+   "y": 783,
+   "file": "11-586-783.2d6da39dc539.pmtiles",
+   "bytes": 1746481,
+   "tiles": 41,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-district-of-columbia-2026-10-10/11-586-783.2d6da39dc539.pmtiles"
+  }
+ ]
+}

@@ -1,0 +1,4733 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "us-arkansas",
+ "source": "us-arkansas.pmtiles",
+ "builtAt": "2026-10-11T23:26:52.368Z",
+ "publishedAt": "2026-10-12T00:30:30.216Z",
+ "host": "github",
+ "releases": [
+  "maps-us-arkansas-2026-10-10"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  -94.61788,
+  33.00425,
+  -89.64254,
+  36.4996
+ ],
+ "overview": {
+  "file": "overview.53fce5149e6e.pmtiles",
+  "bytes": 2238586,
+  "tiles": 276,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/overview.53fce5149e6e.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 485,
+   "y": 800,
+   "file": "11-485-800.728449d885a8.pmtiles",
+   "bytes": 47866,
+   "tiles": 15,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-485-800.728449d885a8.pmtiles"
+  },
+  {
+   "x": 485,
+   "y": 801,
+   "file": "11-485-801.53f8ff96aa64.pmtiles",
+   "bytes": 43236,
+   "tiles": 31,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-485-801.53f8ff96aa64.pmtiles"
+  },
+  {
+   "x": 485,
+   "y": 802,
+   "file": "11-485-802.5ccee6e56ff6.pmtiles",
+   "bytes": 22805,
+   "tiles": 22,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-485-802.5ccee6e56ff6.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 800,
+   "file": "11-486-800.cdbde04691b3.pmtiles",
+   "bytes": 97609,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-800.cdbde04691b3.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 801,
+   "file": "11-486-801.1324fdd6077d.pmtiles",
+   "bytes": 272686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-801.1324fdd6077d.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 802,
+   "file": "11-486-802.46c603e9fe59.pmtiles",
+   "bytes": 435855,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-802.46c603e9fe59.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 803,
+   "file": "11-486-803.12af6e197087.pmtiles",
+   "bytes": 218203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-803.12af6e197087.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 804,
+   "file": "11-486-804.8df3d42d672e.pmtiles",
+   "bytes": 124678,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-804.8df3d42d672e.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 805,
+   "file": "11-486-805.2ddfd0a3726f.pmtiles",
+   "bytes": 72530,
+   "tiles": 73,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-805.2ddfd0a3726f.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 806,
+   "file": "11-486-806.251b74ee11da.pmtiles",
+   "bytes": 52516,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-806.251b74ee11da.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 807,
+   "file": "11-486-807.0aab9a942e1c.pmtiles",
+   "bytes": 59537,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-807.0aab9a942e1c.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 808,
+   "file": "11-486-808.ce2bf8d0a91a.pmtiles",
+   "bytes": 330113,
+   "tiles": 49,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-808.ce2bf8d0a91a.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 809,
+   "file": "11-486-809.0283f3c3beca.pmtiles",
+   "bytes": 129595,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-809.0283f3c3beca.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 810,
+   "file": "11-486-810.f239dc23e231.pmtiles",
+   "bytes": 26736,
+   "tiles": 42,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-810.f239dc23e231.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 811,
+   "file": "11-486-811.ea2dd50ea2e5.pmtiles",
+   "bytes": 36693,
+   "tiles": 51,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-811.ea2dd50ea2e5.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 812,
+   "file": "11-486-812.c011e0590bc0.pmtiles",
+   "bytes": 41133,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-812.c011e0590bc0.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 813,
+   "file": "11-486-813.84cc26def65c.pmtiles",
+   "bytes": 60543,
+   "tiles": 70,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-813.84cc26def65c.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 814,
+   "file": "11-486-814.06d5fd4a58d3.pmtiles",
+   "bytes": 56876,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-814.06d5fd4a58d3.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 815,
+   "file": "11-486-815.8c1ffeb25d16.pmtiles",
+   "bytes": 85292,
+   "tiles": 69,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-815.8c1ffeb25d16.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 816,
+   "file": "11-486-816.972cb98430a2.pmtiles",
+   "bytes": 76858,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-816.972cb98430a2.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 817,
+   "file": "11-486-817.446c5d1da02c.pmtiles",
+   "bytes": 65971,
+   "tiles": 64,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-817.446c5d1da02c.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 818,
+   "file": "11-486-818.6313ca06eda6.pmtiles",
+   "bytes": 44622,
+   "tiles": 61,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-818.6313ca06eda6.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 819,
+   "file": "11-486-819.c7d6269e9c72.pmtiles",
+   "bytes": 56900,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-819.c7d6269e9c72.pmtiles"
+  },
+  {
+   "x": 486,
+   "y": 820,
+   "file": "11-486-820.8125fb140ece.pmtiles",
+   "bytes": 50966,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-486-820.8125fb140ece.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 800,
+   "file": "11-487-800.c2b7efd029f6.pmtiles",
+   "bytes": 488317,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-800.c2b7efd029f6.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 801,
+   "file": "11-487-801.3f568a88a840.pmtiles",
+   "bytes": 1045234,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-801.3f568a88a840.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 802,
+   "file": "11-487-802.713e900e3326.pmtiles",
+   "bytes": 365966,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-802.713e900e3326.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 803,
+   "file": "11-487-803.33175d7c7691.pmtiles",
+   "bytes": 519929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-803.33175d7c7691.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 804,
+   "file": "11-487-804.a4ea38e5c057.pmtiles",
+   "bytes": 236773,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-804.a4ea38e5c057.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 805,
+   "file": "11-487-805.5358522e40f8.pmtiles",
+   "bytes": 124622,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-805.5358522e40f8.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 806,
+   "file": "11-487-806.0c0fced53c27.pmtiles",
+   "bytes": 91086,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-806.0c0fced53c27.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 807,
+   "file": "11-487-807.0a7922060e6a.pmtiles",
+   "bytes": 239328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-807.0a7922060e6a.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 808,
+   "file": "11-487-808.ea3b91a7a95b.pmtiles",
+   "bytes": 682853,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-808.ea3b91a7a95b.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 809,
+   "file": "11-487-809.1297f9825d41.pmtiles",
+   "bytes": 274282,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-809.1297f9825d41.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 810,
+   "file": "11-487-810.34efcbbbdbff.pmtiles",
+   "bytes": 144915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-810.34efcbbbdbff.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 811,
+   "file": "11-487-811.ab6aa04ed623.pmtiles",
+   "bytes": 77475,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-811.ab6aa04ed623.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 812,
+   "file": "11-487-812.bd1b131153a7.pmtiles",
+   "bytes": 93945,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-812.bd1b131153a7.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 813,
+   "file": "11-487-813.0fb97003b7f0.pmtiles",
+   "bytes": 116335,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-813.0fb97003b7f0.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 814,
+   "file": "11-487-814.c5c64b95c096.pmtiles",
+   "bytes": 199432,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-814.c5c64b95c096.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 815,
+   "file": "11-487-815.28c76a8bb208.pmtiles",
+   "bytes": 169863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-815.28c76a8bb208.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 816,
+   "file": "11-487-816.f3ef964c576e.pmtiles",
+   "bytes": 152813,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-816.f3ef964c576e.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 817,
+   "file": "11-487-817.ef1cc1ed677b.pmtiles",
+   "bytes": 138000,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-817.ef1cc1ed677b.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 818,
+   "file": "11-487-818.1279a7c12938.pmtiles",
+   "bytes": 93670,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-818.1279a7c12938.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 819,
+   "file": "11-487-819.0456596c3c6e.pmtiles",
+   "bytes": 77299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-819.0456596c3c6e.pmtiles"
+  },
+  {
+   "x": 487,
+   "y": 820,
+   "file": "11-487-820.ae324c444747.pmtiles",
+   "bytes": 71817,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-487-820.ae324c444747.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 800,
+   "file": "11-488-800.63b83761e50e.pmtiles",
+   "bytes": 239423,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-800.63b83761e50e.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 801,
+   "file": "11-488-801.a8bc98117954.pmtiles",
+   "bytes": 1471169,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-801.a8bc98117954.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 802,
+   "file": "11-488-802.e7920033a541.pmtiles",
+   "bytes": 1509943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-802.e7920033a541.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 803,
+   "file": "11-488-803.629f60d70985.pmtiles",
+   "bytes": 2092113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-803.629f60d70985.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 804,
+   "file": "11-488-804.9c33db027349.pmtiles",
+   "bytes": 254601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-804.9c33db027349.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 805,
+   "file": "11-488-805.036abb09cb4c.pmtiles",
+   "bytes": 134023,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-805.036abb09cb4c.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 806,
+   "file": "11-488-806.f3ee3f49707e.pmtiles",
+   "bytes": 160404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-806.f3ee3f49707e.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 807,
+   "file": "11-488-807.1a5dfc5166ce.pmtiles",
+   "bytes": 162001,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-807.1a5dfc5166ce.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 808,
+   "file": "11-488-808.5c9d9146e04a.pmtiles",
+   "bytes": 111668,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-808.5c9d9146e04a.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 809,
+   "file": "11-488-809.7047c373dc40.pmtiles",
+   "bytes": 94006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-809.7047c373dc40.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 810,
+   "file": "11-488-810.a764a19ee30a.pmtiles",
+   "bytes": 90810,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-810.a764a19ee30a.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 811,
+   "file": "11-488-811.1003d48a0ddf.pmtiles",
+   "bytes": 129890,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-811.1003d48a0ddf.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 812,
+   "file": "11-488-812.1a7f7941d000.pmtiles",
+   "bytes": 109081,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-812.1a7f7941d000.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 813,
+   "file": "11-488-813.6dad66705863.pmtiles",
+   "bytes": 118780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-813.6dad66705863.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 814,
+   "file": "11-488-814.081d4276d331.pmtiles",
+   "bytes": 158841,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-814.081d4276d331.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 815,
+   "file": "11-488-815.a481e67f20ef.pmtiles",
+   "bytes": 104894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-815.a481e67f20ef.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 816,
+   "file": "11-488-816.cb885a666e74.pmtiles",
+   "bytes": 113298,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-816.cb885a666e74.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 817,
+   "file": "11-488-817.ca96b25b0a21.pmtiles",
+   "bytes": 99062,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-817.ca96b25b0a21.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 818,
+   "file": "11-488-818.004dcde50ca9.pmtiles",
+   "bytes": 86737,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-818.004dcde50ca9.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 819,
+   "file": "11-488-819.1b770939f006.pmtiles",
+   "bytes": 85203,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-819.1b770939f006.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 820,
+   "file": "11-488-820.37eae5dd983d.pmtiles",
+   "bytes": 130447,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-820.37eae5dd983d.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 821,
+   "file": "11-488-821.81ff069dd208.pmtiles",
+   "bytes": 51315,
+   "tiles": 38,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-821.81ff069dd208.pmtiles"
+  },
+  {
+   "x": 488,
+   "y": 822,
+   "file": "11-488-822.ee8b1a2d21d5.pmtiles",
+   "bytes": 38539,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-488-822.ee8b1a2d21d5.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 800,
+   "file": "11-489-800.8ac7ba0faed1.pmtiles",
+   "bytes": 88598,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-800.8ac7ba0faed1.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 801,
+   "file": "11-489-801.c650bf85c154.pmtiles",
+   "bytes": 442547,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-801.c650bf85c154.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 802,
+   "file": "11-489-802.f79660681386.pmtiles",
+   "bytes": 298709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-802.f79660681386.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 803,
+   "file": "11-489-803.1ee7430aefc0.pmtiles",
+   "bytes": 176321,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-803.1ee7430aefc0.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 804,
+   "file": "11-489-804.47bf3e3e7b7b.pmtiles",
+   "bytes": 119929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-804.47bf3e3e7b7b.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 805,
+   "file": "11-489-805.7391c0cd8e87.pmtiles",
+   "bytes": 98108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-805.7391c0cd8e87.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 806,
+   "file": "11-489-806.2183cabeb26f.pmtiles",
+   "bytes": 116982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-806.2183cabeb26f.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 807,
+   "file": "11-489-807.7009e631e86a.pmtiles",
+   "bytes": 115460,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-807.7009e631e86a.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 808,
+   "file": "11-489-808.9cd2b6e19913.pmtiles",
+   "bytes": 83053,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-808.9cd2b6e19913.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 809,
+   "file": "11-489-809.f23b76167995.pmtiles",
+   "bytes": 120511,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-809.f23b76167995.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 810,
+   "file": "11-489-810.2ad528926a4c.pmtiles",
+   "bytes": 109973,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-810.2ad528926a4c.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 811,
+   "file": "11-489-811.64c60f9d2ff6.pmtiles",
+   "bytes": 74358,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-811.64c60f9d2ff6.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 812,
+   "file": "11-489-812.387c0df226b5.pmtiles",
+   "bytes": 79090,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-812.387c0df226b5.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 813,
+   "file": "11-489-813.a05c03b8cc2b.pmtiles",
+   "bytes": 75999,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-813.a05c03b8cc2b.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 814,
+   "file": "11-489-814.30992d611cf3.pmtiles",
+   "bytes": 113275,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-814.30992d611cf3.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 815,
+   "file": "11-489-815.09766dbb99f6.pmtiles",
+   "bytes": 122084,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-815.09766dbb99f6.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 816,
+   "file": "11-489-816.43fe99f9fe61.pmtiles",
+   "bytes": 121430,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-816.43fe99f9fe61.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 817,
+   "file": "11-489-817.3a79c125cbce.pmtiles",
+   "bytes": 119314,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-817.3a79c125cbce.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 818,
+   "file": "11-489-818.e7b612c1ff39.pmtiles",
+   "bytes": 100155,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-818.e7b612c1ff39.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 819,
+   "file": "11-489-819.72b99ec389db.pmtiles",
+   "bytes": 80519,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-819.72b99ec389db.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 820,
+   "file": "11-489-820.ee4746c05fe5.pmtiles",
+   "bytes": 86197,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-820.ee4746c05fe5.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 821,
+   "file": "11-489-821.7b858b3f4041.pmtiles",
+   "bytes": 282061,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-821.7b858b3f4041.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 822,
+   "file": "11-489-822.92e05193a002.pmtiles",
+   "bytes": 210409,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-822.92e05193a002.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 823,
+   "file": "11-489-823.b30df82357c8.pmtiles",
+   "bytes": 124597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-823.b30df82357c8.pmtiles"
+  },
+  {
+   "x": 489,
+   "y": 824,
+   "file": "11-489-824.7074aa5f003c.pmtiles",
+   "bytes": 94791,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-489-824.7074aa5f003c.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 800,
+   "file": "11-490-800.29fc8e349c4a.pmtiles",
+   "bytes": 136009,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-800.29fc8e349c4a.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 801,
+   "file": "11-490-801.71feab57f11a.pmtiles",
+   "bytes": 353100,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-801.71feab57f11a.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 802,
+   "file": "11-490-802.0eca81bc1591.pmtiles",
+   "bytes": 127922,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-802.0eca81bc1591.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 803,
+   "file": "11-490-803.c8ef644e2667.pmtiles",
+   "bytes": 169534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-803.c8ef644e2667.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 804,
+   "file": "11-490-804.1ddc3bb41c2f.pmtiles",
+   "bytes": 98647,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-804.1ddc3bb41c2f.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 805,
+   "file": "11-490-805.6eaebd3f1de5.pmtiles",
+   "bytes": 103785,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-805.6eaebd3f1de5.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 806,
+   "file": "11-490-806.30ccea4ab2fe.pmtiles",
+   "bytes": 158390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-806.30ccea4ab2fe.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 807,
+   "file": "11-490-807.5ff932bd2981.pmtiles",
+   "bytes": 168417,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-807.5ff932bd2981.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 808,
+   "file": "11-490-808.6bf1d4efd7ff.pmtiles",
+   "bytes": 119069,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-808.6bf1d4efd7ff.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 809,
+   "file": "11-490-809.a2b92abade5e.pmtiles",
+   "bytes": 110429,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-809.a2b92abade5e.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 810,
+   "file": "11-490-810.68d1fbaa7a5a.pmtiles",
+   "bytes": 89553,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-810.68d1fbaa7a5a.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 811,
+   "file": "11-490-811.e01d35f60bed.pmtiles",
+   "bytes": 65746,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-811.e01d35f60bed.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 812,
+   "file": "11-490-812.ffb458ea9492.pmtiles",
+   "bytes": 75090,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-812.ffb458ea9492.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 813,
+   "file": "11-490-813.5db2ff3efd8a.pmtiles",
+   "bytes": 143721,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-813.5db2ff3efd8a.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 814,
+   "file": "11-490-814.3161eafff0ea.pmtiles",
+   "bytes": 101351,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-814.3161eafff0ea.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 815,
+   "file": "11-490-815.7007794ba229.pmtiles",
+   "bytes": 76910,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-815.7007794ba229.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 816,
+   "file": "11-490-816.9b6f26dc39c2.pmtiles",
+   "bytes": 182608,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-816.9b6f26dc39c2.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 817,
+   "file": "11-490-817.ff2b295205c1.pmtiles",
+   "bytes": 136011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-817.ff2b295205c1.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 818,
+   "file": "11-490-818.d3d56a5d2224.pmtiles",
+   "bytes": 135789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-818.d3d56a5d2224.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 819,
+   "file": "11-490-819.7df9164cc465.pmtiles",
+   "bytes": 86615,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-819.7df9164cc465.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 820,
+   "file": "11-490-820.373b1b619dce.pmtiles",
+   "bytes": 116005,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-820.373b1b619dce.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 821,
+   "file": "11-490-821.3ed7d532b3ec.pmtiles",
+   "bytes": 97938,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-821.3ed7d532b3ec.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 822,
+   "file": "11-490-822.dd126daceeba.pmtiles",
+   "bytes": 93342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-822.dd126daceeba.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 823,
+   "file": "11-490-823.7103b1a54457.pmtiles",
+   "bytes": 66659,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-823.7103b1a54457.pmtiles"
+  },
+  {
+   "x": 490,
+   "y": 824,
+   "file": "11-490-824.e5c5834b492e.pmtiles",
+   "bytes": 55776,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-490-824.e5c5834b492e.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 800,
+   "file": "11-491-800.3e9e2c2d3de7.pmtiles",
+   "bytes": 53193,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-800.3e9e2c2d3de7.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 801,
+   "file": "11-491-801.d8f44073a9f7.pmtiles",
+   "bytes": 178342,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-801.d8f44073a9f7.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 802,
+   "file": "11-491-802.5a53c44c55a7.pmtiles",
+   "bytes": 91900,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-802.5a53c44c55a7.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 803,
+   "file": "11-491-803.ce1ae4c2817a.pmtiles",
+   "bytes": 112251,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-803.ce1ae4c2817a.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 804,
+   "file": "11-491-804.0bf33b3bbaf8.pmtiles",
+   "bytes": 83808,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-804.0bf33b3bbaf8.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 805,
+   "file": "11-491-805.3ee45af1b4b8.pmtiles",
+   "bytes": 92464,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-805.3ee45af1b4b8.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 806,
+   "file": "11-491-806.352b5d621483.pmtiles",
+   "bytes": 116355,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-806.352b5d621483.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 807,
+   "file": "11-491-807.889b8a6a3087.pmtiles",
+   "bytes": 138510,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-807.889b8a6a3087.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 808,
+   "file": "11-491-808.bce248118eaa.pmtiles",
+   "bytes": 148235,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-808.bce248118eaa.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 809,
+   "file": "11-491-809.950340b76aee.pmtiles",
+   "bytes": 112720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-809.950340b76aee.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 810,
+   "file": "11-491-810.d276cfeae964.pmtiles",
+   "bytes": 111632,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-810.d276cfeae964.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 811,
+   "file": "11-491-811.d8a1f079e9d2.pmtiles",
+   "bytes": 61051,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-811.d8a1f079e9d2.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 812,
+   "file": "11-491-812.2245162ee4fb.pmtiles",
+   "bytes": 52034,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-812.2245162ee4fb.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 813,
+   "file": "11-491-813.9ed3c790a69d.pmtiles",
+   "bytes": 156701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-813.9ed3c790a69d.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 814,
+   "file": "11-491-814.466593f60ede.pmtiles",
+   "bytes": 150783,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-814.466593f60ede.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 815,
+   "file": "11-491-815.08f595ab2dd8.pmtiles",
+   "bytes": 139615,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-815.08f595ab2dd8.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 816,
+   "file": "11-491-816.17e81d414396.pmtiles",
+   "bytes": 133686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-816.17e81d414396.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 817,
+   "file": "11-491-817.13e1bc8722b2.pmtiles",
+   "bytes": 179854,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-817.13e1bc8722b2.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 818,
+   "file": "11-491-818.cecbdcbc6b6d.pmtiles",
+   "bytes": 81235,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-818.cecbdcbc6b6d.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 819,
+   "file": "11-491-819.3dd8c082a7f7.pmtiles",
+   "bytes": 103452,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-819.3dd8c082a7f7.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 820,
+   "file": "11-491-820.4a62945e9606.pmtiles",
+   "bytes": 213299,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-820.4a62945e9606.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 821,
+   "file": "11-491-821.738171683ee4.pmtiles",
+   "bytes": 92080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-821.738171683ee4.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 822,
+   "file": "11-491-822.a7405cc801a4.pmtiles",
+   "bytes": 93465,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-822.a7405cc801a4.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 823,
+   "file": "11-491-823.fbbdca3848a5.pmtiles",
+   "bytes": 72831,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-823.fbbdca3848a5.pmtiles"
+  },
+  {
+   "x": 491,
+   "y": 824,
+   "file": "11-491-824.f9720800fbfd.pmtiles",
+   "bytes": 86658,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-491-824.f9720800fbfd.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 800,
+   "file": "11-492-800.9cfcda4066d7.pmtiles",
+   "bytes": 52102,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-800.9cfcda4066d7.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 801,
+   "file": "11-492-801.20367b5fec70.pmtiles",
+   "bytes": 122419,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-801.20367b5fec70.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 802,
+   "file": "11-492-802.437417f16678.pmtiles",
+   "bytes": 96438,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-802.437417f16678.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 803,
+   "file": "11-492-803.8d4a520c0130.pmtiles",
+   "bytes": 102709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-803.8d4a520c0130.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 804,
+   "file": "11-492-804.3d46103b5943.pmtiles",
+   "bytes": 107332,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-804.3d46103b5943.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 805,
+   "file": "11-492-805.6eb69e47567f.pmtiles",
+   "bytes": 91946,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-805.6eb69e47567f.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 806,
+   "file": "11-492-806.6fa79dc325a3.pmtiles",
+   "bytes": 117029,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-806.6fa79dc325a3.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 807,
+   "file": "11-492-807.6d5bb7b8dc70.pmtiles",
+   "bytes": 233923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-807.6d5bb7b8dc70.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 808,
+   "file": "11-492-808.58758a9d9d6d.pmtiles",
+   "bytes": 185625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-808.58758a9d9d6d.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 809,
+   "file": "11-492-809.c9b3d4e2d7c4.pmtiles",
+   "bytes": 89846,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-809.c9b3d4e2d7c4.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 810,
+   "file": "11-492-810.a2d282f881a8.pmtiles",
+   "bytes": 144821,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-810.a2d282f881a8.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 811,
+   "file": "11-492-811.7f03e5d301ec.pmtiles",
+   "bytes": 71306,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-811.7f03e5d301ec.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 812,
+   "file": "11-492-812.7495fe31efe5.pmtiles",
+   "bytes": 107154,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-812.7495fe31efe5.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 813,
+   "file": "11-492-813.c9995500551e.pmtiles",
+   "bytes": 253578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-813.c9995500551e.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 814,
+   "file": "11-492-814.694c44179eb6.pmtiles",
+   "bytes": 219294,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-814.694c44179eb6.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 815,
+   "file": "11-492-815.a5010227d7f4.pmtiles",
+   "bytes": 93956,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-815.a5010227d7f4.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 816,
+   "file": "11-492-816.d9ace68afbf1.pmtiles",
+   "bytes": 106111,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-816.d9ace68afbf1.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 817,
+   "file": "11-492-817.f73c89be2587.pmtiles",
+   "bytes": 138629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-817.f73c89be2587.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 818,
+   "file": "11-492-818.dce38b46c062.pmtiles",
+   "bytes": 172618,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-818.dce38b46c062.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 819,
+   "file": "11-492-819.27295fb8d430.pmtiles",
+   "bytes": 176441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-819.27295fb8d430.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 820,
+   "file": "11-492-820.b8768c66146b.pmtiles",
+   "bytes": 72445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-820.b8768c66146b.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 821,
+   "file": "11-492-821.020464b3bc8d.pmtiles",
+   "bytes": 70357,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-821.020464b3bc8d.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 822,
+   "file": "11-492-822.2d75fa2a7c31.pmtiles",
+   "bytes": 112363,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-822.2d75fa2a7c31.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 823,
+   "file": "11-492-823.e521ca104b2d.pmtiles",
+   "bytes": 69088,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-823.e521ca104b2d.pmtiles"
+  },
+  {
+   "x": 492,
+   "y": 824,
+   "file": "11-492-824.c766dd748ca4.pmtiles",
+   "bytes": 69381,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-492-824.c766dd748ca4.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 800,
+   "file": "11-493-800.270a60670c6c.pmtiles",
+   "bytes": 71809,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-800.270a60670c6c.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 801,
+   "file": "11-493-801.ee7a4822087d.pmtiles",
+   "bytes": 128400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-801.ee7a4822087d.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 802,
+   "file": "11-493-802.033a4f753696.pmtiles",
+   "bytes": 166480,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-802.033a4f753696.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 803,
+   "file": "11-493-803.4e147a7a1975.pmtiles",
+   "bytes": 121808,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-803.4e147a7a1975.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 804,
+   "file": "11-493-804.7c5a94e8e79c.pmtiles",
+   "bytes": 161800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-804.7c5a94e8e79c.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 805,
+   "file": "11-493-805.452526a5acd8.pmtiles",
+   "bytes": 97571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-805.452526a5acd8.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 806,
+   "file": "11-493-806.9aa8a2ddc19a.pmtiles",
+   "bytes": 92518,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-806.9aa8a2ddc19a.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 807,
+   "file": "11-493-807.c43b99340b89.pmtiles",
+   "bytes": 103929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-807.c43b99340b89.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 808,
+   "file": "11-493-808.60ea4c321c12.pmtiles",
+   "bytes": 177492,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-808.60ea4c321c12.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 809,
+   "file": "11-493-809.a84912518508.pmtiles",
+   "bytes": 244197,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-809.a84912518508.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 810,
+   "file": "11-493-810.bf7c06834e78.pmtiles",
+   "bytes": 101079,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-810.bf7c06834e78.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 811,
+   "file": "11-493-811.b620ad056913.pmtiles",
+   "bytes": 92937,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-811.b620ad056913.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 812,
+   "file": "11-493-812.13d402e495ca.pmtiles",
+   "bytes": 81652,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-812.13d402e495ca.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 813,
+   "file": "11-493-813.f61deab88c0c.pmtiles",
+   "bytes": 141498,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-813.f61deab88c0c.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 814,
+   "file": "11-493-814.4d80ce7f7c8e.pmtiles",
+   "bytes": 243698,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-814.4d80ce7f7c8e.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 815,
+   "file": "11-493-815.736f3a324eba.pmtiles",
+   "bytes": 141568,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-815.736f3a324eba.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 816,
+   "file": "11-493-816.496707dab0d2.pmtiles",
+   "bytes": 210431,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-816.496707dab0d2.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 817,
+   "file": "11-493-817.b7e6e9cedae1.pmtiles",
+   "bytes": 358131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-817.b7e6e9cedae1.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 818,
+   "file": "11-493-818.e2001b760e3c.pmtiles",
+   "bytes": 476706,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-818.e2001b760e3c.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 819,
+   "file": "11-493-819.4f4e134ee5a1.pmtiles",
+   "bytes": 168580,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-819.4f4e134ee5a1.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 820,
+   "file": "11-493-820.1030f6a2252e.pmtiles",
+   "bytes": 82208,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-820.1030f6a2252e.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 821,
+   "file": "11-493-821.f4f6d38a51e1.pmtiles",
+   "bytes": 72179,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-821.f4f6d38a51e1.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 822,
+   "file": "11-493-822.99d6a2272530.pmtiles",
+   "bytes": 127346,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-822.99d6a2272530.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 823,
+   "file": "11-493-823.24e5ef226922.pmtiles",
+   "bytes": 155059,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-823.24e5ef226922.pmtiles"
+  },
+  {
+   "x": 493,
+   "y": 824,
+   "file": "11-493-824.7b280c21c4b5.pmtiles",
+   "bytes": 75692,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-493-824.7b280c21c4b5.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 800,
+   "file": "11-494-800.76c25ba63c86.pmtiles",
+   "bytes": 49060,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-800.76c25ba63c86.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 801,
+   "file": "11-494-801.4bd328c65830.pmtiles",
+   "bytes": 125325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-801.4bd328c65830.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 802,
+   "file": "11-494-802.2661a0658fe1.pmtiles",
+   "bytes": 380325,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-802.2661a0658fe1.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 803,
+   "file": "11-494-803.cb149bfda3ff.pmtiles",
+   "bytes": 141060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-803.cb149bfda3ff.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 804,
+   "file": "11-494-804.08de013bc440.pmtiles",
+   "bytes": 126400,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-804.08de013bc440.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 805,
+   "file": "11-494-805.d42ed130d460.pmtiles",
+   "bytes": 95202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-805.d42ed130d460.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 806,
+   "file": "11-494-806.38d9096cecaf.pmtiles",
+   "bytes": 84425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-806.38d9096cecaf.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 807,
+   "file": "11-494-807.68e6b295397e.pmtiles",
+   "bytes": 97992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-807.68e6b295397e.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 808,
+   "file": "11-494-808.d67493f910fa.pmtiles",
+   "bytes": 179432,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-808.d67493f910fa.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 809,
+   "file": "11-494-809.96f558a92e2a.pmtiles",
+   "bytes": 512214,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-809.96f558a92e2a.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 810,
+   "file": "11-494-810.e084d69e2e37.pmtiles",
+   "bytes": 98909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-810.e084d69e2e37.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 811,
+   "file": "11-494-811.13e1346dff8b.pmtiles",
+   "bytes": 87964,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-811.13e1346dff8b.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 812,
+   "file": "11-494-812.6a5fcc015b3a.pmtiles",
+   "bytes": 90427,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-812.6a5fcc015b3a.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 813,
+   "file": "11-494-813.b73c5aeaa946.pmtiles",
+   "bytes": 291216,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-813.b73c5aeaa946.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 814,
+   "file": "11-494-814.92ba38b7fc87.pmtiles",
+   "bytes": 625099,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-814.92ba38b7fc87.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 815,
+   "file": "11-494-815.b0acf5bba11e.pmtiles",
+   "bytes": 262336,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-815.b0acf5bba11e.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 816,
+   "file": "11-494-816.67ae3fab0495.pmtiles",
+   "bytes": 507588,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-816.67ae3fab0495.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 817,
+   "file": "11-494-817.f675bcc9cf32.pmtiles",
+   "bytes": 951195,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-817.f675bcc9cf32.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 818,
+   "file": "11-494-818.a19dfc0b61b9.pmtiles",
+   "bytes": 732752,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-818.a19dfc0b61b9.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 819,
+   "file": "11-494-819.49901bdf1ac5.pmtiles",
+   "bytes": 423267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-819.49901bdf1ac5.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 820,
+   "file": "11-494-820.c215ae5836dd.pmtiles",
+   "bytes": 90787,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-820.c215ae5836dd.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 821,
+   "file": "11-494-821.e6da159947ea.pmtiles",
+   "bytes": 56781,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-821.e6da159947ea.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 822,
+   "file": "11-494-822.1b31e69846ee.pmtiles",
+   "bytes": 71770,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-822.1b31e69846ee.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 823,
+   "file": "11-494-823.9ec5385f4d06.pmtiles",
+   "bytes": 71844,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-823.9ec5385f4d06.pmtiles"
+  },
+  {
+   "x": 494,
+   "y": 824,
+   "file": "11-494-824.5e6e749fac47.pmtiles",
+   "bytes": 49454,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-494-824.5e6e749fac47.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 800,
+   "file": "11-495-800.f5bf019ee20f.pmtiles",
+   "bytes": 65131,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-800.f5bf019ee20f.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 801,
+   "file": "11-495-801.d2b3bb8daf24.pmtiles",
+   "bytes": 162426,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-801.d2b3bb8daf24.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 802,
+   "file": "11-495-802.19efcfea90de.pmtiles",
+   "bytes": 130740,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-802.19efcfea90de.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 803,
+   "file": "11-495-803.5550b7b978d5.pmtiles",
+   "bytes": 122094,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-803.5550b7b978d5.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 804,
+   "file": "11-495-804.619a5c2eb7d8.pmtiles",
+   "bytes": 108328,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-804.619a5c2eb7d8.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 805,
+   "file": "11-495-805.3409da8195d6.pmtiles",
+   "bytes": 99513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-805.3409da8195d6.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 806,
+   "file": "11-495-806.83fd8a8f7063.pmtiles",
+   "bytes": 78392,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-806.83fd8a8f7063.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 807,
+   "file": "11-495-807.911c03977085.pmtiles",
+   "bytes": 92451,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-807.911c03977085.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 808,
+   "file": "11-495-808.0ae8ae53d561.pmtiles",
+   "bytes": 106094,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-808.0ae8ae53d561.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 809,
+   "file": "11-495-809.d70d5bf2837b.pmtiles",
+   "bytes": 148009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-809.d70d5bf2837b.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 810,
+   "file": "11-495-810.2d928648e60c.pmtiles",
+   "bytes": 131804,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-810.2d928648e60c.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 811,
+   "file": "11-495-811.08b1fef8253c.pmtiles",
+   "bytes": 81131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-811.08b1fef8253c.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 812,
+   "file": "11-495-812.04135056e974.pmtiles",
+   "bytes": 110486,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-812.04135056e974.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 813,
+   "file": "11-495-813.efd2fb8e874e.pmtiles",
+   "bytes": 352386,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-813.efd2fb8e874e.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 814,
+   "file": "11-495-814.73a72e6c4124.pmtiles",
+   "bytes": 213223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-814.73a72e6c4124.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 815,
+   "file": "11-495-815.05a71d125672.pmtiles",
+   "bytes": 233670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-815.05a71d125672.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 816,
+   "file": "11-495-816.10f50ffda243.pmtiles",
+   "bytes": 111701,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-816.10f50ffda243.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 817,
+   "file": "11-495-817.7ce21d70e927.pmtiles",
+   "bytes": 488040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-817.7ce21d70e927.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 818,
+   "file": "11-495-818.e5b271a6528e.pmtiles",
+   "bytes": 391374,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-818.e5b271a6528e.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 819,
+   "file": "11-495-819.337523ee0723.pmtiles",
+   "bytes": 212670,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-819.337523ee0723.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 820,
+   "file": "11-495-820.1de6a31c20ae.pmtiles",
+   "bytes": 128860,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-820.1de6a31c20ae.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 821,
+   "file": "11-495-821.e5f63e5d111c.pmtiles",
+   "bytes": 128720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-821.e5f63e5d111c.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 822,
+   "file": "11-495-822.a2eab4368976.pmtiles",
+   "bytes": 64928,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-822.a2eab4368976.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 823,
+   "file": "11-495-823.d0773d1dd989.pmtiles",
+   "bytes": 67068,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-823.d0773d1dd989.pmtiles"
+  },
+  {
+   "x": 495,
+   "y": 824,
+   "file": "11-495-824.53ac1950a0f7.pmtiles",
+   "bytes": 52140,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-495-824.53ac1950a0f7.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 800,
+   "file": "11-496-800.d0e88d12cdb0.pmtiles",
+   "bytes": 69212,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-800.d0e88d12cdb0.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 801,
+   "file": "11-496-801.475ada935a06.pmtiles",
+   "bytes": 134183,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-801.475ada935a06.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 802,
+   "file": "11-496-802.663c3c1df7f9.pmtiles",
+   "bytes": 158537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-802.663c3c1df7f9.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 803,
+   "file": "11-496-803.6742fa4314f5.pmtiles",
+   "bytes": 109290,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-803.6742fa4314f5.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 804,
+   "file": "11-496-804.976aa43dbc9d.pmtiles",
+   "bytes": 152330,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-804.976aa43dbc9d.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 805,
+   "file": "11-496-805.530f26f362c2.pmtiles",
+   "bytes": 102202,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-805.530f26f362c2.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 806,
+   "file": "11-496-806.65aa663c6670.pmtiles",
+   "bytes": 88726,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-806.65aa663c6670.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 807,
+   "file": "11-496-807.19b522224a98.pmtiles",
+   "bytes": 88233,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-807.19b522224a98.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 808,
+   "file": "11-496-808.cc55fda4c056.pmtiles",
+   "bytes": 98213,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-808.cc55fda4c056.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 809,
+   "file": "11-496-809.2b627a526263.pmtiles",
+   "bytes": 153818,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-809.2b627a526263.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 810,
+   "file": "11-496-810.acf3f63b1296.pmtiles",
+   "bytes": 224456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-810.acf3f63b1296.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 811,
+   "file": "11-496-811.3bffaf9a0427.pmtiles",
+   "bytes": 133425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-811.3bffaf9a0427.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 812,
+   "file": "11-496-812.ef7549f7b8ad.pmtiles",
+   "bytes": 115812,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-812.ef7549f7b8ad.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 813,
+   "file": "11-496-813.6b5116c5691d.pmtiles",
+   "bytes": 132206,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-813.6b5116c5691d.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 814,
+   "file": "11-496-814.16372ec342f7.pmtiles",
+   "bytes": 217715,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-814.16372ec342f7.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 815,
+   "file": "11-496-815.70659b222bff.pmtiles",
+   "bytes": 163549,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-815.70659b222bff.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 816,
+   "file": "11-496-816.1ed97329f0c4.pmtiles",
+   "bytes": 95830,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-816.1ed97329f0c4.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 817,
+   "file": "11-496-817.8b99d14c1d21.pmtiles",
+   "bytes": 61813,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-817.8b99d14c1d21.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 818,
+   "file": "11-496-818.5ff7b248c7cb.pmtiles",
+   "bytes": 133953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-818.5ff7b248c7cb.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 819,
+   "file": "11-496-819.c7e048964f11.pmtiles",
+   "bytes": 103292,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-819.c7e048964f11.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 820,
+   "file": "11-496-820.28353f4b8d0e.pmtiles",
+   "bytes": 274674,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-820.28353f4b8d0e.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 821,
+   "file": "11-496-821.725a4ebc5339.pmtiles",
+   "bytes": 62648,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-821.725a4ebc5339.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 822,
+   "file": "11-496-822.feaa915ec27c.pmtiles",
+   "bytes": 143267,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-822.feaa915ec27c.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 823,
+   "file": "11-496-823.e847d02a8368.pmtiles",
+   "bytes": 235162,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-823.e847d02a8368.pmtiles"
+  },
+  {
+   "x": 496,
+   "y": 824,
+   "file": "11-496-824.b7353e0c9042.pmtiles",
+   "bytes": 78869,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-496-824.b7353e0c9042.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 800,
+   "file": "11-497-800.a215f9a59f0c.pmtiles",
+   "bytes": 53802,
+   "tiles": 34,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-800.a215f9a59f0c.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 801,
+   "file": "11-497-801.6e6129846d40.pmtiles",
+   "bytes": 226133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-801.6e6129846d40.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 802,
+   "file": "11-497-802.1eaf61f6e157.pmtiles",
+   "bytes": 218250,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-802.1eaf61f6e157.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 803,
+   "file": "11-497-803.b2562ff11c25.pmtiles",
+   "bytes": 106720,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-803.b2562ff11c25.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 804,
+   "file": "11-497-804.3c2db8950ba9.pmtiles",
+   "bytes": 136748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-804.3c2db8950ba9.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 805,
+   "file": "11-497-805.030494836b08.pmtiles",
+   "bytes": 107471,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-805.030494836b08.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 806,
+   "file": "11-497-806.54f5bbc674a3.pmtiles",
+   "bytes": 82523,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-806.54f5bbc674a3.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 807,
+   "file": "11-497-807.918999fb9cf4.pmtiles",
+   "bytes": 106074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-807.918999fb9cf4.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 808,
+   "file": "11-497-808.04dbbcf6c394.pmtiles",
+   "bytes": 94513,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-808.04dbbcf6c394.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 809,
+   "file": "11-497-809.1bcdf1ecf16f.pmtiles",
+   "bytes": 125579,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-809.1bcdf1ecf16f.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 810,
+   "file": "11-497-810.f94da452e15e.pmtiles",
+   "bytes": 479920,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-810.f94da452e15e.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 811,
+   "file": "11-497-811.8592edf52cce.pmtiles",
+   "bytes": 166041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-811.8592edf52cce.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 812,
+   "file": "11-497-812.25ea4ff9d36a.pmtiles",
+   "bytes": 465369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-812.25ea4ff9d36a.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 813,
+   "file": "11-497-813.ae542bbdfc28.pmtiles",
+   "bytes": 507869,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-813.ae542bbdfc28.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 814,
+   "file": "11-497-814.39bb3898c923.pmtiles",
+   "bytes": 364713,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-814.39bb3898c923.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 815,
+   "file": "11-497-815.8ff4affd67f3.pmtiles",
+   "bytes": 147977,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-815.8ff4affd67f3.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 816,
+   "file": "11-497-816.15caa46a98b2.pmtiles",
+   "bytes": 94074,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-816.15caa46a98b2.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 817,
+   "file": "11-497-817.bc467166e099.pmtiles",
+   "bytes": 71252,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-817.bc467166e099.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 818,
+   "file": "11-497-818.7c28dd957afc.pmtiles",
+   "bytes": 72774,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-818.7c28dd957afc.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 819,
+   "file": "11-497-819.c812e81c8f89.pmtiles",
+   "bytes": 99187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-819.c812e81c8f89.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 820,
+   "file": "11-497-820.8793d8de317e.pmtiles",
+   "bytes": 94673,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-820.8793d8de317e.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 821,
+   "file": "11-497-821.02d5ff1d354d.pmtiles",
+   "bytes": 75479,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-821.02d5ff1d354d.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 822,
+   "file": "11-497-822.062a7481f4ad.pmtiles",
+   "bytes": 78987,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-822.062a7481f4ad.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 823,
+   "file": "11-497-823.525e0fdef7aa.pmtiles",
+   "bytes": 126112,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-823.525e0fdef7aa.pmtiles"
+  },
+  {
+   "x": 497,
+   "y": 824,
+   "file": "11-497-824.63d36c830cba.pmtiles",
+   "bytes": 55911,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-497-824.63d36c830cba.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 800,
+   "file": "11-498-800.58620eb1ce41.pmtiles",
+   "bytes": 52066,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-800.58620eb1ce41.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 801,
+   "file": "11-498-801.c46d53f03140.pmtiles",
+   "bytes": 351873,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-801.c46d53f03140.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 802,
+   "file": "11-498-802.a8451c89b508.pmtiles",
+   "bytes": 206387,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-802.a8451c89b508.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 803,
+   "file": "11-498-803.3f6268ee8fba.pmtiles",
+   "bytes": 110790,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-803.3f6268ee8fba.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 804,
+   "file": "11-498-804.324e6fa36ca4.pmtiles",
+   "bytes": 105008,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-804.324e6fa36ca4.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 805,
+   "file": "11-498-805.05b6f01923e9.pmtiles",
+   "bytes": 89770,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-805.05b6f01923e9.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 806,
+   "file": "11-498-806.e46c004121bb.pmtiles",
+   "bytes": 141885,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-806.e46c004121bb.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 807,
+   "file": "11-498-807.e98edc82f99b.pmtiles",
+   "bytes": 182648,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-807.e98edc82f99b.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 808,
+   "file": "11-498-808.dd0b3b4e6555.pmtiles",
+   "bytes": 132445,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-808.dd0b3b4e6555.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 809,
+   "file": "11-498-809.1d896b765dc9.pmtiles",
+   "bytes": 219242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-809.1d896b765dc9.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 810,
+   "file": "11-498-810.38815eecccde.pmtiles",
+   "bytes": 631471,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-810.38815eecccde.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 811,
+   "file": "11-498-811.43a23384a9de.pmtiles",
+   "bytes": 307587,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-811.43a23384a9de.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 812,
+   "file": "11-498-812.42afa8f56e4c.pmtiles",
+   "bytes": 1865150,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-812.42afa8f56e4c.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 813,
+   "file": "11-498-813.d9538ff5ba8d.pmtiles",
+   "bytes": 1078334,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-813.d9538ff5ba8d.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 814,
+   "file": "11-498-814.44e046dfb5c2.pmtiles",
+   "bytes": 211312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-814.44e046dfb5c2.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 815,
+   "file": "11-498-815.e6746e947279.pmtiles",
+   "bytes": 132011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-815.e6746e947279.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 816,
+   "file": "11-498-816.e6533216fa1b.pmtiles",
+   "bytes": 133439,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-816.e6533216fa1b.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 817,
+   "file": "11-498-817.0eda577590e6.pmtiles",
+   "bytes": 67519,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-817.0eda577590e6.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 818,
+   "file": "11-498-818.f429555f1b0b.pmtiles",
+   "bytes": 74056,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-818.f429555f1b0b.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 819,
+   "file": "11-498-819.28a6ad1e106e.pmtiles",
+   "bytes": 176997,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-819.28a6ad1e106e.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 820,
+   "file": "11-498-820.7c104b782a1f.pmtiles",
+   "bytes": 71911,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-820.7c104b782a1f.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 821,
+   "file": "11-498-821.a235f1bbad72.pmtiles",
+   "bytes": 78669,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-821.a235f1bbad72.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 822,
+   "file": "11-498-822.cbf58a52b38c.pmtiles",
+   "bytes": 61435,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-822.cbf58a52b38c.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 823,
+   "file": "11-498-823.1163d83f31e2.pmtiles",
+   "bytes": 82331,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-823.1163d83f31e2.pmtiles"
+  },
+  {
+   "x": 498,
+   "y": 824,
+   "file": "11-498-824.896d866a1f7a.pmtiles",
+   "bytes": 66165,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-498-824.896d866a1f7a.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 800,
+   "file": "11-499-800.e876a6e5887c.pmtiles",
+   "bytes": 51809,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-800.e876a6e5887c.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 801,
+   "file": "11-499-801.f19c5d5265b3.pmtiles",
+   "bytes": 210601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-801.f19c5d5265b3.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 802,
+   "file": "11-499-802.16ca8483e5a2.pmtiles",
+   "bytes": 210800,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-802.16ca8483e5a2.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 803,
+   "file": "11-499-803.8717c40083d6.pmtiles",
+   "bytes": 150765,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-803.8717c40083d6.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 804,
+   "file": "11-499-804.0592599ce24e.pmtiles",
+   "bytes": 138495,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-804.0592599ce24e.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 805,
+   "file": "11-499-805.e6779d8bd90b.pmtiles",
+   "bytes": 97441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-805.e6779d8bd90b.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 806,
+   "file": "11-499-806.5a763066d3f3.pmtiles",
+   "bytes": 129881,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-806.5a763066d3f3.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 807,
+   "file": "11-499-807.d2172dec2926.pmtiles",
+   "bytes": 187312,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-807.d2172dec2926.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 808,
+   "file": "11-499-808.8d4d89d843b3.pmtiles",
+   "bytes": 111279,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-808.8d4d89d843b3.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 809,
+   "file": "11-499-809.334ac4144d09.pmtiles",
+   "bytes": 115933,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-809.334ac4144d09.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 810,
+   "file": "11-499-810.5bc35d03d772.pmtiles",
+   "bytes": 197219,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-810.5bc35d03d772.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 811,
+   "file": "11-499-811.cfc2e95797a6.pmtiles",
+   "bytes": 314343,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-811.cfc2e95797a6.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 812,
+   "file": "11-499-812.e63aaf107b77.pmtiles",
+   "bytes": 1495626,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-812.e63aaf107b77.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 813,
+   "file": "11-499-813.c0f7bf1db850.pmtiles",
+   "bytes": 488135,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-813.c0f7bf1db850.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 814,
+   "file": "11-499-814.e7d8958f4996.pmtiles",
+   "bytes": 137974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-814.e7d8958f4996.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 815,
+   "file": "11-499-815.9ab9fb37da0e.pmtiles",
+   "bytes": 156757,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-815.9ab9fb37da0e.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 816,
+   "file": "11-499-816.f2dce1af5ea3.pmtiles",
+   "bytes": 119322,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-816.f2dce1af5ea3.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 817,
+   "file": "11-499-817.4ee6c9b568cb.pmtiles",
+   "bytes": 83157,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-817.4ee6c9b568cb.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 818,
+   "file": "11-499-818.6da9e8ab7a15.pmtiles",
+   "bytes": 79886,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-818.6da9e8ab7a15.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 819,
+   "file": "11-499-819.3aa2173009c3.pmtiles",
+   "bytes": 69384,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-819.3aa2173009c3.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 820,
+   "file": "11-499-820.fbbb90db7890.pmtiles",
+   "bytes": 76931,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-820.fbbb90db7890.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 821,
+   "file": "11-499-821.3264cfda415c.pmtiles",
+   "bytes": 89631,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-821.3264cfda415c.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 822,
+   "file": "11-499-822.67d6082b235c.pmtiles",
+   "bytes": 76236,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-822.67d6082b235c.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 823,
+   "file": "11-499-823.36b3a38b4173.pmtiles",
+   "bytes": 52545,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-823.36b3a38b4173.pmtiles"
+  },
+  {
+   "x": 499,
+   "y": 824,
+   "file": "11-499-824.5c644efbd170.pmtiles",
+   "bytes": 71133,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-499-824.5c644efbd170.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 800,
+   "file": "11-500-800.dc45bab640db.pmtiles",
+   "bytes": 24345,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-800.dc45bab640db.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 801,
+   "file": "11-500-801.1c28ce92641e.pmtiles",
+   "bytes": 85910,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-801.1c28ce92641e.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 802,
+   "file": "11-500-802.83a55ea836ce.pmtiles",
+   "bytes": 69404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-802.83a55ea836ce.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 803,
+   "file": "11-500-803.3c78306d0531.pmtiles",
+   "bytes": 85690,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-803.3c78306d0531.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 804,
+   "file": "11-500-804.519619344dd1.pmtiles",
+   "bytes": 114196,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-804.519619344dd1.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 805,
+   "file": "11-500-805.62760bd01e32.pmtiles",
+   "bytes": 88764,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-805.62760bd01e32.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 806,
+   "file": "11-500-806.74575ba3d92e.pmtiles",
+   "bytes": 73536,
+   "tiles": 80,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-806.74575ba3d92e.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 807,
+   "file": "11-500-807.ba2558cae857.pmtiles",
+   "bytes": 265072,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-807.ba2558cae857.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 808,
+   "file": "11-500-808.d1747d294a55.pmtiles",
+   "bytes": 98956,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-808.d1747d294a55.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 809,
+   "file": "11-500-809.5175663c228a.pmtiles",
+   "bytes": 130223,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-809.5175663c228a.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 810,
+   "file": "11-500-810.f90912a43537.pmtiles",
+   "bytes": 163006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-810.f90912a43537.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 811,
+   "file": "11-500-811.d11ea26c112a.pmtiles",
+   "bytes": 764686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-811.d11ea26c112a.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 812,
+   "file": "11-500-812.82e9ad965647.pmtiles",
+   "bytes": 302364,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-812.82e9ad965647.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 813,
+   "file": "11-500-813.826b27409455.pmtiles",
+   "bytes": 121060,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-813.826b27409455.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 814,
+   "file": "11-500-814.6ab857fc4afa.pmtiles",
+   "bytes": 104215,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-814.6ab857fc4afa.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 815,
+   "file": "11-500-815.525e45d36c29.pmtiles",
+   "bytes": 112352,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-815.525e45d36c29.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 816,
+   "file": "11-500-816.74084942f9bc.pmtiles",
+   "bytes": 567704,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-816.74084942f9bc.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 817,
+   "file": "11-500-817.9f4648210b74.pmtiles",
+   "bytes": 117923,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-817.9f4648210b74.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 818,
+   "file": "11-500-818.0341cbc6dcec.pmtiles",
+   "bytes": 64513,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-818.0341cbc6dcec.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 819,
+   "file": "11-500-819.475c1224220b.pmtiles",
+   "bytes": 68524,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-819.475c1224220b.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 820,
+   "file": "11-500-820.08b1478f78db.pmtiles",
+   "bytes": 144960,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-820.08b1478f78db.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 821,
+   "file": "11-500-821.ad3fee373b00.pmtiles",
+   "bytes": 76508,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-821.ad3fee373b00.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 822,
+   "file": "11-500-822.b9588b50ea21.pmtiles",
+   "bytes": 73457,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-822.b9588b50ea21.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 823,
+   "file": "11-500-823.2ac6ecade8a2.pmtiles",
+   "bytes": 106620,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-823.2ac6ecade8a2.pmtiles"
+  },
+  {
+   "x": 500,
+   "y": 824,
+   "file": "11-500-824.a82493bf4cba.pmtiles",
+   "bytes": 115690,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-500-824.a82493bf4cba.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 800,
+   "file": "11-501-800.ed76ba04b8e0.pmtiles",
+   "bytes": 29571,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-800.ed76ba04b8e0.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 801,
+   "file": "11-501-801.b72ad51bf1e9.pmtiles",
+   "bytes": 100307,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-801.b72ad51bf1e9.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 802,
+   "file": "11-501-802.573ba5a2d40a.pmtiles",
+   "bytes": 125992,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-802.573ba5a2d40a.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 803,
+   "file": "11-501-803.0e72a5cab547.pmtiles",
+   "bytes": 112057,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-803.0e72a5cab547.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 804,
+   "file": "11-501-804.cc0cc563d5e0.pmtiles",
+   "bytes": 86402,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-804.cc0cc563d5e0.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 805,
+   "file": "11-501-805.511227b50d63.pmtiles",
+   "bytes": 115041,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-805.511227b50d63.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 806,
+   "file": "11-501-806.0494bf6fa74d.pmtiles",
+   "bytes": 80540,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-806.0494bf6fa74d.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 807,
+   "file": "11-501-807.9985a38806e7.pmtiles",
+   "bytes": 93863,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-807.9985a38806e7.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 808,
+   "file": "11-501-808.c574ca6a4640.pmtiles",
+   "bytes": 129837,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-808.c574ca6a4640.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 809,
+   "file": "11-501-809.3a725466c1d0.pmtiles",
+   "bytes": 280767,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-809.3a725466c1d0.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 810,
+   "file": "11-501-810.4bb568f10b55.pmtiles",
+   "bytes": 292242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-810.4bb568f10b55.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 811,
+   "file": "11-501-811.880656a83c7c.pmtiles",
+   "bytes": 125231,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-811.880656a83c7c.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 812,
+   "file": "11-501-812.5673e9fdb053.pmtiles",
+   "bytes": 179974,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-812.5673e9fdb053.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 813,
+   "file": "11-501-813.18517afd3adb.pmtiles",
+   "bytes": 79219,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-813.18517afd3adb.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 814,
+   "file": "11-501-814.f0b030c170dd.pmtiles",
+   "bytes": 67115,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-814.f0b030c170dd.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 815,
+   "file": "11-501-815.ead72c743cb8.pmtiles",
+   "bytes": 85405,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-815.ead72c743cb8.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 816,
+   "file": "11-501-816.474517ca2f5b.pmtiles",
+   "bytes": 122982,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-816.474517ca2f5b.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 817,
+   "file": "11-501-817.9abc79bd789f.pmtiles",
+   "bytes": 83838,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-817.9abc79bd789f.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 818,
+   "file": "11-501-818.bb31bb44e733.pmtiles",
+   "bytes": 124404,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-818.bb31bb44e733.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 819,
+   "file": "11-501-819.d63cc837b4ea.pmtiles",
+   "bytes": 71270,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-819.d63cc837b4ea.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 820,
+   "file": "11-501-820.ff58c7df1e6c.pmtiles",
+   "bytes": 169040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-820.ff58c7df1e6c.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 821,
+   "file": "11-501-821.aea17221ec20.pmtiles",
+   "bytes": 73818,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-821.aea17221ec20.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 822,
+   "file": "11-501-822.b23297e8ba71.pmtiles",
+   "bytes": 78080,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-822.b23297e8ba71.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 823,
+   "file": "11-501-823.6759a44441da.pmtiles",
+   "bytes": 103658,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-823.6759a44441da.pmtiles"
+  },
+  {
+   "x": 501,
+   "y": 824,
+   "file": "11-501-824.6f4743269919.pmtiles",
+   "bytes": 66580,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-501-824.6f4743269919.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 800,
+   "file": "11-502-800.b442c14e8a7e.pmtiles",
+   "bytes": 26873,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-800.b442c14e8a7e.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 801,
+   "file": "11-502-801.317e669bf012.pmtiles",
+   "bytes": 78671,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-801.317e669bf012.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 802,
+   "file": "11-502-802.438b6e6b0d62.pmtiles",
+   "bytes": 329388,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-802.438b6e6b0d62.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 803,
+   "file": "11-502-803.d0a0a647b82e.pmtiles",
+   "bytes": 292027,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-803.d0a0a647b82e.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 804,
+   "file": "11-502-804.1039cb3654bb.pmtiles",
+   "bytes": 129026,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-804.1039cb3654bb.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 805,
+   "file": "11-502-805.e9b5fda8cdaf.pmtiles",
+   "bytes": 238140,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-805.e9b5fda8cdaf.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 806,
+   "file": "11-502-806.569427a523c2.pmtiles",
+   "bytes": 120081,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-806.569427a523c2.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 807,
+   "file": "11-502-807.d04fd5c86224.pmtiles",
+   "bytes": 86196,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-807.d04fd5c86224.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 808,
+   "file": "11-502-808.804fac0281af.pmtiles",
+   "bytes": 109537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-808.804fac0281af.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 809,
+   "file": "11-502-809.f52f1c4fe70f.pmtiles",
+   "bytes": 644380,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-809.f52f1c4fe70f.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 810,
+   "file": "11-502-810.6da8c4831055.pmtiles",
+   "bytes": 197168,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-810.6da8c4831055.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 811,
+   "file": "11-502-811.46d032554c74.pmtiles",
+   "bytes": 57539,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-811.46d032554c74.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 812,
+   "file": "11-502-812.d8086a3dac0c.pmtiles",
+   "bytes": 110922,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-812.d8086a3dac0c.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 813,
+   "file": "11-502-813.c1d89e653ae0.pmtiles",
+   "bytes": 72002,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-813.c1d89e653ae0.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 814,
+   "file": "11-502-814.dc4239c675ac.pmtiles",
+   "bytes": 69681,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-814.dc4239c675ac.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 815,
+   "file": "11-502-815.c778ad1e5402.pmtiles",
+   "bytes": 70456,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-815.c778ad1e5402.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 816,
+   "file": "11-502-816.0869e8a10710.pmtiles",
+   "bytes": 64711,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-816.0869e8a10710.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 817,
+   "file": "11-502-817.4fd2e50a1181.pmtiles",
+   "bytes": 94550,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-817.4fd2e50a1181.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 818,
+   "file": "11-502-818.06215501c675.pmtiles",
+   "bytes": 65947,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-818.06215501c675.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 819,
+   "file": "11-502-819.9e032b89b0db.pmtiles",
+   "bytes": 64881,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-819.9e032b89b0db.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 820,
+   "file": "11-502-820.16c54a2949f5.pmtiles",
+   "bytes": 62502,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-820.16c54a2949f5.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 821,
+   "file": "11-502-821.ca9c9586d6b7.pmtiles",
+   "bytes": 57537,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-821.ca9c9586d6b7.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 822,
+   "file": "11-502-822.a815acb7f4ec.pmtiles",
+   "bytes": 59125,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-822.a815acb7f4ec.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 823,
+   "file": "11-502-823.b20a82a62ffe.pmtiles",
+   "bytes": 64577,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-823.b20a82a62ffe.pmtiles"
+  },
+  {
+   "x": 502,
+   "y": 824,
+   "file": "11-502-824.bca38d6b56d6.pmtiles",
+   "bytes": 55105,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-502-824.bca38d6b56d6.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 800,
+   "file": "11-503-800.f89044e5a47d.pmtiles",
+   "bytes": 173213,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-800.f89044e5a47d.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 801,
+   "file": "11-503-801.de679e1636a8.pmtiles",
+   "bytes": 404244,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-801.de679e1636a8.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 802,
+   "file": "11-503-802.8ea588b112f4.pmtiles",
+   "bytes": 463019,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-802.8ea588b112f4.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 803,
+   "file": "11-503-803.c73f1cb9875e.pmtiles",
+   "bytes": 406821,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-803.c73f1cb9875e.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 804,
+   "file": "11-503-804.7b24e1e0e1c7.pmtiles",
+   "bytes": 327230,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-804.7b24e1e0e1c7.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 805,
+   "file": "11-503-805.0e81304a1b43.pmtiles",
+   "bytes": 113824,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-805.0e81304a1b43.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 806,
+   "file": "11-503-806.696af5e9c2d8.pmtiles",
+   "bytes": 117415,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-806.696af5e9c2d8.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 807,
+   "file": "11-503-807.45f6d2aae29a.pmtiles",
+   "bytes": 67213,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-807.45f6d2aae29a.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 808,
+   "file": "11-503-808.486d80ba0908.pmtiles",
+   "bytes": 132014,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-808.486d80ba0908.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 809,
+   "file": "11-503-809.d1bfe8097c12.pmtiles",
+   "bytes": 120238,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-809.d1bfe8097c12.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 810,
+   "file": "11-503-810.210823048711.pmtiles",
+   "bytes": 103011,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-810.210823048711.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 811,
+   "file": "11-503-811.e12bf840f4fd.pmtiles",
+   "bytes": 101457,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-811.e12bf840f4fd.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 812,
+   "file": "11-503-812.46bb0e567f7d.pmtiles",
+   "bytes": 140394,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-812.46bb0e567f7d.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 813,
+   "file": "11-503-813.1d9d83337efa.pmtiles",
+   "bytes": 84741,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-813.1d9d83337efa.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 814,
+   "file": "11-503-814.74955a065c32.pmtiles",
+   "bytes": 158425,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-814.74955a065c32.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 815,
+   "file": "11-503-815.f133c68abab0.pmtiles",
+   "bytes": 59660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-815.f133c68abab0.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 816,
+   "file": "11-503-816.612469687a52.pmtiles",
+   "bytes": 59605,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-816.612469687a52.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 817,
+   "file": "11-503-817.460baa9797cc.pmtiles",
+   "bytes": 96280,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-817.460baa9797cc.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 818,
+   "file": "11-503-818.9557ef4171a3.pmtiles",
+   "bytes": 114793,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-818.9557ef4171a3.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 819,
+   "file": "11-503-819.67890c404aa4.pmtiles",
+   "bytes": 75943,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-819.67890c404aa4.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 820,
+   "file": "11-503-820.024478004e42.pmtiles",
+   "bytes": 73340,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-820.024478004e42.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 821,
+   "file": "11-503-821.6c7b08c9b188.pmtiles",
+   "bytes": 76899,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-821.6c7b08c9b188.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 822,
+   "file": "11-503-822.11ac161297b4.pmtiles",
+   "bytes": 87275,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-822.11ac161297b4.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 823,
+   "file": "11-503-823.12050dafe36f.pmtiles",
+   "bytes": 65578,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-823.12050dafe36f.pmtiles"
+  },
+  {
+   "x": 503,
+   "y": 824,
+   "file": "11-503-824.e105c7952f50.pmtiles",
+   "bytes": 59848,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-503-824.e105c7952f50.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 800,
+   "file": "11-504-800.370f05b13dff.pmtiles",
+   "bytes": 61174,
+   "tiles": 33,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-800.370f05b13dff.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 801,
+   "file": "11-504-801.d6012c287bc5.pmtiles",
+   "bytes": 387270,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-801.d6012c287bc5.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 802,
+   "file": "11-504-802.635c7f0a858c.pmtiles",
+   "bytes": 449934,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-802.635c7f0a858c.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 803,
+   "file": "11-504-803.fe011e135e54.pmtiles",
+   "bytes": 254593,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-803.fe011e135e54.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 804,
+   "file": "11-504-804.5d3f51f5a3c8.pmtiles",
+   "bytes": 191083,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-804.5d3f51f5a3c8.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 805,
+   "file": "11-504-805.126d12124095.pmtiles",
+   "bytes": 78789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-805.126d12124095.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 806,
+   "file": "11-504-806.2c42378f2c13.pmtiles",
+   "bytes": 180842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-806.2c42378f2c13.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 807,
+   "file": "11-504-807.6422d0a29299.pmtiles",
+   "bytes": 119289,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-807.6422d0a29299.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 808,
+   "file": "11-504-808.6589216379a7.pmtiles",
+   "bytes": 77396,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-808.6589216379a7.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 809,
+   "file": "11-504-809.30e8b6792122.pmtiles",
+   "bytes": 98122,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-809.30e8b6792122.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 810,
+   "file": "11-504-810.5d1e9e2ce357.pmtiles",
+   "bytes": 76203,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-810.5d1e9e2ce357.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 811,
+   "file": "11-504-811.83887d39f112.pmtiles",
+   "bytes": 76031,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-811.83887d39f112.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 812,
+   "file": "11-504-812.e8e9f05f12af.pmtiles",
+   "bytes": 87382,
+   "tiles": 79,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-812.e8e9f05f12af.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 813,
+   "file": "11-504-813.38cccb01e7bb.pmtiles",
+   "bytes": 110158,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-813.38cccb01e7bb.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 814,
+   "file": "11-504-814.4d71d323893f.pmtiles",
+   "bytes": 78876,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-814.4d71d323893f.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 815,
+   "file": "11-504-815.f17b3e7cfdfc.pmtiles",
+   "bytes": 69728,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-815.f17b3e7cfdfc.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 816,
+   "file": "11-504-816.68271ff04680.pmtiles",
+   "bytes": 89842,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-816.68271ff04680.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 817,
+   "file": "11-504-817.ea7bbd5ff199.pmtiles",
+   "bytes": 107599,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-817.ea7bbd5ff199.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 818,
+   "file": "11-504-818.b9995abdfaab.pmtiles",
+   "bytes": 89615,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-818.b9995abdfaab.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 819,
+   "file": "11-504-819.440cd00e3157.pmtiles",
+   "bytes": 60565,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-819.440cd00e3157.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 820,
+   "file": "11-504-820.546c73981800.pmtiles",
+   "bytes": 115657,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-820.546c73981800.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 821,
+   "file": "11-504-821.2d1c251f12db.pmtiles",
+   "bytes": 105044,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-821.2d1c251f12db.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 822,
+   "file": "11-504-822.7d3f2e676eee.pmtiles",
+   "bytes": 115043,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-822.7d3f2e676eee.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 823,
+   "file": "11-504-823.8d18f44042c5.pmtiles",
+   "bytes": 68263,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-823.8d18f44042c5.pmtiles"
+  },
+  {
+   "x": 504,
+   "y": 824,
+   "file": "11-504-824.29aa3d8dbda0.pmtiles",
+   "bytes": 91239,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-504-824.29aa3d8dbda0.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 800,
+   "file": "11-505-800.746f7203bea5.pmtiles",
+   "bytes": 23077,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-800.746f7203bea5.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 801,
+   "file": "11-505-801.81e97d114562.pmtiles",
+   "bytes": 77585,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-801.81e97d114562.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 802,
+   "file": "11-505-802.74f5313b9c3d.pmtiles",
+   "bytes": 127047,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-802.74f5313b9c3d.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 803,
+   "file": "11-505-803.b2038c6f6219.pmtiles",
+   "bytes": 149953,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-803.b2038c6f6219.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 804,
+   "file": "11-505-804.03b31e7db80d.pmtiles",
+   "bytes": 72643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-804.03b31e7db80d.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 805,
+   "file": "11-505-805.ae3b71b17df8.pmtiles",
+   "bytes": 69181,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-805.ae3b71b17df8.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 806,
+   "file": "11-505-806.741079d31d11.pmtiles",
+   "bytes": 106347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-806.741079d31d11.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 807,
+   "file": "11-505-807.c7f3ac87cff0.pmtiles",
+   "bytes": 72629,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-807.c7f3ac87cff0.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 808,
+   "file": "11-505-808.c5405640e30b.pmtiles",
+   "bytes": 63643,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-808.c5405640e30b.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 809,
+   "file": "11-505-809.be3e55c17be5.pmtiles",
+   "bytes": 81852,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-809.be3e55c17be5.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 810,
+   "file": "11-505-810.20481a117fae.pmtiles",
+   "bytes": 65281,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-810.20481a117fae.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 811,
+   "file": "11-505-811.b75c067801c8.pmtiles",
+   "bytes": 175962,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-811.b75c067801c8.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 812,
+   "file": "11-505-812.a5ac2408965e.pmtiles",
+   "bytes": 88777,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-812.a5ac2408965e.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 813,
+   "file": "11-505-813.8cabcf0b2a0b.pmtiles",
+   "bytes": 91789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-813.8cabcf0b2a0b.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 814,
+   "file": "11-505-814.3dc0fe2d509a.pmtiles",
+   "bytes": 70959,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-814.3dc0fe2d509a.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 815,
+   "file": "11-505-815.e802edeb3a64.pmtiles",
+   "bytes": 91187,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-815.e802edeb3a64.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 816,
+   "file": "11-505-816.d9b7613653e2.pmtiles",
+   "bytes": 69403,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-816.d9b7613653e2.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 817,
+   "file": "11-505-817.132e2b8696be.pmtiles",
+   "bytes": 73436,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-817.132e2b8696be.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 818,
+   "file": "11-505-818.5a2166c3ce38.pmtiles",
+   "bytes": 64992,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-818.5a2166c3ce38.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 819,
+   "file": "11-505-819.376cee723e86.pmtiles",
+   "bytes": 51681,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-819.376cee723e86.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 820,
+   "file": "11-505-820.d0eaf58b81a3.pmtiles",
+   "bytes": 127026,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-820.d0eaf58b81a3.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 821,
+   "file": "11-505-821.47248943deb3.pmtiles",
+   "bytes": 50124,
+   "tiles": 63,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-821.47248943deb3.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 822,
+   "file": "11-505-822.2217f72d4b3a.pmtiles",
+   "bytes": 66484,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-822.2217f72d4b3a.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 823,
+   "file": "11-505-823.dff4fbf49b9d.pmtiles",
+   "bytes": 66424,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-823.dff4fbf49b9d.pmtiles"
+  },
+  {
+   "x": 505,
+   "y": 824,
+   "file": "11-505-824.8d04142c0c29.pmtiles",
+   "bytes": 52154,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-505-824.8d04142c0c29.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 800,
+   "file": "11-506-800.93a7ad2d67be.pmtiles",
+   "bytes": 34201,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-800.93a7ad2d67be.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 801,
+   "file": "11-506-801.af98ade1fccb.pmtiles",
+   "bytes": 92929,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-801.af98ade1fccb.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 802,
+   "file": "11-506-802.3525d52353e6.pmtiles",
+   "bytes": 187227,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-802.3525d52353e6.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 803,
+   "file": "11-506-803.7e03200d50aa.pmtiles",
+   "bytes": 160762,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-803.7e03200d50aa.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 804,
+   "file": "11-506-804.7ce519e5a6b3.pmtiles",
+   "bytes": 100811,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-804.7ce519e5a6b3.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 805,
+   "file": "11-506-805.23f40735de13.pmtiles",
+   "bytes": 82687,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-805.23f40735de13.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 806,
+   "file": "11-506-806.49b649e2267d.pmtiles",
+   "bytes": 89250,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-806.49b649e2267d.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 807,
+   "file": "11-506-807.264f60172173.pmtiles",
+   "bytes": 73478,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-807.264f60172173.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 808,
+   "file": "11-506-808.6df36dfb11f7.pmtiles",
+   "bytes": 69276,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-808.6df36dfb11f7.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 809,
+   "file": "11-506-809.4602ca5464a3.pmtiles",
+   "bytes": 85525,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-809.4602ca5464a3.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 810,
+   "file": "11-506-810.94a946c24ded.pmtiles",
+   "bytes": 59412,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-810.94a946c24ded.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 811,
+   "file": "11-506-811.3f9a239b9bcb.pmtiles",
+   "bytes": 122628,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-811.3f9a239b9bcb.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 812,
+   "file": "11-506-812.db216225fc1f.pmtiles",
+   "bytes": 89940,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-812.db216225fc1f.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 813,
+   "file": "11-506-813.08b0b88a51f2.pmtiles",
+   "bytes": 76010,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-813.08b0b88a51f2.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 814,
+   "file": "11-506-814.ad4e8adc1aa6.pmtiles",
+   "bytes": 101659,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-814.ad4e8adc1aa6.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 815,
+   "file": "11-506-815.c9fd82e1c913.pmtiles",
+   "bytes": 53576,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-815.c9fd82e1c913.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 816,
+   "file": "11-506-816.099d24abd15e.pmtiles",
+   "bytes": 60981,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-816.099d24abd15e.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 817,
+   "file": "11-506-817.76fbeb8a08d7.pmtiles",
+   "bytes": 77694,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-817.76fbeb8a08d7.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 818,
+   "file": "11-506-818.c9cd16970ac6.pmtiles",
+   "bytes": 29494,
+   "tiles": 53,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-818.c9cd16970ac6.pmtiles"
+  },
+  {
+   "x": 506,
+   "y": 819,
+   "file": "11-506-819.e62df7002de4.pmtiles",
+   "bytes": 23900,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-506-819.e62df7002de4.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 800,
+   "file": "11-507-800.3f701866a026.pmtiles",
+   "bytes": 34970,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-800.3f701866a026.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 801,
+   "file": "11-507-801.f495c6549fb7.pmtiles",
+   "bytes": 86625,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-801.f495c6549fb7.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 802,
+   "file": "11-507-802.29436ec826f3.pmtiles",
+   "bytes": 105712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-802.29436ec826f3.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 803,
+   "file": "11-507-803.6cbc97b75dd0.pmtiles",
+   "bytes": 106456,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-803.6cbc97b75dd0.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 804,
+   "file": "11-507-804.18ebce099f94.pmtiles",
+   "bytes": 193806,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-804.18ebce099f94.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 805,
+   "file": "11-507-805.fc9561f41496.pmtiles",
+   "bytes": 369428,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-805.fc9561f41496.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 806,
+   "file": "11-507-806.27b8fb70912d.pmtiles",
+   "bytes": 69040,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-806.27b8fb70912d.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 807,
+   "file": "11-507-807.28686ade8fad.pmtiles",
+   "bytes": 85986,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-807.28686ade8fad.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 808,
+   "file": "11-507-808.27a904e82397.pmtiles",
+   "bytes": 98256,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-808.27a904e82397.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 809,
+   "file": "11-507-809.79f1be82f56f.pmtiles",
+   "bytes": 209288,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-809.79f1be82f56f.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 810,
+   "file": "11-507-810.b38ed85aa159.pmtiles",
+   "bytes": 166441,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-810.b38ed85aa159.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 811,
+   "file": "11-507-811.fd0961dbea6d.pmtiles",
+   "bytes": 186156,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-811.fd0961dbea6d.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 812,
+   "file": "11-507-812.57b0c4e2d01e.pmtiles",
+   "bytes": 119729,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-812.57b0c4e2d01e.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 813,
+   "file": "11-507-813.2bea97c44fbf.pmtiles",
+   "bytes": 105052,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-813.2bea97c44fbf.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 814,
+   "file": "11-507-814.b902680cbe63.pmtiles",
+   "bytes": 92907,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-814.b902680cbe63.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 815,
+   "file": "11-507-815.5c52950d1b4d.pmtiles",
+   "bytes": 105909,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-815.5c52950d1b4d.pmtiles"
+  },
+  {
+   "x": 507,
+   "y": 816,
+   "file": "11-507-816.1a7b1fd69c02.pmtiles",
+   "bytes": 52668,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-507-816.1a7b1fd69c02.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 800,
+   "file": "11-508-800.441aee0b48f3.pmtiles",
+   "bytes": 35290,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-800.441aee0b48f3.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 801,
+   "file": "11-508-801.7da659535bc9.pmtiles",
+   "bytes": 116988,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-801.7da659535bc9.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 802,
+   "file": "11-508-802.db107af25fed.pmtiles",
+   "bytes": 94444,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-802.db107af25fed.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 803,
+   "file": "11-508-803.bef80fc84b8a.pmtiles",
+   "bytes": 149347,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-803.bef80fc84b8a.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 804,
+   "file": "11-508-804.c0a82eeb2e6e.pmtiles",
+   "bytes": 228277,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-804.c0a82eeb2e6e.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 805,
+   "file": "11-508-805.e5e6f2d84883.pmtiles",
+   "bytes": 599660,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-805.e5e6f2d84883.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 806,
+   "file": "11-508-806.d675ab42947c.pmtiles",
+   "bytes": 126653,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-806.d675ab42947c.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 807,
+   "file": "11-508-807.48ae1dfec7e4.pmtiles",
+   "bytes": 92651,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-807.48ae1dfec7e4.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 808,
+   "file": "11-508-808.062d0b390d6e.pmtiles",
+   "bytes": 160177,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-808.062d0b390d6e.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 809,
+   "file": "11-508-809.390e296bc664.pmtiles",
+   "bytes": 190120,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-809.390e296bc664.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 810,
+   "file": "11-508-810.1438dc91050c.pmtiles",
+   "bytes": 154844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-810.1438dc91050c.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 811,
+   "file": "11-508-811.949741e8c8d1.pmtiles",
+   "bytes": 114147,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-811.949741e8c8d1.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 812,
+   "file": "11-508-812.25a444dd207d.pmtiles",
+   "bytes": 98083,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-812.25a444dd207d.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 813,
+   "file": "11-508-813.9fad19897527.pmtiles",
+   "bytes": 151372,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-813.9fad19897527.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 814,
+   "file": "11-508-814.fc87c0244af7.pmtiles",
+   "bytes": 279166,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-814.fc87c0244af7.pmtiles"
+  },
+  {
+   "x": 508,
+   "y": 815,
+   "file": "11-508-815.685cbcbc3cb2.pmtiles",
+   "bytes": 56423,
+   "tiles": 59,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-508-815.685cbcbc3cb2.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 800,
+   "file": "11-509-800.94504bbdce35.pmtiles",
+   "bytes": 24988,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-800.94504bbdce35.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 801,
+   "file": "11-509-801.8f8329de7a5f.pmtiles",
+   "bytes": 68357,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-801.8f8329de7a5f.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 802,
+   "file": "11-509-802.3b8a61ac97a1.pmtiles",
+   "bytes": 135576,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-802.3b8a61ac97a1.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 803,
+   "file": "11-509-803.9110dc9aa650.pmtiles",
+   "bytes": 263310,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-803.9110dc9aa650.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 804,
+   "file": "11-509-804.7395fb80a7d8.pmtiles",
+   "bytes": 135844,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-804.7395fb80a7d8.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 805,
+   "file": "11-509-805.70b642845975.pmtiles",
+   "bytes": 127273,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-805.70b642845975.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 806,
+   "file": "11-509-806.774ca9bb519b.pmtiles",
+   "bytes": 124616,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-806.774ca9bb519b.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 807,
+   "file": "11-509-807.78d646e61bf5.pmtiles",
+   "bytes": 203789,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-807.78d646e61bf5.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 808,
+   "file": "11-509-808.506428a9a22d.pmtiles",
+   "bytes": 92113,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-808.506428a9a22d.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 809,
+   "file": "11-509-809.74540b45d404.pmtiles",
+   "bytes": 122236,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-809.74540b45d404.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 810,
+   "file": "11-509-810.1a6804b57b22.pmtiles",
+   "bytes": 110207,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-810.1a6804b57b22.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 811,
+   "file": "11-509-811.5f8b58c8b15a.pmtiles",
+   "bytes": 117534,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-811.5f8b58c8b15a.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 812,
+   "file": "11-509-812.b185506bb977.pmtiles",
+   "bytes": 77807,
+   "tiles": 75,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-812.b185506bb977.pmtiles"
+  },
+  {
+   "x": 509,
+   "y": 813,
+   "file": "11-509-813.a3282cdb2f03.pmtiles",
+   "bytes": 27262,
+   "tiles": 39,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-509-813.a3282cdb2f03.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 800,
+   "file": "11-510-800.62a442067d3e.pmtiles",
+   "bytes": 29509,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-800.62a442067d3e.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 801,
+   "file": "11-510-801.ac662475c2fe.pmtiles",
+   "bytes": 115881,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-801.ac662475c2fe.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 802,
+   "file": "11-510-802.39b8d1ccc40e.pmtiles",
+   "bytes": 97143,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-802.39b8d1ccc40e.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 803,
+   "file": "11-510-803.4493ec64d9e0.pmtiles",
+   "bytes": 73026,
+   "tiles": 72,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-803.4493ec64d9e0.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 804,
+   "file": "11-510-804.176239457525.pmtiles",
+   "bytes": 141748,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-804.176239457525.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 805,
+   "file": "11-510-805.7228d7da3fd4.pmtiles",
+   "bytes": 124919,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-805.7228d7da3fd4.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 806,
+   "file": "11-510-806.a028d2ab73a1.pmtiles",
+   "bytes": 158366,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-806.a028d2ab73a1.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 807,
+   "file": "11-510-807.31116894a22d.pmtiles",
+   "bytes": 141898,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-807.31116894a22d.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 808,
+   "file": "11-510-808.2357ef5bb0d3.pmtiles",
+   "bytes": 134211,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-808.2357ef5bb0d3.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 809,
+   "file": "11-510-809.9202501da775.pmtiles",
+   "bytes": 227257,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-809.9202501da775.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 810,
+   "file": "11-510-810.8d2b48859567.pmtiles",
+   "bytes": 249688,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-810.8d2b48859567.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 811,
+   "file": "11-510-811.aef96914f3b2.pmtiles",
+   "bytes": 87281,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-811.aef96914f3b2.pmtiles"
+  },
+  {
+   "x": 510,
+   "y": 812,
+   "file": "11-510-812.53f1594521b3.pmtiles",
+   "bytes": 33534,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-510-812.53f1594521b3.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 801,
+   "file": "11-511-801.f030613e6d9d.pmtiles",
+   "bytes": 66980,
+   "tiles": 71,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-801.f030613e6d9d.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 802,
+   "file": "11-511-802.2b3d22703fd3.pmtiles",
+   "bytes": 52377,
+   "tiles": 56,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-802.2b3d22703fd3.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 804,
+   "file": "11-511-804.4e7e9de374b1.pmtiles",
+   "bytes": 149146,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-804.4e7e9de374b1.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 805,
+   "file": "11-511-805.a6ef81095ba3.pmtiles",
+   "bytes": 188295,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-805.a6ef81095ba3.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 806,
+   "file": "11-511-806.e28f91a71805.pmtiles",
+   "bytes": 145772,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-806.e28f91a71805.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 807,
+   "file": "11-511-807.83d8edc33624.pmtiles",
+   "bytes": 183780,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-807.83d8edc33624.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 808,
+   "file": "11-511-808.36fd502f90ee.pmtiles",
+   "bytes": 82982,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-808.36fd502f90ee.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 809,
+   "file": "11-511-809.fbbb8478da5d.pmtiles",
+   "bytes": 81389,
+   "tiles": 67,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-809.fbbb8478da5d.pmtiles"
+  },
+  {
+   "x": 511,
+   "y": 810,
+   "file": "11-511-810.24f0898f234e.pmtiles",
+   "bytes": 179522,
+   "tiles": 40,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-511-810.24f0898f234e.pmtiles"
+  },
+  {
+   "x": 512,
+   "y": 804,
+   "file": "11-512-804.cb2ae100fcf8.pmtiles",
+   "bytes": 571587,
+   "tiles": 82,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-512-804.cb2ae100fcf8.pmtiles"
+  },
+  {
+   "x": 512,
+   "y": 805,
+   "file": "11-512-805.1d6215d42d5c.pmtiles",
+   "bytes": 157623,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-512-805.1d6215d42d5c.pmtiles"
+  },
+  {
+   "x": 512,
+   "y": 806,
+   "file": "11-512-806.7f646235157f.pmtiles",
+   "bytes": 250073,
+   "tiles": 83,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-512-806.7f646235157f.pmtiles"
+  },
+  {
+   "x": 512,
+   "y": 807,
+   "file": "11-512-807.2f4644121015.pmtiles",
+   "bytes": 63695,
+   "tiles": 50,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-512-807.2f4644121015.pmtiles"
+  },
+  {
+   "x": 513,
+   "y": 804,
+   "file": "11-513-804.1b3f5cd51c73.pmtiles",
+   "bytes": 211209,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-513-804.1b3f5cd51c73.pmtiles"
+  },
+  {
+   "x": 513,
+   "y": 805,
+   "file": "11-513-805.3a15552f8fad.pmtiles",
+   "bytes": 123324,
+   "tiles": 78,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-us-arkansas-2026-10-10/11-513-805.3a15552f8fad.pmtiles"
+  }
+ ]
+}
