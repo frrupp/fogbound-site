@@ -68,8 +68,10 @@ everywhere without a region.</p>
 <p>Once downloaded, a region is stored on your phone and answering "which
 neighbourhood am I in?" needs no network request at all.</p>
 <p>There is no analytics service, no advertising, no crash reporter, no tracking
-of any kind, and no third-party code that phones home. The app's iOS privacy
-manifest declares no collected data types and no tracking, and that is accurate.</p>
+of any kind, and no third-party code that phones home. On iOS the app's privacy
+manifest declares no collected data types and no tracking, and that is accurate.
+On Android the app switches off Android's automatic backup, so your history is
+not copied to your Google account either.</p>
 
 <h2>Location, and why the app asks for background access</h2>
 <p>The app asks for location access <strong>while in use</strong> and,
@@ -79,13 +81,17 @@ could only see your location while it was open on screen, you would have to hold
 your phone in front of you for the whole walk, and everything else would be
 missed. Background access is what lets the map fill in while the app is in your
 pocket.</p>
+<p>On Android the same choice is called <strong>Allow all the time</strong>, and
+whenever the app is recording, Android shows a notification saying so.</p>
 <p>You can decline it, or grant only "while in use", and the app still works — it
-simply records less. You can change or revoke this at any time in iOS Settings.</p>
+simply records less. You can change or revoke this at any time in your phone's
+settings: on iOS under Settings › Fogbound › Location, on Android under
+Settings › Apps › Fogbound › Permissions › Location.</p>
 
 <h2>When you choose to share something</h2>
 <p>The app has two share buttons. Both do something only when you tap them, and
-both hand the file to the iOS share sheet — <strong>you</strong> choose where it
-goes.</p>
+both hand the file to your phone's share sheet — <strong>you</strong> choose
+where it goes.</p>
 <ul>
   <li><strong>Export history</strong> produces a file containing your complete
     recorded history, including raw positions. This exists so you can move your
@@ -98,20 +104,30 @@ goes.</p>
 <p>Neither is ever sent automatically, and neither reaches the developer unless
 you send it.</p>
 
-<h2>While the app is in TestFlight</h2>
-<p>During beta testing, Apple provides the developer with:</p>
+<h2>While the app is in testing</h2>
+<p>On iPhone, testing runs through Apple's TestFlight, and Apple provides the
+developer with:</p>
 <ul>
   <li>the <strong>email address</strong> you used to accept the TestFlight
     invitation;</li>
   <li><strong>crash reports</strong>, and any feedback or screenshots you choose
     to submit through TestFlight.</li>
 </ul>
-<p>This is Apple's process rather than the app's, and it is covered by Apple's
-privacy policy as well as this one. The email address is used only to manage
-beta access and is not added to any mailing list.</p>
+<p>On Android, testing runs through Google Play's testing tracks:</p>
+<ul>
+  <li>the developer enters the <strong>email address</strong> of the Google
+    account you test with, to give it access;</li>
+  <li>Google provides <strong>crash and stability reports</strong> from phones
+    whose owners have chosen to share usage and diagnostics data with Google,
+    and any feedback you leave on the app's Play Store page.</li>
+</ul>
+<p>Both are Apple's and Google's processes rather than the app's, and they are
+covered by those companies' privacy policies as well as this one. The email
+address is used only to manage test access and is not added to any mailing
+list.</p>
 
 <h2>Deleting your data</h2>
-<p>Delete the app. iOS removes its entire storage container with it, and the
+<p>Delete the app. iOS and Android both remove its storage with it, and the
 recorded history is gone from the device. There is no copy anywhere else to
 delete, because no copy was ever made.</p>
 
