@@ -68,9 +68,13 @@ everywhere without a region.</p>
 <p>Once downloaded, a region is stored on your phone and answering "which
 neighbourhood am I in?" needs no network request at all.</p>
 <p>There is no analytics service, no advertising, no crash reporter, no tracking
-of any kind, and no third-party code that phones home. On iOS the app's privacy
-manifest declares no collected data types and no tracking, and that is accurate.
-On Android the app switches off Android's automatic backup, so your history is
+of any kind, and no third-party code that phones home.</p>
+<p>Because the automatic region fetch tells the file host which region you are
+in without you choosing it, the app's store listings declare one kind of data
+as collected: <strong>approximate location</strong>, for app functionality, not
+linked to you and not used for tracking. The iOS privacy manifest says the same.
+Your precise position and your recorded history are not collected at all.</p>
+<p>On Android the app switches off Android's automatic backup, so your history is
 not copied to your Google account either.</p>
 
 <h2>Location, and why the app asks for background access</h2>
