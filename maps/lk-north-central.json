@@ -1,0 +1,589 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "lk-north-central",
+ "source": "lk.pmtiles",
+ "builtAt": "2026-11-08T13:05:15.273Z",
+ "publishedAt": "2026-11-08T13:05:35.203Z",
+ "host": "github",
+ "releases": [
+  "maps-lk-north-central-2026-11-08"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  79.9523,
+  7.65124,
+  81.34327,
+  8.92022
+ ],
+ "overview": {
+  "file": "overview.0d4b9d0e7719.pmtiles",
+  "bytes": 1356011,
+  "tiles": 47,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/overview.0d4b9d0e7719.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1478,
+   "y": 973,
+   "file": "11-1478-973.5a41fb46e04f.pmtiles",
+   "bytes": 77466,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-973.5a41fb46e04f.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 974,
+   "file": "11-1478-974.e10ac047c06d.pmtiles",
+   "bytes": 40434,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-974.e10ac047c06d.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 975,
+   "file": "11-1478-975.d00c0e154451.pmtiles",
+   "bytes": 27278,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-975.d00c0e154451.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 977,
+   "file": "11-1478-977.371fc6c71ce8.pmtiles",
+   "bytes": 41524,
+   "tiles": 19,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-977.371fc6c71ce8.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 978,
+   "file": "11-1478-978.ada0830aad0e.pmtiles",
+   "bytes": 115580,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-978.ada0830aad0e.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 979,
+   "file": "11-1478-979.3a15b3adf486.pmtiles",
+   "bytes": 145020,
+   "tiles": 23,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-979.3a15b3adf486.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 980,
+   "file": "11-1478-980.1fe3fb44e625.pmtiles",
+   "bytes": 75857,
+   "tiles": 10,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1478-980.1fe3fb44e625.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 973,
+   "file": "11-1479-973.37692ac82a43.pmtiles",
+   "bytes": 173987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-973.37692ac82a43.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 974,
+   "file": "11-1479-974.3a7755c21ea8.pmtiles",
+   "bytes": 43473,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-974.3a7755c21ea8.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 975,
+   "file": "11-1479-975.2eaee81851e5.pmtiles",
+   "bytes": 85530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-975.2eaee81851e5.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 976,
+   "file": "11-1479-976.8378e561d327.pmtiles",
+   "bytes": 95009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-976.8378e561d327.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 977,
+   "file": "11-1479-977.7ea9134efee7.pmtiles",
+   "bytes": 437952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-977.7ea9134efee7.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 978,
+   "file": "11-1479-978.e192c51b7840.pmtiles",
+   "bytes": 601709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-978.e192c51b7840.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 979,
+   "file": "11-1479-979.0b51bd01eae4.pmtiles",
+   "bytes": 733686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-979.0b51bd01eae4.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 980,
+   "file": "11-1479-980.174020bb67c9.pmtiles",
+   "bytes": 364666,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1479-980.174020bb67c9.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 973,
+   "file": "11-1480-973.d05da7c0fe0f.pmtiles",
+   "bytes": 114435,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-973.d05da7c0fe0f.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 974,
+   "file": "11-1480-974.8d6d38da19e8.pmtiles",
+   "bytes": 242124,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-974.8d6d38da19e8.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 975,
+   "file": "11-1480-975.3970ca6bd112.pmtiles",
+   "bytes": 167369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-975.3970ca6bd112.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 976,
+   "file": "11-1480-976.cefef4a7aad7.pmtiles",
+   "bytes": 219990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-976.cefef4a7aad7.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 977,
+   "file": "11-1480-977.891c1184fa5a.pmtiles",
+   "bytes": 646822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-977.891c1184fa5a.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 978,
+   "file": "11-1480-978.53c7f576f2d1.pmtiles",
+   "bytes": 1742127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-978.53c7f576f2d1.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 979,
+   "file": "11-1480-979.b0845f4cab07.pmtiles",
+   "bytes": 840283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-979.b0845f4cab07.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 980,
+   "file": "11-1480-980.8b0fceccc710.pmtiles",
+   "bytes": 403073,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1480-980.8b0fceccc710.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 973,
+   "file": "11-1481-973.8671aa4bb02e.pmtiles",
+   "bytes": 465015,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-973.8671aa4bb02e.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 974,
+   "file": "11-1481-974.eeed5c61cca8.pmtiles",
+   "bytes": 773131,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-974.eeed5c61cca8.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 975,
+   "file": "11-1481-975.343a21767ea2.pmtiles",
+   "bytes": 405395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-975.343a21767ea2.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 976,
+   "file": "11-1481-976.1013af9cce34.pmtiles",
+   "bytes": 1055490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-976.1013af9cce34.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 977,
+   "file": "11-1481-977.359d740a9b30.pmtiles",
+   "bytes": 447769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-977.359d740a9b30.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 978,
+   "file": "11-1481-978.c4b8abf543b7.pmtiles",
+   "bytes": 852928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-978.c4b8abf543b7.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 979,
+   "file": "11-1481-979.ad7ff01d2076.pmtiles",
+   "bytes": 534382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-979.ad7ff01d2076.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 980,
+   "file": "11-1481-980.2b7031c5850c.pmtiles",
+   "bytes": 340168,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1481-980.2b7031c5850c.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 973,
+   "file": "11-1482-973.3a09e46e934f.pmtiles",
+   "bytes": 414161,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-973.3a09e46e934f.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 974,
+   "file": "11-1482-974.e994b803d533.pmtiles",
+   "bytes": 360798,
+   "tiles": 84,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-974.e994b803d533.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 975,
+   "file": "11-1482-975.3ab73b69c3af.pmtiles",
+   "bytes": 341928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-975.3ab73b69c3af.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 976,
+   "file": "11-1482-976.ff8851197469.pmtiles",
+   "bytes": 462610,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-976.ff8851197469.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 977,
+   "file": "11-1482-977.5b576ab4d913.pmtiles",
+   "bytes": 363315,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-977.5b576ab4d913.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 978,
+   "file": "11-1482-978.e18949a37874.pmtiles",
+   "bytes": 265710,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-978.e18949a37874.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 979,
+   "file": "11-1482-979.1b174bd63d9a.pmtiles",
+   "bytes": 358108,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-979.1b174bd63d9a.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 980,
+   "file": "11-1482-980.30f294f03741.pmtiles",
+   "bytes": 148787,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1482-980.30f294f03741.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 973,
+   "file": "11-1483-973.06309fc075cf.pmtiles",
+   "bytes": 244551,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-973.06309fc075cf.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 974,
+   "file": "11-1483-974.48e679f076ad.pmtiles",
+   "bytes": 158987,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-974.48e679f076ad.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 975,
+   "file": "11-1483-975.8a87b949f1eb.pmtiles",
+   "bytes": 361601,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-975.8a87b949f1eb.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 976,
+   "file": "11-1483-976.56e7c6381f31.pmtiles",
+   "bytes": 377571,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-976.56e7c6381f31.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 977,
+   "file": "11-1483-977.bdcb68e953a2.pmtiles",
+   "bytes": 171847,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-977.bdcb68e953a2.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 978,
+   "file": "11-1483-978.e7ddc114780b.pmtiles",
+   "bytes": 295597,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-978.e7ddc114780b.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 979,
+   "file": "11-1483-979.3824a56386b3.pmtiles",
+   "bytes": 223390,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-979.3824a56386b3.pmtiles"
+  },
+  {
+   "x": 1483,
+   "y": 980,
+   "file": "11-1483-980.b0418932eaf2.pmtiles",
+   "bytes": 79766,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1483-980.b0418932eaf2.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 973,
+   "file": "11-1484-973.f4eccfaa701a.pmtiles",
+   "bytes": 267348,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-973.f4eccfaa701a.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 974,
+   "file": "11-1484-974.310c6ed26bec.pmtiles",
+   "bytes": 253906,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-974.310c6ed26bec.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 975,
+   "file": "11-1484-975.9c803ae941f9.pmtiles",
+   "bytes": 88280,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-975.9c803ae941f9.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 976,
+   "file": "11-1484-976.9e11afbf9e53.pmtiles",
+   "bytes": 149006,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-976.9e11afbf9e53.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 977,
+   "file": "11-1484-977.54207eb0b3d1.pmtiles",
+   "bytes": 281921,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-977.54207eb0b3d1.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 978,
+   "file": "11-1484-978.5e3b09a71931.pmtiles",
+   "bytes": 405226,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-978.5e3b09a71931.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 979,
+   "file": "11-1484-979.ae7017c73a16.pmtiles",
+   "bytes": 160383,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-979.ae7017c73a16.pmtiles"
+  },
+  {
+   "x": 1484,
+   "y": 980,
+   "file": "11-1484-980.14642325af99.pmtiles",
+   "bytes": 59224,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1484-980.14642325af99.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 973,
+   "file": "11-1485-973.9e6e462f65cf.pmtiles",
+   "bytes": 163926,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-973.9e6e462f65cf.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 974,
+   "file": "11-1485-974.66091c35bacc.pmtiles",
+   "bytes": 354895,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-974.66091c35bacc.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 975,
+   "file": "11-1485-975.fbf2eb727f55.pmtiles",
+   "bytes": 504505,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-975.fbf2eb727f55.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 976,
+   "file": "11-1485-976.c90bd8ed788c.pmtiles",
+   "bytes": 139712,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-976.c90bd8ed788c.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 977,
+   "file": "11-1485-977.5becf2e66597.pmtiles",
+   "bytes": 167324,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-977.5becf2e66597.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 978,
+   "file": "11-1485-978.1d016a93f9b1.pmtiles",
+   "bytes": 251476,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-978.1d016a93f9b1.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 979,
+   "file": "11-1485-979.8a891481ae05.pmtiles",
+   "bytes": 382242,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-979.8a891481ae05.pmtiles"
+  },
+  {
+   "x": 1485,
+   "y": 980,
+   "file": "11-1485-980.a1986fe71ceb.pmtiles",
+   "bytes": 85334,
+   "tiles": 35,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1485-980.a1986fe71ceb.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 974,
+   "file": "11-1486-974.d01e8df7a696.pmtiles",
+   "bytes": 138582,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-974.d01e8df7a696.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 975,
+   "file": "11-1486-975.a5d66bb8c536.pmtiles",
+   "bytes": 519418,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-975.a5d66bb8c536.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 976,
+   "file": "11-1486-976.a92205ec01e5.pmtiles",
+   "bytes": 316286,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-976.a92205ec01e5.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 977,
+   "file": "11-1486-977.a39ebcd123fc.pmtiles",
+   "bytes": 136077,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-977.a39ebcd123fc.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 978,
+   "file": "11-1486-978.9572fccf11f8.pmtiles",
+   "bytes": 284874,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-978.9572fccf11f8.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 979,
+   "file": "11-1486-979.d064ab09664b.pmtiles",
+   "bytes": 144840,
+   "tiles": 77,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-979.d064ab09664b.pmtiles"
+  },
+  {
+   "x": 1486,
+   "y": 980,
+   "file": "11-1486-980.f5d53fed77d9.pmtiles",
+   "bytes": 42766,
+   "tiles": 32,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-central-2026-11-08/11-1486-980.f5d53fed77d9.pmtiles"
+  }
+ ]
+}

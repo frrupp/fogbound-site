@@ -1,0 +1,405 @@
+{
+ "format": "fogbound-map",
+ "version": 1,
+ "country": "lk-north-western",
+ "source": "lk.pmtiles",
+ "builtAt": "2026-11-08T13:05:00.254Z",
+ "publishedAt": "2026-11-08T13:05:15.144Z",
+ "host": "github",
+ "releases": [
+  "maps-lk-north-western-2026-11-08"
+ ],
+ "chunkZoom": 11,
+ "minZoom": 0,
+ "maxZoom": 14,
+ "bounds": [
+  79.69245,
+  7.25789,
+  80.57792,
+  8.56633
+ ],
+ "overview": {
+  "file": "overview.25be4d1fb939.pmtiles",
+  "bytes": 1036915,
+  "tiles": 39,
+  "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/overview.25be4d1fb939.pmtiles"
+ },
+ "chunks": [
+  {
+   "x": 1477,
+   "y": 975,
+   "file": "11-1477-975.73c172b648d9.pmtiles",
+   "bytes": 23513,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-975.73c172b648d9.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 976,
+   "file": "11-1477-976.70c6b15885b3.pmtiles",
+   "bytes": 69949,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-976.70c6b15885b3.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 977,
+   "file": "11-1477-977.799f29606223.pmtiles",
+   "bytes": 152630,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-977.799f29606223.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 978,
+   "file": "11-1477-978.14d061904400.pmtiles",
+   "bytes": 83342,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-978.14d061904400.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 979,
+   "file": "11-1477-979.ff1cc8f785c7.pmtiles",
+   "bytes": 93192,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-979.ff1cc8f785c7.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 980,
+   "file": "11-1477-980.1ef5d0ec902a.pmtiles",
+   "bytes": 210214,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-980.1ef5d0ec902a.pmtiles"
+  },
+  {
+   "x": 1477,
+   "y": 981,
+   "file": "11-1477-981.e9ce4c4732f3.pmtiles",
+   "bytes": 68414,
+   "tiles": 65,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1477-981.e9ce4c4732f3.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 975,
+   "file": "11-1478-975.aea6cbf0d5e2.pmtiles",
+   "bytes": 76245,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-975.aea6cbf0d5e2.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 976,
+   "file": "11-1478-976.89b29e415d66.pmtiles",
+   "bytes": 99468,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-976.89b29e415d66.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 977,
+   "file": "11-1478-977.59cf3dd54a4a.pmtiles",
+   "bytes": 270012,
+   "tiles": 81,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-977.59cf3dd54a4a.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 978,
+   "file": "11-1478-978.608bfc808ffc.pmtiles",
+   "bytes": 664114,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-978.608bfc808ffc.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 979,
+   "file": "11-1478-979.ebd945885f5a.pmtiles",
+   "bytes": 458915,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-979.ebd945885f5a.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 980,
+   "file": "11-1478-980.72bb5bfe3ebf.pmtiles",
+   "bytes": 816258,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-980.72bb5bfe3ebf.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 981,
+   "file": "11-1478-981.af810f4582de.pmtiles",
+   "bytes": 1027459,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-981.af810f4582de.pmtiles"
+  },
+  {
+   "x": 1478,
+   "y": 982,
+   "file": "11-1478-982.e8c0a2c36133.pmtiles",
+   "bytes": 984950,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1478-982.e8c0a2c36133.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 975,
+   "file": "11-1479-975.2eaee81851e5.pmtiles",
+   "bytes": 85530,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-975.2eaee81851e5.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 976,
+   "file": "11-1479-976.8378e561d327.pmtiles",
+   "bytes": 95009,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-976.8378e561d327.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 977,
+   "file": "11-1479-977.7ea9134efee7.pmtiles",
+   "bytes": 437952,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-977.7ea9134efee7.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 978,
+   "file": "11-1479-978.e192c51b7840.pmtiles",
+   "bytes": 601709,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-978.e192c51b7840.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 979,
+   "file": "11-1479-979.0b51bd01eae4.pmtiles",
+   "bytes": 733686,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-979.0b51bd01eae4.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 980,
+   "file": "11-1479-980.8ea551f532a0.pmtiles",
+   "bytes": 902221,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-980.8ea551f532a0.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 981,
+   "file": "11-1479-981.a7c00cb85fba.pmtiles",
+   "bytes": 924567,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-981.a7c00cb85fba.pmtiles"
+  },
+  {
+   "x": 1479,
+   "y": 982,
+   "file": "11-1479-982.592efc34739b.pmtiles",
+   "bytes": 510032,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1479-982.592efc34739b.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 975,
+   "file": "11-1480-975.3970ca6bd112.pmtiles",
+   "bytes": 167369,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-975.3970ca6bd112.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 976,
+   "file": "11-1480-976.cefef4a7aad7.pmtiles",
+   "bytes": 219990,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-976.cefef4a7aad7.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 977,
+   "file": "11-1480-977.891c1184fa5a.pmtiles",
+   "bytes": 646822,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-977.891c1184fa5a.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 978,
+   "file": "11-1480-978.53c7f576f2d1.pmtiles",
+   "bytes": 1742127,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-978.53c7f576f2d1.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 979,
+   "file": "11-1480-979.b0845f4cab07.pmtiles",
+   "bytes": 840283,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-979.b0845f4cab07.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 980,
+   "file": "11-1480-980.28a103750c95.pmtiles",
+   "bytes": 1005300,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-980.28a103750c95.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 981,
+   "file": "11-1480-981.de6015625f36.pmtiles",
+   "bytes": 946894,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-981.de6015625f36.pmtiles"
+  },
+  {
+   "x": 1480,
+   "y": 982,
+   "file": "11-1480-982.69057d27136d.pmtiles",
+   "bytes": 624897,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1480-982.69057d27136d.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 975,
+   "file": "11-1481-975.343a21767ea2.pmtiles",
+   "bytes": 405395,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-975.343a21767ea2.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 976,
+   "file": "11-1481-976.1013af9cce34.pmtiles",
+   "bytes": 1055490,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-976.1013af9cce34.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 977,
+   "file": "11-1481-977.359d740a9b30.pmtiles",
+   "bytes": 447769,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-977.359d740a9b30.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 978,
+   "file": "11-1481-978.c4b8abf543b7.pmtiles",
+   "bytes": 852928,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-978.c4b8abf543b7.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 979,
+   "file": "11-1481-979.ad7ff01d2076.pmtiles",
+   "bytes": 534382,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-979.ad7ff01d2076.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 980,
+   "file": "11-1481-980.c3fcb4182a59.pmtiles",
+   "bytes": 774535,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-980.c3fcb4182a59.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 981,
+   "file": "11-1481-981.c33d7cb94029.pmtiles",
+   "bytes": 732796,
+   "tiles": 85,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-981.c33d7cb94029.pmtiles"
+  },
+  {
+   "x": 1481,
+   "y": 982,
+   "file": "11-1481-982.4f633c5edf4b.pmtiles",
+   "bytes": 337677,
+   "tiles": 57,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1481-982.4f633c5edf4b.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 975,
+   "file": "11-1482-975.858a84913618.pmtiles",
+   "bytes": 211852,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-975.858a84913618.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 976,
+   "file": "11-1482-976.50674510288a.pmtiles",
+   "bytes": 225322,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-976.50674510288a.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 977,
+   "file": "11-1482-977.136b488a7db0.pmtiles",
+   "bytes": 219702,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-977.136b488a7db0.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 978,
+   "file": "11-1482-978.1610f2210aa9.pmtiles",
+   "bytes": 137438,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-978.1610f2210aa9.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 979,
+   "file": "11-1482-979.c07b22c0d28c.pmtiles",
+   "bytes": 173649,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-979.c07b22c0d28c.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 980,
+   "file": "11-1482-980.f3bfa61731a9.pmtiles",
+   "bytes": 144497,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-980.f3bfa61731a9.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 981,
+   "file": "11-1482-981.ca9044256529.pmtiles",
+   "bytes": 249304,
+   "tiles": 43,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-981.ca9044256529.pmtiles"
+  },
+  {
+   "x": 1482,
+   "y": 982,
+   "file": "11-1482-982.f9295dc6c625.pmtiles",
+   "bytes": 357202,
+   "tiles": 29,
+   "url": "https://github.com/frrupp/fogbound-maps/releases/download/maps-lk-north-western-2026-11-08/11-1482-982.f9295dc6c625.pmtiles"
+  }
+ ]
+}
