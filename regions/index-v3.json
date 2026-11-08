@@ -29,6 +29,7 @@
     "it": "https://frrupp.github.io/fogbound-site/regions/outlines/it.json",
     "je": "https://frrupp.github.io/fogbound-site/regions/outlines/je.json",
     "li": "https://frrupp.github.io/fogbound-site/regions/outlines/li.json",
+    "lk": "https://frrupp.github.io/fogbound-site/regions/outlines/lk.json",
     "lt": "https://frrupp.github.io/fogbound-site/regions/outlines/lt.json",
     "lu": "https://frrupp.github.io/fogbound-site/regions/outlines/lu.json",
     "lv": "https://frrupp.github.io/fogbound-site/regions/outlines/lv.json",
@@ -2359,6 +2360,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/gb-county-durham.json"
     },
     {
+      "id": "lk-western",
+      "name": "Western Province",
+      "builtAt": "2026-11-08T12:24:16.666Z",
+      "bounds": [
+        79.81694,
+        6.32486,
+        80.38127,
+        7.33053
+      ],
+      "neighbourhoods": 864,
+      "features": 189,
+      "bytes": 581713,
+      "wire": 140239,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-western.json"
+    },
+    {
       "id": "nl-flevoland",
       "name": "Flevoland",
       "builtAt": "2026-10-17T12:24:42.066Z",
@@ -3269,6 +3286,22 @@
       "bytes": 432556,
       "wire": 121363,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/ee-jarva.json"
+    },
+    {
+      "id": "lk-central",
+      "name": "Central Province",
+      "builtAt": "2026-11-08T12:25:11.746Z",
+      "bounds": [
+        80.4219,
+        6.75122,
+        81.01653,
+        8.01235
+      ],
+      "neighbourhoods": 1186,
+      "features": 219,
+      "bytes": 851005,
+      "wire": 214173,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-central.json"
     },
     {
       "id": "ee-ida-viru",
@@ -4327,6 +4360,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/nl-noord-holland.json"
     },
     {
+      "id": "lk-sabaragamuwa",
+      "name": "Sabaragamuwa Province",
+      "builtAt": "2026-11-08T12:37:50.397Z",
+      "bounds": [
+        80.14537,
+        6.22795,
+        80.95322,
+        7.39661
+      ],
+      "neighbourhoods": 807,
+      "features": 88,
+      "bytes": 690735,
+      "wire": 170684,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-sabaragamuwa.json"
+    },
+    {
       "id": "ro-ialomita",
       "name": "Ialomița",
       "builtAt": "2026-10-17T12:24:57.953Z",
@@ -5207,6 +5256,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/nl-noord-brabant.json"
     },
     {
+      "id": "lk-southern",
+      "name": "Southern Province",
+      "builtAt": "2026-11-08T12:24:49.740Z",
+      "bounds": [
+        79.98626,
+        5.91868,
+        81.70751,
+        6.57801
+      ],
+      "neighbourhoods": 538,
+      "features": 829,
+      "bytes": 1122809,
+      "wire": 275180,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-southern.json"
+    },
+    {
       "id": "us-delaware",
       "name": "Delaware",
       "builtAt": "2026-10-17T12:25:14.880Z",
@@ -5287,6 +5352,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/fr-gers.json"
     },
     {
+      "id": "lk-uva",
+      "name": "Uva Province",
+      "builtAt": "2026-11-08T12:31:48.447Z",
+      "bounds": [
+        80.77594,
+        6.29647,
+        81.63715,
+        7.62496
+      ],
+      "neighbourhoods": 882,
+      "features": 510,
+      "bytes": 1431614,
+      "wire": 392026,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-uva.json"
+    },
+    {
       "id": "fr-tarn",
       "name": "Tarn",
       "builtAt": "2026-10-17T12:24:26.026Z",
@@ -5365,6 +5446,22 @@
       "bytes": 735108,
       "wire": 211795,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/vn-thai-nguyen.json"
+    },
+    {
+      "id": "lk-north-western",
+      "name": "North Western Province",
+      "builtAt": "2026-11-08T12:25:21.080Z",
+      "bounds": [
+        79.69245,
+        7.25789,
+        80.57792,
+        8.56633
+      ],
+      "neighbourhoods": 549,
+      "features": 1273,
+      "bytes": 1159743,
+      "wire": 262071,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-north-western.json"
     },
     {
       "id": "fr-seine-et-marne",
@@ -7799,6 +7896,22 @@
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/ie-galway.json"
     },
     {
+      "id": "lk-north-central",
+      "name": "North Central Province",
+      "builtAt": "2026-11-08T12:26:56.926Z",
+      "bounds": [
+        79.9523,
+        7.65124,
+        81.34327,
+        8.92022
+      ],
+      "neighbourhoods": 309,
+      "features": 299,
+      "bytes": 733426,
+      "wire": 180975,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-north-central.json"
+    },
+    {
       "id": "sk-banskobystricky",
       "name": "Banskobystrický kraj",
       "builtAt": "2026-10-17T12:25:03.863Z",
@@ -7989,6 +8102,22 @@
       "bytes": 841372,
       "wire": 232858,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/vn-lai-chau.json"
+    },
+    {
+      "id": "lk-northern",
+      "name": "Northern Province",
+      "builtAt": "2026-11-08T12:27:09.361Z",
+      "bounds": [
+        79.52199,
+        8.52442,
+        80.96453,
+        9.83586
+      ],
+      "neighbourhoods": 678,
+      "features": 718,
+      "bytes": 1015187,
+      "wire": 249566,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-northern.json"
     },
     {
       "id": "ie-donegal",
@@ -9125,6 +9254,22 @@
       "bytes": 1004395,
       "wire": 231657,
       "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/pe-moquegua.json"
+    },
+    {
+      "id": "lk-eastern",
+      "name": "Eastern Province",
+      "builtAt": "2026-11-08T12:32:42.139Z",
+      "bounds": [
+        80.75358,
+        6.51109,
+        81.87898,
+        8.99378
+      ],
+      "neighbourhoods": 223,
+      "features": 606,
+      "bytes": 1256406,
+      "wire": 364008,
+      "url": "https://github.com/frrupp/fogbound-packs/releases/download/packs-2026-10-17/lk-eastern.json"
     },
     {
       "id": "es-leon",
